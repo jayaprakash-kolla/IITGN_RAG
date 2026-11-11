@@ -1,0 +1,40 @@
+Title: IIT Gandhinagar | Mahesh Kumar Tiwari
+Source: https://iitgn.ac.in/srs/civil/pd-mahesh
+
+# Mahesh Kumar Tiwari
+
+- Senior Research Staff
+Mahesh Kumar Tiwari
+
+## Mahesh Kumar Tiwari
+
+Post-Doctoral Fellow, Civil Engineering
+
+- BE: CSIT, Durg, Chhattisgarh, 2006
+- MTech: IIT Roorkee, Uttarakhand, 2009
+- PhD: IIT Roorkee, Uttarakhand, 2022
+
+Email: mahesh.t -AT- iitgn.ac.in
+
+Website :  https://scholar.google.com/citations?user=pmfDgg4AAAAJ&hl=en&oi=ao
+
+Work experience
+
+• Post-Doctoral Fellow, Indian Institute of Technology Gandhinagar, Gujarat (January 2022 - Present)
+
+• Senior Research Fellow, Indian Institute of Technology Roorkee, Uttarakhand, India (December 2016 – March 2019)
+
+Selected Publications
+
+- Tiwari, M.K., Gupta, A., Kumar, R., Sharma, P.K., 2021.  Experimental Investigation on Diesel Fire Toxicity in a Compartment Under Different Pool Locations. Fire Technology 57 (5), pp. 2205-2233. https://doi.org/10.1007/s10694-021-01110-4.
+- Tiwari, M.K., Gupta, A., Kumar, R., Sharma, P.K., 2021. Experimental investigation on burning characteristics of diesel pool fires in naturally ventilated compartment. Fire and Materials  46 (4), pp. 694-708. https://doi.org/10.1002/fam.3016.
+- Chaudhary, A., Tiwari, M.K., Gupta, A., and Kumar, S., 2022.  Effect of ventilation on fire growth in diesel fueled compartment fire. Experimental Heat Transfer 35 (6), pp. 737-757. https://doi.org/10.1080/08916152.2021.1946210.
+- Chaudhary, A., Tiwari, M.K., Gupta, A., and Kumar, S., 2021. Experimental study on burning behavior of crude karanja oil pool fire.  Heat Transfer Research 52 (14), pp. 25-45, 2021. https://doi.org/10.1615/HeatTransRes.2021038692.
+- Tiwari, M.K., Gupta, A., Kumar, R., Sharma, P.K., 2021. Effects of elevated pool fire in a naturally ventilated compartment. Journal of Thermal Analysis and Calorimetry, 146 (1), pp. 341-353. https://doi.org/10.1007/s10973-020-09954-8.
+
+- ● Compartment Fire
+- ● Building Façade Fire
+- ● Fire Dynamics Simulator
+- ● Hybrid Structural System
+- ● Combustion
+- ● Heat Transfer

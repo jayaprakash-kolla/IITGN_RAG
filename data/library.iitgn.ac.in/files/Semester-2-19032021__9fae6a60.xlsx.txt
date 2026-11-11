@@ -1,0 +1,165 @@
+#flags:
+
+## Sheet: List of CR-SL Books 2020
+Indian Institute of Technology Gandhinagar |  |  |  |  |  |  |  |  |  |  |
+LIBRARY |  |  |  |  |  |  |  |  |  |  |
+Suggested Text and Reference Books |  |  |  |  |  |  |  |  |  |  |
+As on 03.05.2021 |  |  |  |  |  |  |  |  |  |  |
+Sr. No. | Name of Faculty | Course | Title | Author | Publisher | Print ISBN | Call No. | Acc. No. | Lending Policy | Status |
+1 | V N Prabhakar | Harappan Civilization | Indus Civilization: An Interdisciplinary Perspective | Agrawal, D. P. | Aryan Books International | 2007/ 9788173053108 | 934 AGR | 17874 | CR | Available |
+2 | V N Prabhakar | Harappan Civilization | South Asian Prehistory: A Multidisciplinary Study | Agrawal, D. P. | Aryan Books International | 2002/ 9788173052361 | 934.01 AGR | 17878 | CR | Available |
+3 | V N Prabhakar | Harappan Civilization | Ancient Cities of the Indus Valley Civilization | Kenoyer, Jonathan Mark | Oxford University Press | 9780195779400 |  |  |  |  | Out Of Print
+4 | V N Prabhakar | Harappan Civilization | Earliest Civilization of South Asia: Rise, Maturity and Decline | Lal, B. B. | Aryan Books International | 1997/ 9788173051074 | 954 LAL | 14941 | CR | Available |
+5 | V N Prabhakar | Harappan Civilization | Sarasvati flows on: the continuity of Indian culture | Lal, B. B. | Aryan Books International | 2002/ 9788173052026 | 934 LAL | 14670 | CR | Available |
+6 | V N Prabhakar | Harappan Civilization | Archaeological Approaches to Technology | Miller, Heather Margaret-Louise | Academic Press | 9781598744743 | 930.1028 MIL | 30005 | CR | Available |
+7 | V N Prabhakar | Harappan Civilization | Archaeology of Measurement: Comprehending, Heaven, Earth and Time in Ancient Societies | Morley, Iain | Cambridge University Press | 2010/ 9780521135887 | 690.0901 MOR | 17647 | CR | Available |
+8 | V N Prabhakar | Harappan Civilization | Deciphering the Indus Script | Parpola, Asko | Cambridge University Press | 1994/ 9780521795661 | 491.1 PAR | 11519 | CR | Available |
+9 | V N Prabhakar | Harappan Civilization | Ancient cities of the Indus | Possehl, G.L. | Vikas Publishing House | 0890890935 |  |  |  | Orderd |
+10 | V N Prabhakar | Harappan Civilization | Indus age : the beginnings | Possehl, G.L. | Oxford and IBH Publishing | 0812234170 |  |  |  | Orderd |
+11 | V N Prabhakar | Harappan Civilization | Indus Age–The Writing | Possehl, G.L. | Oxford and IBH Publications |  |  |  |  |  | Out Of Print
+12 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 17045 | CR | Available |
+13 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 1493 | CR | Available |
+14 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 1494 | CR | Available |
+15 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 1495 | CR | Available |
+16 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 1496 | CR | Available |
+17 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 1497 | CR | Available |
+18 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 1498 | SL | Available |
+19 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 1499 | SL | Available |
+20 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 1500 | SL | Available |
+21 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 1501 | SL | Available |
+22 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 1502 | SL | Available |
+23 | Kaustubh Rane | ES 101. Students ~ 200 | Engineering Drawing | Bhatt, N. D. | Charotar Publishing House | 49th ed./ 2008/ 9788185594583 | 604.24 BHA | 17044 | SL | Available |
+24 | Kaustubh Rane | CL 352. Students ~ 30 | Mass transfer operations | Treybal, Robert Ewald. | McGraw- Hill Book Company | 3rd ed./1980/ 9780070666153 | 660.28423 TRE | 8971 | CR | Available |
+25 | Kaustubh Rane | CL 352. Students ~ 30 | Mass transfer operations | Treybal, Robert Ewald. | McGraw- Hill Book Company | 3rd ed./1980/ 9780070666153 | 660.28423 TRE | 8972 | CR | Available |
+26 | Kaustubh Rane | CL 352. Students ~ 30 | Mass transfer operations | Treybal, Robert Ewald. | McGraw- Hill Book Company | 3rd ed./1980/ 9780070666153 | 660.28423 TRE | 1845 | SL | Available |
+27 | Kaustubh Rane | CL 352. Students ~ 30 | Mass transfer operations | Treybal, Robert Ewald. | McGraw- Hill Book Company | 3rd ed./1980/ 9780070666153 | 660.28423 TRE | 1847 | SL | Available |
+28 | Kaustubh Rane | CL 352. Students ~ 30 | Mass transfer operations | Treybal, Robert Ewald. | McGraw- Hill Book Company | 3rd ed./1980/ 9780070666153 | 660.28423 TRE | 1848 | SL | Available |
+29 | Kaustubh Rane | CL 352. Students ~ 31 | Unit Operations in Chemical Engineering | McCabe, Warren L. | McGraw- Hill Book Company | 7th ed./2005/ 9780071247108 | 660.2842 MCC | 1844 | CR | Available |
+30 | Kaustubh Rane | CL 352. Students ~ 31 | Unit Operations in Chemical Engineering | McCabe, Warren L. | McGraw- Hill Book Company | 7th ed./2005/ 9780071247108 | 660.2842 MCC | 1849 | CR | Available |
+31 | Kaustubh Rane | CL 352. Students ~ 31 | Unit Operations in Chemical Engineering | McCabe, Warren L. | McGraw- Hill Book Company | 7th ed./2005/ 9780071247108 | 660.2842 MCC | 1850 | CR | Available |
+32 | Kaustubh Rane | CL 352. Students ~ 31 | Unit Operations in Chemical Engineering | McCabe, Warren L. | McGraw- Hill Book Company | 7th ed./2005/ 9780071247108 | 660.2842 MCC | 1851 | SL | Available |
+33 | Kaustubh Rane | CL 352. Students ~ 31 | Unit Operations in Chemical Engineering | McCabe, Warren L. | McGraw- Hill Book Company | 7th ed./2005/ 9780071247108 | 660.2842 MCC | 1852 | SL | Available |
+34 | Kaustubh Rane | CL 352. Students ~ 31 | Unit Operations in Chemical Engineering | McCabe, Warren L. | McGraw- Hill Book Company | 7th ed./2005/ 9780071247108 | 660.2842 MCC | 1843 | SL | Available |
+35 | Nithin V George | EE 609. Advanced Signal Processing | Adaptive filtering: algorithms and practical implementation | Diniz, Paulo S. R. | Springer-Verlag | 5th ed./2020/ 9783030290566 | 621.3822 DIN | 28775 | CR | Issued |
+36 | Nithin V George | EE 609. Advanced Signal Processing | Adaptive Signal Processing | Widrow, Bernard. | Pearson Education | 1985/ 9788131705322 | 621.38043 WID | 19689 | SL | Available |
+37 | Nithin V George | EE 609. Advanced Signal Processing | Adaptive Signal Processing | Widrow, Bernard. | Pearson Education | 1985/ 9788131705322 | 621.38043 WID | 19690 | SL | Available |
+38 | Nithin V George | EE 609. Advanced Signal Processing | Adaptive Signal Processing | Widrow, Bernard. | Pearson Education | 1985/ 9788131705322 | 621.38043 WID | 5258 | CR | Available |
+39 | Nithin V George | EE 609. Advanced Signal Processing | Adaptive Filters | Sayed, Ali H. | Wiley-Interscience | 2008/ 9780470253885 | 621.3815324 SAY | 16180 | CR | Available |
+40 | Nithin V George | EE 609. Advanced Signal Processing | VLSI Digital Signal Processing Systems: Design and Implementation | Parhi, K. K. | Wiley India | 1999/ 9788126510986 | 621.395 PAR | 19684 | CR | Available |
+41 | Nithin V George | EE 609. Advanced Signal Processing | VLSI Digital Signal Processing Systems: Design and Implementation | Parhi, K. K. | Wiley India | 1999/ 9788126510986 | 621.395 PAR | 18703 | SL | Available |
+42 | Nithin V George | EE 609. Advanced Signal Processing | Real-Time Digital Signal Processing: Fundamentals, Implementations and Applications | Kuo, Sen M. | John Wiley & Sons | 3rd ed./2013/ 9781118414323 | 621.3822 KUO | 18488 | CR | Available |
+43 | Nithin V George | EE 609. Advanced Signal Processing | Adaptive Filter Theory | Haykin, Simon S. | Pearson Education | 4th ed./2002/ 9788131708699 | 621.3815324 HAY | 19762 | CR | Available |
+44 | Nithin V George | EE 609. Advanced Signal Processing | Adaptive Filter Theory | Haykin, Simon S. | Pearson Education | 4th ed./2002/ 9788131708699 | 621.3815324 HAY | 19763 | SL | Available |
+45 | Nithin V George | EE 609. Advanced Signal Processing | Adaptive Filter Theory | Haykin, Simon S. | Pearson Education | 4th ed./2002/ 9788131708699 | 621.3815324 HAY | 5257 | SL | Available |
+46 | Nithin V George | EE 609. Advanced Signal Processing | Adaptive filters: theory and applications | Farhang-Boroujeny, B. | John Wiley & Sons | 2nd ed./2013/ 9781119979548 | 621.3815324 FAR | 19688 | CR | Available |
+47 | Nithin V George | EE 609. Advanced Signal Processing | System identification: a frequency domain approach | Pintelon, Rik | Wiley IEEE Press | 2nd ed./2012/ 9780470640371 | 003.1 PIN | 19219 | CR | Available |
+48 | Nithin V George | EE 609. Advanced Signal Processing | Multirate digital signal processing | Rabiner, Lawrence R. | Prentice Hall of India | 1983/ 9780136051626 | 621.38043 RAB | 20376 | CR | Available |
+49 | Dilip Srinivas Sundaram | ME 691-IV. Special Topics in Mechanical Engineering: Advanced Computational Fluid Dynamics | Riemann Solvers and Numerical Methods for Fluid Dynamics | Toro, Eleuterio F. | Springer | 3rd ed./2009/ 9783540252023 | 532.05 TOR | 13955 | CR | Issued |
+50 | Dilip Srinivas Sundaram | ME 691-IV. Special Topics in Mechanical Engineering: Advanced Computational Fluid Dynamics | Computational Fluid Dynamics: The Basics with Applications | Anderson, John D. | Tata McGraw-Hill Publishing | 6th ed./2012/ 9781259025969 | 532.05015118 AND | 12471 | CR | Available |
+51 | Dilip Srinivas Sundaram | ME 691-IV. Special Topics in Mechanical Engineering: Advanced Computational Fluid Dynamics | Computational Fluid Dynamics: The Basics with Applications | Anderson, John D. | Tata McGraw-Hill Publishing | 6th ed./2012/ 9781259025969 | 532.05015118 AND | 12472 | CR | Available |
+52 | Dilip Srinivas Sundaram | ME 691-IV. Special Topics in Mechanical Engineering: Advanced Computational Fluid Dynamics | Computational Fluid Dynamics: The Basics with Applications | Anderson, John D. | Tata McGraw-Hill Publishing | 6th ed./2012/ 9781259025969 | 532.05015118 AND | 12473 | CR | Available |
+53 | Dilip Srinivas Sundaram | ME 691-IV. Special Topics in Mechanical Engineering: Advanced Computational Fluid Dynamics | Computational Fluid Dynamics: The Basics with Applications | Anderson, John D. | Tata McGraw-Hill Publishing | 6th ed./2012/ 9781259025969 | 532.05015118 AND | 12474 | SL | Available |
+54 | Dilip Srinivas Sundaram | ME 691-IV. Special Topics in Mechanical Engineering: Advanced Computational Fluid Dynamics | Computational Fluid Dynamics: The Basics with Applications | Anderson, John D. | Tata McGraw-Hill Publishing | 6th ed./2012/ 9781259025969 | 532.05015118 AND | 12475 | SL | Issued |
+55 | Dilip Srinivas Sundaram | ME 691-IV. Special Topics in Mechanical Engineering: Advanced Computational Fluid Dynamics | Computational Fluid Dynamics: The Basics with Applications | Anderson, John D. | Tata McGraw-Hill Publishing | 6th ed./2012/ 9781259025969 | 532.05015118 AND | 12476 | SL | Issued |
+56 | Amit Arora | MSE 302 - Corrosion and Degradation of Materials | Corrosion engineering | Fontana, Mars Guy. | Tata McGraw Hill
+Education | 3rd ed./1986/ 9780070607446 | 620.11223 FON | 5684 | CR | Issued |
+57 | Amit Arora | MSE 302 - Corrosion and Degradation of Materials | Corrosion science and technology | Talbot, David | CRC Press | 2nd ed./2007/ 9780849392481 | 620.11223 TAL | 23595 | CR | Available |
+58 | Amit Arora | MSE 302 - Corrosion and Degradation of Materials | Corrosion science and technology | Talbot, David | CRC Press | 3rd ed./2018/ 9781498752411 | 620.11223 TAL | 26404 | SL | Available |
+59 | Amit Arora | MSE 302 - Corrosion and Degradation of Materials | Corrosion: understanding the basics | Davis, J.R., (Ed.). | ASM International | 2000/ 9781615030682 | 620.11223 DAV | 23523 | CR | Available |
+60 | Amit Arora | MSE 302 - Corrosion and Degradation of Materials | Analytical methods in corrosion science and engineering | Marcus, Philippe, (Ed.). | CRC Press | 2006/ 9780824759520 | 620.11223 MAR | 23594 | CR | Available |
+61 | Amit Arora | MSE 302 - Corrosion and Degradation of Materials | Electrochemistry and corrosion science | Perez, Nestor | Springer | 2nd ed./2016/ 9783319248455 | 620.11223 PER | 24092 | CR | Available |
+62 | Amit Arora | MSE 302 - Corrosion and Degradation of Materials | Introduction to corrosion science | McCafferty, E | Springer | 2010/ 9781441904546 | 620.11223 MCC | 25445 | CR | Available |
+63 | Sudipta Basu | CH602: Chemistry of Natural Products | Organic chemistry | Clayden, Jonathan. | Oxford University Press | 2ndEd./2012/ 9780199270293 | 547 CLA | 14696 | CR | Available |
+64 | Sudipta Basu | CH602: Chemistry of Natural Products | Organic chemistry | Clayden, Jonathan. | Oxford University Press | 2ndEd./2012/ 9780199270293 | 547 CLA | 14459 | SL | Available |
+65 | Sudipta Basu | CH602: Chemistry of Natural Products | Organic Synthesis: The Disconnection Approach | Warren, Stuart. | John Wiley | 2nd Ed./2008/ 9780470712375 | 547.2 WAR | 845 | CR | Available |
+66 | Sudipta Basu | CH602: Chemistry of Natural Products | Logic of chemical synthesis | Corey, E. J. | Wiley India | 1995/ 9780471115946 | 547.2 COR | 27360 | CR | Available |
+67 | Sudipta Basu | CH602: Chemistry of Natural Products | Classics in total synthesis II: more targets, strategies, methods | Nicolaou, K. C. | Wiley | 1996/ 9783527306848 | 547.2 SOR | 27201 | CR | Available |
+68 | Sudipta Basu | CH602: Chemistry of Natural Products | Workbook for organic synthesis: the disconnection approach | Warren, Stuart. | Wiley | 2nd Ed./2009/ 9780470712269 | 547.2 WAR | 27202 | CR | Available |
+69 | Sudipta Basu | CH602: Chemistry of Natural Products | Classics in Total Synthesis II: More Targets, Strategies, Methods | Nicolaou, K. C. | Wiley | 3rd/2011/ 9783527306848 | 547.2 NIC | 27361 | CR | Available |
+70 | Sudipta Basu | CH602: Chemistry of Natural Products | Classics in Total Synthesis III: Further Targets, Strategies, Methods | Nicolaou, K. C. | Wiley | 2011/ 9783527329588 | 547.2 NIC | 27274 | CR | Available |
+71 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Principles of Linear Systems and Signals | Lathi, B.P. | Oxford University Press | 2nd/2009/ 9780198062271 | 621.3822 LAT | 27301 | CR | Issued |
+72 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Principles of Linear Systems and Signals | Lathi, B.P. | Oxford University Press | 2nd/2009/ 9780198062271 | 621.3822 LAT | 25469 | SL | Available |
+73 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Principles of Linear Systems and Signals | Lathi, B.P. | Oxford University Press | 2nd/2009/ 9780198062271 | 621.3822 LAT | 25468 | SL | Available |
+74 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 488 | CR | Available |
+75 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 6729 | CR | Available |
+76 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 477 | CR | Available |
+77 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 478 | CR | Available |
+78 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 479 | CR | Available |
+79 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 480 | CR | Available |
+80 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 481 | CR | Available |
+81 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 482 | CR | Available |
+82 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 483 | CR | Available |
+83 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 484 | SL | Available |
+84 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 485 | SL | Available |
+85 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 486 | SL | Available |
+86 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 487 | SL | Available |
+87 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 489 | SL | Available |
+88 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 490 | SL | Available |
+89 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 491 | SL | Available |
+90 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 492 | SL | Available |
+91 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 493 | SL | Available |
+92 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Network Analysis | Van, Valkenberg | Prentice-Hall of India | 3rd Ed./1974/ 9788120301566 | 621.31921 VAN | 475 | SL | Available |
+93 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Graph Theory with Applications to Engineering and Computer Science | Deo, Narsingh | PHI Learning | 1974/ 9788120301450 | 511.5 DEO | 6491 | CR | Available |
+94 | Himanshu Shekhar | ES216 - Signals, Systems, and Networks | Graph Theory with Applications to Engineering and Computer Science | Deo, Narsingh | PHI Learning | 1974/ 9788120301450 | 511.5 DEO | 3269 | SL | Available |
+95 | Bipul Saurabh | MA 629. Differential geometry | Principles of mathematical analysis | Rudin, Walter | McGraw-Hill International | 3rd Ed./1976 9780070856134 | 515 RUD | 632 | CR | Available |
+96 | Bipul Saurabh | MA 629. Differential geometry | Principles of mathematical analysis | Rudin, Walter | McGraw-Hill International | 3rd Ed./1976 9780070856134 | 515 RUD | 15135 | CR | Available |
+97 | Bipul Saurabh | MA 629. Differential geometry | Principles of mathematical analysis | Rudin, Walter | McGraw-Hill International | 3rd Ed./1976 9780070856134 | 515 RUD | 15136 | CR | Available |
+98 | Bipul Saurabh | MA 629. Differential geometry | Principles of mathematical analysis | Rudin, Walter | McGraw-Hill International | 3rd Ed./1976 9780070856134 | 515 RUD | 15137 | SL | Issued |
+99 | Bipul Saurabh | MA 629. Differential geometry | Principles of mathematical analysis | Rudin, Walter | McGraw-Hill International | 3rd Ed./1976 9780070856134 | 515 RUD | 1635 | SL | Available |
+100 | Bipul Saurabh | MA 629. Differential geometry | Principles of mathematical analysis | Rudin, Walter | McGraw-Hill International | 3rd Ed./1976 9780070856134 | 515 RUD | 27873 | SL | Available |
+101 | Bipul Saurabh | MA 629. Differential geometry | Elementary differential geometry | Pressley, Andrew | Springer-Verlag | 2001/ 9788181281432 | 516.36 PRE | 7557 | CR | Available |
+102 | Bipul Saurabh | MA 629. Differential geometry | Elementary differential geometry | Pressley, Andrew | Springer-Verlag | 2nd Ed./2012/ 9781848828902 | 516.36 PRE | 28772 | SL | Available |
+103 | Bipul Saurabh | MA 629. Differential geometry | Calculus on Manifolds | Spivak, Michael | Perseus Books | 1971/ 9780805390216 | 515 SPI | 19652 | CR | Available |
+104 | Nishaant Choksi | HS644. Introduction to Anthropology and Sociology | Culture & truth: the remaking of social analysis: with a new introduction | Rosaldo, Renato | Beacon Press | 1993/ 9780807046234 | 306.01 ROS | 20409 | CR | Available |
+105 | Nishaant Choksi | HS644. Introduction to Anthropology and Sociology | Savage mind | Levi-Strauss, Claude | University Of Chicago Press | 1996/ 9780226474847 | 155.81 LEV | 23249 | CR | Available |
+106 | Nishaant Choksi | HS644. Introduction to Anthropology and Sociology | Poverty and the Quest for Life: Spiritual and Material Striving in Rural India | Singh, Bhrigupati | Oxford University Press | 2015/ 9780199459667 | 305.56909544 SIN | 29184 | CR | Available |
+107 | Nishaant Choksi | HS644. Introduction to Anthropology and Sociology | Handbook of Indian Sociology | Das, Veena | Oxford University Press | 2004/ 9780195685107 | 301.0954 DAS | 1680 | CR | Available |
+108 | Nishaant Choksi | HS644. Introduction to Anthropology and Sociology | Doing sociology in India : genealogies, locations, and practices | Patel, Sujata | Oxford University Press | 2011/ 9780198070115 | 301.0954 PAT | 10321 | CR | Available |
+109 | Nishaant Choksi | HS644. Introduction to Anthropology and Sociology | Anthropology in the east: the founders of Indian sociology and anthropology | Uberoi, Patrica | Orient Blackswan Publishing | 2007/ 9788178243009 | 301.0954 ANT | 6979 | CR | Available |
+110 | Nishaant Choksi | HS644. Introduction to Anthropology and Sociology | Diginaka: subaltern politics and digital media in post-capitalist India | Monteiro, Anjali (Ed.) | Orient Blackswan | 2020/ 9789352879069 | 302.2310954 MON | 29223 | CR | Available |
+111 | Nishaant Choksi | HS644. Introduction to Anthropology and Sociology | Experience, caste, and the everyday social | Guru, Gopal | Oxford University Press | 2019/ 9780199496051 | 302.5 GUR | 28452 | CR | Issued |
+112 | Karla P. Mercado-Shekhar | BE 614. Biostatistics | Principles of biostatistics | Pagano, Marcello | Cengage Learning | 2nd ed./2000/ 9788131502112 | 570.15195 PAG | 25003 | CR | Available |
+113 | Karla P. Mercado-Shekhar | BE 614. Biostatistics | Principles of biostatistics (CD/DVD) | Pagano, Marcello | Cengage Learning | 2nd ed./2000/ 9788131502112 | 570.15195 PAG | C00942 | CR | Available |
+114 | Karla P. Mercado-Shekhar | BE 614. Biostatistics | Biostatistics: basic concepts and methodology for the health sciences | Daniel, Wayne W. | Wiley | 10th ed./2014 9788126551897 | 570.15195 DAN | 25002 | CR | Available |
+115 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Multiple view geometry in computer vision | Hartley, Richard | Cambridge University Press | 2nd ed./2003/ 9780521540513 | 006.37 HAR | 26435 | CR | Available |
+116 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Multiple view geometry in computer vision | Hartley, Richard | Cambridge University Press | 2nd ed./2003/ 9780521540513 | 006.37 HAR | 19929 | SL | Available |
+117 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Multiple view geometry in computer vision | Hartley, Richard | Cambridge University Press | 2nd ed./2003/ 9780521540513 | 006.37 HAR | 14580 | SL | Available |
+118 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer vision: algorithms and applications | Szeliski, Richard | Springer | 2011/ 9781848829343 | 006.37 SZE | 22968 | SL | Available |
+119 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer vision: algorithms and applications | Szeliski, Richard | Springer | 2011/ 9781848829343 | 006.37 SZE | 14709 | SL | Available |
+120 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer vision: algorithms and applications | Szeliski, Richard | Springer | 2011/ 9781848829343 | 006.37 SZE | 19916 | CR | Available |
+121 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Robot vision | Horn, Berthold Klaus Paul | MIT Press | 1986/ 9780262081597 | 629.892 HOR | 26548 | CR | Available |
+122 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Robot vision | Horn, Berthold Klaus Paul | MIT Press | 1986/ 9780262081597 | 629.892 HOR | 19776 | SL | Available |
+123 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Robot vision | Horn, Berthold Klaus Paul | MIT Press | 1986/ 9780262081597 | 629.892 HOR | 14582 | SL | Available |
+124 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Feature Extraction & Image Processing for Computer Vision | Nixon, Mark S. | Oxford | 3rd ed./2012/ 9780123965493 | 006.37 NIX | 26433 | CR | Available |
+125 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Feature Extraction & Image Processing for Computer Vision | Nixon, Mark S. | Oxford | 3rd ed./2012/ 9780123965493 | 006.37 NIX | 19659 | SL | Available |
+126 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Feature Extraction & Image Processing for Computer Vision | Nixon, Mark S. | Oxford | 3rd ed./2012/ 9780123965493 | 006.37 NIX | 16166 | SL | Available |
+127 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer and Machine Vision: Theory, Algorithms, Practicalities | Davies, E. R. | Elsevier | 4th ed./2012/ 9780123869081 | 006.37 DAV | 16708 | CR | Available |
+128 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer vision : a modern approach | Forsyth, David A. | PHI Learning | 2009/ 9788120323728 | 006.37 FOR | 16303 | CR | Available |
+129 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer vision : a modern approach | Forsyth, David A. | PHI Learning | 2009/ 9788120323728 | 006.37 FOR | 6249 | SL | Available |
+130 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer vision : a modern approach | Forsyth, David A. | PHI Learning | 2nd ed./2012/ 9788120350601 | 006.37 FOR | 20651 | CR | Available |
+131 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer vision : a modern approach | Forsyth, David A. | Pearson | 2nd ed./2011/ 9789332550117 | 006.37 FOR | 26429 | SL | Available |
+132 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer vision : a modern approach | Forsyth, David A. | Pearson | 2nd ed./2011/ 9789332550117 | 006.37 FOR | 26430 | SL | Available |
+133 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Concise computer vision: an introduction into theory and algorithms | Klette, Reinhard | Springer-Verlag | 2014/ 9781447163190 | 006.37 KLE | 26266 | CR | Available |
+134 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Concise computer vision: an introduction into theory and algorithms | Klette, Reinhard | Springer-Verlag | 2014/ 9781447163190 | 006.37 KLE | 20721 | SL | Available |
+135 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Concise computer vision: an introduction into theory and algorithms | Klette, Reinhard | Springer-Verlag | 2014/ 9781447163190 | 006.37 KLE | 17674 | SL | Available |
+136 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Deep learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence | Krohn, Jon;
+Bassens, Aglaé and
+Beyleveld, Grant | Pearson | 2020/ 9780135116692 | 006.3 KRO | 30006 | CR | Available |
+137 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Deep learning | Goodfellow, Ian | MIT Press | 2016/ 9780262035613 | 006.3​1 GOO | 25140 | CR | Available |
+138 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Deep learning | Goodfellow, Ian | MIT Press | 2016/ 9780262035613 | 006.3​1 GOO | 24535 | SL | Available |
+139 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Vision: A Computational Investigation into the Human Representation and Processing of Visual Information | Marr, David | MIT Press | 2010/ 9780262514620 | 612.84 MAR | 13672 | CR | Available |
+140 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Image Processing, Analysis, and Machine Vision | Sonka, Milan | Centage learning | 4th ed./2014/ 9781133593690 | 621.367 SON | 19854 | CR | Available |
+141 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Image Processing, Analysis, and Machine Vision | Sonka, Milan | Centage learning | 3rd ed./2015/ 9788131518830 | 621.367 SON | 20156 | SL | Available |
+142 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Introductory Techniques for 3-D Computer Vision | Trucco and Verri, Alessandro | Prentice Hall | 1998/ 9780132611084 | 006.37 TRU | 25425 | CR | Available |
+143 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer Vision: Models, Learning, and Inference | Prince, Simon J. D. | Cambridge University Press | 2012/ 9781107011793 | 006.37 PRI | 20237 | CR | Available |
+144 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer Vision: Models, Learning, and Inference | Prince, Simon J. D. | Cambridge University Press | 2012/ 9781107011793 | 006.37 PRI | 15010 | SL | Available |
+145 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer vision: a reference guide | Ikeuchi, Katsushi | Springer | 2014/ 9780387307718 | 006.37 IKE | 19017 | CR | Available |
+146 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Computer vision: a reference guide | Ikeuchi, Katsushi | Springer | 2014/ 9780387307718 | 006.37 IKE | 19018 | SL | Available |
+147 | Shanmuganathan Raman | EE 645. 3D Computer Vision course | Dictionary of computer vision and image processing | Fisher, R B. | Wiley India | 2nd ed./2005/ 9781119941866 | 006.3703 FIS | 18094 | CR | Available |
+148 | Atul Bhargav | ES 632 Energy Systems | Sustainable energy : choosing among options Jefferson W. Tester | Tester, Jefferson W. | PHI Learning | 2005/9788120329034 | 333.794 TES | 8909 | CR | Available |
+149 | Atul Bhargav | ES 632 Energy Systems | Sustainable energy : choosing among options Jefferson W. Tester | Tester, Jefferson W. | PHI Learning | 2005/9788120329034 | 333.794 TES | 8910 | CR | Available |
+150 | Atul Bhargav | ES 632 Energy Systems | Sustainable energy : choosing among options Jefferson W. Tester | Tester, Jefferson W. | PHI Learning | 2005/9788120329034 | 333.794 TES | 8908 | SL | Available |
+151 | Atul Bhargav | ES 632 Energy Systems | Sustainable energy : choosing among options Jefferson W. Tester | Tester, Jefferson W. | PHI Learning | 2005/9788120329034 | 333.794 TES | 3366 | SL | Available |
+152 | Atul Bhargav | ES 632 Energy Systems | Sustainable energy : choosing among options Jefferson W. Tester | Tester, Jefferson W. | PHI Learning | 2005/9788120329034 | 333.794 TES | 6897 | SL | Available |
+153 | Atul Bhargav | ES 632 Energy Systems | Energy systems engineering: evaluation and implementation. | Vanek, Francis M. | McGraw Hill | 2012/ 9780071787789 | 621.4 VAN | 22855 | SL | Available |
+154 | Anirban Dasgupta | CS328  Computer Science | Foundations of data science | Blum, Avrim. | Cambridge University Press | 2020/9781108485067 | 004 BLU | 29986 | CR | Available |

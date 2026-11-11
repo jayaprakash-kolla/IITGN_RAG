@@ -1,0 +1,54 @@
+Title: IIT Gandhinagar | A. V. Anilkumar
+Source: https://iitgn.ac.in/faculty/guestprof/a-v-anilkumar
+
+# A. V. Anilkumar
+
+-  Guest Professors
+A. V. Anilkumar
+
+## A. V. Anilkumar
+
+Guest Professor, Mechanical Engineering
+Professor, Vanderbilt School of Engineering
+
+- BTech: Mechanical Engineering Indian Institute of Technology Madras
+- MS: Mechanical Engineering California Institute of Technology
+- PhD: Mechanical Engineering and Aeronautics California Institute of Technology
+
+ Website :  https://engineering.vanderbilt.edu/bio/a-v-anilkumar
+
+A.V. Anilkumar, R.N. Grugel, J. Bhowmick, and T.G. Wang, ‘Suppression of thermocapillary oscillations in sodium nitrate half-zones by high-frequency end-wall vibrations’, Journal of Crystal Growth, 276, 2005, pp. 194-203.
+
+Q. Deng, A.V. Anilkumar, and T.G. Wang, ‘Role of viscosity and surface tension in bubble entrapment during liquid drop impact onto surface of a deep liquid pool’, J. Fluid Mech. (2007), vol. 578, pp. 119-138.
+
+M.C. Cox, A.V. Anilkumar, R.N. Grugel and C.P. Lee, ‘Effect of step-wise change in processing pressure on isolated pore growth during controlled directional solidification in small channels’, Journal of Crystal Growth 311 (2009), pp. 327-336.
+
+Q. Deng, A.V. Anilkumar, and T.G. Wang, ‘The phenomenon of bubble entrapment during capsule formation’, Journal of Colloid and Interface Science 333 (2009), 523-532.
+
+Chun P. Lee, Amrutur V. Anilkumar, and Richard N. Grugel, ‘Dynamics of gas evacuation from a honey comb structure having common wall perforations’, Journal of Spacecrafts and Rockets 47 (2010), 649-658.
+
+Richard N. Grugel, Lucien N. Brush, and Amrutur V. Anilkumar, ‘Disruption of an aligned dendritic network by bubbles during re-melting in a microgravity environment’, Microgravity Sci. Technol. 24 (2012), 93-101.
+
+C.P. Lee, A.V. Anilkumar, M.C. Cox, C.B. Lioi, and R.N. Grugel, ‘Evolution of elongated pores at the melt-solid interface during controlled directional solidification’, Acta Materialia 61 (2013), 3752-3757.
+
+A. S. Westover, J. W. Tian, S. Bernath, L. Oakes, R. Edwards, F. N. Shabab, S. Chatterjee, A. V. Anilkumar, and C. L. Pint, ‘A Multifunctional Load-Bearing Solid-State Supercapacitor’, Nano Lett., 2014, 14 (6), 3197–3202.
+
+Awards
+
+- Abe Zarem Educator Award: American Institute of Aeronautics & Astronautics, AIAA (2017)
+- Faculty Advisor of the Year: American Institute of Aeronautics & Astronautics, AIAA (2016)
+- NASA Educational Engagement Awards: for best inspiring the study of rocketry and STEM-related topics among younger students and their community (2014, 2012, and 2017)
+- Associate Fellow: American Institute of Aeronautics and Astronautics, AIAA (2012)
+- Faculty Advisor for Orbital-ATK NASA Student Launch National Championship Teams for the years 2013, 2014, 2015, 2016, and National Space Club second place team of 2017
+- AIAA Special Awards: for designing and executing a comprehensive STEM educational outreach program involving Aerospace Engineering, for sustained and outstanding achievement in Aerospace Engineering, for outstanding mentoring to Aerospace Club (AIAA TN Section; 2014, 2012, 2010)
+- Paladin Capital Marketplace Innovation Award (@ EPA’s American Innovation for Sustainability Forum in Washington, DC), for the design of the bio-hybrid solar cells, 2012 EPA P3 Award (People, Prosperity and the Planet): for the quality of the design and bio-hybrid solar cell
+- AIAA Faculty Booster Award for steadfast commitment and outstanding leadership as the faculty advisor of the Vanderbilt University AIAA Chapter (AIAA TN Section, 2008)
+- Vanderbilt University School of Engineering Award for Excellence in Teaching (2007)
+- NASA Public Service Group Achievement Awards for outstanding support to the Space Shuttle mission operations (1996), and for outstanding support to the PFMI investigation aboard the International Space Station (2002)
+- NASA certificates in recognition of outstanding contribution to success of USML-1(STS –50; 1992) & USML-2 (STS-73; 1995) Space Shuttle Missions and the PFMI investigations aboard the International Space Station (ISS; 2004)
+- Member Alpha Sigma Mu: International Professional Honor Society for Materials Science and Engineering
+
+- ● Aero thermodynamics, rocket propulsion and flight dynamics
+- ● Energy conversion wind, thermoelectrics, biodiesel
+- ● Materials processing float-zones, directional solidification
+- ● Drop & bubble dynamics, encapsulation

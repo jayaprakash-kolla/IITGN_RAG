@@ -1,0 +1,130 @@
+Title: Awards & fellowships
+Source: https://cse.iitgn.ac.in/awards
+
+16 September 2026
+
+### Arjun Badola and Dikshit Hegde win QIF India 2026
+
+Arjun Badola and Dikshit Hegde have won the Qualcomm Innovation Fellowship India 2026 for their proposal on transparent 3D Gaussian splatting, advised by Prof. Shanmuganathan Raman.
+
+Arjun Badola (QIF 2026 winner); Dikshit Hegde (QIF 2026 winner); Prof. Shanmuganathan Raman (Faculty adviser)
+
+3 August 2026
+
+### Ayush Shrivastava and Rohit Narayanan selected for TCS PhD fellowships
+
+Ayush Shrivastava and Rohit Narayanan have been selected for the TCS Research Scholar Program, Cycle 20, with fellowships effective 1 July 2026.
+
+Ayush Shrivastava (advised by Prof. Nipun Batra and Prof. Mayank Goel); Rohit Narayanan (advised by Prof. Balagopal Komarath)
+
+Jun 2026
+
+### Three CSE PhD students receive IndiaAI PhD Fellowships
+
+Naren Kumar, Manvendra Singh, and Dikshit Hegde have been awarded IndiaAI PhD Fellowships.
+
+Naren Kumar (advised by Prof. Mayank Singh); Manvendra Singh (advised by Prof. Anirban Dasgupta); Dikshit Hegde (advised by Prof. Shanmuganathan Raman)
+Department announcement
+
+2026
+
+### MCP-Diag recognized at COMSNETS 2026 Graduate Forum
+
+The paper on deterministic, protocol-driven AI-native network diagnostics was named Graduate Forum Best Paper Runner-up.
+
+Devansh Lodha, Mohit Panchal, and Prof. Sameer G. Kulkarni
+COMSNETS awards
+
+## 2025
+
+2025-26
+
+### Himanshu Beniwal receives Microsoft Research India PhD Award and Fulbright-Nehru Fellowship
+
+The CSE/NLP doctoral student is recognized for work with the Lingo Research Group under Prof. Mayank Singh.
+
+Himanshu Beniwal and Prof. Mayank Singh
+IITGN Connections v18i1
+
+Dec 2025
+
+### IITGN wins Inter-IIT gold in Algorithmic Optimisation
+
+The team won gold at Inter-IIT Tech Meet 14.0 for solving computational problems under strict time and memory constraints.
+
+Anurag Singh and Nishchay Bhutoria
+IITGN Technical Council
+
+Dec 2025
+
+### IITGN wins Inter-IIT silver in Game Development Challenge
+
+The team won silver at Inter-IIT Tech Meet 14.0 for a polished playable game with strong mechanics, level design, and coding architecture.
+
+Divyansh Sharma, Hem Tilva, Nilay, and Shubham
+IITGN Technical Council
+
+Dec 2025
+
+### IITGN wins Inter-IIT silver in ISRO Geospatial Challenge
+
+The team won silver at Inter-IIT Tech Meet 14.0 for applying machine learning and remote-sensing methods to satellite imagery and geospatial data.
+
+Umang, Karan, Laksh, Romit, Shreyans, and Viraj
+IITGN Technical Council
+
+2025
+
+### Gayatri Priyadarsini Kancherla receives Google PhD Fellowship
+
+The fellowship recognizes doctoral work in privacy, safety, and security.
+
+Gayatri Priyadarsini Kancherla
+Google Research recipients
+
+2025
+
+### Dharaben R. Thakkar receives ACM India Doctoral Dissertation Award
+
+The ACM India dissertation award recognizes work advised by Prof. Bireswar Das.
+
+Dr. Dharaben R. Thakkar and Prof. Bireswar Das
+ACM India
+
+2025
+
+### Prof. Nipun Batra receives ACM SIGEnergy recognitions
+
+Prof. Batra was recognized with ACM SIGEnergy Rising Star and e-Energy Test-of-Time awards.
+
+Prof. Nipun Batra
+ACM SIGEnergy
+
+## 2024
+
+Dec 2024
+
+### IITGN wins Inter-IIT silver in Adobe Research challenge
+
+The team won silver at Inter-IIT Tech Meet 13.0 for a system to distinguish AI-generated images from real images.
+
+Shreyans Jain, Birudugadda Srivibhav, Chandrabhan Patel, Viraj Vekaria, Karan Gandhi, and Rugved Patil
+IITGN Technical Council
+
+Dec 2024
+
+### IITGN wins Inter-IIT bronze in Insolation Energy challenge
+
+The team won bronze at Inter-IIT Tech Meet 13.0 for predictive modeling of solar waste and scalable recycling solutions.
+
+Parth Deshpande, Siddharth Shah, Nakul S Raj, and Manasi Kulkarni
+IITGN Technical Council
+
+2024
+
+### Anirban Dasgupta receives ACM STOC 10-year Test of Time Award
+
+The STOC 2024 award recognizes the lasting impact of the paper “A Sparse Johnson-Lindenstrauss Transform,” co-authored with Ravi Kumar and Tamás Sarlós.
+
+Anirban Dasgupta, Ravi Kumar, and Tamás Sarlós
+Cornell Bowers CIS

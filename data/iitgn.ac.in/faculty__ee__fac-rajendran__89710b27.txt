@@ -1,0 +1,33 @@
+Title: IIT Gandhinagar | S. Rajendran
+Source: https://iitgn.ac.in/faculty/ee/fac-rajendran
+
+# S. Rajendran
+
+-  Electrical Engineering
+S. Rajendran
+
+## S. Rajendran
+
+Associate Teaching Professor, Electrical Engineering
+
+- BE (Hons): PSG College of Technology, Coimbatore, 1982
+- MTech: IIT Madras, 1988
+
+Email: rajendran -AT- iitgn.ac.in
+
+Office:  AB 13/326B
+VOIP:  2005 -- joining_soon: no
+
+- Associate Teaching Professor, Indian Institute of Technology, Gandhinagar, (May 2011 - present)
+- Associate Professor, Hindustan Institute of Technology and Science (Hindustan University) (Jun 2010 - April 2011)
+- Head-Manufacturing, Perlos Electronics and Telecommunications Components (India) Pvt. Ltd., Sriperumbudur-TN (Apr 2009 - Apr 2010 )
+- Head - Manufacturing Packaging Technology Division, Bosch Ltd., Goa (Nov 2002 - Mar 2009)
+- Assistant Professor and HOD in-charge, EEE department, Bannari Amman Institute of Technology, Sathyamangalam - TN (Apr 2001 - Nov 2002 )
+- Service Manager, Machine Tool Division of Voltas Ltd. (Dec 1989 - Apr 2001)
+- Engineer - Design / Engineer - Maintenance, Hindustan Aeronautics Ltd., Koraput Orissa.(Jun 1984 - Nov 1989)
+- Graduate Engineer Trainee, Sundaram Clayton Ltd., Chennai 600050 (Oct 1982 - Jun 1984)
+
+- ● High speed packaging machines - VFFS and HFFS technologies
+- ● Liquid packing machines - high speed applications
+- ● CO2 laser - metal processing applications
+- ● Control strategies for robots moving a very flexible structure

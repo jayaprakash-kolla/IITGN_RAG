@@ -1,0 +1,270 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 24, 2026
+(Added during 08th– 12th June 2026)
+Available for the issue from 20th June 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Quantum information theory, 2nd ed.
+Author: Wilde, Mark M
+Publisher: Cambridge: Cambridge University Press, 2017
+Call No.: 003.54 WIL
+Acc. No.: 037075
+
+Title: Advanced computer arithmetic design
+Author: Flynn, Michael J.
+Publisher: New York: John Wiley & Sons Inc., 2001
+Call No.: 004.01513 FLY
+Acc. No.: 037089
+
+Title: LLM engineer’s handbook: master the art of engineering large language
+models from concept to production
+Author: Iusztin, Paul
+Publisher: Birmingham: Packt Publishing, 2024
+Call No.: 006.35 LUS
+Acc. No.: 037078
+
+PSYCHOLOGY
+Title: I've been thinking
+Author: Dennett, Daniel C.
+Publisher: New York: W.W. Norton & Company, 2025
+Call No.: 109.22 DEN
+Acc. No.: 037077
+
+ETHICS
+Title: Ethics of artificial intelligence in defence
+Author: Taddeo, Mariarosaria
+Publisher: New York: Oxford University Press, 2024
+Call No.: 172.42 TAD
+Acc. No.: 037070
+
+SOCIAL SCIENCE
+Title: Population bomb
+Author: Ehrlich, Paul R.
+Publisher: Dunstable: Better of Books, 2024
+Call No.: 304.66 HER
+Acc. No.: 037090
+
+Title: Dalit studies: key terms and concepts
+Author: Mandal, Mahitosh
+Publisher: New York: Routledge, 2026
+Call No.: 305.568 MAN
+Acc. No.: 037080
+
+ECONOMICS
+Title: Tesla files: a whistleblower, a leak, a fight for truth - the inside story of
+Musk's empire
+Author: Iwersen, Sönke
+Publisher: London: Penguin Michael Joseph, 2025
+Call No.: 338.76292 IWE
+Acc. No.: 037068
+
+SOCIAL SCIENCE
+Title: Evolution of environmental jurisprudence in India: the national green tribunal
+Author: Nath, Raghuveer
+Publisher: Cambridge: Cambridge University Press, 2024
+Call No.: 344.54046 NAT
+Acc. No.: 037081
+
+Title: Uncommon ground: rethinking the human place in nature
+Author: Cronon, William (Ed.)
+Publisher: New York: W. W. Norton & Company, 1996
+Call No.: 363.7 CRO
+Acc. No.: 037072
+
+Title: Late Victorian holocausts: El Niño famines and the making of the third world
+Author: Davis, Mike
+Publisher: London: Verso Books, 2017
+Call No.: 363.8091724 DAV
+Acc. No.: 037084
+
+EDUCATION
+Title: Phonics handbook
+Author: Nicholson, Tom
+Publisher: London: Whurr Publishers, 2006
+Call No.: 372.465 NIC
+Acc. No.: 037087
+
+MATHEMATICS
+Title: Integral geometry of tensor fields
+Author: Sharafutdinov, V. A.
+Publisher: Netherlands: De Gruyter, 1994
+Call No.: 516.362 SHA
+Acc. No.: 037097
+
+FOREIGN LANGUAGE
+Title: Workbook for the Japanese language proficiency test: quick mastery of N5
+grammar
+Author: Kuwahara, Rina
+Publisher: Japan: J Research Publishing, 2016
+Call No.: 516.362 SHA
+Acc. No.: 037098
+
+PHYSICS
+Title: Beginning of infinity: explanations that transform the world
+Author: Deutsch, David
+Publisher: London: Penguin Books, 2012
+Call No.: 530.01 DEU
+Acc. No.: 037085
+
+Title: Exploring the quantum: atoms, cavities, and photons
+Author: Haroche, Serge
+Publisher: Oxford: Oxford University Press, 2013
+Call No.: 530.12 HAR
+Acc. No.: 037074
+
+Title: Beyond the quantum: a quest for the origin and hidden meaning of quantum
+mechanics
+Author: Valentini, Antony
+Publisher: Oxford: Oxford University Press, 2025
+Call No.: 530.12 VAL
+Acc. No.: 037091
+Title: Decoherence and quantum Darwinism: from quantum foundations to classical
+reality
+Author: Zurek, Wojciech Hubert
+Publisher: Cambridge: Cambridge University Press, 2025
+Call No.: 530.12 ZUR
+Acc. No.: 037088
+
+Title: Solid state physics: an introduction, 3rd ed.
+Author: Hofmann, Philip
+Publisher: Weinheim: Wiley-VCH, 2022
+Call No.: 530.41 HOF
+Acc. No.: 037093
+
+Title: Condensed matter physics, 2nd ed.
+Author: Marder, Michael P.
+Publisher: New Jersey: Wiley, 2010
+Call No.: 530.41 MAR
+Acc. No.: 037092
+
+CHEMISTRY
+Title: Elements of physical chemistry, 7th ed.
+Author: Atkins, RPeter
+Publisher: Oxford: Oxford University Press, 2017
+Call No.: 541 ATK
+Acc. No.: 037096
+
+GEOLOGY
+Title: Introduction to the rock-forming minerals, 3rd ed.
+Author: Deer, W. A.
+Publisher: London: The Mineralogical Society, 2013
+Call No.: 549 DEE
+Acc. No.: 037095
+
+Title: Principles of stable isotope geochemistry
+Author: Sharp, Zachary
+Publisher: New Jersey: Pearson Printer Hall, 2007
+Call No.: 551.9 SHA
+Acc. No.: 037099
+
+HUMAN PHYSIOLOGY
+Title: Longevity code: science, strategies and secrets to living better and longer
+Author: Pathai, Sophia
+Publisher: Gurugram: Ebury Press, 2026
+Call No.: 612.68 PAT
+Acc. No.: 037086
+
+APPLIED PHYSICS
+Title: Software defined radio: theory and practice
+Author: Reyland, John M.
+Publisher: Boston: Artech House, 2023
+Call No.: 621.384 REY
+Acc. No.: 037071
+
+HYDRAULIC ENGINEERING
+Title: Turbulence in open channels and river flows
+Author: Sanjou, Michio
+Publisher: Boca Raton: CRC Press, 2023
+Call No.: 627.12 SAN
+Acc. No.: 037076
+
+CHEMICAL ENGINEERING
+Title: Process analytical technology: spectroscopic tools and implementation
+strategies for the chemical and pharmaceutical industries, 2nd ed.
+Author: Bakeev, Katherine A. (Ed.)
+Publisher: West Sussex: Wiley, 2010
+Call No.: 660.2 BAK
+Acc. No.: 037094
+
+SPORTS
+Title: Test cricket: a history
+Author: Wigmore, Tim
+Publisher: London: Quercus, 2025
+Call No.: 796.35865 WIG
+Acc. No.: 037082
+
+LITERATURE
+Title: Bride in the hills
+Author: Kuvempu
+Publisher: Gurugram: Penguin Random House India, 2024
+Call No.: 894.81436 KUV
+Acc. No.: 037069
+
+HISTORY - JAPAN
+Title: Japanese mind: understanding contemporary Japanese culture
+Author: Davies, Roger J. (Ed.)
+Publisher: Tokyo: Tuttle Publishing, 2002
+Call No.: 952.033 DAV
+Acc. No.: 037079
+
+CHILDREN COLLECTION
+Title: Green Maowusu
+Author: Xuefei, Duan
+Publisher: New York: Clavis Publishing, 2025
+Call No.: 333.720951 XUE
+Acc. No.: CC2282
+Title: Our plastic problem: a call for global solutions
+Author: Durnford, Megan
+Publisher: Custer: Orca Book Publishers, 2025
+Call No.: 363.7288 DUR
+Acc. No.: CC2288
+Title: Measuring up: how Oliver Smoot became a standard unit of measurement
+Author: Lacika, Jenny
+Publisher: Massachusetts: MIT Kids Press, 2025
+Call No.: 516.15 LAC
+Acc. No.: CC2286
+Title: Oppenheimer and the atomic bomb: young readers edition of American
+Prometheus- the triumph and tragedy of J. Robert Oppenheimer
+Author: Bird, Kai
+Publisher: New York: G.P. Putnam's Sons, 2025
+Call No.: 530.092 BIR
+Acc. No.: CC2283
+Title: Little lobster: a lobster tale
+Author: Hotz, W. Thomas
+Publisher: Cambridge, Massachusetts: Star Bright Books, 2025
+Call No.: 595.384 HOT
+Acc. No.: CC2289
+Title: Firefly song: Lynn Frierson Faust and the great smoky mountain discovery
+Author: Paeff, Colleen
+Publisher: New York: Margaret K. McElderry Books, 2025
+Call No.: 595.87 PAE
+Acc. No.: CC2284
+Title: Who owns the Moon?: and other conundrums of exploring and using space
+Author: Levinson, Cynthia
+Publisher: Atlanta: Margaret Quinlin Books, 2025
+Call No.: 629.454 LEV
+Acc. No.: CC2285
+
+Title: This is who I am
+Author: Sirdeshpande, Rashmi
+Publisher: London: Anderson Press, 2025
+Call No.: 823.92 SIR
+Acc. No.: CC2281
+
+Title: Spark: Jim West's electrifying adventures in creating the microphone
+Author: Ramirez, Ainissa
+Publisher: Massachusetts: MIT Kids Press, 2025
+Call No.: 920 RAM
+Acc. No.: CC2287

@@ -1,0 +1,22 @@
+#flags:
+
+Off-campus access to e-Resources
+User Guide
+
+Visit URL
+https://idp.iitgn.ac.in/
+
+Select the Resource which you want to access
+For example ACM Digital Library
+
+Give the IITGN SSO credentials and Click Sign In
+
+Please select the desired option and accept
+
+Note: If you are using your personal system, you may choose “Do not ask again.” However, if you are accessing the
+resource from a public or shared system, please select “Ask me again at next login” for security purposes.
+
+Begin Your Exploration
+
+Note: During a session, you only need to log in to one resource at a time. Access to other
+resources will be automatically enabled through cookies for the duration of the session.

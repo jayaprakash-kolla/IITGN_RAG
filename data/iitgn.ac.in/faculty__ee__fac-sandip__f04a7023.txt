@@ -1,0 +1,43 @@
+Title: IIT Gandhinagar | Sandip Lashkare
+Source: https://iitgn.ac.in/faculty/ee/fac-sandip
+
+# Sandip Lashkare
+
+-  Electrical Engineering
+Sandip Lashkare
+
+## Sandip Lashkare
+
+Assistant Professor, Electrical Engineering
+
+- BTech: Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET), Nanded, 2011
+- MTech: Indian Institute of Technology Bombay, 2013
+- PhD: Indian Institute of Technology Bombay, 2020
+
+Email: sandip.lashkare -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/iitgn.ac.in/edrl/home
+
+Office:  AB 13/324 C
+VOIP:  2614
+
+S. Lashkare, V. Saraswat, and U. Ganguly ”Understanding the Region of Resistance Change in the Pr0.7Ca0.3MnO3 RRAM” 2 (7), 2026-2031 ACS Applied Electronics Materials, 2020. Impact Factor (2022): 4.49
+
+S. Lashkare, S. Chouhan, T. Chavan, A. Bhat, P. Kumbhare and U. Ganguly ”PCMO based RRAM for Integrate and Fire Neuron in Spiking Neural Networks” vol. 39, no. 4, pp. 484-487, IEEE Electron Devices Letters, 2018, Impact Factor (2020): 4.22
+
+S. Lashkare, P. Kumbhare, V. Saraswat, and U. Ganguly ”Transient Joule Heating based Oscillator Neuron for Neuromorphic Computing” vol. 39, no. 9, pp. 1437-1440, IEEE Electron Devices Letters, 2018, Impact Factor (2020): 4.22
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Jul 2023 to Present)
+- Senior Research Scientist, Indian Institute of Technology Bombay (Jul 2022 to Jun 2023)
+- Postdoctoral Researcher, Helmholtz-Zentrum Berlin Germany (Jan 2022 - Jun 2022)
+- Analog Design Engineer, Texas Instruments Bangalore India (Sep 2020 - Jan 2022)
+- Silicon Validation Engineer, SilabTech Pvt Ltd Bangalore India (Aug 2014 – Dec 2015)
+- ASIC Engineer, LSI Pvt Ltd Bangalore India (July 2013-Jun 2014)
+
+- ● Semiconductor device physics
+- ● Emerging non-volatile memories (Resistive, Ferroelectric)
+- ● System integration of non-volatile memories with CMOS technology
+- ● Hardware platforms for Neuromorphic computing
+- ● ESD & Surge protection devices
+
+Complete List of Publications

@@ -1,0 +1,42 @@
+Title: IIT Gandhinagar | Ashutosh Srivastava
+Source: https://iitgn.ac.in/faculty/bioe/fac-ashutosh
+
+# Ashutosh Srivastava
+
+-  Biological Sciences and Engineering
+Ashutosh Srivastava
+
+## Ashutosh Srivastava
+
+Assistant Professor, Biological Sciences and Engineering
+
+- B.Tech(Hons): Amity University, 2009
+- PhD: CSIR Centre for Cellular and Molecular Biology, 2015
+
+Email: ashutosh.s -AT- iitgn.ac.in
+
+ Website :  https://research.iitgn.ac.in/compbio/
+
+Office:  AB 6/321
+VOIP:  2568
+
+Ashutosh Srivastava*, Varun Birari, Somdatta Sinha* (2020); Small conformational changes underlie evolution of resistance to NNRTI in HIV Reverse Transcriptase. Biophysical Journal 118, 10, 2489-2501. *Corresponding Author
+
+Jennifer Fribourgh*, Ashutosh Srivastava*, Colby Sandate* et al. (2020); Dynamics at the serine loop underlie differential affinity of cryptochromes for CLOCK:BMAL1 to control circadian timing; eLife; 9:e55275 (*Equal Contribution)
+
+Aarthi Putarjunan, Jim Ruble, Ashutosh Srivastava, et al. (2019); Bipartite anchoring of SCREAM enforces stomatal initiation by coupling MAP Kinases to SPEECHLESS, Nature Plants 5, 742–754.
+
+Tsuyoshi Oshima, Yoshimi Niwa, Keiko Kuwata, Ashutosh Srivastava, et al.(2019); Cell-based screen identifies a new potent and highly selective CK2 inhibitor for modulation of circadian rhythms and cancer cell growth; Science Advances, 5, 1, eaau9060
+
+Ashutosh Srivastava, Somdatta Sinha (2014); Thermostability of In Vitro Evolved Bacillus subtilis Lipase A: A Network and Dynamics Perspective. PLoS ONE 9(8): e102856.
+
+-  Assistant Professor,  Indian Institute of Technology, Gandhinagar (Dec 2020 to present)
+-  Postdoctoral Researcher,  Nagoya University/Institute of Transformative Biomolecules (Apr 2016 - Mar 2020)
+-  Postdoctoral Researcher,  Nagoya University/Dept. of Physics (Oct 2015 - Mar 2016)
+
+- ● Integrative modeling of macromolecular complexes.
+- ● Network analysis of protein structures.
+- ● Dynamics driven drug discovery.
+- ● Modeling and conformational analysis of disordered regions.
+
+Complete List of Publications

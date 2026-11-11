@@ -1,0 +1,44 @@
+Title: IIT Gandhinagar | Ayan Chanda
+Source: https://iitgn.ac.in/srs/maths/pd-ayan
+
+# Ayan Chanda
+
+- Senior Research Staff
+Ayan Chanda
+
+## Ayan Chanda
+
+Post-Doctoral Fellow, Mathematics
+
+- B.Sc. : ABN Seal College, University of North Bengal, 2013
+- M.Sc. : Indian Institute of Technology Guwahati, 2015
+- Ph.D. : Indian Institute of Technology Guwahati, 2021
+
+Email: ayan.c -AT- iitgn.ac.in
+
+Work experience
+
+- Post-Doctoral Fellow : Indian Institute of Technology, Gandhinagar (September 2021 to present)
+
+Selected Publications
+
+- Ayan Chanda and Swaroop Nandan Bora, “Different approaches in scattering of water waves by two submerged porous plates over an elastic sea-floor”, accepted for the publication in Geophysical & Astrophysical Fluid Dynamics, 2021. doi.org/10.1080/03091929.2022.2025792.
+- Ayan Chanda and Swaroop Nandan Bora, “Investigation of oblique flexural gravity wave scattering by two submerged thin vertical porous barriers with different porosities”, Journal of Engineering Mechanics, ASCE, Vol. 148, Issue 2 (February 2022). https://doi.org/10.1061/(ASCE)EM.1943-7889.0002071.
+- Ayan Chanda and Swaroop Nandan Bora, “Scattering of flexural gravity waves by a pair of submerged vertical porous barriers located above a porous sea-bed”, Journal of Offshore Mechanics and Arctic Engineering, ASME, February 2022; 144(1): 011201. https://doi.org/10.1115/1.4051475.
+- Ayan Chanda and Swaroop Nandan Bora, “Investigation of water wave scattering by an elastic sea-bed of varying depth in two superposed fluids covered by an ice-sheet”, Ocean Engineering, doi:10.1016/j.oceaneng.2020.108510, 221, 108510, online 21 January 2021 (18 pages).
+- Ayan Chanda and Swaroop Nandan Bora, “Effect of a porous sea-bed on water wave scattering by two thin vertical submerged porous plates”, European Journal of Mechanics - B / Fluids, 84, 250-261, 2020.
+- Ayan Chanda and Swaroop Nandan Bora, “Scattering of linear oblique water waves propagating by an elastic bottom undulation in a two-layer fluid”, ZAMP (Zeitschrift fur angewandte Mathematik und Physik), 71(4), 107, 2020.
+- Ayan Chanda and Swaroop Nandan Bora, “Propagation of oblique waves over a small undulating elastic bottom topography in a two-layer fluid flowing through a channel”, International Journal of Applied Mechanics, 12(2), 2050023, 2020.
+
+Awards
+
+- Awarded National Post-Doctoral Fellowship (NPDF) by the Science and Engineering Research Board (SERB) of India, 2021.
+- Awarded Jawaharlal Nehru Memorial award from Jawaharlal Nehru Memorial Fund, India for securing First class First in B.Sc. in Mathematics from University of North Bengal, India.
+- Awarded the University Gold Medal for the First position in First class in B.Sc. in Mathematics from University of North Bengal, India.
+- Awarded INSPIRE Scholarship, Department of Science and Technology, Govt. of India, 2010-2015.
+
+- ● Fluid dynamics
+- ● Water Wave Mechanics
+- ● Flow through Porous Media
+- ● Flexural Gravity Waves
+- ● Hydrodynamic stability of porous media.

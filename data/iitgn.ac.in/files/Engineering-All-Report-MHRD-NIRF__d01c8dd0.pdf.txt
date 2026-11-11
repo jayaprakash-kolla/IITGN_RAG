@@ -1,0 +1,4006 @@
+#flags:
+
+National Institutional Ranking Framework
+Ministry of Human Resource Development
+Government of India
+Welcome to Data Capturing System: ENGINEERING
+Submitted Institute Data for NIRF'2020'
+Institute Name: Indian Institute of Technology Gandhinagar [IR-E-U-0139]
+Sanctioned (Approved) Intake
+Academic Year
+
+2018-19
+
+2017-18
+
+2016-17
+
+2015-16
+
+2014-15
+
+2013-14
+
+UG [4 Years Program(s)]
+
+194
+
+180
+
+180
+
+150
+
+-
+
+-
+
+PG [2 Year Program(s)]
+
+190
+
+182
+
+-
+
+-
+
+-
+
+-
+
+Total Actual Student Strength (Program(s) Offered by Your Institution)
+(All programs
+of all years)
+
+No. of Male
+Students
+
+No. of Female
+Students
+
+Total Students
+
+Within State
+(Including male
+& female)
+
+Outside State
+(Including male
+& female)
+
+Outside
+Country
+(Including male
+& female)
+
+Economically
+Backward
+(Including male
+& female)
+
+Socially
+Challenged
+(SC+ST+OBC
+Including male
+& female)
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from the State
+and Central
+Government
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from Institution
+Funds
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from the Private
+Bodies
+
+No. of students
+who are not
+receiving full
+tuition fee
+reimbursement
+
+UG [4 Years
+Program(s)]
+
+622
+
+77
+
+699
+
+110
+
+589
+
+0
+
+38
+
+360
+
+183
+
+65
+
+0
+
+150
+
+PG [2 Year
+Program(s)]
+
+190
+
+63
+
+253
+
+31
+
+219
+
+3
+
+40
+
+79
+
+16
+
+0
+
+0
+
+103
+
+Placement & Higher Studies
+UG [4 Years Program(s)]: Placement & higher studies for previous 3 years
+Academic Year
+
+No. of first year
+students intake in the
+year
+
+No. of first year
+students admitted in
+the year
+
+Academic Year
+
+No. of students
+admitted through
+Lateral entry
+
+Academic Year
+
+No. of students
+graduating in
+minimum stipulated
+time
+
+2013-14
+
+140
+
+134
+
+2014-15
+
+0
+
+2016-17
+
+112
+
+2014-15
+
+150
+
+141
+
+2015-16
+
+0
+
+2017-18
+
+2015-16
+
+150
+
+139
+
+2016-17
+
+0
+
+2018-19
+
+No. of students
+placed
+
+Median salary of
+placed
+graduates(Amount in
+Rs.)
+
+No. of students
+selected for Higher
+Studies
+
+76
+
+715000(Seven Lakhs
+fifteen thousand)
+
+20
+
+102
+
+57
+
+700000(Seven Lakhs)
+
+32
+
+120
+
+58
+
+725000(Seven Lakhs
+Twenty Five Thousand
+)
+
+21
+
+Median salary of
+placed
+graduates(Amount in
+Rs.)
+
+No. of students
+selected for Higher
+Studies
+
+PG [2 Years Program(s)]: Placement & higher studies for previous 3 years
+Academic Year
+
+No. of first year
+students intake in the
+year
+
+No. of first year
+students admitted in
+the year
+
+Academic Year
+
+No. of students graduating in minimum
+stipulated time
+
+No. of students
+placed
+
+2015-16
+
+70
+
+57
+
+2016-17
+
+43
+
+27
+
+750000(Seven Lakhs
+Fifty Thousand)
+
+13
+
+2016-17
+
+160
+
+114
+
+2017-18
+
+85
+
+60
+
+635000(Six Lakhs
+Thirty Five Thousand)
+
+15
+
+2017-18
+
+182
+
+113
+
+2018-19
+
+98
+
+58
+
+730000(Seven Lakhs
+Thirty Thousand)
+
+18
+
+Ph.D Student Details
+Ph.D (Student pursuing doctoral program till 2017-18; Students admitted in the academic year 2018-19 should not be entered here.)
+Total Students
+Full Time
+
+196
+
+Part Time
+
+4
+No. of Ph.D students graduated (including Integrated Ph.D)
+2018-19
+
+2017-18
+
+2016-17
+
+Full Time
+
+15
+
+12
+
+7
+
+Part Time
+
+1
+
+0
+
+1
+
+Financial Resources: Utilised Amount for the Capital expenditure for previous 3 years
+Academic Year
+
+2018-19
+
+2017-18
+
+2016-17
+
+Utilised Amount
+
+Utilised Amount
+
+Utilised Amount
+
+Annual Capital Expenditure on Academic Activities and Resources (excluding expenditure on buildings)
+Library ( Books, Journals and e-Resources only)
+
+49262305 (Four crore ninety two lakh sixty two thousand three
+hundred and five )
+
+33499000 (Three crore thirty four lakh ninety nine thousand)
+
+30714000 (Three crore seven lakh and fourteen thousand)
+
+New Equipment and software for Laboratories
+
+297902000 (Twenty nine crore seventy nine lakh and two
+thousand)
+
+199039000 (Nineteen crore ninety lakhs and thirty nine
+thousand)
+
+108126000 (Ten crore eighty one lakhs and twenty six
+thousand)
+
+Engineering Workshops
+
+2929000 (Twenty nine lakhs and twenty nine thousand)
+
+3890000 (Thirty eight lakhs and ninety thousand)
+
+1936000 (Nineteen Lakhs and thirty six thousand)
+
+Other expenditure on creation of Capital Assets (For setting up
+classrooms, seminar hall, conference hall , library, Lab, Engg
+workshops excluding expenditure on Land and Building)
+
+12585000 (One crore twenty five lakh and eighty five thousand)
+
+9166000 (Ninety one lakhs and sixty six thousand)
+
+29433000 (Two crore ninety four lakhs and thirty three
+thousand )
+
+Financial Resources: Utilised Amount for the Operational expenditure for previous 3 years
+Academic Year
+
+2018-19
+
+2017-18
+
+2016-17
+
+Utilised Amount
+
+Utilised Amount
+
+Utilised Amount
+
+Annual Operational Expenditure
+Salaries (Teaching and Non Teaching staff)
+
+430678000 (Forty three crore six lakh and seventy eight
+thousand)
+
+420631000 (Forty two crore six lakh and thirty one thousand)
+
+303726000 (Thirty crore thirty seven lakh and twenty six
+thousand)
+
+Maintenance of Academic Infrastructure or consumables and
+other running expenditures(excluding maintenance of hostels
+and allied services,rent of the building, depreciation cost, etc)
+
+576810000 (Fifty seven crore sixty eight lakhs and ten
+thousand)
+
+504032000 (Fifty crore forty lakhs and thirty two thousand)
+
+355927000 (Thirty five crore fifty nine lakhs and twenty seven
+thousand)
+
+Seminars/Conferences/Workshops
+
+12660000 (One crore twenty six lakhs and sixty thousand)
+
+10200000 (One crore and two lakh)
+
+10859000 (One crore eight lakhs and fifty nine thousand)
+
+IPR
+Calendar year
+No. of Patents Published
+
+2018
+2
+
+2017
+5
+
+2016
+1
+
+No. of Patents Granted
+
+0
+
+0
+
+0
+
+Sponsored Research Details
+Financial Year
+
+2018-19
+
+2017-18
+
+2016-17
+
+Total no. of Sponsored Projects
+
+196
+
+156
+
+124
+
+Total no. of Funding Agencies
+
+42
+
+26
+
+30
+
+Total Amount Received (Amount in Rupees)
+
+315434481
+
+258889582
+
+160260942
+
+Amount Received in Words
+
+Thirty one crore fifty four lakhs thirty four thousand four
+hundred and eighty one rupees
+
+Twenty five crore eighty eight lakhs eighty nine thousand five
+hundred and eighty two rupees
+
+Sixteen crore two lakhs sixty thousand nine hundred and forty
+two rupees
+
+2017-18
+
+2016-17
+
+Consultancy Project Details
+Financial Year
+
+2018-19
+
+Total no. of Consultancy Projects
+
+62
+
+56
+
+41
+
+Total no. of Client Organizations
+
+57
+
+49
+
+36
+
+Total Amount Received (Amount in Rupees)
+
+72774406
+
+24064288
+
+35958420
+
+Amount Received in Words
+
+Seven crore twenty seven lakhs seventy four thousand four
+hundred and six rupees
+
+Two crore forty lakhs sixty four thousand two hundred and
+eighty eight rupees
+
+Three crore fifty nine lakhs fifty eight thousand four hundred
+and twenty rupees
+
+PCS Facilities: Facilities of physically challenged students
+1. Do your institution buildings have Lifts/Ramps?
+
+Yes, more than 80% of the buildings
+
+2. Do your institution have provision for walking aids, includingwheelchairs and transportation from one building to another for
+handicapped students?
+
+Yes
+
+3. Do your institution buildings have specially designed toilets for handicapped students?
+
+Yes, more than 80% of the buildings
+
+Awards Details
+1.How many faculty member of your institution have received highly reputed national/international awards/recognition from central
+government agencies in the previous academic year 2018-19
+Srno
+
+6
+
+Name of the Faculty
+
+Name of the Award
+
+Name of the Central
+government
+agency/international
+agencies from where
+award has been
+received
+
+Address of the
+Agency giving award
+
+Contact Email ID of
+the Agency
+
+Year of receiving
+award
+
+Email ID of the
+faculty
+
+Contact no. of the
+faculty
+
+Is it
+Fellowship?(Yes/No)
+
+1
+
+kabeer Jasuja
+
+Young Engineer Award
+
+Indian National
+Academy of
+Engineering INAE
+
+Gurugram, Haryana
+
+inaehq@inae.in
+
+2018
+
+kabeer@iitgn.ac.in
+
+7923952445
+
+No
+
+2
+
+Mayank Singh
+
+Early Career Research
+Award
+
+SERB DST
+
+NEW DELHI
+
+secretary.serb@nic.in
+
+2019
+
+singh.mayank@iitgn.ac
+.in
+
+7923952538
+
+No
+
+3
+
+Dhiraj Bhatia
+
+Ramanujan Fellowship
+
+Science and
+Engineering Research
+Board
+
+NEW DELHI
+
+secretary.serb@nic.in
+
+2019
+
+dhiraj.bhatia@iitgn.ac.i
+n
+
+7923952537
+
+Yes
+
+4
+
+Jaichander
+Swaminathan
+
+IDA Fellowship
+
+International
+Desalination
+Association
+
+P.O. Box 387,
+Topsfield, MA 01983,
+USA
+
+info@idadesal.org
+
+2019
+
+jaichander.s@iitgn.ac.i
+n
+
+7358091759
+
+Yes
+
+5
+
+Uttama Lahiri
+
+Hundred Most
+Dedicated Professors
+Award
+
+World Education
+Congress
+
+401-403, Prime Plaza
+Building, S.V Road,
+Above TBZ Jeweller,
+Near Asha Parekh
+Hospital, Santacruz,
+Mumbai
+
+secretariat@worldeduc
+ationcongress.com
+
+2019
+
+uttamalahiri@iitgn.ac.i
+n
+
+7874468228
+
+No
+
+6
+
+Vikrant Jain
+
+National Geoscience
+Award
+
+Ministry of Mines Govt
+of India
+
+New Delhi
+
+dirtech.mom@nic.in
+
+2018
+
+vjain@iitgn.ac.in
+
+7923952455
+
+No
+
+2.How many students of your institution have won international awards in the previous academic year 2018-19
+Srno
+
+34
+
+Name of the
+Student/Name of the
+Team
+
+Enrolment Number
+
+Name of the Award
+
+Name of International
+Institution/Organisati
+on from where the
+award has been
+received
+
+Address of the
+Agency giving award
+
+Contact Email ID of
+the Agency
+
+Year of receiving
+award
+
+Email ID of the
+faculty
+
+Contact no. of the
+faculty
+
+1
+
+Amit Reza
+
+14310028
+
+Top poster award
+
+The Inter University
+Centre for Astronomy
+and Astrophysics
+IUCAA
+
+IUCAA, PO Bag 4,
+Ganeshkhind, S. P.
+Pune University
+Campus, Pune 411007, India
+
+somak@iucaa.in
+
+2019
+
+amit.reza@iitgn.ac.in
+
+9537348433
+
+2
+
+Palash Jana
+
+13510008
+
+Best poster award
+
+Seventh Asian network
+for natural and
+unnatural materials
+Annum VII organized
+at Gujarat University
+
+Navrangpura,
+Ahmedabad, Gujarat
+380009
+
+7annum@gmail.com
+
+2019
+
+palash.jana@iitgn.ac.in
+
+8866504138
+
+3
+
+Dependu Dolui
+
+17310018
+
+Best poster award
+
+Seventh Asian network
+for natural and
+unnatural materials
+Annum VII organized
+at Gujarat University
+
+Navrangpura,
+Ahmedabad, Gujarat
+380009
+
+7annum@gmail.com
+
+2019
+
+dependu.dolui@iitgn.a
+c.in
+
+8160400644
+
+4
+
+Tanya Shukla
+
+16210125
+
+Berkner Travel
+Fellowship
+
+American Geophysical
+Union
+
+2000 Florida Ave., NW,
+Washington, DC 20009
+
+service@agu.org
+
+2018
+
+tanya.shukla@mtech2
+016.iitgn.ac.in
+
+9411305452
+
+5
+
+Tejas Mehta
+
+15110137
+
+earned laurels at the
+National Students
+Space Challenge
+organized by IIT
+Kharagpur
+
+IIT Kharagpur
+
+Kharagpur, West
+Bengal 721302
+
+director@iitkgp.ac.in
+
+2018
+
+tejas.mehta@iitgn.ac.i
+n
+
+9824475640
+
+6
+
+Manikanta Mandlem
+
+15110070
+
+earned laurels at the
+National Students
+Space Challenge
+organized by IIT
+Kharagpur
+
+IIT Kharagpur
+
+Kharagpur, West
+Bengal 721302
+
+director@iitkgp.ac.in
+
+2018
+
+mandlem.manikanta@i
+itgn.ac.in
+
+9676831639
+
+7
+
+Abhinav
+
+17110001
+
+earned laurels at the
+National Students
+Space Challenge
+organized by IIT
+Kharagpur
+
+IIT Kharagpur
+
+Kharagpur, West
+Bengal 721302
+
+director@iitkgp.ac.in
+
+2018
+
+abhinav.17110001@iit
+gn.ac.in
+
+9265329015
+
+8
+
+Karthik Karvaje
+
+16110072
+
+earned laurels at the
+National Students
+Space Challenge
+organized by IIT
+Kharagpur
+
+IIT Kharagpur
+
+Kharagpur, West
+Bengal 721302
+
+director@iitkgp.ac.in
+
+2018
+
+karthik.subramanya@ii
+tgn.ac.in
+
+9481428406
+
+9
+
+Rajendra Nagar
+
+14310015
+
+Graduate Student Day
+Award
+
+IISc Bangalore
+
+CV Raman Rd,
+Bengaluru, Karnataka
+560012
+
+registrar@iisc.ac.in
+
+2019
+
+rajendra.nagar@iitgn.a
+c.in
+
+8005745266
+
+10
+
+Avishek Kumar
+
+17210022
+
+Best poster award in
+the Polymer category
+
+International
+Conference on Soft
+Matter ICSM at MNIT
+Jaipur
+
+Jawahar Lal Nehru
+Marg, Jhalana Gram,
+Malviya Nagar, Jaipur,
+Rajasthan 302017
+
+icsm@smrsi.org
+
+2018
+
+avishek.kumar@iitgn.a
+c.in
+
+7903501681
+
+11
+
+Prajakta Jadhav
+
+13350004
+
+Young IGS Member
+Session Award
+
+International
+Conference on
+Geosynthetics held
+recently in Seoul South
+Korea
+
+IGS Secretariat 9225
+Bee Caves Rd Building
+B, Suite 206 Austin, TX
+78733 USA
+
+IGSsec@Geosynthetic
+sSociety.org
+
+2018
+
+prajakta.ramesh.jadha
+v@iitgn.ac.in
+
+7756061292
+
+12
+
+Neha Manav
+
+15310034
+
+Shastri Research
+Student Fellowship
+
+Ministry of Human
+Resource and
+Development MHRD
+Government of India
+SICI
+
+Shastri Bhawan New
+Delhi – 110001
+
+mos-mhrd@gov.in
+
+2018
+
+neha.manav@iitgn.ac.i
+n
+
+7433064200
+
+13
+
+Khili Khamesra
+
+16110077
+
+Third place in the
+Student Poster
+Competition
+
+American Institute of
+Chemical Engineers
+India Student
+Conference
+
+41 S, Vatika, Supreme
+Business Park
+Hiranandani Gardens,
+Powai Mumbai 400076
+India
+
+umesd@aiche.org
+
+2018
+
+khili.khamesra@iitgn.a
+c.in
+
+7600015589
+
+14
+
+Harsh Madhyan
+
+15110054
+
+Tencent Impact
+Challenge Award at
+the Harvard Program
+for Asian and
+International Relations
+
+HARVARD COLLEGE
+PROJECT FOR ASIAN
+AND
+INTERNATIONAL
+RELATIONS
+
+MAILBOX 247 SOCH
+59 SHEPARD
+STREET
+CAMBRIDGE, MA
+02138
+
+aconf-execs@hpair.org
+
+2018
+
+harsh.15110054@iitgn.
+ac.in
+
+9821325338
+
+15
+
+Chandan Kumar Jha
+
+15350004
+
+Outstanding Results
+Award for oral
+presentation
+
+Twenty Sixth Optical
+Fiber Sensors
+conference held
+recently at Lausanne
+Switzerland by The
+Optical Society
+
+2010 Massachusetts
+Ave, NW Washington,
+DC 20036 USA
+
+ofs26@epfl.ch
+
+2018
+
+chandan.kumar.jha@iit
+gn.ac.in
+
+7898392155
+
+16
+
+Chandan Kumar Jha
+
+15350004
+
+Winner Dare to Dream
+Innovation Contest
+
+DRDO Govt of India
+
+DRDO Bhawan, New
+Delhi, India 110004
+
+dare2dream@hqr.drdo
+.in
+
+2019
+
+chandan.kumar.jha@iit
+gn.ac.in
+
+7898392155
+
+17
+
+Renika Baruah
+
+12310014
+
+Best Poster Award
+
+Hydrogen Days Tenth
+International
+Conference on
+Hydrogen
+Technologies
+
+Husinec-Rez 130
+Husinec-Rez 250 68
+Czech Republic
+
+d.tien@hytep.cz
+
+2019
+
+baruah_renika@iitgn.a
+c.in
+
+9727584855
+
+18
+
+Joshna Gadhavi
+
+15310048
+
+Oral presentation
+award Third
+
+Inda Japan Bilateral
+Conference BICON
+Jaipur
+
+Biyani Institute of
+Technology, Jaipur,
+Rajasthan 303706
+
+director@biyanicollege
+s.org
+
+2018
+
+joshna.gadhavi@iitgn.
+ac.in
+
+9586535227
+
+19
+
+Swaroop Chakraborty
+
+16310002
+
+Best Oral Presentation
+Award
+
+Fifth International
+Conference on
+Nanomedicine and
+Tissue Engineering
+
+Mahatma Gandhi
+University , Kottayam,
+Kerala, India 686560
+
+registrar@mgu.ac.in
+
+2018
+
+swaroop.ch@iitgn.ac.in
+
+7574868669
+
+20
+
+Rahul Kumar
+
+15310055
+
+Outstanding Student
+Poster and PICO
+Award
+
+European Geophysical
+Union General
+Assembly
+
+EGU Executive Office,
+EGU - European
+Geosciences Union,
+Philippe Courtial,
+Kastenbauerstr. 2,
+81677 Munich,
+Germany
+
+egu2019@copernicus.
+org
+
+2019
+
+egu2019@copernicus.
+org
+
+8347767803
+
+21
+
+Harini G
+
+13210003
+
+AWSAR DST AWARD
+
+National Council for
+Science Technology
+Communication
+Division Department of
+Science and
+Technology India
+
+National Council for
+Science & Technology
+Communication
+Division, Department
+of Science &
+Technology,
+Technology Bhavan,
+New Mehrauli Road,
+New Delhi-110 016.
+
+pamposh@nic.in
+
+2019
+
+gunda.harini@iitgn.ac.i
+n
+
+9925907401
+
+22
+
+Harini G
+
+13210003
+
+GRADUATE
+STUDENT TRAVEL
+AWARD
+
+THE PARTICLE
+TECHNOLOGY
+FORUM OF AIChE
+
+AICHE ANNUAL
+MEETING 2019,
+ORLANDO, FLORIDA,
+USA 32819 United
+States
+
+ccps@aiche.org
+
+2019
+
+gunda.harini@iitgn.ac.i
+n
+
+9925907401
+
+23
+
+Abhinav Singh
+
+17110001
+
+Winner Business quiz
+
+Chaos IIM Ahmedabad
+
+IIMA, Vastrapur,
+Ahmedabad, Gujarat
+380015
+
+mngrcomm@iima.ac.in
+
+2018
+
+abhinav.17110001@iit
+gn.ac.in
+
+9265329015
+
+24
+
+Karthik Subramanya
+Karvaje
+
+16110072
+
+Winner Business quiz
+
+Chaos IIM Ahmedabad
+
+IIMA, Vastrapur,
+Ahmedabad, Gujarat
+380015
+
+mngrcomm@iima.ac.in
+
+2018
+
+karthik.subramanya@ii
+tgn.ac.in
+
+7433064231
+
+25
+
+Shantanu Sharma
+
+17520021
+
+Winner Business quiz
+
+Chaos IIM Ahmedabad
+
+IIMA, Vastrapur,
+Ahmedabad, Gujarat
+380015
+
+mngrcomm@iima.ac.in
+
+2018
+
+shantanu.sharma@iitg
+n.ac.in
+
+9888486528
+
+26
+
+Karthik Subramanya
+Karvaje
+
+16110072
+
+Winner College quiz
+
+Reliance quiz a thon
+
+Reliance Industries
+Limited (RIL) 380006
+
+admin@dare2compete
+.com
+
+2019
+
+karthik.subramanya@ii
+tgn.ac.in
+
+7433064231
+
+27
+
+Pranjal Singh
+
+17110110
+
+Winner College quiz
+
+Reliance quiz a thon
+
+Reliance Industries
+Limited (RIL) 380006
+
+admin@dare2compete
+.com
+
+2019
+
+pranjal.singh@iitgn.ac.i
+n
+
+9411021127
+
+28
+
+Karthik Subramanya
+Karvaje
+
+16110072
+
+Runner up Technology
+quiz
+
+Reliance quiz a thon
+
+Reliance Industries
+Limited (RIL) 380006
+
+admin@dare2compete
+.com
+
+2019
+
+karthik.subramanya@ii
+tgn.ac.in
+
+7433064231
+
+29
+
+Pranjal Singh
+
+17110110
+
+Runner up Technology
+quiz
+
+Reliance quiz a thon
+
+Reliance Industries
+Limited (RIL) 380006
+
+admin@dare2compete
+.com
+
+2019
+
+pranjal.singh@iitgn.ac.i
+n
+
+9411021127
+
+30
+
+Anirban Roy
+
+14310020
+
+Optical Society of
+America Best Poster
+Award
+
+Photonics International
+Conference on Fiber
+Optics and Photonics
+IIT Delhi
+
+IIT Delhi
+
+ravi@physics.iitd.ac.in
+
+2018
+
+anirban.roy@iitgn.ac.in
+
+7043925446
+
+31
+
+Rohan Chawhan
+
+16210076
+
+Optical Society of
+America Best Poster
+Award
+
+Photonics International
+Conference on Fiber
+Optics and Photonics
+IIT Delhi
+
+IIT Delhi
+
+ravi@physics.iitd.ac.in
+
+2018
+
+rohan.chawhan@mtec
+h2016.iitgn.ac.in
+
+8758887335
+
+32
+
+Mohit D Ganeriwala
+
+13210026
+
+Best Manuscript Award
+
+International
+Conference on
+Emerging Electronics
+ICEE Bangalore
+
+Bangalore
+
+conf@ieee-icee.org
+
+2018
+
+mohit.ganeriwala@iitg
+n.ac.in
+
+8866567678
+
+33
+
+Sarathchandran GM
+
+17210092
+
+Best Manuscript Award
+
+International
+Conference on
+Emerging Electronics
+ICEE Bangalore
+
+Bangalore
+
+conf@ieee-icee.org
+
+2018
+
+sarathchandran.gm@
+mtech2017.iitgn.ac.in
+
+9600257916
+
+34
+
+Beena Kumari
+
+15310033
+
+Best Poster Award
+
+Fourth International
+Conference on
+Aggregation Induced
+Emission Adelaide
+Australia
+
+Flinders University,
+Victoria Square,
+Adelaide, Australia
+
+askflinders@flinders.e
+du.au
+
+2019
+
+kum.beena@iitgn.ac.in
+
+7069625211
+
+Accreditation
+NBA Accreditation
+1.Does your institute have a valid NBA Accreditation?
+
+NO
+
+Village Adoption
+Have your institute adopted any village under Unnat Bharat Scheme?
+
+YES
+
+Faculty Details
+Srno
+
+Name
+
+Age
+
+Designation
+
+Gender
+
+Qualification
+
+Experience (In
+Months)
+
+Is Associated
+Last Year
+
+Currently
+working with
+institution?
+
+Joining Date
+
+Leaving Date
+
+Association type
+
+1
+
+GAUTAM ABHAY
+RAJ SINGH
+
+41
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+124
+
+Yes
+
+Yes
+
+06-10-2014
+
+--
+
+Regular
+
+2
+
+DASGUPTA
+ANIRBAN
+
+43
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+151
+
+Yes
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+3
+
+SHARMA GIRISH
+KUMAR
+
+77
+
+Other
+
+Male
+
+Ph.D
+
+593
+
+Yes
+
+Yes
+
+09-11-2009
+
+--
+
+Adhoc /
+Contractual
+
+4
+
+VASHISTA
+VINEET
+
+33
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+45
+
+Yes
+
+Yes
+
+26-11-2015
+
+--
+
+Regular
+
+5
+
+RATH
+ARNAPURNA
+
+39
+
+Assistant
+Professor
+
+Female
+
+Ph.D
+
+110
+
+Yes
+
+Yes
+
+24-12-2010
+
+--
+
+Regular
+
+6
+
+PAHALAJANI
+CHETAN
+DEVKISHIN
+
+43
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+62
+
+Yes
+
+Yes
+
+14-07-2014
+
+--
+
+Regular
+
+7
+
+GAURAV
+
+33
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+90
+
+Yes
+
+Yes
+
+29-05-2013
+
+--
+
+Regular
+
+8
+
+SOPPINA
+VIRUPAKSHI
+
+41
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+146
+
+Yes
+
+Yes
+
+01-07-2015
+
+--
+
+Regular
+
+9
+
+MITHUN
+RADHAKRISHNA
+
+31
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+44
+
+Yes
+
+Yes
+
+09-12-2016
+
+--
+
+Regular
+
+10
+
+PRASHANT AMIT
+
+43
+
+Professor
+
+Male
+
+Ph.D
+
+187
+
+Yes
+
+Yes
+
+06-12-2010
+
+--
+
+Regular
+
+11
+
+BARADHWAJ
+PANAYANCHERI
+COLEPPA
+
+38
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+119
+
+Yes
+
+Yes
+
+16-12-2014
+
+--
+
+Regular
+
+12
+
+THAREJA
+PRACHI
+
+37
+
+Assistant
+Professor
+
+Female
+
+Ph.D
+
+139
+
+Yes
+
+Yes
+
+22-12-2011
+
+--
+
+Regular
+
+13
+
+MUTHA PRATIK
+KIRAN
+
+38
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+119
+
+Yes
+
+Yes
+
+11-11-2013
+
+--
+
+Regular
+
+14
+
+NARAYANAN
+VINOD
+
+45
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+160
+
+Yes
+
+Yes
+
+28-05-2009
+
+--
+
+Regular
+
+15
+
+JAIN SUDHIR
+KUMAR
+
+60
+
+Professor
+
+Male
+
+Ph.D
+
+418
+
+Yes
+
+Yes
+
+04-06-2009
+
+--
+
+Regular
+
+16
+
+CHANDRA VINOD
+
+38
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+115
+
+Yes
+
+Yes
+
+01-07-2014
+
+--
+
+Regular
+
+17
+
+GUPTA SHARAD
+
+40
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+114
+
+Yes
+
+Yes
+
+11-07-2012
+
+--
+
+Regular
+
+18
+
+MUKHOPADHYA
+Y JYOTI
+
+66
+
+Other
+
+Male
+
+Ph.D
+
+411
+
+Yes
+
+Yes
+
+01-11-2012
+
+--
+
+Adhoc /
+Contractual
+
+19
+
+SINGH
+UMASHANKAR
+
+41
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+139
+
+Yes
+
+Yes
+
+28-05-2015
+
+--
+
+Regular
+
+20
+
+GHOROI
+CHINMAY
+
+45
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+171
+
+Yes
+
+Yes
+
+15-06-2009
+
+--
+
+Regular
+
+21
+
+LAHIRI
+SHARMITA
+
+46
+
+Assistant
+Professor
+
+Female
+
+Ph.D
+
+111
+
+Yes
+
+Yes
+
+27-07-2009
+
+--
+
+Regular
+
+22
+
+AMRUTIYA
+SANJAYKUMAR
+HANSRAJ
+
+37
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+83
+
+Yes
+
+Yes
+
+01-07-2014
+
+--
+
+Regular
+
+23
+
+Vadali
+Madhukanth
+Venkata
+
+32
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+67
+
+Yes
+
+Yes
+
+04-12-2017
+
+--
+
+Regular
+
+24
+
+LAHIRI UTTAMA
+
+51
+
+Associate
+Professor
+
+Female
+
+Ph.D
+
+252
+
+Yes
+
+Yes
+
+25-04-2012
+
+--
+
+Regular
+
+25
+
+GEORGE NITHIN
+VARGHESE
+
+33
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+90
+
+Yes
+
+Yes
+
+16-11-2012
+
+--
+
+Regular
+
+26
+
+SRINIVASAN
+BABJI
+
+35
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+93
+
+Yes
+
+Yes
+
+12-12-2012
+
+--
+
+Regular
+
+27
+
+SENGUPTA
+ANAND SANKAR
+
+44
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+148
+
+Yes
+
+Yes
+
+07-02-2012
+
+--
+
+Regular
+
+28
+
+SACHAN AJANTA
+
+42
+
+Associate
+Professor
+
+Female
+
+Ph.D
+
+171
+
+Yes
+
+Yes
+
+09-12-2010
+
+--
+
+Regular
+
+29
+
+MOHAPATRA
+NIHAR RANJAN
+
+42
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+201
+
+Yes
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+30
+
+BASU DHIMAN
+
+46
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+208
+
+Yes
+
+Yes
+
+01-08-2012
+
+--
+
+Regular
+
+31
+
+JOSHI MOHAN
+CHANDRA
+
+77
+
+Other
+
+Male
+
+Ph.D
+
+540
+
+Yes
+
+Yes
+
+09-07-2013
+
+--
+
+Adhoc /
+Contractual
+
+32
+
+JASUJA KABEER
+
+35
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+95
+
+Yes
+
+Yes
+
+01-10-2012
+
+--
+
+Regular
+
+33
+
+PADHIYAR NITIN
+UMEDLAL
+
+40
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+145
+
+Yes
+
+Yes
+
+13-04-2009
+
+--
+
+Regular
+
+34
+
+KHANNA NITIN
+
+40
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+178
+
+Yes
+
+Yes
+
+27-07-2015
+
+--
+
+Regular
+
+35
+
+MISRA
+NEELDHARA
+
+31
+
+Assistant
+Professor
+
+Female
+
+Ph.D
+
+95
+
+Yes
+
+Yes
+
+22-09-2015
+
+--
+
+Regular
+
+36
+
+DUTTA ARNAB
+
+35
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+83
+
+Yes
+
+Yes
+
+18-06-2015
+
+--
+
+Regular
+
+37
+
+A RAMANATHAN
+
+71
+
+Other
+
+Male
+
+Ph.D
+
+457
+
+Yes
+
+Yes
+
+01-07-2016
+
+--
+
+Adhoc /
+Contractual
+
+38
+
+KUMAR MANISH
+
+32
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+51
+
+Yes
+
+Yes
+
+15-06-2015
+
+--
+
+Regular
+
+39
+
+RANE
+KAUSTUBH
+SUNIL
+
+31
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+64
+
+Yes
+
+Yes
+
+15-07-2016
+
+--
+
+Regular
+
+40
+
+BHARGAV ATUL
+
+38
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+143
+
+Yes
+
+Yes
+
+04-05-2011
+
+--
+
+Regular
+
+41
+
+KUMAR ASHWINI
+
+71
+
+Other
+
+Male
+
+Ph.D
+
+547
+
+Yes
+
+Yes
+
+12-12-2011
+
+--
+
+Adhoc /
+Contractual
+
+42
+
+BATRA NIPUN
+
+29
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+24
+
+No
+
+Yes
+
+09-07-2018
+
+--
+
+Regular
+
+43
+
+BANERJEE
+RUPAK
+
+39
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+86
+
+Yes
+
+Yes
+
+01-07-2015
+
+--
+
+Regular
+
+44
+
+SEETHARAMAN
+RAJENDRAN
+
+59
+
+Other
+
+Male
+
+M.Tech
+
+448
+
+Yes
+
+Yes
+
+23-05-2011
+
+--
+
+Adhoc /
+Contractual
+
+45
+
+MAJUMDAR
+SHARMISTHA
+
+44
+
+Assistant
+Professor
+
+Female
+
+Ph.D
+
+137
+
+Yes
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+46
+
+MOHAPATRA
+PRANAB KUMAR
+
+53
+
+Professor
+
+Male
+
+Ph.D
+
+272
+
+Yes
+
+Yes
+
+24-11-2014
+
+--
+
+Regular
+
+47
+
+APPAYEE
+CHANDRAKUMA
+R
+
+43
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+133
+
+Yes
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+48
+
+SARKAR
+SUDIPTA
+
+37
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+101
+
+Yes
+
+Yes
+
+21-07-2014
+
+--
+
+Regular
+
+49
+
+JAYAPRAKASH K
+R
+
+37
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+91
+
+Yes
+
+Yes
+
+14-03-2017
+
+--
+
+Regular
+
+50
+
+CHAKRABORTY
+ARUP LAL
+
+42
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+183
+
+Yes
+
+Yes
+
+26-05-2010
+
+--
+
+Regular
+
+51
+
+PINDORIYA
+NARAN MANJI
+
+41
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+169
+
+Yes
+
+Yes
+
+29-11-2010
+
+--
+
+Regular
+
+52
+
+MEHTA MONA
+GAURANG
+
+40
+
+Assistant
+Professor
+
+Female
+
+Ph.D
+
+109
+
+Yes
+
+Yes
+
+04-06-2012
+
+--
+
+Regular
+
+53
+
+VATWANI
+AKSHAA
+
+30
+
+Assistant
+Professor
+
+Female
+
+Ph.D
+
+36
+
+No
+
+Yes
+
+23-07-2018
+
+--
+
+Regular
+
+54
+
+SUNDARAM
+DILIP SRINIVAS
+
+34
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+80
+
+Yes
+
+Yes
+
+01-12-2015
+
+--
+
+Regular
+
+55
+
+HEGDE
+SADANANDA
+RAVI
+
+40
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+134
+
+Yes
+
+Yes
+
+06-07-2015
+
+--
+
+Regular
+
+56
+
+CHELVAKUMAR
+KASIVISVANATH
+AN
+
+62
+
+Other
+
+Male
+
+Ph.D
+
+372
+
+Yes
+
+Yes
+
+05-10-2017
+
+--
+
+Adhoc /
+Contractual
+
+57
+
+BHATIA DHIRAJ
+
+35
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+72
+
+No
+
+Yes
+
+02-07-2018
+
+--
+
+Regular
+
+58
+
+ROY DEBI
+PRASAD
+
+79
+
+Other
+
+Male
+
+Ph.D
+
+534
+
+Yes
+
+Yes
+
+03-11-2009
+
+--
+
+Adhoc /
+Contractual
+
+59
+
+KANAGARAJ
+RAGAVAN
+
+43
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+145
+
+Yes
+
+Yes
+
+05-05-2009
+
+--
+
+Regular
+
+60
+
+GUPTA
+DEVKINANDAN
+MANOJ
+
+35
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+61
+
+Yes
+
+Yes
+
+31-01-2016
+
+--
+
+Regular
+
+61
+
+RAVI SASTRI
+AYYAGARI
+
+35
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+89
+
+Yes
+
+Yes
+
+14-12-2016
+
+--
+
+Regular
+
+62
+
+DIXIT ATUL
+ABHAY
+
+36
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+84
+
+Yes
+
+Yes
+
+14-08-2015
+
+--
+
+Regular
+
+63
+
+MEKIE JOYCEE
+MANILAL
+
+42
+
+Assistant
+Professor
+
+Female
+
+Ph.D
+
+142
+
+Yes
+
+Yes
+
+30-12-2009
+
+--
+
+Regular
+
+64
+
+DAS BIRESWAR
+
+40
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+106
+
+Yes
+
+Yes
+
+28-06-2010
+
+--
+
+Regular
+
+65
+
+ARORA AMIT
+
+36
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+106
+
+Yes
+
+Yes
+
+31-10-2011
+
+--
+
+Regular
+
+66
+
+SUBRAMANYAM
+MALAVIKA
+AMBALE
+
+46
+
+Assistant
+Professor
+
+Female
+
+Ph.D
+
+130
+
+Yes
+
+Yes
+
+12-07-2012
+
+--
+
+Regular
+
+67
+
+GHOSH UDDIPTA
+
+30
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+36
+
+Yes
+
+Yes
+
+15-12-2017
+
+--
+
+Regular
+
+68
+
+MISHRA ABHIJIT
+
+38
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+105
+
+Yes
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+69
+
+PANDA EMILA
+
+40
+
+Associate
+Professor
+
+Female
+
+Ph.D
+
+142
+
+Yes
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+70
+
+DAYAL
+PRATYUSH
+
+43
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+169
+
+Yes
+
+Yes
+
+28-06-2012
+
+--
+
+Regular
+
+71
+
+SENGUPTA
+MADHUMITA
+
+46
+
+Assistant
+Professor
+
+Female
+
+Ph.D
+
+235
+
+Yes
+
+Yes
+
+22-04-2014
+
+--
+
+Regular
+
+72
+
+SWAMINATHAN
+JAICHANDER
+
+28
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+24
+
+Yes
+
+Yes
+
+18-07-2018
+
+--
+
+Regular
+
+73
+
+DALVI SAMEER
+VISHVANATH
+
+39
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+146
+
+Yes
+
+Yes
+
+29-12-2009
+
+--
+
+Regular
+
+74
+
+NETTEMADATHIL
+RAMAKRISHNAN
+
+74
+
+Other
+
+Male
+
+Ph.D
+
+484
+
+Yes
+
+Yes
+
+04-01-2010
+
+--
+
+Adhoc /
+Contractual
+
+75
+
+DATTA BHASKAR
+
+42
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+178
+
+Yes
+
+Yes
+
+22-12-2011
+
+--
+
+Regular
+
+76
+
+MEHROTRA
+SURYA PRATAP
+
+72
+
+Other
+
+Male
+
+Ph.D
+
+551
+
+Yes
+
+Yes
+
+04-07-2012
+
+--
+
+Adhoc /
+Contractual
+
+77
+
+JAIN VIKRANT
+
+45
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+228
+
+Yes
+
+Yes
+
+14-06-2013
+
+--
+
+Regular
+
+78
+
+TYAGI
+JAGMOHAN
+
+38
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+133
+
+Yes
+
+Yes
+
+13-12-2010
+
+--
+
+Regular
+
+79
+
+DEY KRISHNA
+KANTI
+
+38
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+79
+
+Yes
+
+Yes
+
+19-08-2016
+
+--
+
+Regular
+
+80
+
+PALANTHANDAL
+AM MADAPUSI
+HARISH
+JAGANATHAN
+
+39
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+148
+
+Yes
+
+Yes
+
+21-12-2011
+
+--
+
+Regular
+
+81
+
+MISHRA VIMAL
+
+40
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+109
+
+Yes
+
+Yes
+
+31-05-2012
+
+--
+
+Regular
+
+82
+
+RAMAN
+SHANMUGANAT
+HAN
+
+37
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+190
+
+Yes
+
+Yes
+
+20-05-2013
+
+--
+
+Regular
+
+83
+
+MISHRA SUPERB
+KUMAR
+
+37
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+146
+
+Yes
+
+Yes
+
+03-03-2014
+
+--
+
+Regular
+
+84
+
+MANJALY
+JAISON ANTONY
+
+41
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+154
+
+Yes
+
+Yes
+
+16-10-2008
+
+--
+
+Regular
+
+85
+
+SENGUPTA
+INDRANATH
+
+49
+
+Associate
+Professor
+
+Male
+
+Ph.D
+
+226
+
+Yes
+
+Yes
+
+22-04-2014
+
+--
+
+Regular
+
+86
+
+Kumar Manish
+
+41
+
+Assistant
+Professor
+
+Male
+
+Ph.D
+
+119
+
+Yes
+
+Yes
+
+31-07-2017
+
+--
+
+Regular
+
+87
+
+SHARAN
+RAGHUBIR
+
+79
+
+Other
+
+Male
+
+Ph.D
+
+598
+
+Yes
+
+No
+
+01-06-2012
+
+31-05-2019
+
+Adhoc /
+Contractual

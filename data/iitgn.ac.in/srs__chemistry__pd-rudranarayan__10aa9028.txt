@@ -1,0 +1,38 @@
+Title: IIT Gandhinagar | pd-rudranarayan
+Source: https://iitgn.ac.in/srs/chemistry/pd-rudranarayan
+
+# Rudranarayan Khatua
+
+- Senior Research Staff
+Rudranarayan Khatua
+
+## Rudranarayan Khatua
+
+Post-Doctoral Fellow, Chemistry
+
+- B.Sc.: Utkal University, Odisha, 2012
+- M.Sc.: Fakir Mohan University, Odisha, 2014
+- Ph.D.: Indian Institute of Technology (Indian School of Mines), Dhanbad, 2022
+
+Email: rudranarayan.k -AT- iitgn.ac.in
+
+Work experience
+
+- Post-Doctoral Fellow, Indian Institute of Technology, Ganddhinagar (March 2022 to present)
+
+Selected Publications
+
+- R. Khatua, S. Debata, S. Sahu, “Computational study of electron transport in halogen incorporated diindenotetracene compounds: crystal structure, charge transport and optoelectronic properties”, Phys. Chem. Chem. Phys.24, 13256, 2022. https://pubs.rsc.org/en/content/articlelanding/2022/cp/d1cp05784g
+- S. Debata, R. Khatua, S. Sahu, “Synergistic effects of side-functionalization and aza-substitution on the charge transport and optical properties of perylene-based organic materials: a DFT study”, New J. Chem.46, 10402, 2022. https://pubs.rsc.org/en/content/articlelanding/2022/NJ/D1NJ06084H
+- S. Debata, S. R. Sahoo, R. Khatua, S. Sahu, “Rational designing and crystal structure prediction of ring- fused double-PDI compounds as n-channel organic semiconductors: A DFT study”, Phys. Chem. Chem. Phys.23, 12329, 2021. https://pubs.rsc.org/en/content/articlelanding/2021/cp/d1cp00008j
+- R. Khatua, S. Debata, S. Sahu, “Computational characterization of N-type characteristics and optoelectronic properties in air-stable pyromellitic diimide derivatives”, New J. Chem.44, 8412, 2020. https://pubs.rsc.org/en/content/articlelanding/2020/nj/d0nj00811g
+- R. Khatua, S. R. Sahoo, S. Sharma, S. Sahu, “Anisotropic charge transport and optoelectronic properties of wide band gap organic semiconductors based on biphenyl derivatives: A computational study”, Synth. Met.267, 116474, 2020. https://www.sciencedirect.com/science/article/abs/pii/S0379677920300084
+
+- ● Density Functional Theory (DFT)
+- ● Time-dependent DFT
+- ● Screening of the Materials
+- ● Non fullerene acceptors
+- ● MR-TADF
+- ● Molecular Dynamics
+
+Complete List of Publications

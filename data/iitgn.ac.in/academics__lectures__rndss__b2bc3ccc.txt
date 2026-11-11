@@ -1,0 +1,288 @@
+Title: IIT Gandhinagar | rndss
+Source: https://iitgn.ac.in/academics/lectures/rndss
+
+##### Dr. Maureen Mccann
+
+ The Biomass to Biofuels Pipeline: An Engineering Paradigm for National Security and a Sustainable Carbon Economy
+
+##### Dr. John O. Dabiri
+
+ Bio-inspired Wind Energy: From Fish Schools and Seagrass to Better Wind Farms
+
+##### Dr. Sang Il Seok
+
+ Architecture, Process and Materials for Efficient Inorganic-Organic Hybrid Solar Cells
+
+##### Shri A. S. Kiran Kumar
+
+ Space Technology – Contribution to India’s Development
+
+##### Prof. B. S. Murty
+
+## Roddam Narasimha Distinguished Seminar Series
+
+ The Roddam Narasimha Seminar Series has been set up at IIT Gandhinagar as a forum for mid-career distinguished professionals to present their work in a topical area of National Importance. Seminars are planned in the fields of Energy, National Security, Space, Healthcare, Engineering and other emerging areas. Invited eminent speakers shall share their knowledge while being involved in one of the facets: fundamental science, applied engineering and technology, policy development, or entrepreneurship. They will be honored with a memento and honorarium for their continued pursuit of such activities.  View More ↗
+
+## Roddam Narasimha Distinguished Seminar Series
+
+ The seminar web site at IITGN will be a repository of the presentations made by the invited speakers as part of the seminar series. Professor Roddam Narasimha holds a PhD from the California Institute of Technology where he worked with Professor Hans Liepmann, and a Masters from Indian Institute of Science where he worked with Professor Satish Dhawan. Narasimha’s research has been chiefly concerned with Aerospace Fluid Dynamics and certain related problems in the atmosphere.He is the author of more than 200 research publications and fifteen books. He has served on the National Security Advisory Board and the Scientific Advisory Committee to the Prime Minister’s Cabinet. Professor Narasimha has been widely honoured for his research work as well as his scientific leadership. In India his distinctions include the Bhatnagar Prize, the Gujarmal Modi Award and the Padma Vibhushan, the second highest civilian honor accorded by the Government. He is a Fellow of the National Academies of Science and Engineering and an Honorary Fellow of the Aeronautical Society of India. He is a Distinguished Alumnus of both Caltech and IISc.
+
+About Prof. R. Narasimha ● Organizing Committee ● Seminars ●
+
+# About Prof. R. Narasimha
+
+Former Director :  National Institute of Advanced Studies, Bangalore.
+ Former Director : National Aeronautical Laboratory, Bangalore.
+ Fellow of the RoyalSociety, Foreign Associate of National Academy of Sciences (USA) and National Academy of Engineering (USA)
+ Padma Vibhushan : (Government of India).
+
+ Professor Roddam Narasimha holds a PhD from the California Institute of Technology where he worked with Professor Hans Liepmann, and a Masters from Indian Institute of Science where he worked with Professor Satish Dhawan. He joined the Indian Institute of Science (IISc) in 1962 and was associated with the Department of Aerospace Engineering in various capacities from that date till 1999. In 1982, he founded the Centre for Atmospheric Sciences, which he headed till 1989. He was the Director of the National Aeronautical Laboratory (NAL) from 1984 till 1993. He was the Clark B Millikan Visiting Professor and Sherman Fairchild distinguished scholar at Caltech, and the Jawaharlal Nehru professor of Engineering at Cambridge University. He had also held visiting positions at NASA Langley, University of Strathclyde, University of Brussels, and Adelaide University. From 1990 to 1994 he was Indian National Science Academy Golden Jubilee Research Professor, and from 1994 to 1999 the ISRO K. R. Ramanathan distinguished Professor at IISc and Jawaharlal Nehru Center for Advanced Scientifc Research (JNCASR). He was the Director of the National Institute for Advance Sciences during 1997-2004.
+
+ Narasimha’s research has been chiefly concerned with Aerospace Fluid Dynamics and certain related problems in the atmosphere. He has made extensive studies of transitions between laminar and turbulent flow, the structure of shock waves, various characteristics of fully developed turbulent flow fields, the fluid dynamics of clouds, near-surface temperature distributions and eddy fluxes in atmospheric boundary layers. He continues to be closely associated with Aerospace technology development in India at both technical and policy-making levels. He is the author of more than 200 research publications and fifteen books.
+
+ As Director of National Aeronautical Laboratory (NAL) he initiated and oversaw several major technological programs. He served on the Board of Directors of Hindustan Aeronautics Limited (HAL) for several years. As a member of Prime Minister’s Scientific Advisory Council he was instrumental in establishing a major parallel computing initiative in the country. He was the President of the Indian Academy of Sciences during 1992 till 1994 and spearheaded a new program on university education in science, leading to the establishment of the science journal Resonance and other Academy programs involving teachers and students. He has served on the National Security Advisory Board and the Scientific Advisory Committee to the Prime Minister’s Cabinet. He was a member of the Space Commission, and co-chairs the Joint Steering Committee and the Joint Scientific Working Group for the Indo-French atmospheric research satellite Megha-Tropiques.
+
+ As Director of National Institute of Advanced Studies(NIAS), Narasimha initiated a series of major dialogues on International Security issues with the US National Academy of Sciences and other bodies, and pursued his interests in the history of science and technology.
+
+ Professor Narasimha has been widely honoured for his research work as well as his scientific leadership. In 2008 he was awarded the Trieste Science Prize by TWAS, the academy of sciences for the developing world. He is a Fellow of the Royal Society, and a Foreign Associate of both the US National Academy of Engineering and the US National Academy of Sciences. He is also an Honorary Member of the American Academy of Arts and Sciences, and a Fellow of the American Institute of Aeronautics and Astronautics. In India his distinctions include the Bhatnagar Prize, the Gujarmal Modi Award and the Padma Vibhushan, the second highest civilian honor accorded by the Government. He is a Fellow of all the National Academies of Science and Engineering and an Honorary Fellow of the Aeronautical Society of India. He is a Distinguished Alumnus of both Caltech and IISc.
+
+# Organizing Committee
+
+#### Sudhir Jain
+
+Director,
+ IIT Gandhinagar
+
+#### Amrutur Anilkumar
+
+Professor,
+ Vanderbilt University
+
+#### S P Mehrotra
+
+Professor-in-charge, External Relations, IIT Gandhinagar
+
+#### Uttama Lahiri
+
+Associate Professor, Electrical Engineering, IIT Gandhinagar
+
+# Seminars
+
+#### 8th Roddam Narasimha Distinguished SeminarRecent
+
+ 5th August, 2019
+ Prof. Jayant Haritsa
+ Data Science: The Good, The Bad and the Ugly
+
+ About the speaker
+
+Prof. Jayant Haritsa
+ Professor
+ Dept. of Computational & Data Sciences
+ Indian Institute of Science, Bangalorebr
+
+#### About The Speaker
+
+ Jayant Haritsa is a professor at the Suprcomputer Education and Research Center and the Department of Computational & Data Sciences at the Indian Institute of Science, Bangalore. A 2014 Infosys Laureate and a distinguished alumnus of IIT-Madras, Professor Haritsa received his M.S. and Ph.D. in Computer Science from the University of Wisconsin, Madison, USA. His work lies at the intersection of database systems and data mining, with a focus on query processing across a range of database systems. He has been conferred with the Shanti Swarup Bhatnagar Award and Distinguished Scientist of ACM award in 2009 and the ACCS CDAC Foundation Award in 2013. He is a Fellow of IEEE, Indian Academy of Sciences, Indian National Academy of Engineering, and National Academy of Sciences, India.
+
+ | Abstract
+
+#### Abstract
+
+ Data Science has become the buzzword of choice in recent times, especially in the software industry. The accompanying hoopla has spawned frenetic claims foretelling the development of great and wondrous solutions to all kinds of contemporary local and global challenges. In this talk, we will attempt to provide a more nuanced and balanced view of the area. Specifically, we will make the case that data science is certainly a potent force-multiplier for solving challenging problems, but is equally subject to methodological abuse, leading to grossly erroneous conclusions. Worse, such misuse could also be deliberate to suit preconceived outcomes and biases, concealed under a scientific veneer. In a nutshell, we will advocate the view that data science should be a tool of last resort, not first, and leveraged as a support, not substitute, for domain expertise.
+
+Slides
+flip_to_front
+Brochureflip_to_front
+
+#### 7th Roddam Narasimha Distinguished Seminar
+
+ 13th August, 2018
+ Prof. B. S. Murty
+ Role of Advanced Materials in Transforming India into a Global Leader
+
+ About the speaker
+
+Prof. B. S. Murty
+ Institute Professor and Girija & R. Muralidharan Chair Professor
+ Department of Metallurgical and Materials Engineering
+ Indian Institute of Technology Madras
+
+#### About The Speaker
+
+ Dr B S Murty has research interest in physical metallurgy and he specializes in understanding structure-property correlation for advanced nanocrystalline and amorphous materials. He has authored more than 350 research articles, filed 18 patents, published three books and handled over 50 sponsored research projects. He is a recipient of Shanti Swarup Bhatnagar Award (2007) and Felllow of Asia Pacific Academy of Materials, Indian National Science Academy, ASM International, Indian Academy of Sciences, National Academy of Sciences, and Indian National Academy of Engineering. Prof. Murthy has also been awarded Honorary Doctorate from Deakin University, Australia (2017), Life time Achievement Award of IIT Madras (2016) and Metallurgist of the Year Award (2004).
+
+ | Abstract
+
+#### Abstract
+
+ Materials are the backbone of the development of any country. The importance of materials has been realized from time immemorial to the extent that the civilizations are named after materials such as “stone-age”, “bronze-age”, “silicon-age”, etc. It has been proven over centuries that the countries that have advanced in the development of superior materials have become economically stronger and have become power centres in the world. It is important for India to focus on the development and application of advanced materials for it to become a global leader. Centuries before any of the current leading economies of the world were born, India had a great heritage in materials and has been an epicenter of advanced materials development. It is important that India focuses on the development of advanced materials for health care, energy security, infrastructure, transport, etc., for it to reinvent itself as a global leader. The speaker, in his talk, would focus on a few examples of advanced materials with immense potential that can transform India into an enviable position globally.
+
+Slides
+flip_to_front
+Brochureflip_to_front
+
+#### 6th Roddam Narasimha Distinguished Seminar
+
+ 6th June, 2017
+ Prof. T. Pradeep
+ Clean water using advanced materials: Science, incubation and industry
+
+ About the speaker
+
+Prof. T. Pradeep
+ Institute Professor, Deepak Parekh Institute Chair Professor and Professor of Chemistry
+ Indian Institute of Technology Madras
+
+#### About The Speaker
+
+ Thalappil Pradeep is an Institute Professor at the Indian Institute of Technology Madras, Chennai, India. He is the Deepak Parekh Institute Chair Professor and is also a Professor of Chemistry. He studied at IISc., UC Berkeley and Purdue. His research interests are in molecular and nanoscale materials and he develops instrumentation for such studies. He is an author of 382 scientific papers and over 75 patents or patent applications. In addition to the work on advanced materials, he is involved in the development of affordable technologies for drinking water purification and some of them have been commercialized. His pesticide removal technology is estimated to have reached about 7.5 million people. Along with his associates, he has incubated two companies and one of them has a production unit. His arsenic removal technology, approved for national implementation, has already reached about 600,000 people. He is a recipient of several awards including the Shanti Swaroop Bhatnagar Prize, BM Birla Science Prize, National Award for Nanoscience and Nanotechnology, India Nanotech Innovation Award and JC Bose National Fellowship. He is a Fellow of all the science and engineering academies of India and is a fellow of the Royal Society of Chemistry. He is a distinguished professor in a few institutions in India and is also on the graduate faculty of Purdue University. He is the author of the introductory textbook, Nano: The Essentials (McGraw-Hill) and is one of the authors of the monograph, Nanofluids (Wiley-Interscience) and an advanced textbook, A Textbook of Nanoscience and Nanotechnology (McGraw-Hill). He is on the editorial boards of several journals and is an associate editor of the American Chemical Society Journal, ACS Sustainable Chemistry & Engineering. He has authored popular science books in Malayalam and is the recipient of Kerala Sahitya Academi Award for knowledge in literature. In 2015, he received the Lifetime Achievement Research Award of IIT Madras. He supports a school in his village where 500 students are on the rolls.
+
+ |  Abstract
+
+#### Abstract
+
+ Access to clean water is one of the most important indicators of development. This water has to be affordable to make a meaningful impact to the society. We have been studying the chemistry of nanomaterials with the objective of developing affordable solutions for clean water. Creation of affordable materials for constant release of silver ions in water is one of the most promising ways to provide microbially safe drinking water for all. Combining the capacity of diverse nanocomposites to scavenge toxic species such as arsenic, lead, and other contaminants along with the above capability can result in affordable, all-inclusive drinking water purifiers that can function without electricity. The critical problem in achieving this is the synthesis of stable materials that can release or adsorb ions continuously in the presence of complex species usually present in drinking water that deposit and cause scaling on nanomaterial surfaces. We have shown that such constant release/adsorbing materials can be synthesized in a simple and effective fashion in water itself without the use of electrical power. The nanocomposite exhibits river sand-like properties, such as higher shear strength in loose and wet forms. These materials have been used to develop an affordable water purifier to deliver clean drinking water at Rs. 130/y per family. The ability to prepare nanostructured compositions at near ambient temperature has wide relevance for adsorption-based water purification. We have implemented such solutions already in arsenic affected areas of India. In the next 12 months, we are expected to provide arsenic free water to 1000,000 people. Translation of this science led to the incubation of a company which has its own manufacturing unit now. A healthy mixture of basic science, applications and business in the Indian context is manifested here. Several new technologies are in the pipeline.
+
+Slides
+flip_to_front
+Brochureflip_to_front
+
+#### 5th Roddam Narasimha Distinguished Seminar
+
+ 10th August, 2016
+ Shri A. S. Kiran Kumar
+ Space Technology – Contribution to India’s Development
+
+ About The speaker
+
+Shri A. S. Kiran Kumar
+ Chairman
+ Space Commission / Secretary, Department of Space / Chairman, ISRO
+
+#### About The Speaker
+
+ Chairman Shri A S Kiran Kumar is steering the implementation of the applications-oriented Indian Space Program, which has facilitated rapid development of spacecraft in many important spheres of earth observation, communication, navigation, meteorology and space science, as well as the development of indigenous launch vehicles and related technologies for providing assured access to space. He has contributed to the design and development of more than fifty Electro-Optical Imaging Sensors flown on Space borne platforms starting from Bhaskara TV payload in 1979 to the payloads onboard the Mars Orbiter Mission in 2013. He played a crucial role in Chandrayaan-1 mission right from the conceptualization stage and has made exemplary contributions to the success of Mars Orbiter Mission and Reusable Launch Vehicle Technology Development (RLV-TD). Shri Kiran Kumar is a Fellow of Indian National Academy of Engineering, Indian Society of Remote Sensing, Institution of Electronics & Telecommunications Engineers, Indian Meteorological Society, Gujarat Science Academy and Andhra Pradesh Akademi of Sciences and an elected member of International Academy of Astronautics. He has been conferred with more than 10 Honoris Causa from prestigious Universities including Kaziranga University and Dr APJ Abdul Kalam Technical University. He has co-authored more than 81 technical papers in Journals / Symposia / Conferences. In recognition of his contributions, he was conferred Padma Shri award by the President of India in 2014.
+
+ | Abstract
+
+#### Abstract
+
+ ISRO has achieved self-reliance in the area of space science and technology through indigenous research and development. Indian Space Program today is a large integrated program. Space based applications derived from communication and remote sensing satellites have become an integral part of the value chain of the user agencies and user communities. These applications encompass various core sectors of socioeconomic development such as natural resource survey and management, near real time disaster management support, weather forecasting, smart governance, telecommunications, television broadcasting, direct-to-home services, search and rescue operations, and societal applications such as tele-education and telemedicine. In the areas of satellite navigation, ISRO has implemented Indian Regional Navigation Satellite System (IRNSS) or ‘NavIC’ for providing location based services in and around Indian subcontinent. Under Satellite Navigation program, ISRO and Airports Authority of India have jointly implemented GPS Aided Geo Augmented Navigation (GAGAN) for the aviation sector. In planetary exploration, India has demonstrated precision technologies in sending spacecrafts to Moon and Mars; India made a significant mark by launching ASTROSAT to study celestial objects. Convergence of technologies, including satellite communications, Earth Observation, Navigation and Geo-spatial technologies, coupled with strong plan of actions, has enabled ISRO in contributing to the progress of the country. With primary emphasis on applications of space technology on an end-to-end basis towards development, the Indian Space Program has distinguished itself as one of the most cost-effective and development oriented programs.
+
+Slides
+flip_to_front
+Brochureflip_to_front
+
+#### 4th Roddam Narasimha Distinguished Seminar
+
+ 10th August, 2015
+ Dr. Milind Tambe
+ Towards a Science of Security Games: Key Algorithmic Principles, Deployed Applications and Research Challenges
+
+About the speaker
+
+Dr. Milind Tambe
+ Helen N. and Emmett H. Jones Professor in Engineering
+ Dept. of Computational & Data Sciences
+ University of Southern California (USC)
+
+#### About The Speaker
+
+ Dr. Milind Tambe is a fellow of AAAI and ACM, as well as recipient of the ACM/SIGART Autonomous Agents Research Award, Christopher Columbus Fellowship Foundation Homeland security award, the INFORMS Wagner prize for excellence in Operations Research practice, the Rist Prize of the Military Operations Research Society, IBM Faculty Award, Okawa foundation faculty research award, RoboCup scientific challenge award, Orange County Engineering Council Outstanding Project Achievement Award, USC Associates award for creativity in research and USC Viterbi use-inspired research award. Prof. Tambe has contributed several foundational papers in areas such as multiagent teamwork, distributed constraint optimization (DCOP) and security games. The real-world deployments of the ''security games'' framework and algorithms pioneered by Prof. Tambe and his research group has led them to receive the US Coast Guard Meritorious Team Commendation from the Commandant, US Coast Guard First District's Operational Excellence Award, Certificate of Appreciation from the US Federal Air Marshals Service and special commendation given by the Los Angeles World Airports police from the city of Los Angeles. Prof Tambe has also co-founded ARMORWAY, a company focused on security resource optimization through game theory and machine learning, where he serves on the board of directors and as director of research
+
+ | Abstract
+
+#### Abstract
+
+ Security is a critical concern around the world, whether it is the challenge of protecting ports, airports and other critical infrastructure, interdicting the illegal flow of drugs, weapons and money, protecting endangered wildlife, forests and fisheries, suppressing urban crime or security in cyberspace. Unfortunately, limited security resources prevent full security coverage at all times; instead, we must optimize the use of limited security resources. To that end, Prof. Tambe's research group founded the "security games" framework that has led to building of decision-aids for security agencies. Security games is a novel area of research that is based on computational and behavioral game theory, while also incorporating elements of AI planning under uncertainty and machine learning. Today security-games based decision aids for infrastructure security are deployed in the US and internationally; examples include deployments at ports and ferry traffic with the US coast guard (in ports such as New York, Boston, Los Angeles/Long Beach and others), for security of air traffic with the US Federal Air Marshals, and for security of university campuses, airports and metro trains with police agencies in the US and other countries. Moreover, recent work on "green security games" has led to testing the decision aids for protection of fisheries with the US Coast Guard and protection of wildlife at sites in multiple countries, and "opportunistic crime security games" have focused on suppressing urban crime. Prof. Tambe will discuss their use-inspired research in security games, that is leading to a new science of security games, including algorithms for scaling up security games as well as for handling significant adversarial uncertainty and learning models of human adversary behaviors.
+
+Slides
+flip_to_front
+Brochureflip_to_front
+
+#### 3rd Roddam Narasimha Distinguished Seminar
+
+ 13th April, 2015
+ Dr. Sang Il Seok
+ Architecture, Process and Materials for Efficient Inorganic-Organic Hybrid Solar Cells
+
+About the speaker
+
+Dr. Sang Il Seok
+ Professor
+ Leader of Global Research Laboratory, Korea Research Institute of Chemical Technology
+
+#### About The Speaker
+
+ Prof. Sang Il Seok leads the Global Research Laboratory at Korea Research Institute of Chemical Technology (KRICT) as Research Fellow in the Division of Advanced Materials. He also holds a dual appointment as full professor at Department of Energy Science, Sungkyunkwan University (SKKU), Korea. Dr. Seok's major research focus has been on the integration of mesoporous architecture /semiconductor nanocrystals (including quantum dots)/polymeric hole conductors for high-performance inorganic-organic hybrid photovoltaics such as photodetectors and solar cells, using novel materials. He has won several awards for excellence in energy research.
+
+ | Abstract
+
+#### Abstract
+
+ Solar energy harvesting through photovoltaic conversion has gained attention as the most sustainable and environmentally friendly solution for meeting the rapidly increasing global energy demand. Of the many materials and methodologies aimed at producing low-cost, efficient photovoltaic cells for utilizing solar energy, semiconductor nanocrystals and inorganic-organic hybrid perovskites offer promise of a breakthrough for next-generation solar devices. This is mainly due to the combination of superior optical properties with suitability for solution-based processing. Stimulated by ambitions for fabricating stable, high–efficiency, and cost-effective solar cells, Dr. Seok and his group have been studying inorganic-organic heterojunction solar cells by employing inorganic semiconductor nanoparticles or inorganic-organic hybrid perovskite materials as light absorber and organic hole conductors. In this presentation, Dr. Seok will talk about the use of Sb2S(e)3 and inorganic-organic hybrid perovskite materials for fabricating efficient solar cells. The surface sulfurization and combination of Sb2S3 and Sb2Se3 as sensitizers has shown conversion efficiency exceeding 8 % under 1 Sun irradiation with a metal mask. In the perovskite solar cells, process and chemical engineering has enabled the production of extremely uniform and dense perovskite layers, with remarkably improved performance of the cells with a certified power conversion efficiency (PCE) of 20.1% under air-mass 1.5 global (AM 1.5G) illumination of 100 mW cm–2 intensity. These results will lead to more efficient and cost-effective inorganic-organic hybrid heterojunction solar cells in the future.
+
+Slides
+flip_to_front
+Brochureflip_to_front
+
+#### 2nd Roddam Narasimha Distinguished Seminar
+
+ 31stJanuary, 2014
+ Dr. John O. Dabiri
+ Bio-inspired Wind Energy: From Fish Schools and Seagrass to Better Wind Farms
+
+About the speaker
+
+Dr. John O. Dabiri
+ Professor, Director of Center for Bioinspired Wind Energy,
+ California Institute of Technology
+
+#### About The Speaker
+
+ John O. Dabiri is a Professor of Aeronautics and Bioengineering at California Institute of Technology, USA and a 2010 MacArthur Fellow. His honors include an Office of Naval Research Young Investigator Award and a Presidential Early Career Award for Scientists and Engineers for his research in bio-inspired propulsion. Popular Science magazine named him one of its "Brilliant 10" scientists in 2008. For his research in bioinspired wind energy, Bloomberg Businessweek magazine listed him among its Technology Innovators in 2012, and the MIT Technology Review magazine named him one of its 35 innovators under 35 in 2013. He is currently the Chair of the Faculty at Caltech.
+
+ | Abstract
+
+#### Abstract
+
+ The goal of Dr. Dabiri's research is to use bio-inspired arrays of counter-rotating vertical-axis wind turbines to reduce the cost, size, and environmental impacts of wind farms. In his lecture, he addressed the recent efforts made in the area of bio-inspired wind power solutions. Full-scale field tests of 10-meter tall verticalaxis wind turbines have been conducted under natural wind conditions over the past four years. Whereas wind farms consisting of propeller-style, horizontal-axis wind turbines produce 2 to 3 watts of power per square meter of land area, these field tests indicate that power densities an order of magnitude greater can be achieved by arranging vertical-axis wind turbines in layouts inspired by the configurations of schooling fish and seagrass beds. The higher power density is leveraged to achieve meaningful power generation at lower altitudes than required by existing systems. Research findings suggest an alternative approach to wind farming and pose a broad array of interesting, unanswered scientific questions related to the modeling and control of canopy flows.
+
+Slides
+flip_to_front
+Brochureflip_to_front
+
+#### 1st Roddam Narasimha Distinguished Seminar
+
+ 16th April, 2013
+ Dr. Maureen Mccann
+ The Biomass to Biofuels Pipeline: An Engineering Paradigm for National Security and a Sustainable Carbon Economy
+
+About the speaker
+
+Dr. Maureen Mccann
+ Professor, Director of the Energy Center
+ Purdue University
+
+#### About The Speaker
+
+ Maureen McCann is a Professor of Biological Sciences at Purdue University, and the Director of Purdue’s Energy Center, part of the Global Sustainability Institute in Discovery Park. She obtained her undergraduate degree in Natural Sciences from the University of Cambridge, UK, in 1987 and then a PhD in Biological Sciences at the John Innes Center, Norwich, UK, a government funded research institute for plant and microbial sciences. She stayed at the John Innes center for post doctoral work, partly funded by Unilever, and then as a project leader with her own group from 1995, funded by the Royal Society. In January 2003, she moved to Purdue University. She has co-authored almost 100 publications on the molecular architecture of plant cell walls and their use as the source of lignocellulosic biomass. She is the Director of the Center for Direct Catalytic Conversion of Biomass to Biofuels (C3Bio), an Energy Frontier Research Center funded by the US Department of Energy’s Office of Science.
+
+ The goal of Dr. McCann’s research is to understand and modify the molecular machinery of the plant cell wall which is the source of lignocellulosic biomass, an untapped and sustainable resource for biofuels production. Biofuels have the potential to reduce oil dependence, improve national security, and boost rural economies. Dr. McCann is also the Director of the Center for Direct Catalytic Conversion of Biomass to Biofuels (C3Bio), an interdisciplinary team of biologists, chemists and chemical engineers in an Energy Frontier Research Center funded by the US Department of Energy’s Office of Science.
+
+ | Abstract
+
+#### Abstract
+
+ Dr. McCann’s lecture was based on her research on understanding and modifying the molecular machinery of plant cells, an untapped and sustainable resource for biofuel production. She said that biofuels have the potential to reduce oil dependence, improve national security, and boost rural economies.
+
+ According to Dr. McCann, biofuels aren’t simply an alternative to fossil fuels, but also offer opportunities for several additional bioproducts, which can make biofuels economically viable. Currently, under 1 percent of the global energy requirements are met by biofuels. She said that the work of her Energy Center at the Purdue Discovery Park would help in the expansion of biofuels in the energy mix to meet global energy demand as well as contribute to a greener environment.
+
+ C3Bio aims to conduct, what it calls “high-risk, high-reward research for the future deployment of advanced liquid transportation fuels.” It is aiming to develop transformational technologies for the direct conversion of plant biomass to hydrocarbon-rich biofuels and other biobased products.
+
+ In the Indian context, Dr. McCann said that the country should focus on its abundance of solar energy. She added, however, that there is a possibility that farmers could plant crops in arid areas, which could be converted into biofuel.
+
+Slides
+flip_to_front
+Brochureflip_to_front

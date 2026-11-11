@@ -1,0 +1,42 @@
+Title: IIT Gandhinagar | Kartik Patel
+Source: https://iitgn.ac.in/faculty/ee/fac-kartik-patel
+
+# Kartik Patel
+
+-  Electrical Engineering
+Kartik Patel
+
+## Kartik Patel
+
+Assistant Professor, Department of Electrical Engineering
+
+- BTech: Indian Institute of Technology Roorkee, 2017
+- MS: The University of Texas at Austin, 2020
+- PhD: The University of Texas at Austin, 2024
+
+Email: kpatel -AT- iitgn.ac.in
+
+ Website :  kartikpatel.in
+
+Office:  13/324A
+VOIP:  2527
+
+- K. Patel, C. Ge, A. Mahimkar, S. Shakkottai, and Y. Shaqalle, “CIPAT: A two-stage configuration impact prediction analysis toolkit for cellular networks,” Accepted in ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), March 2026
+
+- K. Patel, J. Zhang, I. Kiminos, L. Kampianakis, M. S. Eggleston, and J. Du, “Analyzing scalability of bi-static backscatter networks for large-scale applications,” IEEE Journal on Radio Frequency Identification, vol. 9, pp. 6–16, 2025
+
+- K. Patel and R. W. Heath Jr., “Harnessing multimodal sensing for multi-user beamforming in mmWave systems,” IEEE Transactions on Wireless Communications, vol. 23, no. 12, 2024
+
+- K. Patel, N. J. Myers, and R. W. Heath Jr., “Circulant shift-based beamforming for secure communication with low-resolution phased arrays,” IEEE Transactions on Wireless Communications, vol. 22, no. 4, pp. 2295–2310, 2023
+
+- Y. Zhang, K. Patel, S. Shakkottai, and R. W. Heath Jr., “Side-information-aided noncoherent beam alignment design for millimeter wave systems,” in 20th ACM International Symposium on Mobile Ad Hoc Networking and Computing (Mobihoc), July 2019, pp. 341–350
+
+- Assistant Professor, IIT Gandhinagar (2026 – Present)
+- Postdoctoral Researcher, Nokia Bell Labs, Murray Hill, NJ (2024 – 2026)
+
+- ● Wireless Communication Systems and Networks
+- ● Integrated Sensing and Communications
+- ● AI/ML for Wireless Networks
+- ● Hardware Prototyping
+
+Complete List of Publications

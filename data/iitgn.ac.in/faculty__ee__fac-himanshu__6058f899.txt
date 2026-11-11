@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Himanshu Shekhar
+Source: https://iitgn.ac.in/faculty/ee/fac-himanshu
+
+# Himanshu Shekhar
+
+-  Electrical Engineering
+Himanshu Shekhar
+
+## Himanshu Shekhar
+
+Associate Professor, Electrical Engineering
+
+- BE: Manipal Institute of Technology, 2008
+- MS: University of Rochester, 2010
+- PhD: University of Rochester, 2014
+
+Email: himanshu.shekhar -AT- iitgn.ac.in
+
+ Website :  https://labs.iitgn.ac.in/muselaboratory/
+
+Office:  AB 13/321D
+VOIP:  2552
+
+V. Trivedi, K. F. Basterrechea, K. B. Bader, and H. Shekhar, “Chirp-coded subharmonic imaging with Volterra filtering: Histotripsy bubble cloud assessment in vitro and ex vivo,” IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 5, 591–600 (2025).
+
+A. K. Singh, P. Warbal, K. F. Basterrechea, K. B. Bader, H. Shekhar, “Enhancing the performance of passive cavitation Engineering using p-th root compression delay, sum and integrate beamforming,” IEEE Transactions on Biomedical Imaging, 72(7), 2283–2292 (2025).
+
+V. Trivedi, E. Wallach, K. B. Bader, H. Shekhar, “Contrast-Enhanced Imaging of Histotripsy Bubble Clouds Using Chirp-Coded Excitation and Volterra Filtering,” IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 70(9), 989–998 (2023).
+
+A. Kaushik, A. H. Khan, Pratibha, S. V. Dalvi, and H. Shekhar, “Effect of temperature on the acoustic response and stability of size-isolated protein-shelled ultrasound contrast agents and SonoVue,” The Journal of the Acoustical Society of America, 153 (2023).
+
+C. K. Jha, K. Jajoria, A. L. Chakraborty, H. Shekhar, “A Fiber Bragg Grating-based Sensor for Passive Cavitation Detection at MHz frequencies,” IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 67, 1682–1690 (2022).
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Nov 2024 to present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Apr 2019 - Nov 2024)
+- Postdoctoral Fellow, University of Cincinnati College of Medicine (2014 - 2019)
+- Practicant (intern) Hilti Corporation (2008)
+
+- ● Image-guided ultrasound therapy
+- ● Ultrasound contrast agents
+- ● Ultrasound-assisted therapeutic delivery
+- ● Ultrasound beamforming and metrology
+- ● Medical device development
+
+Complete List of Publications

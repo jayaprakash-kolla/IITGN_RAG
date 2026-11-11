@@ -1,0 +1,283 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 14, 2026
+(Added during 30th March 2026– 03rd April 2026)
+Available for the issue from 11th April 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Machine learning evaluation: towards reliable and responsible AI
+Author: Japkowicz, Nathalie
+Publisher: New York: Cambridge University Press, 2025
+Call No.: 006.31 JAP
+Acc. No.: 036854
+
+Title: Quantum computing: from concepts to code
+Author: Glassner, Andrew
+Publisher: San Francisco: No Starch Press, 2025
+Call No.: 006.3843 GLA
+Acc. No.: 036859
+
+LIBRARY OPERATIONS
+Title: Appraisal and acquisition strategies
+Author: Shallcross, Michael (Ed.)
+Publisher: Chicago: Society of American Archivists, 2016
+Call No.: 025.04 SHA
+Acc. No.: 036871
+
+BOOK OF FACTS
+Title: Limca book of records 2025
+Author: Banerjee, Vatsala Kaul
+Publisher: Gurugram: Hachette India, 2025
+Call No.: 030.02 BAN
+Acc. No.: 036853
+
+PLATONIC PHILOSOPHY
+Title: Plato of Athens: a life in philosophy
+Author: Waterfield, Robin
+Publisher: New York: Oxford University Press, 2023
+Call No.: 184 WAT
+Acc. No.: 036835
+
+SOCIAL SCIENCES
+Title: Critical events: an anthropological perspective on contemporary India
+Author: Das, Veena
+Publisher: New Delhi: Oxford University Press, 2018
+Call No.: 303.40954 DAS
+Acc. No.: 036843
+
+Title: End of nature
+Author: McKibben, Bill
+Publisher: New York: Random House, 2006
+Call No.: 304.28 MCK
+Acc. No.: 036847
+
+Title: Why workplace wellbeing matters: the science behind employee happiness
+and organizational performance
+Author: Neve, Jan-Emmanuel De
+Publisher: Boston, Massachusetts: Harvard Business Review Press, 2025
+Call No.: 306.36 NEV
+Acc. No.: 036872
+Title: Language contact and linguistic aspects of bilingualism
+Author: Wei, Longxing
+Publisher: UK: Cambridge Scholars Publishing, 2025
+Call No.: 306.44 WEI
+Acc. No.: 036864
+
+Title: Social shaping of technology, 2nd ed.
+Author: MacKenzie, Donald
+Publisher: Berkshire: Open University Press, 2010
+Call No.: 306.46 MAC
+Acc. No.: 036858
+
+Title: Marginalised groups in India: historiography, politics, and policies
+Author: Debnath, Kunal (Ed.)
+Publisher: Oxon: Routledge, 2025
+Call No.: 307.720954 DEB
+Acc. No.: 036828
+
+Title: Surviving the 21st century
+Author: Chomsky, Noam
+Publisher: London: Verso Books, 2025
+Call No.: 327.0905 CHO
+Acc. No.: 036839
+
+MILITARY SCIENCE
+Title: Warhead: how the brain shapes war and war shapes the brain
+Author: Wright, Nicholas
+Publisher: New York: St. Martin's Press, 2025
+Call No.: 355.0019 WRI
+Acc. No.: 036841
+
+SOCIAL PROBLEMS
+Title: Environment
+Author: Asthana, Vandana
+Publisher: New Delhi: Ashish Publishing House, 2024
+Call No.: 363.7 AST
+Acc. No.: 036863
+
+MATHEMATICS
+Title: Imperishable seed: how Hindu mathematics changed the world and why this
+history was erased
+Author: Kamble, Bhaskar
+Publisher: Gurugram: Garuda Prakashan, 2022
+Call No.: 510.954 KAM
+Acc. No.: 036852
+Title: Invitation to discrete mathematics, 2nd ed.
+Author: Matousek, Jiri
+Publisher: Oxford: Oxford University Press, 2011
+Call No.: 511 MAT
+Acc. No.: 036836
+
+Title: Numerical semigroups: a commutative algebra approach
+Author: Herzog, Jurgen
+Publisher: Cham: Birkhauser, 2026
+Call No.: 512.44 HER
+Acc. No.: 036826
+
+Title: Complex analysis: a first course with applications, 3rd ed.
+Author: Zill, Dennis G.
+Publisher: New Delhi: Viva Books, 2026
+Call No.: 515.9 ZIL
+Acc. No.: 036865
+
+Title: Introduction to probability theory and its applications, Vol.1, 3rd ed.
+Author: Feller, William
+Publisher: New Delhi: Wiley, 2025
+Call No.: 519.1 FEL
+Acc. No.: 036873
+
+Title: Introduction to Bayesian data analysis for cognitive science
+Author: Nicenboim, Bruno
+Publisher: Boca Raton: CRC Press, 2026
+Call No.: 519.542 NIC
+Acc. No.: 036827
+
+PHYSICS
+Title: Landau Fermi liquids and beyond
+Author: Tripathi, V.
+Publisher: Boca Raton: CRC Press, 2018
+Call No.: 530.13 TRI
+Acc. No.: 036870
+
+Title: Many-particle physics, 3rd ed.
+Author: Mahan, Gerald D.
+Publisher: New York: Kluwer Academic/Plenum Publishers 2000
+Call No.: 530.41 MAH
+Acc. No.: 036848
+
+Title: Theory of heat radiation
+Author: Planck, Max
+Publisher: Chennai: Maxwell Press, 2024
+Call No.: 536.3 PLA
+Acc. No.: 036842
+
+Title: Effective field theory for spontaneously broken symmetry
+Author: Brauner, Tomáš
+Publisher: Cham: Springer, 2024
+Call No.: 539.725 BRA
+Acc. No.: 036849
+
+BIOLOGY
+Title: Knowledge gene: the incredible story of the supergene that gives us human
+creativity
+Author: Kelly, Lynne
+Publisher: Sydney: Allen & Unwin, 2024
+Call No.: 576 KEL
+Acc. No.: 036851
+
+TECHNOLOGY – PHILOSAPHY & THEORY
+Title: Slow technology reader: a tool for shaping divergent futures
+Author: Strauss, Carolyn F. (Ed.)
+Publisher: Amsterdam: Valiz, 2025
+Call No.: 601 STR
+Acc. No.: 036838
+
+Title: Shock of the old: technology and global history since 1900
+Author: Edgerton, David
+Publisher: London: Profile Books, 2019
+Call No.: 609.04 EDG
+Acc. No.: 036862
+
+HUMAN PHYSIOLOGY
+Title: Cognitive neuroscience: the biology of the mind, 6th ed.
+Author: Gazzaniga, Michael S
+Publisher: New York: W.W. Norton, 2025
+Call No.: 612.82 GAZ
+Acc. No.: 036844
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Engineering design, 6th ed.
+Author: Dieter, George Ellwood
+Publisher: New York: McGraw-Hill Education, 2021
+Call No.: 620.0042 DIE
+Acc. No.: 036834
+
+Title: Design of marine risers with functionally graded materials
+Author: Chandrasekaran, Srinivasan
+Publisher: Duxford: Woodhead Publishing, 2021
+Call No.: 620.4162 CHA
+Acc. No.: 036830
+
+Title: Smart grid: enabling energy efficiency and demand response
+Author: Gellings, Clark W.
+Publisher: Denmark: River Publishers, 2026
+Call No.: 621.319 GEL
+Acc. No.: 036846
+
+Title: Handbook of modern sensors: physics, designs and applications, 5th ed.
+Author: Fraden, Jacob
+Publisher: Cham: Springer, 2016
+Call No.: 621.381 FRA
+Acc. No.: 036850
+
+Title: Quantitative risk management and decision making in construction
+Author: Singh, Amarjit
+Publisher: Virginia: American Society of Civil Engineers Press, 2017
+Call No.: 624.0681 SIN
+Acc. No.: 036837
+
+GENERAL MANAGEMENT
+Title: Starting a startup: build something people want
+Author: Sinclair, James
+Publisher: Canada: Page Two, 2025
+Call No.: 658.11 SIN
+Acc. No.: 036869
+
+Title: Emotionally intelligent team: building collaborative groups that outperform
+the rest
+Author: Druskat, Vanessa Urch
+Publisher: Boston, Massachusetts: Harvard Business Review Press, 2025
+Call No.: 658.4022 DRU
+Acc. No.: 036840
+
+LITERATURE
+Title: Choice for infinity
+Author: Prakash, Shakti
+Publisher: Chennai: Notion Press, 2021
+Call No.: 808.838762 PRA
+Acc. No.: 036857
+
+Title: Indian literary historiography: concepts, languages, histories
+Author: Trivedi, Harish (Ed.)
+Publisher: New Delhi: Sahitya Akademi, 2024
+Call No.: 891.4 TRI
+Acc. No.: 036855
+
+Title: म़िर्ज़ा गजमिब :एक स्वजनही मंर्रनजमज = Mirza Ghalib: Ek Swanihi Manzar Nama
+Author: Gulzar
+Publisher: New Delhi: Rupa Publications, 2008
+Call No.: 891.433 GUL
+Acc. No.: 036868
+Title: दो कदम और सही = Do Kadam Aur Sahi
+Author: Indori, Rahat
+Publisher: Bhopal: Manjul Publishing House, 2025
+Call No.: 891.433 IND
+Acc. No.: 036866
+Title: नजरजर् = Naraz
+Author: Indori, Rahat
+Publisher: Bhopal: Manjul Publishing House, 2025
+Call No.: 891.433 IND
+Acc. No.: 036867
+Title: Tiger lessons
+Author: Reddy, Sannapureddy Venkatarami
+Publisher: New Delhi: Bloomsbury India, 2025
+Call No.: 894.82736 RED
+Acc. No.: 036860
+
+HISTORY OF ASIA
+Title: City as memory: a short biography of Srinagar
+Author: Wani, Sadaf
+Publisher: New Delhi: Aleph Book Company, 2024
+Call No.: 954.6 WAN
+Acc. No.: 036856

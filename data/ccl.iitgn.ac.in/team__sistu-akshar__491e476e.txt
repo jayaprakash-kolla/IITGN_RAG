@@ -1,0 +1,6 @@
+Title: Sistu Akshar
+Source: https://ccl.iitgn.ac.in/team/sistu-akshar
+
+# Sistu Akshar
+
+Sistu Akshar is an electronics engineer driven by a deep curiosity for hardware and its real-world impact. He graduated in 2025 from BITS, Pilani, with a degree in Electronics and Instrumentation Engineering . Passionate about semiconductors, digital electronics, computer architecture, and VLSI, he enjoys working across logic design, embedded systems, and control. He previously worked as an R&D engineer at Exobot Dynamics, IIT Delhi, developing embedded systems for robotic prosthetic and bionic limbs. At CCL, he works in STEM education with a focus on digital electronics, drawing from his experience in processor design and avionics to create clear, hands-on learning experiences around logic and computation.

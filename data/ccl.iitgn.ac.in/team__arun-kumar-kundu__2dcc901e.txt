@@ -1,0 +1,32 @@
+Title: Arun Kumar Kundu
+Source: https://ccl.iitgn.ac.in/team/arun-kumar-kundu
+
+# Arun Kumar Kundu
+
+Multimedia Design
+
+Arun Kumar Kundu
+Science Illustrator, Animator & Full-Stack Developer
+Centre for Creative Learning, IIT Gandhinagar
+
+Arun Kumar Kundu works at the intersection of science, visual storytelling, and technology.
+A science illustrator, animator, multimedia designer, and full-stack developer, he creates scientific visuals, educational media, and digital tools that help researchers and educators communicate complex ideas clearly. He joined the Centre for Creative Learning (CCL) at IIT Gandhinagar in 2023. His work brings together multimedia design, animation, video production, and software development to support science communication and creative learning. He is passionate about sharing the beauty of science through visuals and empowering researchers to become effective visual storytellers.
+
+Previously, Arun worked as a Science Illustrator at the Science Media Center, IISER Pune, contributing to scientific graphics and educational video production through the NPTEL Multimedia Team. His experience includes overseeing three NPTEL course projects and training more than 350 undergraduate, postgraduate, and doctoral learners in science illustration and animation using open-source tools.
+
+His research-related software development experience includes PresGene - Essential Gene Prediction Server, developed during a research internship at CSIR–National Chemical Laboratory, Pune, under the guidance of Dr. Ram Rup Sarkar. This work involved web-server development for essential gene prediction, connecting his software skills with a biological research application.
+
+Arun’s academic background includes study in the five-year integrated MSc programme in Multimedia and Animation at St. Xavier’s College, Kolkata, and a BSc in Zoology from Netaji Subhas Open University.
+ License : Adobe credentials in Document Design and Generative AI for Graphic Designers, issued in January 2026.
+
+His expertise spans scientific illustration, biomedical visualization, animation, educational video production, graphic design, and full-stack web development. His technical toolkit includes HTML, CSS, JavaScript, PHP, and Adobe Creative Cloud applications, alongside interests in workflow automation and interactive educational tools.
+
+Arun welcomes collaborations with researchers, educators, and scientific institutions to transform research findings and complex concepts into accessible visuals, engaging learning experiences, and useful digital tools.
+
+Institutional profile: https://ccl.iitgn.ac.in/team/arun-kumar-kundu
+Portfolio: https://arunkundu.com
+LinkedIn: https://www.linkedin.com/in/iarunkundu
+Research project: https://presgene.ncl.res.in
+Email: [email protected]
+
+[email protected]

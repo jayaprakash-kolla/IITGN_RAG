@@ -1,0 +1,5907 @@
+#flags:
+
+Submitted Institute Data for Atal Ranking of Institutions on Innovation Achievements (ARIIA) - 2019-20
+Institute Name: Indian Institute of Technology Gandhinagar [ARI-U-0139]
+
+Program Conducted by Institute Related to IPR, Entrepreneurship / Start-ups & Innovation
+
+Name of
+Program
+(Full Name)
+
+Program
+Theme
+
+Program
+Type
+
+Program
+Category
+
+Interactive
+session on
+FOUNDING
+THE TEAM
+
+Entrepreneur
+ship/Startup
+
+Mentoring
+and Capacity
+building
+
+Institute
+Lead Activity
+
+Awareness
+Session
+
+Session on
+Idea
+generation
+and Startup
+opportunity
+identification
+Workshop
+on New
+Product Idea
+to Business
+Innovation
+
+Entrepreneur
+ship/Startup
+
+Innovation
+
+Organizing
+Department /
+Centre /
+Student
+Body Name
+
+Program
+Duration(in
+Days)
+
+Had institute
+spent
+expenses
+either from
+own
+resource/rec
+eived fund to
+organise the
+program/acti
+vity/event?
+
+Total
+Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+Internal
+Participants
+(Student)
+
+Internal
+Participants
+(Faculty)
+
+External
+Participants
+(Student)
+
+External
+Participants
+(Faculty)
+
+Total
+Number of
+Participants
+
+Within
+Campus
+
+20
+
+0
+
+49
+
+0
+
+69
+
+Yes
+
+19308
+
+1
+
+Within
+Campus
+
+8
+
+0
+
+46
+
+0
+
+54
+
+Yes
+
+8955
+
+09-09-2018
+00:00:00
+
+3
+
+Within
+Campus
+
+4
+
+0
+
+58
+
+0
+
+62
+
+Yes
+
+21971
+
+Program
+Start Date
+
+Program
+End Date
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+20-07-2018
+00:00:00
+
+20-07-2018
+00:00:00
+
+1
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+15-07-2018
+00:00:00
+
+15-07-2018
+00:00:00
+
+Workshop
+and short
+course
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+07-09-2018
+00:00:00
+
+Program
+Location
+
+Entrepreneur
+ship and
+Role of
+Design
+
+Awareness
+and
+motivational
+session
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+02-10-2018
+00:00:00
+
+02-10-2018
+00:00:00
+
+1
+
+Within
+Campus
+
+150
+
+25
+
+160
+
+10
+
+345
+
+Yes
+
+6615
+
+Entrepreneur
+ship/Startup,
+Innovation
+
+Blockchain
+Masterclass
+
+Innovation
+
+Masterclass
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+03-11-2018
+00:00:00
+
+03-11-2018
+00:00:00
+
+1
+
+Within
+Campus
+
+15
+
+2
+
+37
+
+0
+
+54
+
+Yes
+
+21303
+
+Short course
+on Building
+early stage
+startups and
+valuations
+
+Short
+Course
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+12-11-2018
+00:00:00
+
+17-11-2018
+00:00:00
+
+6
+
+Within
+Campus
+
+5
+
+0
+
+30
+
+0
+
+35
+
+Yes
+
+59506
+
+Entrepreneur
+ship/Startup
+
+Program Conducted by Institute Related to IPR, Entrepreneurship / Start-ups & Innovation
+Fund
+Raising
+Masterclass
+
+Entrepreneur
+ship/Startup
+
+Masterclass
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+05-12-2018
+00:00:00
+
+05-12-2018
+00:00:00
+
+1
+
+Within
+Campus
+
+4
+
+2
+
+110
+
+10
+
+126
+
+Yes
+
+15777
+
+Product
+Management
+Masterclass
+
+Entrepreneur
+ship/Startup
+
+Masterclass
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+16-11-2018
+00:00:00
+
+16-11-2018
+00:00:00
+
+1
+
+Within
+Campus
+
+4
+
+0
+
+28
+
+5
+
+37
+
+Yes
+
+32794
+
+Secrets of
+Success in
+Silicon
+Valley
+
+Seminar and
+Panel
+Discussion
+
+Institute
+Lead Activity
+
+Shastrarth
+Socratic
+Society
+IITGN and
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+19-03-2019
+00:00:00
+
+19-03-2019
+00:00:00
+
+1
+
+Within
+Campus
+
+150
+
+20
+
+10
+
+0
+
+180
+
+Yes
+
+4800
+
+Entrepreneur
+ship/Startup
+
+The Future
+of Artificial
+Intelligence
+
+Innovation
+
+Seminar
+
+Institute
+Lead Activity
+
+Shastrarth
+Socratic
+Society
+IITGN and
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+08-02-2019
+00:00:00
+
+08-02-2019
+00:00:00
+
+1
+
+Within
+Campus
+
+50
+
+10
+
+0
+
+0
+
+60
+
+Yes
+
+1600
+
+Mentoring
+Session by
+TATA
+Innovations
+Expert Dr T
+S Sunil
+
+Innovation
+
+Mentoring
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+05-12-2018
+00:00:00
+
+05-12-2018
+00:00:00
+
+1
+
+Within
+Campus
+
+10
+
+2
+
+15
+
+0
+
+27
+
+Yes
+
+560
+
+Idea Pitching
+session
+
+Innovation
+
+Pitching
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+12-10-2018
+00:00:00
+
+12-10-2018
+00:00:00
+
+1
+
+Within
+Campus
+
+15
+
+0
+
+0
+
+0
+
+15
+
+Yes
+
+8000
+
+Innovation
+Driven
+Entrepreneur
+ship 1.0
+
+Innovation
+
+Ideation,
+Market
+Research
+and
+Innovation
+Developmen
+t
+
+Student
+Lead Activity
+
+Entrepreneur
+ship Initiative
+of IIT
+Gandhinagar
+
+27-10-2018
+00:00:00
+
+04-11-2018
+00:00:00
+
+9
+
+Within
+Campus
+
+170
+
+0
+
+0
+
+0
+
+170
+
+Yes
+
+8000
+
+Amalthea
+2018
+
+IPR,
+Entrepreneur
+ship/Startup,
+Innovation
+
+Technical
+Summit
+
+Student
+Lead Activity
+
+Amalthea
+Organizing
+Team
+
+20-10-2018
+00:00:00
+
+21-10-2018
+00:00:00
+
+2
+
+Within
+Campus
+
+1200
+
+100
+
+2500
+
+120
+
+3920
+
+Yes
+
+2352613
+
+Ignite 5.0
+
+IPR,
+Entrepreneur
+ship/Startup,
+Innovation
+
+Technical
+Event
+
+Student
+Lead Activity
+
+Organizing
+Team Ignite
+
+16-03-2019
+00:00:00
+
+17-03-2019
+00:00:00
+
+2
+
+Within
+Campus
+
+500
+
+50
+
+1000
+
+25
+
+1575
+
+Yes
+
+304826
+
+Invent at
+IITGN 2018
+
+IPR,
+Innovation
+
+Intensive
+summer
+program in
+inventing
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+
+18-06-2018
+00:00:00
+
+27-07-2018
+00:00:00
+
+40
+
+Within
+Campus
+
+9
+
+2
+
+11
+
+0
+
+22
+
+Yes
+
+2575325
+
+Program Conducted by Institute Related to IPR, Entrepreneurship / Start-ups & Innovation
+IEC Hyperaccelerator
+2019
+
+Startup
+Lifecycle
+Management
+and How to
+prevent an
+early death
+
+Entrepreneur
+ship/Startup
+
+Accelerator
+Workshop
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+28-01-2019
+00:00:00
+
+01-02-2019
+00:00:00
+
+5
+
+Within
+Campus
+
+3
+
+1
+
+18
+
+1
+
+23
+
+Yes
+
+60578
+
+Talk
+
+Institute
+Lead Activity
+
+IIT
+Gandhinagar
+Innovation
+and
+Entrepreneur
+ship Center
+
+26-01-2019
+00:00:00
+
+26-01-2019
+00:00:00
+
+1
+
+Within
+Campus
+
+20
+
+2
+
+0
+
+0
+
+22
+
+Yes
+
+1642
+
+Entrepreneur
+ship/Startup
+
+Participation / Representation of Students and (or) Faculties in Events / Programs related to IPR, entrepreneurship / Start-ups & Innovation organized by repute external
+institutions or agencies at national or international level
+
+Name of
+Program
+(Full Name)
+
+Vibrant
+Gujarat
+delegation of
+Govt of
+Gujarat, to
+visit
+Denmark,
+Finland and
+Sweden
+
+Organizing
+Agency /
+Institute
+Name
+
+Organizing
+Agency Type
+
+Program
+Start Date
+
+Program
+End Date
+
+International
+Showcase
+Visit
+
+Govt of
+Gujarat
+
+Govt.
+Agency
+(State)
+
+24-09-2018
+00:00:00
+
+Program
+Theme
+
+Program
+Type
+
+Entrepreneur
+ship/Startup
+
+Awards/Rec
+ognitions/Ac
+hievements
+
+Award /
+Position /
+Recognition
+Secured
+
+Title of
+Innovation /
+Start-up
+Secured the
+Award /
+Recognition
+
+Had institute
+spent
+expenses
+either from
+own
+resource/rec
+eived fund
+towards
+sending
+delegation to
+participate/re
+present the
+program/acti
+vity/event?
+
+1
+
+No
+
+---
+
+---
+
+Yes
+
+177950
+
+Program
+Duration(in
+Days)
+
+Participants
+(Students)
+
+Participants
+(Faculty)
+
+Total
+Number of
+Participants
+
+04-10-2018
+00:00:00
+
+11
+
+0
+
+1
+
+Total
+Expense
+Amount
+Incurred by
+Institute? (In
+Rupees)
+
+Discover
+Israel
+Programme
+for Young
+Leaders in
+Innovation,
+Higher
+Education
+and Startups
+
+IPR
+
+Ecosystem
+study and
+collaboration
+scouting
+
+Ministry of
+Foreign
+Affairs,
+Government
+of Israel
+
+International
+Agencies
+
+24-11-2018
+00:00:00
+
+29-11-2018
+00:00:00
+
+6
+
+0
+
+1
+
+1
+
+No
+
+---
+
+---
+
+Yes
+
+9225
+
+Visit US
+universities
+(including
+MIT,
+Stanford,
+Columbia
+and UC
+Berkeley), in
+connection
+with
+establishing
+Maker
+Bhavan at
+IIT
+Gandhinagar
+
+IPR
+
+International
+best practice
+study visit
+
+IIT
+Fandhinagar
+
+Educational
+Institute
+
+15-05-2018
+00:00:00
+
+30-05-2018
+00:00:00
+
+16
+
+0
+
+4
+
+4
+
+No
+
+---
+
+---
+
+Yes
+
+1351378
+
+Participation / Representation of Students and (or) Faculties in Events / Programs related to IPR, entrepreneurship / Start-ups & Innovation organized by repute external
+institutions or agencies at national or international level
+Youth
+Connect
+2018
+Ahmedabad
+Vibrant
+Gujarat
+Startup and
+Technology
+Summit
+2018
+Vibrant
+Gujarat
+Global
+Summit and
+Trade Show
+2019
+
+Entrepreneur
+ship/Startup
+
+Entrepreneur
+ship/Startup
+
+Entrepreneur
+ship/Startup
+
+Summit for
+young
+startups and
+students
+
+Young
+Indian
+
+Non-Govt.
+Agencies
+
+16-01-2019
+00:00:00
+
+16-01-2019
+00:00:00
+
+1
+
+6
+
+0
+
+6
+
+No
+
+---
+
+---
+
+Yes
+
+2400
+
+Startup
+Summit
+
+Govt. of
+Gujarat
+
+Govt.
+Agency
+(State)
+
+11-10-2018
+00:00:00
+
+13-10-2018
+00:00:00
+
+3
+
+60
+
+5
+
+65
+
+No
+
+---
+
+---
+
+No
+
+---
+
+Global
+Exhibition
+and
+Interaction
+program
+
+Govt. of
+Gujarat
+
+Govt.
+Agency
+(State)
+
+17-01-2019
+00:00:00
+
+22-01-2019
+00:00:00
+
+6
+
+100
+
+10
+
+110
+
+No
+
+---
+
+---
+
+Yes
+
+503721
+
+Courses on Innovation, IPR and Entrepreneurship Development Offered During the Academic Period 2018-19
+Title of Course/Subject
+Offered
+
+Program Theme
+
+Type of Course
+
+Level of Course
+
+Program Start
+Date
+
+Program End
+Date
+
+Program
+Duration(in
+Days)
+
+Mode of Delivery
+
+Total Number of
+Students
+Completed
+
+Total Enrolment
+Number
+
+Total Numbers of
+Contact Hours of
+Course
+
+MS 304 Organizational
+Behaviour and Human
+Resource Management
+
+Entrepreneurship/Startup
+
+Elective/Core Credit
+Course
+
+Credit Course
+(Elective)
+
+03-01-2019
+00:00:00
+
+26-04-2019
+00:00:00
+
+114
+
+Offline
+
+95
+
+95
+
+40
+
+MS 403 - Engineering
+Entrepreneurship
+
+Entrepreneurship/Startup
+
+Elective/Core Credit
+Course
+
+Credit Course
+(Elective)
+
+01-08-2018
+00:00:00
+
+03-01-2019
+00:00:00
+
+156
+
+Offline
+
+60
+
+60
+
+40
+
+MS 406 - Business Skills for
+Entrepreneurs
+
+Entrepreneurship/Startup
+
+Elective/Core Credit
+Course
+
+Credit Course
+(Elective)
+
+03-01-2019
+00:00:00
+
+22-02-2019
+00:00:00
+
+51
+
+Offline
+
+59
+
+59
+
+40
+
+MS 409 - Managerial
+Economics Concepts
+Applications and Cases
+
+Entrepreneurship/Startup
+
+Elective/Core Credit
+Course
+
+Credit Course
+(Elective)
+
+01-08-2018
+00:00:00
+
+30-11-2018
+00:00:00
+
+122
+
+Offline
+
+35
+
+35
+
+52
+
+MS 499 Project Course
+
+Innovation
+
+Elective/Core Credit
+Course
+
+Credit Course
+(Elective)
+
+01-08-2018
+00:00:00
+
+30-11-2018
+00:00:00
+
+122
+
+Offline
+
+2
+
+2
+
+40
+
+MS 499 Project Course
+
+Innovation
+
+Elective/Core Credit
+Course
+
+Credit Course
+(Elective)
+
+03-01-2019
+00:00:00
+
+26-04-2019
+00:00:00
+
+114
+
+Offline
+
+5
+
+5
+
+40
+
+Innovation, Pre-Incubation & Incubation Centre/Facilities exists in campus
+Name of Centre
+
+Type of Facility
+
+Year of Facility
+Creation
+
+Facility Location /
+Address
+
+Facility Incharge
+
+Carpet Area of Facility
+
+Had institute spent expenses either
+from own resource/received fund
+towards Establishment/Operation of
+Pre-Incubation & Incubation
+Centre/Facilities?
+
+Had institute Generated Income either from
+Services Offered by Pre-Incubation &
+Incubation Centre/Facilities?
+
+Innovation, Pre-Incubation & Incubation Centre/Facilities exists in campus
+IIT Gandhinagar Innovation
+and Entrepreneurship Center
+
+Incubation Unit
+
+2015
+
+Academic Block 9, IIT
+Gandhinagar, Palaj,
+Gandhinagar 382355
+
+Facility
+Incharge
+Name
+
+Sh.
+Anand
+Pandey
+
+Facility
+Incharge
+Email
+
+iiec@iitgn
+.ac.in
+
+10000 Sq. Ft.
+
+Yes
+Annual Capital
+Expenditure (In
+Rupees)
+
+Yes
+3073923
+
+Annual
+Operational
+Expenditure (In
+Rupees)
+
+Facility
+Incharge
+Phone
+
+Research
+Park/Innovation Park
+
+2017
+
+IIT Gandhinagar,
+Palaj, Gandhinagar
+
+Facility
+Incharge
+Name
+
+Nirmal K
+Jha
+
+Facility
+Incharge
+Email
+
+nirmal.jha
+@iitgn.ac.
+in
+
+200000 Sq. Ft.
+
+Annual Capital
+Expenditure (In
+Rupees)
+
+Intellectual Property Cell at
+R&D office
+
+IPR Cell / Patent
+Facilitation Unit /
+Technology Transfer
+Centre
+
+2017
+
+2015
+
+Academic Block 5, IIT
+Gandhinagar, Palaj,
+Gandhinagar
+
+R&D Office IITGN
+
+Total Annual Income
+from Office Space
+and Rental Services
+to Startups/Innovators (In
+Rupees)
+
+1246272
+
+Yes
+216919644
+
+Annual
+Operational
+Expenditure (In
+Rupees)
+
+Facility
+Incharge
+Name
+
+Prof.
+CHINMA
+Y
+GHOROI
+
+Facility
+Incharge
+Email
+
+chinmayg
+@iitgn.ac.
+in
+
+Facility
+Incharge
+Phone
+
+79239524
+05
+
+Facility
+Incharge
+Name
+
+Prof. S P
+Mehrotra
+
+Facility
+Incharge
+Email
+
+spm@iitg
+n.ac.in
+
+Facility
+Incharge
+Phone
+
+0
+
+07923952
+013
+
+Total Annual Income
+from Training and
+Skill Development
+Services (In Rupees)
+
+0
+
+Total Annual Income
+from (Technical and
+Business) Mentoring
+Services (In Rupees)
+
+0
+
+Total Annual Income
+from Office Space
+and Rental Services
+to Startups/Innovators (In
+Rupees)
+
+3050182
+
+6122549
+
+Facility
+Incharge
+Phone
+
+Centre of Excellence
+with Advance Tools &
+Equipment
+
+Total Annual Income
+from (Technical and
+Business) Mentoring
+Services (In Rupees)
+
+Yes
+
+07923952
+064
+
+Common Research and
+Technology Development Hub
+
+25000
+
+6113557
+07923952
+061
+
+IIT Gandhinagar Research
+Park
+
+Total Annual Income
+from Training and
+Skill Development
+Services (In Rupees)
+
+3000 Sq. Ft.
+
+No
+
+Yes
+Annual Capital
+Expenditure (In
+Rupees)
+
+220008944
+
+1164997
+Annual
+Operational
+Expenditure (In
+Rupees)
+
+50 Sq. Ft.
+
+No
+
+Yes
+Annual Capital
+Expenditure (In
+Rupees)
+
+0
+
+Annual
+Operational
+Expenditure (In
+Rupees)
+
+400879
+
+Grants / Funds Received by Pre-Incubation & Incubation Centre / Facilities exists in Campus
+Name of Centre
+
+Source of Grant / Fund
+
+Agency Name
+
+Agency Type
+
+Total Grants / Funds Received by
+Pre-Incubation & Incubation Centre /
+Facilities exists in Campus (In
+Rupees)
+
+Had Received Grants / Funds by PreIncubation & Incubation Centre /
+Facilities exists in Campus?
+
+IIT Gandhinagar Innovation and Entrepreneurship
+Center
+
+Funding Agency
+
+Industries Department, Govt. of
+Gujarat
+
+Govt. Agency (State)
+
+Yes
+
+4120000
+
+IIT Gandhinagar Research Park
+
+Funding Agency
+
+Department of Science and
+Technology, Govt of India
+
+Govt. Agency (Central)
+
+Yes
+
+56100000
+
+Common Research and Technology Development
+Hub
+
+Funding Agency
+
+Department of Scientific and Industrial
+Research
+
+Govt. Agency (Central)
+
+Yes
+
+21425398
+
+IIT Gandhinagar Innovation and Entrepreneurship
+Center
+
+Funding Agency
+
+Department of Science and
+Technology, Govt. of India
+
+Govt. Agency (Central)
+
+Yes
+
+15936000
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Geocarte Radar
+Technologies
+
+Name of Centre
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Stage of Innovation
+(TRL Stage)
+
+TRL 9 : Full
+commercial
+application,
+technology
+available for
+consumers.
+
+Innovation
+Developed by
+
+Faculty and
+Student
+
+Year of Innovation /
+Project Started
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+2015
+
+Non-IP / NonPatented
+Technology
+
+Completed and
+Commercialize as
+Satrap/Company
+
+TRL 9 : Full
+commercial
+application,
+technology
+available for
+consumers.
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+Yes
+
+Yes
+
+Yes
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+
+Total Seed
+Fund/Angel
+Investment/VC
+Fund raised by
+Idea/Prototype/I
+nnovations
+during the
+period of preincubation/incub
+ation support at
+your Preincubation/incub
+ation or institute
+financial period
+2018-19 (in
+Rupees)
+
+Total Seed
+Fund/Angel
+Investment/VC
+Fund raised by
+Idea/Prototype/I
+nnovations
+during the
+period of preincubation/incub
+ation support at
+your Preincubation/incub
+ation or institute
+financial period
+2018-19 (in
+Rupees)
+
+2120000
+
+2120000
+
+2120000
+
+Seedfu
+nd/Ang
+el/VC
+Agenc
+y
+Name
+
+Indus
+tries
+Depa
+rtmen
+t,
+Govt.
+of
+Gujar
+at
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+Innovation
+Developed by
+
+Year of Innovation /
+Project Started
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Agenc
+y Type
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+Govt.
+Agen
+cy
+(State
+)
+
+Principal Innovator
+Name
+Silky Agrawal
+
+Type
+Incubatee Entrepreneur
+
+Gender
+Female
+
+Email
+silky.agrawal@iitgn.ac.in
+
+Contact
+9586855939
+
+Co-Innovator
+Name
+-
+
+Type
+Incubatee Entrepreneur
+
+Gender
+Female
+
+Email
+silky.agrawal@iitgn.ac.in
+
+Contact
+9586855939
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Think 4Dea Technologies
+
+Name of Centre
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Stage of Innovation
+(TRL Stage)
+
+TRL 9 : Full
+commercial
+application,
+technology
+available for
+consumers.
+
+Innovation
+Developed by
+
+Incubatee
+Entrepreneur
+
+Year of Innovation /
+Project Started
+
+2015
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+IP / Patented
+Technology
+
+Completed and
+Commercialize as
+Satrap/Company
+
+TRL 7 :
+Demonstration
+system operating in
+operational
+environment at precommercial scale.
+
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+PCT/I
+N201
+8/050
+155
+2018
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+Yes
+
+Yes
+
+Yes
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+
+Total Seed
+Fund/Angel
+Investment/VC
+Fund raised by
+Idea/Prototype/I
+nnovations
+during the
+period of preincubation/incub
+ation support at
+your Preincubation/incub
+ation or institute
+financial period
+2018-19 (in
+Rupees)
+
+Total Seed
+Fund/Angel
+Investment/VC
+Fund raised by
+Idea/Prototype/I
+nnovations
+during the
+period of preincubation/incub
+ation support at
+your Preincubation/incub
+ation or institute
+financial period
+2018-19 (in
+Rupees)
+
+2500000
+
+2500000
+
+2500000
+
+Year of
+Patent
+Applica
+tion
+
+Seedfu
+nd/Ang
+el/VC
+Agenc
+y
+Name
+
+Agenc
+y Type
+
+IIT
+Gand
+hinag
+ar
+
+Educ
+ation
+al
+Institu
+te
+
+Principal Innovator
+Name
+Preet Shah
+
+Type
+Alumni Entrepreneur
+
+Gender
+Male
+
+Email
+preetshah@btech2011.iitgn.ac.in
+
+Contact
+9408022082
+
+Co-Innovator
+Name
+
+Type
+
+Gender
+
+Email
+
+Contact
+
+Dhyey Shah
+
+Alumni Entrepreneur
+
+Male
+
+dhyey@btech2011.iitgn.ac.in
+
+8866822740
+
+Eepsit Tiwari
+
+Alumni Entrepreneur
+
+Male
+
+eepsit_tiwari@btech2011.iitgn.ac.in
+
+8485973839
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Whitepanda Media
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+TRL 5 : Large scale
+prototype tested in
+intended
+environment.
+
+Innovation
+Developed by
+
+Alumni
+Entrepreneur
+
+Year of Innovation /
+Project Started
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+2017
+
+Non-IP / NonPatented
+Technology
+
+Receiving
+Incubation Support
+at Incubation
+Centre
+
+TRL 6 : Prototype
+system tested in
+intended
+environment close
+to expected
+performance.
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+Yes
+
+Yes
+
+Yes
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+
+Total Seed
+Fund/Angel
+Investment/VC
+Fund raised by
+Idea/Prototype/I
+nnovations
+during the
+period of preincubation/incub
+ation support at
+your Preincubation/incub
+ation or institute
+financial period
+2018-19 (in
+Rupees)
+
+Total Seed
+Fund/Angel
+Investment/VC
+Fund raised by
+Idea/Prototype/I
+nnovations
+during the
+period of preincubation/incub
+ation support at
+your Preincubation/incub
+ation or institute
+financial period
+2018-19 (in
+Rupees)
+
+1000000
+
+1000000
+
+1000000
+
+Seedfu
+nd/Ang
+el/VC
+Agenc
+y
+Name
+
+Indus
+tries
+Depa
+rtmen
+t
+Govt.
+of
+Gujar
+at
+
+Agenc
+y Type
+
+Govt.
+Agen
+cy
+(State
+)
+
+Principal Innovator
+Name
+Roshan Agarwal
+
+Type
+Alumni Entrepreneur
+
+Gender
+Male
+
+Email
+roshan@whitepanda.in
+
+Contact
+7600953553
+
+Co-Innovator
+Name
+-
+
+Type
+Alumni Entrepreneur
+
+Gender
+Male
+
+Email
+roshan@whitepanda.in
+
+Contact
+7600953553
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Micob Technologies
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Innovation
+Developed by
+
+Incubatee
+Entrepreneur
+
+Year of Innovation /
+Project Started
+
+2017
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+IP / Patented
+Technology
+
+Receiving
+Incubation Support
+at Incubation
+Centre
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+2102
+6589
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+No
+
+No
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+Yes
+Total Seed
+Fund/Angel
+Investment/VC
+Fund raised by
+Idea/Prototype/I
+nnovations
+during the
+period of preincubation/incub
+ation support at
+your Preincubation/incub
+ation or institute
+financial period
+2018-19 (in
+Rupees)
+
+2018
+Year of
+Patent
+Applica
+tion
+
+0
+
+Principal Innovator
+Name
+Shashank Shekhar
+
+Type
+Incubatee Entrepreneur
+
+Gender
+Male
+
+Email
+shashank.shekhar@iitgn.ac.in
+
+Contact
+8980701991
+
+Co-Innovator
+Name
+Manish Kumar
+
+Type
+Faculty
+
+Gender
+Male
+
+Email
+mkumar@iitgn.ac.in
+
+Contact
+8603773002
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Powency Circuit Pvt. Ltd.
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+Innovation
+Developed by
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+TRL 5 : Large scale
+prototype tested in
+intended
+environment.
+
+Innovator/Entrepren
+eur External to
+Institute
+
+Year of Innovation /
+Project Started
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+2016
+
+Non-IP / NonPatented
+Technology
+
+Receiving
+Incubation Support
+at Incubation
+Centre
+
+TRL 5 : Large scale
+prototype tested in
+intended
+environment.
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+No
+
+No
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+Yes
+Total Seed
+Fund/Angel
+Investment/VC
+Fund raised by
+Idea/Prototype/I
+nnovations
+during the
+period of preincubation/incub
+ation support at
+your Preincubation/incub
+ation or institute
+financial period
+2018-19 (in
+Rupees)
+0
+
+Principal Innovator
+Name
+Sunil Parmar
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Male
+
+Email
+sunil.ue@gmail.com
+
+Contact
+7874577842
+
+Co-Innovator
+Name
+-
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Male
+
+Email
+sunil.ue@gmail.com
+
+Contact
+7874577842
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Bookshort
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+Innovation
+Developed by
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+TRL 5 : Large scale
+prototype tested in
+intended
+environment.
+
+Innovator/Entrepren
+eur External to
+Institute
+
+Year of Innovation /
+Project Started
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+2018
+
+Non-IP / NonPatented
+Technology
+
+Graduated from
+Institute/Centre and
+Pursuing on Ow
+
+TRL 5 : Large scale
+prototype tested in
+intended
+environment.
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+No
+
+No
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+Yes
+Total Seed
+Fund/Angel
+Investment/VC
+Fund raised by
+Idea/Prototype/I
+nnovations
+during the
+period of preincubation/incub
+ation support at
+your Preincubation/incub
+ation or institute
+financial period
+2018-19 (in
+Rupees)
+0
+
+Principal Innovator
+Name
+Chirag B
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Male
+
+Email
+chiragcb17@gmail.com
+
+Contact
+8826496800
+
+Co-Innovator
+Name
+-
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Male
+
+Email
+chiragcb17@gmail.com
+
+Contact
+8826496800
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Autoforest
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+Innovation
+Developed by
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+TRL 5 : Large scale
+prototype tested in
+intended
+environment.
+
+Innovator/Entrepren
+eur External to
+Institute
+
+Year of Innovation /
+Project Started
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+2018
+
+Non-IP / NonPatented
+Technology
+
+Receiving
+Incubation Support
+at Incubation
+Centre
+
+TRL 5 : Large scale
+prototype tested in
+intended
+environment.
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+No
+
+No
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+Yes
+Total Seed
+Fund/Angel
+Investment/VC
+Fund raised by
+Idea/Prototype/I
+nnovations
+during the
+period of preincubation/incub
+ation support at
+your Preincubation/incub
+ation or institute
+financial period
+2018-19 (in
+Rupees)
+0
+
+Principal Innovator
+Name
+Kartik Panchal
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Male
+
+Email
+kartikpanchal@autoforest.in
+
+Contact
+7490021766
+
+Co-Innovator
+Name
+-
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Male
+
+Email
+kartikpanchal@autoforest.in
+
+Contact
+7490021766
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+SLEEP INJURY
+PREVENTION DEVICE
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+Innovation
+Developed by
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Innovator/Entrepren
+eur External to
+Institute
+
+Year of Innovation /
+Project Started
+
+2018
+
+Type of Innovation
+
+IP / Patented
+Technology
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+3102
+8274
+
+Year of
+Patent
+Applica
+tion
+
+2018
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+Still Under
+Development
+Process
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Yes
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+No
+
+No
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+38124
+
+Principal Innovator
+Name
+
+Type
+
+Anshuman Dhar
+
+Gender
+
+Innovator/Entrepreneur External to
+Institute
+
+Male
+
+Email
+
+Contact
+
+dhar.anshuman@gmail.com
+
+07923952061
+
+Co-Innovator
+Name
+
+Type
+
+Agrata Patel
+
+UNDERRUN
+PROTECTION DEVICE
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Gender
+
+Innovator/Entrepreneur External to
+Institute
+TRL 3 : Applied
+research. First
+laboratory tests
+completed; proof of
+concept.
+
+Student
+
+2018
+
+Female
+
+IP / Patented
+Technology
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+4102
+8273
+
+Year of
+Patent
+Applica
+tion
+
+2018
+
+Still Under
+Development
+Process
+
+Email
+
+Contact
+
+agratapatel@gmail.com
+
+TRL 3 : Applied
+research. First
+laboratory tests
+completed; proof of
+concept.
+
+Yes
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+36796
+
+07923952061
+
+No
+
+No
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+Innovation
+Developed by
+
+Year of Innovation /
+Project Started
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+Principal Innovator
+Name
+
+Type
+
+Tanmaey Gupta
+
+Gender
+
+Student
+
+Male
+
+Email
+
+Contact
+
+tanmaeygupta@gmail.com
+
+07923952061
+
+Co-Innovator
+Name
+
+Type
+
+Shubham Nandeshwar
+
+INDOOR NAVIGATION
+SYSTEM
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Gender
+
+Innovator/Entrepreneur External to
+Institute
+
+TRL 3 : Applied
+research. First
+laboratory tests
+completed; proof of
+concept.
+
+Innovator/Entrepren
+eur External to
+Institute
+
+2018
+
+Male
+
+IP / Patented
+Technology
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+1102
+8265
+
+Year of
+Patent
+Applica
+tion
+
+2018
+
+Email
+
+Contact
+
+me14b144@smail.iitm.ac.in
+
+Still Under
+Development
+Process
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Yes
+
+07923952061
+
+No
+
+No
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+42796
+
+Principal Innovator
+Name
+Khyati Priya
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Female
+
+Email
+khyatipriya.official@gmail.com
+
+Contact
+07923952061
+
+Co-Innovator
+Name
+Birendra Kumar Prajapati
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Male
+
+Email
+kumarviren55@gmail.com
+
+Contact
+07923952061
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+CONVERTIBLE MOBILE
+TOILET
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Innovation
+Developed by
+
+Student
+
+Year of Innovation /
+Project Started
+
+2018
+
+Type of Innovation
+
+IP / Patented
+Technology
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+1102
+8278
+
+Year of
+Patent
+Applica
+tion
+
+2018
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+Still Under
+Development
+Process
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Yes
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+No
+
+No
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+42796
+
+Principal Innovator
+Name
+
+Type
+
+Akshat Bansal
+
+Gender
+
+Student
+
+Male
+
+Email
+
+Contact
+
+akshat.bansal@iitgn.ac.in
+
+07923952061
+
+Co-Innovator
+Name
+
+Type
+
+Suyash Patidar
+TEMPERATURE BASED
+SOCKET CIRCUIT
+TRIPPER
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Gender
+
+Student
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Student
+
+2018
+
+Male
+
+IP / Patented
+Technology
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+1102
+8277
+
+Year of
+Patent
+Applica
+tion
+
+2018
+
+Email
+
+Contact
+
+suyash.patidar@iitgn.ac.in
+Still Under
+Development
+Process
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Yes
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+33796
+
+07923952061
+No
+
+No
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+Innovation
+Developed by
+
+Year of Innovation /
+Project Started
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+Principal Innovator
+Name
+
+Type
+
+Rohit Kumar Singh
+
+Gender
+
+Student
+
+Male
+
+Email
+
+Contact
+
+rohit.singh@iitgn.ac.in
+
+07923952061
+
+Co-Innovator
+Name
+
+Type
+
+Tejas Shyamsundar Patil
+
+AN APPARATUS FOR
+MAKING BAGS
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Gender
+
+Innovator/Entrepreneur External to
+Institute
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Student
+
+2018
+
+Male
+
+IP / Patented
+Technology
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+2102
+8291
+
+Year of
+Patent
+Applica
+tion
+
+2018
+
+Email
+
+Contact
+
+tejas.patil97@hotmail.com
+
+Still Under
+Development
+Process
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Yes
+
+07923952061
+
+No
+
+No
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+31796
+
+Principal Innovator
+Name
+Udit Relan
+
+Type
+Student
+
+Gender
+Male
+
+Email
+relan.udit@iitgn.ac.in
+
+Contact
+07923952061
+
+Co-Innovator
+Name
+Devand Singhi
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Male
+
+Email
+idevangsinghi@gmail.com
+
+Contact
+07923952061
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+AN APPARATUS TO DO
+INTER AND INTRA-ROW
+WEEDING
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Innovation
+Developed by
+
+Student
+
+Year of Innovation /
+Project Started
+
+2018
+
+Type of Innovation
+
+IP / Patented
+Technology
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+1102
+8276
+
+Year of
+Patent
+Applica
+tion
+
+2018
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+Still Under
+Development
+Process
+
+TRL 3 : Applied
+research. First
+laboratory tests
+completed; proof of
+concept.
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Yes
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+No
+
+No
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+29796
+
+Principal Innovator
+Name
+
+Type
+
+Vedant Krishna Bhutani
+
+Gender
+
+Student
+
+Male
+
+Email
+
+Contact
+
+vedanta.bhutani@iitgn.ac.in
+
+07923952061
+
+Co-Innovator
+Name
+
+Type
+
+Kuldeep Kumar
+
+CARDIOPULMONARY
+RESUSCITATION DEVICE
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Gender
+
+Innovator/Entrepreneur External to
+Institute
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Student
+
+2018
+
+Male
+
+IP / Patented
+Technology
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+1102
+8281
+
+Year of
+Patent
+Applica
+tion
+
+2018
+
+Email
+
+Contact
+
+2016ucs0020@iitjammu.ac.in
+
+Still Under
+Development
+Process
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Yes
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+29796
+
+07923952061
+
+No
+
+No
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+Innovation
+Developed by
+
+Year of Innovation /
+Project Started
+
+Type of Innovation
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+Principal Innovator
+Name
+
+Type
+
+Kratika Bhagtani
+
+Gender
+
+Student
+
+Female
+
+Email
+
+Contact
+
+kratika.bhagtani@iitgn.ac.in
+
+07923952061
+
+Co-Innovator
+Name
+
+Type
+
+Karthik Subramanya Karvaje
+LOAD CARRIER
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Gender
+
+Student
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Student
+
+Male
+
+2018
+
+IP / Patented
+Technology
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+4102
+8296
+
+Year of
+Patent
+Applica
+tion
+
+2018
+
+Email
+
+Contact
+
+karthik.subramanya@iitgn.ac.in
+Still Under
+Development
+Process
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Yes
+
+07923952061
+No
+
+No
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+29796
+
+Principal Innovator
+Name
+Chandra Chavali Bharath
+
+Type
+Student
+
+Gender
+Male
+
+Email
+chavali.bharath@iitgn.ac.in
+
+Contact
+07923952061
+
+Co-Innovator
+Name
+Srishal Chekkala Sai
+
+Type
+Student
+
+Gender
+Male
+
+Email
+chekkala.sai@iitgn.ac.in
+
+Contact
+07923952061
+
+Idea / Prototype / Innovation have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Idea / POC /
+Innovation / Prototype
+Received Funding / Grant
+from Centre
+
+AN APPARATUS AND
+METHOD FOR
+LOCALIZED IRRIGATION,
+WEED CONTROL AND
+LOCALIZED PESTICIDE
+DELIVERY
+
+Name of Centre
+
+Stage of Innovation
+(TRL Stage)
+
+Innovation
+Developed by
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Innovator/Entrepren
+eur External to
+Institute
+
+Year of Innovation /
+Project Started
+
+2018
+
+Type of Innovation
+
+IP / Patented
+Technology
+Applie
+d for
+Patent
+
+Yes
+
+Patent
+Applica
+tion No
+
+2018
+2102
+8292
+
+Year of
+Patent
+Applica
+tion
+
+2018
+
+Current Status PreIncubation/Incubati
+on Support
+Received
+
+Current Status of
+Innovation, Stage
+of TRL it has
+reached
+
+Still Under
+Development
+Process
+
+TRL 4 : Small scale
+prototype built in a
+laboratory
+environment ("ugly"
+prototype).
+
+Had Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in terms
+of Seed Grant/Fund
+Support to Idea /
+Prototype /
+Innovations
+Development
+during the financial
+period 2018-19
+
+Yes
+
+Had the
+Idea/Prototype/Inno
+vations raised any
+Seed fund/Angel
+Investment/VC
+during the period of
+receiving preincubation/incubatio
+n support at your
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19
+
+Had the Incubation
+Centre/institute
+received any
+income/revenue
+from
+Idea/Prototype/Inno
+vations for the preincubation/incubatio
+n support and the
+services offered by
+Preincubation/incubatio
+n or institute during
+the financial period
+2018-19?
+
+No
+
+No
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+above
+Idea/Prototype/I
+nnovations
+Development by
+Centre (In
+Rupees)
+29796
+
+Principal Innovator
+Name
+Yash Sharma
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Male
+
+Email
+pksharmapks13@gmail.com
+
+Contact
+07923952061
+
+Co-Innovator
+Name
+Farazul Haque
+
+Type
+Innovator/Entrepreneur External to
+Institute
+
+Gender
+Male
+
+Email
+h.farazul@gmail.com
+
+Contact
+07923952061
+
+Start-ups have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Start-up
+Received Funding /
+Grant from Centre
+
+Name of Centre
+
+GEOCARTE RADAR
+TECHNOLOGY
+PRIVATE LIMITED
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Year of
+Registration
+
+2015-16
+
+Registered as
+
+Private Limited
+
+Start-up with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+U93000MP2015P
+TC035073
+
+Start-up Founded
+by
+
+Alumni
+Entrepreneur
+
+Type of
+Innovation
+
+Non-IP / NonPatented
+Technology
+
+Current Status
+PreIncubation/Incuba
+tion Support
+Received
+
+Receiving
+Incubation
+Support from
+Incubation Unit
+
+Has the Start-up
+Grown to a stage
+of Employment
+Generation to 10
+Numbers or an
+annual Turnover
+to Rs. 50 Lakhs
+during the
+financial year
+2018-19
+
+Yes
+
+Had
+Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in
+terms of Seed
+Grant/Fund
+Support to Startup during the
+financial period
+2018-19?
+
+Had the
+Incubation
+Centre/institute
+Received any
+income/revenue
+from Start-up for
+the preincubation/incuba
+tion support and
+the services
+offered by Preincubation/incuba
+tion or institute
+during the
+financial period
+2018-19 ?
+
+Had the Start-up
+raised any Seed
+fund/Angel
+Investment/VC
+during the period
+of receiving preincubation/incuba
+tion support at
+your Preincubation/incuba
+tion or institute
+during the
+financial period
+2018-19?
+
+No
+
+Yes
+
+Yes
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+Start-up by
+Institute/Centr
+e (In Rupees)
+
+Total Income
+received from
+Start-up for
+preincubation/inc
+ubation
+support and
+the services
+offered by Preincubation/inc
+ubation or
+institute during
+the financial
+period 201819 (in Rupees)
+
+2120000
+
+2120000
+
+Founder
+Name
+SILKY AGRAWAL
+
+DIN Number
+07342626
+
+Type
+Alumni Entrepreneur
+
+Gender
+Female
+
+Email
+silky.agrawal@iitgn.ac.in
+
+Contact
+9586855930
+
+Co-Founder
+Name
+SILKY AGRAWAL
+
+DIN Number
+07342626
+
+Type
+Alumni Entrepreneur
+
+Gender
+Female
+
+Email
+silky.agrawal@iitgn.ac.in
+
+Contact
+9586855930
+
+Start-ups have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Start-up
+Received Funding /
+Grant from Centre
+
+THINK 4DEA
+TECHNOLOGIES
+PRIVATE LIMITED
+
+Name of Centre
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Year of
+Registration
+
+2014-15
+
+Registered as
+
+Start-up with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Private Limited
+
+U72900GJ2015P
+TC084523
+
+Start-up Founded
+by
+
+Alumni
+Entrepreneur
+
+Type of
+Innovation
+
+Current Status
+PreIncubation/Incuba
+tion Support
+Received
+
+IP / Patented
+Technology
+
+Graduated from
+Incubation
+Unit/Centre
+
+Applie
+d for
+Paten
+t
+
+Yes
+
+Paten
+t
+Applic
+ation
+No
+
+PCT/
+IN20
+18/0
+5015
+5
+
+Year
+of
+Paten
+t
+Applic
+ation
+
+2018
+
+Has the Start-up
+Grown to a stage
+of Employment
+Generation to 10
+Numbers or an
+annual Turnover
+to Rs. 50 Lakhs
+during the
+financial year
+2018-19
+
+Yes
+
+Had
+Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in
+terms of Seed
+Grant/Fund
+Support to Startup during the
+financial period
+2018-19?
+
+Had the
+Incubation
+Centre/institute
+Received any
+income/revenue
+from Start-up for
+the preincubation/incuba
+tion support and
+the services
+offered by Preincubation/incuba
+tion or institute
+during the
+financial period
+2018-19 ?
+
+Had the Start-up
+raised any Seed
+fund/Angel
+Investment/VC
+during the period
+of receiving preincubation/incuba
+tion support at
+your Preincubation/incuba
+tion or institute
+during the
+financial period
+2018-19?
+
+No
+
+Yes
+
+Yes
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+Start-up by
+Institute/Centr
+e (In Rupees)
+
+Total Income
+received from
+Start-up for
+preincubation/inc
+ubation
+support and
+the services
+offered by Preincubation/inc
+ubation or
+institute during
+the financial
+period 201819 (in Rupees)
+
+2500000
+
+2500000
+
+Founder
+Name
+EEPSIT TIWARI
+
+DIN Number
+07223801
+
+Type
+Alumni Entrepreneur
+
+Gender
+Male
+
+Email
+eepsit_tiwari@btech2011.iitgn.
+ac.in
+
+Contact
+8485973839
+
+Co-Founder
+Name
+
+DIN Number
+
+Type
+
+Gender
+
+Email
+
+Contact
+
+Dhyey Shah
+
+07223774
+
+Alumni Entrepreneur
+
+Male
+
+dhyey@btech2011.iitgn.ac.in
+
+8866822740
+
+Preet Shah
+
+07223794
+
+Alumni Entrepreneur
+
+Male
+
+preetshah@btech2011.iitgn.ac.
+in
+
+9408022082
+
+Start-ups have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Start-up
+Received Funding /
+Grant from Centre
+
+WHITEPANDA MEDIA
+PRIVATE LIMITED
+
+Year of
+Registration
+
+Name of Centre
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+2016-17
+
+Registered as
+
+Private Limited
+
+Start-up with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+U74999WB2016P
+TC216630
+
+Start-up Founded
+by
+
+Alumni
+Entrepreneur
+
+Type of
+Innovation
+
+Non-IP / NonPatented
+Technology
+
+Current Status
+PreIncubation/Incuba
+tion Support
+Received
+
+Receiving
+Incubation
+Support from
+Incubation Unit
+
+Has the Start-up
+Grown to a stage
+of Employment
+Generation to 10
+Numbers or an
+annual Turnover
+to Rs. 50 Lakhs
+during the
+financial year
+2018-19
+
+Yes
+
+Had
+Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in
+terms of Seed
+Grant/Fund
+Support to Startup during the
+financial period
+2018-19?
+
+Had the
+Incubation
+Centre/institute
+Received any
+income/revenue
+from Start-up for
+the preincubation/incuba
+tion support and
+the services
+offered by Preincubation/incuba
+tion or institute
+during the
+financial period
+2018-19 ?
+
+Had the Start-up
+raised any Seed
+fund/Angel
+Investment/VC
+during the period
+of receiving preincubation/incuba
+tion support at
+your Preincubation/incuba
+tion or institute
+during the
+financial period
+2018-19?
+
+No
+
+Yes
+
+Yes
+
+Total Seed
+Grant/Fund
+Amount
+Disbursed to
+Start-up by
+Institute/Centr
+e (In Rupees)
+
+Total Income
+received from
+Start-up for
+preincubation/inc
+ubation
+support and
+the services
+offered by Preincubation/inc
+ubation or
+institute during
+the financial
+period 201819 (in Rupees)
+
+1000000
+
+1000000
+
+Founder
+Name
+ROSHAN AGARWAL
+
+DIN Number
+07519936
+
+Type
+Alumni Entrepreneur
+
+Gender
+Male
+
+Email
+roshan@whitepanda.in
+
+Contact
+7600953553
+
+Co-Founder
+Name
+ROSHAN AGARWAL
+
+DIN Number
+07519936
+
+Type
+Alumni Entrepreneur
+
+Gender
+Male
+
+Email
+roshan@whitepanda.in
+
+Contact
+7600953553
+
+Start-ups have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Start-up
+Received Funding /
+Grant from Centre
+
+MICOB PRIVATE
+LIMITED
+
+Year of
+Registration
+
+Name of Centre
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+2018-19
+
+Registered as
+
+Private Limited
+
+Start-up with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+U74999HR2018P
+TC074716
+
+Start-up Founded
+by
+
+Student
+
+Type of
+Innovation
+
+Current Status
+PreIncubation/Incuba
+tion Support
+Received
+
+IP / Patented
+Technology
+
+Receiving
+Incubation
+Support from
+Incubation Unit
+
+Applie
+d for
+Paten
+t
+
+Yes
+
+Paten
+t
+Applic
+ation
+No
+
+2018
+2102
+6589
+
+Year
+of
+Paten
+t
+Applic
+ation
+
+2018
+
+Has the Start-up
+Grown to a stage
+of Employment
+Generation to 10
+Numbers or an
+annual Turnover
+to Rs. 50 Lakhs
+during the
+financial year
+2018-19
+
+Had
+Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in
+terms of Seed
+Grant/Fund
+Support to Startup during the
+financial period
+2018-19?
+
+Had the Start-up
+raised any Seed
+fund/Angel
+Investment/VC
+during the period
+of receiving preincubation/incuba
+tion support at
+your Preincubation/incuba
+tion or institute
+during the
+financial period
+2018-19?
+
+No
+
+No
+
+No
+
+Had the
+Incubation
+Centre/institute
+Received any
+income/revenue
+from Start-up for
+the preincubation/incuba
+tion support and
+the services
+offered by Preincubation/incuba
+tion or institute
+during the
+financial period
+2018-19 ?
+Yes
+Total Income
+received from
+Start-up for
+preincubation/inc
+ubation
+support and
+the services
+offered by Preincubation/inc
+ubation or
+institute during
+the financial
+period 201819 (in Rupees)
+0
+
+Founder
+Name
+SHASHANK SHEKHAR
+
+DIN Number
+08164521
+
+Type
+Student
+
+Gender
+Male
+
+Email
+shashank.shekhar@iitgn.ac.in
+
+Contact
+8980701991
+
+Co-Founder
+Name
+
+DIN Number
+
+Type
+
+Gender
+
+Email
+
+Contact
+
+ANKITA SINHA
+
+08164522
+
+Student
+
+Female
+
+ankita.sinha@iitgn.ac.in
+
+9099542407
+
+RISHABH MATHUR
+
+08164523
+
+Student
+
+Male
+
+rishabh@micob.in
+
+8238051992
+
+Start-ups have received Grant / funding from Pre-Incubation / Incubation Centre / Facilities
+
+Name of Start-up
+Received Funding /
+Grant from Centre
+
+POWENCY CIRCUIT
+PRIVATE LIMITED
+
+Name of Centre
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship
+Center
+
+Year of
+Registration
+
+2016-17
+
+Registered as
+
+Start-up with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Start-up Founded
+by
+
+Type of
+Innovation
+
+Private Limited
+
+U72900GJ2016P
+TC092921
+
+Innovator/Entrepr
+eneur External to
+Institute
+
+Non-IP / NonPatented
+Technology
+
+Current Status
+PreIncubation/Incuba
+tion Support
+Received
+
+Receiving
+Incubation
+Support from
+Incubation Unit
+
+Has the Start-up
+Grown to a stage
+of Employment
+Generation to 10
+Numbers or an
+annual Turnover
+to Rs. 50 Lakhs
+during the
+financial year
+2018-19
+
+Had
+Centre/institute
+provided any
+Financial support
+(either own
+resource or fund
+received from
+agencies) in
+terms of Seed
+Grant/Fund
+Support to Startup during the
+financial period
+2018-19?
+
+Had the Start-up
+raised any Seed
+fund/Angel
+Investment/VC
+during the period
+of receiving preincubation/incuba
+tion support at
+your Preincubation/incuba
+tion or institute
+during the
+financial period
+2018-19?
+
+No
+
+No
+
+No
+
+Had the
+Incubation
+Centre/institute
+Received any
+income/revenue
+from Start-up for
+the preincubation/incuba
+tion support and
+the services
+offered by Preincubation/incuba
+tion or institute
+during the
+financial period
+2018-19 ?
+Yes
+Total Income
+received from
+Start-up for
+preincubation/inc
+ubation
+support and
+the services
+offered by Preincubation/inc
+ubation or
+institute during
+the financial
+period 201819 (in Rupees)
+0
+
+Founder
+Name
+
+DIN Number
+
+Sunil Parmar
+
+07497515
+
+Type
+Innovator/Entrepreneur
+External to Institute
+
+Gender
+Male
+
+Email
+
+Contact
+
+sunil.ue@gmail.com
+
+7874577842
+
+Co-Founder
+Name
+
+DIN Number
+
+Sunil Parmar
+
+07497515
+
+Type
+Innovator/Entrepreneur
+External to Institute
+
+Gender
+Male
+
+Email
+
+Contact
+
+sunil.ue@gmail.com
+
+7874577842
+
+Co-Incubation Partnership
+Type of Partnership
+
+Partnership Institute Name
+
+Type of Support Offered
+
+No. of Student Projects/ Ideas / Innovation /
+Startups Supported
+
+Date of MOU / Agreement Signed on
+
+Incubation Services/Support Extended to Other
+Institute
+
+NASSCOM CoE IOT and AI
+
+Mentoring,Networking
+
+2
+
+22-05-2018
+
+Incubation Services/Support Extended to Other
+Institute
+
+Boeing India
+
+Pre-incubation,Incubation,Mentoring,Networking
+
+20
+
+01-10-2018
+
+Technology Commercialization / Transfer
+Name of Technology
+Licenced / Transferred /
+Commercialized
+
+Technology
+Type
+
+Type of
+Transfer
+
+MindEye A low cost
+portable easy to use eye
+tracking device integrated
+with computerized
+cognitive tests for early
+diagnosis of Dementia at
+community level using big
+data analytics in cloud
+under a highly affordable
+Software As A Service
+model
+
+IP/Patented
+Technology
+
+Licensing with
+Royalty
+Sharing
+
+Patent / Licence Number
+
+3959MUM2014
+
+Patent / Licence Holder
+
+Patent/Licence
+Holder name
+(Institute Coownership is
+Must)
+
+Indian
+Institute of
+technology
+Gandhinagar
+
+Contact number
+of license
+holder
+
+9195479710
+19
+
+Email of
+Licence holder
+
+abhijit.neuro
+@gmail.com
+Male
+
+Gender
+
+Responsibility for accuracy and authenticity of data lies with the concerned institution.
+
+Centre / Department
+of Origin of Licence
+
+Electrical
+Engineering
+Discipline
+
+Licence Transferred to
+
+Licence
+Transferred to
+
+Industry
+
+Name of
+Industry/Startup/Agency
+Received
+License/Techno
+logy
+
+AROGYA
+MEDTECH
+PRIVATE
+LIMITED
+
+Address of
+Agency
+
+122 Hafiz
+Mohammed
+Ishaque
+Road
+Haridevpur
+Writerspara
+Kolkata
+West Bengal
+800082
+
+Contact
+Number of
+Agency
+
+9195479710
+19
+
+Email of
+Agency
+
+abhijit.neuro
+@gmail.com
+
+Had institute spent expenses either
+from own resource/received fund to
+organise the
+program/activity/event?
+No
+
+Total Annual
+Income Received
+from Technology
+Transfer/Licensing
+(In Rupees)
+---

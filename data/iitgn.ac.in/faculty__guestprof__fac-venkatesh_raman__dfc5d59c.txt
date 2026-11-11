@@ -1,0 +1,37 @@
+Title: IIT Gandhinagar | Venkatesh Raman
+Source: https://iitgn.ac.in/faculty/guestprof/fac-venkatesh_raman
+
+# Venkatesh Raman
+
+-  Guest Professors
+Venkatesh Raman
+
+## Venkatesh Raman
+
+Guest Faculty, Computer Science
+
+- Ph.D.: Computer Science, University of Waterloo, Canada, 1991
+- M.Math.: Combinatorics and Optimization, University of Waterloo, Canada, 1986
+- M.Sc.: Mathematics, IIT Kanpur, India, 1984
+
+- Published more than 100 papers in international conferences and journals
+- Edited multiple conference proceedings including FSTTCS and Algorithmica special issues
+- Full publication list: https://dblp.org/pid/25/2134.html
+
+- Guest Faculty, Indian Institute of Technology Gandhinagar (2026 to Present)
+- Professor Emeritus, SRM Institute of Science and Technology, Chennai (April 2025 – Present)
+- Honorary Professor, IIT Palakkad (January 2025 – Present)
+- Professor, The Institute of Mathematical Sciences, Chennai (Aug 1991 – Nov 2024)
+- Post-Doctoral Fellow, University of Waterloo, Canada (Mar 1991 – Jul 1991)
+
+Awards
+
+- Served as President, ACM India (2022–2024)
+- Member of ACM India Executive Council for 10 years
+- Editorial Board Member, Indian Journal of Discrete Mathematics
+
+- ● Data Structures and Algorithms
+- ● Algorithms for NP-hard Problems
+- ● Space Efficient Data Structures
+
+Complete List of Publications

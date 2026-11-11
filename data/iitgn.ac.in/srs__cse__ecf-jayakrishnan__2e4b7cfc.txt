@@ -1,0 +1,41 @@
+Title: IIT Gandhinagar | ecf-jayakrishnan
+Source: https://iitgn.ac.in/srs/cse/ecf-jayakrishnan
+
+# Jayakrishnan Madathil
+
+- Senior Research Staff
+Jayakrishnan Madathil
+
+## Jayakrishnan Madathil
+
+IITGN-Early Career Fellow, Computer Science & Engineering
+
+- PhD: The Institute of Mathematical Sciences, HBNI, 2020
+- MSc: The Institute of Mathematical Sciences, HBNI, 2016
+- MSc: Indian Institute of Technology Madras, 2013
+- BSc: Mahatma Gandhi University, 2011
+
+Email: jayakrishnan.m -AT- iitgn.ac.in
+
+Work experience
+
+- IITGN Early Career Fellow, Indian Institute of Technology Gandhinagar (Nov 2020 to present)
+
+Selected Publications
+
+J. Madathil, S. Saurabh, and M. Zehavi, “Fixed-parameter tractable algorithm and polynomial kernel for max-cut above spanning tree,” Theory Comput. Syst., vol. 64, no. 1, pp. 62–100, 2020.
+
+A. Agrawal, S. Kolay, J. Madathil, and S. Saurabh, “Parameterized complexity classification of deletion to list matrix-partition for low-order matrices,” in 30th International Symposium on Algorithms and Computation, ISAAC 2019, December 8-11, 2019, Shanghai University of Finance and Economics, Shanghai, China (P. Lu and G.
+ Zhang, eds.), vol. 149 of LIPIcs, pp. 41:1–41:14, Schloss Dagstuhl - Leibniz-Zentrum für Informatik, 2019.
+
+J. Madathil, R. Sharma, and M. Zehavi, “A sub-exponential FPT algorithm and a polynomial kernel for minimum directed bisection on semicomplete digraphs,” in 44th International Symposium on Mathematical Foundations of Computer Science, MFCS 2019, August 26-30, 2019, Aachen, Germany (P. Rossmanith, P. Heggernes, and J. Ka- toen, eds.), vol. 138 of LIPIcs, pp. 28:1–28:14, Schloss Dagstuhl - Leibniz-Zentrum für Informatik, 2019.
+
+A. Agrawal, G. Guspiel, J. Madathil, S. Saurabh, and M. Zehavi, “Connecting the dots (with minimum crossings),” in 35th International Symposium on Computational Geometry, SoCG 2019, June 18-21, 2019, Portland, Oregon, USA (G. Barequet and Y. Wang, eds.), vol. 129 of LIPIcs, pp. 7:1–7:17, Schloss Dagstuhl - Leibniz-Zentrum für Informatik, 2019.
+
+P. Jain, M. Jayakrishnan, F. Panolan, and A. Sahu, “Mixed dominating set: A parameterized perspective,” in Graph- Theoretic Concepts in Computer Science - 43rd International Workshop, WG 2017, Eindhoven, The Netherlands, June 21-23, 2017, Revised Selected Papers (H. L. Bodlaender and G. J. Woeginger, eds.), vol. 10520 of Lecture Notes in Computer Science, pp. 330–343, Springer, 2017.
+
+- ● Parameterized Complexity
+- ● Algorithms
+- ● Graph Theory
+
+Complete List of Publications

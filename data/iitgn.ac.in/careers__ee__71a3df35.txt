@@ -1,0 +1,32 @@
+Title: IIT Gandhinagar | Electrical Engineering
+Source: https://iitgn.ac.in/careers/ee
+
+# Electrical Engineering
+
+- Careers
+Electrical Engineering
+
+The department of Electrical Engineering at IITGN was started in 2009 with undergraduate and Ph.D. programs which was expanded in 2012 to include M.Tech. program in Electrical Engineering. The department currently hosts research activities which can be broadly classified into:
+
+- Microelectronics & VLSI
+- Power Electronics, Control & Power Systems
+- Photonics
+- Signal Processing & Computer Vision
+- Biomedical Engineering
+- Intelligent Human Computer Interaction
+The research facilities, which are continously being upgraded, currently include:
+
+- 3D Laser Scanner
+- VLSI Tools:
+ • Cadence design suite
+ • Mentor Graphics (Calibre, Questa, etc)
+ • High-end FPGA Boards
+ • Conventorware for MEMS design
+ • TCAD simulation software
+ • MATLAB
+- Device characterization facility (wafer probe station + B1500)
+- Ear protector test module
+- Realtime digital simulation test bed
+In order to meet current and future research and teaching requirements, the department of Electrical Engineering at IIT Gandhinagar seeks outstanding applicants from all areas of Electrical Engineering to fill multiple positions at all levels.
+
+For queries or information regarding faculty recruitment specifically in Electrical Engineering at IITGN, please contact Prof. Jhuma Saha [[email protected]]. For general questions related to faculty recruitment at IITGN, please write to [email protected]

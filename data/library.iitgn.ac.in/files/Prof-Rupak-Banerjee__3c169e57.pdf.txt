@@ -1,0 +1,321 @@
+#flags:
+
+Experimental realization of attosecond
+pulses for probing electron dynamics in
+matter
+Rupak Banerjee*
+Indian Institute of Technology Gandhinagar, Palaj, Gandhinagar 382355, Gujarat, INDIA
+*Email: rupakb@iitgn.ac.in
+
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+1
+
+This year’s laureates have
+created flashes of light
+that are short enough to
+take snapshots of
+electrons’ extremely
+rapid movements.
+Anne L’Huillier
+discovered a new effect
+from laser light’s
+interaction with atoms in
+a gas.
+Pierre Agostini and
+Ferenc Krausz
+demonstrated that this
+effect can be used to
+create shorter pulses of
+light than were
+previously possible!
+
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+2
+
+Outline
+
+Attosecond Pulses!
+
+
+
+What is attosecond, and
+why bother?
+
+
+
+Why was it difficult to
+breach the femtosecond
+barrier?
+
+
+
+What new ideas were
+invoked?
+
+
+
+How the breakthrough
+was achieved?
+
+
+
+What is the relevance in
+the context of modern-day
+science?
+
+
+
+What next?
+
+Disclaimer: The use of some images and concepts available in the internet are solely
+for scientific disseminations and not intended to be an infringement on copyright!
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+3
+
+Time scales of various phenomena
+
+© Johan Jarnestad/The Royal Swedish Academy of Sciences
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+4
+
+Lasers & Overtones
+
+© Johan Jarnestad/The Royal Swedish Academy of Sciences
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+5
+
+Timeline of Laser pulse evolution
+
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+6
+
+Q-switching & Mode Locking techniques (ns to ps)
+Q-switching: Q-switching is a method for generating intense short
+pulses (sometimes called "giant pulses") of light with a laser. In the
+first phase, the gain medium is pumped, while the extraction of
+energy as laser light is prevented by keeping the resonator losses
+high (that is, the Q factor is kept low). The resonator losses are then
+suddenly reduced. As the gain is then substantially higher than the
+resonator losses, the intracavity power rises exponentially.
+
+Mode Locking: The basis of the technique is to induce a fixed
+phase relationship between the longitudinal modes of the laser's
+resonant cavity due to standing waves. Constructive interference
+between these modes can cause the laser light to be produced as a
+train of pulses. The laser is then said to be "phase-locked" or
+"mode-locked".
+A typical helium–neon laser has a gain bandwidth of about 1.5 GHz
+(a wavelength range of about 0.002 nm at a central wavelength of
+633 nm, lasing modes are 3), whereas a titanium-doped sapphire
+(Ti:sapphire) solid-state laser has a bandwidth of about 128 THz (a
+300 nm wavelength range centered at 800 nm with 250000 modes).
+
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+7
+
+Chirped Pulse Amplification & Kerr Mode Locking (fs)
+Chirped Pulse Amplification: First stretch the
+pulse, then amplify, and now compress! 2018 Nobel
+Prize in Physics, Gerard Mourou & Donna Strickland,
+Univ. of Rochester)
+
+Kerr Lens Mode Locking: Because of the nonuniform power density distribution in a Gaussian beam
+the refractive index changes across the beam profile; the
+refractive index experienced by the beam is greater in
+the center of the beam than at the edge. Thus a rod of an
+active Kerr medium functions as a lens for high
+intensity light. In the laser cavity short bursts of light
+will then be focused differently from continuous waves.
+Inspired by public lecture on “Nobel Prize in Physics” by
+Prof. Reji Philip, RRI Bangalore
+Rupak Banerjee
+
+Input and Mode-Locked Output
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+8
+
+The “femtosecond barrier”
+ The Ti:Sapphire crystal has an emission bandwidth of about 100 THz (700 1000 nm), which can support a mode-locked laser pulse down to 4.5 fs (not
+less!)
+ No other material has been found that has a larger bandwidth with high gain in
+the visible spectral region.
+ The fs barrier can be beaten (for creating attosecond light pulses) only by
+finding a way to generate a series of periodically spaced frequencies that cover
+a much larger spectral range
+ Two methods have been found to be useful for this:
+(i) High Harmonic Generation (HHG) in gases
+(ii) Cascaded Stimulated Raman Scattering
+
+Inspired by public lecture on “Nobel Prize in Physics” by Prof. Reji Philip, RRI Bangalore
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+9
+
+Laser light interacts with atoms in a gas
+Ionization
+
+Process after Ionization
+
+Recombination
+
+© Johan Jarnestad/The Royal Swedish Academy of Sciences
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+10
+
+Superposition of higher harmonics leads to
+attosecond pulses
+
+Since light pulses are limited by their carrier frequency, visible pulses are bound to a
+few femtoseconds. XUV or x-ray pulses, on the other hand, allows the transition across
+the femtosecond border, entering the attosecond timescale.
+
+© Johan Jarnestad/The Royal Swedish Academy of Sciences
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+11
+
+Professor Anne L'Huillier
+•
+•
+•
+•
+
+Multiphoton ionization,
+High Harmonic Generation
+Contributed to full quantum theory of the process (along
+with Lewenstein & Corkum)
+Explanation of photo-ionization discrepancy by
+considering “shake-up” (Auger) electrons
+
+Physical Review Letters
+
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+12
+
+Experimental realization: typical experimental
+Attosecond pulses, which only a few
+years ago seemed like wishful
+thinking, are now effectively
+generated in the laboratory!
+
+© Johan Jarnestad/The Royal Swedish Academy of Sciences
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+13
+
+Professor Pierre Agostini
+•
+
+•
+•
+
+Experimental realization of a train of attosecond
+pulses
+Above Threshold Ionization (ATI)
+Investigation of the principle of frequency
+modulation in a two-color photon field (RABBITT
+– Reconstruction of Attosecond Beating by
+Interference of Two-photon Transitions)
+
+Science
+
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+14
+
+Professor Ferenc Krausz
+•
+•
+•
+•
+
+Few-cycle laser pulse generation
+Broad HH spectrum generation
+Generation of 1st isolated attosecond light flashes
+and its measurement using cross-correlation
+Application of attosecond to record electron
+dynamics
+
+Nature
+
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+15
+
+What next?!
+Ultrafast laser pulses allow physicists and chemists to watch fast molecular motion as
+it happens. But some fundamental atomic processes are even faster! Stability &
+optimization of phase matching is still very challenging!
+Some works are being done in the fields of:
+Attosecond transient absorption spectroscopy
+Charge Migration in molecules
+Charge transfer in organic photovoltaics
+
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+16
+
+Thank you!
+Rupak Banerjee
+
+Lecture Series on Nobel Prizes 2023
+Jan 6th, 2024 @ IIT Gandhinagar
+
+17

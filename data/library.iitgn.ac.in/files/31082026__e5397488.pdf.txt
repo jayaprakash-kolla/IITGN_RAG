@@ -1,0 +1,75 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 35, 2026
+(Added during 24th August 2026 – 28th August 2026)
+Available for the issue from 05th September 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+RESEARCH STATISTICAL METHODS
+Title: Speak data: artists, scientists, thinkers, and dreamers on how we live our
+lives in numbers
+Author: Lupi, Giorgia
+Publisher: New York: Princeton Architectural Press, 2025
+Call No.: 001.422 LUP
+Acc. No.: 037262
+
+SYSTEM PROGRAMMING (COMPUTER SCIENCE)
+Title: Systemd for Linux SysAdmins: all you need to know about the systemd suite
+for Linux users
+Author: Both, David
+Publisher: Raleigh: Apress, 2025
+Call No.: 005.43 BOT
+Acc. No.: 037265
+
+SCIENCE AND RELIGION
+Title: Einstein on cosmic religion and other opinions and aphorisms
+Author: Einstein, Albert
+Publisher: Mineola: Dover Publications, 2009
+Call No.: 215 EIN
+Acc. No.: 037260
+
+CHRISTIANITY AND SOCIOECONOMIC
+Title: Becoming earthlings: religion, ecology and politics
+Author: Vinayaraj, Y. T. (Ed.)
+Publisher: Delhi: Indian Society for Promoting Christian Knowledge (ISPCK) 2024
+Call No.: 261.88 VIN
+Acc. No.: 037261
+
+NATURAL RESOURCES
+Title: Handbook of water economics
+Author: Dinar, Ariel (Ed.)
+Publisher: Cheltenham: Edward Elgar Publisher, 2015
+Call No.: 333.91 DIN
+Acc. No.: 037259
+
+PROBABILITIES AND APPLIED MATHEMATICS
+Title: Modern introduction to probability and statistics: understanding statistical
+principles in the age of the computer
+Author: Upton, Graham J. G.
+Publisher: Oxford: Oxford University Press, 2025
+Call No.: 519.2 UPT
+Acc. No.: 037263
+
+BRAIN COMPUTER INTERFACE
+Title: Brain-computer interfaces: principles and practice
+Author: Wolpaw, Jonathan (Ed.)
+Publisher: Oxford: Oxford University Press, 2012
+Call No.: 616.800285 WOL
+Acc. No.: 037264
+
+LEADERSHIP
+Title: Book of Elon: a guide to purpose and success
+Author: Jorgenson, Eric
+Publisher: Gurugram: Harper Business, 2026
+Call No.: 658.4092 JOR
+Acc. No.: 037266

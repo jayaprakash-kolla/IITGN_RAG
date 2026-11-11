@@ -1,0 +1,327 @@
+#flags:
+
+Quantum dots: tiny materials whose properties are determined by
+their size
+
+Lecture Series on Nobel Prizes 2023
+January, 2024
+Presented by
+Dr. Saumyakanti Khatua (AB6/212)
+Email: khatuask@iitgn.ac.in
+Website: https://khatuask.wixsite.com/nprl
+
+The Nobel Prize in Chemistry 2023
+q The Nobel Prize in Chemistry 2023 was awarded to Moungi G. Bawendi, Louis E. Brus and Aleksey
+Yekimov "for the discovery and synthesis of quantum dots"
+
+Prof. Moungi Bawendi
+
+Massachusetts Institute of
+Technology
+
+Prof. Louis E. Brus
+
+Columbia University
+
+Prof. Alexei Ekimov
+
+Vavilov State Optical Institute
+
+Presentation Outline
+q Introduction to QDs
+Ø What are QDs and why are they so special
+Ø Basic theoretical background
+
+q Discovery and synthesis of QDs
+Ø A chronological description of the challenges and milestones
+
+1981
+First observation
+of QDs
+
+1983
+First observation
+band gap as
+function of size
+
+1993
+Development of a synthetic
+protocol to prepare high quality
+and consistent size
+
+Prof. Alexei Ekimov
+
+Prof. Louis Brus
+
+Prof. Moungi G. Bawendi
+
+q Recent developments, challenges and future perspective
+Ø Applications in QLEDs and imaging
+Ø Single photon source and blinking
+
+Introduction to QDs
+v Typically, properties of matter are defined by the atoms they are made of
+
+Green dye
+
+Red dye
+
+Introduction to QDs
+1937: Herbert Froehlich predicted that once particles were small enough—so-called
+nanoparticles—they would come under the strange spell of quantum mechanics
+
+Herbert Fröhlich
+
+Particle-in-box problem
+𝑛" ℎ"
+𝐸! =
+8𝑚𝐿"
+
+𝑛𝜋𝑥
+𝜓! = 𝐴𝑆𝑖𝑛
+𝐿
+
+n=1,2,3……
+
+Introduction to QDs
+
+e-
+
+ee-
+
+Let’s assume a scenario
+Particle= electron
+L=0.6 nm
+
+3ℎ#
+$!% 𝐽
+Δ𝐸!→# =
+∼
+5×10
+8𝑚𝐿#
+𝜆!→# ~ 400 𝑛𝑚
+𝜆&→&'! ∝ 𝐿#
+
+Introduction to QDs
+
+https://www.chemistryworld.com/features/the-quantum-dot-story/4018219.article
+
+The Journey to realize the size-dependent quantum effect
+Ø Prof. Alexei Ekimov and Prof. Alexander Efros was studying origin of
+colors in Schott glasses
+Ø They were heating glasses up to 700°C at varying rate and then studied
+the tiny semiconductor particles formed using X-rays.
+Ø They found formation of tiny copper chloride crystals between 2 nm to
+20 nm and they attributed such size difference to the different color
+of glasses.
+
+Published in Russian language in Soviet Scientific
+Journal in 1981: Remained unnoticed..
+The particles were frozen inside the glass so can’t be
+used for any purpose.
+
+The journey to realize the size-dependent quantum effect
+Ø Prof. Louis Brus was studying organic photochemistry on Cadmium Sulfide (CdS) using
+Raman Spectroscopy.
+Ø ‘I noticed by chance that the band gap appeared to be a function of size. ‘Some days when I
+made the very small particles for the first time, the band gap was larger… and if you just let
+the colloid sit, Ostwald ripening would occur, and then it would grow to larger sizes, and the
+band gap would become the normal band gap.’
+Ø ‘Solid state physics is not my field, but over the weeks it dawned on me that this was
+important because what’s at stake here is this transition between molecular behaviour for
+small molecules and solid state behaviour for larger crystals and that was not really
+understood – chemists understand molecules and physicists understand the bulk crystals –
+but it was going to become relevant,’
+
+The journey to realize the size-dependent quantum effect
+v Brus and Ekimov established the quantum size effects in colloidal nanocrystals but there was still a
+problem to be solved.
+Their methods created quantum dots of unpredictable quality and size, often with
+defects; a reliable and consistent synthesis method was needed.
+‘We struggled to get this colloidal synthesis under control because it
+was a kind of a black magic in the beginning; it was just a recipe’Louis Brus
+
+https://www.chemistryworld.com/features/th
+e-quantum-dot-story/4018219.article
+
+Paul Alivisatos
+
+Michael L. Steigerwald
+
+The journey to realize size-dependent quantum effect
+Ø A chronological description of the challenges and milestones
+
+1981
+First observation
+of QDs
+
+1983
+First observation
+band gap as
+function of size
+
+1983---1987
+optimization of synthesis Moungi Bawendi joined
+process
+Brus’s lab for short visit
+
+Prof. Alexei Ekimov
+
+Prof. Louis Brus
+
+Brus, Steigerwald, Alivasatos
+
+The journey to realize size-dependent quantum effect: the synthesis
+of monodispersed QDs with tunable properties
+
+Chris Murray
+
+Manoj Nirmal
+
+David Norris
+
+Bawendi
+
+https://www.chemistryworld.com/features/the-quantum-dot-story/4018219.article
+
+Synthesis of Quantum Dots
+
+MIT; photograph, Len Rubenstein
+
+The journey to realize size-dependent quantum effect
+
+So, what are ‘quantum dots’?
+q Semiconductor nanocrystals with
+sizes between ~2-8 nm.
+q Typically are chalcogenides
+(selenides, sulfides or tellurides)
+of metals like cadmium, lead or
+zinc
+
+e-
+
+e-
+
+Blue
+photon
+
+Red
+photon
+h+
+h+
+
+h+
+
+h+
+
+https://www.sigmaaldrich.com/IN/en/technical-documents/technical-article/materials-science-and-engineering/biosensors-and-imaging/quantum-dots
+
+The journey to realize size-dependent quantum effect
+
+1981
+First observation
+of QDs
+
+1983
+First observation
+band gap as
+function of size
+
+Prof. Alexei Ekimov
+
+Prof. Louis Brus
+
+Applications
+Display application (Samsung)
+Imaging applications
+Single photon source
+
+1993
+
+Development of a synthetic
+protocol to prepare high quality
+and consistent size
+
+1993…..
+
+Challenges and
+applications of QDs
+
+Moungi Bowendi
+
+Better synthetic process
+Removal of defects
+core-shell QDs
+
+New QD materials
+Perovskite-based
+nanocrystals
+
+Applications of QDs in QLED technology
+v Light-emission yield was low for typical QD materials
+v Toxic materials could not be used from safety purpose
+v Green and red colors are produced by QDs
+
+‘Samsung deserves a lot of credit, they put a lot of money
+into the development of the technology so that they could
+use them in their own TVs,’ – Louis Brus.
+
+‘Cadmium selenide is not consumer friendly, even if it’s
+completely protected, you don’t want to be using it,’ says
+Bawendi. ‘[Samsung] realised that and invested a lot of money
+in indium phosphide as a replacement to cadmium selenide,
+which is a harder material to make.’
+https://www.chemistryworld.com/features/the-quantum-dot-story/4018219.article
+
+Applications of QDs in Imaging
+
+Pseudo colored image of human epithelial cells by
+staining with five different sizes of QDs. Actin filaments —
+Red (705 nm), Nucleus — Cyan (655 nm), Ki67 protein —
+Magenta (605 nm), Microtubules — Green
+(565 nm), Mitochondria — Orange (525 nm).
+https://www.sciencedirect.com/science/article/pii/S0001868614002887
+
+In vivo image of multicolor QDs injected into a live mouse
+
+Nanomedicine (2006) 1(2)
+
+Challenges: Defects and blinking
+e-
+
+ee-
+
+e-
+
+×
+
+photon
+h+
+h+
+
+Ideal QD
+
+e-
+
+h+
+h+
+
+Defect/trap
+on QD
+
+v Impacts light emission efficiency
+v Fluctuations affect the display and imaging
+applications
+
+Source: youtube
+
+Conclusions and take-home message
+
+Look carefully! Your bad data (!) could
+indicate something new
+
+Follow your natural curiosity
+
+Source: wikipedia
+
+Think outside the box

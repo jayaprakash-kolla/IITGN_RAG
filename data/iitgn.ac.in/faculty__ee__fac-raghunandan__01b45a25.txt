@@ -1,0 +1,44 @@
+Title: IIT Gandhinagar | Raghunandan M. Rao
+Source: https://iitgn.ac.in/faculty/ee/fac-raghunandan
+
+# Raghunandan M. Rao
+
+-  Electrical Engineering
+Raghunandan M. Rao
+
+## Raghunandan M. Rao
+
+Assistant Professor, Electrical Engineering
+
+- BE: Rashtreeya Vidyalaya College of Engineering, Bangalore, 2011
+- MTech: IIT Kanpur, 2013
+- MS: Virginia Tech, Blacksburg, Virginia, USA, 2016
+- PhD: Virginia Tech, Blacksburg, Virginia, USA, 2020
+
+Email: raghunandan.rao -AT- iitgn.ac.in
+
+ Website :  https://raghumrao.github.io/
+
+Office:  AB 13/323C
+VOIP:  2641
+
+R. M. Rao, D. R. Emenonye, “Iterative RNDOP-Optimal Anchor Placement for Beyond Convex Hull ToA-based Localization: Performance Bounds and Heuristic Algorithms,” IEEE Transactions on Vehicular Technology, vol. 73, no. 5, pp. 7287-7303, 2024.
+
+R. M. Rao, A. V. Padaki, B. L. Ng, Y. Yang, M. Kang, and V. Marojevic, “ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation,” IEEE Transactions on Vehicular Technology, vol. 70, no. 10, pp. 11089-11094, 2021.
+
+R. M. Rao, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” IEEE Transactions on Wireless Communications, vol. 20, no. 11, pp. 7213-7229, 2021.
+
+R. M. Rao, V. Marojevic, and J. H. Reed, “Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence,” IEEE Transactions on Vehicular Technology, vol. 69, no. 9, pp. 9720-9735, 2020. (Impact Factor: 6.1)
+
+B. Shang, L. Liu, R. M. Rao, V. Marojevic, J. H. Reed, “3D Spectrum Sharing for Hybrid D2D and UAV Networks,” IEEE Transactions on Communications, vol. 68, no. 9, pp. 5375-5389, 2020.
+
+Assistant Professor, Indian Institute of Technology Gandhinagar (Jul 2025 to present)
+Connectivity Algorithms Software Engineer, Amazon Lab126, Sunnyvale, CA, USA (Jan 2022 - Nov 2024)
+Senior Research Engineer, Samsung Research America, Plano, TX, USA (Oct 2020 – Dec 2021)
+
+- ● 6G Wireless Networks
+- ● Localization
+- ● Radar Sensing
+- ● Wireless Security
+
+Complete List of Publications

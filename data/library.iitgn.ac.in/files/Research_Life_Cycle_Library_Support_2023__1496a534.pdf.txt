@@ -1,0 +1,332 @@
+#flags:
+
+AAROHAN: Walk Through the Library
+July 2023
+PHASES OF YOUR RESEARCH JOURNEY AT IITGN: SOME USEFUL RESOURCES
+
+RESEARCH LIFE CYCLE & LIBRARY SUPPORT
+1. Course Work (first few semesters) & Understanding Research Process
+A.
+
+Please browse through these resources:
+
+
+
+
+
+Courses: https://iitgn.ac.in/academics/courses
+Course Readings: https://library.iitgn.ac.in/coursereadings.php
+Research Communications and Technical Writing
+Research methods
+
+2. Think & Plan Your Research: Identifying Your Area of Research & Research Problem
+A.
+
+Explore the following two major resources: Bibliographic & Citation Databases
+Scopus: https://www.scopus.com/
+
+
+
+
+
+
+
+
+Create an account
+Run a basic Search using affiliation tab & perform search for IITGN Publications
+Explore publications in different subject area & Perform keyword search
+Save your searches
+Set an Alert using keyword or topic of your interest
+See the bibliographic information & citations
+Locate the full text of papers
+
+Web of Science: https://www.webofscience.com/
+ Create an account
+ Run a basic Search using affiliation tab & perform search for IITGN Publications
+ Explore publications in different subject area & Perform keyword search
+ Save your searches
+ Set an Alert using keyword or topic of your interest
+ See the bibliographic information & citations
+ Locate the full text of papers
+ Explore EndNote
+
+B.
+
+Explore Scholarly Search Engines & E Print Archives
+Use scholarly search engines for locating quality information from the web (Using five Evaluation Criteria –
+Evaluating Sources: The CRAAP, SIFT & RADAR etc. test)
+
+
+1|Page
+
+Google Scholar
+
+
+
+
+C.
+
+arXiv.org
+OSF Preprints: https://osf.io/preprints/
+
+How to read a Scientific Paper?
+
+
+Ten simple rules for reading a scientific paper
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032
+
+
+
+How to read a paper?
+https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
+
+
+
+How to (seriously) read a scientific paper
+ https://www.science.org/content/article/how-seriously-read-scientific-paper
+ https://www.theopennotebook.com/2018/11/06/how-to-read-a-scientific-paper/
+ https://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf
+ https://www.imop.gr/sites/default/files/howtoread.pdf
+ https://www.sfu.ca/~amadooei/files/ReadingAdvice.pdf
+
+3. Gather, organize & analyze the full text of the literature
+A.
+
+Explore Library Digital Resources: https://library.iitgn.ac.in/ejournals_publisherwise.php
+
+
+
+Visit discipline wise resources list & identify the resources
+https://library.iitgn.ac.in/ejournals-subjectwise.php
+E-resources Access Policy
+https://library.iitgn.ac.in/librarypolicy.php?type=eresources
+
+B.
+
+Explore Library Print Journals Collection: https://library.iitgn.ac.in/printresources.php#journals
+
+C.
+
+Explore Library Resource Guides: https://library.iitgn.ac.in/resourceguide/subjects/index.php
+
+
+
+
+Open Access: https://library.iitgn.ac.in/resourceguide/subjects/guide.php?subject=OAR
+Electronic Theses & Dissertations:
+https://library.iitgn.ac.in/resourceguide/subjects/guide.php?subject=ETD
+ShodhGanga
+https://shodhganga.inflibnet.ac.in/handle/10603/458379
+
+D.
+Download any one of the following Plugins to identify freely available/subscribed full text
+content:
+
+
+
+
+
+
+E.
+
+EndNote Click: https://click.endnote.com/
+Google Scholar Button: https://chrome.google.com/webstore/detail/google-scholarbutton/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en
+CORE Discovery: https://core.ac.uk/services/discovery
+Open Access Button: https://openaccessbutton.org/
+Unpaywall: http://unpaywall.org/welcome
+
+Use Library Services to obtain documents not in our collection
+
+
+2|Page
+
+Inter Library Loan: https://library.iitgn.ac.in/ill.php
+
+
+
+
+Document Delivery Services: https://library.iitgn.ac.in/dds.php
+Please send your requests at librarian@iitgn.ac.in or libraryservices@iitgn.ac.in
+
+4. Managing your research related resources (literature)
+A.
+
+Create a personal digital library using Zotero/Mendeley/Endnote & Others
+
+
+Download Zotero & setup (Zotero Connector) : https://www.zotero.org/download/
+
+5. Writing your research proposal, thesis, research papers, reports etc.: must use tools & resources
+
+
+
+
+
+
+
+Grammarly (create an account): https://library.iitgn.ac.in/grammarly.php
+Explore & be familiar with the Citation Styles: https://library.iitgn.ac.in/crsreport.php
+Similarity (plagiarism) checking using Turnitin: https://www.turnitin.com/
+Use Writing Studio Assistance: https://writingstudio.iitgn.ac.in/
+Enroll for Scientific Writing Certification: https://initiatives.iitgn.ac.in/scientificwriting/
+Use Reference Management Softwares: Zotero/Mendeley/Endnote & Others
+
+6. Publishing your research
+A.
+Visit IITGN Research Publications & be familiar with Journals/Conferences where our faculty &
+students are publishing
+
+
+
+
+
+
+
+
+
+
+IITGN Research Publications: https://library.iitgn.ac.in/research_publications.php
+IITGN Digital Repository: https://library.iitgn.ac.in/digitalrepository.php
+Think Check Submit: https://thinkchecksubmit.org/
+Think Check Attend: https://thinkcheckattend.org/
+Be aware of Predatory Journals: https://blog.cabells.com/2019/03/20/predatoryreport-criteria-v1-1/
+Web of Science Master Journals List: https://mjl.clarivate.com/search-results
+Scopus- source list: https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse
+Scimago Journals list: https://www.scimagojr.com/
+UGC CARE List: https://ugccare.unipune.ac.in/apps1/home/index
+
+7. Share & Create an Impact of your Research Work
+A.
+
+Visit IITGN IRINS website: https://iitgn.irins.org/
+
+B.
+
+Create & own author IDs:
+
+
+
+
+
+
+
+
+3|Page
+
+ORCID (create your membership ID): https://orcid.org/
+Researcher ID (Web of Science): https://tinyurl.com/2btn6m5t
+Google Scholar: https://scholar.google.com/intl/en/scholar/citations.html
+Scopus Author ID: https://www.scopus.com/freelookup/form/author.uri
+Research Gate: https://www.researchgate.net/
+Twitter: https://twitter.com/
+Deposit your papers in Institute Repository & E-Print Archives
+
+8. Staying Updated
+A.
+
+Set up an alert in prominent interdisciplinary research databases
+
+
+
+
+
+
+
+
+
+
+GoogleScholar & other scholarly Search Engines
+Web of Science
+Scopus
+PubMed
+ChemWeb
+J-Gate Custom Content for Consortium (JCCC)
+MathSciNet
+SciFinder-n
+Any other similar databases of your interest
+
+B.
+
+Create an alert using JournalTOCs: https://www.journaltocs.ac.uk/
+
+C.
+
+Setup an alert in
+
+
+
+
+
+PNAS Journal: https://www.pnas.org/
+Science Magazine: https://www.science.org/journal/science
+Nature Magazine: https://www.nature.com/
+Current Science: https://www.currentscience.ac.in/
+
+9. Submitting your thesis
+
+
+
+
+
+
+Follow the requirements & guidelines given by Academic Office:
+https://sites.google.com/iitgn.ac.in/iws/forms/academic-affairs
+Submit hardcopy & Softcopy to the librarian at Email: librarian@iitgn.ac.in
+See the list of theses & Dissertations:
+Library website at: https://library.iitgn.ac.in/printresources.php#theses
+Digital Repository: https://library.iitgn.ac.in/digitalrepository.php
+Need to sign A Non-Exclusive License Agreement Form (Under discussion) with the Library
+
+10. An activity (Take Home Activity)
+Download the following sets of articles and compare the articles in each group with another set of articles in other
+group in terms of structure, writing style, objectives, references, number of papers, usefulness etc. Also make a note
+of at what stages of your research articles would be useful and are written.
+ E-Print Archives
+ Letters/Communications
+ Main research papers
+ Review papers
+ Article in subject related magazines
+
+Preprints in E-Print Archives
+arXiv.org
+Memory guided road detection”
+https://arxiv.org/pdf/2106.14184.pdf
+4|Page
+
+medRxiv
+The intersectional role of paternal gender-equitable attitudes & maternal empowerment
+https://www.medrxiv.org/content/10.1101/2021.02.03.21251084v1
+
+Research Communications/Letters
+ChemComm: Chemical Communications
+Organoarsenic probes to study proteins by NMR spectroscopy
+https://pubs.rsc.org/en/content/articlepdf/2022/cc/d1cc06497e
+Electronics Letters
+Robust real-time kinematic positioning method based on NLOS detection and multipath elimination in GNSS
+challenged environments
+https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/el.2020.2210
+
+Research Papers (standard)
+IEEE Journal of Biomedical and Health Informatics
+Depression Analysis and Recognition Based on Functional Near-Infrared Spectroscopy
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9420237&tag=1
+Journal of Structural Engineering (ASCE)
+Rational Robustness Design of Multistory Building Structures
+https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29ST.1943-541X.0003254
+
+Review Papers
+Applied Mechanics Reviews
+Application of Fractional Calculus for Dynamic Problems of Solid Mechanics: Novel Trends and Recent Results
+https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/63/1/010801/446539/Application-ofFractional-Calculus-for-Dynamic
+Annual Review of Biochemistry
+It's Better to be lucky than smart
+https://www.annualreviews.org/doi/full/10.1146/annurev-biochem-011520-105008
+
+Papers in Magazines
+IEEE Spectrum
+The Real Story of Pixar
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9606509
+CEP Magazine: Chemical Engineering Progress (AIChE)
+Defending Against Future Pandemics
+https://www.aiche.org/resources/publications/cep/2021/november/defending-against-future-pandemics
+5|Page

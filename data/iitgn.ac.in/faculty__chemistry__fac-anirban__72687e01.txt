@@ -1,0 +1,47 @@
+Title: IIT Gandhinagar | Anirban Mondal
+Source: https://iitgn.ac.in/faculty/chemistry/fac-anirban
+
+# Anirban Mondal
+
+-  Chemistry
+Anirban Mondal
+
+## Anirban Mondal
+
+Associate Professor, Chemistry
+
+- BSc (Chemistry Hons): Visva-Bharati University, 2010
+- MS (Materials Science): Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore, 2013
+- PhD: Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore, 2016
+
+Email: amondal -AT- iitgn.ac.in
+
+ Website :  https://anirban.people.iitgn.ac.in/
+
+Office:  AB 4/406
+VOIP:  2583
+
+A Window to Trap-free Charge Transport in Organic Semiconducting Thin Films. N. B. Kotadiya, Anirban Mondal, D. Andrienko, P. W. M. Blom, and G. A. H. Wetzelaer; Nature Materials, 2019, 18, 1182-1186.
+
+Genetic Algorithm Driven Force Field Parameterization for Molten Alkali-Metal Carbonate and Hydroxide Salts. Anirban Mondal, J. M. Young, T. Barckholtz, G. Kiss, L. Koziol, and A. Z. Panagiotopoulos; Journal of Chemical Theory and Computation, 2020, 16, 5736-5746.
+
+First-Principles Modeling of Transport Mechanisms in Carbonate-Hydroxide Electrolytes. Anirban Mondal, J. M. Young, G. Kiss, and A. Z. Panagiotopoulos; Journal of Physical Chemistry Chemistry C, 2021, 125, 4412-4422.
+
+Predicting Chemical Reaction Equilibria in Molten Carbonate Fuel Cells via Molecular Simulations. J. M. Young, Anirban Mondal, T. Barckholtz, G. Kiss, L. Koziol, and A. Z. Panagiotopoulos; AIChE Journal, 2020, 67, e16988.
+
+Unicolored Phosphor-Sensitized Fluorescence for Efficient and Stable Blue OLEDs. P. Heimel, Anirban Mondal, F. May, W. Kowalsky, C. Lennartz, D. Andrienko, and R. Lovrincic; Nature Communication, 2018, 9, 4990.
+
+- Associate Professor: Indian Institute of Technology Gandhinagar (Dec 2025 - present)
+- Assistant Professor: Indian Institute of Technology Gandhinagar (Aug 2021 - Dec 2025)
+- Postdoctoral Associate: University of Luxembourg, Luxembourg (Jan 2021 - Aug 2021)
+- Postdoctoral Research Associate: Princeton University, Princeton, USA (Jan 2019 - Dec 2020)
+- Postdoctoral Fellow: Max Planck Institute for Polymer Research, Mainz, Germany (Oct 2016 - Dec 2018)
+
+- ● Charge transport in organic semiconductors, excited states, and optoelectronics
+- ● Machine learning techniques to explore the chemical space of organic semiconductors
+- ● Design of efficient host/guest systems for blue organic light-emitting diodes (OLEDs)
+- ● Donor-acceptor materials for organic solar cells
+- ● Machine learning potentials for atomistic modeling of materials
+- ● Proton/ion transport in solid electrolytes
+
+Complete List of Publications

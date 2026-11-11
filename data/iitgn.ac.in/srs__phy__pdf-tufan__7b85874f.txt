@@ -1,0 +1,44 @@
+Title: IIT Gandhinagar | pdf-tufan
+Source: https://iitgn.ac.in/srs/phy/pdf-tufan
+
+# Tufan Paul
+
+- Senior Research Staff
+Tufan Paul
+
+## Tufan Paul
+
+Post-Doctoral Fellow, Physics
+
+- MSc: Vidyasagar University, Midnapore, West Bengal, 2014
+- PhD: Jadavpur University, Kolkata, West Bengal, 2021
+
+Email: tufan.p -AT- iitgn.ac.in
+
+Work experience
+
+- Post-Doctoral Fellow, Indian Institute of Technology Gandhinagar (September 2021 - Present)
+
+Selected Publications
+
+- T. Paul, B.K. Chatterjee, S. Maiti, S. Sarkar, N. Besra, B.K. Das, K.J. Panigrahi, S, Thakur, U.K. Ghorai and K.K. Chattopadhyay. Tunable cathodoluminescence over the entire visible window from all-inorganic perovskite CsPbX31D architecture. J. Mater. Chem. C. 2018, 6, 3322. IF (8.06). doi: https://doi.org/10.1039/C7TC05703B
+- T. Paul, D. Das, B.K. Das, S. Sarkar S. Maiti and K. K. Chattopadhyay. “CsPbBrCl2/g-C3N4 Type II Heterojunction as Efficient Visible Range Photocatalyst”. Journal of Hazardous Materials 2019, 380, 120855. IF (14.20) doi: https://doi.org/10.1016/j.jhazmat.2019.120855.
+- S. Mondal, T. Paul, S. Maiti, N.S. Das and K. K. Chattopadhyay. “Human Motion Interactive Mechanical Energy Harvester Based on All Inorganic Perovskite-PVDF.” Nano Energy. 2020, 74, 104870. IF (19.06) doi: https://doi.org/10.1016/j.nanoen.2020.104870
+- S. Mondal, S. Maiti, T. Paul*, A. Sahoo, S. Bhattacharjee, N. S. Das and K. K. Chattopadhyay. ‘All-inorganic Halide Perovskite Tuned Robust Mechanical-Energy Harvester: Self driven Posture Monitor and Power Source for Portable Electronics’.  Applied Materials Today. 2022, 26, 101385. IF (10.02) doi: https://doi.org/10.1016/j.apmt.2022.101385.
+- T. Paul, S. Maiti, N. Besra, B. K. Chatterjee, B.K. Das, S. Thakur, S. Sarkar, N.S. Das and K. K. Chattopadhyay. ‘Tailored CsPbX3 Nanorods for Electron-Emission Nanodevices.” ACS Applied Nano Materials. 2019, 2(9), 5942-5951. IF (6.10) doi: https://doi.org/10.1021/acsanm.9b01379
+
+Awards
+
+- PBEEE Post-Doctoral Fellowship  by Government of Canada at INRS, Canada (2022-2023).
+- Newton-Bhabha PhD Fellowship by DST & British Council (2019-2020), at University of Warwick, UK.
+
+- ● Halide perovskite
+- ● Piezoelectric nanogenerator
+- ● Memory device, Photodetector Sensor,
+- ● Photoluminescence
+- ● Cathodoluminescence
+- ● Energy harvesting
+- ● Dielectric spectroscopy
+- ● CO2 reduction
+
+Complete List of Publications

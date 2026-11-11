@@ -1,0 +1,693 @@
+#flags:
+
+CREATING AND MANAGING YOUR
+SCHOLARLY IDENTITY
+(AUTHOR IDS)
+
+IIT GANDHINAGAR – LIBRARY
+PANNA CHAUDHARI
+
+TODAY: AN OVERVIEW
+
+• Introduction
+ What is Scholarly Communication?
+
+ What is Scholarly identity?
+ Importance of creating and managing
+scholarly identity
+ Benefits of Scholarly Identity
+ Establishing Scholarly Identity
+
+• Best Practices
+and
+• Challenges
+Limitations
+• Future Directions
+• Conclusion
+
+ Managing Scholarly Identity
+
+ Tools for Creating and Managing
+Scholarly Identity
+ Strategies for Promoting Scholarly
+Identity
+2
+
+SCHOLARLY COMMUNICATION
+through which research and other scholarly writings are created,
+• System
+evaluated for quality, disseminated to the scholarly community, and
+preserved for future use.
+includes both formal means of communication, such as publication in
+• Itpeer-reviewed
+journals, and informal channels, such as electronic listservs.
+communication is frequently defined or depicted as a lifecycle
+• Scholarly
+documenting the steps involved in the creation, publication, dissemination
+and discovery of a piece of scholarly research.
+
+3
+
+WHAT IS IDENTIFIER?
+
+• An identifier is a unique expression in a written format either
+by a code
+by numbers
+by the combination of both
+
+to uniquely distinguish variations from one to another among a class of
+individual, organizations, entitles, substances, items, or objects…
+
+or assigning a unique identifier to the entities makes it possible
+• Naming
+to refer to them, which is essential for any kind of symbolic processing.
+Publications: Ex. ISBN,ISSN, DOI
+
+General Ex. Aadhaar ID, PAN Number, Voter ID etc.
+
+4
+
+WHAT IS IDENTIFIER?
+are a variety of researcher ID management tools available to
+• There
+help :
+ORCiD
+
+Researcher ID (Web of Knowledge)
+Scopus Author ID
+
+Google Scholar
+MR Author ID
+International Standard Name Identifier (ISNI)
+VIDWAN ID (INFLIBNET)
+5
+
+WHAT IS SCHOLARLY IDENTITY?
+to distinguish one author/scholar from another Scholar IDs are
+• Similarly,
+assigned
+• Scholarly identity refers to the:
+Public face or persona that a researcher or academic presents to the world.
+
+It encompasses a range of factors, including a researcher's professional
+background, research interests and expertise, publications, teaching
+experience, and professional affiliations.
+In today's digital age, a researcher's scholarly identity may also include their
+online presence, such as professional websites, social media profiles, and
+academic networking profiles.
+In what ways are you engaged in Scholarly communication online?
+
+How do you want to be portrayed? – For those that engage online, who do
+you interact with the most online? Do you tailor your communication for this
+audience?
+6
+
+WHY DO RESEARCHERS
+
+NEED A UNIQUE IDENTIFIER?
+As a researcher, you want to..
+Eliminate name ambiguity by uniquely distinguishing you from rest others
+Ensure your work is discoverable & connected
+Organize all your research output & enable research assessment
+Collect & analyze associated metrics – increase impact
+Ensure your research is correctly credited
+Streamline research workflow: manuscript & grant submissions, tracking of
+funded research
+Promote your research, improve networking & find collaborators
+Support transparency in scientific activities
+Minimize time to spend repetitive data
+Have Author affiliation (ownership)
+Career advancement
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+7
+
+PRIORITY PERSISTENT IDENTIFIERS
+Some high priority persistent identifiers that could be used for improving
+access to the research.
+and DataCite DOIs for outputs (especially articles and
+• Crossref
+data, funding grants of all kinds) (over 115M Crossref DOIs and
+30M DataCite DOIs)
+Researcher and Contributor Identifier (ORCID) IDs for people
+• Open
+(close to 8.9M)
+• Research Activity Identifiers (RAiDs) for projects
+Organization Registry (ROR) identifiers for organisations (over
+• Research
+1Lakh identifiers)
+
+ORCIDORCIDs for people
+
+8
+
+ESTABLISH SCHOLARLY IDENTITY
+
+• Publishing research articles
+• Presenting at conferences
+• Creating a website
+• Building a social media presence
+
+9
+
+MANAGE SCHOLARLY IDENTITY
+
+• Updating publication records
+• Monitoring online presence
+• Engaging with other researchers and scholars
+
+10
+
+TOOLS FOR CREATING
+
+AND MANAGING SCHOLARLY IDENTITY
+
+• ORCID
+• Researcher ID (Web of Science)
+• Scopus Author Profile
+• Google Scholar
+• ResearchGate
+• Academia.edu
+• Mendeley
+• LinkedIn
+• Twitter etc…
+11
+
+QUICK POLL
+
+Which profile management tool(s) are you familiar with?
+
+• ORCID
+• Research ID (Web of Science)
+• Scopus Author Profile
+• Google Scholar
+• Mendeley
+• Research Gate etc…
+12
+
+ENHANCE YOUR RESEARCH IMPACT
+
+• International Standard Naming Identifier (ISNI)
+• Proprietary Author Identifiers:
+• Researcher ID (Web of Science )
+• Scopus Author ID
+• Google Scholar Profile
+• Dimensions
+• VIDWAN ID
+• IRINS: Indian Research Information Network System
+• MathScinet- Mathematical Reviews (MR) Author ID
+• ORCiD - Open Researcher and Contributor ID
+13
+
+INTERNATIONAL STANDARD NAMING IDENTIFIER
+• Started in 2012 as non-for profit
+agency
+• 11.02 million identities
+• 10.11 million individuals
+• 2.91 million are researchers
+• 912,991 organizations
+
+14
+
+WEB OF SCIENCE RESEARCHER ID
+
+15
+
+WEB OF SCIENCE RESEARCHER ID
+
+16
+
+WEB OF SCIENCE RESEARCHER ID
+
+• Researcher ID in
+2008
+• Manage your profile
+more easily. Edit
+your details in one
+place
+• Get notified when
+your work gets cited
+• 21.00+ lakhs
+identities
+17
+
+SCOPUS AUTHOR ID
+
+• Elsevier Science in 2004
+• 77.8 million records including
+44 million patents
+18
+
+GOOGLE SCHOLAR PROFILE
+•
+•
+
+Sign to your Gmail account, or create one if you don't have one.
+Access https://scholar.google.com/
+
+19
+
+GOOGLE SCHOLAR PROFILE
+
+20
+
+GOOGLE SCHOLAR PROFILE
+3YWptB8AAAAJ
+
+• 2004 - launched
+• 2006 - citation export
+• 389+ million records
+• 80% English language
+
+21
+
+DIMENSIONS
+
+22
+
+VIDWAN ID : EXPERT DATABASE &
+NATIONAL RESEARCHER’S NETWORK
+
+• 121089+ experts
+organization
+• 12374
+including academic and
+•
+•
+•
+•
+
+R&D organization
+Integrated with ORCiD for
+publication update
+Integrated Altmetrics
+Co-author network
+Establish communication
+directly with the experts
+who possess the
+expertise needed by
+users
+23
+
+INDIAN RESEARCH INFORMATION NETWORK SYSTEM
+
+24
+
+MATHSCINET
+is searchable online
+• Itbibliographic
+database
+
+•
+•
+
+created by the American
+Mathematical Society in
+1996
+It contains almost 3.6
+million items and over 2.3
+million links to original
+articles
+over eight hundred
+thousand authors indexed
+from 1800 mathematical
+journals, many of them
+abstracted "cover-tocover”
+
+25
+
+What is ORCID?
+
+26
+
+https://www.youtube.com/watch?v=a1Rijk_TMHA
+
+27
+
+THINGS WE NEED TO KNOW ABOUT ORCID
+
+• Started in 2012
+• Global & interdisciplinary in nature
+• Independent, community-driven
+open, non-proprietary, not-for-profit organization run by &
+• An
+for the research community
+• Supported by organizational memberships
+• Free for individual scholars to register & use
+& persistent identifier for Researcher & Contributor
+• Unique
+which is a long-lasting reference to a digital resource
+• Represented in16-digit numbers
+• Expressed as HTTP URI: http://orcid.org/0000-0001-5262-8711
+28
+
+THINGS WE NEED TO KNOW ABOUT ORCID
+
+• ORCiDs protects unique scholarly identity
+• Creating an ORCiD identifier takes 30 seconds
+• ORCiD adoption is growing faster
+• ORCiD lasts longer than our email address
+• ORCiD supports 37 types of “works,” from articles to
+dance performances
+
+• You control who can view your ORCiD information
+• Journals, funders & institutions are moving to ORCiD
+• When everyone has an ORCiD identifier, scholarship gets
+better & scholarly echo system becomes transparent
+29
+
+BENEFITS
+
+• Reliable & clear- widely used & accepted
+• Help identify you with your contributions & affiliations
+• Alleviates mistaken identity
+• Saves your time – “enter once, re-use often”
+• Improves recognition for you & your research outputs
+• Increases discoverability of your research outputs
+& control your record, managing what information is
+• Own
+connected & how it is shared
+• Enables you to comply with organizations that require ORCiD Ids
+• Help identify collaboration & peer review activities
+• Many systems you already use are connected with ORCiD
+30
+
+RECENT STATISTICS
+
+31
+
+WHY ORCID ID?: GET RID OF NAME AMBIGUITY
+
+32
+
+HOW TO GET AN ORCID ID
+
+• 16-digit number, stated as URL
+and fast—takes about 30
+• Free
+seconds
+• Sign up now! orcid.org/
+
+33
+
+ADD NAME VARIANTS
+
+To ensure all your work please add different
+variants of your name
+before you link any of your
+work. One can add names
+in multiple character sets.
+
+34
+
+ADD INDIVIDUALS INFORMATION
+
+35
+
+ADD & LINK YOUR WORK
+
+36
+
+USE YOUR UNIQUE IDENTIFIER
+
+• While submitting & publishing articles
+• When you upload a dataset or description
+• When you apply for a grant
+• In your thesis, fellowship, awards applications
+• Transfer of information when you move to another organization
+• On your professional signatures, web pages, CVs and more etc.
+• In any other scholarly activities
+37
+
+ORCID IS A HUB
+
+With other identifiers,
+ORCID enables machinereadable
+connections with:
+• works
+• organizations
+• person IDs
+
+DOI
+ISBN
+
+Repositories
+
+DOI
+URI
+Thesis ID
+
+Publishers
+
+Funders
+
+Other
+person
+identifiers
+
+Higher
+Education
+and
+Employers
+
+ISNI
+Researcher ID
+Scopus Author ID
+Internal identifiers
+
+Professional
+Associations
+
+Member ID
+Abstract ID
+
+38
+
+FundRefID
+GrantID
+
+ISNI
+Ringgold ID
+
+SYSTEM INTEGRATIONS
+• DataCite
+• DSpace
+• DSpace-CRIS
+• EPMC
+• EPrints
+• HUBzero
+• Hydra/Fedora
+• InSPIRE
+• Converis
+• Pure
+• Symplectic
+
+ORCiD works with lots of system
+creators to integrate iDs.
+
+By adding iDs to your existing data, the
+system can make better connections.
+
+39
+
+BOLSTER YOUR DIGITAL IDENTITY
+
+40
+
+PUBLISHERS
+Most publishers require author ORCID iD - a few examples:
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+American Chemical Society
+American Physical Society
+American Geophysical Union
+Biomedical Research Network
+BMJ Journals
+Elsevier
+IEEE
+PLOS
+SAGE Publications
+ScienceOpen
+Springer Nature
+Taylor & Francis
+Wiley
++ many more
+
+41
+
+SIGNING IN USING ORCID
+Publishing systems can allow
+for signing in using ORCID
+
+42
+
+BE UP TO DATE
+
+• Add new positions, roles, research interests, awards,
+speaking invitations
+
+• Add social media links
+• Keep your affiliations & email current
+• Set database alerts wherever it is possible, to add your
+new publications regularly
+
+• Link your IDs & import publications data for easy updating
+43
+
+STRATEGIES FOR PROMOTING SCHOLARLY IDENTITY
+
+• Create a professional website
+• Use social media
+• Attend conferences and events
+• Publish your work
+• Collaborate with other researchers
+• Seek out speaking opportunities
+• Engage with the media
+
+summary, promoting your scholarly identity requires a combination of strategies that are designed to help you
+• Inincrease
+your visibility and establish yourself as a credible researcher. By using these strategies, you can promote
+your research, expand your network, and establish yourself as a thought leader in your field.
+
+44
+
+BEST PRACTICES
+• Establish an online presence
+• Be consistent
+• Stay up-to-date
+
+• Engage with the academic/scholarly community
+• Share your research
+• Monitor your online presence
+• Be ethical
+• Seek feedback
+
+• Be collaborative
+• Be patient
+45
+
+CHALLENGES AND LIMITATIONS
+
+• Time constraints
+• Ethical concerns
+• Limited access to tools and resources
+• Dependence on external platforms
+• Limited impact and recognition
+• Narrow focus
+
+while there are challenges and limitations associated with creating and managing
+• Overall,
+scholarly identity, it is still important for researchers to establish and maintain their scholarly
+identity as it can lead to increased visibility, recognition, and opportunities for collaboration.
+It's important for researchers to be aware of the limitations and challenges and to find a
+balance between establishing a strong scholarly identity and focusing on their research work.
+
+46
+
+FUTURE DIRECTIONS
+Emerging technologies and platforms:
+
+• Increased use of technology
+• Greater emphasis on collaboration
+• Greater importance of metrics and evaluation:
+• Increased emphasis on openness and transparency
+the future of creating and managing scholarly identity is likely to
+• Overall,
+be shaped by a range of factors, including new technologies, changing
+cultural norms, and evolving research practices. Scholars who are able to
+adapt to these changes and establish a strong, inclusive, and impactful
+scholarly identity are likely to be well positioned for success in the years
+ahead.
+47
+
+FUTURE DIRECTIONS
+Potential impact on creating and managing scholarly identity:
+
+• Increased visibility
+• Increased impact
+• Networking and collaboration
+• Career advancement
+• Reputation and credibility
+• Access to funding
+
+creating and managing a strong scholarly identity can have significant benefits for
+• Overall,
+researchers, helping to increase their visibility, impact, and reputation in their field. By following
+
+best practices and staying up-to-date with emerging trends, researchers can ensure that their
+scholarly identity continues to evolve and adapt to changing research environments and cultural
+norms.
+
+48
+
+CONCLUSION
+Building your scholarly identity is a critical step:
+
+• Establish yourself as a credible researcher
+• Increase your visibility
+• Build your network
+• Promote your research
+• Stay up-to-date with emerging trends
+don't hesitate to take action and start building your scholarly identity
+• Sotoday!
+49
+
+EVALUATION OF TOOLS
+
+Source: https://utas.libguides.com/ManageID
+
+50
+
+QUICK POLL
+
+Based on today's presentation, which profile management
+tool(s) are you planning to explore more?
+
+• ORCID
+• Publons
+• Scopus Author Profile
+• Google Scholar Citations
+51
+
+ADDITIONAL RESOURCES
+
+• ORCID for Researchers: https://info.orcid.org/researchers/
+• Funders and ORCID: https://info.orcid.org/funders-orcid-policies/
+• Publishers and ORCID: https://info.orcid.org/requiring-orcid-in-publications/
+• Giving CRediT where CRediT is Due: https://info.orcid.org/credit-for-researchcontribution/?utm_source=mailpoet&utm_medium=email&utm_campaign=blognewsletter
+
+• https://www.youtube.com/watch?v=kPImbDuLurU
+• https://www.youtube.com/watch?v=BmhHE9hmOAI
+• https://ardc.edu.au/services/ardc-identifier-services/
+• https://repository.jisc.ac.uk/7840/2/PID_roadmap_for_open_access_to_UK_research.pdf
+• https://scholarlykitchen.sspnet.org/2020/06/29/the-uk-national-pid-consortium-apathway-to-increased-adoption/ - https://resources.morebrains.coop/pidcycle/
+
+52
+
+Q & A?
+Thank You!

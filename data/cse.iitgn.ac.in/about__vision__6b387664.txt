@@ -1,0 +1,110 @@
+Title: Vision
+Source: https://cse.iitgn.ac.in/about/vision
+
+Department of Computer Science & Engineering, IIT Gandhinagar
+
+# Responsible, scalable computing for India and the world
+
+The department's decade-long vision is to pair fundamental advances in AI, theory, and systems with deployable technologies for inclusive education, sustainable living, digital health, and secure public infrastructure.
+
+Long term outcome
+
+Become a global hub for socially impactful, scientifically rigorous computing research through open datasets, reproducible tools, and strong links with industry, policy, clinics, and peer institutions.
+
+Research culture
+
+## What will guide the department
+
+The vision emphasizes research that is deep enough to advance computer science and practical enough to be validated in the environments where it will be used.
+
+### Responsible scale
+
+Build computing systems that are reliable, secure, verifiable, and ready for deployment in high-stakes settings.
+
+### Societal priorities
+
+Advance work that addresses inclusive education, sustainable living, digital health, accessibility, and public infrastructure.
+
+### Open collaboration
+
+Create open datasets, reproducible tools, and durable partnerships with clinical, industrial, policy, and academic collaborators.
+
+High-TRL demonstrations
+
+## From research prototypes to deployable systems
+
+Three initiatives anchor the near-term translation agenda: assessment infrastructure, sovereign AI systems, and clinical AI that can leave the lab.
+
+Assessment infrastructure
+
+### IITGN Exam-App
+
+A secure, cross-platform examination application for BYOD settings, designed to lower operational overhead while preserving academic integrity.
+
+- Electron-based desktop app across Windows, macOS, and Linux
+- Controlled exam environment with PDF rendering and process monitoring
+- Roadmap: proctoring, admin dashboards, sandboxing, offline sync, and LLM-assisted question generation and evaluation
+
+Sovereign AI systems
+
+### Code, math, and reasoning models
+
+In collaboration with Soket AI, the department is developing multilingual, code-centric models for reasoning, software engineering, and secure deployment.
+
+- 120B-parameter multilingual LLM under training and evaluation
+- Agent-first architecture for repository-level code work, tool use, and enterprise workflows
+- Focus areas include Indic language support, cybersecurity, AI safety, and on-premise or air-gapped deployments
+
+Deployable clinical AI
+
+### ApneaEye
+
+A contact-free sleep apnea screening system that uses low-cost thermal sensing to move clinical AI beyond specialized sleep labs.
+
+- Single thermal camera and Raspberry Pi hardware below Rs 25,000
+- 535 hours of synchronized thermal and PSG data from 70 participants with AIIMS Delhi
+- AHI estimation at R2 = 0.95 and MAE 2.22 events/hour against PSG
+
+Research directions
+
+## Significant areas of advancement
+
+The document identifies long-horizon research efforts where the department can build distinctive depth across theory, systems, AI, and human-centered computing.
+
+### Quantum algorithms
+
+Identify problems where quantum systems offer provable advantages, including kernels, QNNs, QAOA/VQE, and group-theoretic complexity.
+
+### Secure systems and Rust OS
+
+Develop an indigenous Rust-based ARMv8 operating system, network stack, testing pipeline, formal verification methods, and sandboxing support for mobile, edge, and IoT devices.
+
+### AI for visual arts and design
+
+Use differentiable rendering, inverse design, and learning-based methods for shadow art, knots, scribble art, and anamorphic 3D forms.
+
+### Accessibility and assistive technology
+
+Create culturally and linguistically inclusive AI for communication, adaptive learning, eye-gaze interfaces, and assistive interaction.
+
+Education and capacity
+
+## Training students while growing the department
+
+The academic plan combines regional capacity building with deliberate faculty growth, improved ratios, and stronger research output.
+
+### Foundational CS training
+
+A program for students in Gujarat engineering colleges, combining two five-day IITGN bootcamps each semester with online modules.
+
+- Programming, data structures and algorithms, and discrete mathematics
+- Interactive lectures, problem-solving labs, coding contests, and peer learning
+- Teaching assistantships for IITGN PhD and master's students
+
+### Academic growth
+
+Faculty expansion is planned to deepen coverage in systems, security, quantum technologies, AI, theory, and interdisciplinary computing.
+
+- Near-term goal: add four to five faculty members in priority areas
+- Decade goal: 35 to 40 core CSE faculty
+- Target faculty-student ratio: 1:10, aligned with MoE recommendations

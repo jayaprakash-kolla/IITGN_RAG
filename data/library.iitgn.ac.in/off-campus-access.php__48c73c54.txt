@@ -1,0 +1,24 @@
+Title: Library | IIT Gandhinagar
+Source: https://library.iitgn.ac.in/off-campus-access.php
+
+## Off-Campus Access
+
+#### Option – 1: Using INDIAN Access Management Federation (INFED)
+
+ To facilitate and promote the effective use of e-resources at the point of need, the IIT Gandhinagar Library provides off-campus (remote) access to its subscribed e-resources through the INDIAN Access Management Federation (INFED) developed by INFLIBNET. This service allows registered users to access resources seamlessly from anywhere using their IITGN Single Sign-On (SSO) credentials, without requiring any special configuration, software, or device. Users need to log in only once via the link below using IITGN’s Institute Authentication Services. After successful login, access to the resources listed on the off-campus access page becomes seamless, and access to other available resources is automatically enabled for the duration of the session through cookies.
+
+Link for Off-Campus Access: https://idp.iitgn.ac.in/
+
+Click here to download the Off-campus Access user guide.
+
+Advantages
+
+-  Can run on any device and compatible with any operating system
+-  No extra credentials needed to remember
+-  Browse and search facility to explore resources
+
+#### Option – 2: Using IITGN VPN Service
+
+Click here to view detailed documentation on IITGN VPN service
+
+ For any help related to Off-campus Access service, please write an email to [email protected] or [email protected]

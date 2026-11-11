@@ -1,0 +1,48 @@
+Title: IIT Gandhinagar | Uttama Lahiri
+Source: https://iitgn.ac.in/faculty/ee/fac-uttama
+
+# Uttama Lahiri
+
+-  Electrical Engineering
+Uttama Lahiri
+
+## Uttama Lahiri
+
+Professor, Electrical Engineering
+
+- BE: Jadavpur University, Kolkata, 1995
+- MTech: IIT Kharagpur, 2004
+- PhD: Vanderbilt University, 2011
+
+Email: uttamalahiri -AT- iitgn.ac.in
+
+ Website :  https://research.iitgn.ac.in/iracs
+
+Office:  AB 13/322D
+VOIP:  2435
+
+- Dash, Adyasha; Yadav, Anand; Chauhan, Anand and Lahiri, Uttama, “Kinect-assisted performance-sensitive upper limb exercise platform for post-stroke survivors”, Frontiers in Neuroscience, DOI: 10.3389/fnins.2019.00228, vol. 13, 2019.
+- Krishnappa Babu, Pradeep Raj and Lahiri, Uttama, “Understanding the role of proximity and eye gaze in human-computer interaction for individuals with Autism”, Journal of Ambient Intelligence and Humanized Computing, DOI: 10.1007/s12652-019-01175-8, Jan. 2019.
+- Solanki, Dhaval S. and Lahiri, Uttama, “Design of instrumented shoes for gait characterization: a usability study with healthy and post-stroke hemiplegic individuals”, Frontiers in Neuroscience, DOI: 10.3389/fnins.2018.00459, vol. 12, Jun. 2018.
+- Kuriakose, S. and Lahiri, U. (2017). “Design of a Physiology-sensitive VR-based Social Communication Platform for Children with Autism,” IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 25, no. 8, pp. 1180-1191, Aug. 2017, doi: 10.1109/TNSRE.2016.2613879.
+- Verma, S; Kumar, D; Kumawat, A; Dutta, A and Lahiri, U (2017) “A Low-cost Adaptive Balance Training Platform for Stroke Patients: A Usability Study”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, DOI:10.1109/TNSRE.2017.2667406.
+- Raj P, Oza P and Lahiri U (2017), "Gaze-sensitive Virtual Reality based Social Communication Platform for Individuals with Autism," IEEE Transactions on Affective Computing, vol. 9, no. 4, pp. 450-462.
+- Kumar, D., Dutta, A., Das, A., and Lahiri, U. (2016) "SmartEye: Developing a Novel Eye Tracking System for Quantitative Assessment of Oculomotor Abnormalities", IEEE Transactions on Neural Systems and Rehabilitation Engineering, PP(99), 1-1, 2016. doi: 10.1109/TNSRE.2016.2518222.
+
+- Professor, Indian Institute of Technology Gandhinagar (Oct 2021 to present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Nov 2015 - Oct 2021)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (Apr 2012 - Nov 2015)
+- Research Associate, Vanderbilt University, USA (2011)
+- Research Assistant, Vanderbilt University, USA (2007 - 2011)
+- Senior Manager, Tata Iron and Steel Company Ltd., India. (2004 - 2007)
+- Assistant Manager, Biecco Lawrie Ltd., India (1998 - 2002)
+- Systems Support Engineer, Debind Controls and Systems Pvt. Ltd., India (1997 - 1998)
+- Application Engineer, TTS Systematix Pvt. Ltd., India. (1995 - 1997)
+
+- ● Virtual Reality based Human Computer Interaction used in affective computing.
+- ● Eye Tracking and Physiology based modeling techniques.
+- ● Human Robot Interaction used in cognitive studies.
+- ● Adaptive Intelligent techniques in cognitive research.
+- ● Robot assisted surgical techniques.
+
+Complete List of Publications

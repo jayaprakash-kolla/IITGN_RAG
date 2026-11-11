@@ -1,0 +1,1783 @@
+#flags:
+
+F
+
+Infrastructure and
+
+Library
+Computer Centre
+Medical Centre
+Laboratory Facilities
+New Buildings
+Institute Master Plan
+
+21
+
+acilities
+
+Infrastructure and Facilities
+
+Library
+The Central Library of IIT Gandhinagar,
+now located in a 400 sq. m. area, continues to
+
+Through: A Weekly Article Alert and
+Compilation of Subject Bibliographies.
+
+Computer Centre
+
+provide and expand new services to support
+teaching, learning, training, research and
+consultancy needs of the Institute through
+reference books, text books, journals,
+CDs/DVDs and other electronics means. The
+library subscribes to research journals in
+electronic as well as print formats. Online
+journals are available from Annual Reviews
+Collection, American Society of Mechanical
+Engineers (ASME), American Chemical
+Society (ACS), American Physical Society
+(APS), IEEE Xplore ( IEEE/IEL), American
+Society of Civil Engineers (ASCE), American
+Society of Microbiology (AMS), JSTOR
+Archives, Science Direct, Springer Link,
+Project Muse, Mathscinet, SIAM, Indian
+Standards (BIS), EBSCO Communications &
+Mass Media Complete, and Nature. The
+online journals are IP-authenticated to make
+them easily accessible from anywhere on the
+campus. The Central Library also subscribes
+to bibliographic databases SciFinder and
+EBSCO MLA International Bibliography.
+Mechanisms are available for access to
+scientific journals and reports not available at
+IITGN. Moreover, Wi-Fi enabled library
+premises add to the academic productivity of
+users. Most of the library operations have
+now been automated with the use of SOUL, a
+library management system, after addition of
+a powerful high-end server (IBM X-3500 M3
+Tower 5U).
+The Central Library provides the following
+services to support the teaching and research
+activities:
+Circulation of Reading Materials, Reference
+and Information Service, Document Delivery
+Service, Inter Library Loan, New Additions
+of Books, Journal Table of Contents from
+Publishers Photocopy Service, Subject
+bibliographies. The library staff makes extra
+efforts to disseminate information through
+such services as Journal Contents Alert, FLIP-
+
+The Institute's computer facilities have been
+developed with high-end hardware, a wide
+range of software and excellent connectivity
+so that students, faculty and staff can carry
+out their work without interruptions. The
+LAN setup integrates the entire IITGN
+community into a single unit. The Institute
+premises and the student hostels are also WiFi enabled. Currently the Institute houses
+two computer labs, one for common use and
+the other for instructional purposes. Over 30
+PCs are available to the students in a
+Common Computer Laboratory that is open
+round the clock and is used for programming,
+project work, browsing and other purposes.
+In addition, the Computational Instructional
+Laboratory houses over 60 PCs. All faculty
+members, research scholars, research
+associates, project staff and administrative
+staff have been provided with individual PCs,
+and printers on sharing basis. A few high-end
+printing and photocopying machines are
+available for common use at strategic
+locations. Individual email accounts have
+been provided to IITGN students, faculty and
+staff with the facility of sending bulk email to
+common groups, for example, sending home
+assignment to students in a course or to
+students in a particular branch and year.
+Important scientific software such as
+Mathematica, PSCAD 4.2, STATA 11.1,
+AutoCAD, NI Labview, Cadence, T Cad,
+Matlab, Xilinx ISE have been procured.
+IITGN is also a part of the IIT System Portal
+at http://www.iitsystem.ac.in/index.jsp
+
+Medical Centre
+A qualified medical practitioner Dr Deepa
+Shah, (M.B.B.S., Diploma in Medicine,
+Fellow Infectious Diseases, Italy) is available
+on the Institute premises for several hours on
+working days to provide medical advice to
+students, staff and faculty. The doctor can
+also be consulted at her clinic as well as at the
+Life Care Hospital located nearby.
+Hospitalization expenses of all students are
+covered under a medical insurance policy. A
+trained male nurse is available full-time to
+
+22
+
+Infrastructure and Facilities
+
+23
+
+Infrastructure and Facilities
+
+provide emergency first-aid and for routine
+medical services such as checking
+temperature, blood pressure, blood sugar,
+oxygen levels and dressing wounds. He
+dispenses many common medicines stored in
+the medical room, as per the doctor's
+prescription or through phone consultation.
+He also assists in maintaining medical
+supplies and keeping medical records. The
+other facilities include an Electrocardiogram
+(E.C.G.) machine, Nebulizer therapy for
+asthma and chronic obstructive pulmonary
+disease (COPD), and a 24-hour vehicle facility
+for patients in case of emergency. Corporate
+Hospital SAL, Ahmedabad is now an
+approved hospitals.
+
+Laboratory Facilities
+Chemical Engineering
+All Chemical Engineering undergraduate
+students are required to take a laboratory
+course each semester from the 3rd to the 7th
+semester. The Chemical Engineering
+laboratory, with an area of 165 sq. m.,
+includes experimental set-up on Unit
+Operations, Reaction Engineering, and
+Process Dynamics. The current facilities
+
+include Double Pipe/Coiled/Plate/Fluidized
+/FinTube Heat Exchangers, Chemical
+reactors, Differential distillation set-up,
+Packed-bed absorption column, Sieve-plate
+distillation column, Interacting/noninteracting tanks set up (all from Shree
+Fabricators and Engineers), Calorimeter and
+refractometer (both from Scientific Products
+India), and Batch dryer (from Technical
+Education, Bangalore). The laboratory also
+has several set-ups to demonstrate the basic
+principles of fluid flow such as flow
+measuring devices, centrifugal pumps and
+pipe fittings apparatus. The facility is being
+further expanded to include experiments
+based on Process Control and Advanced
+
+Separation Techniques.
+The current Chemical Engineering faculty
+has research interests in the fields of Particle
+Formation for Drug Delivery, Biochemical
+Engineering, Systems Biology and Powder
+Technology. An area of 175 sq. m. has been
+provided for their research activities. A
+Particle Size Analyzer (Coulter Private Ltd)
+and an optical microscope with camera
+facility (Nikon) have been procured to build a
+particle formation research facility. A freeze
+dryer (Martin Christ), Zeta-sizer (PSS
+NICOMP) and Peristaltic Pumps (Watson
+Marlow) have also been procured. A particle
+size analyzer to characterize gaseous microbubbles and liquid drop suspensions and highpressure vessels for particle formation using
+high pressure CO2 have also been installed. A
+High-Pressure Liquid Chromatography
+(HPLC) system (Waters), a Gas
+Chromatography (GC) system (Perkin
+Elmer), Fermentor (Sartorious), Microplate
+Reader (TECAN), Polymerase Chain
+Reaction Thermocycler (Eppendorf), deep
+freezer (-86˚C) (Thermo Fisher Scientific) and
+other basic biology laboratory utilities are
+available for Biochemical and Biomolecular
+Engineering research.
+For Powder Engineering, a V-blender and
+Cone-mill (both Prism Pharma) have been
+installed for powder mixing and nanocoating. Powder Rheometer (Freeman
+Technology) and Laser Diffraction Particle
+Size Analyzer (CILAS) are available for
+characterization of powder. Also Digital
+Automatic Tap/Bulk density Apparatus
+(Veego) and Angle of Repose apparatus have
+been procured for bulk property
+characterization of powders. An
+Environmental Test Chamber (HMG India)
+has also been procured for subjecting the test
+powders at different humidity and
+temperature conditions. The Powder
+Engineering facility of the Chemical
+Engineering Department is a typical
+Formulation and Pre-formulation labs of
+Pharmaceutical R&D.
+
+Chemistry
+The research interests of the Chemistry
+faculty include synthesis of modified nucleic
+acids for development of bioanalytical assays
+and sensor systems, synthesis of natural
+24
+
+Infrastructure and Facilities
+
+product analogues, electron transfer,
+photophysical and photochemical studies of
+synthesized organic molecules in ionic liquid
+media, developing methodology towards
+synthesis of Glutamate containing natural
+products, isolation and characterization of
+chromophores from natural sources,
+development of natural food coloring agents,
+synthesis and functionalization of
+nanomaterials, enzymology of redox
+processes, synthesis of macrocyclic systems
+such as porphyrnoids with potential
+applications as sensing systems as well as in
+the area of electrochemistry.
+Sophisticated research equipment such as
+500MHz FT NMR spectrometer and ESIQToF Mass Spectrometers have been ordered
+and will be available soon. Research
+instrumentation such as Digital Polarimeter
+(Anton-Paar), FT-IR spectrophotometer
+(Thermo Scientific), Digital Melting Point
+Apparatus (MR-VIS), and Photochemical
+Apparatus (Luzchem) have also been
+procured.
+
+test for coarse grained soil.
+© Compressibility: Proctor testing setup
+(compaction test; standard & modified),
+Automated Oedometer setup
+(consolidation test)
+© Sample Preparation: Pulverizer, high
+speed stirrer, hydraulic extractor, Shelby
+tube, mechanical auger, industrial grade
+RO system, de-airing apparatus
+© Shear Strength: Direct shear device for
+measuring cohesionless soils; automated
+unconfined compression testing device for
+cohesive soils; advanced automated triaxial
+setup for simulating field conditions.
+© Dynamic Properties: Cyclic triaxial testing
+system and bender element system for
+measuring damping ratio and shear
+modulus.
+© Design Software: GEO5 geotechnical.
+
+Electrical Engineering
+The Department of Electrical Engineering
+currently offers one laboratory course to all
+undergraduate students and five additional
+laboratory courses to Electrical Engineering
+
+Civil Engineering
+The Geotechnical Engineering Laboratory
+supports post-graduate teaching and research
+focusing on core subjects as well as on broad
+areas of research pursued by the M. Tech. and
+Ph. D. students. The lab is equipped with
+basic soil testing equipment as well as highend research equipment. The equipment are
+being used to measure the mechanical
+properties of soils, including index property,
+permeability, compressibility, and shear
+strength and dynamic properties of soils. The
+Geotechnical Laboratory is equipped with the
+following facilities/equipment:
+© Index Property and Soil Classification:
+Sieve shaker (noise reduction),
+hydrometer test, Atterberg limit
+equipment (liquid limit, plastic limit,
+shrinkage limit), specific gravity, relative
+density, core cutter, sand pouring
+apparatus, chemical test (PH, Sulphite,
+Chloride, Iron, Hardness), swelling
+pressure measuring system, optical &
+digital LCD microscopes for studying the
+shapes of sand particles.
+© Permeability: Falling head permeability
+test for fine grained soil and constant head
+
+25
+
+undergraduate students.The laboratory,
+located in an area of 300 sq. m., has a wide
+repertoire of experimental facilities for all
+courses. Experiments include studies of
+characteristics of semiconductor devices,
+analog circuits, active filters & Schmitt
+triggers, digital circuits, counters, shift
+registers, timer circuits and analog-to-digital
+converters. Other experiments include
+microprocessor- and microcontroller-based
+experiments, studying the characteristics of
+electrical motors and generators, speed
+control of motors, synchronization of
+alternator with infinite bus or another
+alternator, performance of various power
+electronic converters. The electronics lab
+recently added two Gunn diode-based
+microwave test benches (Sciencetech
+Technologies NV9001) and two antenna
+
+Infrastructure and Facilities
+
+trainer kits (ST-2261 Sciencetech
+Technologies) for RF experiments in the
+communications lab course. The control
+systems laboratory has process control trainer
+modules that include simulators of various
+types of feedback control systems that are
+able to simulate typical time and frequency
+response characteristics of a plant. PID
+controllers and lead/lag compensators are also
+in place. Process measurement kits are
+available to measure parameters such as
+temperature, level, position, velocity and
+acceleration. A comprehensive two-channel
+vibration analyser is being procured. This will
+enable the study, analysis and control of
+vibrations in flexible structures. A
+Progarammable Logic Controller (GE Fanuc) has been installed to familiarise the
+students with industrial control process. The
+VLSI laboratory facility includes Synopsis
+TCAD tools, Xilinx FPGA kits and ISE
+software that are being used for several
+undergraduate laboratories and project work.
+The laboratory is also equipped with ARM,
+PIC controller, AVR and microcontroller
+boards, digital storage oscilloscopes, digital
+multimeters and IC testers, universal IC
+programmer, ScopeCorder, Precision
+Magnetics Analyzer and all other electrical
+engineering laboratory utilities. In addition,
+the power systems simulation laboratory has
+PSCAD software licensed for 25 nodes. A
+new embedded systems lab has recently been
+designed and developed. This lab is equipped
+with twenty PIC18F microcontroller-based
+development boards. Seven experiments were
+developed for the related course.
+The current Electrical Engineering faculty
+has research interests in Image Processing,
+Power Systems, Renewable Energy, VLSI and
+Fibre-optic sensors. The current research
+facilities include transformers of different
+winding geometry. IITGN has a
+collaboration with Cadence under its
+University Programme. The VLSI design
+research and development work greatly
+benefits from this collaboration through the
+availability of many tools and facilities
+provided by Cadence. A fibre-optics lab has
+also been developed for research in the field
+of optical physical and chemical sensors. The
+current focus of research is tunable diode laser
+
+spectroscopy (TDLS) of gases for industrial
+and medical applications. The laboratory is
+equipped with narrow linewidth near-infrared
+and mid-infrared edge-emitting (Toptica) and
+surface-emitting (Vertilas) laser diodes, highsensitivity Peliter-cooled photodetectors
+(Thorlabs), precision laser diode current and
+temperature controllers (Thorlabs), an
+arbitrary waveform generator (Tektronix)
+and a digital oscilloscope (Tektronix). The lab
+also has a Fujikura fibre splicing machine,
+singlemode and hollow-core optical fibre and
+assorted optoelectronic equipment for a
+standard optoelectornics laboratory.
+
+Mechanical Engineering
+The Department of Mechanical Engineering
+currently offers five undergraduate laboratory
+courses. All first year undergraduate students
+are required to take a laboratory course on
+Workshop Practice. The Manufacturing
+Laboratory housed in 280 sq. m. area, has
+facilities including lathes, milling machine,
+vertical machining centre, electric discharge
+machine, welding, fitting and tin smithy
+equipment. The manufacturing laboratory is
+also used to offer two laboratory courses on
+manufacturing practices and processes for
+
+second and third year Mechanical
+Engineering undergraduate students. A
+general workshop having carpentry, fitting,
+welding, tin-smithy, band saw, welding
+machines, lathes, drilling machines, shaping
+machine, slotting machine, milling machine,
+hand press and metrology instruments have
+been set up.
+An advanced manufacturing laboratory
+(AML) with a rapid prototyping machine
+(RPM), computer numerically controlled
+(CNC) lathe, CNC milling machine,
+coordinate measuring machine (CMM) and
+profile projector supports teaching and
+
+26
+
+Infrastructure and Facilities
+
+research activities in manufacturing related
+areas. These facilities will also support
+integrated product design and manufacturing
+activities.
+The mechanical systems design lab supports
+the teaching of kinematics and dynamics of
+mechanisms and machine design courses. The
+laboratory has four bar mechanisms, quickreturn mechanism, cam mechanism, gears and
+gear trains, fundamental mechanical vibration
+tests, balancing and whirling of shaft test rigs.
+High performance computing facilities have
+recently been initiated with two work station
+servers (Celsius R-670) and five network highend work stations. The facilities enhances
+design capabilities and will be used for
+research and teaching. The facilities permit
+application of newer techniques for solving
+complex problems at high speed. The
+facilities will be linked to national network
+“Garuda” to further elevate computing
+capabilities. Generous partial financial
+support has been received from Fujitsu and
+Nvidia.
+
+machines such as gear pump, centrifugal
+pump, Francis Turbine, Pelton wheel along
+with various flow measuring devices and
+accessories have also been installed. An openloop low-speed wind tunnel having test
+section 330x300mm at the end and a closedloop water tunnel of test section 250x250mm
+are being set up to support the teaching of
+and to facilitate basic research in fluid
+mechanics. Additionally, the control systems
+laboratory is being updated with a number of
+control experiments relevant to mechanical
+engineering.
+The current Mechanical Engineering
+faculty research interests include
+Aerodynamics, Flight Mechanics, FluidStructure Interaction, Polymer Composites,
+Dynamics and Control, Systems Theory,
+Thermo-Fluids Systems, Hydrodynamic
+Stability, High Performance Computational
+Modeling of Engineered Systems.
+The manufacturing laboratory and the solid
+mechanics and experimental stress analysis
+laboratory include many fabrication and
+research facilities. These facilities are
+currently being further developed and
+expanded according to experimental and
+fabrication needs.
+
+Physics
+
+All second year Mechanical Engineering
+students are required to take a laboratory
+course on solid mechanics and experimental
+stress analysis. The laboratory, in 70 sq. m.
+area, has two MTS universal testing machines
+of 100 kN and 200 kN capacity, Charpy
+impact testing machine of 450 J capacity
+(MTS), Rockwell and Vickers hardness testing
+machines (ZwickRoell), torsion and fatigue
+testing machines.
+The third year Mechanical Engineering
+undergraduate students are required to take a
+laboratory course on fluid mechanics and
+fluid machinery. The laboratory is located in
+a 155 sq. m. area, and has set-ups for
+conducting experiments on fluid statics and
+fluid dynamics. Several common turbo
+
+27
+
+All first year undergraduate students are
+required to take a laboratory course in basic
+physics. The laboratory consists of a room
+for general experiments and a dark room.
+There are 7 experiments covering optics,
+electricity and magnetism, modern physics
+and classical mechanics.
+The procured equipment includes Grating
+Spectrometer and Fresnel's Biprism with
+optical bench (Indosaw), Newton's Rings
+(Holmarc), Frank Hertz Experiment and
+Planck's constant (Scientific Equipments
+India Ltd). Part of the experimental set-up of
+Helmholtz Coil experiment was fabricated at
+the Institute. Four sets of all experimental
+equipment are available in the lab and they
+are made available to the students for handson experience in their course. Apart from
+these experiments, the Physics laboratory also
+has moving coil galvanometers (spot
+reflection type and suspended mirror type)
+
+Infrastructure and Facilities
+
+and compound pendulum experiments.
+Cathode ray oscilloscopes (Scientech,
+Scientific and Aplab), signal generators
+(Scientech, Scientific), DC power supplies and
+several optical components are available for
+use in many experiments. Other experimental
+set-ups available in the Physics laboratory
+include universal B-H curve tracer, dielectric
+constant (Mittal Enterprises) and
+measurement of e/m by Thomson method
+(Besto). The Indian Academy of Sciences,
+Bangalore kit for experimental physics is also
+available in the Physics laboratory.
+The Physics laboratory also has a few mini
+electric motors and electric generators which
+were made by the first year students as part of
+their laboratory course. The Institute has
+recently acquired an astronomical telescope in
+the Physics laboratory to encourage students
+to develop interest in this area. It has a
+reflector with eight inch mirror of a focal
+length 1200 mm with a Dobsonian mount.
+Many students have started using it for
+observations of planets, star clusters and other
+cosmic objects. It has a lunar as well as a solar
+filter. It should be possible to observe the
+transit of Venus across the disc of the Sun in
+June 2012.
+
+New Buildings
+A new temporary building (Shed-3) with an
+area of 2010 sq. m. has been constructed by
+the Institute on the VGEC campus through
+the CPWD to expand laboratory facilities,
+provide office space to faculty and research
+scholars and add new class-rooms to the
+
+existing teaching infrastructure. Another
+temporary building (Shed-4) with an area of
+2010 sq. m. is also being constructed and is
+likely to be completed in June 2012. The
+sanction for one more building (Shed- 5) with
+an area of 3000 sq. m. has been issued to
+CPWD. This building is likely to be
+completed within the next ten months.
+
+Institute Master Plan
+IITGN has been provided about 400 acres on
+the eastern bank of the Sabarmati in
+Gandhinagar, opposite the Secretariat. The
+master plan of the campus took shape after
+several brain-storming sessions between a
+group of faculty members of the Institute and
+the consultants. The campus is envisioned to
+be compact, energy-efficient by minimizing
+energy consumption and making optimum
+use of natural resources by harvesting rain
+water. The campus will have clearly identified
+vehicle-free zones. The campus is being
+designed to facilitate close interaction
+between faculty and students and also
+between the various sections of the student
+community. After a careful selection process,
+M/s Green Campus Development
+Consortium, New Delhi was awarded the
+contract to develop the master plan of the
+campus.
+
+Institute Master Plan
+
+28
+
+F
+
+aculty Activities
+
+Sponsored Projects
+Consulting Projects
+Awards and Recognition
+Honorary Work
+Academic Lectures
+Other Faculty Activities
+Publications
+
+29
+
+Faculty Activities
+
+Sponsored Projects
+Academic activities described in this
+section pertain to individual faculty
+members with regard to research and
+development, consulting, recognition,
+publications and honorary work for
+other academic organizations.
+
+Projects Sanctioned during 2011-12
+External sponsoring agencies sanctioned the
+following research projects to IIT
+Gandhinagar faculty with the total budget of
+Rs 3,48,40,522:
+© Photochemical and photophysical
+studies of donor-acceptor substituted
+aryl and heteroaryl polyenes, sponsored
+by CSIR. Principal Investigator: Prof.
+Sriram Kanvah Gundimeda, Chemistry.
+© Engineering escherichia coli strains
+optimized for large scale lignocelluloses
+fermentation for biofuel production,
+sponsored by Department of Science and
+Technology. Principal Investigator: Prof.
+Supreet Saini, Chemical Engineering.
+© Short-term generation scheduling in
+power systems under uncertainty/
+intermittent characteristics of
+renewable energy sources (RES) and
+demands, sponsored by Department of
+Science and Technology. Principal
+Investigator: Prof. Naran Pindoriya,
+Electrical Engineering.
+© Studies of structure-property relations
+in polymer nanocomposites using
+molecular simulations, sponsored by
+Department of Science and Technology.
+Principal Investigator: Prof. Suchira Sen,
+Chemical Engineering.
+© Engineering stable and bio-compatible
+microbubble formulation for
+biomedical applications, sponsored by
+Department of Biotechnology. Principal
+Investigator: Prof. Sameer Dalvi,
+Chemical Engineering.
+© Thermodynamically stable pickering
+emulsions, sponsored by Department of
+Science and Technology. Principal
+
+©
+
+©
+
+©
+
+©
+
+©
+
+Investigator: Prof. Mukta Tripathy,
+Chemical Engineering.
+Center of excellence in biomedical
+engineering and health care
+technologies, sponsored by Industries
+Commissionerate, Government of
+Gujarat. Principal Investigator: Prof.
+Sameer Dalvi, Chemical Engineering.
+Technology Incubation and
+Development of Entrepreneurs Centre,
+sponsored by Department of Information
+Technology. Principal Investigator: Prof.
+Joycee Mekie, Electrical Engineering.
+High fidelity computational engineered
+systems on HPC platforms, sponsored
+by the Department of Information
+Technology. Principal Investigator: Prof.
+Murali Damodaran, Mechanical
+Engineering. Co-PIs include Prof.
+Surendra Ranganath, Prof. Supreet
+Saini, Prof. Bireswar Das and Prof. N.
+Kishore Kumar.
+Experimental studies of metastability in
+different synchronizers, sponsored by
+the Department of Science and
+Technology. Principal Investigator: Prof.
+Joycee Mekie, Electrical Engineering.
+Technological value addition to the
+initial design of a low-cost windmill for
+pumping brine and electricity
+production in rural areas - a
+GRiDS@IITGN-NIF Initiative,
+sponsored by National Innovation
+Foundation, Department of Science and
+Technology. Principal Investigator: Prof.
+Murali Damodaran, Mechanical
+Engineering. Co-PIs include Prof. Atul
+Bhargav and Prof. Naran Pindoriya.
+
+30
+
+Faculty Activities
+
+Ongoing Sponsored Projects
+The following sponsored projects were
+initiated in earlier years and are still
+continuing:
+© Development of a rapid visual
+screening method for seismic
+assessment of RC frame buildings in
+India, sponsored by the Seismology
+Division, Ministry of Earth Sciences,
+Government of India, New Delhi.
+Principal Investigator: Prof. Sudhir K.
+Jain; other collaborators are Prof.
+Durgesh C. Rai, IIT Kanpur; Prof. Keya
+Mitra, BESU Shibpur and Prof. Mehul
+Shah, CEPT Ahmedabad.
+© R&D of equipment for peeling of husk
+from cashew kernels, sponsored by
+Olam Exports India Ltd, Quilom, Kerala.
+Principal Investigator: Prof. N.
+Ramakrishnan, Mechanical Engineering.
+© A novel process for precipitation and
+stabilization of drug nanoparticles in
+aqueous suspensions using CO2,
+sponsored by Department of
+Biotechnology, Government of India.
+Principal Investigator: Prof. Sameer V.
+Dalvi, Chemical Engineering.
+© An experimental investigation to locate
+and assess the severity of winding
+deformations in power transformers,
+sponsored by the Department of Science
+and Technology, Government of India.
+Principal Investigator: Prof. Ragavan K.,
+Electrical Engineering.
+© Engineering zymomonas mobilis for
+the efficient production of biofuels
+from lignocellulosic biomass, sponsored
+by Department of Biotechnology,
+Government of India. Principal
+Investigator: Prof. Supreet Saini,
+Chemical Engineering.
+© Reprogramming cellular networks in
+salmonella enterica to develop novel
+vaccines, sponsored by Department of
+Biotechnology, Government of India.
+Principal Investigator: Prof. Supreet
+Saini, Chemical Engineering.
+© Rapid precipitation of drug
+nanoparticles using ultrasonicallydriven mixing device, sponsored by
+Department of Science and Technology,
+
+31
+
+©
+
+©
+
+©
+
+©
+
+©
+
+©
+
+Government of India. Principal
+Investigator: Prof. Sameer V. Dalvi,
+Chemical Engineering.
+Quantitative near- and mid-infrared
+wavelength modulation spectroscopy
+for gas sensing applications, sponsored
+by Department of Science and
+Technology, Government of India.
+Principal Investigator: Prof. Arup Lal
+Chakraborty, Electrical Engineering.
+Virtual geotechnical laboratory,
+sponsored by Ministry of Human
+Resource Development, Government of
+India. Principal Investigator: Prof. Amit
+Prashant, Civil Engineering.
+Photo-processes of donor-acceptor
+substituted polyenes in ionic liquid
+media, sponsored by the Department of
+Science and Technology, Government of
+India. Principal Investigator: Prof.
+Sriram Kanvah Gundimeda, Chemistry.
+A cognitivist exploration of the concept
+of privacy behavior and experience,
+sponsored by Department of Science and
+Technology, Government of India.
+Principal Investigator: Prof. Jaison A.
+Manjaly, Philosophy.
+Hybrid Cali (n) hyrin(s) with pyridine
+moiety: new block of macrocyles as
+potential candidates for anion sensing
+and metal coordination, sponsored by
+Department of Science and Technology.
+Principal Investigator: Prof. Iti Gupta,
+Chemistry
+Fire Engineering Lab, UL-USA,
+Principal Investigator: Prof. Chinmay
+Ghoroi, Chemical Engineering.
+
+Consulting Projects
+The following consulting projects have been
+undertaken by the faculty of IIT Gandhinagar
+with the total budget of Rs 41,84,871.
+© National level expert institute to advise
+and oversee the scheme on State Level
+Anchor Institutes in the focus sectors,
+for the Government of Gujarat. Principal
+Investigator: Prof. Sudhir K. Jain,
+Director.
+© Design of helium gas circulators for
+helium cooling loop at IPR, for Institute
+for Plasma Research, Gandhinagar.
+
+Faculty Activities
+
+Principal Investigator: Prof. Vedant
+Kadambi, Mechanical Engineering.
+© Development of a user interface for
+facilitating literature search at IITGN,
+for Ricoh Innovations, Inc. (RII), USA.
+Facilitator and Coordinator: Prof.
+Supreet Saini, Chemical Engineering.
+
+Ongoing Consulting Projects
+
+©
+
+©
+
+©
+
+© Seismic Studies of the area around
+
+Bhagyam Oil Fields, for L&T - GULF
+Private Ltd and executed jointly by
+IITGN, IIT Kanpur and IIT Kharagpur
+with Prof. Sudhir K. Jain as coordinator.
+© Consulting for Dr Fixit Institute,
+
+©
+
+Principal Investigator: Prof. Sudhir K
+Jain, Civil Engineering.
+Consulting for Sundaram Architect,
+Principal Investigator: Prof. Sudhir K
+Jain, Civil Engineering.
+Consulting for Electrotherm India Ltd,
+Ahmedabad, Principal Investigator: Prof.
+Ragavan K., Electrical Engineering.
+Consultancy for INDEXT B, Principal
+Investigator: Prof. Sudhir K. Jain, Civil
+Engineering.
+Geotechnical Design for Cell-1 of
+Kanjurmarg Solid Waste Management
+System, Principal Investigator: Prof.
+Amit Prashant, Civil Engineering.
+
+Awards and Recognition
+The following faculty members have received special awards and recognition by external bodies
+during 2011-12:
+
+Prof. Nikhil Balram, a
+Guest Professor at IIT
+Gandhinagar, President and
+CEO of Ricoh Innovations
+Inc., was conferred the 2011
+Alumni Achievement
+Award by Carnegie Mellon
+University, Pittsburgh.
+
+Prof. Rita Kothari has been
+nominated as the Reviews
+Editor for Interventions, a
+high impact Routledge
+journal in Humanities and
+Social Sciences. She was an
+invited panelist on "The
+Chutnefication of English:
+Amlish, Hinglish,
+Chinglish" at the Jaipur
+Literature Festival 2012.
+
+Prof. Sudhir K. Jain is an
+independent director on the
+Board of Gujarat
+Foundation for
+Entrepreneurial Excellence
+(GFEE). Prof. Jain has also
+joined the Board of Gujarat
+International Finance TecCity (GIFT) Company Ltd
+as an Independent Director.
+He has been chosen a
+member of the Working
+Group on Technical
+Education to formulate the
+Twelfth Five Year Plan
+(2012-17) by the Planning
+Commission.
+
+32
+
+Faculty Activities
+
+© Member, P. M. M. C., DST Centre for
+
+Honorary Work
+1
+
+Prof. Ambarish Kunwar, Physics
+© Reviewer, New Journal of Physics
+(Institute of Physics)
+
+2
+
+Prof. Arup Lal Chakraborty, Electrical
+Engineering
+© Reviewer, Optics Letters (Optical Society
+of America).
+© Reviewer, Applied Optics (Optical
+Society of America).
+
+3
+
+Prof. Ashwini Kumar, Civil Engineering
+
+© Member, Campus Development
+
+Committee for IIM, Udaipur.
+© External Assessor for the B. Tech.
+Programme in Civil Engineering.
+University of Malaysia Sabah, Kota
+Kinabalu, Malaysia, January 15-20, 2012
+4
+
+Prof. Chinmay Ghoroi, Chemical
+Engineering
+© Member of Board of Studies in Chemical
+Engineering (Degree Programme) Nirma
+University, 2012-2013.
+st
+© Invited to the 71 meeting of the Advisory
+Committee of Central Glass and Ceramic
+Research Institute (CGCRI), Naroda
+Centre, Ahmedabad, November 18, 2011.
+© Reviewer, Powder Technology (Elsevier).
+
+5
+
+Prof. D. V. Pai, Mathematics
+
+© Examiner, Ph. D. thesis in Mathematics,
+
+IIT Kharagpur, March 2012.
+© Chairman, DST-constituted Planning
+Committee, SERC School on
+“Multivariable and matrix variable
+calculus with applications: optimization”
+C. M. C. Pala, Kerala, April-May 2012.
+© Member, P. M. M. C., DST Centre for
+Mathematical Sciences, Pala, Kerala.
+
+1
+
+33
+
+2
+
+3
+
+Interdisciplinary Mathematical Sciences,
+BHU, Banaras, India.
+© Associate Editor, Asian European Journal
+of Mathematics, World Scientific
+Publishers, London and Singapore.
+© Reviewer, Mathematics Reviews
+(American Mathematical Society).
+6
+
+Prof. G. K. Sharma, Mechanical
+Engineering
+© Member, BOG, IIITDM, Jabalpur.
+© Member, Building and Works
+Committee, IIITDM, Jabalpur.
+
+7
+
+Prof. Jagmohan Tyagi, Mathematics
+© Reviewer, Mathematical Reviews
+(American Mathematical Society).
+
+8
+
+Prof. Jaison A. Manjaly, Humanities
+(Philosophy and Cognitive Science)
+© Programme Committee Member,
+European Cognitive Science Conference,
+Sophia, Bulgaria, May 21-24, 2011.
+© Institutional Ethical Committee member:
+School of Biological Sciences and
+Biotechnology, Indian Institute of
+Advanced Research, Gandhinagar,
+Gujarat.
+
+9
+
+Prof. K. V. V. Murthy, Electrical
+Engineering
+© Member, Governing Council, NMAM
+Institute of Technology, Nitte,
+Karnataka.
+© Member, Academic Council, NMAM
+Institute of Technology, Nitte,
+Karnataka.
+© Delivered two lectures on “Fourier and
+related transforms – Different Insights”
+for Faculty Development Programme, at
+Government Engineering College, Idduki,
+
+4
+
+5
+
+6
+
+7
+
+Faculty Activities
+
+Kerala, October 27-28, 2011.
+
+© Member, INAE Silver Jubilee
+
+© Participated in a meeting for designing a
+
+new B. Tech. Programme for
+Navarachana University, Vadodara,
+March 25, 2012.
+© External examiner of Ph. D. theses for
+NMAM Institute of Technology, NITTE
+and NMIMS, Mumbai.
+10 Prof. Naran M. Pindoriya, Electrical
+Engineering
+© Reviewer, IEEE Transactions on Power
+Systems (IEEE).
+© Reviewer, International Journal of Power
+and Energy Conversion (Inderscience
+Publishers).
+11 Prof. Sameer V. Dalvi, Chemical
+Engineering
+© Reviewer, Crystal Growth and Design
+(American Chemical Society).
+© Reviewer, Chemical Engineering Journal
+(Elsevier).
+© Reviewer, Powder Technology (Elsevier).
+12 Prof. Sharmita Lahiri, Humanities
+(English)
+© Conducted a session on How to write a
+Research Paper at National Training
+Programme on Research Methodology,
+Nirma University, Ahmedabad, June
+2011.
+13 Prof. Sudhir K. Jain, Civil Engineering
+© Executive Vice President, International
+
+Association for Earthquake Engineering.
+© Chairman, International Activities
+Committee, Earthquake Engineering
+Research Institute, USA.
+© Member, Board of Management, NIIT
+University, Neemrana, Rajasthan.
+
+8
+
+9
+
+10
+
+©
+
+©
+
+©
+
+©
+©
+
+Celebrations Committee, Indian National
+Academy of Engineering.
+Member, Advisory Editorial Board,
+Earthquake Engineering and Structural
+Dynamics, John Wiley and Sons.
+Member, Editorial Board, Earthquake
+Engineering and Engineering Vibrations,
+Springer-Verlag.
+Member, Board of Directors, Gujarat
+Foundation for Entrepreneurial
+Excellence, Ahmedabad
+Member, Board of Governors, Gujarat
+Technological University, Ahmedabad
+Member, Board of Directors, Gujarat
+International Finance Tech-city (GIFT)
+Company ltd.
+
+14 Prof. Supreet Saini, Chemical
+Engineering
+© Reviewer, BMC Systems Biology (Biomed
+Central).
+© Institutional Biosafety Committee,
+Torrent Pharma, Ahmedabad.
+
+Academic Lectures
+© Prof. Ajanta Sachan on Geotechnical
+
+practice for solid waste disposal, SVNIT
+Surat, Gujarat, October 8-9, 2011;
+Liquefaction and induced lateral
+spreading, ISTE Gujarat, SVIT Vasad,
+Gujarat, November 28-December 2, 2011;
+and Geotechnical testing for dynamic
+response of soil, Nirma University,
+Ahmedabad, Gujarat, December 26-31,
+2011.
+© Prof. Amit Prashant on Advances in
+Geotechnical Engineering, at National
+Seminar, SVNIT Surat, October 8-9,
+2011; and Recent Trends in
+Geotechnical Engineering, SVIT Vasad,
+
+11
+
+12
+
+13
+
+14
+
+34
+
+Faculty Activities
+
+November 28, 2011; on Geotechnical
+Aspects of Earthquake Engineering for
+Infrastructure Development, Institute of
+Technology - Nirma University,
+Ahmedabad, December 28, 2011; on
+Application of Geotechnical
+Engineering in Construction, for
+Training of Trainers, CEPT University,
+Ahmedabad, March 19-24, 2012.
+© Prof. Arup Lal Chakraborty on
+Calibration-free approaches in tunable
+diode laser spectroscopy of gases for
+industrial applications, at the 36th
+Optical Society of India (OSI)
+Symposium; and Frontiers in Optics and
+Photonics – FOP 11, IIT Delhi,
+December 3–5, 2011.
+© Prof. Atul Bhargav on Latest
+developments in fuel processing for
+hydrocarbon-fueled PEM fuel cell
+systems at the National Materials
+Research Laboratory (NMRL)
+Ambernath, December 7, 2011 and on
+Control strategies for LPG-based fuel
+processors in PEM fuel cell systems at
+the International Conference on
+Advances in Energy Research (ICAER
+2011), IIT Bombay, December 10, 2011.
+© Prof. D. V. Pai on Multivariable
+calculus and optimal recovery of
+functions, SERC School, Arunapuram,
+Kerala, May 16-18, 2011 and on On wellposed problems in approximation
+theory, in an International Conference
+Multi-valued analysis and topology,
+Varenna, Italy, July 18-22, 2011 and
+chaired a session.
+©· Prof. Mukta Tripathy on Colloidal
+emulsions glasses and gels, NIT Nagpur,
+September 30, 2011, on Polymer
+nanocomposites: emerging possibilities
+and trends, National Chemical
+Laboratory, Pune, November 24, 2011;
+and on Self-Assembly in patchy colloidal
+rods at the Indo-US Bilateral Workshop,
+IIT Delhi, December 14, 2011.
+© Prof. N. Ramakrishnan at a CEP Course
+on Gear Materials and Heat Treatment,
+IIT Bombay, February 10, 2012.
+
+35
+
+© Prof. Naran M. Pindoriya, Integrating
+
+©
+
+©
+
+©
+
+©
+
+Renewable Energy Sources into
+Emerging Electric Power Systems, IIT
+Mandi, May 16-20, 2011, Emerging
+trends in Indian Electricity Markets and
+Short-term forecasting of electric load
+and price in competitive power market,
+CHARUSAT, Anand, Guajrat, February
+3, 2012; and Advancement in Power
+Systems and Power Electronics, SPCE
+Vishnagar, Gujarat, March 1-3,
+2012.
+Prof. Pawan Lingras on Soft
+computing: Neural networks and fuzzy
+sets, a tutorial at Computer Science and
+Applications, orientation workshop,
+University of Mumbai, December 25-27,
+2011.
+Prof. Pia Thielmann keynote address on
+The importance of communication and
+teaching skills from an international
+perspective at Vishwakarma Government
+Engineering College, Ahmedabad, June
+17, 2011.
+Prof. Rita Kothari chaired a session on
+Tagore and Sindhi literature at the
+Sahitya Akademi's National seminar,
+Institute of Sindhology, Adipur, Kutch,
+October 22-23, 2011; conducted a two-day
+workshop on Imagining India, Jaipuria
+Institute of Management, Indore,
+November 10-11, 2011; and served as a
+Panelist for Publishing World: Editors
+and Writers' Relationship, IIM,
+Ahmedabad, January 12, 2012.
+Prof. Sudhir K. Jain keynote address on
+Seismic Safety in India: Past, Present
+and Future at GSDMA International
+Conference on Post Earthquake
+Reconstruction, Gandhinagar, April 1416, 2011; on The Future of Product
+nd
+Safety in India at the 2 Annual UL
+India Product Safety Summit, Delhi,
+April 20, 2011; and on IITGN: a
+Laboratory for Experiments in
+Education at Innovation Educators
+Conference, ISB Hyderabad, April 29-30,
+2011; on Seismic Design of Railway
+Bridges in a Short Course at IIT Kanpur,
+
+Faculty Activities
+
+May 2-6, 2011; and a public lecture on
+Confined Masonry: an alternative
+building typology for seismic regions of
+India at Gujarat Institute of Civil
+Engineers and Architects, Ahmedabad,
+May 21, 2011.
+© Prof. Supreet Saini on How do cells
+count? Flagellar regulation in
+salmonella, IISc Bangalore, September 2324, 2011; and Protein secretion and
+flagellar abundance in bacteria, NIT
+Agartala, November 4, 2011.
+© Dr T. S. Kumbar, Librarian, on
+Institutional Repository and IPR
+Issues, INFLIBNET Centre, Ahmedabad,
+February 17, 2012; Evaluation of ETD
+Programs/Projects: Identification of
+some Indicators for Success, Jawaharlal
+Nehru University, New Delhi, March 22,
+2012; and Reference Management Tools:
+An Overview, National Workshop on
+Research Techniques in Library &
+Information Science, Rajkot, March 31,
+2012.
+
+Biomedical Engineering Department.
+© Prof. Naran M. Pindoriya attended the
+
+©
+
+©
+
+©
+
+©
+
+Other Faculty Activities
+© Prof. Arnapurna Rath conducted a
+
+workshop on Workplace etiquette:
+blending the verbal and the non-verbal,
+SVNIT Surat, January 21, 2012.
+© Prof. Joycee Mekie attended a national
+workshop on Biostatistics: Applications
+of computational statistics in medicine
+and biology, IIT Kharagpur, September
+8-10, 2011; attended a conference
+International Symposium on
+Asynchronous Circuits and Systems,
+Ithaca, New York, April 27-29, 2011; and
+visited the Johns Hopkins University's
+
+IET International Conference on Smart
+grids at Bangalore, May 31, 2011, and the
+7th National Conference on Indian
+Energy Sector, Ahmedabad, November
+18-19, 2011.
+Prof. Nitin Padhiyar conducted a
+training session on Computational
+methods for research in engineering
+programme at L. D. College of
+Engineering, Ahmedabad, July 28, 2011.
+Prof. Sudhir K. Jain attended the Board
+meetings of Gujarat Technical University
+(GTU) on July 2011 and August 2011;
+and of the NIIT University, Neemrana
+on July 14, 2011; participated in the UL
+India Fire Security and Signaling
+Advisory Council Meet 2011 in New
+Delhi on September 21, 2011.
+Prof. Supreet Saini participated in
+Workshop on academic ethics at
+Institute of Mathematical Sciences (IMSc),
+Chennai, July 15-16, 2011.
+Prof. V. Kadambi attended the
+conference Indo-US nuclear energy safety
+summit, organized by American Nuclear
+Society, at IIT Bombay, September 30,
+2011.
+
+36
+
+Faculty Activities
+
+37
+
+Faculty Activities
+
+Publications
+The Institute faculty is actively encouraged to
+present their research work for peer-review
+through publication in reputed journals and
+conference proceedings, and also to make
+presentations at conferences. These activities
+give the faculty important feedback on their
+work, and enhance the visibility of the
+Institute in the national and international
+academic arena. The Institute also encourages
+dissemination of knowledge through other
+avenues such as publication of books, book
+chapters and monographs. The following is a
+list of publications by faculty during 2011-12:
+
+Books
+Anulekha Dhara and Joydeep Dutta,
+Optimality Conditions in Convex
+Optimization: A Finite-dimensional view,
+CRC Press, Taylor and Francis, October 17,
+2011, ISBN 9781439868225.
+Mukund Hari Divekar and Nitin V. Bhate,
+Process Dynamics Laboratory Orientation, Protocol and Design
+Methodology, Lambert Academic
+Publishing, Saarbrucken, Germany, ISBN:
+978-3-8443-9766-6.
+Rosa Maria Perez, The Tulsi and the Cross,
+RCS Publishers, ISBN: 8192304604.
+Jasbirkaur Thadhani and Dr Nisha Tajpuri,
+Stress management, Kruti Prakashan,
+Ahmedabad, ISBN: 978-93-5067-160-3.
+
+Book Chapters
+Sharmita Lahiri, Everything is an
+Argument: A Thematic Approach to
+Teaching English and Communication
+Skills Course. Unlock Their Futures: A
+Skills-based Approach to Teaching English.
+Ed. Viney Kirpal and Shridhar B. Gokhale.
+New Delhi: Sterling Publishers, 2011.
+D. V. Pai, Chapter 5: Multivariable
+Calculus and Optimal Recovery of
+Functions in Publication No. 42, SERC
+School Notes 2011, on Multivariable and
+Matrix Variable Calculus and Applications:
+
+Matrix Methods, pp 139-189, April 2011,
+CMS, Pala, Kerala.
+Arnapurna Rath, Introduction to Far
+From the Madding Crowd (Thomas
+Hardy). A WINK Signature Special, ISBN
+978-81-264-3231-8. Bengaluru: DC Books and
+EC Media, 2011.
+
+Papers Published in Refereed Journals
+C. Ghoroi, X. Han, D. To, L. Jallo, L.
+Gurumurthy and R. N. Dave, “Dispersion of
+fine and ultrafine powders through surface
+modification and rapid expansion”, Chemical
+Engineering Science, in press 2012. http://dx.
+doi.org/10.1016/j.ces.2012.02.038.
+X. Han, C. Ghoroi, Y. Chen and R. N.
+Dave, “Simultaneous micronization and
+surface modification as a tool to improve flow
+and dissolution”, Int. J. Pharmaceutics, 415,
+185–195, (2011). http://dx.doi.org/10.1016/
+j.ijpharm.2011.05.070.
+A. Hinkle, S. Goyal and H. J.
+Palanthandalam-Madapusi, “Estimation of
+the Constitutive-law of a Microfilament From
+its Discrete-Structure Simulations,” Journal of
+Applied Mechanics, online March 2012.
+http://dx.doi.org/10.1115/1.4006449.
+S. K. Jain, A. D. Roshan, S. Yadav, S.
+Srivastava and P. C. Basu, “Strong motion
+data from structural response recorders in
+Indian earthquakes”, Earthquake Spectra,
+Vol. 28, No.1, pp. 77-103 (2012).
+L. Jallo, C. Ghoroi, L. Gurumurthy, U. Patel
+and R. N. Dave, “ Improvement of flow and
+bulk density of pharmaceutical powders using
+surface modification”, Int. J. Pharmaceutics,
+423, 213–225 (2012).
+http://dx.doi.org/10.1016/j.ijpharm.2011.12.
+012.
+S. Joshi, A. Prashant and S. K. Jain,
+“Analysis of buried pipelines subjected to
+reverse fault motion”, Soil Dynamics and
+Earthquake Engineering, Vol. 31, Iss. 7, pp
+930-940 (2011).
+
+38
+
+Faculty Activities
+
+M. Kumar*, and K. Gayen, “Developments
+in biobutanol production: New insights,”
+Applied Energy, Vol. 88, No. 6, pp. 19992010, (2011).
+M. Kumar*, Y. Goyal*, Abhijit Sarkar and
+Kalyan Gayen, “Comparative economic
+assessment of ABE fermentation based on
+cellulosic and non-cellulosic feedstocks”,
+Applied Energy (2012).
+http://dx.doi.org/10.1016/j.apenergy.2011.12
+.079.
+N. K. Kumar and G. Nagaraju,
+“Nonconforming least-squares method for
+elliptic partial differential equations with
+smooth interfaces”, Journal of Scientific
+Computing, doi 10.1007/s10915-011-9572-5.
+S. Lahiri, “Not a vanquished rebel but a
+successful explorer of newer realms: A study
+of Edna Pontellier in Chopin's The
+Awakening”, The IUP Journal of English
+Studies 4.3, 61-72 (2011).
+S. Lahiri, “Things fall apart: Winesburg
+Ohio a world in transition.” The IUP Journal
+of American Literature 4.4, 16-27 (2011).
+S. Lahiri, “Local vs. Cosmopolitan: A
+comparison of The Home and the World and
+Midnight's Children.” SKASE Journal of
+Literary Studies 3. 2, 2-20 (2011).
+G. A. MacRae, U. T. Myint and S. K. Jain,
+“Steps in earthquake proofing a country – a
+case study of Myanmar”, Bulletin of the New
+Zealand Society for Earthquake Engg., Vol.
+44, No. 2, pp. 87-98, (2011,).
+J. Manjaly, “Conceivability, metaphysical
+possibility and the zombies”, Journal of the
+Indian Council of Philosophical Research 28,
+3: 43-53, (2011).
+J. Manjaly, “The knowledge argument and
+inconsistency of the nonphysical", Journal of
+the Indian Council of Philosophical Research
+28, 2: 81-94, (2011).
+
+39
+
+G. Mondal, A. Prashant and S. K. Jain,
+“Simplified seismic analysis of soil-well-pier
+system for bridges”, Soil Dynamics and
+Earthquake Engineering, Vol. 32, pp 42-55
+(2012).
+V. Narayanan and R. Govindarajan,
+“Secondary Instabilities in Incompressible
+Axisymmetric Boundary Layers: Effect of
+Transverse Curvature”, Journal of Fluids
+Engineering, 134, 024503 (2012).
+T. D. Nguyen and S. Ranganath, “Facial
+expressions in American sign language:
+Tracking and recognition”, Pattern
+Recognition, Vol 45, No. 2, pp 1877-1891,
+(2012). http://dx.doi.org/10.1016/j.patcog.
+2011.10.026.
+H. J. Palanthandalam-Madapusi and S.
+Goyal, “Is Parkinsonian Tremor a Limit
+Cycle?” J. of Mechanics in Medicine and
+Biology, Vol. 11, No. 5, pp 1017-1023, (2011).
+http://dx.doi.org/10.1142/S021951941100491
+5.
+R. S. Patil*, M. Pandey and P. Mahanta,
+“Parametric studies and effect of scale-up on
+wall-to-bed heat transfer characteristics of
+circulating fluidized bed risers,” Experimental
+Thermal and Fluid Science, Vol. 35, No. 3,
+pp. 485-494, (2011).
+A. Sachan, “Shear Testing Data of Soil: A
+function of boundary friction in Triaxial
+setup”, Indian Geotechnical Journal, Vol. 41,
+No. 4, pp. 168-176. (2011).
+M. Sahu, B. Wu, L. Zhu, C. Jacobson, W.-N.
+Wang, K. Jones, Y. Goyal*, Y. J. Tang and P.
+Biswas, “Role of dopant concentration,
+crystal phase, and particle size on microbial
+inactivation of Cu-doped TiO2 nanoparticles”,
+Nanotechnology, Vol. 22, (2011).
+http://dx.doi.org/10.1088/09574484/22/41/415704.
+C. H. Sim, E. Rajmadhan and S. Ranganath,
+“Detecting people in dense crowds”, Machine
+Vision and Applications, Vol 23, No. 2, pp
+243-253 (2012).
+
+Faculty Activities
+
+A. Thorat* and S. V. Dalvi, “Liquid
+antisolvent precipitation and stabilization of
+nanoparticles of poorly water soluble drugs in
+aqueous suspensions: Recent developments
+and future perspective”, Chemical
+Engineering Journal, Vol. 181-182, pp 1-34
+(2012).
+http://dx.doi.org/10.1016/j.cej.2011.12.044.
+M. Tripathy and K. S. Schweizer, "Activated
+dynamics in dense fluids of attractive
+nonspherical particles. I. Kinetic crossover,
+dynamic free energies, and the physical nature
+of glasses and gels," Phys. Rev. E 83, 041406
+(2011).
+M. Tripathy and K. S. Schweizer, "Activated
+dynamics in dense fluids of attractive
+nonspherical particles. II. Elasticity, barriers,
+relaxation, fragility, and self-diffusion”, Phys.
+Rev. E 83, 041407 (2011).
+J. Tyagi, “Existence of non-negative solutions
+for predator-prey elliptic systems with a signchanging nonlinearity”, Electronic J.
+Differential Equations, No. 153, pp. 1-9,
+(2011).
+J. Tyagi, “A global positive solution of a
+delay differential equation with indefinite
+coefficients”, Applied Mathematics Letters,
+25, 1068-1070 (March 2012).
+A. K. Vishwakarma, P. P. Ghalsasi, and P. S
+Ghalsasi, “Temperature-dependent Raman
+spectroscopy of anilinium chloride near phase
+transition,” Physica Status Solidi B, Vol. 248,
+No. 8, pp. 1956-1960, (2011).
+W. Zhu, F. S. Romanski, S. V. Dalvi, R. N.
+Dave, M. S. Tomassone, “Atomistic
+simulations of aqueous griseofulvin crystals
+in the presence of individual and multiple
+additives” Chemical Engineering Science, Vol.
+73, pp 218–230 (2012).
+
+Papers Published in Conference
+Proceedings
+A. Bhargav, M. Lyubovsky, C. J. Tesluk, P.
+Hearn, “Control strategies for LPG-based fuel
+
+processors for PEM fuel cell systems”,
+International Conference on Advances in
+Energy Research, IIT Bombay, December
+2011.
+S. Chandrasekaran* and Ragavan K.,
+“Harmonic mitigation through sliding DFT
+based single-phase active power filter”,
+Proceedings of The EE Centenary
+Conference, IISc, Bangalore, India, pp. 469473, December 2011.
+M. Kumar*, Y. Goyal*, K. Gayen, and S.
+Saini, “Economic assessment of ABE
+(acetone-butanol-ethanol) fermentation for
+cellulosic and non-cellulosic feedstocks”, 64th
+Annual Session, Indian Institute of Chemical
+Engineers, CHEMCON 2011, Bangalore,
+December 2011.
+S. Lahiri, “India through different lenses: A
+study of Rushdie's Midnight's Children and
+Tagore's The Home and the World.”
+Proceedings of the 1st Asian Conference on
+Literature and Librarianship, Osaka Japan,
+May 2011. Nagakute, Japan: The
+International Academic Forum (IAFOR),
+233-244 (2011). http://www.iafor.org/librasia
+_proceedings.html.
+T. D. Nguyen and S. Ranganath,
+"Recognizing continuous grammatical marker
+facial gestures in sign language video", 10th
+Asian Conference on Computer Vision,
+Queenstown, New Zealand, November 2010
+(Published in Lecture Notes in Computer
+Science, LNCS Vol 6495, pp 665-676,
+Springer, 2011).
+N. M. Pindoriya and N. Gurrapu,
+“Emerging trends in electricity market in
+India – A review”, Proceedings of the 2nd
+International Conference on Current Trends
+in Technology, NUiCONE 2011, Institute of
+Technology, Nirma University, Ahmedabad,
+December 2011, pp. 1-7.
+J. R. Prabhakar* and Ragavan K., “Unified
+controller for reliable coordination of windsolar-hydro energy conversion systems”,
+Proceedings of The EE Centenary
+
+40
+
+Faculty Activities
+
+Conference, IISc, Bangalore, India, pp. 353358, December 2011.
+K. Prajapat, S. R. Chaudhuri and A. Kumar,
+“Analytical and experimental study of
+buckling of plates considering in-plane
+boundary conditions”, 4th International
+Conference on Structural Stability and
+Dynamics (ICSSD-12), MNIT Jaipur, January
+2012.
+S. Saini, “Computational biology and
+bioinformatics: A systems biology
+perspective”, Proceedings of workshop on
+Bioinformatics, Tripura University,
+November 2011.
+K. R. Shah* and Ragavan K., “Locating and
+assessing the severity of mechanical
+deformations in power transformer
+windings”, Proceedings of The EE Centenary
+Conference, IISc, Bangalore, India, pp. 289294, December 2011.
+B. Singh and N. M. Pindoriya, “Grid
+integration of large-scale wind power”,
+th
+Proceedings of the 7 National Conference
+on Indian Energy Sector: Synergy with
+Energy, AMA, Ahmedabad, November 2011.
+
+Papers Presented at Conferences
+A. L. Chakraborty and W. Johnstone,
+"Calibration-free 2f wavelength modulation
+spectroscopy using normalization by the
+nonlinear intensity modulation for
+quantitative industrial gas measurements",
+Field Laser Applications in Industry and
+Research (FLAIR 2011), Germany, September
+2011.
+A. L. Chakraborty, "Calibration-free
+approaches in tunable diode laser
+spectroscopy of gases for industrial
+applications", 36th OSI Symposium, Frontiers
+in Optics and Photonics, IIT Delhi,
+December 2011.
+A. L. Chakraborty, "Tunable diode laser
+spectroscopy of gases for calibration-free
+measurement of concentration and pressure",
+20th DAE-BRNS National Laser Symposium,
+
+41
+
+Anna University, January 2012.
+S. Das* and I. Gupta, “Mono-functionalized
+th
+N-Confused Porphyrin”, 14 CRSI National
+Symposium in Chemistry (NSC-14), CSIRNIIST, Trivandrum, February 2012.
+Y. Goyal*, “Statistics-based model for
+prediction of chemical biosynthesis yield
+from saccharomyces cerevisiae”, 111thgeneral
+meeting of the American Society for
+Microbiology, May 2011, New Orleans,
+USA.
+A. Guduru, P. W. C. Northrop, S. K. Jain,
+A. C. Crothers, T. R. Marchant, V. R.
+Subramanian, “Analytical solution for
+electrolyte concentration distribution in
+lithium-ion batteries”, Journal of Applied
+Electrochemistry 42(4), 10.1007/s10800-0120394-4(2012).
+Ragavan K., Prathamesh J.* and A. P.
+Kishore*, “A Novel Magnetic-Circuit Based
+Design Approach for Electric Vehicle
+Motors”, IEEE International Electric Vehicle
+Conference, Greenville, South Carolina,
+USA, pp. 1-5, Mar. 4-8, 2012.
+R. Kothari, “Cartography of a song and
+story”, Centre for Region Studies, University
+of Hyderabad, February 19-20, 2012.
+N. K. Kumar, "Nonconforming spectral/hp
+method for elliptic interface problems" at
+Scientific computing and partial differential
+equations Conference, Hong Kong,
+December 2011.
+A. Kunwar, “Using computational modeling
+to understand in-vitro and in-vivo transport
+by molecular motors”, Interdisciplinary
+Workshop on High Performance Computing,
+January 30-February 1, 2012, PRL,
+Ahmedabad.
+J. Manjaly, “Panpsychism and evolution of
+experience”, International Conference on
+Towards a Science of Consciousness – TSC
+2011: Brain, Mind and Reality, Stockholm.
+May 2011.
+
+Faculty Activities
+
+M. Mukherjee and A. Prashant, "An
+automated approach for near surface soil site
+profiling by SASW technique", in 8th
+International Symposium on Field
+Measurements in GeoMechanics, Berlin,
+GER, September 12‐16, 2011.
+
+A. Rath, “Situating time and binding space:
+An analysis of heterochronies and the
+carnival square”, International Symposium on
+Spaces of Alterity: Literary and Dramatic
+Representations, IIT Gandhinagar, September
+2011.
+
+S. Mukherjee*, N. Srinivasan, J. Manjaly
+and N. Kumar*, "Effect of Money on
+estimations of Social Distance", XXI Annual
+Convention of National Academy of
+Psychology (NAOP), IRMA, Anand,
+Gujarat, December 2011.
+
+S. Saini, “Evolution of intrinsic microbial
+nd
+resistance to antibiotics in bacteria”, 2
+National conference on Antibiotic Resistance,
+Allahabad, February 2012.
+
+S. Mukherjee*, N. Srinivasan and J.
+Manjaly, "Role of attentional processes on
+monetary estimations", International
+conference on Decision Making, CBCS,
+Allahabad, December 2011.
+V. Palakollu, J. K. Katla and S. Kanvah,
+“Influence of Methyl and Nitro Groups on
+Photo induced Behavior of
+th
+Diphenylbutadiene derivatives”, 4 CRSI
+National Symposium in Chemistry (NSC-14),
+Trivandrum, Kerala, February 2012.
+J. R. Prabhakar* and Ragavan K., “Classical
+controller for coordination of wind-solarhydro energy conversion systems in isolated
+region”, International Conference Power and
+Energy Systems (ICPS), IIT Madras, Chennai,
+India, pp. 1-6, December 2011.
+
+S. Saini, “Regulatory network architecture in
+pathogenic bacteria”, RNAB, Sastra
+University, March 2012.
+S. Saini, “Role of Fur in regulating
+pathogenic gene expression in enteric
+bacteria”, International Conference &
+Exhibition on Proteomics & Bioinformatics,
+HICC Hyderabad, June, 2011.
+A. Thorat* and S. V. Dalvi, “Controlled
+liquid antisolvent precipitation of ultrafine
+particles of curcumin in aqueous suspensions
+th
+using ultrasound and stabilizers”, 64
+CHEMCON Conference, Bangalore,
+December 2011.
+*Student
+
+42

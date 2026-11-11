@@ -1,0 +1,34 @@
+Title: IIT Gandhinagar | Anagh Bhaumik
+Source: https://iitgn.ac.in/faculty/mse/fac-anagh
+
+# Anagh Bhaumik
+
+-  Materials Engineering
+Anagh Bhaumik
+
+## Anagh Bhaumik
+
+Assistant Professor, Materials Engineering
+
+- BTech: NIT Rourkela, 2008
+- MS: Missouri State University, USA, 2014
+- PhD: North Carolina State University, USA, 2019
+
+Email: anagh.bhaumik -AT- iitgn.ac.in
+
+Office:  AB 11/305B
+VOIP:  2623
+
+- “Discovery of High-Temperature Superconductivity (Tc= 55 K) in B-Doped Q-Carbon” A. Bhaumik, R. Sachan, S. Gupta, J. Narayan 2017 (ACS Nano, 11, 11915 (2017)).
+- “High-Temperature Superconductivity in Boron-Doped Q-Carbon” A. Bhaumik, R. Sachan, J. Narayan 2017 (ACS Nano. 11, 5351 (2017)).
+- “Tunable charge states of nitrogen-vacancy centers in diamond for ultrafast quantum devices” A. Bhaumik, R. Sachan, J. Narayan 2019 (Carbon 142, 662 (2019)).
+- “Structure-property correlations in phase-pure B-doped Q-carbon high-temperature superconductor with a record Tc = 55 K” A. Bhaumik, J. Narayan (Nanoscale 11, 9141 (2019).
+- “Room-Temperature Ferromagnetism and Extraordinary Hall Effect in Nanostructured Q-Carbon: Implications for Potential Spintronic Devices” A. Bhaumik, S. Nori, R. Sachan, S. Gupta, D. Kumar, A. K. Majumdar, J. Narayan 2018 (ACS Appl. Nano Mater., 1, 807 (2018)).
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (May 2024 to present)
+- TD Module and Integration Yield Engineer, INTEL, USA (Jun 2019 to May 2024)
+- Design Engineer, MECON Limited, INDIA (Jun 2008 - Nov 2012)
+
+- ● Synthesizing and characterizing carbon-based nanomaterials and 2D thin films by using highly non-equilibrium techniques and utilizing these novel materials to manufacture multifunctional electronic devices ranging from solar cells, ferroelectrics, nano-bio sensors to qubits for quantum computing.
+
+Complete List of Publications

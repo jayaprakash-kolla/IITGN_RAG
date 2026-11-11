@@ -1,0 +1,73 @@
+Title: IIT Gandhinagar | Soumajit Dutta
+Source: https://iitgn.ac.in/faculty/chemical/fac-soumajit-dutta
+
+# Soumajit Dutta
+
+-  Chemical Engineering
+Soumajit Dutta
+
+## Soumajit Dutta
+
+Assistant Professor, Chemical Engineering
+
+- PhD: University of Illinois Urbana-Champaign, 2023
+- BTech + MTech: IIT Kharagpur, 2018
+
+Email: soumajit.dutta -AT- iitgn.ac.in
+
+ Website :  https://mcd-lab.github.io
+
+Office:  AB12/303A
+VOIP:  2522
+
+N. R. Boynton, L. E. Hess, S. Dutta, C. I. Kuwana, P. Mirmira, G. R. Solymosy, A. Filatov, T. D. Hagan, S. A. Bartridge, A. Rambo, J. Dibeh, S. L. Vivod, A. Abdulahad, C. V. Amanchukwu, A. L. Ferguson, S. J. Rowan, S. N. Patel “Influence of thermal processing and doping concentration on phase behavior of a lithium­transporting organic ionic plastic crystal” ChemRxiv, 2025
+
+S. Dutta, D. Shukla “Characterization of binding kinetics and intracellular signaling of new psychoactive substances targeting cannabinoid receptor using transition­based reweighting method” eLife, 2025
+
+S. Dutta, D. Shukla “Dynamic Mechanism for Subtype Selectivity of Endocannabinoids” bioRxiv,2024
+
+S. Dutta, D. Shukla “Distinct Activation Mechanisms Regulate Subtype Selectivity of Cannabinoid Receptors” Communications Biology, vol. 6, no. 485, 2023
+
+P. Bansal, S. Dutta, D. Shukla “Activation mechanism of the human Smoothened receptor.” Biophysical Journal, vol. 122, 1–14, 2023.
+
+S. Mittal, S. Dutta, D. Shukla “Reconciling Membrane Protein Simulations with Experimental DEER Spectroscopy Data.” Physical Chemistry Chemical Physics, vol. 25, 6253­6262, 2023.
+
+L. Zhang, S. Dutta, S. Xiong, M. Chan, K. Chan, T. Fan, K. Bailey, M. Lindeblad, L. Cooper, L. Rong, A. Gugliuzza, D. Shukla, E. Procko, J. Rehman, A. Malik “A single engineered high­affinity ACE2 peptide therapeutically mitigates lung injury and death induced by multiple SARS­CoV­2 variants.”Nature Chemical Biology, vol. 18, 342–351, 2022.
+
+S. Dutta, B. Selvam, D. Shukla “Distinct Binding Mechanisms for Allosteric Sodium Ion In Cannabinoid Receptors.” ACS Chemical Neuroscience,vol. 13, 379–389, 2022
+
+S. Dutta, B. Selvam, A. Das, D. Shukla “Mechanistic origin of partial agonism of tetrahydrocannabinol for cannabinoid receptors.” Journal of Biological Chemistry, vol. 298, 2022
+
+G.V. Pereira, A.M. Abdel­Hamid, S. Dutta, C. D’Alessandro­Gabazza, D. Wefers, J.A. Farris, S. Bajaj, Z. Wawrzak , H. Atomi, R.I. Mackie, E.C. Gabazza, D. Shukla, N. Koropatkin, I. Cann “Degradation of complex arabinoxylans by human colonic Bacteroidetes.” Nature Communications, vol. 12, no. 459, 2021
+
+A. Das, S. Dutta, L. Giri, M. Sen, A. Saxena, J. Kumar, J. Chakraborty “A Detailed Model and Monte Carlo Simulation for Predicting DIP Genome Length Distribution in Baculovirus Infection of Insect Cells.” Biotechnology and Bioengineering, vol. 118, 238­252 2020
+
+S. Dutta, M.T. Vahdat, and M. Rezaei, K.V. Agrawal “Crystallization of gas­selective nanoporous graphene by competitive etching and growth: a modeling study.”Scientific Reports, vol. 9, no. 5202, 2019
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (April 2026 to Present)
+- Postdoctoral Researcher, University of Chicago (Dec 2023 – March 2026)
+- Graduate Research Assistant, University of Illinois Urbana-Champaign (Aug 2018 – Nov 2023)
+- Undergraduate Researcher, IIT Kharagpur (Jul 2016 – May 2018)
+- Summer Intern, EPFL Switzerland (May 2017 – Jul 2017)
+- Summer Intern, Dr. Reddy’s Laboratories (May 2016 – Jul 2016)
+- Summer Trainee, ONGC Surat (May 2015 – Jun 2015)
+
+Awards
+
+- Chemical Computing Group Excellence Award (ACS National Meeting, 2023)
+- Harry G. Drickamer Graduate Research Fellowship (2021–2022)
+- Mavis Future Faculty Fellowship (2021–2022)
+- SCS Graduate Teaching Award (2021)
+- Graduate College Conference Travel Award (2021)
+- Teachers Ranked as Excellent (2021)
+
+- ● Computational Chemistry
+- ● Advanced Materials
+- ● Molecular Dynamics Simulation
+- ● Machine Learning in Chemistry
+- ● Enhanced Sampling Methods
+- ● Density Functional Theory
+- ● Deep Learning Forcefields
+- ● Markov State Models
+- ● Kinetic Monte Carlo Simulation
+- ● Membrane Separation

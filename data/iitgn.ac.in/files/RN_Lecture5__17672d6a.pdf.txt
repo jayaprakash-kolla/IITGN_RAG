@@ -1,0 +1,1114 @@
+#flags:
+
+Roddam Narasimha Distinguished Lecture
+
+AS Kiran Kumar
+Chairman, Space Commission
+Secretary, Department of Space
+Chairman, Indian Space Research Organization
+
+Indian Institute of Technology, Gandhinagar
+August 10, 2016
+
+ Associated with Aerospace Technology
+development in the country.
+ Chairman of Expert Review Panel of
+ASLV-D2.
+ Monte Carlo (MC) simulations to meet
+ISRO’s requirements during its inception
+period.
+ Former Member of Space Commission.
+ Co-chaired Joint Scientific Working
+Group for the Indo-French atmospheric
+research satellite Megha Tropiques.
+ Outstanding teacher, a world class
+researcher, a dynamic leader, and a
+builder of institutions.
+
+4 th Oct 1957
+
+23 rd Nov 1963
+India launches a rocket from
+its soil in the 6th year of the
+Space Age.
+
+Timely Synergy of the National Vision with the Science & Technology Vision
+
+Zero
+Infrastructure
+
+Self-Reliant Space
+Infrastructure
+
+Research on Equatorial Electrojet &
+Upper Atmospheric Dynamics
+COSPAR Programme: Sounding Rockets
+
+for scientific measurements from
+International Rocket Launching Sites
+
+Magnetic Equator
+Fishing Hamlet to a Premier Space Research & Launching Station
+STEPPING STONE TO LAUNCH VEHICLE TECHNOLOGY
+
+UR‐500
+ICBM
+
+TITAN
+ICBM
+
+Approach by
+Leading Space
+Faring Nations
+TITAN (USA)
+
+PROTON (Russia)
+LAUNCH
+VEHICLES
+
+MISSILES
+
+SATELLITES
+
+APPLICATIONS
+
+REVERSED TIMELINE APPROACH ADOPTED BY INDIA
+LAUNCH VEHICLES
+
+SATELLITES
+
+The Indian
+Approach
+
+APPLICATIONS
+
+ATS‐6
+SATELLITE INSTRUCTIONAL TELEVISION EXPERIMENT
+
+2400 Remote Rural Villages
+
+SITE 1975‐76
+
+Instructional programmes in agriculture, primary
+education, teacher training & family planning.
+Involvement of social scientists, economists,
+educationists and theatre artists
+Largest Mass Communications Experiment
+ever carried out in the World
+
+Paved the way for the INDIAN SATELLITE SYSTEM (INSAT)
+The backbone of satellite communication in India
+SATELLITE TELECOMMUNICATION EXPERIMENTAL PROJECT
+Understanding problems
+telecommunication.
+
+associated
+
+with
+
+space
+
+&
+
+ground
+
+STEP 1977‐79
+systems
+
+for
+
+Capability for disaster warning systems, radio networking and
+transportable terminals.
+
+APPLE
+
+1st GEO
+Satellite
+
+INSAT‐1 Series INSAT‐2 Series INSAT‐3 Series INSAT‐4 Series
+Max. applications
+in minimum time
+• High Power
+Multipurpose
+9 Telecom
+• Dual Gridded
+9 Broadcasting
+antennas
+9 Meteorology
+
+• Built to ISRO specifications
+thru’ foreign collaboration
+
+Hylas‐1
+
+ TV Broadcasting
+• Built Indigenously
+
+ VSAT Services
+ DTH Services
+ MSS Services
+
+W2M
+INSAT-3D
+
+ MET
+
+Commercial
+Opportunities
+to build satellites
+for customers
+
+INSAT series
+
+13 satellites
+224 Transponders
+
+GSAT Series
+VSAT/Business Communication
+
+DTH & Broadcast
+
+41 Million
+Active DTH
+Subscribers
+
+Societal Development
+
+Advanced Communication
+Multiband
+Communication
+
+Dedicated satellite
+for Tele ‐ education
+
+GSAT‐7
+Telemedicine
+
+Unfurlable
+Antenna
+GSAT‐6
+
+2 to 3 bands
+
+INSAT 1 Series (1983)
+2 Bands (8 km)
+4 images per day
+
+3 to 6 bands
+
+INSAT 2 Series (1990)
+3 Bands
+4 images per day
+
+INSAT 3 Series (2013)
+6 Bands (1 km)
+19 Channel Sounder
+48 images per day
+
+• Feeding to Weather Forecasting
+service
+• Initially, the meteorological process
+software was taken from Canada
+• Currently, the processing
+capabilities are indigenously
+developed and operationalised.
+
+1968
+
+1970
+
+Remote Sensing
+proposed as a tool
+for national
+development
+
+Detecting
+Coconut Root
+Wilt Disease
+Study
+
+1974-76
+
+1979
+
+Crop Yield
+Assessment
+Anantapur, AP
+Patiala, Punjab
+
+LANDSAT Data
+Reception Centre
+
+Agricultural
+Resources
+Inventory &
+Survey
+Experiment
+
+Demonstration
+studies using
+LANDSAT‐1 &2
+Data.
+
+BUILDING APPLICATIONS
+BUILDING SATELLITES
+Bhaskara-1
+
+1979
+
+IRS Series
+
+1988
+
+Oceansat Series Resourcesat Series Cartosat Series RISAT Series
+
+1999
+
+2003
+
+2005
+
+2012
+
+12 Satellites for Earth Observation – One of the global leaders in EO & Remote Sensing
+
+Weather and Climate
+
+Monitoring of Glaciers and
+Snow
+• Glacier Retreat
+• Snow-melt Runoff
+Forecasting
+• Input to Climate Change
+
+• Ocean State forecast
+• Sea Surface Temperature
+• Sea Surface Heights
+• Heat wave predictions
+
+•Potential Fishing Zone based on Chlorophyll & Sea
+Area & Production estimation
+
+Chlorophyll Distribution
+• In-season multiple forecast
+• Satellite data + agrometeorology + market
+economics
+
+Surface Temperature.
+9
+9
+9
+
+Search time reduction by 60-70%
+Average catch per unit effort increased 2-4 times.
+Net profit increase by 2-5 times
+
+PFZ Map
+
+• Ground station established at Indian National Centre for
+Ocean Information Services (INCOIS) for enabling near
+real time generation of fishery forecasts.
+Chlorophyll Distribution
+
+Mode of
+Groundwater prospect zonesDissemination
+&
+Recharge Sites
+SMS, Radio, TV, Web,
+Kiosks, Telephone,
+• 90 -95% Success rate for Borewells
+Fax, Email
+• Increased Water level
+
+Sea Surface Temperature
+
+Identification of crops in
+multi‐cropped Regions
+Detecting and quantifying
+moisture stress and snow‐cloud
+discrimination
+
+Better Spatial Resolution
+IRS 1C
+
+Short Wave Infrared band (SWIR)
+
+Ability to discriminate smaller
+differences in radiance values of
+earth surfaces( crop, snow etc)
+
+Better Radiometric Resolution
+
+Applications in urban mapping,
+infrastructure projects and
+watersheds.
+
+High spatial resolutions of 1 – 2m
+and stereo
+
+Limited usability of optical remote
+sensing during June‐Sep (Kharif) Synthetic Aperture Radar (SAR)
+(All weather capability)
+due to monsoon cloud cover &
+estimation of soil moisture.
+Simultaneous measurement of
+sea surface temperature with
+ocean color (Fishing zones),
+Deriving ocean winds
+Sea surface height
+
+Resourcesat
+series
+
+Cartosat
+series
+RISAT
+series
+
+Space borne sensors in narrow
+Oceansat
+spectral bands with high radiometric series
+sensitivity
+Ku‐band Scatterometer
+Ka‐Band Altimeter
+
+SARAL
+
+ISRO established Earth Station Complex at Annaram Village,
+Shadnagar in 1979 to receive Landsat Data
+
+TERMINAL-1
+(10M DIA)
+
+Automated Operations
+IRS‐RS‐1/RS‐2/C1/C2/RISAT
+1000+ products/day
+
+2007
+
+IRS‐2C/2D/P4
+100 products/day
+IRS‐1C/1D
+50 products/day
+Manual Operations
+IRS‐1A / 1B
+45 products /day
+Landsat
+30 Products/day
+
+1983
+1979
+
+2004
+
+1987
+
+2017
+2011
+
+Ka Band Reception
+
+Multi-mission IMGEOS
+Four 7.5m antennae
+
+7.5m Antenna, Dual
+Polarisation X band
+
+2x105 Mbps
+LISS IV
+
+7.5 meter (Indigenous)
+S, X Bands
+
+10 meter Antenna; S, X Bands
+With Indigenous Feed
+
+10 meter Antenna; S Band
+
+10 meter Antenna; L,S Bands
+
+2 x 320 Mbps
+SAR
+
+2 x 84 Mbps
+PAN
+
+84 Mbps
+LISS-2
+
+Centra l &
+Sta nding Centra
+Sta tel and
+Commi ttees Agenci
+Sta te es
+Agenci es
+DOS Centres
+NRSC, SAC,
+RRSSCs ,
+NE‐SAC
+
+National
+NationalNatural
+Natural
+Resources
+Resources
+Management
+Management
+System (NNRMS)
+Pri va te System (NNRMS)
+Enterprise
+Enterprise
+
+Sta te RS
+Centres
+
+MoES
+Potential Fishing
+Zone Advisory
+
+MoA
+Multiple Forecasts
+for 11 Crops
+Drought Assessment
+for 14 states
+
+16000 trained human resources in
+last 25 years, need to make the
+capacity building plans:
+MoWR,RD&GR
+• School Children to Administrator Sedimentation Survey,
+• Video module to Classroom
+Irrigation Infrastructure
+Monitoring,…
+
+FOOD ,WATER &
+SHELTER SECURITY
+
+FSI
+1987
+
+• Visual to Digital Interpretation
+• 1:1 million to 1:50,000 scale
+
+SNRMS
+
+Aca demic/
+NGOs /
+Res earch
+Vol untary
+Orga nizations Ins titutes
+
+Started in 1983
+
+MoEF&CC
+Biennial State of
+Forest Report
+
+ENERGY
+SECURITY
+
+HEALTH
+SECURITY
+
+INCOIS
+1999
+
+MNCFC
+2012
+
+RSD
+1978
+
+• Reduced Search Time (60-70%)
+• Increased Catch (2-4 times)
+• Increased Net Profit (2-5 times)
+
+• Optical & Microwave Integrated
+• NOAA AVHRR to Resourcesat
+AWiFS
+
+• India-WRIS Web Portal to
+National Water Resources
+Informatics Centre
+
+INFRASTRUCTURE
+SECURITY
+
+INFORMATION
+SECURITY
+
+INSAT ‐3D
+2013
+
+Real Time
+Prediction of
+Cyclones
+
+VNIR
+
+Augmenting
+the INSAT VHRR
+
+Tropical Cyclone HUDHUD Track Monitoring
+¾ Temperature and Humidity Profile Measurements to improve weather forecasting
+¾ Rainfall rate & humidity profile during cloud cover
+¾ Aerosol optical depth
+
+2.5m Color
+
+2016‐17
+0.6m Color multispectral images
+Yearly update of 1m HR data
+
+2014‐15
+1m Color mosaic >
+260 Indian Cities
+
+2013
+2.5m Color mosaic
+for Indian states
+5m color
+
+2011
+NOEDA Tiles
+( AWiFS and LISS‐3 Tiles )
+
+1m Color
+
+2010
+2009
+Upto 5m for
+Indian region
+( 5m – Synthetic L4MX
+24m – L3 full India
+50m – AWiFS full India )
+
+Global coverage with 50m
+( 50m – AWiFS Global mosaic )
+
+AWiFS Global Image
+
+CYCLONE
+• Damage Assessment
+• Landfall Prediction
+• Early Warning
+EARTHQUAKE
+• Damage Assessment
+Observational Systems
+Satellites, Aerial, Ground
+
+FLOODS
+• Inundation Mapping
+• Hazard Zonation
+• Early Warning
+
+Multi-tier databases
+With decision tools
+
+FOREST FIRE
+• Fire Detection
+• Fire Alert (within 30
+min. of acquisition)
+
+Single Window
+Services Delivery
+
+LANDSLIDE
+• Inventory
+• Early Warning
+
+Emergency
+Communication
+• Virtual Private Network
+• Satellite Phones
+• Distress Alert Terminal
+• DTH based Warning
+System
+
+•
+•
+•
+•
+Kedarnath - 2013 Kashmir Floods - 2014
+
+Disaster Communication Network
+Decision Support Centre
+National Database for Emergency Management
+North Eastern Regional Node for Disaster Risk
+Reduction
+
+IRNSS: Indian Regional Navigation
+Satellite System
+•
+
+•
+
+Indigenous navigation system of 7
+satellite constellation - for providing
+position, navigation, timing services
+over Indian region
+Full constellation in orbit
+
+GAGAN: GPS Aided Geo Augmented
+Navigation
+•
+
+Jointly implemented by ISRO & Airports
+Authority of India
+
+•
+
+GAGAN payloads operational in GSAT‐8
+(2011), GSAT‐10 (2012) and GSAT 15 (2015)
+
+Estimated
+positional
+accuracy of
+10m
+
+Coverage area about 1500 km
+beyond Indian territory
+
+DCGA certification for En Route
+Navigation and Approach with Vertical
+Guidance (APV) 1.0 aircraft landing
+
+Agro Metrological Stations (AMS) -24
+
+Carbon Flux Tower - 7
+
+•Vegetation Response to Climate and
+CO2 Uptake
+
+• Size of current pool of carbon in
+vegetation & soils
+
+•Sensors for Radiation balance, Energy
+Balance, Water balance
+
+• Quantitative estimates of C flux viz.,
+GPP, NPP & respiration
+
+Automatic Weather Station (AWS) - 1149
+Continuous Recording of:
+ Temperature, atm. pressure
+ wind speed and direction
+ Rainfall, relative humidity
+ solar radiation
+
+Atmospheric Boundary Level
+Network - 8
+
+
+Mixed Layer Heights obtained from
+indigenously developed GPS
+Sondes
+
+Doppler Weather Radar (DWR) - 7
+• Mumbai, Bhuj – Single Polarisation
+• Cherapunji, Trivandrum, Gopalpur,
+Kochi and SHAR- Dual Polarisation
+
+Wind Profiler Radars -3
+• Indigenous Capability developed
+• 50 Mhz and 205 Mhz
+
+NUV Image of the
+NGC 2336 galaxy
+
+Planetary Exploration:
+Mars Orbiter Mission (2013)
+Lunar Exploration:
+Chandrayaan-1 (2008)
+IIA, Bangalore
+IUCAA, Pune
+TIFR, Mumbai
+RRI, Bangalore
+University of Leicester, UK
+
+Space Astronomy:
+ASTROSAT (2015)
+
+Microgravity research:
+SRE (2007)
+
+Gigantic Valles Marineris
+Canyon of Mars
+
+Sublimation of
+CO2 frost
+
+Increasing Payload & Complexity
+SOUNDING
+ROCKETS
+
+SLV‐3
+
+ASLV
+
+PSLV
+113 satellites
+
+GSLV
+
+GSLV
+MkIII
+
+74 satellites
+20 countries
+
+1963
+
+1980
+
+1992
+
+Building the capabilities for
+Space Transportation
+
+1993
+1700 Kg
+
+2001
+
+2200 Kg
+
+2016
+
+4000 Kg
+
+f Indigenous capability for
+f Sub-orbital to Orbital Launch f 35 consecutive
+launching communication
+successes
+f Vertical Assembly & Integration
+satellites
+f 3 variants
+f Payload Integration
+f Cryogenic propulsion
+f Different orbits
+f Multiple stages & separation
+technology for the upper
+f Lunar/interplanetary
+f Mission planning & Control
+stage
+f Multi-satellite launch
+
+Wind Tunnel Testing
+(4500 Tests)
+
+Fuselage Load Test
+
+Stage Separation Test
+Crew M odule
+
+C-C Nose Cap
+
+Base Shr oud
+
+Crew Escape System
+
+Fluid Feed System
+
+S9 Booster Static Test
+
+Solid Motors
+
+Silica Tiles
+
+Air Breathing Engine
+Retr o Motor s
+
+RLV -TD Flight Demonstr ator
+
+Space Suite
+
+ISRO –Industry partnership since 1976
+Sustained Industry Partnership
+Liquid engine
+
+Fabrication
+
+Steel rolling
+
+Structures
+
+Raw
+Materials
+
+16%
+
+Processed
+Materials
+
+12%
+
+Propellants &
+Chemicals
+
+7%
+
+Electronic
+Components
+
+12%
+
+Fabrication by
+14%
+Small firms
+
+Ring rolling
+Tankages
+
+PSLV : INDUSTRY
+PARTICIPATION
+
+Motor Case
+
+Fabrication by
+19%
+Large firms
+
+Components
+
+N2O4 Plant
+
+PS4 Engine
+
+Kevlar-Epoxy
+Motor case
+
+80%
+PARTICIPATION
+
+Mach no: 6-12
+
+6 MW
+
+Hypersonic Wind Tunnel Facility
+
+Li-ion battery
+
+Plasma Wind Tunnel Facility
+
+Multi Object Tracking Radar
+
+Thermo-vacuum Chamber
+
+180nm CMOS Fab
+
+Bhuvan
+18TB Data
+from 7 Sensors
+15 Thematic Layers
+64 Web Apps
+Data Download
+
+Natural Resources Database
+
+NR Database (1300 Layers)
+
+P a n cha yat P o r t al
+Software for image
+processing and GIS
+
+MOSDAC
+
+Water Resource Information
+
+95 spatial layers
+> 700 attributes
+
+FEAST
+Finite Element Analysis of Structures
+
+Asset mapping,
+planning and
+monitoring the
+schemes
+CFD – Computational Fluid Dynamics Software
+
+Met. & Ocean Data
+Science Data
+SAGA – Supercomputing for Aerospace with GPU Architecture
+220 Terra FLOPS
+
+Vacuum Induction Melting Furnace
+
+Roller Hearth Furnace
+
+Vacuum Arc Remelting Furnace
+
+Ring Rolling Facility
+
+Drop Bottom Furnace
+
+Reheating Furnace
+
+Maraging Steel Indigenisation Programme (MSIP) :1982
+
+Paved the way for the Development of Ultra High Strength Steel Material
+The backbone of Indian Launch Vehicle
+
+Th e first Maraging steel ring
+
+Th e first Maraging steel ring
+S1 39 Motor Segment
+
+S2 00 Motor Segment
+
+Ti6Al4V Forging
+
+Titanium Sponge
+
+AA2219 Shaped Forging
+
+Hafnium sponge
+
+Bimetallic Rings for Cryo Stage
+
+SiC for Satellite
+
+Investment Castings
+
+Heat Pipes for Satellites
+
+Ti Impeller
+
+LVDS Rx
+
+180nm CMOS Fab
+
+LVDS Tx & Rx
+
+1K X 1K FT CCD 14bit ADC Vikram Processor
+
+OBC 1.1
+
+Σ-Δ ADC
+
+Radiation Hardening Solutions (RHBD)
+
+TID Tested upto 500 Krad (Si) & SEE Tested ; No upset / latch upto 50 Mev- cm2 / mg
+
+Indian Institute of Remote Sensing (IIRS)
+at Dehradun
+• Offers 8‐weeks course on RS & GIS
+under Indian Technical Economic
+Cooperation (ITEC) sponsored by MEA
+
+UN affiliated Centre for Space Science and
+Technology Education in Asia and the
+Pacific (CSSTEAP), Dehra Dun (Nov 1,
+1995)
+• Offers short‐term training courses and 9‐
+months PG Diploma for officials from
+this region on space technology
+applications
+• 5 Themes: RS&GIS, SATCOM, SATMET,
+Space Science & GNSS
+• Uses facility & expertise of IIRS, SAC, PRL
+
+More than 1600
+officials from 93
+Countries are
+offered training by
+IIRS & CSSTEAP
+
+Di rect
+40%
+(16000)
+
+Indirect
+60%
+(24000)
+
+Employment in Space
+Structure of Indirect Employment
+
+Outs ourcing
+of s ervi ces
+46%
+
+Construction
+Works
+22%
+
+Indian
+Industry
+32%
+
+CASPOL – Fire
+resistant coating
+
+Artificial
+Polyurethane
+Foot
+
+327
+TECHNOLOGY TRANSFERS
+
+197 Spin‐Off Technologies
+
+Search and Rescue
+Beacon
+
+Silica Aerogel
+
+Optical
+Instruments
+
+52
+
+Automatic Weather
+Station
+
+41
+Mech/Electro
+Mech & Others
+
+53
+
+Telcom/Broadcast/
+Navigation
+
+INSAT MSS (Type C)
+Reporting Terminal
+
+78
+
+Chemicals &
+Spl. Materials
+
+100
+80
+60
+40
+20
+0
+
+103
+
+Electronics
+& Computer
+
+Pressure
+Transducers
+
+Slip-rings
+
+Distress Alert
+Transmitter
+
+ISRO Silica Cloth
+
+“Harnessing Space Technology for National Development”
+Academic Institutes
+
+Concept
+
+Space
+Technology
+
+Indian Industry
+Addressing the developmental needs of the country

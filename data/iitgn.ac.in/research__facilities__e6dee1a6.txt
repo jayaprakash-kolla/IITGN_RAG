@@ -1,0 +1,360 @@
+Title: IIT Gandhinagar | Research Facilities
+Source: https://iitgn.ac.in/research/facilities
+
+## Research Facilities
+
+- Research
+- Research Facilities
+
+ These are highlights from some of our major research facilities, for other facilities, please explore the website of the relevant disciplines.
+
+##### Central Instrumentation Facility
+
+ Explore →
+
+##### Cognitive Science Laboratory
+
+ Explore →
+
+## Cognitive Science Laboratory
+
+Contact: Prof. Jaison Manjaly
+ Email: [email protected]
+
+ The Cognitive Science laboratory consists of facilities that enable basic and advanced level research in cognitive psychology, affective computing, cognitive neuroscience, behavioral economics, and experimental philosophy. Cognitive science laboratory is equipped with behavioral data collection cubicles, an eye tracker, a wireless physiology-based data acquisition system, and a virtual reality-based programming platform.
+ Centre for Cognitive and Brain Sciences
+
+##### Human-AI Interaction (HAIx) Lab
+
+ Explore →
+
+## Human-AI Interaction (HAIx) Lab
+
+Contact: Prof. Yogesh Kumar Meena
+ Email: [email protected]
+
+ At HAIx Lab [pronounced as hai-ks Lab], we emphasise the interdisciplinary approach blending Human-Computer Interaction (HCI), Artificial Intelligence (AI), and Cognitive Science (CogSci) to: 1) deliver intelligent technologies and systems and 2) transform community health and care.
+
+ Our research is dedicated to creating AI systems that are intelligent, and efficient but also transparent, and understandable to users. Human-AI interactions should be intuitive and beneficial, fostering trust and collaboration between humans and AI systems. This approach ensures that our technologies are developed, focusing on the users and making AI more accessible and easier to integrate into everyday life.
+ Human-AI Interaction (HAIx) Lab
+
+##### Intelligent Affective Computing and Biometric Laboratory
+
+ Explore →
+
+## Intelligent Affective Computing and Biometric Laboratory
+
+Contact: Prof. Uttama Lahiri
+ Email: [email protected]
+
+ Intelligent Affective Computing and Biometric Laboratory opens up a platform for a wide range of interdisciplinary research in the fields of Electrical Engineering, Cognitive Science, and Biomedical Engineering. The laboratory facilities include Virtual Reality-based Programming Platform, namely, Vizard from WorldViz Inc. Vizard is a high-level graphics toolkit for the development of high-performance graphics applications, scientific visualization, and games. The VR platform provides controlled and replicable experimental setups and allows manipulation of the environment that would be difficult or prohibitively expensive in the real world.
+
+ The Wireless Physiology-based Data Acquisition System facilitates the real-time data acquisition of physiological signals, such as heartbeat, muscle twitching, sweating, skin temperature, etc. The wireless, wearable physiological monitoring device, noninvasively records high-quality data and is the perfect tool for applications that demand higher degrees of subject freedom and advanced experimental design. Presently, we are using this device for biomedical applications, e.g., physiology-sensitive adaptive intelligent stroke rehabilitation and cognitive science applications, e.g., affective Human-Computer Interaction for children with autism. We also have the facility of interacting with the computing world with the Eye Tracker from Arrington Inc. This allows us to track real-time data of gaze, blinking, pupil dilation, etc. of the user. The analysis of parameters, e.g., blinking, pupil dilation, fixations, etc. is significant for a variety of researches in areas of Biomedical engineering and Human-Computer Interaction. At our research lab, we have the Haptic Device from SensAble Technologies, which makes it possible for users to touch, feel, and manipulate virtual objects. The tactile feedback provided by this device can be useful in biomedical applications.
+ Intelligent Affective Computing and Biometric Laboratory
+
+##### Energy systems research laboratory
+
+ Explore →
+
+## Energy systems research laboratory
+
+| Contact | Email |
+|  Prof. Atul Bhargav | [email protected] |
+|  Prof. Sudhanshu Sharma | [email protected] |
+ The Energy Systems Research Laboratory is a state-of-the-art facility that focuses on present-day energy problems. It is an institute-wide research hub focused on technologies related to the practical use of fuel cell systems such as fuel reforming, catalyst characterization, catalytic heat exchangers, fuel cell system design, control, and optimization. The laboratory has also recently started work on other vital phenomena in the heat and mass transfer domain, such as electronic thermal management, phase change heat transfer, heat transfer in soft porous materials, etc. The laboratory has demonstrated novel methods to harness energy from conventional and non-conventional fuels such as ethanol, methanol, and diesel, which are rich sources of hydrogen. Extensive experimentation and computational modeling for the design of different types of reformers with conventional and alternative fuels are currently being done in this facility. These have promising applications as alternative energy systems.
+
+ The laboratory has many test rigs that can be used to study various fuel cell sub-systems. Product gases are analyzed by the gas chromatograph, which can detect different gases down to ppm-level. Testing instruments for catalytic activity include Thermal Conductivity Detector (TCD) and mass spectrometer. Our research also focuses on two-phase heat transfer systems, particularly on the enhancement of boiling heat transfer coefficient and critical heat flux by modifying the surface properties. The lab has test-rigs built in-house to conduct experiments on such surfaces.
+ Energy systems research laboratory
+
+##### Supercomputing Facility
+
+ Explore →
+
+## Supercomputing Facility
+
+| Contact | Email |
+|  Prof. Mayank Singh | [email protected] |
+|  Prof. Sameer Gundurao Kulkarni  | [email protected] |
+ The IIT Gandhinagar Supercomputing Facility hosts several powerful supercomputers to support the computational needs of the institute, neighbouring academic institutions, industries, and research laboratories. Established in 2010 at IITGN's temporary campus in Chandkheda, the facility initially comprised a few compute nodes with a total peak performance of 20.6 TFLOPS. Over the years, it has undergone significant expansion and upgrades. Currently, the facility houses the PARAM Ananta supercomputer, commissioned under the National Supercomputing Mission (NSM). This system delivers approximately 70% of its compute power through CPUs and 30% through GPUs. Additionally, we have an in-house HPC cluster, Sabarmati, equipped with 80% CPUs and 20% GPUs to further support computational demands.
+
+ Together, these systems provide IITGN with a total high-performance computing capacity of 970 TFLOPS, comprising 838 TFLOPS from PARAM Ananta and 132 TFLOPS from Sabarmati. All computational facilities are available to external users on a chargeable basis. If you would like to know more, please click the link below.
+ Supercomputing Facilities
+
+##### Wet Chemistry Laboratory
+
+ Explore →
+
+## Wet Chemistry Laboratory
+
+Contact: Prof. Saumyakanti Khatua
+ Email: [email protected]
+
+ The institute has established wet chemical laboratories for conducting classes as well as for performing research. These laboratories are equipped with ventilated fume hoods and a host of fire safety measures such as extinguishers, solvent cabinets, and emergency exits. The laboratories are fully equipped for conducting teaching classes at the undergraduate and postgraduate levels. In addition to the wet laboratories, the discipline uses central instrument facilities that house high-end characterization and analytical instrumentation such as 500 MHz NMR, QTOF-MS, XRD, AFM, SEM, CD, Fluorescence, IR and UV-visible spectroscopy and HPLC. The discipline makes seamless use of similar instrumentation and laboratory facilities in allied areas such as Materials Science, Chemical Engineering, and Biological Engineering.
+ Wet Chemistry Laboratory
+
+##### DryProTech Laboratory
+
+ Explore →
+
+## DryProTech Laboratory
+
+Contact: Prof. Chinmay Ghoroi
+ Email: [email protected]
+
+ A research laboratory on particle engineering and powder processing (PEPP) has been set up to support research in the area of powder technology. The facility is similar to a typical formulation lab (solid dosage) used in the pharmaceutical industry. Several sophisticated instruments have been procured to characterize the particulate solids, bulk powders under different humidity conditions. The facility has the equipment to study various aspects of powder technology such as powder packing, mixing, fluidization, and flow through hopper.
+
+ The laboratory is currently equipped with a V-blender (Prism Pharma) and a cone-mill (Prism Pharma) for powder mixing and milling. Other sophisticated equipment such as powder rheometer (Freeman Technology) and laser diffraction particle size analyzer (CILAS) are available to characterize the bulk powder (shear test, bulk density, compressibility, aeration, etc.) and particle size determination. A digital automatic tap/bulk density apparatus (Veego) and angle-of-repose apparatus are there for tap density and angle-of-repose measurement. An environmental test chamber (HMG India) along with a hot-air oven is there for subjecting the powders to different humidity and temperature conditions. Different sizes of fluid bed and mixing devices have been fabricated to study the fluidizability, flow through hoppers, and mixing of fine powders.
+ DryProTech Laboratory
+
+##### Human-Centered Robotics Laboratory
+
+ Explore →
+
+## Human-Centered Robotics Laboratory
+
+Contact: Prof. Vineet Vashista
+ Email: [email protected]
+
+ The Human-Centered Robotics Lab aims at the development of novel human-centered robotic technologies to improve the quality of human life. The focus is on the system design and control to apply desired interventions with minimum external constraints on human. The goal is to study human adaptation to these haptic interventions to develop appropriate rehabilitation paradigms for people with neuro-musculoskeletal impairments. Key research directions include but are not limited to Design and control of mechanical systems Rehabilitation robotics Cable-driven robots Wearable robotics and Virtually Reality system.
+ Human-Centered Robotics Laboratory
+
+##### Colloidal and Crystal Engineering Laboratory
+
+ Explore →
+
+## Colloidal and Crystal Engineering Laboratory
+
+Contact: Prof. Sameer Dalvi
+ Email: [email protected]
+
+ A state-of-the-art laboratory facility has been developed for the preparation and characterization of nanoparticles/microparticles to be used in pharmaceuticals and biomedical applications. The laboratory has a setup for nanoparticle production using a probe sonicator (Sonics VC 505), a particle size analyzer (Beckman Coulter LS 13320) for measurement of particle sizes in the range of 40nm-2mm and particle sizing systems (PSSS) zeta analyzer (NICOMP380 ZLS) for estimation of zeta potential of aqueous suspensions of nanoparticles. The particle size analyzer PSS NICOMP 380 ZLS can be used to estimate the sizes of particles in the range of 0.6nm - 10�m. A Martin Christ freeze dryer (Alpha 1-4 LD plus) is available for the preparation of dry powder samples from aqueous suspensions. A facility to produce aqueous suspensions of drug nanoparticles using subcritical CO2 (at 30-70 bar) is also available, which includes a 5-liter high-pressure vessel (operating conditions:200bar,and100oC).
+
+ A facility to produce and characterize aqueous suspensions of microbubbles is also available. These microbubble suspensions are emerging as a major tool for enhanced ultrasonic contrast imaging and drug delivery applications. The facility includes a setup for generating microbubbles, a particle size analyzer (PSS NICOMP Accusizer 780AD) for analysis of size distribution and concentration of microbubble suspensions, a swing bucket rotor centrifuge (Eppendorf 5804) to obtain microbubbles suspensions with a narrow size distribution through differential centrifugation and an optical microscope (NIKON TS 100F) for the characterization of the morphology of microbubbles.
+ Colloid and Crystal Engineering Laboratory
+
+##### Photonic Sensors Laboratory
+
+ Explore →
+
+## Photonic Sensors Laboratory
+
+Contact: Prof. Arup Lal Chakraborty
+ Email: [email protected]
+
+ The Photonic Sensors Laboratory conducts research in the area of physical and chemical sensing using photonic technologies. The current areas of focus are -
+
+ 1. Industrial chemical sensing: We use tunable diode laser spectroscopy (TDLS) to develop high-sensitivity detection platforms to monitor industrial hazards.
+ 2. Urban emissions monitoring: We develop portable, multi-gas measurement systems for accurate, robust and automated measurement of urban emissions on a long-term basis for sustainable development.
+ 3. Microbial growth studies: We use tunable lasers for non-invasive monitoring microbial growth, bioluminescence and anti-microbial susceptibility testing.
+ 4. Bio-sensing using functionalized gold nanorods: We develop low-cost and highly repeatable techniques to grow gold nanorods (NRs) and precisely tune their surface plasmon resonance wavelength over a wide spectral range. These NRs can then be funtionalized with bio-receptors for biosensing applications.
+ 5. Fiber Bragg grating-based biomedical diagnostics: Fiber Bragg gratings are very sensitive to strain (and temperature), and can therefore be used to measure very small bends and vibrations. By measuring the bend angle of fingers one can quantify the extent of recovery during the recovery phase of conditions such as stroke.
+
+ The laboratory is equipped with narrow linewidth near-infrared laser diodes and mid-infrared quantum cascade lasers (QCLs). We currenlty have the following lasers - 1278 nm VCSEL, Vertilas GmbH, 4312 nm QCL (Alpes Lasers), 4559 nm QCL (Alpes Lasers), 1392 nm, 10 mW, fiber-coupled, edge-emitting laser diode (Eblana Photonics), External cavity QCL 100 mW, 4.3-4.7 um, (Daylight Solutions Inc), 1650 nm, 10 mW, fiber-coupled, edge-emitting laser diode (Toptica Photonics), 1533 nm, 40 mW, fiber-coupled, edge-emitting laser diode (Toptica Photonics), 2004 nm, 1mW, free-space narrow line width VCSEL (Vertilas GmbH). We also have several thermoelecrtrically-cooled near-infrared and mid-infrared photodetectors (Thorlabs and Vigo), a 50MHz dual-phase digital lock-in amplifier (Zurich Instruments), a high-end arbitrary waveform generator (Agilent) and a 500MHz digital storage oscilloscope (DSO). The laboratory also has an assortment of telecom-grade laser diodes, photodetectors and optical fiber components.
+ Photonic Sensors Laboratory
+
+##### Semiconductor Device Characterization Facility
+
+ Explore →
+
+## Semiconductor Device Characterization Facility
+
+Contact: Prof. Nihar Ranjan Mohapatra
+ Email: [email protected]
+
+ The semiconductor device characterization facility has been established for detailed wafer-level characterization (I-V, C-V, pulse, noise, and reliability measurements). This facility has the following equipment: a 6-inch wafer probe station with thermo chuck (Semiprobe), semiconductor parametric analyzer B1500 with 4 SMUs, 1 LCR meter, 1 pulse unit (Agilent), dynamic signal analyzer 35670A (Agilent), low-noise current preamplifier (Stanford Research Systems), ICCAP modeling software (Agilent), manual diamond scriber (ATV). This facility is being extensively used for semiconductor device/circuit research, semiconductor device modelling and electrical characterization of nanostructures.
+ Semiconductor Device Characterization Facility
+
+##### Friction Stir Welding Laboratory
+
+ Explore →
+
+## Friction Stir Welding Laboratory
+
+Contact: Amit Arora
+ Email: [email protected]
+
+ The Friction Stir Welding (FSW) facility at IIT Gandhinagar is capable of FSW, Friction Stir Processing (FSP), and Friction Stir Channeling (FSC) of different metals, alloys, metal matrix composites, and polymer materials. The machine has a 12 HP spindle motor with clockwise and anti-clockwise spindle rotation. The machine can operate at a maximum rotational speed of 3500 rpm and a 50kN plunge load. A non-consumable rotating tool traversed along the workpiece generates frictional heat between the workpiece and tool interface. This heat enables the material flow and results in a weld. The process parameters such as tool rotation speed, plunge speed, tool traverse speed, the tool tilt angle can be controlled by an automated control panel with digital display and touch panel. The facility is currently used for the processing of materials such as aluminium (Al), magnesium (Mg), copper (Cu), and polypropylene (PP) for automotive and aerospace applications. The main research areas being pursued using this facility include Al and Cu surface composites, similar material welding of Al alloys, Cu alloys and Ti alloys, dissimilar welding of Al and Mg alloys, friction stir channeling of Al alloys, and FSW of polypropylene.
+ Friction Stir Welding Laboratory
+
+##### Thin Film Laboratory
+
+ Explore →
+
+## Thin Film Laboratory
+
+ Contact: Prof. Emila Panda
+ Email: [email protected]
+
+ The Thin Film Laboratory is focused on the characterization of thin films. The laboratory contains essential equipment to carry out the research in the area. The laboratory consists of the the following facilities: an RF Magnetron sputtering unit (Model: Table Top Sputter coater MM-237, Supplier: M/S Milman Thin Film Systems Pvt. Ltd.) with facility for co-deposition from two targets. All types of metal, semiconductor, and insulator films can be deposited using this deposition unit. The laboratory is also equipped with a Four-point probe measurement system to measure the resistivity of the semiconductor thin films. This facility also includes a UV-Vis-NIR spectrophotometer, Hall effect measurement system, and Vacuum annealing furnace.
+ Thin Film Laboratory
+
+##### Soil Testing Laboratory
+
+ Explore →
+
+## Soil Testing Laboratory
+
+| Contact | Email |
+|  Prof. Ajanta Sachan | [email protected] |
+|  Prof. Amit Prashant | [email protected] |
+ The Geotechnical Engineering laboratory is equipped with high-end research equipment along with basic soil testing. The soil dynamics laboratory is equipped with large (earthquake) and small strain (vibratory) testing. Large strain dynamic loading: cyclic triaxial test setup (0.01Hz-2Hz, stress and strain controlled); cyclic simple shear setup (0.001Hz-5Hz, stress and strain controlled) to evaluate liquefaction, shear modulus & damping ratio of soils up to 10,000 loading cycles. Small strain dynamic loading: bender element system to determine shear modulus under K0, stress path, isotropic, UU, CU, CD compression and extension loading conditions. Shear strength facility consists of direct shear setup for cohesionless soils, unconfined compression (UC) test for cohesive soils, vane shear test for soft soils, and triaxial setup with DAQ and analysis software for all soil types. Pore pressure and volume change measurement facility are available for compression/extension loading (UU, CU, CD tests), K0 consolidation and stress path testing. Large direct shear setup is also available to study the interface behavior of various types of geosynthetics-soil system. Dew point potentiometer is available to determine total suction (0-300 MPa) of fine-grained soils, conventional tensiometer for coarse-grained soils, and filter paper setup for matric suction of all soil types. The facility includes falling and constant head devices for the permeability of fine and coarse-grained soils, four 3-gang oedometer (1D consolidation) setup, proctor setup, CBR for the strength of subgrade soil, sieve shaker, hydrometer, Atterberg limit (LL,PL,SL), swell pressure, specific gravity, relative density, core cutter, sand replacement, muffled furnace (900oC) for organic matter evaluation, optical and digital LCD microscopes. The field testing laboratory has plate load test of 300 kN capacity with motorized anchoring system, standard penetration test (SPT), dynamic cone penetration test (DCPT) with automatic free-fall hammering system, vibratory plate compactor for field compaction, field permeability setup, ground penetration radar (GPR) with mono and bistatic operations facilitated with antennae of frequencies 100MHz, 400MHz with the bistatic operation and 200MHz and 900MHz with the monostatic operation including 20-80 multi frequency antennae, multichannel analysis of surface waves (MASW) setup with the provision of Seismic Refraction/Reflection Survey and Downhole/Crosshole tests. The following equipment were developed in the laboratory: multiaxial cubical device with flexible boundary system along with real-time feedback control system capable of conducting true-triaxial and plane strain testing of soils, constant rate of strain (CRS) consolidation setup, slurry consolidation setup for preparing the remolded specimens of fine-grained soils.
+ Soil Testing Laboratory
+
+##### Common Research & Technology Development Hub Laboratory
+
+ Explore →
+
+## Common Research & Technology Development Hub Laboratory
+
+Contact: Prof. Chinmay Ghoroi
+ Email: [email protected]
+
+ The Common Research and Technology Development Hub (CRTDH) sponsored by the Department of Scientific and Industrial Research (DSIR) and Indian Institute of Technology Gandhinagar is a significant effort to reach out to industry partners in the area of Chemical Processes. The CRTDH at IIT Gandhinagar is developing customized technologies for the dye, textile, pharmaceutical, and other chemical industries. The CRTDH is trying to engage MSMEs and other chemical industries to enhance their capabilities in technology know-how on the effluent treatment, waste reduction, process synthesis, and process improvement, including R&D on product development. Also, CRTDH regularly conducts workshops and training sessions for industry people.
+
+ The laboratory is equipped with sophisticated instruments like Inductively Coupled Plasma - Mass Spectrometry (ICP-MS)/ - Optical Emission Spectrometry (ICP-OES) for elemental analysis, Total Organic Carbon (TOC) analyzer for carbon content, Multi-mode Plate Reader for microbial studies, Fluorescence Spectrometer and UV-Vis Spectrophotometer for determining optical properties of products and raw materials, High-performance thin-layer chromatography (HPTLC) for compound identification, Gas Chromatography for gas analysis and Spray Dryer for the liquid to solid processing in the powder form. The facility also has water quality testing facilities like Biological Oxygen Demand (BOD), Chemical Oxygen Demand (COD), Total Bound Nitrogen (TNb), and Total Dissolved Solids (TDS). The CRTDH Lab and pilot plant facility are open to industry partners for testing and process development against nominal charges.
+ Common Research & Technology Development Hub Laboratory
+
+##### Proteomics and peptide synthesis Laboratory
+
+ Explore →
+
+## Proteomics and peptide synthesis Laboratory
+
+Contact: Prof. Sharad Gupta
+ Email: [email protected]
+
+ The Proteomics and Peptide synthesis facility has been established with an aim to cater services for research in the field of Proteomics and Peptide synthesis. This facility mainly focuses on: Proteomics, Protein Identification, Protein profiling (with and without fractionation), Post-translational modifications, Protein mapping/maximum sequence coverage, Identification of N-terminus by mass spectrometry, Molecular weight measurement of intact proteins and peptide synthesis (up to 20 amino acids) This facility also includes: MALDI, Automated chromatography System, 2D Gel Electrophoresis and Microplate Reader.
+ Proteomics and peptide synthesis Laboratory
+
+##### SysIDEA Laboratory
+
+ Explore →
+
+## SysIDEA Laboratory
+
+Contact: Prof. Harish PM
+ Email: [email protected]
+
+ The SysIDEA Lab engages in a wide range of projects that use basic engineering principles related to the areas of dynamics, control theory, systems theory, and sometimes signal processing and data analysis. The projects often span the entire spectrum from mathematical theory, modeling, & analysis, computational simulations, table-top experiments & validations, and in some cases, human subject studies. The lab thus has diverse interests and also attracts a diverse set of people from varying backgrounds and interests (including people who are passionate about experimental work, mathematical work, computational studies, specific applications, and making an impact on the field), and both discovery-driven and invention-driven projects are undertaken in the lab.
+ SysIDEA Laboratory
+
+##### Control and Learning of Action (CoLA) Laboratory
+
+ Explore →
+
+## Control and Learning of Action (CoLA) Laboratory
+
+Contact: Prof. Partik Mutha
+ Email: [email protected]
+
+ A remarkable feature of human behavior is the wide variety of actions we can perform to interact with the world around us. Our movements appear relatively effortless, flexible, and adaptable despite the diversity of environments and contexts in which they are performed. The broad aim of the CoLA Lab at IIT Gandhinagar is to understand the principles and brain mechanisms that mediate the control of our actions and to decipher how this control breaks down in case of damage to the brain.
+ Control and Learning of Action (CoLA) Laboratory
+
+##### Materials Electrochemistry Laboratory
+
+ Explore →
+
+## Materials Electrochemistry Laboratory
+
+Contact: Prof. Sudhanshu Sharma
+ Email: [email protected]
+
+ The facility consists of a potentiostat-galvanostat (CH-660E, CH instrument, USA), which is useful for characterization of the electronically conducting materials to get their I-V characteristics. Since this equipment also has a power source and load, it is also useful to understand the discharge capacity of a battery and capacitor. This equipment can be used to perform a wide range of experiments such as cyclic voltammetry, linear sweep voltammetry (LSV), staircase voltammetry (SCV), Tafel plot (TAFEL), chronoamperometry (CA), Chronocoulometry (CC), differential pulse voltammetry, double differential pulse amperometry (DDPA), triple pulse amperometry (TPA), bulk electrolysis with coulometry (BE), ac impedance (IMP) 10uHz-1MHz, impedance-time (IMPT), impedance-potential (IMPE), chronopotentiometry (CP), multi-current steps (ISTEP), chronopotentiometry with current ramp (CPCR), potentiometric stripping analysis (PSA), open circuit potential-time (OCPT), RDE control (0-10V output), full version of CV and impedance simulation software. We have special cells for gas analysis applications. These cells are gas tight and direct analysis by online GC or mass spectrometers are possible.
+
+##### Behavioural Cubicles
+
+ Explore →
+
+## Behavioural Cubicles
+
+ There are currently three behavioural cubicles housing personal computers that can support behavioural data collection. The cubicles are partially sound-proof dark rooms with adjustable lighting. The computers have Matlab installed on them along with the Psychophysics Toolbox. These facilities are used by postgraduate students and faculty members for research on decision making, attention, agency, etc. They also support E-Prime and other software such as Blitz3D. These labs are also used as private spaces for paper-pencil tests and questionnaires that require an environment free of external interference.
+
+##### Wind Tunnel Testing Facility
+
+ Explore →
+
+## Wind Tunnel Testing Facility
+
+Contact: Pranab Kumar Mohapatra
+ Email: [email protected]
+
+ This low speed, open-loop wind tunnel has a test section of 330mm X 330mm. The speed can be varied from 0 to 40 m/s. The facility is capable of performing measurements in boundary layers, open jets, and mixing layers. The lab is used for both undergraduate and graduate teaching, as well as the research by PG students.
+
+##### Power System and Smart Grid Laboratory
+
+ Explore →
+
+## Power System and Smart Grid Laboratory
+
+Contact: Naran Pindoriya
+ Email: [email protected]
+
+ The total installed capacity of distributed solar PV systems at IIT Gandhinagar is 500 kWp that consists of around 190 kWp at academic blocks, 120 kWp at student hostels roof, and 190 kWp of the solar carport. The solar PV generation is integrated with the power distribution network and meets the partial demand of IIT Gandhinagar campus. This solar PV plant facility has been used for training and research activities to study the performance and impact assessment of distributed solar PV generations in the secondary distribution grid. This facility is funded by GEDA, Govt. of Gujarat.
+ Power System and Smart Grid Laboratory
+
+##### Soft Matter Rheology Laboratory
+
+ Explore →
+
+## Soft Matter Rheology Laboratory
+
+Contact: Prof. Prachi Thareja
+ Email:[email protected]
+
+ Research in the Soft Matter Science and Engineering Group focuses on understanding properties of colloidal suspensions, liquid crystals, smart hydrogels, biomolecules, and a variety of other soft materials. The overarching goal of our research is to translate the soft matter research to engineering applications of complex fluids, functional surface films, and nano-bio materials. This facility includes Particle size analyzer, Modular Compact Rheometer, Optical Tensionmeter, Vane Shear apparatus, and UV Photoreactor.
+ Soft Matter Rheology Laboratory
+
+##### Optics and Spectroscopy Laboratory
+
+ Explore →
+
+## Optics and Spectroscopy Laboratory
+
+Contact: Prof. Saumyakanti Khatua
+ Email:[email protected]
+
+ The Optics and spectroscopy lab is interested in making controlled assemblies of plasmonic nanoparticles and in exploring their applications in catalysis, (bio-) sensing, and enhanced spectroscopy. Several ongoing projects include: (1) Synthesis of end-to-end dimers of gold nanorod with controlled nanogaps. For the use as antennas to enhance the emission of weakly emitting species. (2) Development of a compact and portable device for detection of the ultralow concentration of analytes using plasmonic sensors. This project is in collaboration with the group of Prof. Arup Lal Chakraborty at IITGN. (3) Developing plasmonic nanoparticle-based catalysts for efficient water splitting. Here we would like to utilize the hot electrons produced from plasmon decay to catalyze chemical reactions. Apart from these projects, we are also interested to understand the effect of adsorbed molecules in plasmon damping (Chemical interface damping). If you would like to have more information about any of these projects, please write to us.
+
+##### Molecular and Cellular Biology Facility
+
+ Explore →
+
+## Molecular and Cellular Biology Facility
+
+Contact: Prof. Sharmistha Majumdar
+ Email: [email protected]
+
+ Molecular and Cellular Biology Facility (MCBF) supports the research activities of faculty members and students working in the field of molecular biology, microbiology, and cell biology. Several undergraduates, MTech and project students working at the interface of their parent discipline and Biosciences or Bioengineering, also call MCBF their home. This facility is equipped with a multimode spectrophotometer, gradient thermocycler, gel documentation system, real-time PCR, inverted fluorescence microscope, FPLC, water purifier, laminar flow hood, -80oC freezer, -20oC freezer, refrigerators, shaker incubators, refrigerated centrifuges (low and medium capacities), western blotting apparatus, pH meters, and water baths. MCBF also houses microwave-based peptide synthesizer along with organic synthesis module and ultracentrifuge provided with three rotors for varied applications. A cell culture facility equipped with a biosafety cabinet, CO2 incubator, high-speed centrifuge, automated cell counter, and a liquid N2 cryopreserver is also available adjacent to MCBF that supports cell and tissue culture-related research activities.
+ Molecular and Cellular Biology Facility
+
+##### Lingo Labs
+
+ Explore →
+
+## Lingo Labs
+
+Contact: Prof. Mayank Singh
+ Email: [email protected]
+
+At Lingo Labs, our research spans multilingual Natural Language Processing, AI-driven research and education, fairness in AI, and Large Language Model applications tailored specifically for Indian languages. We are dedicated to building comprehensive datasets, developing efficient models, and creating innovative AI-driven solutions that bridge the significant gap in linguistic AI resources for India's diverse communities.
+
+ The lab’s research spans the following broad themes:
+
+- • AI for Research and Education: Promoting AI adoption in academia through educational tools like GurukulAI andadvancing scholarly communication and academic applications through platforms such as NLPExplorer.
+- • NLP for India: Creating datasets, Annotation frameworks, and models for Code-mixing and ASR models for low-resource languages.
+- • Large Language Models: Developing scalable Indic language models and multilingual benchmarks, including open releases like Ganga-2-1B.
+- • Responsible and Fair AI: Exploring bias detection, mitigation strategies, and LLM safety in multilingual, multicultural settings.
+ Lingo Labs team actively organises global competitions, shared tasks, tutorials, and conferences including India’s first GenAI for Text summer school and the IndoML Symposium with 500+ participants annually.
+ Lingo Labs
+
+##### SPEL Labs
+
+ Explore →
+
+## SPEL Labs
+
+Contact: Prof. Pallavi Bharadwaj
+ Email: [email protected]
+
+We are a group of inspired people who want to accelerate India's Net Zero Transition through our expertise on Smart Power Electronics. 70% of electricity is processed through power electronics (PE) which will grow further in coming years. Revolution in IoT and AI has made it possible to develop a data driven system brain which can enhance the efficiency, reliability and security of PE systems making them smart with low additional costs and high performance.
+ SPEL Labs

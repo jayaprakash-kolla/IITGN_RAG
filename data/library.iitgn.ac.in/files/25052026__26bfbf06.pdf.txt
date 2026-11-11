@@ -1,0 +1,268 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 21, 2026
+(Added during 18th May 2026 – 22nd May 2026)
+Available for the issue from 30th May 2026
+Where are these books?
+New Addition Books are displayed near the Library Information Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Computer system design: system-on-chip
+Author: Flynn, Michael J. and Luk, Wayne
+Publisher: New Jersey: Wiley, 2011
+Call No.: 004.22 FLY
+Acc. No.: 037022
+
+Title: StatQuest illustrated guide to statistics: with hands-on examples in Python
+and R!!!
+Author: Starmer, Josh
+Publisher: Mumbai: StatQuest Publications, 2026
+Call No.: 005.133 STA
+Acc. No.: 037003
+
+ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+Title: Cognitive science, computational intelligence, and data analytics: methods
+and applications with Python
+Author: Khare, Vikas , Dwivedi, Sanjeet Kumar and Bhatia, Monica
+Publisher: Cambridge: Morgan Kaufmann, 2024
+Call No.: 006.3 KHA
+Acc. No.: 036989
+Title: Ink over algorithms
+Author: Misra, Manjima
+Publisher: New Delhi: Highbrow Scribes Publications, 2025
+Call No.: 006.3 MIS
+Acc. No.: 037025
+
+Title: Global solution to AI: risks, rhetoric, ideology, and psychoanalysis
+Author: Samuels, Robert
+Publisher: Cham: Palgrave Macmillan, 2025
+Call No.: 006.3 SAM
+Acc. No.: 037021
+
+Title: Tiny machine learning quickstart: machine learning for arduino
+microcontrollers
+Author: Salerno, Simone
+Publisher: New York: Apress Berkeley, 2025
+Call No.: 006.31 SAL
+Acc. No.: 036990
+
+Title: StatQuest illustrated guide to machine learning
+Author: Starmer, Josh
+Publisher: Mumbai: StatQuest Publications, 2022
+Call No.: 006.31 STA
+Acc. No.: 037004
+
+Title: StatQuest illustrated guide to neural networks and AI, with hands-on
+examples in PyTorch!!!
+Author: Starmer, Josh
+Publisher: Mumbai: StatQuest Publications, 2025
+Call No.: 006.32 STA
+Acc. No.: 037002
+
+REFERENCE COLLECTION
+Title: Bharat 2026: a reference annual
+Author: Publication Division
+Publisher: New Delhi: Publication Division, 2026
+Call No.: 050.954 PUB
+Acc. No.: 037017
+
+SOCIAL SCIENCES
+Title: Like: the button that changed the world
+Author: Reeves, Martin and Goodson, Robert
+Publisher: Boston: Harvard Business Review Press, 2025
+Call No.: 302.23 REE
+Acc. No.: 037020
+
+Title: Synthetic age: outdesigning evolution, resurrecting species, and
+reengineering our world
+Author: Preston, Christopher J.
+Publisher: Cambridge: MIT Press, 2018
+Call No.: 303.483 PRE
+Acc. No.: 036995
+Title: Caste con census
+Author: Teltumbde, Anand
+Publisher: New Delhi: Navayana Publication, 2025
+Call No.: 305.5122 TEL
+Acc. No.: 036999
+
+Title: Caste
+Author: Yengde, Suraj Milind
+Publisher: Gurugram: Penguin Random House India, 2025
+Call No.: 305.512209 YEN
+Acc. No.: 036998
+
+ECONOMICS
+Title: Broken rung: when the career ladder breaks for women and how they can
+succeed in spite of it
+Author: Ellingrud, Kweilin , Yee, Lareina and Martinez, Maria del Mar
+Publisher: Boston: Harvard Business Review Press, 2025
+Call No.: 331.40982 ELL
+Acc. No.: 037023
+Title: Multivariate analysis in the pharmaceutical industry
+Author: Ferreira, Ana Patricia; Menezes, Jose C. and Tobyn, Mike
+Publisher: London: Academic Press, 2018
+Call No.: 338.476151 FER
+Acc. No.: 037009
+
+LAW & ADMINISTRATION
+Title: Peacemaker: U Thant and the forgotten quest for a just world
+Author: Myint-U, Thant
+Publisher: New Delhi: Juggernaut Books, 2025
+Call No.: 341.23092 MYI
+Acc. No.: 036986
+
+Title: American maritime strategy in the Indian Ocean: dominance, diffusion,
+adaptation
+Author: Mishra, Vivek
+Publisher: New York: Routledge, 2026
+Call No.: 359.0091824 MIS
+Acc. No.: 037019
+
+EDUCATION
+Title: History of Santiniketan: Rabindranath Tagore and his life’s work 1861-1941
+Author: Gupta, Uma Das
+Publisher: New Delhi: Niyogi Books, 2025
+Call No.: 370.95414 GUP
+Acc. No.: 036984
+
+PHYSICS
+Title: Future of spacetime
+Author: Hawking, Stephen W , Thorne, Kip and Novikov, Igor [et...al]
+Publisher: New York: W. W. Norton, 2003
+Call No.: 530.11 HAW
+Acc. No.: 036985
+
+PHARMACEUTICAL CHEMISTRY
+Title: Pharmaceutical quality by design: a practical approach
+Author: Schlindwein, Walkiria S. and Gibson, Mark
+Publisher: Hoboken: Wiley, 2018
+Call No.: 615.19 SCH
+Acc. No.: 037024
+
+TRIBOLOGY
+Title: Fundamentals of tribology, 3rd ed.
+Author: Gohar, Ramsey and Rahnejat, Homer
+Publisher: London: World Scientific, 2024
+Call No.: 621.89 GOH
+Acc. No.: 036996 & 036997
+
+CIVIL ENGINEERING
+Title: Turbulence in open channel flows
+Author: Nezu, Iehisa and Nakagawa, Hiroji
+Publisher: Netherlands: CRC Press, 2009
+Call No.: 627.1 NEZ
+Acc. No.: 036991 & 036992
+
+Title: Fluvial hydrodynamics: hydrodynamic and sediment transport phenomena,
+2nd ed.
+Author: Dey, Subhasish
+Publisher: Cham: Springer, 2024
+Call No.: 627.122 DEY
+Acc. No.: 036987 & 036988
+
+CHEMICAL ENGINEERING
+Title: Chemical and biological process dynamics and control
+Author: Stephanopoulos, George
+Publisher: Winchester: Tetracty’s Editions, 2025
+Call No.: 660.2815 STE
+Acc. No.: 037012 & 037013
+
+Title: Biomass gasification, pyrolysis, and torrefaction: practical design, theory,
+and climate change mitigation, 4th ed.
+Author: Basu, Prabir and Kaushal, Priyanka
+Publisher: London: Academic Press, 2024
+Call No.: 662.88 BAS
+Acc. No.: 037010
+Title: Recent advances in thermochemical conversion of biomass
+Author: Pandey, Ashok; Bhaskar, Thallada; Stocker, Michael and Sukumaran,
+Rajeev
+Publisher: London: Elsevier, 2015
+Call No.: 662.88 PAN
+Acc. No.: 037011
+
+ARTS & RECREATIONS
+Title: Thresholds of digital gameplay
+Author: Gardner, Daniel L.
+Publisher: Cambridge: MIT Press, 2025
+Call No.: 794.8 GAR
+Acc. No.: 036993
+
+LITERATURE
+Title: Katabasis: a novel
+Author: Kuang, R. F.
+Publisher: London: Harper Voyager, 2025
+Call No.: 813.6 KUA
+Acc. No.: 037000
+
+Title: भास के नाटक (संस्कृत एवं ह द
+ं ी अनुवाद)= Plays of Bhasa (set of 3 Volumes)
+Author: Upadhaye, Chandrashekhar
+Publisher: New Delhi: Nag Publishers, 2001
+Call No.: 891.2 UPA
+Acc. No.: 037005, 037006, 037007
+
+Title: Pāṇini's perfect rule: a modern solution to an ancient problem in Sanskrit
+grammar
+Author: Rajpopat, Rishi
+Publisher: London: Harvard University Press, 2025
+Call No.: 891.25 RAJ
+Acc. No.: 037015
+Title: Great unknown
+Author: Das, Soma (Tr.)
+Publisher: Gurugram: Penguin India, 2013
+Call No.: 891.43 DAS
+Acc. No.: 037014
+
+Title: Achchhe vicharon ka akaal = अच्छे विचार ों का अकाल
+Author: Mishra, Anupam
+Publisher: New Delhi: Vani Prakashan, 2024
+Call No.: 891.43 MIS
+Acc. No.: 037026
+Title: भारतीय प्राचीन वलविमाला= the paleography of India
+Author: Ojha, Gaurishankar Hirachand
+Publisher: Jodhpur: Rajasthani Granthagar, 2024
+Call No.: 891.43 OJH
+Acc. No.: 037008
+
+Title: Other Skies, other stories
+Author: Rai, Sara and Pande, Ira (Tr.)
+Publisher: New Delhi: Zubaan Publishers, 2025
+Call No.: 891.433 RAI
+Acc. No.: 036994
+
+HISTORY
+Title: Flag to live and die for: a short history of India’s tricolour
+Author: Sarna, Navtej
+Publisher: New Delhi: Aleph Book Company, 2026
+Call No.: 929.920954 SAR
+Acc. No.: 037016
+
+Title: We, the people of India: decoding a nation’s symbols
+Author: Krishna, T.M.
+Publisher: Chennai: Westland Books, 2026
+Call No.: 954 KRI
+Acc. No.: 037018
+
+BIOGRAPHY
+Title: Statesman and a seeker: the extraordinary life and legacy of Dr Karan Singh
+Author: Singh, Harbans
+Publisher: New Delhi: Speaking Tiger, 2026
+Call No.: 954.092 SIN
+Acc. No.: 037001
+
+CHILDREN’S COLLECTION
+Title: Alberto Salas plays paka paka con la papa: join the quest with Peru's famed
+scientist and potato expert
+Author: Fajardo, Sara Andrea
+Publisher: New York: Roaring Brook Press, 2025
+Call No.: 509.2285 FAJ
+Acc. No.: CC2280

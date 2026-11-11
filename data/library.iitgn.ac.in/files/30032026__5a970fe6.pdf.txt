@@ -1,0 +1,110 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 13, 2026
+(Added during 23rd March 2026– 27th March 2026)
+Available for the issue from 04th April 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER PROGRAMMING
+Title: Lex & yacc, 2nd ed.
+Author: Levine, John R
+Publisher: Sebastopol: Shroff/O'Reilly, 2024
+Call No.: 005.453 LEV
+Acc. No.: 036818
+
+ETHICS
+Title: Animal rights
+Author: Rowlands, Mark
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 179.3 ROW
+Acc. No.: 036809
+
+ECONOMICS
+Title: Pricing the priceless: a history of environmental economics
+Author: Banzhaf, H. Spencer
+Publisher: New York: Cambridge University Press, 2024
+Call No.: 333.709 BAN
+Acc. No.: 036811
+Title: Island on edge: the great Nicobar crisis
+Author: Sekhsaria, Pankaj (Ed.)
+Publisher: Chennai: Westland Non-Fiction, 2025
+Call No.: 333.70954 SEK
+Acc. No.: 036820
+
+MATHEMATICS
+Title: Rising sea: foundations of algebraic geometry
+Author: Vakil, Ravi
+Publisher: Princeton: Princeton University Press, 2025
+Call No.: 516.35 VAK
+Acc. No.: 036812
+
+APPLIED MATHEMATICS
+Title: Stochastic processes in physics and chemistry, 3rd ed.
+Author: Kampen, N. G. Van
+Publisher: Amsterdam : Elsevier, 2007
+Call No.: 519.202453 KAM
+Acc. No.: 036822
+
+EARTH SCIENCES
+Title: Cool-water carbonates: depositional systems and palaeoenvironmental
+controls
+Author: Pedley, H. M. (Ed.)
+Publisher: London: Geological Society, 2006
+Call No.: 552.58 PED
+Acc. No.: 036814
+
+MEDICINE & HEALTH
+Title: Medical devices: regulations, standards and practices
+Author: Ramakrishna, Seeram
+Publisher: Cambridge: Woodhead Publishing, 2015
+Call No.: 610.284 RAM
+Acc. No.: 036819
+Title: Gain of function
+Author: Evans, Nicholas G.
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 616.9101 EVA
+Acc. No.: 036810
+
+ENGINEERING & ALIIED OPERATIONS
+Title: Transport properties of concrete: modelling the durability of structures, 2nd
+ed.
+Author: Claisse, Peter A
+Publisher: Duxford: Woodhead Publishing, 2021
+Call No.: 620.136 CLA
+Acc. No.: 036821
+Title: Electrical power system, 8th ed.
+Author: Wadhwa, C L
+Publisher: New Delhi: New Age International Publishers, 2022
+Call No.: 621.319 WAD
+Acc. No.: 036815
+
+LITERATURE
+Title: Traces of the real: the absent presence of photography in South Asian
+literature
+Author: Banerjee, Bidisha
+Publisher: Liverpool: Liverpool University Press, 2025
+Call No.: 809.93357 BAN
+Acc. No.: 036816
+
+HISTORY & GEOGRAPHY
+Title: Bones for tools – tools for bones: the interplay between objects and
+objectives
+Author: Seetah, Krish (Ed.)
+Publisher: Cambridge : McDonald Institute for Archaeological Research, 2012
+Call No.: 930.10285 SEE
+Acc. No.: 036813
+Title: Lost Japan: last glimpse of beautiful Japan
+Author: Kerr, Alex
+Publisher: UK: Penguin Books, 2015
+Call No.: 952.04 KER
+Acc. No.: 036817

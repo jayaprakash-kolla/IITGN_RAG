@@ -1,0 +1,69 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 02, 2026
+(Added during 05th January 2026 – 09th January 2026)
+Available for the issue from 17th January 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMMUNICATIONS
+Title: Who knew
+Author: Diller, Barry
+Publisher: New York: Simon & Schuster, 2025
+Call No.: 384.554092 DIL
+Acc. No.: 036575
+
+PHYSICS
+Title: Introduction to effective field theory: thinking effectively about hierarchies
+of scale
+Author: Burgess, C. P.
+Publisher: Cambridge: Cambridge University Press, 2021
+Call No.: 530.14 BUR
+Acc. No.: 036576
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Web beneath the waves: the fragile cables that connect our world
+Author: Subramanian, Samanth
+Publisher: New York: Columbia Global Reports, 2025
+Call No.: 621.382 SUB
+Acc. No.: 036583
+
+GRAPHIC ARTS – JAPANESE
+Title: Vagabond definitive edition, Vol. 1
+Author: Inoue, Takehiko
+Publisher: San Francisco, California; VIZ Media. 2025
+Call No.: 741.5952 INO
+Acc. No.: 036579
+
+Title: Vagabond definitive edition, Vol. 2
+Author: Inoue, Takehiko
+Publisher: San Francisco, California: VIZ Media, 2025
+Call No.: 741.5952 INO
+Acc. No.: 036580
+
+Title: Vagabond definitive edition, Vol. 3
+Author: Inoue, Takehiko
+Publisher: San Francisco, California: VIZ Media, 2025
+Call No.: 741.5952 INO
+Acc. No.: 036581
+
+Title: Vagabond definitive edition, Vol. 4
+Author: Inoue, Takehiko
+Publisher: San Francisco, California: VIZ Media, 2025
+Call No.: 741.5952 INO
+Acc. No.: 036582
+
+Title: Death Note (all-in-one edition)
+Author: Ohba, Tsugumi
+Publisher: San Francisco, California: VIZ Media, 2025
+Call No.: 741.5952 OHB
+Acc. No.: 036578

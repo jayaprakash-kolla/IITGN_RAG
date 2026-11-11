@@ -1,0 +1,381 @@
+Title: Events
+Source: https://cse.iitgn.ac.in/updates/events
+
+Schools, workshops, and conferences
+
+# Events
+
+ Department-hosted schools, workshops, short courses, conferences, and community-facing programs from the CSE events archive.
+
+Search events
+
+ Showing 29 events.
+
+## Upcoming & ongoing
+
+ Event listings as of 17 Sept 2026.
+
+### No upcoming events listed right now.
+
+ Recently completed 2026 events are available in the archive below.
+
+## Featured Programs
+
+ 17 Jun 2026
+
+### Theory Day: Foundations of Computer Science
+
+ A one-day Theory Day focused on foundations of computer science. The schedule, talk titles, abstracts, and venue information are available online.
+ Event page
+
+ 12 Feb 2026
+
+### AI Day
+
+ A department symposium around AI research, applications, and institute-wide engagement.
+
+ 9 Apr 2026
+
+### Cybersecurity Workshop on Strengthening IT/OT and Financial Sector Security through Collaboration
+
+ A collaborative workshop focused on IT/OT security and financial-sector cybersecurity practice.
+
+ 17-23 Mar 2025
+
+### Certificate Course on Modern 802.11 WLANs
+
+ A certificate course on modern wireless LAN systems and practice.
+
+ 14-20 Dec 2024
+
+### 44th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science
+
+ IIT Gandhinagar hosted FSTTCS, one of India’s flagship theoretical computer science conferences.
+
+ 5-8 Dec 2024
+
+### COMPUTE and T4E
+
+ A joint computing-education gathering around teaching, learning, and research in CS education.
+
+ 3-9 Feb 2024
+
+### Computing Education Week / CRiCKET / Building Imagination with Knowledge Exchange
+
+ A computing education program focused on imagination, knowledge exchange, and learner-centered CS activities.
+
+ 23 Dec 2022
+
+### ACM-India CSEd Workshop
+
+ A computing education workshop run with ACM-India participation.
+
+ 5-9 Dec 2022
+
+### GIAN Course on Randomized Methods in Parameterized Algorithms
+
+ A GIAN short course on randomized methods for approximation and parameterized algorithms, taught by Daniel Lokshtanov.
+
+## Archive
+
+### 2026
+
+ 17 Jun 2026
+
+#### Theory Day: Foundations of Computer Science
+
+ A one-day Theory Day focused on foundations of computer science. The schedule, talk titles, abstracts, and venue information are available online.
+ Event page
+
+Organizer
+
+Department of Computer Science & Engineering, IIT Gandhinagar
+
+ 9 Apr 2026
+
+#### Cybersecurity Workshop on Strengthening IT/OT and Financial Sector Security through Collaboration
+
+ A collaborative workshop focused on IT/OT security and financial-sector cybersecurity practice.
+
+Organizer
+
+Abhishek Bichhawat
+
+ With Sameer G. Kulkarni
+
+ 23-24 Feb 2026
+
+#### Workshop on Doing History of Science and Engineering in India
+
+ A workshop on doing history of science and engineering in India from a social-history perspective.
+ Event website
+
+Organizer
+
+HSS IITGN and History of Mathematics in India (HoMI)
+
+ With Neeldhara Misra
+
+ 12 Feb 2026
+
+#### AI Day
+
+ A department symposium around AI research, applications, and institute-wide engagement.
+
+Organizer
+
+Mayank Singh
+
+ With Yogesh Meena
+
+### 2025
+
+ 24 Mar 2025
+
+#### Workshop on Paradigms for Beyond 5G Communication
+
+ A focused workshop on emerging communication paradigms beyond 5G.
+
+Organizer
+
+Sameer G. Kulkarni
+
+ With Ravi Hegde and Uttama Lahiri
+
+ 17-23 Mar 2025
+
+#### Certificate Course on Modern 802.11 WLANs
+
+ A certificate course on modern wireless LAN systems and practice.
+
+Organizer
+
+Sameer G. Kulkarni
+
+ With Ravi Hegde and Uttama Lahiri
+
+ 10-11 Mar 2025
+
+#### Advances in Neuro Rehabilitation and Assistive Technologies: Workshop on BCI-Driven Stroke Rehabilitation
+
+ A workshop connecting brain-computer interfaces, assistive technologies, and stroke rehabilitation.
+
+Organizer
+
+Yogesh Meena
+
+### 2024
+
+ 14-20 Dec 2024
+
+#### 44th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science
+
+ IIT Gandhinagar hosted FSTTCS, one of India’s flagship theoretical computer science conferences.
+
+Organizer
+
+Neeldhara Misra
+
+ 5-8 Dec 2024
+
+#### COMPUTE and T4E
+
+ A joint computing-education gathering around teaching, learning, and research in CS education.
+
+Organizer
+
+Neeldhara Misra
+
+ With Sameer Sahasrabudhe and Aditi Kothiyal
+
+ 4 May 2024
+
+#### One-Day Workshop on Python Programming and AI Applications
+
+ A hands-on programming and AI applications workshop for learners building practical computing fluency.
+
+Organizer
+
+Anirban Dasgupta and Raviraj Joshi
+
+ With Nirav Bhatt
+
+ 18 Mar 2024
+
+#### 5G Use Case Labs Awareness and Pre-Commissioning Readiness
+
+ An awareness and readiness workshop around the institute’s 5G use-case lab activity.
+
+Organizer
+
+Sameer G. Kulkarni
+
+ 3-9 Feb 2024
+
+#### Computing Education Week / CRiCKET / Building Imagination with Knowledge Exchange
+
+ A computing education program focused on imagination, knowledge exchange, and learner-centered CS activities.
+
+Organizer
+
+Neeldhara Misra
+
+### 2022
+
+ 23 Dec 2022
+
+#### ACM-India CSEd Workshop
+
+ A computing education workshop run with ACM-India participation.
+
+Organizer
+
+Neeldhara Misra
+
+ 18-21 Dec 2022
+
+#### 2022 IEEE International Conference on Advanced Networks and Telecommunications Systems
+
+ The IEEE ANTS conference brought researchers together around advanced networking and telecommunications systems.
+
+Organizer
+
+Sameer G. Kulkarni
+
+ With Shanmuganathan Raman
+
+ 15-17 Dec 2022
+
+#### Indian Symposium on Machine Learning
+
+ The Indian Symposium on Machine Learning brought together research communities working on data, learning, and AI.
+
+Organizer
+
+Anirban Dasgupta
+
+ With Mayank Singh and Udit Bhatia
+
+ 5-9 Dec 2022
+
+#### GIAN Course on Randomized Methods in Parameterized Algorithms
+
+ A GIAN short course on randomized methods for approximation and parameterized algorithms, taught by Daniel Lokshtanov.
+
+Organizer
+
+Neeldhara Misra
+
+ 1-2 Oct 2022
+
+#### AI Reflections and Applications in Emerging Economies
+
+ A workshop on AI applications and reflection in emerging-economy contexts.
+
+Organizer
+
+Sameer G. Kulkarni
+
+ With Deepak Singhania
+
+ 4-16 Jul 2022
+
+#### ACM-IKDD Summer School on Data Sciences
+
+ A short-term summer school on data sciences, organized with ACM-IKDD.
+
+Organizer
+
+Anirban Dasgupta
+
+ With Mayank Singh
+
+### 2021
+
+ 16-18 Dec 2021
+
+#### Indian Symposium on Machine Learning
+
+ A symposium gathering Indian machine-learning researchers and practitioners.
+
+Organizer
+
+Anirban Dasgupta
+
+ With Mayank Singh and Udit Bhatia
+
+### 2020
+
+ 2020
+
+#### ACM-India Annual Event
+
+ A department-hosted ACM-India annual gathering.
+
+ 2020
+
+#### ACM-India Inter-Research Institute Student Seminar in CS
+
+ A student seminar connecting CS researchers across Indian institutes.
+
+ 2020
+
+#### ACM-W India Workshop for Women in CS Research
+
+ A workshop supporting women researchers in computer science.
+
+### 2019
+
+ 2019
+
+#### ACM-W Summer School on Algorithmic Game Theory
+
+ A summer school introducing algorithmic game theory through ACM-W.
+
+### 2017
+
+ 2017
+
+#### ACM Summer School on Graph Theory and Graph Algorithms
+
+ A summer school on graph theory and graph algorithms.
+
+ 2017
+
+#### GIAN Course on Computational Social Choice
+
+ A GIAN course on computational social choice taught by Edith Elkind.
+
+ 2017
+
+#### GIAN Course on Pattern Matching Algorithms
+
+ A GIAN course on pattern matching algorithms taught by Amihood Amir.
+
+### 2016
+
+ 2016
+
+#### NMI Workshop on Complexity Theory
+
+ A workshop on complexity theory from the department archive.
+
+ 2016
+
+#### TEQIP Summer School on Design and Analysis of Algorithms
+
+ A TEQIP summer school on algorithm design and analysis.
+
+### 2015
+
+ 30 Nov-11 Dec 2015
+
+#### GIAN Course on 3D Digitization for Cultural Heritage
+
+ A GIAN course on 3D digitization methods for cultural heritage.
+
+Organizer
+
+Shanmuganathan Raman
+
+ With Marco Callieri, Visual Computing Lab, ISTI-CNR, Italy

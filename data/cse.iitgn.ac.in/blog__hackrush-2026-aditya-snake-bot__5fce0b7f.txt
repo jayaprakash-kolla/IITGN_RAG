@@ -1,0 +1,64 @@
+Title: Building a Rule-Aware Snake Bot for Hackrush 2026
+Source: https://cse.iitgn.ac.in/blog/hackrush-2026-aditya-snake-bot
+
+AD
+
+Aditya
+1 May 2026· 4 min read
+
+Hackrush 2026 gave us a compact but demanding Game AI challenge: build a bot that could play Beat My Bot v2, read the game state from JSON, choose a move within a 500 ms turn limit, and survive longer than the opponent while maximizing length and score.
+
+My entry, Ferrate, was a Snake agent shaped around three goals:
+
+- Reach valuable apples quickly.
+- Avoid moves that lead into dead ends, walls, or bad head-to-head trades.
+- Stay fast enough to answer reliably within the tournament budget.
+The main improvement over a naive pathfinder was that the bot combined search, safety checks, energy-aware behavior, and emergency fallbacks into one layered decision pipeline.
+
+## Understanding the Game
+
+The board is grid-based and fully observable. Apples restore energy and can also change length or apply status effects. Normal apples eventually decay into poison. Speed can make a turn cover two cells. Sleep can freeze the opponent. Shed can create permanent walls, which is sometimes useful but also expensive.
+
+These rules make the game more than a shortest-path problem. A reachable apple may still be strategically bad if the snake gets trapped, arrives too late, or loses a head-to-head trade.
+
+## Layered Decision-Making
+
+Ferrate tracks apples by remembering when each apple position first appeared. That lets the bot estimate whether a normal apple will decay into poison before the snake arrives. A long path to a normal apple can turn a good-looking target into a trap.
+
+To stay within the time limit, the bot does not run full BFS on every apple. It first ranks apples using a cheap heuristic: Manhattan distance, apple type value, and an age penalty. Only the top candidates are checked with BFS. This two-stage filter was the biggest runtime optimization, especially on larger boards.
+
+In code, get_apple_priority_score() scores each apple using the apple type, distance, and age. God, sleep, speed, normal, and poison apples receive different base values. collect_apple_evaluations() keeps only the strongest heuristic candidates for BFS, and BFS itself is depth-limited. If the bot enters poison-search fallback, it expands the candidate list only after the first choices fail.
+
+## Safety Before Greed
+
+Before committing to a move, Ferrate checks for wall and obstacle collisions, two-step movement during speed turns, flood-fill escape space, dangerous head-to-head trades, and poison contact when energy allows avoidance.
+
+This turns the bot from a food chaser into a survival system. is_safe_move() requires enough reachable flood-fill space relative to the snake length. flood_fill_count() stops early after a fixed cap, keeping the calculation cheap. Speed turns validate both steps of the move, and check_head_on_collision() rejects moves where an equal or larger opponent could contest the same destination.
+
+Tail cells are handled carefully in obstacle generation, because the bot can often move through space that is expected to clear. This detail matters in Snake, where conservative obstacle handling can incorrectly rule out safe paths.
+
+## Energy-Aware Behavior
+
+The decision logic changes when energy gets low. At moderately low energy, the bot relaxes some penalties and becomes more willing to take risky food. At critical energy, it prioritizes the nearest reachable apple and may even accept poison as a last resort.
+
+This was a direct response to the starvation rule. In a survival game, food urgency sometimes matters more than ideal path quality.
+
+## Fallbacks and Shedding
+
+If no apple path looks good, the bot switches to tail-chasing. This keeps it moving through open space and reduces the chance of self-trapping. If tail-chasing also fails, Ferrate chooses any legal move, preferring the one that preserves more open area and stays closer to the center of the board.
+
+Shed is treated as a situational defensive tool rather than a default action. The bot allows shedding only when it has enough energy and length, speed is active with sufficient energy, and the opponent is alive and nearby.
+
+## What Worked
+
+The hardest part was balancing strength and speed. Full search on every apple would be too slow, while aggressive pruning could miss important targets. The two-stage apple filter gave a practical middle ground: a cheap first pass followed by exact BFS only where it mattered.
+
+The final strategy was simple at the top level:
+if energy <= critical_threshold: force_nearest_food()elif apple_path_is_safe: take_best_apple()elif tail_path_exists: chase_tail()else: choose_any_safe_move()
+The most important outcome was that Ferrate learned the difference between a reachable apple and a survivable apple. That distinction, backed by explicit numeric heuristics, made the bot much more robust under Hackrush conditions.
+
+## Related Articles
+
+02 MayBazaar@IITGN: A Campus Marketplace for Hackrush 2026#hackrush2026Web Development
+03 MayFew-Shot Bone Marrow Cell Classification at Hackrush 2026#hackrush2026Machine Learning
+04 MayHardware-Friendly Activation Functions at Hackrush 2026#hackrush2026Computer Architecture

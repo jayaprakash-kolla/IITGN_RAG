@@ -1,0 +1,266 @@
+Title: Outreach
+Source: https://cse.iitgn.ac.in/updates/outreach
+
+Public learning and computing for everyone
+
+# Outreach
+
+ CSE outreach spans summer schools, teacher workshops, hands-on school programs, research-led puzzles and games, public talks, media conversations, and broadening-participation grants.
+
+ Featured public talk
+
+## Alan M. Turing: Ushering the Age of Computational Thinking
+
+ A public IIT Gandhinagar talk on Alan Turing and the ideas that shaped modern computational thinking.
+
+ Anirban Dasgupta · 15 May 2020
+ Watch on YouTube
+
+ Featured outreach story
+
+## Teaching Python Through Play: KVS Computer Science PGT Training at IITGN
+
+ A 12-day IITGN and CCL program helped 52 Kendriya Vidyalaya Computer Science teachers transition from C++ to Python through activities, games, robotics, classroom tools, and hands-on projects.
+ Read the blog post
+
+## Schools and Teachers
+
+ Hands-on STEM activities, computing education workshops, and curriculum programs connect the department with learners well before college.
+
+## Play to Research
+
+ Games, puzzles, and classroom activities are treated seriously: several have become formal questions in algorithms and complexity.
+
+## Public Conversations
+
+ Faculty members regularly translate research ideas for students, teachers, media, policy audiences, and the wider public.
+
+## Summer Schools, Courses, and Workshops
+
+ Search learning programs
+
+ Showing 12 programs.
+
+ Course  17-23 Mar 2025
+
+### Certificate Course on Modern 802.11 WLANs
+
+ A certificate course on modern wireless LAN systems and practice.
+
+ Conference  5-8 Dec 2024
+
+### COMPUTE and T4E
+
+ A joint computing-education gathering around teaching, learning, and research in CS education.
+
+ Workshop  3-9 Feb 2024
+
+### Computing Education Week / CRiCKET / Building Imagination with Knowledge Exchange
+
+ A computing education program focused on imagination, knowledge exchange, and learner-centered CS activities.
+
+ Workshop  23 Dec 2022
+
+### ACM-India CSEd Workshop
+
+ A computing education workshop run with ACM-India participation.
+
+ Course  5-9 Dec 2022
+
+### GIAN Course on Randomized Methods in Parameterized Algorithms
+
+ A GIAN short course on randomized methods for approximation and parameterized algorithms, taught by Daniel Lokshtanov.
+
+ School  4-16 Jul 2022
+
+### ACM-IKDD Summer School on Data Sciences
+
+ A short-term summer school on data sciences, organized with ACM-IKDD.
+
+ School  2019
+
+### ACM-W Summer School on Algorithmic Game Theory
+
+ A summer school introducing algorithmic game theory through ACM-W.
+
+ Course  2017
+
+### GIAN Course on Computational Social Choice
+
+ A GIAN course on computational social choice taught by Edith Elkind.
+
+ Course  2017
+
+### GIAN Course on Pattern Matching Algorithms
+
+ A GIAN course on pattern matching algorithms taught by Amihood Amir.
+
+ School  2017
+
+### ACM Summer School on Graph Theory and Graph Algorithms
+
+ A summer school on graph theory and graph algorithms.
+
+ School  2016
+
+### TEQIP Summer School on Design and Analysis of Algorithms
+
+ A TEQIP summer school on algorithm design and analysis.
+
+ Course  30 Nov-11 Dec 2015
+
+### GIAN Course on 3D Digitization for Cultural Heritage
+
+ A GIAN course on 3D digitization methods for cultural heritage.
+
+## CCL Collaborations
+
+ The Center for Creative Learning is a recurring partner for school outreach. The collaboration also feeds research questions: playful activities become formal models, and formal models return as better activities.
+ CCL overview
+
+ Manu Awasthi with CCL IITGN
+
+### Project Madhava
+
+A hands-on computer-systems pedagogy effort for schools, colleges, and polytechnics, paired with work on RISC-V microcontroller IP.
+ Project talk
+ CCL IITGN and CSE collaborators
+
+### Center for Creative Learning
+
+CCL builds toys, activities, workshops, videos, and research-led designs for STEM learning at scale with school students and teachers.
+ CCL impact
+
+ Paper
+Kshitij Gajjar and Neeldhara Misra
+
+### Permutation Match Puzzles
+
+ A CCL-introduced physical puzzle becomes an algorithms paper about sorting match puzzles, solvability structure, counting, and repair algorithms.
+ arXiv preprint
+ Paper
+Jyothi Krishnan, Neeldhara Misra, and Saraswati Girish Nanoti
+
+### A Little Aggression Goes a Long Way
+
+ A pen-and-paper game line of work matured into a COCOON 2024 paper on the computational complexity of a two-player graph game.
+ IITGN repository
+
+## Recognition and Access Programs
+
+ Broadening participation
+
+### Google exploreCSR Award
+
+Nipun Batra, Neeldhara Misra, and Abhishek Bichhawat received the Google exploreCSR Award 2024.
+ CSE news
+ Recognition
+
+### INYAS membership
+
+Neeldhara Misra was selected as a member of the Indian National Young Academy of Sciences for 2023.
+ IITGN Connections
+ School curriculum
+
+### NCERT CSE textbook committee
+
+Neeldhara Misra serves on the NCERT committee writing computer science and engineering textbooks for classes 11 and 12.
+ NCERT
+ School Connect
+
+### Fun with Math and Computing
+
+The NPTEL School Connect course introduces school students to mathematical and computational thinking through puzzles, games, and hands-on ideas.
+ NPTEL School Connect
+ Keynote / plenary
+
+### Creative Mathematical Sciences Communication
+
+Neeldhara Misra is listed among the plenary speakers for CMSC 2026, a conference centered on communicating mathematical ideas fundamental to computer science.
+ CMSC 2026
+
+## Media, Podcasts, and Public Appearances
+
+ Invited talk  Manoj D Gupta
+
+### Frontiers of Graph Algorithms invited talk
+
+Manoj Gupta was listed as an invited speaker at the Frontiers of Graph Algorithms workshop at IISc Bangalore, held from 8-12 December 2025, and spoke on improved 2-approximate shortest paths for close vertex pairs.
+ Workshop schedule
+
+ Podcast  Mayank Singh
+
+### IITGN Podcast: AI, Academia, and Student Opportunities
+
+A student-led discussion on AI, academia, mentorship, research opportunities, and the future of AI in education.
+ IITGN SAC
+
+ Media  Mayank Singh
+
+### Ganga-1B Hindi language model
+
+Coverage of the Lingo Research Group’s Hindi language-model work and its educational and public-sector possibilities.
+ Indian Express
+
+ Media / public talk  Manu Awasthi
+
+### Project Madhava for hardware education
+
+Public coverage and talks frame Project Madhava as a route from school-level digital logic activities to indigenous microcontroller design.
+ India Today
+
+ Interview  Nipun Batra
+
+### TEDxConversations with Nipun Batra
+
+A TEDxIITGandhinagar conversation on research in AI, sensing, air quality, health, IoT, smart homes, and sustainability.
+ TEDxIITGandhinagar
+
+ Media  Udit Bhatia
+
+### AI Resilience and Command Centre
+
+IITGN coverage highlights data-driven climate-risk management and AI-based urban flooding decision support.
+ IITGN News
+
+ YouTube talk  Anirban Dasgupta
+
+### Coresets for Machine Learning
+
+A Centre for Networked Intelligence seminar on coresets for tensor factorization, Bregman clustering, and efficient data summarization.
+ CNI / YouTube
+
+ YouTube talk  Sameer G. Kulkarni
+
+### Controlled Spatial Sharing of GPUs
+
+A CNI seminar on GSLICE, GPU virtualization, and scalable inference at the edge.
+ CNI / YouTube
+
+ YouTube talk  Abhishek Bichhawat
+
+### DY*: Symbolic Verification for Cryptographic Protocol Code
+
+A F* PoP Up Seminar talk on modular symbolic verification for executable cryptographic protocol code.
+ F* PoP Up Seminar
+
+ YouTube presentation  Shouvick Mondal
+
+### Minecraft: Automated Mining of Software Bug Fixes
+
+An ASE 2023 presentation on mining multilingual bug-fix datasets with precise code context.
+ ASE 2023
+
+ YouTube series  Nipun Batra
+
+### 3-Minute ML and public teaching videos
+
+A public YouTube-linked teaching page with bite-sized machine-learning explainers and recorded course material.
+ Teaching videos
+
+ Podcast  Neeldhara Misra
+
+### Conversation with Neeldhara Misra
+
+A long-form conversation on her path into algorithms, computational social choice, games, and science communication.
+ VISMAYA

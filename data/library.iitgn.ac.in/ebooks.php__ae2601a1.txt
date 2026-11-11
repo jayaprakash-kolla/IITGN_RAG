@@ -1,0 +1,47 @@
+Title: Library | IIT Gandhinagar
+Source: https://library.iitgn.ac.in/ebooks.php
+
+## E-Books
+
+## ACM E-Book Collection I, II & III
+
+ ACM Books is a distinguished series of scholarly research monographs and graduate-level texts authored by leading computer scientists, researchers, and practitioners at the forefront of computing technology. The collection spans the entire spectrum of computer science and is designed to support researchers, educators, students, and professionals.
+ The collections include scholarly books, research monographs, and graduate-level texts covering a wide range of computing domains such as:
+Artificial Intelligence; Machine Learning; Software Engineering; Information Retrieval; Security & Privacy; Human-Computer Interaction; Digital Libraries; Computational Complexity; Bioinformatics and more.
+
+The collections comprise:
+
+- Collection 1 (2014–2019) – Foundational titles
+- Collection 2 (2019–2023) – Advanced research and professional works
+- Collection 3 (2023–2025) – Latest and forthcoming titles in emerging areas
+
+To access please click here.
+
+## ACM Classic Books
+
+ This list of classic books is the result of a poll ACM conducted where members named their favorite computer science books.
+To access please click here.
+
+## IEEE - WILEY Semiconductor eBOOKS
+
+ Stay informed about the latest advancements in semiconductors and related technologies with the IEEE-Wiley Semiconductors eBooks Library, available on IEEE Xplore. Featuring 370 carefully selected titles since 2011, this collection provides valuable insights for students, researchers, and faculty in areas such as semiconductor physics, nanotechnology, power electronics, and quantum computing. It supports innovation in fields like IoT, AI, 5G, and more, contributing to the growth and evolution of this transformative industry.
+
+ To access please click here.
+
+## MITCognet
+
+ More than 750 books published by the MIT Press are included in MIT CogNet. MARC bibliographic records now conform to the RDA standard. New content is added on an ongoing and regular basis.
+
+List of titles is available here.
+
+## South Asia Archive
+
+ The South Asia Archive is an extensive resource for students and scholars across the humanities and social sciences. The historical documents within the Archive are truly interdisciplinary, reflecting the varied range of knowledge production in colonial and early post-colonial India and the wider sub-continent.
+
+Comprising material sourced from collectors and archivists by the South Asia Research Foundation, this Archive brings together a wealth of important and unique primary and secondary content. Learn More.
+
+## World eBook Library
+
+ The World eBook Library is an academic research database of portable e-books. It is considered as a largest collection of Books and Articles in electronic format. Founded in 1996, the World Library Foundation is a global coordinated effort to preserve and disseminate digital facsimiles of historical books, classic works of literature, serials, bibliographies, dictionaries, encyclopedias, and other heritage works in a number of languages and countries around the world. Access to the complete holdings of the World Library Foundation is open to the general public for personal use.
+
+ To access please click here.

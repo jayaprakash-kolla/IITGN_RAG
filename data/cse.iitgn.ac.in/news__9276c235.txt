@@ -1,0 +1,344 @@
+Title: News & Events
+Source: https://cse.iitgn.ac.in/news
+
+News and awards
+
+# CSE in the News
+
+ Recent media coverage, research highlights, awards, professional service, and department achievements.
+
+Awards & fellowships
+
+ Media  Research  Award  Event  Infrastructure  Service
+
+## Media
+
+ 4 items
+
+ Media  2026
+
+### Project Madhava covered by India Today
+
+The hands-on computer-systems pedagogy effort uses RISC-V microcontrollers to connect classroom learning with self-reliant hardware practice.
+PeopleProf. Manu Awasthi, Manish Jain, Vicharak, C2S, ChipIN, and CCLSource India Today
+
+ Media  8 Jan 2026
+
+### Soket AI presented at PM-chaired AI startup roundtable
+
+Soket AI, co-founded by Prof. Mayank Singh, was among 12 AI startups that presented ahead of the India AI Impact Summit.
+PeopleSoket AI and Prof. Mayank SinghSource PIB / PM India
+
+ Media  Dec 2024
+
+### VayuBuddy air-quality chatbot receives press coverage
+
+The LLM-powered air-quality chatbot demonstrates CSE work on AI for social impact.
+PeopleProf. Nipun Batra and collaboratorsSource Indian Express e-paper
+
+ Media  Jul 2024
+
+### Lingo Research Group releases Ganga-1B Hindi language model
+
+The first pre-trained Hindi language model from the group was covered by AI and technology media.
+PeopleLingo Research Group and Prof. Mayank SinghSource TechChilli
+
+## Research
+
+ 8 items
+
+ Research  May 2026
+
+### ThermEval accepted at KDD 2026
+
+A Sustainability Lab benchmark evaluates vision-language models on thermal imagery, extending CSE work on robust AI for sensing and climate applications.
+PeopleAyush Shrivastava, Kirtan Gangani, Laksh Jain, Prof. Nipun Batra, and Prof. Mayank GoelSource Sustainability Lab news
+
+ Research  May 2026
+
+### Undergraduate-led NILMBench2026 accepted at BuildSys 2026
+
+Second-year undergraduates led a reproducible benchmark for energy disaggregation, continuing the department focus on deployable AI systems.
+PeopleAayush Kuloor, Anurag Singh, Harsh Dhru, and Prof. Nipun BatraSource Sustainability Lab news
+
+ Research  Feb 2026
+
+### CVIG Lab work on AI-assisted pollen classification receives coverage
+
+The project combines scanning electron microscopy and vision transformers to classify pollen grains, with coverage in science and education outlets.
+PeopleProf. Shanmuganathan Raman and S. SankaranarayananSource Phys.org
+
+ Research  2026
+
+### Chitrabhasha receives ANRF Advanced Research Grant support
+
+The Lingo Research Group project focuses on large-scale datasets and foundational multilingual, multimodal AI models.
+PeopleLingo Research Group and Prof. Mayank SinghSource IITGN official post
+
+ Research  Jan 2026
+
+### Nature Portfolio paper links ocean variability and global drought synchrony
+
+The MIR Lab and collaborators showed how ocean cycles constrain planet-wide drought synchrony, with broad external science coverage.
+PeopleDr. Udit Bhatia, Hemant Poonia, D. Mansoor Tantary, Vimal Mishra, and Rohini KumarSource Communications Earth & Environment
+
+ Research  2025-26
+
+### SET Lab expands GenAI-for-software-engineering research
+
+The lab reports top-venue 2025-26 wins across LLM-code-agent faults, mutation evaluation, and academic research support.
+PeopleProf. Shouvick Mondal and SET LabSource SET Lab site
+
+ Research  2025
+
+### SentinelKilnDB accepted at NeurIPS 2025 Datasets and Benchmarks
+
+The hand-validated benchmark covers 62,671 brick kilns across South Asia for AI-supported air-pollution monitoring.
+PeopleRishabh Mondal, Zeel B. Patel, collaborators, and Prof. Nipun BatraSource NeurIPS 2025
+
+ Research  2025
+
+### COMI-LINGUA appears in EMNLP 2025 Findings
+
+The Lingo Research Group dataset and paper support code-mixed Indian-language NLP.
+PeopleRajvee Sheth, Himanshu Beniwal, and Prof. Mayank SinghSource ACL Anthology
+
+## Award
+
+ 14 items
+
+ Award  16 September 2026
+
+### Arjun Badola and Dikshit Hegde win QIF India 2026
+
+Arjun Badola and Dikshit Hegde have won the Qualcomm Innovation Fellowship India 2026 for their proposal on transparent 3D Gaussian splatting, advised by Prof. Shanmuganathan Raman.
+PeopleArjun Badola (QIF 2026 winner); Dikshit Hegde (QIF 2026 winner); Prof. Shanmuganathan Raman (Faculty adviser)Source Department announcement
+
+ Award  3 August 2026
+
+### Ayush Shrivastava and Rohit Narayanan selected for TCS PhD fellowships
+
+Ayush Shrivastava and Rohit Narayanan have been selected for the TCS Research Scholar Program, Cycle 20, with fellowships effective 1 July 2026.
+PeopleAyush Shrivastava (advised by Prof. Nipun Batra and Prof. Mayank Goel); Rohit Narayanan (advised by Prof. Balagopal Komarath)Source Department announcement
+
+ Award  Jun 2026
+
+### Three CSE PhD students receive IndiaAI PhD Fellowships
+
+Naren Kumar, Manvendra Singh, and Dikshit Hegde have been awarded IndiaAI PhD Fellowships.
+PeopleNaren Kumar (advised by Prof. Mayank Singh); Manvendra Singh (advised by Prof. Anirban Dasgupta); Dikshit Hegde (advised by Prof. Shanmuganathan Raman)Source Department announcement
+
+ Award  2026
+
+### MCP-Diag recognized at COMSNETS 2026 Graduate Forum
+
+The paper on deterministic, protocol-driven AI-native network diagnostics was named Graduate Forum Best Paper Runner-up.
+PeopleDevansh Lodha, Mohit Panchal, and Prof. Sameer G. KulkarniSource COMSNETS awards
+
+ Award  2025-26
+
+### Himanshu Beniwal receives Microsoft Research India PhD Award and Fulbright-Nehru Fellowship
+
+The CSE/NLP doctoral student is recognized for work with the Lingo Research Group under Prof. Mayank Singh.
+PeopleHimanshu Beniwal and Prof. Mayank SinghSource IITGN Connections v18i1
+
+ Award  Dec 2025
+
+### IITGN wins Inter-IIT gold in Algorithmic Optimisation
+
+The team won gold at Inter-IIT Tech Meet 14.0 for solving computational problems under strict time and memory constraints.
+PeopleAnurag Singh and Nishchay BhutoriaSource IITGN Technical Council
+
+ Award  Dec 2025
+
+### IITGN wins Inter-IIT silver in Game Development Challenge
+
+The team won silver at Inter-IIT Tech Meet 14.0 for a polished playable game with strong mechanics, level design, and coding architecture.
+PeopleDivyansh Sharma, Hem Tilva, Nilay, and ShubhamSource IITGN Technical Council
+
+ Award  Dec 2025
+
+### IITGN wins Inter-IIT silver in ISRO Geospatial Challenge
+
+The team won silver at Inter-IIT Tech Meet 14.0 for applying machine learning and remote-sensing methods to satellite imagery and geospatial data.
+PeopleUmang, Karan, Laksh, Romit, Shreyans, and VirajSource IITGN Technical Council
+
+ Award  2025
+
+### Gayatri Priyadarsini Kancherla receives Google PhD Fellowship
+
+The fellowship recognizes doctoral work in privacy, safety, and security.
+PeopleGayatri Priyadarsini KancherlaSource Google Research recipients
+
+ Award  2025
+
+### Dharaben R. Thakkar receives ACM India Doctoral Dissertation Award
+
+The ACM India dissertation award recognizes work advised by Prof. Bireswar Das.
+PeopleDr. Dharaben R. Thakkar and Prof. Bireswar DasSource ACM India
+
+ Award  2025
+
+### Prof. Nipun Batra receives ACM SIGEnergy recognitions
+
+Prof. Batra was recognized with ACM SIGEnergy Rising Star and e-Energy Test-of-Time awards.
+PeopleProf. Nipun BatraSource ACM SIGEnergy
+
+ Award  Dec 2024
+
+### IITGN wins Inter-IIT silver in Adobe Research challenge
+
+The team won silver at Inter-IIT Tech Meet 13.0 for a system to distinguish AI-generated images from real images.
+PeopleShreyans Jain, Birudugadda Srivibhav, Chandrabhan Patel, Viraj Vekaria, Karan Gandhi, and Rugved PatilSource IITGN Technical Council
+
+ Award  Dec 2024
+
+### IITGN wins Inter-IIT bronze in Insolation Energy challenge
+
+The team won bronze at Inter-IIT Tech Meet 13.0 for predictive modeling of solar waste and scalable recycling solutions.
+PeopleParth Deshpande, Siddharth Shah, Nakul S Raj, and Manasi KulkarniSource IITGN Technical Council
+
+ Award  2024
+
+### Anirban Dasgupta receives ACM STOC 10-year Test of Time Award
+
+The STOC 2024 award recognizes the lasting impact of the paper “A Sparse Johnson-Lindenstrauss Transform,” co-authored with Ravi Kumar and Tamás Sarlós.
+PeopleAnirban Dasgupta, Ravi Kumar, and Tamás SarlósSource Cornell Bowers CIS
+
+## Event
+
+ 2 items
+
+ Event  12 Feb 2026
+
+### AI Day at IITGN builds momentum for India AI Impact Pre-Summit
+
+The institute event highlighted CSE and Center for AI-driven Innovations work before the India AI Impact Pre-Summit.
+PeopleCSE Department, Center for AI-driven Innovations, Prof. Mayank Singh, Prof. Anirban Dasgupta, and Prof. Yogesh Kumar MeenaSource IITGN News
+
+ Event  Feb 2026
+
+### Prof. Mayank Singh listed as AI Impact Summit panelist
+
+The India AI Impact Summit agenda listed Prof. Singh on a panel about India frontier labs and Global South impact.
+PeopleProf. Mayank SinghSource Indian Express agenda
+
+## Infrastructure
+
+ 1 item
+
+ Infrastructure  Feb 2026
+
+### IIT Gandhinagar launches AI Resilience and Command Centre
+
+The ARC Centre advances data-driven climate-risk management, including AI-based urban flooding modules and decision support tools.
+PeopleDr. Udit Bhatia and IITGN ARC CentreSource IITGN News
+
+## Service
+
+ 15 items
+
+ Service  June 2026
+
+### Prof. Abhishek Bichhawat named AsiaCCS 2026 track co-chair
+
+Prof. Bichhawat is track co-chair for Software Security, Formal Methods, and Programming Languages at ACM AsiaCCS 2026 in Bengaluru.
+PeopleProf. Abhishek BichhawatSource ACM AsiaCCS 2026 Program Committee
+
+ Service  June 2026
+
+### Prof. Abhishek Bichhawat serves as academic coordinator for ACM India Summer School on Systems for ML
+
+The VIT-hosted ACM India summer school runs from 1-12 June 2026 and covers scalable ML systems, deep learning infrastructure, hardware accelerators, distributed ML, Edge AI, ML compilers, and explainable AI.
+PeopleProf. Abhishek BichhawatSource VIT brochure
+
+ Service  2026
+
+### Prof. Abhishek Bichhawat organizes ACM IndiCS workshop on secure and usable systems
+
+The 2026 ACM IndiCS workshop focuses on designing secure and usable systems for humans, connecting security, privacy, HCI, and systems perspectives.
+PeopleProf. Abhishek BichhawatSource ACM IndiCS
+
+ Service  2026
+
+### Prof. Neeldhara Misra serves as AAMAS 2026 Area Chair
+
+Prof. Misra is listed as an Area Chair for the Game Theory and Economic Paradigms area at AAMAS 2026.
+PeopleProf. Neeldhara MisraSource AAMAS 2026 Area Chairs
+
+ Service  2026
+
+### Prof. Shanmuganathan Raman serves as NeurIPS 2026 Area Chair
+
+Prof. Raman is contributing to the NeurIPS 2026 main-track review process as an Area Chair.
+PeopleProf. Shanmuganathan RamanSource NeurIPS 2026 Main Track Handbook
+
+ Service  Feb 2026
+
+### Prof. Neeldhara Misra serves as CALDAM 2026 PC co-chair
+
+Prof. Misra and Prof. Arti Pandey are program committee co-chairs for the 12th International Conference on Algorithms and Discrete Applied Mathematics.
+PeopleProf. Neeldhara Misra and Prof. Arti PandeySource CALDAM 2026 Committees
+
+ Service  2026
+
+### Prof. Abhishek Bichhawat joins Journal of Computer Security editorial board
+
+The Journal of Computer Security editorial board lists Prof. Bichhawat among its Associate Editors.
+PeopleProf. Abhishek BichhawatSource Journal of Computer Security editorial board
+
+ Service  2019-present
+
+### Prof. Neeldhara Misra serves on the ACM-W India Council
+
+Prof. Misra has served as a member of the ACM-India ACM-W Council since 2019.
+PeopleProf. Neeldhara MisraSource IITGN faculty chair profile
+
+ Service  Oct 2025
+
+### Prof. Abhishek Bichhawat serves as PLAS 2025 PC co-chair
+
+PLAS 2025, the 20th Workshop on Programming Languages and Analysis for Security, was co-located with ACM CCS 2025 in Taipei.
+PeopleProf. Abhishek BichhawatSource PLAS 2025
+
+ Service  Jul 2024
+
+### Prof. Neeldhara Misra serves as CTiS 2024 PC co-chair
+
+Prof. Misra was program committee co-chair for ACM India's Computational Thinking in Schools 2024 conference with Geeta Ghormade.
+PeopleProf. Neeldhara Misra and Geeta GhormadeSource CTiS 2024
+
+ Service  2020-23
+
+### Prof. Neeldhara Misra served on the IARCS Council
+
+Prof. Misra served as a council member of the Indian Association for Research in Computing Science from 2020 to 2023.
+PeopleProf. Neeldhara MisraSource IARCS Council
+
+ Service  Sep 2023
+
+### Prof. Neeldhara Misra serves as IPEC 2023 PC co-chair
+
+Prof. Misra and Magnus Wahlström were program committee co-chairs for the 18th International Symposium on Parameterized and Exact Computation.
+PeopleProf. Neeldhara Misra and Magnus WahlströmSource IPEC 2023
+
+ Service  2020-22
+
+### Prof. Neeldhara Misra served on the ACM Internal Affairs Committee
+
+Prof. Misra served as a member of the ACM Internal Affairs Committee from 2020 to 2022.
+PeopleProf. Neeldhara MisraSource Neeldhara Misra CV
+
+ Service  2019-22
+
+### Prof. Neeldhara Misra served on the ACM-India Summer and Winter Schools steering committee
+
+Prof. Misra was a steering committee member for ACM-India Summer and Winter Schools from 2019 to 2022.
+PeopleProf. Neeldhara MisraSource ACM India Annual Report
+
+ Service  2019
+
+### Prof. Neeldhara Misra co-guest edited Algorithms special issue
+
+Prof. Misra co-guest edited the Algorithms open-access special issue New Frontiers in Parameterized Complexity and Algorithms.
+PeopleProf. Neeldhara Misra, Frances Rosamond, and Meirav ZehaviSource Algorithms special issue

@@ -1,0 +1,721 @@
+#flags:
+
+Scientific Writing Workshop
+
+November 29, 2021
+IIT Gandhinagar
+
+Attributes of a High-Quality Research Paper
+Not just a scientific report of empirical observations but a detailed analysis of the
+data and in-depth mechanistic insights
+The title and abstract are simple and attractive
+The figures and schemes are well drawn and self-explanatory
+The Experimental/Methods section provides sufficient details so that reproducible in
+another laboratory
+
+Compelling and exciting scientific story
+
+2
+Proprietary and Confidential
+
+American Chemical Society
+
+Tell a Story!
+• Make sure the paper has a main theme and punchline
+• Avoid “data dumping”
+• Provide context to prior literature, and cite the original work in the
+reference section
+• Explain why the problem is important!
+• Share experimental details that would allow a reasonably educated
+person in your field to re-perform the experiments
+• Analyze the data accurately and objectively
+• Provide a strong conclusion, describing how your work moves the
+field forward, but be realistic
+
+Image: https://jasonfurnell.wordpress.com/
+
+3
+
+Key Steps in Composing a Scientifically
+Effective Paper
+
+J. Phys. Chem. Lett. 2013, 4, 1578
+Proprietary and Confidential
+
+American Chemical Society
+
+4
+
+Anatomy of a Manuscript
+Introduction
+
+Results and
+Conclusion
+
+Graphics
+
+References
+
+Experimental
+Section
+
+Acknowledgement
+
+Title
+
+Abstract
+
+5
+Proprietary and Confidential
+
+American Chemical Society
+
+What’s in a Name?
+• First thing that draws attention
+• Shorter titles often make a greater impact
+
+Make sure that your title is
+grammatically sound
+Craft a compelling title –
+describe your
+results/findings in as few
+words as possible, in an
+evocative and exciting way
+
+“Study”, “Investigation”, or
+“Demonstration” reflects routine
+scientific work
+Avoid asking a question in the title –
+be clear on what is accomplished
+Manuscript titles should not make
+claims of priority, originality,
+convenience, effectiveness, or value
+
+• Don’t use the words “convenient”, “efficient”, “elegant”,
+“expedient”, "facile", “first”, "new", “novel”, "practical", "simple",
+“unique”, “unprecedented”, and "versatile"
+http://pubs.acs.org/paragonplus/submission/joceah/joceah_authguide.pdf
+Proprietary and Confidential
+
+American Chemical Society
+
+6
+
+Attract Readers with a Strong Title
+“We strongly believe that the science should speak for itself and that
+the use of adjectives that sound too self-promoting can have adverse
+impact.”
+CONTENT **
+
+FUNCTIONALITY
+▐ Attract potential audience
+
+▐ Aid retrieval and indexing
+
+▐ Simple
+▐ Effective
+▐ Accurate
+
+Overly Long Title:
+Synthesis, Electrochemistry, Spectroscopic Characterization, and X-ray Crystal
+Structures of Ni(III) Complexes that can be Isolated and Promote Carbon–Carbon
+Bond-Forming Reductive Elimination
+
+Shortened Title:
+Carbon–Carbon Bond-Forming Reductive Elimination from Isolated Nickel(III)
+Complexes
+Proprietary and Confidential
+
+American Chemical Society
+
+* Chem. Mater. 2014, 26, 334
+**J. Phys. Chem. Lett. 2013, 4, 1578
+
+7
+
+ACS Editors’ Choice
+
+8
+Proprietary and Confidential
+
+American Chemical Society
+
+Table of Content (ToC)
+• Typically the first glimpse a potential reader has of your published
+paper
+
+• A good ToC image must, simultaneously:
+– Resonate with the title (to provide synergistic support)
+– Instantly provide a sense of what is to be learned
+• Ensure that everything in the ToC image is comprehensible and
+lucid, and yet exciting
+• A common mistake is simply to cut and paste a figure/reaction
+scheme from the paper to use as the ToC
+
+9
+Proprietary and Confidential
+
+American Chemical Society
+
+Design Good TOC Graphics
+• Recommended Reading: “Table of Contents Images: Science and
+Beauty = Clarity”, Chem. Mater., 2016, 28 (6), pp 1589–1590, DOI:
+10.1021/acs.chemmater.6b00928
+• Excessive use of cartoon images in any of the graphics are unadvised,
+the image should look professional.
+• No logos from universities, government associations, or companies!
+B
+
+A
+
+Good Example
+
+Not so Good Example
+10
+
+Proprietary and Confidential
+
+American Chemical Society
+
+Example
+Water-Soluble Superparamagnetic Magnetite Nanoparticles with
+Biocompatible Coating for Enhanced Magnetic Resonance Imaging
+
+✓ The ToC image here quickly outlines a synthesis of iron oxide
+nanoparticles, with the reagents clearly displayed.
+✓ The subsequent use of the magnetite nanoparticles in MRI is obvious
+from the gray scale plot on the right, and so the ToC suggests a
+complete body of work.
+Proprietary and Confidential
+
+American Chemical Society
+
+ACS Nano 2011, 5, 6315
+ACS Nano 2011, 5, 7687
+
+11
+
+“Flash” Synthesis of CdSe/CdS Core−Shell Quantum
+Dots”
+
+• The title here projects that the concept of speed with respect to
+nanoparticle synthesis is the obvious focus of the paper.
+• The use of the word “Flash” ties in well with the stopwatch in the ToC
+image, and hence makes the point that the nanocrystal synthesis is fast.
+• The glowing vial suggests that the quality of the resulting nanoparticles is
+not compromised.
+Chem. Mater. 2014, 26, 1289
+Proprietary and Confidential
+
+American Chemical Society
+
+12
+
+Think!
+Are these suitable for TOC representation?
+B
+
+A
+
+C
+
+D
+
+13
+Proprietary and Confidential
+
+American Chemical Society
+
+Abstract
+
+A summary of the work being discussed in the paper
+
+Written in such a way that any reader who is not familiar with the
+topic will be able to understand and appreciate the main points of
+the study
+
+Avoid words “superb”, “excellent”, “exceptional”, “outstanding”, or
+other similar descriptive words unless rigorously supported by a
+thorough comparison with the state-of-the-art in the manuscript
+
+14
+Proprietary and Confidential
+
+American Chemical Society
+
+Abstract
+Extra effort should be taken to compose an effective and concise abstract!*
+
+▐ Allow readers to determine
+paper scope
+
+CONTENT
+Any reader who is not familiar with the
+topic will be able to understand and
+appreciate the main points
+
+▐ Aid retrieval and indexing
+
+▐ Concise
+
+FUNCTIONALITY
+
+▐ Self-contained/Separately
+▐ Informative
+▐ DO NOT supplement or evaluate
+the conclusions
+▐ DO NOT cite references, tables,
+figures
+* J. Phys. Chem. Lett. 2013, 4, 1578
+Proprietary and Confidential
+
+American Chemical Society
+
+15
+
+Interface stability in solid-state batteries
+Development of high conductivity solid-state electrolytes for lithium ion
+batteries has proceeded rapidly in recent years, but incorporating these
+new materials into high-performing batteries has proven difficult.
+Interfacial resistance is now the limiting factor in many systems, but the
+exact mechanisms of this resistance have not been fully explained - in
+part because experimental evaluation of the interface can be very
+difficult In this work, we develop a computational methodology to
+examine the thermodynamics of formation of resistive interfacial
+phases . The predicted interfacial phase formation is well correlated
+with experimental interfacial observations and battery performance. We
+calculate that thiophosphate electrolytes have especially high reactivity
+with high voltage cathodes and a narrow electrochemical stability
+window. We also find that a number of known electrolytes are not
+inherently stable but react in situ with the electrode to form passivating
+but ionically conducting barrier layers As a reference for
+experimentalists, we tabulate the stability and expected decomposition
+products for a wide range of electrolyte, coating, and electrode
+materials including a number of high-performing combinations that
+have not yet been attempted experimentally
+
+Proprietary and Confidential
+
+Chem. Mater., 2016, 28, 266
+American Chemical Society
+
+Background
+
+Methodology
+
+Major conclusions
+
+Closing remark
+
+16
+
+High-Quality (CH3NH3)3Bi2I9 Film-Based Solar Cells:
+Pushing Efficiency up to 1.64%
+Bismuth-based solar cells have exhibited some
+Briefly state the
+advantages over lead perovskite solar cells for
+problem/purpose of the
+nontoxicity and superior stability, which are currently
+research
+two main concerns in the photovoltaic community.
+As for the perovskite-related compound
+(CH3NH3)3Bi2I9 applied for solar cells, the
+conversion efficiency is severely restricted by the
+unsatisfactory photoactive film quality. ▐ Herein we
+report a novel two-step approach— high-vacuum
+A couple of sentences indicating
+BiI3 deposition and low-vacuum homogeneous
+the methodology and key
+transformation of BiI3 to (CH3NH3)3Bi2I9—for highly
+observations (scope of the study)
+compact, pinhole-free, large-grained films, which
+are characterized with absorption coefficient, trap
+density of states, and charge diffusion length
+comparable to those of some lead perovskite
+analogues. Accordingly, ▐ the solar cells have
+Point out major conclusions
+realized a record power conversion of efficiency of
+1.64% and also a high external quantum efficiency
+End with a sentence summarizing the
+approaching 60%. ▐ Our work demonstrates the
+potential of (CH3NH3)3Bi2I9 for highly efficient and implication of the study in a broader
+context (e.g., possible applications)
+long-term stable solar cells ▐ *
+that highlights importance of the work
+Proprietary and Confidential
+
+American Chemical Society
+
+J. Phys. Chem. Lett., 2017, 8 , 4300
+
+17
+
+Draw Graphics with Care
+• Be clear and precise, simple but informative
+• Graphics should complement the text and support
+your story
+• Use color!
+• Graphics must be original, unpublished artwork,
+created by an author
+
+18
+Proprietary and Confidential
+
+American Chemical Society
+
+Accuracy of
+data
+presentation
+
+Aesthetics of
+the figure
+
+A
+Visible Major and
+Minor Ticks
+
+B
+
+J. Phys. Chem. Lett. 2014, 5, 2118
+
+19
+
+Prepare High Quality Graphics/Figures
+• Be sure to check the
+PDF file you are about
+to upload to the
+submission system!
+• You do not want your
+paper to look like this:
+
+20
+Proprietary and Confidential
+
+American Chemical Society
+
+Construct a Well-written Cover Letter
+“Cover Letter is a statement of why the paper is appropriate for the journal*”
+FUNCTIONALITY
+
+CONTENT
+
+▐ Interest the editor enough to read
+your paper carefully and choose
+to send it out for peer review
+
+▐ Highlight your most important findings
+
+▐ A chance for authors to persuade
+the editors of the significance of
+their work in a less formal manner
+
+▐ DO NOT copy Abstract!
+
+▐ State impact to the community
+
+▐ DO NOT simply state that your
+manuscript is “of interest to the field” or
+“novel.” Address specific aspects of
+the journal’s Aims & Scope statement
+
+* ACS Nano 2010, 4, 2487
+http://www.business2community.com/communications/avoid-embarrassing-marketinggaffes-communicate-effectively-0897764
+21
+Proprietary and Confidential
+
+American Chemical Society
+
+Address the Editor-in-Chief or Associate Editor
+Dear Professor Bertozzi, directly & correctly. Pay attention to Transfer or
+Resubmission
+
+We wish to submit our manuscript “TITLE” for publication
+
+Include the title of the manuscript
+and mention the journal name
+
+in ACS Central Science.
+
+Pay attention to Transfer or Resubmission
+
+We describe a new, non-natural enzyme-catalyzed reaction, aziridination
+of olefins via intermolecular nitrene transfer. We discovered that a
+variant of cytochrome P450BM3 used in our previous studies of
+intermolecular sulfimidation also catalyzes aziridination. We were able to
+improve this activity more than 50-fold and the enantioselectivity of
+enzyme-catalyzed aziridination was improved to 99% ee for a range of
+styrenyl substrates.
+This work should be of interest to the broad audience that ACS
+Central Science wishes to reach. It touches on evolution—how new
+enzyme activities can appear and be improved through evolution—as
+well as inorganic catalysis, biocatalysis, and chemical synthesis.
+
+Highlight the
+results/main findings
+of your work
+
+Explain why the work
+is appropriate for the
+journal’s readership,
+why it is important/
+urgent, be specific
+
+Permission from Professor Frances Arnold received
+Proprietary and Confidential
+
+American Chemical Society
+
+22
+
+Submitting Your Manuscript
+
+Proprietary and Confidential
+
+American Chemical Society
+
+23
+
+ACS Reviewer Lab
+A FREE 4-hour online course to educate
+researchers on the principles of quality peerreview.
+Crafted by ACS staff and editors
+Interactive modules covering everything from
+ethics to how to write a first-rate review
+Assessments throughout to test your knowledge
+Each module can be taken independently and in
+any order
+
+Intro to Peer
+Review
+
+Proprietary and Confidential
+
+Ethics in Peer
+Review
+
+Preparing for
+Review
+
+Assessing
+Significance &
+Technical Quality
+
+American Chemical Society
+
+Assessing
+Presentation &
+Readiness
+
+Writing Your
+Review
+
+www.acsreviewerlab.org
+
+24
+
+Easy to Go…………
+
+Proprietary and Confidential
+
+American Chemical Society
+
+25
+
+Congrats You are a Reviewer
+Now!
+
+Proprietary and Confidential
+
+American Chemical Society
+
+26
+
+Ethics & Plagiarism
+
+10 Tips for Ethical Authorship
+
+28
+
+https://axial.acs.org/2017/07/31/10-tips-ethical-authorship/
+Proprietary and Confidential
+
+American Chemical Society
+
+Most Common Ethical Violations
+• Self-plagiarism – reusing your own content
+• Prior publication – journals have policies about
+what they consider to be published content
+• Concurrent submissions – submitting the same
+manuscript to multiple journals at the same time
+• Data fabrication or falsification – deliberately
+or unintentionally changing the data to fit the
+conclusions
+
+29
+Proprietary and Confidential
+
+American Chemical Society
+
+Most common types of image duplications
+•
+
+Western blot images
+
+•
+
+Microscopic images
+
+Image duplication by
+magnification of single
+microscopic image
+section
+Image duplication by
+multiplication of same
+western blot image
+
+Proprietary and Confidential
+
+American Chemical Society
+
+Source: Science Chronicle https://journosdiary.com/2018/07/10/elisabeth-bik-image-duplications/
+
+30
+
+Can I Reuse the Contents of My Article After
+It’s Published?
+
+Based on the
+copyright
+agreement you
+sign with ACS, you
+can reuse content,
+such as images
+and small amounts
+of text, from your
+published article
+in:
+
+• Teaching or training
+• Presentations at conferences/seminars
+• Subsequent publications for which you
+are an author
+• Posting on your personal website,
+university network, institutional
+repository, and conference websites
+
+31
+Proprietary and Confidential
+
+American Chemical Society
+
+RightsLink is a Tool to Request Permission
+to Reuse Content
+
+32
+Proprietary and Confidential
+
+American Chemical Society
+
+RightsLink is a Tool to Request Permission
+to Reuse Content
+
+33
+Proprietary and Confidential
+
+American Chemical Society
+
+Ethical Guidelines at ACS
+
+https://pubs.acs.org/page/policy/ethics/index.html
+
+34
+Proprietary and Confidential
+
+American Chemical Society
+
+❑ Select the Right Journal ❑ Showcase the Significance of Your Work
+❑ Effectively Describe Your Research
+
+❑ Create Publication-Ready Visuals
+
+❑ Finalize Your Manuscript and Prepare for
+Submission
+
+❑ Navigate the Revision Process
+
+❑ Adhere to Ethical Guidelines
+35
+
+Proprietary and Confidential
+
+American Chemical Society
+
+36
+Proprietary and Confidential
+
+American Chemical Society
+
+37
+Proprietary and Confidential
+
+American Chemical Society
+
+ACS In India
+
+Visit ACS In India Webpage: www.acs.org/india
+38
+Proprietary and Confidential
+
+American Chemical Society
+
+DST & ACS Workshops
+DST-INST Mohali
+Aligarh Muslim University (UP)
+
+UCOST Uttarakhand
+
+CSIR –CSMCRI Bhavnagar
+Bharathidasan University
+Tiruchirappalli
+
+Five on-site & Five PAN India Virtual workshops
+from Nov 2019 to October 2021
+attracted ~ 15k registrations
+>4500 attendees
+~1500 Offered complementary ACS Membership
+
+18 Skill building events during 2019-2022
+
+ACS Science Talks
+
+63 world class speakers YTD, 25,000+ registrants from 7000+ organizations (India) 480+
+organizations (outside India)
+
+https://www.acs.org/content/acs/en/international/india/events/acs-science-talks.html
+
+Visit ACS In India Webpage: www.acs.org/india
+41
+Proprietary and Confidential
+
+American Chemical Society
+
+A monthly newsletter from ACS
+Publications that features the latest events
+and product launches in ACS, and
+Chemistry news in India and APAC.
+Subscribe today for free!
+Subscribe link:
+https://preferences.acspubs.org/nw_insight
+india?follow=1
+
+Proprietary and Confidential
+
+American Chemical Society
+
+42
+
+Thank You!
+
+ACS / Proprietary and Confidential / Do Not Distribute
+
+43

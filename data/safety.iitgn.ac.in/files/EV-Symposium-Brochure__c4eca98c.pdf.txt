@@ -1,0 +1,391 @@
+#flags:
+
+F
+
+R
+
+SAF
+
+ETY EN
+
+G
+
+I
+
+N
+
+O
+
+G
+
+CENT
+
+RIN
+
+RE
+
+EE
+
+T
+
+A
+
+R
+
+II
+
+GA
+
+NDHINA
+
+G
+
+TWO DAY SYMPOSIUM ON
+
+E-MOBILITY IN INDIA:
+SAFETY AND THE WAY FORWARD
+SEPTEMBER 27-28, 2022
+CENTRE FOR SAFETY ENGINEERING
+
+INDIAN INSTITUTE OF TECHNOLOGY GANDHINAGAR
+SAFETY ISSUES IN ELECTRIC VEHICLES
+
+TWO DAY SYMPOSIUM ON
+
+IIT Gandhinagar
+
+E-Mobility in India:
+Safety and the Way Forward
+
+Centre for
+Safety Engineering
+
+Sept 27-28, 2022
+
+Programme Schedule DAY 1
+
+TIME
+
+Venue: AB1/101, IIT Gandhinagar
+
+PROGRAMME
+
+09:00 am - 09:30 am
+
+SPEAKER
+
+REGISTRATION AND NETWORKING TEA
+
+09:30 am - 09:40 am
+
+Welcome and Inaugural Address
+
+• Prof Amit Prashant, Director, IIT Gandhinagar
+• Shri Giridhar Aramane (IAS), Secretary,
+Ministry of Road Transport & Highways, Government of India
+
+09:40 am - 10:15 am
+
+• Introduction
+• Government interventions
+• Role of key stakeholders in EV growth
+
+• R.A. Venkitachalam, Adviser - IIT Gandhinagar
+Innovation and Entrepreneurship Center
+• Dr. Rahul Walawalkar, President,
+India Energy Storage Alliance (IESA)
+• Karthick Athmanathan, Professor of Practice, IIT Madras
+
+10:15 am - 10:45 am
+
+Technology
+• Battery Technologies and Challenges
+• Current status of Battery Management System (BMS)
+
+10:45 am - 11:15 am
+
+11:15 am - 01:00 pm
+
+TEA BREAK
+• Abhishek Ranjan, Sr. VP Strategy & Head Utilities & Retail, ReNew Power
+• Suraj Vallamkonda, Team Lead
+Battery Engineering, Ather Energy
+• Rajesh Mekkat, Director - Lithium-ion
+Cell Development, Ola Electric
+• Dr. Petra Andersson, Senior Researcher,
+RISE Research Institutes of Sweden
+
+Technology Readiness for the market
+• Introduction to India ‘s EV Ecosystem
+• Current Status of EV Market
+• Safe Design, manufacturing on experience of EV sellers
+
+01:00 pm - 02:00 pm
+
+02:00 pm - 03:15 pm
+
+• Dr. Judy Jeevarajan, Vice President & Executive
+Director, Electrochemical Safety Research Institute
+(ESRI), UL Research Institutes (ULRI)
+• Dr. Rashi Gupta, Founder & Managing Director,
+Vision Mechatronics
+
+LUNCH BREAK
+• Kislay Pankaj, CTO, Micelio Mobility
+• Akash Verma, Research Associate, Log9 Materials
+• Subham Mishra, Founder & CEO, E-Vega Mobility Labs
+• Gopi Sankar, Chief Engineer – New Energy
+Vehicles, Ashok Leyland
+
+PANEL DISCUSSION Advancing EVs in INDIA
+• Technology improvement relevant to India market
+• Initiatives on EV safety standards in Indian Market
+• Giga factories in the making – Safety during cell
+manufacturing
+
+03:15 pm - 03:30 pm
+
+TEA BREAK
+
+03:30 pm - 04:30 pm
+
+Standards & Technologies
+• India and International Experience & Learnings
+• Firefighter planning and International codes
+
+• Sean De Crane, Staff Engineering Associate,
+Built Environment, UL Solutions
+• Michael Greiner, President,
+Hazard Control Inc, USA
+
+04:30 pm - 05:00 pm
+
+OPEN DISCUSSION
+
+Discussion with all speakers and
+audience and open the floor for Q&A
+
+CENTRE FOR
+SAFETY ENGINEERING
+IIT GANDHINAGAR
+
+For more information please contact
+E: safety@iitgn.ac.in, Ph no.: 079-2395-2405
+
+TWO DAY SYMPOSIUM ON
+
+IIT Gandhinagar
+
+E-Mobility in India:
+Safety and the Way Forward
+
+Centre for
+Safety Engineering
+
+Sept 27-28, 2022
+
+Programme Schedule DAY 2
+
+TIME
+
+PROGRAMME
+
+09:00 am - 09:30 am
+09:30 am - 09:45 am
+
+Venue: AB1/101, IIT Gandhinagar
+
+SPEAKER
+NETWORKING TEA
+Dr. M.K. Jain, Scientist-G/Associate Director,
+CEEFS DRDO, Ministry of Defence, Delhi
+
+Welcome and Brief Remarks
+
+09:45 am - 11:30 am
+
+Testing Facilities & the Standardization
+• Testing-Approach/Facilities (especially in Indian Context)
+• Characterization of EV and ESS fires
+• ESS fire testing
+• Comparative Account of Safety in Redox Flow Batteries
+
+11:30 am - 12:30 pm
+
+Response to EV Fires
+• Standards and Regulations of EV Fires
+• Challenge of Implementation vs Regulations
+
+12:30 pm - 01:30 pm
+
+01:30 pm - 02:45 pm
+
+• Dr. Judy Jeevarajan, Vice President & Executive
+Director, ESRI, ULRI
+• Dr. Daniel Juarez-Robles,
+Research Scientist, ESRI, ULRI
+• Sean De Crane, Staff Engineering Associate,
+Built Environment, UL Solutions
+• Dr. Jonna Hynynen, Research Scientist, Fire and
+Safety, RISE Research Institutes of Sweden
+• Dr. S. Sundar Manoharan, Director General,
+Pandit Deendayal Energy University
+• Kurt Vollmacher, Expert, Alternative Energy
+• Michael Greiner, President, Hazard Control Inc, USA
+• Abhishek Bagwe, CEO, Firetech Pvt Ltd
+
+LUNCH BREAK
+• R.A. Venkitachalam, Adviser - IIT Gandhinagar
+Innovation and Entrepreneurship Center
+• Dr. Judy Jeevarajan, Vice President & Executive
+Director, ESRI, ULRI
+• Dr. Pravinray Gandhi, Guest Professor,
+Mechanical Engineering, IIT Gandhinagar
+
+Public Event - Open House
+• Presentation of three teams
+• Panel Discussion – Open House
+
+TEA BREAK
+
+02:45 pm - 03:15 pm
+
+03:15 pm - 03:45 pm
+
+Way Forward - Next Steps
+
+• Prof Chinmay Ghoroi, Chemical Engineering,
+IIT Gandhinagar
+• Prof Gaurav Srivastava, Civil Engineering,
+IIT Gandhinagar
+
+03:45 pm - 04:15 pm
+
+Concluding Remarks and Acknowledgements
+
+• UL Research Institutes and IIT Gandhinagar
+
+SAFETY ISSUES IN ELECTRIC VEHICLES
+CENTRE FOR
+SAFETY ENGINEERING
+IIT GANDHINAGAR
+
+For more information please contact
+E: safety@iitgn.ac.in, Ph no.: 079-2395-2405
+
+SYMPOSIUM SPEAKERS
+
+Shri Giridhar Aramane, IAS
+Secretary, Ministry of Road Transport &
+Highways, Government of India
+
+Abhishek Ranjan
+
+Prof Amit Prashant
+Director, IIT Gandhinagar
+
+Dr. Judy Jeevarajan
+
+Sr. VP Strategy & Head Utilities & Retail, ReNew Power
+
+Vice President & Executive Director,
+Electrochemical Safety Research Institute (ESRI),
+UL Research Institutes (ULRI), USA
+
+Abhishek Bagwe
+
+Daniel Juarez Robles
+
+CEO, Firetech Pvt Ltd
+
+Research Scientist at UL Research Institutes, UK
+
+Karthick Athmanathan
+
+Gopi Sankar
+
+Professor of Practice, IIT Madras
+
+Chief Engineer- New Energy Vehicles,
+Ashok Leyland
+
+Kurt Vollmacher
+
+Kislay Pankaj
+
+Expert, Alternative Energy, USA
+
+CTO, Micelio Mobility
+
+Dr. Jonna Hynynen
+Research Scientist, Fire and Safety,
+RISE Research Institutes of Sweden
+
+Dr. M.K. Jain
+Scientist-G/Associate Director, CEEFS DRDO,
+Ministry of Defence, Delhi
+
+Akash Verma
+Research Associate, Log9 Materials
+
+Michael Greiner
+President, Hazard Control Inc, USA
+
+Dr. Rahul Walawalkar
+
+Dr. Petra Andersson
+
+President,
+India Energy Storage Alliance (IESA)
+
+Chair, Senior Researcher,
+RISE Research Institutes of Sweden
+
+Dr. Rashi Gupta
+
+Rajesh Mekkat
+
+Founder & Managing Director,
+Vision Mechatronics
+
+Director - Lithium-ion Cell Development,
+Ola Electric
+
+Shubham Mishra
+
+Sean De Crane
+
+Founder & CEO, E-Vega Mobility Labs
+
+Staff Engineering Associate,
+Built Environment, UL Solutions, USA
+
+Suraj Vallamkonda
+
+Dr. S. Sundar Manoharan
+
+Team Lead, Battery Engineering,
+Ather Energy
+
+Director General,
+Pandit Deendayal Energy University
+
+R.A. Venkitachalam
+
+Dr. Pravinray Gandhi
+
+Advisor - IIT Gandhinagar Innovation
+and Entrepreneurship Centre
+
+Guest Professor,
+Mechanical Engineering, IIT Gandhinagar
+
+Prof Gaurav Srivastava
+
+Prof Chinmay Ghoroi
+
+Civil Engineering, IIT Gandhinagar
+
+Chemical Engineering, IIT Gandhinagar
+
+For more information please contact • https://safety.iitgn.ac.in/ • E: safety@iitgn.ac.in, Ph no.: 079-2395-2405

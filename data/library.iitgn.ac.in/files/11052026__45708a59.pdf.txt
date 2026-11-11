@@ -1,0 +1,131 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 19, 2026
+(Added during 04th May 2026 – 08th May 2026)
+Available for the issue from 16th May 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Visualization for social data science
+Author: Beecham, Roger
+Publisher: Boca Raton: CRC Press, 2026
+Call No.: 001.4226 BEE
+Acc. No.: 036951
+Title: Infinity machine: Demis Hassabis, DeepMind, and the quest for
+superintelligence
+Author: Mallaby, Sebastian
+Publisher: London: Allen Lane, 2026
+Call No.: 006.3092 MAL
+Acc. No.: 036956
+Title: Quantum computing for the brain
+Author: Swan, Melanie
+Publisher: London: World Scientific Publishing, 2022
+Call No.: 006.3843 SWA
+Acc. No.: 036943
+Title: Autodesk inventor professional 2025 for engineers and designers, 25th ed.
+Author: Tickoo, Sham
+Publisher: New Delhi: BPB Publications, 2025
+Call No.: 006.686 TIC
+Acc. No.: 036958
+
+PARAPSYCHOLOGY AND OCCULTISM
+Title: Decoding the hand: a history of science, medicine, and magic
+Author: Bashford, Alison
+Publisher: Chicago: University of Chicago Press, 2025
+Call No.: 133.609 BAS
+Acc. No.: 036947
+
+ECONOMICS
+Title: Equality is a struggle: bulletins from the front Line, 2021-2025
+Author: Piketty, Thomas
+Publisher: New Haven: Yale University Press, 2024
+Call No.: 330.905 PIK
+Acc. No.: 036961
+
+SCIENCE
+Title: From myths to science: the evolving story of the universe
+Author: Raza, Gauhar
+Publisher: Gurugram: Ebury Press, 2025
+Call No.: 501 RAZ
+Acc. No.: 036959
+
+MATHEMATICS
+Title: Discovering statistics using JASP
+Author: Field, Andy
+Publisher: London: Sage Publications, 2025
+Call No.: 519.535 FIE
+Acc. No.: 036955
+
+PHYSICS
+Title: Soft matter: concepts, phenomena, and applications
+Author: Saarloos, Wim Van
+Publisher: New Jersey: Princeton University Press, 2024
+Call No.: 530.41 SAA
+Acc. No.: 036948 & 036949
+Title: Renormalization group and condensed matter physics
+Author: Nelson, David R.
+Publisher: New Jersey: Princeton University Press, 2025
+Call No.: 530.41015122 NEL
+Acc. No.: 036950
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Quantum materials, devices, and applications
+Author: Henini, Mohamed (Ed.)
+Publisher: Amsterdam: Elsevier, 2023
+Call No.: 620.1 HEN
+Acc. No.: 036952
+Title: Inverse problems for electrical networks
+Author: Curtis, Edward B.
+Publisher: Singapore: World Scientific Publishing, 2000
+Call No.: 621.30151535 CUR
+Acc. No.: 036946
+Title: Fundamentals of layout design for electronic circuits
+Author: Lienig, Jens
+Publisher: Cham: Springer, 2020
+Call No.: 621.3815 LIE
+Acc. No.: 036945
+
+CHEMICAL ENGINEERING
+Title: Artificial intelligence in chemical engineering
+Author: Sher, Farooq (Ed.)
+Publisher: Amsterdam: Elsevier, 2026
+Call No.: 660.028563 SHE
+Acc. No.: 036953
+
+Title: Machine learning tools for chemical engineering: methodologies and
+applications
+Author: López-Flores, Francisco Javier [et.al.]
+Publisher: Amsterdam: Elsevier, 2025
+Call No.: 660.0285631 LOP
+Acc. No.: 036954
+
+DECORATIVE ARTS
+Title: Universal principles of design, 3rd ed.
+Author: Lidwell, William
+Publisher: Beverly: Rockport Publishers, 2023
+Call No.: 745.403. LID
+Acc. No.: 036944
+
+LITERATURE
+Title: Eleventh hour: a quintet of stories
+Author: Rushdie, Salman
+Publisher: Gurugram: Hamish Hamilton, 2025
+Call No.: 823.92 RUS
+Acc. No.: 036960
+
+HISTORY
+Title: Beyond pots and pans: a study on Chalcolithic Balathal
+Author: Mishra, Anup
+Publisher: New Delhi: Aryan Books International, 2008
+Call No.: 930.1 MIS
+Acc. No.: 036957

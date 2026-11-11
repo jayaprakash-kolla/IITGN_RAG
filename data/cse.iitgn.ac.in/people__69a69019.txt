@@ -1,0 +1,32 @@
+Title: People
+Source: https://cse.iitgn.ac.in/people
+
+Computer Science & Engineering
+
+# People
+
+Find faculty, researchers, students, and staff in the department.
+
+## Faculty
+
+Core, affiliated, visiting, and guest faculty
+
+## Research Scholars
+
+Doctoral researchers in CSE and AI
+
+## Postdoctoral researchers
+
+Postdoctoral researchers and fellows
+
+## Staff
+
+Administrative and technical staff
+
+## Alumni
+
+Public alumni trajectories and achievements
+
+## Visitors
+
+Seminar visitors and invited speakers

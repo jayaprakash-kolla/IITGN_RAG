@@ -1,0 +1,10 @@
+#flags:
+
+National student competition on “Engineering Challenges in EV Safety
+The three winning teams are:
+1. 1st Prize - IIT Gandhinagar (Cash Prize Rs. 1,00,000)
+Team Members – Ruchit Chudasama, Aashu Singhal, Aman Raj
+2. 1st Runner Up - IIT (ISM) Dhanbad (Cash Prize Rs. 50,000)
+Team Members – Rameez Raza, Priyadarshini Das, Latika Verma
+3. 2nd Runner Up - Rajalakshmi Engineering College Chennai (Cash Prize Rs. 25,000)
+Team Members – Duraiarasu E, Ganesh Kumar C, Harihara Sudhan V

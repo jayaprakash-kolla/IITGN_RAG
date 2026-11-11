@@ -1,0 +1,48 @@
+Title: IIT Gandhinagar | Manoj D Gupta
+Source: https://iitgn.ac.in/faculty/cse/fac-manoj
+
+# Manoj D Gupta
+
+-  Computer Science & Engineering
+Manoj D Gupta
+
+## Manoj D Gupta
+
+Associate Professor, Computer Science and Engineering
+
+- BE: Veermata Jijabai Technology Institute, 2005
+- MTech: IIT Kanpur, 2009
+- PhD: IIT Delhi, 2013
+
+Email: gmanoj -AT- iitgn.ac.in
+
+ Website :  https://gmanoj.people.iitgn.ac.in
+
+Office:  AB 13/405D
+VOIP:  2494
+
+Maintaining Approximate Maximum Matching in an Incremental Bipartite Graph in Polylogarithmic Update Time, Manoj Gupta, FSTTCS 2015.
+
+Cell Design and Routing of Jobs in a Multisite Make-to-Order Enterprise, Manoj Gupta, J.C. Bose, Partha Dutta. Proceedings of the Twenty-Sixth International Conference on Automated Planning and Scheduling, ICAPS 2016.
+
+CAPReS: Context Aware Persona Based Recommendation for Shoppers. Joydeep Banerjee, Gurulingesh Raravi, Manoj Gupta, Sindhu K. Ernala, Shruti Kunde, Koustuv Dasgupta. Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence.
+
+Multiple Source Dual Fault Tolerant BFS Trees, Manoj Gupta and Shahbaz Khan, ICALP 2017.
+
+Improved Algorithm for Dynamic b-Matching. Sayan Bhattacharya, Manoj Gupta and Divyarthi Mohan,ESA 2017.
+
+Generic Single Edge Fault Tolerant Exact Distance Oracle. Manoj Gupta and Aditi Singh, ICALP 2018.
+
+On the Complexity of Optimal Matching Reconfiguration. Manoj Gupta, Hitesh Kumar and Neeldhara Misra, SOFSEM 2019.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Nov 2024 to present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Jan 2016 - Nov 2024)
+- Post-Doctoral Researcher, Xerox Research (2014 - 2016)
+- Software Engineer, Amdocs, Pune (2005 - 2007)
+
+- ● Dynamic graph algorithms
+- ● Streaming algorithms
+- ● Randomized algorithms
+- ● Data-structures
+
+Complete List of Publications

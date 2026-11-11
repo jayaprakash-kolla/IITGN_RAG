@@ -1,0 +1,30 @@
+Title: IIT Gandhinagar | Biranchinath Sahu
+Source: https://iitgn.ac.in/faculty/guestprof/biranchinath_sahu
+
+# Biranchinath Sahu
+
+-  Guest Professors
+Biranchinath Sahu
+
+## Biranchinath Sahu
+
+Guest Faculty, Electrical Engineering
+
+- BE: University College of Enginnering (VSSUT), Orissa, India, 1993-1997
+- MTech: Indian Institute of Technology, Kanpur, India 1998-2000
+- PhD: Georgia Institute of Technology, Atlanta, USA 2001-2004
+
+- B. Sahu and G.A. Rincon-Mora, “A high efficiency, linear RF power amplifier with a power-tracking, dynamically adaptive buck-boost supply,” IEEE Transactions on Microwave Theory and Techniques, vol. 52, no.1, pp.112-120, 2004.
+- B. Sahu and G.A. Rincon-Mora, “A low voltage, non-inverting, dynamic, synchronous buck-boost converter for portable applications,” IEEE Transactions on Power Electronics, vol. 19, no.2, pp.443-452, 2004.
+- B. Sahu and A.K. Dutta, “A fuzzy logic-based approach for parametric optimization of MOS operational amplifiers,” Microelectronics Journal, vol. 33, no. 2, pp. 253-264, 2002.
+- B. Sahu and G.A. Rincon-Mora, “An accurate pulse-frequency modulation-based CMOS switching power supply with adaptive on-time control,” IEEE Transactions on Circuits and Systems-I (TCAS-I), 2005.
+- B. Sahu and G.A. Rincon-Mora, “An efficient WCDMA power amplifier with dynamically adaptive power supply and bias current control CMOS ICs,” IEEE Transactions on Microwave Theory and Techniques, 2005.
+- B. Sahu and G.A. Rincon-Mora, “A low-voltage, high-efficiency, dual-mode, CMOS integrated buck-boost power supply solution for portable applications,” IEEE Transaction of Circuits and Systems-II (TCAS-II), 2008.
+
+Guest Faculty, Indian Institute of Technology, Gandhinagar (Sep 2023 – Present)
+
+Founder and CEO, Green Watt Semiconductor Private Limited, Bangalore, India (2022 – Sep 2023)
+
+Founder and CEO , Advanced Monolithic Semiconductor Private Limited, Bangalore, India (2020 – 2021)
+
+Senior Director of Engineering , Intel Corporation, Bangalore, India (2016 – 2020)

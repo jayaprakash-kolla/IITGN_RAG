@@ -1,0 +1,33 @@
+Title: IIT Gandhinagar | R. P. Chhabra
+Source: https://iitgn.ac.in/faculty/guestprof/r_p_chhabra
+
+# R. P. Chhabra
+
+-  Guest Professors
+R. P. Chhabra
+
+## R. P. Chhabra
+
+Guest Professor, Chemical Engineering
+Professor, Indian Institute of Technology, Kanpur
+
+- BE: University of Roorkee, 1974
+- ME: Indian Institute of Science, Bangalore, 1976
+- PhD: Monash University, 1980
+
+Email: [email protected] -AT- iitgn.ac.in
+
+ Website :  http://www.iitk.ac.in/che/rpc.htm
+
+- N. Nirmalkar, R. P. Chhabra and R. J. Poole, Numerical predictions of momentum and heat transfer characteristics from a heated sphere in yield stress fluids, Ind. Eng. Chem. Res., 52, 6848- (2013).
+- R. Shyam, C. Sasmal and R. P. Chhabra, Natural convection heat transfer from two vertically aligned circular cylinders in power-law fluids, International Journal of Heat & Mass Transfer, 64, 1127-1152 (2013).
+- R. Shyam, M. Sairamu, N. Nirmalkar and R. P. Chhabra, Free convection from a heated circular cylinder in confined power-law fluids, International Journal of Thermal Sciences, 74, 156-173 (2013).
+- S. Sivakumar, N. Nirmalkar and R. P. Chhabra, Effect of orientation on mixed convection from a heated square bar in Newtonian and power-law fluids, Numerical Heat Transfer, Part A, in press (2013).
+- N. Nirmalkar, R. P. Chhabra and R. J. Poole, Effect of shear-thinning behaviour on heat transfer from a heated sphere in yield-stress fluids, Ind. Eng. Chem. Res., 52, 13490-13504 (2013).
+- A. K. Tiwari and R. P. Chhabra, Effect of orientation on steady laminar free convection heat transfer in power-law fluids from a heated triangular cylinder, Numerical Heat Transfer, Part A, in press (2014).
+- S. A. Patel and R. P. Chhabra, Steady flow of Bingham plastic fluids past an elliptical cylinder, J. Non-Newt. Fluid Mechanics, in press (2013).
+- V. S. Nalajala, N. Kishore and R. P. Chhabra, Effect of contamination on the rise velocity of bubble swarms at moderate Reynolds numbers, Chem. Eng. Res. Des., in press (2013).
+
+- ● Fluid mechanics of multiphase systems
+- ● Non-Newtonian fluid-particle mechanics
+- ● Transport properties of molten salts and metals

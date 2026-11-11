@@ -1,0 +1,31 @@
+Title: IIT Gandhinagar | Ramesh Gaonkar
+Source: https://iitgn.ac.in/faculty/guestprof/ramesh_gaonkar
+
+# Ramesh Gaonkar
+
+-  Guest Professors
+Ramesh Gaonkar
+
+## Ramesh Gaonkar
+
+Guest Professor, Electrical Engineering
+
+- MSc: Bombay University, 1960
+- MS: Union College, Schenectady, New York, 1966
+- PhD: Syracuse University, Syracuse, New York, 1975
+
+Email: gaonkarr -AT- iitgn.ac.in
+
+ Website : b>
+
+- "Fundamentals of Microcontrollers and Applications in Embedded Systems", Thomson/ Delmar Learning, 2007.
+- "Microprocessor Architecture, Programming, and Applications (with 8085)", Prentice Hall, Fifth Edition, 2002 and Penram International Publishing -Asian Edition 2008.
+- "Z80 Microprocessor Architecture, Interfacing, Programming, and Design", Prentice Hall, Third Edition, 2001.
+
+- Visiting Professor, Indian Institute of Technology, Gandhinagar (Sep 2017 - present)
+- Professor Emeritus, Onondaga Community College, Syracuse, New York until 2017, Chairperson (1987 - 1990, 2006 - 2009)
+- Design Engineer, Fairchild and General Electric, New York (1963 - 1968)
+
+- ● Inter-disciplinary curriculum design and evaluation
+- ● Applications of microprocessor & microcontrollers
+- ● Designing embedded systems

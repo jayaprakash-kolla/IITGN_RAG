@@ -1,0 +1,44 @@
+Title: IIT Gandhinagar | Sesha Sai Behara
+Source: https://iitgn.ac.in/faculty/mse/fac-sesha-sai-behara
+
+# Sesha Sai Behara
+
+-  Materials Engineering
+Sesha Sai Behara
+
+## Sesha Sai Behara
+
+Assistant Professor, Materials Engineering
+
+- Dual degree (B. Tech + M. Tech): Indian Institute of Technology Madras, 2019
+- Ph.D.: University of California Santa Barbara, 2025
+
+Email: sesha.behara -AT- iitgn.ac.in
+
+Office:  AB 11/308C
+VOIP:  2437
+
+S.S. Behara and A. Van der Ven. “The Crucial Role of Vacancy Concentration in Enabling Superatomic Diffusion in Lithium Intermetallics.” ACS Energy Letters 10.4 (2025): 1772-1778.
+
+G.E. Garcia Ponte, S.S. Behara, E.N. Bassey, R.J. Clement, and A. Van der Ven. “A First-Principles Statistical Mechanics Study of Magnetic Fluctuations and Order-Disorder in the Spinel LiNi0.5Mn1.5O4 Cathode.” Chemistry of Materials 37.5 (2025): 1835-1846.
+
+Y. Jeon, D.J. Lee, H. Zheng, S.S. Behara, J. Lee, J. Wu, L. Zhang, Y. Chen, F. Li, W. Tang, D. Xu, J. Kim, A. Van der Ven, K. He, and Z. Chen. “Lithium Diffusion-Controlled LiAl Alloy Anode Design for All-Solid-State Battery.” Nature Communications 16.1 (2025): 9629.
+
+S.S. Behara, J. Thomas, and A. Van der Ven. “Fundamental Thermodynamic, Kinetic, and Mechanical Properties of Lithium and Its Alloys.” Chemistry of Materials 36.15 (2024).
+
+S.S. Behara and A. Van der Ven. “Role of Short-Range Order on Diffusion Coefficients in the Li–Mg alloy.” Chemistry of Materials 36.22 (2024): 11236-11245.
+
+Assistant Professor, Indian Institute of Technology Gandhinagar (May 2026 – Present)
+
+Postdoctoral Researcher, University of California Santa Barbara (July 2025 – April 2026)
+
+Awards
+
+- Steel Scholarship, Ministry of Steel, Government of India
+- OPJEMS scholar, O.P. Jindal group, India
+
+- ● Energy and Magnetic Materials
+- ● First-Principles based Thermodynamic and Kinetic Modeling
+- ● Computational Method Development and Machine Learning
+
+Complete List of Publications

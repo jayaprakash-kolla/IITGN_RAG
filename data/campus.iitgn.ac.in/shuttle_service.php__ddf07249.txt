@@ -1,0 +1,47 @@
+Title: Campus | IIT Gandhinagar
+Source: https://campus.iitgn.ac.in/shuttle_service.php
+
+### Institute Bus Schedule
+
+##### 56-Seater Bus
+
+| To Palaj |
+| From | Time |
+| IITGN Mess Parking | 7:00 AM |
+| IITGN Mess Parking | 8:30 AM |
+| IITGN Mess Parking | 9:30 AM |
+| IITGN Mess Parking | 4:30 PM |
+| IITGN Mess Parking | 5:45 PM |
+| IITGN Mess Parking | 6:45 PM |
+| IITGN Mess Parking | 7:45 PM |
+| IITGN Mess Parking | 9:30 PM |
+
+| To IITGN |
+| From | Time |
+| Kudasan | 7:30 AM |
+| Kudasan | 9:00 AM |
+| Kudasan | 10:00 AM |
+| Kudasan | 5:00 PM |
+| Kudasan | 6:15 PM |
+| Kudasan | 7:15 PM |
+| Kudasan | 8:15 PM |
+| Kudasan | 10:30 PM |
+
+##### 29-Seater Bus
+
+| From IITGN |
+| From | Time |
+| IITGN Mess Parking | 6:30 PM |
+| IITGN Mess Parking | 7:30 PM |
+| IITGN Mess Parking | 8:30 PM |
+
+| From Kudasan |
+| From | Time |
+| Kudasan | 7:00 PM |
+| Kudasan | 8:00 PM |
+| Kudasan | 10:30 PM |
+ Download Institute Bus Schedule (PDF)
+
+### Jeet Royal Hostel Bus Schedule
+
+ Download Jeet Royal Hostel Bus Schedule (PDF)

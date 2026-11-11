@@ -1,0 +1,38 @@
+Title: IIT Gandhinagar | Joycee M. Mekie
+Source: https://iitgn.ac.in/faculty/ee/fac-joycee
+
+# Joycee M. Mekie
+
+-  Electrical Engineering
+Joycee M. Mekie
+
+## Joycee M. Mekie
+
+Professor, Electrical Engineering (Affiliated to Discipline of Computer Science and Engineering)
+
+- BE: M. S. University of Baroda, 1997
+- ME: M. S. University of Baroda, 1999
+- PhD: IIT Bombay, 2009
+
+Email: joycee -AT- iitgn.ac.in
+
+ Website :  https://joycee-mekie.github.io/Webpage
+
+Office:  AB 13/327C
+VOIP:  2409
+
+- PANE: Pluggable Asynchronous Network-on-Chip Simulator SN Ved, S Singh, J Mekie ACM Journal on Emerging Technologies in Computing Systems (JETC) 15 (1), 7.
+- Energy efficient single-ended 6-T SRAM for multimedia applications N Surana, J Mekie IEEE Transactions on Circuits and Systems II: Express Briefs.
+- RH-Blade: a radiation hardened asynchronous bundled-data design SA Aketi, S Gupta, H Cheng, J Mekie, P Beerel.
+- Single-error hardened and multiple-error tolerant guarded dual modular redundancy technique SA Aketi, J Mekie, H Shah 2018 31st International Conference on VLSI Design and 2018 17th International Conference on Embedded Systems (VLSID).
+- Impact of variations on synchronizer performance: an experimental study J Mekie, P Mukim, K Kale 2018 31st International Conference on VLSI Design and 2018 17th International Conference on Embedded Systems (VLSID).
+
+- Professor, Indian Institute of Technology, Gandhinagar (Jun 2026 to present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Oct 2021 to Jun 2026)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar, (Dec 2009 - Oct 2021)
+- Assistant Professor, Electrical Engg. Dept. M. S. University of Baroda, (Jun 2007 - Dec 2009)
+
+- ● Approximate computing
+- ● Low power SRAM
+- ● Radiation hardened systems
+- ● Asynchronous design

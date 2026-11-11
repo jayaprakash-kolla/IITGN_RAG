@@ -1,0 +1,111 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 17, 2026
+(Added during 20th April 2026– 24th April 2026)
+Available for the issue from 02nd May 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Microcomputer system design: an advanced course
+Author: Flynn, Michael J. (Ed.)
+Publisher: Berlin, Heidelberg: Springer-Verlag, 1982
+Call No.: 004.16 FLY
+Acc. No.: 036930
+
+Title: Computer architecture: a quantitative approach, 7th ed.
+Author: Hennessy, John L
+Publisher: Cambridge: Morgan Kaufmann Publishers, 2026
+Call No.: 004.22 HEN
+Acc. No.: 036927
+
+Title: Intermediate Python and large language models
+Author: Grigorov, Dilyan
+Publisher: New York: Apress, 2025
+Call No.: 006.3 GRI
+Acc. No.: 036928
+
+Title: What and how of modelling information and knowledge: from mind maps
+to ontologies
+Author: Keet, C. Maria
+Publisher: Cham: Springer, 2023
+Call No.: 006.3 KEE
+Acc. No.: 036931
+
+PSYCHOLOGY
+Title: Uncertainty toolkit: how to feel calmer, happier and more confident in an
+uncertain world
+Author: Conniff, Sam
+Publisher: Dublin: Bluebird, 2026
+Call No.: 158.1 CON
+Acc. No.: 036932
+
+LAW
+Title: Introduction to data protection law: cases and materials from the EU
+Author: Gupta, Indranath
+Publisher: Singapore: Springer, 2024
+Call No.: 342.40858 GUP
+Acc. No.: 036929
+
+Title: Generative artificial intelligence: a law and economics approach to optimal
+regulation and governance
+Author: Kovač, Mitja
+Publisher: Switzerland: Palgrave Macmillan, 2024
+Call No.: 343.099 KOV
+Acc. No.: 036923
+
+SCIENCE
+Title: Decolonizing science and modernity in South Asia: questioning concepts,
+constructing histories
+Author: Ahmed, Sahara (Ed.)
+Publisher: Singapore: Springer, 2024
+Call No.: 509.54 AHM
+Acc. No.: 036925
+Title: Nonlinear dynamics and chaos: with applications to physics, biology,
+chemistry, and engineering, 3rd ed.
+Author: Strogatz, Steven H
+Publisher: Boca Raton: CRC Press, 2024
+Call No.: 515.35 STR
+Acc. No.: 036926
+
+PHYSICS
+Title: Feynman integrals: a comprehensive treatment for students and
+researchers
+Author: Weinzierl, Stefan
+Publisher: Cham: Springer, 2022
+Call No.: 530.143 WEI
+Acc. No.: 036924
+Title: Introduction to many-body physics
+Author: Coleman, Piers
+Publisher: Cambridge: Cambridge University Press, 2015
+Call No.: 530.41 COL
+Acc. No.: 036919
+
+Title: Effective field theories
+Author: Meißner, Ulf-G
+Publisher: New York: Cambridge University Press, 2022
+Call No.: 539.7 MEI
+Acc. No.: 036920
+
+HISTORY
+Title: Ancient port of Arikamedu: new excavations and researches 1989-1992;
+Vol. 1
+Author: Begley, Vimala
+Publisher: Pondicherry: École française d’Extrême Orient, 1996
+Call No.: 937 BEG
+Acc. No.: 036921
+Title: Ancient port of Arikamedu: new excavations and researches 1989-1992;
+Vol. 2
+Author: Begley, Vimala
+Publisher: Paris: École française d’Extrême-Orient, 2004
+Call No.: 937 BEG
+Acc. No.: 036922

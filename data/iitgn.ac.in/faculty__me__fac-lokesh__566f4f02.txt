@@ -1,0 +1,50 @@
+Title: IIT Gandhinagar | Lokesh Malik
+Source: https://iitgn.ac.in/faculty/me/fac-lokesh
+
+# Lokesh Malik
+
+-  Mechanical Engineering
+Lokesh Malik
+
+## Lokesh Malik
+
+Assistant Professor, Mechanical Engineering
+
+- BTech: Kalasalingam University, Tamil Nadu, 2012
+- MTech: Indian Institute of Technology Madras, 2015
+- PhD: Indian Institute of Technology Madras, 2024
+
+Email: lokesh.m -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/view/lokeshlab/
+
+Office:  AB11/310A
+VOIP:  +91 79 2395 2647
+
+Malik, L., Sharadhi, N., Lamminmäki, M., Lara, R. A., Jokinen, V., Backholm, M. “Living Droplets with Mesoscale Swimmers” arXiv:2509.20005, 2025. https://doi.org/10.48550/arXiv.2509.20005
+
+Malik, L., Nath, A., Nandy, S., Laurell, T., Sen, A. K. “Acoustic particle trapping driven by primary radiation force in shaped traps”, Phys. Rev. E 105, 035103 (2022). https://doi.org/10.1103/PhysRevE.105.035103
+
+Malik, L., Nandy, S., Satpathi, N. S., Ghosh, D., Laurell, T., Sen, A. K. “Ultrasound reforms droplets”, Lab on a Chip 24, 4649-4658 (2024). https://doi.org/10.1039/D4LC00507D
+
+Hazra, S., Malik, L., Sujith, T.*, Sen, A. K. “Interfacial instability in a viscoelastic microfluidic coflow system”, Journal of Fluid Mechanics 1000, A96 (2024). https://doi.org/10.1017/jfm.2024.993
+
+Sujith, T., Malik, L., Sen, A. K. “Fluid viscoelasticity affects ultrasound force field-induced particle transport”, Journal of Fluid Mechanics 1000, A75 (2024). https://doi.org/10.1017/jfm.2024.965
+
+- Assistant Professor, IIT Gandhinagar (Nov 2025 – Present)
+- Postdoctoral Fellow, Department of Applied Physics, Aalto University, Finland (Oct 2024 – Oct 2025)
+- Lecturer, TIME Institute (GATE), Delhi (April 2016 – Dec 2018)
+
+Awards
+
+- Recipient of PMRF fellowship (2020)
+- Secured 10 out of 10 CGPA during PhD
+- GATE 2013 All India Rank 411 (99.75 percentile)
+- International Travel Grant (2023), DST-SERB, Govt. of India
+- Best Oral Presentation Award, ICOM 2023
+
+- ● Microfluidics (Experimental Fluid Mechanics)
+- ● Biophysics of Living and Soft Matter
+- ● Microscale Acoustofluidics
+- ● Droplet Microfluidics and Interfacial Phenomena
+- ● Lab-on-a-chip systems

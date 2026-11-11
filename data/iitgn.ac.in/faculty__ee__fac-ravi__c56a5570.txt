@@ -1,0 +1,42 @@
+Title: IIT Gandhinagar | Ravi S. Hegde
+Source: https://iitgn.ac.in/faculty/ee/fac-ravi
+
+# Ravi S. Hegde
+
+-  Electrical Engineering
+Ravi S. Hegde
+
+## Ravi S. Hegde
+
+Associate Professor, Electrical Engineering
+
+- BE: National Institute of Technology, Suratkal, 2001
+- MS: University of Southern California, Los Angeles, 2002
+- PhD: University of Michigan, Ann Arbor, 2008
+
+Email: hegder -AT- iitgn.ac.in
+
+Office:  AB 13/322B
+VOIP:  2486
+
+- Goyal M., Rajpura P., Bojinov H., Hegde R. "Dataset Augmentation with Synthetic Images Improves Semantic Segmentation." In: Rameshan R., Arora C., Dutta Roy S. (eds) Computer Vision, Pattern Recognition, Image Processing, and Graphics. NCVPRIPG 2017. Communications in Computer and Information Science, vol 841. Springer, Singapore, 2018.
+- Param Rajpura, Alakh Aggarwal, Manik Goyal, Sanchit Gupta, Jonti Talukdar, Hristo Bojinov, Ravi Hegde, "Transfer Learning by Finetuning Pretrained CNNs Entirely with Synthetic Images." In: Rameshan R., Arora C., Dutta Roy S. (eds) Computer Vision, Pattern Recognition, Image Processing, and Graphics. NCVPRIPG 2017. Communications in Computer and Information Science, vol 841., pp 348-359, Springer, Singapore, 2018.
+- Ravi Hegde, S. Khatua, "Hot-carrier Generation in Plasmonic Nanostructures: Physics and Device Applications" to appear in "Nanoelectronics: Devices, Circuits and Systems, Editor: Brajesh Kumar Kaushik, Advanced Nanomaterials book series, Elsiever Publishers., 2018.
+- Ravi Hegde, "Nanophotonics for Structural Coloration", in Nanophotonics and Plasmonics: An Integrated View, Editors: Ching Eng Png, Yuriy Akimov, Series in Optics and Optoelectronics, Taylor and Francis CRC Press, ISBN 9781498758673 - CAT# K27654, 2017.
+
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Oct 2021 to present)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (July 2015 - Oct 2021)
+- Scientist, Institute of High Performance Computing, Singapore (2012 - 2015)
+- Research Engineer, Institute of High Performance Computing, Singapore (Jan 2009 - 2012)
+- Research Assistant, University of Michigan (Jan 2003 - Dec 2008)
+- Teaching Assistant, University of Michigan (Sep 2002 - Jan 2003)
+- Teaching Assistant, University of Southern California (Sep 2001 - Sep 2002)
+
+- ● Computational photonics
+- ● Nanophotonics
+- ● Silicon photonics
+- ● Nanoelectronics
+- ● High performance computing
+- ● Deep learning for science and engineering
+
+Complete List of Publications

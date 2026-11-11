@@ -1,0 +1,4622 @@
+#flags:
+
+CENTER FOR CREATIVE LEARNING IIT
+GANDHINAGAR
+
+HIGHER
+ORDER
+THINKING
+Make Science and
+Math Come Alive
+
+.
+
+ing
+
+ro
+
+nte
+
+T
+
+t II
+
+t
+
+lla
+
+sic
+
+de
+
+,A
+
+fX
+
+o
+er
+
+o
+Ge
+
+ta
+Ins
+
+a
+ion
+
+ow
+
+*P
+
+HOT’S
+
+GN
+
+By
+
+th
+
+e
+eC
+
+e
+
+tiv
+
+ea
+
+r
+fC
+
+rn
+lea
+
+ABOUT CCL
+In these changing times we need to re-imagine our education. We need to
+make our classes engaging, provide experiential learning, foster creativity/innovation and focus on concepts. This is the only way forward for us
+to face the future that lies ahead. We need to get out of rote learning and
+provide experiences to children that they can relate to in the classes. This
+can be achieved by inspired teachers/facilitators, experiential learning with
+deep understanding of concepts.
+Center for Creative Learning (CCL) at IIT Gandhinagar was set up in 2017
+to bring back the gleam in the eyes of our children and teachers. The goal
+was to create and disseminate science/math content which will make learning engaging, joyous and conceptual. All this would be done with inexpensive material so that every child can have access. Since its inception,
+we have developed 200+ hands-on activities, conducted over 50 hands-on
+experiential workshops with 6000+ teachers. The idea of these workshops
+was to expose the teachers to the power of hands-on learning. The feedback
+from the teachers has been overwhelming.
+We have worked with Kendriya Vidyalaya (KV) teachers from across the
+country, teachers of Chhattisgarh, Maharashtra, Ahmedabad Municipal
+Corporation. All the teachers unanimously stressed on the need to provide
+this experience to every teacher across the country. We also realize a great
+need to scale our workshops and reach out to all the teachers of the country.
+This reach is possible using technology.
+2
+
+CONTENTS
+
+PLATONIC SOLIDS
+5
+•
+TETRAHEDRON
+8
+•
+CUBE
+10
+•
+OCTAHEDRON
+13
+•
+DODECAHEDRON
+15
+•
+ICOSAHEDRON
+17
+CIRCLING AROUND A GEAR
+21
+MECHANICAL FROG
+27
+SWIMMING FROG
+32
+UP IT UP
+39
+TILT STICK
+43
+TRAMMEL 4
+51
+TRAMMEL 6
+56
+30 BALL(RHOMBIC TRIACONTAHEDRON)
+61
+CHITTI65
+ABC OF MATH (ANY BASE COUNTING) 
+73
+BRACHISTOCHRONE CURVE
+77
+GEAR JACK
+81
+HAMILTONIAN PATH
+93
+LARGEST BOX FROM A RECTANGLE
+100
+REAULEUX CAR
+104
+MONTY HALL PUZZLE
+110
+LEVER SYSTEM
+118
+OPTICAL BENCH
+123
+PERISCOPE132
+SINE WAVE CAR
+136
+TRIANGULAR WAVE CAR
+144
+CYCLOID CAR
+153
+STRAIGHT LINE DRAWER
+160
+VERTICAL PEN STAND
+166
+PULLEY SYSTEM
+169
+GEAR LAMP
+179
+DUAL OF CUBE
+201
+DUAL OF OCTAHEDRON
+204
+3
+
+DUAL OF TETRAHEDRON
+208
+DUAL OF DODECAHEDRON
+211
+DUAL OF ICOSAHEDRON
+214
+ARCHIMEDEAN SOLIDS (13)
+217
+•
+TRUNCATED TETRAHEDRON
+219
+•
+TRUNCATED CUBE
+222
+•
+TRUNCATED OCTAHEDRON
+225
+•
+TRUNCATED DODECAHEDRON
+228
+•
+TRUNCATED ICOSAHEDRON
+231
+•
+CUBOCTAHEDRON
+234
+•
+RHOMBICUBOCTAHEDRON
+237
+•
+RHOMBICOSIDODECAHEDRON
+241
+•
+TRUNCATED CUBOCTAHEDRON
+245
+•
+ICOSIDODECAHEDRON
+249
+•
+TRUNCATED ICOSIDODECHAHEDRON
+253
+•
+SNUB CUBE
+257
+•
+SNUB DODECAHEDRON
+261
+NON-TRANSITIVE DICE
+265
+STACK IT UP
+270
+HANDSHAKE 
+273
+PUZZLE273
+RING ROPE PUZZLE
+276
+ARROW SLIDING PUZZLE
+281
+3 PYRAMIDS TO CUBE
+284
+6 PYRAMIDS TO CUBE
+287
+
+4
+
+PLATONIC SOLIDS
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex
+Edges
+Faces of
+Polyhedron
+Named after the Greek philosopher Plato, a platonic solid is
+constructed by congruent (identical in shape and size) regular (all angles equal and all sides equal) polygonal faces
+with the same number of faces meeting at each vertex. The
+interesting thing about Platonic solids is that only 5 solids
+meet these two criteria - Tetrahedron, Hexahedron, Octahedron, Icosahedron and Dodecahedron.
+
+5
+
+WHAT’S GOING ON?
+1. It is also interesting that despite having only two constraints- congruent regular faces with same number of
+faces meeting at each vertex- there are only five such
+solids.
+2. Let's start with the simplest polygon - triangle. Join three
+triangles at all vertices which is the minimum number
+required to get a closed shape. The shape you get is a
+tetrahedron.
+3. With four triangles at a point, you get an octahedron.
+With five, an icosahedron.
+4. If you try to make a solid with 6 triangles at a vertex,
+you would find that you can't make a closed solid as
+the shape becomes flat (60° of equilateral triangle x 6
+= 360°).
+5. With more than 7 triangles, the total angle at a vertex
+becomes more than 360 and you can't get a convex solid.
+6. So there are 3 platonic solids using triangles. Next, take
+the four sided regular polygon, a square.
+7. With 3 squares at a point, you get a cube. Place four
+squares at a vertex and the shape again becomes flat
+(90° × 4 = 360°). With more than 4 squares at a point,
+you get angle more than 360 degrees.
+8. Now, using 3 pentagons at a vertex, you get a dodecahedron. With 4 pentagons at a vertex, the angle becomes
+more than 360° (108° × 4 = 432°)
+9. If you use 3 hexagons at a point, the shape becomes flat
+again (120° × 3 = 360°).
+10. And that's it. We have proved that there can only exist
+five!
+
+6
+
+EXPLORE
+The Platonic solids have been known since antiquity. In
+the 16th century, the German astronomer Johannes Kepler
+attempted to relate the five extraterrestrial planets known
+at that time to the five Platonic solids. He proposed a model of the Solar System in which the five solids were set
+inside one another and separated by a series of inscribed
+and circumscribed spheres. Kepler's original idea had to
+be abandoned, but out of his research came his three laws
+of orbital dynamics, the first of which was that the orbits of
+planets are ellipses rather than circles, changing the course
+of physics and astronomy.
+
+7
+
+TETRAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex
+Edges
+Faces of
+Polyhedron
+Tetrahedron is the simplest of all the Platonic solids. It is formed by joining three triangles at each
+vertex. The bond of carbon atoms (for example, in CH4) is arranged in a tetrahedral geometry.
+WHAT’S GOING ON?
+A tetrahedron has four triangular faces (tetra - 4, hedronfaces)
+Total vertices for these 4 triangles - 4 × 3 = 12.
+As three triangles are joined at each vertex of tetrahedron,
+total vertices of tetrahedron = 12/3 = 4.
+Total edges for 4 triangles = 4 × 3 = 12.
+As two triangles of tetrahedron share the same edge, total
+edges of tetrahedron = 12/ 2 = 6.
+
+8
+
+1
+
+2
+
+3
+
+4
+
+5
+
+9
+
+CUBE
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex
+Edges
+Faces of
+Polyhedron
+
+Cube is the most famous Platonic solid which is formed
+by joining three squares at each vertex.
+WHAT TO DO?
+Take out the pieces from the flat sheet given.
+Use the given joints to and rubberbands to attach the
+squares at 90 degrees to compleat the cube.
+WHAT’S GOING ON?
+1. A cube, also called hexahedron, has six square faces
+(hexa - 6, hedron- faces)
+2. Total vertices for these 6 squares - 6 × 4 = 24.
+3. As three square are joined at each vertex of cube, total
+vertices of cube = 24/3 = 8.
+4. Total edges for 6 squares = 6 × 4 = 24.
+5. As two squares of cube share the same edge, total edges of cube = 24/ 2 = 12.
+10
+
+EXPLORE
+The solid obtained by joining the center of the faces of
+a polyhedron is called its dual structure. If you join the
+center of the faces of a cube, you get a structure called octahedron which is another Platonic solid. This means that
+the dual of a cube is octahedron.
+For any two dual structures, the number of faces and vertices is swapped, and the number of edges is same.
+FACES
+
+VERTICES
+
+EDGES
+
+SOLID
+
+6
+
+8
+
+12
+
+DULE
+
+8
+
+6
+
+12
+
+11
+
+1
+
+22
+
+43
+
+4
+
+5
+
+12
+
+OCTAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex
+Edges
+Faces of
+Polyhedron
+Octahedron is one of the Platonic solids which is formed
+by joining 4 triangles at each vertex.
+WHAT’S GOING ON?
+1. An octahedron has eight triangular faces (octa - 8, hedron- faces)
+2. Total vertices for these 8 triangles: 8 × 3 = 24.
+3. As four triangles are joined at each vertex of octahedron, total vertices of octahedron = 24/4 = 6.
+4. Total edges for 8 triangles = 8 × 3 = 24.
+5. As two triangles of octahedron share the same
+edge, total edges of octahedron = 24/ 2 = 12
+EXPLORE
+1. Can you see three squares in the octahedron in three
+perpendicular planes?
+13
+
+1
+
+2
+
+3
+
+4
+
+5
+
+14
+
+DODECAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex
+Edges
+Faces of
+Polyhedron
+Dodecahedron is one of the Platonic solids which is
+formed by joining three pentagons at each vertex.
+WHAT’S GOING ON?
+A dodecahedron has four twelve pentagonal faces (dodeca - 12, hedron- faces)
+Total vertices for these 12 pentagons - 12 × 5 = 60
+As three pentagons are joined at each vertex of dodecahedron, total vertices of dodecahedron = 60/3 = 20.
+Total edges for 12 pentagons = 12 × 5 = 60.
+As two pentagons of dodecahedron share the same
+edge, total edges of dodecahedron = 60/ 2 = 30.
+
+15
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+16
+
+ICOSAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex
+Edges
+Faces of
+Polyhedron
+Icosahedron is one of the Platonic solids which is formed by
+joining five triangles at each vertex. It is one of the most beautiful Platonic solids, which resembles a ball. Icosahedron is
+the structure on which the Geodesic domes (popularized by
+Buckminster Fuller) are based.
+WHAT’S GOING ON?
+1. An icosahedron has twenty triangular faces (icosa - 20, hedron- faces)
+2. Total vertices for these 20 triangles: 20 × 3 = 60.
+3. As five triangles are joined at each vertex of icosahedron,
+total vertices of octahedron = 60/5 = 12.
+4. Total edges for 20 triangles = 20 × 3 = 60.
+5. As two triangles of icosahedron share the same
+edge, total edges of icosahedron = 60/ 2 = 30
+
+17
+
+EXPLORE
+The solid obtained by joining the center of the faces of
+a polyhedron is called its dual structure. If you join the
+center of the faces of an icosahedron, you get a structure
+called dodecahedron which is another Platonic solid. This
+means that the dual of an icosahedron is dodecahedron.
+For any two dual structures, the number of faces and
+vertices is swapped, and the number of edges is same.
+FACES
+
+VERTICES
+
+EDGES
+
+SOLID
+
+20
+
+12
+
+30
+
+DUEL
+
+12
+
+20
+
+30
+
+18
+
+1
+
+2
+2
+
+4
+3
+
+4
+
+5
+
+19
+
+6
+
+7
+
+8
+
+20
+
+CIRCLING AROUND A
+GEAR
+LEARNINGS
+Gear Ratio
+
+If
+you
+rotate a
+coin around a fixed
+coin of the same diameter, how many times
+would it rotate to cover the perimeter once?
+Rotate the gears and get ready to be amazed!
+
+WHAT TO DO?
+1. Connect two gears such that the first gear is fixed and
+the second gear revolves around it.
+2. Keep the first gear fixed and rotate the second gear
+around the first gear. Observe the number of rotation
+the second has complete on its own axis when it completes one rotation around the first gear.
+3. Now, connect a third gear with the second gear.
+4. Observe the number of rotations of the third gear.
+21
+
+WHAT’S GOING ON?
+1. The first gear is fixed at one place and the second and
+third gears revolve around it.
+2. If the second gear is half in size as compared to the
+first gear, the number of teeth in second gear are half
+of that in first gear.
+3. If these two gears were fixed at one place, the second
+gear would have rotated twice as much as the first gear.
+4. The second gear is also going around the first gear. As
+the direction of rotation and revolution is same, the
+total rotations of the second gear in a single journey
+around the first gear: 2+1 = 3.
+5. This means that the second gear rotates three times in
+one revolution around the first gear.
+6. The third gear also goes around the first gear. In this
+case, the direction of rotation and revolution is opposite. Therefore, total number of rotations: -2 + 1 = -1.
+7. This means that the third gear rotates one time in one
+revolution around the first gear, and in opposite direction.
+8. If the size of first and third gears becomes same, the
+third gear doesn’t rotate at all (-1 + 1 = 0).
+
+EXPLORE
+What happens if you add a fourth, fifth gear and so on. Can
+you generalize this for n gears?
+
+22
+
+1
+
+3
+
+2
+
+4
+
+5
+
+23
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+24
+
+12
+
+13
+
+14
+
+15
+
+16
+
+25
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+26
+
+MECHANICAL FROG
+LEARNINGS
+Walking
+Machine
+Distance
+Speed
+Time
+DC Motor
+Circular to
+Linear Motion
+Dynamic
+Mechanism
+
+A DC motor and some MDF parts is what it takes to get
+this mechanical frog hopping and the maker hopping
+right behind it, treating it almost like a pet.
+WHAT’S GOING ON?
+1.
+
+With every rotation of the motor, the frog moves forward for a small distance.
+2. When the frog-shaped pieces touch the ground, they
+act like an anchor and the body of the frog moves forward.
+3. In the next cycle, the body touches the ground and the
+frog-shaped pieces are displaced forward.
+4. This cycle repeats and the frog keeps hopping forward!
+
+27
+
+EXPLORE
+How much does each leg move in one step (in terms of the
+radius of the gear)?
+Organize a race for different frogs (you can also make other frogs by cutting card board in shapes given in the MDF
+sheet.)
+
+28
+
+1
+
+2
+
+3
+
+4
+
+5
+
+29
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+30
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+31
+
+SWIMMING FROG
+LEARNINGS
+Mechanics
+Gears
+
+The frog looks like swimming when you roll the wheels
+forward. It is a fascinating toy which is really simple to
+build. The hands and legs are attached to the wheels and
+move back and forth when the wheels rotate.
+WHAT’S GOING ON?
+The legs of the frog are connected to the rear wheel
+such that when you push the frog forward, the legs
+make a linear motion. They move forward and backward, mimicking the swimming movement of legs.
+So circular motion is converted into linear motion. The
+legs, in turn, are connected to the hands which also move
+when you move the frog. And the frog looks like swimming on the floor.
+EXPLORE
+Make similar toys using cardboard. Cut out the pieces and
+make different motions.
+32
+
+1
+
+2
+
+3
+
+4
+
+5
+
+33
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+34
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+35
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+36
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+37
+
+30
+
+31
+
+32
+
+33
+
+38
+
+UP IT UP
+LEARNINGS
+Critical
+Thinking
+Logical
+Reasoning
+Permutation
+Combination
+Spatial
+Cognition
+
+This is an beautiful puzzle with 8 cubes. The aim of the
+puzzle is to invert all the cubes upside down by just rolling
+them. It was discussed in Martin Gardner’s Mathematical Games column in the Scientific American in 1975.
+WHAT TO DO?
+The puzzle consists of eight identical cubes in a 3 x 3
+grid with an empty middle cell. You can roll a cube at
+a time into the empty space. A move consists in rolling
+a cube to an empty cell and the aim is to invert all eight
+cubes upside down. In how many moves you can solve
+this puzzle?
+
+39
+
+WHAT’S GOING ON?
+1. The creator of the puzzle, John Harris, has reported a
+38-move solution to this puzzle.
+2. In reference to the empty cell, the cubes are named up,
+down left and right (U, D, L, R).
+3. Roll the cubes according to the sequence given below:
+URDL, DRUL, LDRR, UULD, RUL; LDR, ULDD,
+RRUL, LDRU, LURD.
+EXPLORE
+1.
+
+Each cube has 6 sides. Therefore eight cubes have 68
+= 1,679,616 possible orientations. In the 3×3 grid, possible number of positions will be 9 × 68 = 15,116,544.
+This is the possible number of orientations you can
+have with the 8 cubes!
+2. Try to find a solution having moves lesser than the given solution (of 38 moves).
+
+40
+
+1
+
+21
+
+4
+3
+
+4
+
+5
+
+41
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+42
+
+TILT STICK
+LEARNINGS
+Geometry
+Trigonometry
+
+Can a straight stick pass through a small curved slot? In
+this activity, you can make a rotating mechanism which
+lets the straight stick pass through a hyperbolic slot. The
+stick is tilted according to the curvature of the hyperbola.
+It is extremely satisfying to watch the stick pass through!
+WHAT’S GOING ON?
+The stick passes through the hole, but not all at the same
+time. First the bottom part goes in, and then gradually
+the entire stick passes through the hole. If the entire stick
+had to pass through at the same time, the hole had to be
+a straight line. But as different parts of the stick pass at
+different times, the hole is a curved slot.
+
+43
+
+EXPLORE
+1. The projection of a line on a plane is generally a line,
+and not a curve. Because the stick is slightly tilted and
+generates a shape called hyperboloid while rotating.
+The projection of this hyperboloid on a plane is a hyperbola. Therefore the hole you see is in the shape of
+a hyperbola.
+2. Although hyperboloid is a (doubly) curved surface, it
+can be made entirely with the help of straight lines.
+
+HYPERBOLOID
+
+44
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+45
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+46
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+47
+
+19
+
+20
+
+21
+
+22
+
+23
+
+48
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+49
+
+30
+
+50
+
+TRAMMEL 4
+LEARNINGS
+Ellipse
+Four Bar
+Mechanism
+
+You can draw an ellipse using this trammel of Archimedes.
+The two shuttles move back and forth in perpendicular
+channels and the end point of handle moves in an ellipse.
+WHAT’S GOING ON?
+1. A trammel is a mechanism that generates the shape
+of an ellipse. Archimedes developed this great device
+2000 years back to draw an ellipse.
+2. It consists of two shuttles which are confined (“trammeled”) to channels (or rails) and a rod which is attached to the shuttles at fixed positions along the rod.
+3. As the shuttles move back and forth, each along its
+channel, the end of the rod moves in an elliptical path.
+4. The handle goes round and round. The pieces look like
+they would crash into each other but they never do.
+5. It is also similar to the motion of a 4-stroke engine and
+crankshaft.
+51
+
+EXPLORE
+1. You can change the shape of the ellipse (called the eccentricity) by moving the point where the pen is attached. Can you find out the point where the pen would
+draw a circle?
+2. You can also prove mathematically that the locus of the
+pen is an ellipse.
+x = (p+q) cosΘ
+y = q sinΘ
+Therefore, x2 / (p+q)2 + y2/q2 = 1
+3. It is also an example of a lever that switches back and
+forth from a first class lever to a second class lever.
+
+y
+
+C
+q
+
+B
+
+θ
+
+D
+
+p
+
+A
+
+52
+
+θ
+
+E
+
+x
+
+1
+
+3
+
+2
+
+53
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+54
+
+10
+
+11
+
+12
+
+13
+
+55
+
+TRAMMEL 6
+LEARNINGS
+Ellipse
+Six Bar
+Mechanism
+
+This is another version of the trammel of Archimedes. It
+has three shuttles instead of two which move in different
+channels to produce an ellipse.
+
+56
+
+WHAT’S GOING ON?
+1. A trammel is a mechanism that generates the shape
+of an ellipse. Archimedes developed this great device
+2000 years back to draw an ellipse.
+2. It consists of three shuttles which are confined (“trammeled”) to channels (or rails) and a rod which is attached to the shuttles at fixed positions along the rod.
+3. As the shuttles move back and forth, each along its
+channel, the end of the rod moves in an elliptical path.
+4. The handle goes round and round. The pieces look like
+they would crash into each other but they never do.
+It is also similar to the motion of a 6-stroke engine and
+crankshaft.
+EXPLORE
+1. The shuttles move along three axes. There is a major
+axis and other two are at offset of 120°. Can you identify which one is the major axis?
+2. It is also an example of a lever that switches back and
+forth from a first class lever to a second class lever.
+
+57
+
+1
+
+3
+
+2
+
+58
+
+4
+
+5
+
+6
+
+7
+
+8
+
+59
+
+14
+
+15
+
+16
+
+60
+
+30 BALL
+
+(RHOMBIC TRIACONTAHEDRON)
+
+LEARNINGS
+Polyhedrons
+3D Geometry
+Dihedral Angle
+
+The rhombic triacontahedron is the most common thirty-faced polyhedron. Therefore it is sometimes called the
+30 Ball. All the 30 faces of this ball are rhombuses. Make
+this ball using the sheet and study all the properties.
+Then insert a light bulb and hang it as lamp!
+
+61
+
+WHAT’S GOING ON?
+1. This structure can be made starting from one of the
+platonic solids, dodecahedron.
+2. Make pyramids on the pentagonal faces of dodecahedron and adjust the height of pyramids such that the
+two adjacent triangles come in same plane (total number of triangles formed = 12 × 5 = 60)
+3. The two triangles, combined together, make a rhombus (number of rhombuses = 60/2 = 30). The resulting
+structure is the Rhombic Triacontahedron.
+4. It is a polyhedron with 30 rhombic faces, 60 edges and
+32 vertices of two types.
+5. The two diagonals of the rhombus are in golden ratio,
+φ. Therefore the rhombus is called a golden rhombus.
+EXPLORE
+1. The dihedral angle is the angle between the faces of the
+polyhedron. It is the angle at which the joints to join
+the rhombuses are cut. In this case, the dihedral angle
+between the adjacent faces is 144°. Can you get to this
+dihedral angle using geometry?
+2. Find the height of the pyramids if the sides of the
+rhombus is taken as 1 unit length.
+
+62
+
+1
+
+2
+
+3
+
+63
+
+4
+
+51
+
+6
+
+7
+
+8
+
+9
+
+64
+
+CHITTI
+LEARNINGS
+Walking
+Machine
+Distance
+Time and Speed
+DC Motor
+Mechatronics
+Circular to
+Linear Motion
+Dynamic
+Mechanism
+
+Using only a simple DC motor and some gears, your robot
+is ready to walk like a human! The name is taken from the
+famous Rajnikanth movie “Robot” in which he played a
+robot named Chitti!
+
+65
+
+WHAT’S GOING ON?
+The two legs of the robot move alternatively and the body of the robot moves forward.
+The motor used in the robot is a dual shaft motor, which means that the shaft is coming out of both
+the ends of the motor. The two ends of the shaft are
+attached to the two gears rotating different legs.
+The alternate movement of the two legs
+is because of phase
+difference (of 180 degrees) in the gears that move different legs.
+When one leg touches the ground, that end of
+the shaft can’t rotate further. Therefore the other gear rotates and takes one step forward.
+Then this rotating gear touches the ground, acts as a pivot
+and the other gear moves and so on. This way, the entire
+robot moves forward.
+EXPLORE
+The two legs of the robot move alternatively and the body of the robot moves forward.
+The motor used in the robot is a dual shaft motor, which means that the shaft is coming out of both
+the ends of the motor. The two ends of the shaft are
+attached to the two gears rotating different legs.
+The alternate movement of the two legs is because of phase difference ( of 180 degrees)
+in the
+gears
+that move
+different
+legs.
+When one leg touches the ground, that end of
+the shaft can’t rotate further. Therefore the other gear rotates and takes one step forward.
+Then this rotating gear touches the ground, acts as a pivot
+and the other gear moves and so on. This way, the entire
+robot moves forward.
+
+66
+
+1
+
+2
+
+4
+
+2
+
+3
+
+67
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+68
+
+10
+
+11
+
+12 2
+
+413
+
+14
+
+15
+
+69
+
+16
+
+17
+
+181
+
+119
+
+20
+
+121
+
+70
+
+22
+
+24
+
+23
+
+25
+
+71
+
+72
+
+ABC OF MATH
+
+(ANY BASE COUNTING)
+LEARNINGS
+Number
+Systems
+Decimal
+System
+Binary System
+Basic
+Mathematical
+Operations
+We are all comfortable in the decimal system but understanding other number systems (such as binary) really enriches our understanding about counting and other basic
+mathematical operations such as addition, multiplication
+etc.
+Start counting in any number system using this activity
+and some beads.
+
+73
+
+WHAT’S GOING ON?
+1. Adjust the length of the base sticks such that it can fit
+the number of beads required by the number system.
+For example, if you are counting in decimal system
+(base 10), you should have stick length corresponding
+to 9 beads. For base 5 counting, the length should be
+adjusted to fit 4 beads.
+2. Let’s discuss how to count in base 5. But it can be easily extended to any base.
+3. Let’s count to 17 in base 5. Start putting beads in the
+sticks, starting from the first stick. For zero, there are
+no beads in any stick.
+4. For one, put one bead and so on till 4. Now the first
+stick is full.
+5. For the next number, empty all the beads of the first
+stick, and put one bead in the second stick.
+6. So every bead in the second stick is equivalent to 5 in
+this system. Try to relate it with the decimal counting
+we are familiar with.
+7. When you reach 17, you would see that there are 3
+beads in the 2nd stick and 2 beads in the first stick.
+Verify this with your result. Therefore, 17 in base 5
+would be written as 32.
+EXPLORE
+1. How much can you count on five sticks if you are
+counting in binary system?
+2. Try to add, subtract, multiply and divide numbers in
+other number systems.
+
+74
+
+1
+
+2
+
+3
+
+75
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+76
+
+BRACHISTOCHRONE
+CURVE
+LEARNINGS
+Curve of
+Fastest Descent
+Cycloid
+Gravity
+
+If you want to slide from point A to point B, what should
+be the shape of the slide so that you reach your destination
+in the shortest time? At first look, it seems that the slide
+should be a straight line but you are in for surprising ride!
+WHAT’S GOING ON?
+1. Mark a point on the circumference of a circular wheel.
+The path traced by the point as the wheel rolls along a
+straight line is called a cycloid curve.
+2. The Brachistochrone (Greek word meaning ‘shortest time’) curve is part of the cycloid curve which is
+the curve of fastest descent if the object is just being
+pulled by gravity.
+3. You want the path to be short (like a straight line) for
+the shortest time but you also want the object to go
+fast which requires a steeper slope. But increasing the
+steepness at the start also increases the total distance.
+77
+
+4. So the curve of fastest descent has to balance length
+with the steepness. And that’s what the Brachistochrone curve does.
+5. The problem was first posed by Johann Bernoulli in
+1696 to the most brilliant mathematicians in the world
+(in particular, he was very concerned to show off that
+he was smarter than his brother and rival, Jacob Bernoulli).
+EXPLORE
+1. The Brachistochrone curve is the same at Tautochrone
+(Tauto - same, chrone- time) curve which is also the
+cycloid. Release two marbles on this surve from anywhere and they will reach the bottom at the same time
+2. The Brachistochrone curve is the fastest curve of descent for any two points on the curve, not just the highest and lowest points. It means that the object may do
+down and then again up on a cycloid but it would still
+be the fastest descent.
+3. Johann Bernoulli also mailed this problem to Issac
+Newton who stayed up all night to solve it and mailed
+the solution anonymously by the next post. Upon reading the solution, Bernoulli immediately recognized its
+author, exclaiming that he “recognizes a lion from his
+claw mark”. This story gives some idea of Newton’s
+power, since Johann Bernoulli took two weeks to solve
+it.
+
+78
+
+1
+
+3
+
+2
+
+79
+
+4
+
+5
+
+6
+
+7
+
+8
+
+80
+
+GEAR JACK
+LEARNINGS
+Mechanical
+Advantage
+
+This is an example of deployable mechanism used to lift
+objects. A small rotation of the gear can lift the object
+really high!
+WHAT’S GOING ON?
+1. In a normal car jack, you have to spin the screw for a
+long time and then jack moves up a little distance. The
+jack therefore provides mechanical advantage and you
+are able to lift the car easily.
+2. In this deployable structure, a small rotation of the
+gear results in a large movement of object at the top
+- due to the scissor-like structures. The more scissors
+you add at the top, the more distance is covered in a
+single rotation of the handle.
+3. So what’s the catch? Can you add as many scissors as
+you want? No. The more the number of scissors, the
+more effort required to rotate the handle!
+81
+
+4. Therefore, this machine can be said to have negative
+mechanical advantage. This is also used in various
+real-life applications where you want to increase the
+amount of movement/rotation, for example, the hand
+blender. You have to move the handle for a small distance and the blender rotates for a long time.
+5. But always remember that if the distance is increased,
+you’ll have to exert a large amount of force (for example, a gear cycle in a higher gear). There is really no
+such thing as a free lunch!
+
+82
+
+1
+
+4
+
+2
+
+3
+
+83
+
+4
+
+5
+
+6
+
+7
+
+8
+
+84
+
+10
+
+9
+
+11
+
+12
+
+13
+
+85
+
+14
+
+15
+
+16
+
+17
+
+18
+
+86
+
+20
+
+19
+
+21
+
+22
+
+23
+
+87
+
+24
+
+25
+
+26
+
+27
+
+28
+
+88
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+89
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+90
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+91
+
+47
+
+92
+
+HAMILTONIAN PATH
+LEARNINGS
+Geometry
+Logical
+Reasoning
+Creative
+Thinking
+
+Can you visit the 12 vertices on the three rectangles such
+that you don’t go on any vertex twice and the ending
+point is the same as starting point? This puzzle is called
+the Hamiltonian path.
+WHAT’S GOING ON?
+1. A path that visits each vertex exactly once is called a
+Hamiltonian path.
+2. The corners of three interlocking golden rectangles
+(the length and breadth are in golden ratio, 1.618)
+form the vertices of an icosahedron, one of the five
+Platonic solids.
+3. Icosahedron has five triangular faces meeting at each
+vertex.
+4. All the five platonic solids have Hamiltonian cycle
+connecting their vertices.
+93
+
+5. Here is an illustration of Hamiltonian cycle in the simplest Platonic solid - tetrahedron. Figure 1(b) shows a
+Hamiltonian cycle that visits all the vertices without
+repetition of any edges.
+6. Here, the cycle is shown for the given icosahedron.
+
+EXPLORE
+1. Explore Hamiltonian path for other Platonic solids.
+2. Can you figure out a path in icosahedron which covers
+all the edges exactly once? Note that in the Hamiltonian cycle, you covered all the vertices, not the edges.
+An Eulerian path is a trail that visits every edge exactly
+once (allowing revisiting of vertices).
+3. Among all the Platonic solids, only Octahedron can
+have Eulerian path. While solving the famous Seven
+Bridges of Königsberg problem, Euler showed a graph
+can have an Eulerian path only if all the vertices in
+the graph have an even degree (which means the number of edges connected at a vertex). In Icosahedron, 5
+edges meets at all the 12 vertices, hence it can’t have
+Eulerian path.
+94
+
+1
+
+2
+3
+
+4
+
+95
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+96
+
+11
+
+12
+
+13
+
+14
+
+15
+
+97
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+98
+
+22
+
+23
+
+99
+
+LARGEST BOX FROM A
+RECTANGLE
+LEARNINGS
+Geometry
+Area of a
+Rectangle
+Volume of a
+Cuboid
+Introduction to
+Calculus
+Suppose you have an A4 sheet and you want to make
+a box (a cuboid) out of it. You can do so by cutting
+squares from the four corners and folding up the
+remaining sides to make a box. The question is, how
+much square should you cut to get the box with the
+maximum volume?
+WHAT TO DO?
+Fill different boxes with sand and find out which box
+can take maximum amount of sand. That box that holds
+maximum sand has the maximum volume.
+
+100
+
+OBSERVATION
+1. You would see that the area of the base gradually decreases and the height of the box increases.
+2. Initially the base area is more but height is very small
+(*photo of box 1*). Therefore the box has very small
+volume.
+3. In the innermost box (*photo of box 4*), the height is
+maximum but the base area is very small. Therefore
+this box also won’t hold large amount of sand (and
+hence has low volume).
+4. The height has to be somewhere in between if you
+want to maximize the volume.
+5. You would find that the box 2 has the largest volume.
+(*photo of box 2*)
+WHAT’S GOING ON?
+1. The box marked as 2 corresponds to the maximum
+volume.
+2. For an A4 sheet (21 cm x 29.7 cm), you have to cut the
+square of 4 cm (4.04 to be exact) to get the box with
+maximum volume. You can check the length of this
+square on the sheet and verify if it is 4 cm.
+EXPLORE
+1. Are there some boxes which have the same volume?
+2. This problem of maximum volume can also be solved
+accurately by writing the volume in terms of the length
+of the square and then ‘differentiating’ it. This branch
+of mathematics is called calculus and helps us find
+when the things are maximum or minimum.
+
+101
+
+1
+
+2
+
+3
+
+102
+
+4
+
+5
+
+6
+
+8
+
+9
+
+103
+
+REAULEUX CAR
+LEARNINGS
+Curve of
+Constant Width
+Reauleux
+Triangle
+
+This car with a non-circular wheel gives a surprisingly smooth
+ride. Unlike circular wheels, these wheels don’t have a set
+radius but they do have an unchanging diameter. Explore the
+magical property of the Reauleux triangle in this activity.
+WHAT’S GOING ON?
+1.
+
+If you put a book on a triangle (or a square) and rotate
+it, the book would move up and down. What should you
+use to keep the book at the same level? The first choice
+is a circle. But can you think of any other shape which
+would be of constant width?
+2. The car has two different types of wheels. One is circular, whereas another is formed by rounding the sides of
+an equilateral triangle, as shown in the figure 1(a). This
+shape is called the Reauleux triangle.
+104
+
+3. Reauleux triangle is called a curve of constant width. It
+means that for every pair of parallel lines touching the
+shape without crossing it, it will always have the same
+distance from each other, as shown in figure 1b.
+4. Add another pair of supporting parallel lines to the old
+ones and we obtain a square. The wheel performs a
+complete rotation while staying within the square and
+at all times touching all four sides of the square (figure
+1c).
+5. The shaft is also connected to another smaller Reauleux triangle which rotates inside a square. Due to constant width
+property, the top of the car smoothly moves at same horizontal level, without up or down movement (Figure 1d).
+EXPLORE
+1. Take a circular wheel of diameter 7 cm and a Reauleux
+triangle, also of width 9 cm. Compare the perimeters
+of both shapes.
+2. Can you create the constant width shape from the regular pentagon? Is it necessary that the pentagon should
+be regular?
+3. People have made real bicycles with Reauleux traingles as wheels, literally reinventing the wheel!
+4. There are also solids of constant width. The obvious
+one is the sphere but if you make a solid by rotating
+the Reauleux triangle, the resulting solid would also
+of constant width. You can also make the solid of constant width starting from a tetrahedron (Meissner tetrahedron).
+5. The area of any solid of constant width is π x (height)
+
+105
+
+1
+
+2
+
+3
+
+106
+
+4
+
+5
+
+6
+
+7
+
+8
+
+107
+
+9
+
+11
+
+10
+
+13
+
+12
+
+108
+
+14
+
+15
+
+16
+
+17
+
+109
+
+MONTY HALL
+PUZZLE
+LEARNINGS
+Statistics
+Probability
+
+Suppose you’re on a game show, and you’re given the
+choice of three doors: behind one door is a car; behind
+the others, goats. You pick a door, say Door 1, and the
+host, who knows what’s behind the doors, opens another door, say No. 3, which has a goat. He then says to
+you, “Do you want to stay with Door 1 or do you want
+to switch to Door 2?” Is it to your advantage to switch?
+The kit contains 3 doors (with hinges) which can be used to
+play the game and understand the probability of the event.
+This game and the discussion that follows is hugely popular
+and counter-intuitive.
+WHAT TO DO?
+1. Take out the pieces from the sheets and build the three
+doors.
+2. Act as the game host and one other person can be the participant. Place a small car behind one door and toy goats
+110
+
+3.
+4.
+5.
+6.
+
+behind other two. After the arrangement, you must remember which gate has the car behind it and which has
+a goat.
+Ask the participant to choose a door. Now open another door (except the one chosen by the participant)
+which has the goat behind it.
+Ask the participant whether he wants to stay or switch
+to another door?
+Repeat the game 10-20 times and note down the outcome each time.
+Surprisingly, you would find that the participant who
+switches every time wins more games!
+
+WHAT’S GOING ON?
+1. For the initial choice the participant makes, the probability of winning the car is 1/3.
+2. The probability that the car is behind one of the remaining two doors is 2/3. Now the host, Monty, filters
+the remaining doors and opens the one having the goat
+behind it.
+3. So the probability that the car is behind the last door is
+2/3. So we are twice as probable to win if we switch!
+4. The Monty Hall problem is popular precisely because
+it is both simple and counterintuitive at the same time.
+It is named after the host of the American television
+show host Let’s Make a Deal where the participants of
+the show were offered this choice.
+5. At first, it seems that after Monty has opened one door
+that has the goat behind it, it doesn’t matter, probability-wise, whether you stick to your original choice or
+switch to the other door. The probability of winning
+seems equal in both cases. But in reality, it is always
+better for the participants to switch, if they want to win
+the car (If somebody wants the goat, that’s a different
+story!).
+111
+
+6. You can think about it this way. Monty filters the
+doors for you. He always opens the door having the
+goat behind it. If you had 100 doors to choose from
+and only one door has the car behind it, the chances of
+winning are pretty slim (1/100). But once you choose
+one door and the host opens all the doors having goats
+behind them, now it seems intuitive that switching
+is the better option (you would win 99/100 times)
+
+112
+
+1
+
+2
+
+3
+
+113
+
+4
+
+5
+
+6
+
+7
+
+8
+
+114
+
+9
+
+10
+
+11
+
+12
+
+13
+
+115
+
+14
+
+15
+
+16
+
+17
+
+116
+
+18
+
+19
+
+20
+
+117
+
+LEVER SYSTEM
+LEARNINGS
+Laws of Lever
+
+Give me a place to stand, and I will move
+the world,
+said Archimedes 2000 years ago.
+The Greek mathematician, scientist, and inventor was discussing the principle of lever.
+With this model, you may not be able to move the Earth
+but you can surely understand the underlying ratios of
+force, load, and distance using this simple machine.
+WHAT TO DO?
+1. Place a unit weight at 5cm mark.
+2. Now balance this weight by placing a different
+weight on the other side.
+3. To balance weights of different amounts on both
+sides, how should we place them? Should the
+heavier load be closer to the fulcrum or the lighter
+load? How much? Explore all this using the model.
+118
+
+WHAT’S GOING ON?
+1.
+2.
+3.
+
+4.
+5.
+6.
+
+A lever amplifies an input force to provide a greater
+output force.
+The ratio of the output force to the input force is called
+the mechanical advantage of the lever.
+The effort arm is equal to the distance from the fulcrum to the point of applied effort, and the load arm
+is equal to the distance from the fulcrum to the load
+weight (which is to be lifted).
+Effort (force applied by you) multiplied by the length
+of the effort arm is equal to the load multiplied by the
+length of the load arm.
+This means that the longer the effort end, the less the
+force required to raise the load.
+Therefore, if you are trying to lift a particularly heavy stone, it is best to use a longer stick.
+
+EXPLORE
+1.
+
+If two children are playing on a seesaw, and their
+weights are different, should the heavier child sit near
+the fulcrum or away from it, to balance the seesaw?
+2. Take a pipe and hang a bag on it. Now lift the bag
+by holding the pipe close to the bag. Guess the weight
+of the bag. Now try lifting the same bag by gradually
+moving the hand away from the bag. Does the bag feel
+heavier? Why? The weight of the bag has surely not
+changeed. So why do you need to apply a larger force
+to lift the same bag?
+
+119
+
+1
+
+2
+
+120
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+121
+
+9
+
+10
+
+11
+
+12
+
+122
+
+OPTICAL BENCH
+LEARNINGS
+Convex Lens
+Image
+Formation
+
+We often use projectors but seldom know how they work.
+This optical bench will help you experiment with the process
+of image formation, and understanding the concepts of real
+and virtual images, convex lenses and their focal lengths.
+
+OBSERVATION
+Examine the slide projector, and use it to produce an image.
+Draw
+a
+ray
+diagram
+showing
+how
+the
+projector
+produces
+an
+image.
+What sort of an image is this? How can you tell?
+Now use the magnifying glass to produce an image.
+Draw a ray diagram to show how this image is formed.
+What sort of image is this one?
+
+123
+
+WHAT’S GOING ON?
+An optical bench typically consists of a long, rigid member with a linear scale applied to it. Holders for light
+sources, lenses and screens are placed on the apparatus so
+that image formation can be observed. In order to replicate the working of a projector, it must be ensured that the
+image produced is real (otherwise you wouldn’t be able
+to project it onto a screen) inverted and magnified. Thus,
+the object is placed upside down and a convex lens is used
+for the entire setup - exemplifying exactly what happens
+when the object is located between F and 2F of convex
+lens.
+EXPLORE
+Adjust the object and lens such that you can determine the focal length of the given lens. Move around
+the elements of the setup and see where it leads.
+Human eye. the image is inverted again in the mind.
+
+124
+
+1
+
+4
+
+2
+
+3
+
+125
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+126
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+127
+
+16
+
+18
+
+17
+
+19
+
+128
+
+21
+
+20
+
+22
+
+23
+
+24
+
+129
+
+25
+
+26
+
+27
+
+130
+
+28
+
+30
+
+131
+
+PERISCOPE
+LEARNINGS
+Optics
+Reflection
+Plane mirror
+
+Periscopes have proven to be of great help to submariners by allowing these professions to have a view above
+the surface of water and aid in navigation underwater.
+Make your own periscope and look beyond the wall!
+WHAT’S GOING ON?
+1. A periscope is an optical instrument that allows objects that are not in direct line of sight to be viewed.
+2. It works on the law of reflection. The light from the
+object falls on one mirror and is reflected.
+3. The reflected light then falls on another mirror and is
+again reflected and finally reaches the human eye
+4. Therefore, the periscope is used to see objects which
+are directly not in sight. For example, if you are near a
+high wall, you can’t see what’s happening on the other
+side of the wall. But you can easily see beyond the
+wall using the periscope.
+132
+
+1
+
+4
+
+2
+
+3
+
+133
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+134
+
+10
+
+11
+
+12
+
+13
+
+135
+
+SINE WAVE CAR
+LEARNINGS
+Trigonometry
+Definition of
+Sine Curve
+Length of an
+arc
+
+Allow the textbook trigonometry come to life when
+the pen draws a sine curve with the movement of the
+car. By adapting the mechanism appropriately, the frequency and amplitude of the curve can be changed.
+This car is the sine qua non of teaching and learning
+trigonometry!
+
+136
+
+WHAT’S GOING ON?
+1. The gear fixed on the axle of the car rotates with the
+wheels of the car in the same vertical plane.
+2. Another gear is joined to this gear in the horizontal
+plane.
+3. A circular disc is attached with this gear on the top.
+Therefore, this disc rotates in the horizontal plane
+when the car moves in any direction.
+4. The stick on the disc moves the module on the top (on
+which the pen is attached) in a straight line.
+5. So the car moves forward and the pen moves in a
+perpendicular direction to it. So theoretically, the car
+could make any curve. So why does it make the sine
+curve?
+6. Because it is the definition of a sine curve. When the
+wheel of the car moves θ, the car moves rθ (r is the
+radius of the wheel) in the forward direction. And the
+module shifts Rsinθ (R is the radius of the top disc)
+in the perpendicular direction to the motion of the car
+7. The pen, therefore, draws the graph of Rsinθ
+vs rθ which is a sine curve. (y = Rsinθ ; x = rθ
+y = R. sin(x/r) which is the equation of a sine curve.
+EXPLORE
+1. Try changing the amplitude and frequency of the curve.
+What effect would you see on the curve if the wheels
+of the car were made smaller?
+2. How does the gear ratio (ratio of number of teeth of
+two gears) affect the frequency of curve?
+
+137
+
+1
+
+4
+
+3
+
+2
+3
+
+138
+
+4
+
+5
+
+6
+
+7
+
+8
+
+139
+
+9
+
+10
+
+11
+
+12
+
+13
+
+140
+
+14
+
+15
+
+16
+
+17
+
+141
+
+18
+
+19
+
+20
+
+142
+
+21
+
+22
+
+23
+
+143
+
+TRIANGULAR WAVE
+CAR
+LEARNINGS
+Trigonometry
+Length of an
+arc
+
+Trigonometry, LIVE. Sounds vague, doesn’t it? Before
+you say no, pointing out to the many applications of
+trigonometry in real life; here we are talking about witnessing a triangular wave live in action with the help of
+a car no less!
+
+144
+
+WHAT’S GOING ON?
+1.
+2.
+3.
+4.
+5.
+
+6.
+
+7.
+
+The gear fixed on the axle of the car rotates with the
+wheels of the car in the same vertical plane.
+Another gear is joined to this gear in the horizontal
+plane.
+A circular (sector of a circle) disc is attached with this
+gear on the top. Therefore, this disc rotates in the horizontal plane when the car moves in any direction.
+The stick on the disc moves the module on the top (on
+which the pen is attached) in a straight line.
+So the car moves forward and the pen moves in a
+perpendicular direction to it. So theoretically, the car
+could make any curve. So why does it make the triangular curve?
+When the wheel of the car moves θ, the car moves rθ
+(r is the radius of the wheel) in the forward direction.
+And the module shifts Rθ (R is the radius of the top
+disc) in the perpendicular direction to the motion of
+the car.
+The pen, therefore, draws the graph of Rθ vs
+rθ which is a triangular curve (y = Rθ ; x = rθ
+y = R. (x/r) = (R/r). x, which is the equation of a
+straight line)
+
+145
+
+1
+
+4
+
+3
+
+2
+3
+
+146
+
+4
+
+5
+
+6
+
+7
+
+8
+
+147
+
+9
+
+10
+
+11
+
+12
+
+13
+
+148
+
+14
+
+15
+
+16
+
+17
+
+149
+
+19
+
+18
+
+20
+
+22
+
+21
+
+150
+
+24
+
+23
+
+25
+
+26
+
+27
+
+151
+
+28
+
+152
+
+CYCLOID CAR
+LEARNINGS
+Trigonometry
+Circle
+Rolling of a
+Circle
+
+This car shows the curve traced by a point on the circumference of a wheel when it rolls on the ground. This is just extremely satisfying to watch and the curves generated are a treat
+to the eyes!
+WHAT’S GOING ON?
+1. A cycloid is the curve traced by a point on the rim of a circular wheel as the wheel rolls along a straight line.
+2. In the car, the cycloid curve is generated when the length of
+the rotating stick is equal to the diameter of the car wheel.
+3. You can also change the length of the rotating stick holding
+the pen and get different kinds of curves (called trochoids).
+EXPLORE
+In this case, the gears connecting the axle and the rotating disc
+have same number of teeth. What would happen to the curve if
+the number of teeth in both gears is different?
+153
+
+1
+
+4
+
+3
+
+2
+3
+
+154
+
+4
+
+5
+
+6
+
+7
+
+8
+
+155
+
+9
+
+10
+
+11
+
+12
+
+13
+
+156
+
+14
+
+15
+
+16
+
+17
+
+157
+
+18
+
+19
+
+20
+
+21
+
+22
+
+158
+
+23
+
+24
+
+25
+
+159
+
+STRAIGHT LINE
+DRAWER
+LEARNINGS
+Gear System
+
+How do you draw a perfectly straight line by just rotating
+some gears? Rotate the handle and get ready to be amazed
+as the pen traces a straight line!
+Vertex, Edges and Faces of Polyhedron
+
+160
+
+WHAT’S GOING ON?
+1. The first gear is fixed at one place and the second and
+third gears revolve around it.
+2. The second gear is half in size as compared to the first
+gear (the number of teeth in second gear are half of
+that in first gear).
+3. Therefore, if these two gears were fixed at one place,
+the second gear would have rotated twice as much as
+the first gear.
+4. The second gear is also going around the first gear.
+As the direction of rotation and revolution is same, the
+total rotations of the second gear in a single journey
+around the first gear: 2+1 = 3.
+5. This means that the second gear rotates three times in
+one revolution around the first gear.
+6. The third gear also goes around the first gear. In this
+case, the direction of rotation and revolution is opposite. Therefore, total number of rotations: -2 + 1 = -1.
+7. This means that the third gear rotates one time in one
+revolution around the first gear, and in opposite direction.
+8. The pen is also connected to the third gear
+and hence rotates once. It also moves in
+a straight line during this one rotation.
+
+EXPLORE
+Change the distance of the pen from the center of the third
+gear and see if it still draws a straight line.
+
+161
+
+1
+
+2
+
+3
+
+162
+
+4
+
+5
+
+6
+
+7
+
+8
+
+163
+
+9
+
+10
+
+11
+
+164
+
+12
+
+165
+
+VERTICAL PEN
+STAND
+LEARNINGS
+Magnetism
+Simple
+Harmonic
+Motion
+Stability
+
+A magical pen stand - pen stands straight on its tip.
+Use the pen and then leave it rotating on its tip on this
+pen stand!
+
+166
+
+WHAT’S GOING ON?
+1. The magnets of the pen stand and the pen are placed
+such that they attract each other.
+2. This means that the opposite poles of the magnet
+(north-south) face each other.
+3. How much should be the force of attraction between
+the magnets to keep the pen vertical? In first look, it
+looks like the magnetic force should be equal to the
+weight of the pen.
+4. But the magnet is not supporting the weight of the pen.
+It is just bringing it back to the upright position whenever the pen tilts.
+5. When the pen is standing exactly straight on the
+ground, there is no force required as the force of gravity is balanced by the reaction force from the ground.
+6. This is similar to a person standing on the ground.
+There is no force required to stand straight. But as
+soon as the person tilts to one side, he needs a force to
+bring him back to upright position.
+7. Similarly, the top magnet brings back the pen
+in upright position whenever it tries to move
+away. Therefore the magnetic force required
+is much smaller than the weight of the pen.
+
+167
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+168
+
+PULLEY SYSTEM
+LEARNINGS
+Tension
+Mechanical
+Advantage
+
+The pulley is a wheel and an axle with a rope going over
+it. You can put this mechanical advantage to use when you
+have more than one pulley working together. More the number of pulleys you use, lesser the amount of effort it takes to
+lift something. The trade-off is that you have to pull the rope
+proportionately more.
+
+169
+
+WHAT’S GOING ON?
+Whenever you have to lift a heavy load, say up to the second
+floor of a building. You could tie a rope to the load, stand
+on the second floor, and pull it straight up. Or you could
+put a pulley at the second floor, stand at the first floor, and
+lift the load by pulling straight down. It would be the exact amount of work in either case, but the action of pulling
+down feels easier because you’re working with the force of
+gravity. While a single pulley allows you to move a load
+with half the force required, a system of pulleys increases
+the mechanical advantage by the number of pulleys and the
+length of rope that supports the load. As you increase the
+number of pulleys, you also increase the distance you have
+to pull the rope. In other words, if you use two pulleys, it
+takes half the effort to lift something, but you have to pull
+the rope twice as far. Three pulleys will result in one-third
+the effort — but the distance you have to pull the rope is tripled! The length of the rope that supports the load in a multiple pulley system basically corresponds to the mechanical
+advantage of the system.
+EXPLORE
+Tie the rope to one of the brooms (broom 1) and wrap the
+rope around the other broom (broom 2). Have two students
+stand about a meter apart each holding one broom, and try
+to keep the brooms separated while the third student pulls
+on the free end of the rope; it should be a difficult task to
+pull the broom sticks together. Next, wrap the rope around
+each of the brooms again. Try again to pull the students/
+brooms together; the more times you wrap the rope around
+the brooms, the easier it is for the third student to pull the
+others together! This is the power of mechanical advantage!
+
+170
+
+1
+
+2
+
+3
+
+171
+
+4
+
+5
+
+6
+
+7
+
+172
+
+8
+
+9
+
+10
+
+11
+
+173
+
+12
+
+13
+
+14
+
+15
+
+16
+
+174
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+175
+
+24
+
+23
+
+25
+
+26
+
+27
+
+176
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+177
+
+34
+
+35
+
+36
+
+37
+
+178
+
+GEAR LAMP
+LEARNINGS
+Gear
+Mechanism
+Mechanical
+Advantage
+Circular to
+Linear Motion
+Dynamic
+Mechanism
+
+Gear Lamp is a mechanical model designed for self-assembly, without any glue. This unique lamp has incorporated various interesting mechanisms. Indulge in the
+engaging and rewarding experience to build this lamp in
+a group!
+WHAT’S GOING ON?
+1. .The gear system in the lamp is arranged in such a way
+that it gives mechanical advantage during the motion
+of the lamp. The handle is attached to a small gear
+which in turn is connected to larger gears.
+2. The whole arm containing the gears also moves along
+with movements at joints.
+3. When the arm rises, the angle of the lamp holder also
+changes, all from a single source of rotation.
+
+179
+
+EXPLORE
+Calculate the gear ratio for every gear combination involved in the model. The gear attached to the handle is 4
+times smaller than the next connected gear. Therefore, the
+gear ratio is 4. Similarly, the next gear assembly has a gear
+ratio of 4. So overall the gear lamp has a gear ratio of 4 x
+4 = 16.
+
+180
+
+11
+
+22
+
+4
+3
+
+4
+
+5
+
+181
+
+6
+
+7
+
+8
+
+9
+
+10
+
+182
+
+11
+
+12
+
+13
+
+14
+
+15
+
+183
+
+16
+
+17
+
+20
+
+18
+
+19
+
+184
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+185
+
+26
+
+27
+
+28
+
+186
+
+29
+
+30
+
+31
+
+32
+
+187
+
+33
+
+34
+
+36
+
+35
+
+37
+
+188
+
+39
+
+38
+
+40
+
+42
+
+41
+
+189
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+190
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+191
+
+55
+
+56
+
+57
+
+2058
+
+59
+
+260
+
+6
+
+192
+
+62
+
+61
+
+63
+
+64
+
+65
+
+193
+
+66
+
+67
+
+68
+
+69
+
+70
+
+71
+
+194
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+195
+
+78
+
+79
+
+80
+
+196
+
+81
+
+82
+
+83
+
+84
+
+85
+
+86
+
+197
+
+87
+
+88
+
+89
+
+90
+
+91
+
+198
+
+92
+
+93
+
+94
+
+95
+
+96
+
+199
+
+97
+
+98
+
+200
+
+DUAL OF CUBE
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex, Edges
+and Faces of
+Polyhedron
+
+If you join the center of the faces of a cube, you get
+the octahedron which is another Platonic solid. This
+means that the dual of an cube is octahedron.
+WHAT’S GOING ON?
+FACES
+
+VERTICES
+
+EDGES
+
+SOLID
+
+6
+
+8
+
+12
+
+DUEL
+
+8
+
+6
+
+12
+
+201
+
+1
+
+2
+
+3
+
+202
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+203
+
+DUAL OF
+OCTAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex, Edges
+and Faces of
+Polyhedron
+
+If you join the center of the faces of an octahedron,
+you get the cube which is another Platonic solid. This
+means that the dual of an octahedron is cube.
+WHAT’S GOING ON?
+FACES
+
+VERTICES
+
+EDGES
+
+SOLID
+
+8
+
+6
+
+12
+
+DUEL
+
+6
+
+8
+
+12
+
+204
+
+EXPLORE
+The solid obtained by joining the center of the faces of
+a polyhedron is called its dual structure. If you join the
+center of the faces of a cube, you get a structure called octahedron which is another Platonic solid. This means that
+the dual of a cube is octahedron.
+For any two dual structures, the number of faces and vertices is swapped, and the number of edges is same.
+
+205
+
+1
+
+2
+
+3
+
+206
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+207
+
+DUAL OF
+TETRAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex, Edges
+and Faces of
+Polyhedron
+
+If you join the center of the faces of a tetrahedron, you again
+get a (smaller) tetrahedron. Therefore, the dual of tetrahedron
+is a tetrahedron.
+WHAT’S GOING ON?
+FACES
+
+VERTICES
+
+EDGES
+
+SOLID
+
+8
+
+6
+
+12
+
+DUEL
+
+6
+
+8
+
+12
+
+EXPLORE
+Find out other polyhedrons which are self-duals.
+208
+
+1
+
+2
+
+3
+
+209
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+210
+
+DUAL OF
+DODECAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex, Edges
+and Faces of
+Polyhedron
+
+If you join the center of the faces of a dodecahedron,
+you get the icosahedron which is another Platonic solid.
+This means that the dual of an dodecahedron is icosahedron.
+WHAT’S GOING ON?
+FACES
+
+VERTICES
+
+EDGES
+
+SOLID
+
+12
+
+20
+
+30
+
+DUEL
+
+20
+
+12
+
+30
+
+211
+
+1
+
+2
+
+3
+
+212
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+213
+
+DUAL OF
+ICOSAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Vertex, Edges
+and Faces of
+Polyhedron
+
+If you join the center of the faces of an icosahedron, you
+get the dodecahedron which is another Platonic solid. This
+means that the dual of an icosahedron is dodecahedron.
+WHAT’S GOING ON?
+FACES
+
+VERTICES
+
+EDGES
+
+SOLID
+
+20
+
+12
+
+30
+
+DUEL
+
+12
+
+20
+
+30
+
+214
+
+1
+
+2
+
+3
+
+215
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+216
+
+ARCHIMEDEAN
+SOLIDS (13)
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral
+Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+In geometry, an Archimedean solid is one of the 13
+solids first enumerated by Archimedes. They are
+polyhedrons composed of regular polygons meeting in
+identical vertices.
+
+217
+
+WHAT TO DO?
+Fold the given GSM paper nets on the lines and stick them
+together using by applying glue to the provided flaps.
+WHAT’S GOING ON?
+1. 2000 years ago, Archimedes made a list of polyhedrons composed of regular polygons as faces with vertex symmetry.
+2. Surprisingly, he could only find 13 solids which satisfy these two conditions.
+3. In all the Archimedean solids, exactly same number
+and type of polygons are joined at all the vertices, at
+same dihedral angles (angle between two faces).
+4. For example, in a truncated tetrahedron, two hexagons
+and a triangle meet at all the twelve vertices.
+
+218
+
+TRUNCATED
+TETRAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral
+Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+The truncated tetrahedron is created by truncating the vertices off a tetrahedron. Make this Archimedean solid using
+the net provided and study its properties.
+WHAT’S GOING ON?
+1. A tetrahedron has three triangles joining at each vertex.
+2. If you cut the vertices at one-third of the original edge
+length, you get equilateral triangles in place of original
+vertices of tetrahedron and hexagons in place of original faces. Cutting the edges to one-third is called regular
+truncation.
+3. Therefore, a truncated tetrahedron has four triangular
+faces and four hexagonal faces.
+4. The are total 8 faces, 12 vertices, and 18 edges. Two
+hexagons and a triangle are meeting at each vertex.
+5. There are 4 more faces on the truncated tetrahedron
+(compared to a regular tetrahedron) due to the four cuts
+made.
+6. The number of vertices and edges are multiplied by three
+due to the addition of equilateral triangles.
+219
+
+1
+
+2
+
+3
+
+4
+
+5
+
+220
+
+6
+
+7
+
+8
+
+221
+
+TRUNCATED CUBE
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral
+Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+The truncated cube is an Archimedean solid obtained by
+cutting the vertices of a cube.
+WHAT’S GOING ON?
+1. A cube has three squares joining at each vertex.
+2. If you cut the vertices at one-third of the original edge
+length, you get equilateral triangles in place of original
+vertices of cube and octagons in place of original faces.
+Cutting the edges to one-third is called regular truncation.
+3. Therefore, a truncated cube has eight triangular faces
+and six octagonal faces.
+4. The are total 14 faces, 24 vertices, and 36 edges. Two
+octagons and a triangle are meeting at each vertex.
+5. There are 8 more faces on the truncated cube (compared
+to a regular cube) due to the eight cuts made.
+6. The number of vertices and edges are multiplied by three
+due to the addition of equilateral triangles.
+
+222
+
+1
+
+2
+
+3
+
+4
+
+5
+
+223
+
+6
+
+7
+
+8
+
+224
+
+TRUNCATED
+OCTAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral
+Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+The truncated octahedron is an Archimedean solid which
+has two hexagons and a square meeting at each vertex. It if
+formed by cutting off each vertex of an octahedron.
+WHAT’S GOING ON?
+
+EXPLORE
+Find out why a
+truncated cube
+and truncated
+octahedron
+have same
+number of
+faces, vertices
+and edges.
+
+1. An octahedron has four triangles joining at each vertex.
+2. If you cut the vertices at one-third of the original edge
+length, you get squares in place of original vertices of
+octahedron and hexagons in place of original faces. Cutting the edges to one-third is called regular truncation.
+3. Therefore, a truncated octahedron has six square faces
+and eight hexagonal faces.
+4. There are total 14 faces, 24 vertices, and 36 edges (exactly same as truncated cube). Two hexagons and a square
+are meeting at each vertex
+5. There are 8 more faces on the truncated cube (compared
+to a regular cube) due to the four cuts made.
+6. The number of vertices and edges are multiplied by four
+due to the addition of squares.
+225
+
+1
+
+2
+
+3
+
+4
+
+5
+
+226
+
+6
+
+7
+
+227
+
+TRUNCATED
+DODECAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral
+Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+The truncated dodecahedron is an Archimedean solid. This
+polyhedron is formed from a dodecahedron by truncating
+(cutting off) the corners so that the pentagon faces become
+decagons and the corners become triangles.
+WHAT’S GOING ON?
+1. A dodecahedron has three pentagons joining at each vertex.
+2. If you cut the vertices at one-third of the original edge
+length, you get triangles in place of original vertices of
+dodecahedron and decagons in place of original pentagonal faces. Cutting the edges to one-third is called regular truncation.
+3. Therefore, a truncated dodecahedron has 12 decagonal
+faces and 20 triangular faces.
+4. The are total 32 faces, 60 vertices, and 90 edges. Two
+decagons and a triangle are meeting at each vertex.
+5. There are 12 more faces on the truncated cube (compared to a regular dodecahedron) due to the twelve cuts
+made.
+6. The number of vertices and edges are multiplied by three
+due to the addition of triangles.
+228
+
+1
+
+3
+
+2
+
+229
+
+4
+
+5
+
+6
+
+230
+
+TRUNCATED
+ICOSAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+Perhaps the best-known example of a spherical polyhedron,
+this structure is found in footballs. The ball comprises of 12
+pentagons and 20 hexagons.
+WHAT’S GOING ON?
+1. An icosahedron has five triangles joining at each vertex.
+2. If you cut the vertices at one-third of the original edge
+length, you get pentagons in place of original vertices
+of icosahedron and hexagons in place of original faces.
+Cutting the edges to one-third is called regular truncation.
+3. Therefore, a truncated icosahedron has 12 pentagonal
+faces and 20 hexagonal faces.
+4. The are total 32 faces, 60 vertices, and 90 edges
+(exactly same as truncated icosahedron). Two hexagons and
+a pentagon are meeting at each vertex.
+5. There are 12 more faces on the truncated icosahedron
+(compared to a regular icosahedron) due to the four cuts
+made.
+6. The number of vertices and edges are multiplied by five
+due to the addition of squares.
+231
+
+1
+
+2
+
+3
+
+4
+
+5
+
+232
+
+6
+
+7
+
+8
+
+233
+
+CUBOCTAHEDRON
+A cuboctahedron
+is created by rectifying a cube (or
+an octahedron).
+It has 8 triangular faces and 6
+square faces.
+WHAT’S GOING ON?
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+1. If you cut the vertices of a cube at half of the original edge
+length, you get equilateral triangles in place of original
+vertices of cube. You get smaller squares in place of the
+original squares of the cube. Cutting the edges to half is
+called rectification.
+2. Therefore, a cuboctahedron has eight triangular faces and
+six square faces.
+3. The are total 14 faces, 12 vertices, and 24 edges. Two
+triangles and two squares meeting at each vertex.
+4. There are 8 more faces on the cuboctahedron (compared
+to a regular cube) due to the eight cuts made.
+5. The number of edges in cuboctahedron (24) is triple the
+number of vertices in cube (8) as each vertex is converted
+in a triangle, producing three edges for one vertex. The
+original edges are destroyed in this process.
+6. The number of vertices is also tripled due to formation
+of equilateral triangle at each vertex. But two of these
+vertices combine together. So the number of vertices in
+cuboctahedron = 24/2 = 12.
+234
+
+1
+
+22
+
+43
+
+43
+
+55
+
+235
+
+6
+
+7
+
+8
+
+236
+
+RHOMBICUBOCTAHEDRON
+
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+Johannes Kepler (famous for laws of planetary motion)
+named this polyhedron a rhombicuboctahedron - short for
+truncated cuboctahedral rhombus. This solid is made by
+truncating the cuboctahedron to one-third of its original
+edge length.
+The first printed version of the rhombicuboctahedron was
+by Leonardo and appeared in Pacioli’s work who was collaborator of Da Vinci.
+WHAT’S GOING ON?
+1. A cuboctahedron has 12 vertices, with 2 triangles and 2
+squares meeting at each vertex.
+2. If you cut the vertices of cuboctahedron at half of the
+original edge length, you get squares in place of original
+vertices of cuboctahedron. The original squares and triangles of cuboctahedron retain their shape but become
+smaller.
+237
+
+3. These 12 squares, along with 6 original squares, make
+a total of 18 squares. The number of triangles remain
+unchanged at 8.
+4. There are total 26 faces, 24 vertices and 48 edges.
+Three squares and a triangle are meeting at each vertex.
+5. The number of edges in rhombicuboctahedron (48) is
+four times the number of vertices in cuboctahedron
+(12) as each vertex is converted in a square, producing
+four edges for one vertex. The original edges are destroyed in this process.
+6. The number of vertices also becomes four times due to
+formation of squares at each vertex. But two of these
+vertices combine together. So the number of vertices
+in rhombicuboctahedron = 48/2 = 24.
+
+238
+
+1
+
+2
+
+3
+
+4
+
+5
+
+239
+
+6
+
+7
+
+240
+
+RHOMBICOSIDODECAHEDRON
+
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+Johannes Kepler (famous for laws of planetary motion)
+named this polyhedron a rhombicuboctahedron - short for
+truncated cuboctahedral rhombus. This solid is made by
+truncating the cuboctahedron to one-third of its original
+edge length.
+The first printed version of the rhombicuboctahedron was
+by Leonardo and appeared in Pacioli’s work who was collaborator of Da Vinci.
+
+241
+
+WHAT’S GOING ON?
+1. A cuboctahedron has 12 vertices, with 2 triangles and
+2 squares meeting at each vertex.
+2. If you cut the vertices of cuboctahedron at half of the
+original edge length, you get squares in place of original vertices of cuboctahedron. The original squares
+and triangles of cuboctahedron retain their shape but
+become smaller.
+3. These 12 squares, along with 6 original squares, make
+a total of 18 squares. The number of triangles remain
+unchanged at 8.
+4. There are total 26 faces, 24 vertices and 48 edges.
+Three squares and a triangle are meeting at each vertex.
+5. The number of edges in rhombicuboctahedron (48) is
+four times the number of vertices in cuboctahedron
+(12) as each vertex is converted in a square, producing
+four edges for one vertex. The original edges are destroyed in this process.
+6. The number of vertices also becomes four times due to
+formation of squares at each vertex. But two of these
+vertices combine together. So the number of vertices
+in rhombicuboctahedron = 48/2 = 24.
+EXPLORE
+1. The 2nd order rectification (cutting twice at half of the
+original edge length) is also called cantellation. Therefore, the rhombicuboctahedron can also be called a
+cantellated cube or octahedron.
+2. Rhombicuboctahedron can also be constructed as an
+expanded cube (the six faces of cube are expanded and
+the gap is filled with squares and triangles) or an expanded octahedron.
+
+242
+
+1
+
+2
+
+3
+
+243
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+244
+
+TRUNCATED
+CUBOCTAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+The truncated cuboctahedron is also named by Kepler
+as a truncation of a cuboctahedron. It has 12 square
+faces, 8 hexagonal faces, 6 octagonal faces, 48 vertices
+and 72 edges.
+
+245
+
+WHAT’S GOING ON?
+1. A cuboctahedron has 12 vertices, with 2 triangles and
+2 squares meeting at each vertex.
+2. If you cut the vertices of cuboctahedron at one-third of
+the original edge length, you get 12 squares in place
+of original vertices of cuboctahedron. The original
+squares and triangles of cuboctahedron become octahedron’s and hexagons respectively.
+3. Therefore, a truncated cuboctahedron has 12 squares,
+8 hexagonal and 6 octagonal faces.
+4. There are total 26 faces, 48 vertices and 72 edges. A
+square, hexagon and an octagon are meeting at each
+vertex.
+5. As each of the 12 vertices of cuboctahedron is converted in a square, you get 4 edges for each vertex of
+cuboctahedron. And the original 24 edges are also intact. Therefore, number of edges in truncated cuboctahedron (72) = (12 x 4) + 24.
+6. Each of the 12 vertices also produces four vertices after truncation. And the original vertices are destroyed
+in this process. So the number of vertices in truncated
+cuboctahedron = 12 x 4 = 48.
+
+246
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+247
+
+7
+
+9
+
+8
+
+248
+
+ICOSIDODECAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+An icosidodecahedron is an Archimedean solid with twenty
+(icosi) triangular faces and twelve (dodeca) pentagonal faces. An icosidodecahedron has 30 identical vertices, with two
+triangles and two pentagons meeting at each, and 60 edges
+WHAT’S GOING ON?
+1. An icosahedron has five triangles joining at each vertex.
+2. If you cut the vertices at half of the original edge length,
+you get pentagons in place of original vertices of icosahedron. You get smaller triangles in place of the original triangles of icosahedron. Cutting the edges to half is
+called rectification.
+3. Therefore, a cuboctahedron has 12 pentagonal faces and
+20 triangular faces.
+4. The are total 32 faces, 30 vertices, and 60 edges. Two
+pentagons and two triangles are meeting at each vertex.
+249
+
+5. There are 12 more faces on the icosidodecahedron
+(compared to a regular icosahedron) due to the twelve
+cuts made.
+6. The number of edges in icosidodecahedron (60) is five
+times the number of vertices in icosahedron (12) as
+each vertex is converted in a triangle, producing three
+edges for one vertex. The original edges are destroyed
+in this process.
+7. The number of vertices is also tripled due to formation
+of pentagons at each vertex. But two of these vertices
+combine together. So the number of vertices in icosidodecahedron= 60/2 = 30.
+
+250
+
+1
+
+2
+
+3
+
+4
+
+5
+
+251
+
+7
+
+6
+
+8
+
+252
+
+TRUNCATED
+ICOSIDODECHAHEDRON
+
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+The name truncated icosidodecahedron, given originally by
+Johannes Kepler, is misleading. An actual truncation of a
+icosidodecahedron has rectangles instead of squares. This
+nonuniform polyhedron is topologically equivalent to the
+Archimedean solid
+WHAT’S GOING ON?
+1. An icosidodecahedron has 30 vertices, with 2 pentagons
+and 2 triangles meeting at each vertex.
+2. If you cut the vertices of icosidodecahedron at one-third
+of the original edge length, you get 12 squares in place
+of original vertices of icosidodecahedron. The original
+pentagons and triangles of icosidodecahedron become
+decagons and hexagons respectively.
+3. Therefore, a truncated icosidodecahedron has 30 squares,
+20 hexagonal and 12 decagonal faces.
+4. There are total 62 faces, 120 vertices and 180 edges.
+253
+
+5.
+
+As each of the 30 vertices of icosidodecahedron is
+converted in a square, you get 4 edges for each vertex
+of icosidodecahedron . And the original 60 edges are
+also intact. Therefore, number of edges in truncated
+cuboctahedron (180) = (30 x 4) + 60.
+6. Each of the 30 vertices also produces four
+vertices after truncation. And the original
+vertices are destroyed in this process. So the
+number of vertices in cuboctahedron = 30 x 4 = 120.
+
+254
+
+1
+
+2
+
+3
+
+4
+
+5
+
+255
+
+6
+
+7
+
+8
+
+9
+
+256
+
+SNUB CUBE
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+
+The final two Archimedean solids are created by
+moving the faces of an existing Platonic solid outward
+while giving each face a twist. The snub cube is made
+from a cube by pulling the square faces outward.
+
+257
+
+WHAT’S GOING ON?
+1. A cube has three squares joining at each vertex.
+2. If you cut the vertices at half of the original edge
+length, you get equilateral triangles in place of original vertices of cube. You get smaller squares in place
+of the original squares of the cube. Cutting the edges
+to half is called rectification.
+3. Therefore, a cuboctahedron has eight triangular faces
+and six square faces.
+4. The are total 14 faces, 12 vertices, and 24 edges. Two
+triangles and two squares meeting at each vertex.
+5. There are 8 more faces on the cuboctahedron (compared to a regular cube) due to the eight cuts made.
+6. The number of edges in cuboctahedron (24) is triple
+the number of vertices in cube (8) as each vertex is
+converted in a triangle, producing three edges for one
+vertex. The original edges are destroyed in this process.
+7. The number of vertices is also tripled due to formation
+of equilateral triangle at each vertex. But two of these
+vertices combine together. So the number of vertices
+in cuboctahedron = 24/2 = 12.
+EXPLORE
+1. The cuboctahedron can also be obtained by cutting the
+vertices of an octahedron at half of the original edge
+length.
+2. In the Star Trek episode “By Any Other Name”, aliens
+seize the Enterprise by transforming crew members
+into inanimate cuboctahedron.
+3. The ”Geo Twister” fidget toy is a flexible cuboctahedron. You can also make this toy by using kebab sticks
+and cycle valve tubes.
+4. The Coriolis space stations in the computer game series Elite are cuboctahedron-shaped.
+258
+
+1
+
+2
+
+3
+
+44
+
+5
+
+6
+
+259
+
+7
+
+8
+
+260
+
+SNUB
+DODECAHEDRON
+LEARNINGS
+3D shapes
+Polyhedrons
+Dihedral Angles
+Vertex, Edges
+and Faces of
+Polyhedron
+The snub dodecahedron is constructed from a dodecahedron
+by pulling the pentagonal faces outward.
+WHAT’S GOING ON?
+1. A dodecahedron has 12 pentagonal faces.
+2. Pull the faces outward so that they no longer
+touch. Rotate all the pentagons (all clockwise or all
+counterclockwise) such that the spaces between them
+can be filled with equilateral triangles.
+3. The resulting polyhedron is called snub dodecahedron.
+4. There are total 92 faces, 60 vertices and 150 edges. Four
+triangles and a pentagon are meeting at each vertex.
+
+261
+
+EXPLORE
+Both of the snub polyhedrons (snub cube and snub dodecahedron) are known as chiral solids. Chiral means that the
+solids have different forms of handedness which are not
+mirror-symmetric. Depending on whether you twist the
+square faces clockwise or counterclockwise, you get two
+different solids. One form is called left-handed, and the
+other form is called right-handed.
+
+262
+
+1
+
+2
+
+3
+
+263
+
+4
+
+5
+
+6
+
+7
+
+8
+
+264
+
+NON-TRANSITIVE DICE
+LEARNINGS
+Probability
+
+Out of the 3 dice, you can always find a dice which can
+beat the other one!
+In this case, Dice A will beat Dice B, Dice B will
+beat Dice C but Dice C will beat Dice A. Learn about
+non-transitive relations using this amazing dice game!
+WHAT TO DO?
+1. Take out the pieces from the sheet and make two sets
+of dice A, B, and C.
+2. For the first part of the game, take only one set (one
+dice of each kind - A, B and C) and keep the second
+set aside
+3. The first player chooses any one dice from the set and
+second player would choose from the remaining dice.
+4. Both players roll their dice. The player who rolls the
+higher number wins.
+265
+
+5. Play this game atleast 20 times. Note down the winning dice each time.
+6. Try other combinations of dice (A vs B, B vs C and C
+vs A) and find out which dice is most powerful.
+WHAT’S GOING ON?
+1. The dice A, B and C are called non-transitive
+dice. A set of dice is non-transitive if A is better
+than B, B is better than C but then C is better than
+A. So the order of the dice is cyclic and there is no
+single dice which can trump the other two dice.
+A>B>C>A
+
+A
+
+C
+
+B
+
+2. This is like the game of rock-paper-scissors where
+scissors can win over paper, rock over scissors and
+then paper over rock. Just like our dice, no option is
+the best in this game.
+266
+
+3. If we calculate the probability of A winning over
+B (and B over C and C over A), it is 7/12. It can be
+seen by drawing the different outcomes of the dice
+and seeing which dice would win in each outcome.
+
+A
+
+C
+
+CANCE
+5/12
+
+1/2
+
+2
+
+C WINS
+
+1/2
+
+5
+
+A WINS
+
+1/2
+
+2
+
+C WINS
+
+1/12
+
+1/2
+
+5
+
+C WINS
+
+1/12
+
+3
+5/6
+
+1/6
+
+6
+4. Now take the second set also in the game. Now you
+have two copies of each dice A, B, and C. Now each
+player chooses two dice (both of them should be same.
+For example, a player can choose both A dice but can’t
+choose one A and one B dice).
+5. The sum of two dice would be compared for both the
+players. In this case, we would see that the cyclic order
+would get reverses! This means that now A<B<C<A
+EXPLORE
+Find out about other non-transitive dice and then make
+your own set.
+267
+
+1
+
+2
+
+3
+
+4
+
+5
+
+268
+
+6
+
+7
+
+8
+
+9
+
+269
+
+STACK IT UP
+LEARNINGS
+Critical
+Thinking
+Logical
+Reasoning
+Permutation
+&Combination
+Spatial
+Cognition
+
+This puzzle was invented in 1960s and has sold 20 million
+copies so far under the name “Instant Insanity”. The puzzle consists of 4 cubes painted in 4 colors which have to be
+stacked in a column such that each side of column has all
+4 colors.
+
+270
+
+WHAT’S GOING ON?
+1. You have four cubes with four different colors on each
+cube. And you have to stack the cubes in a column
+such that there is a different color on the all the four
+sides of the column.
+2. With 24 positions of each cube (6 faces and 4 positions), it makes a total of 3,31,776 possible arrangements (24x24x24x24).
+3. Clearly, lot of trial and error is required to get to the
+solution but there is a way to solve this in eight moves
+or less by applying graph theory!
+EXPLORE
+You can create your own version of the puzzle by
+coloring the cubes differently. The only constraint
+is that all cubes should have at least four colors.
+But out of all these possible versions, only 10% are
+solvable. So make your puzzle and try your luck!
+
+271
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+272
+
+HANDSHAKE
+PUZZLE
+LEARNINGS
+Spatial
+Thinking
+Logical
+Reasoning
+Hand Eye
+Coordination
+
+From a TV show host to a sweating Professor to a chimpanzee - it took an entire decade before anybody could solve this
+Japanese ring puzzle. The challenge of the puzzle is to transfer
+the handshake ring from Student to Teacher. Happy puzzling!
+WHAT’S GOING ON?
+1.
+
+If you see carefully, the rope goes through the hole to
+the other side but again comes back to the initial side of
+the partition.
+2. Therefore, it looks impossible at first, but if you keep at
+it, you will surely succeed!
+
+273
+
+1
+
+3
+
+2
+
+274
+
+4
+
+5
+
+6
+
+7
+
+275
+
+RING ROPE PUZZLE
+LEARNINGS
+Binary
+Counting
+Power of
+Exponent
+Logical
+Reasoning
+Spatial
+Thinking
+Hand Eye
+Coordination
+
+The goal of the puzzle is to remove the rope
+from structure. The challenge sounds easy but it
+takes a lot of thinking and playing to solve this!
+This puzzle is called Baguenaudier puzzle. The word “baguenaudier” means “time-waster” in French. Culin (1965)
+attributes the puzzle to Chinese general Hung Ming (around
+200 A.D.), who gave it to his wife as a present to occupy her
+while he was away at the wars.
+
+276
+
+WHAT’S GOING ON?
+1. The goal is to remove the rope from the puzzle.
+2. This is called a disentanglement puzzle, a type of mechanical puzzle that involves disentangling one piece
+of puzzle from another. The reverse problem of reassembling the puzzle can be as hard as—or even harder
+than—disentanglement.
+3. A similar puzzle involving disentangling rings from
+a rod was originally used by French peasants to lock
+their suitcases.
+
+277
+
+1
+
+2
+
+3
+
+278
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+279
+
+10
+
+11
+
+12
+
+280
+
+ARROW SLIDING
+PUZZLE
+LEARNINGS
+Spatial
+Thinking
+Logical
+Reasoning
+Hand Eye
+Coordination
+Slide the pieces and make all the arrows point outwards.
+Interestingly, all the pieces and cells are not the same,
+which restricts your sliding. Enjoy puzzling!
+WHAT TO DO?
+1. At the beginning, all the nine pieces are contained in
+a 3 x 3 grid with arrows pointing inwards.
+2. The challenge is to slide the pieces so that all the arrows point outwards.
+3. You can only slide the pieces to the empty cells. Notice that there are two types of cells in the puzzle - (i)
+9 square-shaped cells in 3 x 3 grid and (ii) 2 square
+cells with rounded corners at the top and bottom of
+the grid.
+4. The puzzle pieces are also of two types. Among the
+total nine pieces, only 3 have rounded corners which
+can fit into the top and bottom cells.
+281
+
+1
+
+2
+
+3
+
+4
+
+282
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+283
+
+3 PYRAMIDS TO
+CUBE
+LEARNINGS
+Volume of a
+Pyramid
+Volume of a
+Cube
+
+The cube can be made using 3 identical pyramids whose
+volume is 1/3rd of the cube.
+WHAT’S GOING ON?
+1. The three pyramids forming a cube are identical in
+shape and size. Let’s assume that the side of the cube
+formed by them is 1 unit length.
+2. The base of all three pyramids is a square (sides of the
+square is equal to the side of the cube) and the height
+of the pyramid is also equal to the side of the cube.
+3. The volume of a pyramid is 1/3 x (area of base) x
+height. Therefore, the volume of one pyramid = 1/3 x
+(1 x 1 ) x 1 = 1/3.
+4. The pyramids are not right pyramids (pyramids whose
+apex is above the midpoint of the base).
+
+284
+
+EXPLORE
+1. The square pyramids have four triangular faces. What
+is the length of the sides of these triangles?
+2. There are two types of triangles - the first type of triangle has sides (1, 1, √2) and the other one has sides (1,
+√2, √3). Can you identify these two type of triangles in
+the model?
+3. All the triangles forming the pyramids are right triangles!
+
+285
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+286
+
+6 PYRAMIDS TO
+CUBE
+LEARNINGS
+Volume of a
+Pyramid and
+Cube
+Pythagoras
+Theorem
+
+The six identical pyramids combine to form a cube - which
+means that volume of one pyramid is 1/6th of the cube.
+
+287
+
+WHAT’S GOING ON?
+1. Imagine joining all the vertices of the cube to its center. This will result in dissecting the cube in 6 identical
+pyramids.
+2. The six pyramids forming a cube are identical in shape
+and size. Let’s assume that the side of the cube formed
+by them is 1 unit length.
+3. The base of all six pyramids is a square (sides of the
+square is equal to the side of the cube) and the height
+of the pyramid is equal to half of the side of the cube.
+4. The volume of a pyramid is 1/3 x (area of base) x
+height. Therefore, the volume of one pyramid = 1/3 x
+(1 x 1 ) x 1/2 = 1/6.
+5. These pyramids are right pyramids (pyramids whose
+apex is above the midpoint of the base).
+EXPLORE
+1. If you invert the six pyramids such that the cube opens
+inside out, the resulting structure is a rhombic dodecahedron (two triangles come in same place to form
+rhombuses). This structure will also have a hollow
+cube inside it. Therefore, the volume of the rhombic
+dodecahedron is double that of the cube.
+2. Find out the length of the triangles making the
+pyramids (assuming that the side of the cube to be 1
+unit).
+3. You can also make the cube using six triangular
+pyramids. Try making these pyramids for yourself.
+
+288
+
+1
+
+2
+
+4
+
+5
+
+289

@@ -1,0 +1,69 @@
+Title: IIT Gandhinagar | Gopinadhan Kalon
+Source: https://iitgn.ac.in/faculty/mse/fac-gopinadhan
+
+# Gopinadhan Kalon
+
+-  Materials Engineering
+Gopinadhan Kalon
+
+## Gopinadhan Kalon
+
+Kanchan and Harilal Doshi Chair Associate Professor, Physics
+(Jointly with Materials Engineering department)
+
+- BSc: Calicut University Kerala, 1997
+- MSc: Calicut University Campus Kerala, 1999
+- MTech: IIT Kanpur, 2002
+- PhD: IIT Delhi, 2008
+
+Email: gopinadhan.kalon -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/iitgn.ac.in/nanofluidicslab
+
+Office:  AB 6/314A
+VOIP:  2543
+
+Interaction-driven giant electrostatic modulation of ion permeation in atomically small capillaries, D. Biswabhusan, Y. Noh, S. N. Paltasingh, C. Naman, S. S. Nemala, R. Aparna, K. Suvigya, A. Capasso, S. K. Nayak, L. H. Yeh & K. Gopinadhan* (Corresponding Author), Nature Communications, 16, 8542 (2025)
+
+Selective transport of water molecules through interlayer spaces in graphite, Lalita Saini, Siva Sankar Nemala, Aparna Rathi, Suvigya Kaushik, & K. Gopinadhan* (Corresponding Author), Nature communications 13, 498(2022).
+
+Complete steric exclusion of ions and proton transport through confined monolayer water, K. Gopinadhan, S. Hu, A. Esfandiar, M. Lozada-Hidalgo, F. C. Wang, Q. Yang, A. Tyurnina, A. Keerthi, B. Radha & A. K. Geim, Science 363,145 (2019).
+
+Transport of hydrogen isotopes through interlayer spacing in van der Waals crystals, S. Hu, K. Gopinadhan, A. Rakowski, M. Neek-Amal, T. Heine, I. V. Grigorieva, S. J. Haigh, F. M. Peeters, A. K. Geim & M. Lozada-Hidalgo, Nature Nanotechnology 13, 468 (2018).
+
+Size effect in ion transport through Angstrom-scale slits, A. Esfandiar, B. Radha, F. C. Wang, Q. Yang, S. Hu, S. Garaj, R. R. Nair, A. K. Geim & K. Gopinadhan (corresponding author), Science 358, 511 (2017).
+
+Tunable sieving of ions using graphene oxide membranes, J. Abraham, K. S. Vasu, C. D. Williams, K. Gopinadhan, Y. Su, C. Cherian, J. Dix, E. Prestat, S. J. Haigh, I. V. Grigorieva, P. Carbone, A. K. Geim & R. R. Nair, Nature Nanotechnology 12, 546 (2017).
+
+Molecular transport through capillaries made with atomic-scale precision, B. Radha, A. Esfandiar, F. C. Wang, A. P. Rooney, K. Gopinadhan, A. Keerthi, A. Mishchenko, A. Janardanan, P. Blake, L. Fumagalli, M. Lozada-Hidalgo, S. J. Haigh, S. Garaj, I. V. Grigorieva, H. A. Wu & A. K. Geim, Nature 538, 222(2016).
+
+Surface energy and wettability of van der Waals structures, Meenakshi Annamalai, K. Gopinadhan (*corresponding author), S. A. Han, S. Saha, H. J. Park, E. B. Cho, B. Kumar, A. Patra, S. W. Kim & T. Venkatesan, Nanoscale 8, 5764 (2016).
+
+Extremely large magnetoresistance in few-layer graphene/boron-nitride heterostructures, K. Gopinadhan, Y. J. Shin, R. Jalil, T. Venkatesan, A. K. Geim, A. H. Castro Neto & H. Yang, Nature Communications 6, 8337 (2015).
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Sep 2023 to Present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (July 2018 to Sep 2023)
+- Marie Curie Fellow, Department of Physics and Astronomy, University of Manchester (2015)
+- Research Scientist (Senior), NUSNNI-NanoCore, National University of Singapore (2013 - 2015)
+- Visiting Scientist, Dept of Physics, University of Manchester (2013)
+- Research Scientist, Dept. of ECE., National Un. Singapore (2011 - 2013)
+- Research Scientist (A), Dept. of ECE, National Un. Singapore (2008 - 2011)
+- Project Scientist, IIT Delhi (2007 - 2008)
+
+Awards
+
+- Marie Curie Fellow of the Week, Apr 14, 2017, European Commission
+- Marie Curie International Fellowship 2015 with Nobel laureate Prof. Andre K. Geim
+- Council of Scientific & Industrial Research (CSIR), India, Junior Research Fellowship (JRF) Dec 1999
+- Qualified in Graduate Aptitude Test in Engineering (GATE), India, Feb 2000, 95.4 Percentile, AIR: 69
+- CSIR JRF June 2000 (Top 20% among CSIR qualified candidates)
+- Invitation for Shyama Prasad Fellowship Test, July 2001
+- Best Poster/Paper Presentation Award in the International Conference on Nanoscience and Technology (ICONSAT-06), Mar 16-18, 2006, India Habitat Centre, New Delhi, India
+
+- ● Experimental (soft) condensed matter physics
+- ● Graphene based nanofluidics/desalination techniques
+- ● Ion/Proton transport through confined structures
+- ● Device functionalities utilizing surface and interface physics
+- ● Two-dimensional heterostructures
+
+Complete List of Publications

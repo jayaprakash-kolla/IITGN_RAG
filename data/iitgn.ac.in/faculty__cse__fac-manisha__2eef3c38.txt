@@ -1,0 +1,36 @@
+Title: IIT Gandhinagar | Manisha Padala
+Source: https://iitgn.ac.in/faculty/cse/fac-manisha
+
+# Manisha Padala
+
+-  Computer Science & Engineering
+Manisha Padala
+
+## Manisha Padala
+
+Assistant Professor, Computer Science and Engineering
+
+- BTech: IIT Jodhpur, 2017
+- PhD: IIIT Hyderabad, 2023
+
+Email: manisha.padala -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/view/manishapadala/home
+
+Office:  AB 13/405C
+VOIP:  2620
+
+Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki and Jeremy Vollen. ”Coordinating Monetary Contributions in Participatory Budgeting.” Workshop on AI-based Optimisation, 2022 (AI-OPT’22)
+
+Sankarshan Damle, Manisha Padala, and Sujit Gujar. ”Welfare Optimal Combinatorial Civic Crowdfunding with Budgeted Agents”. Workshop on Games, Agents and Incentives at AAMAS 2022. (GAIW@AAMAS’22)
+
+Padala Manisha, Sankarshan Damle, Sujit Gujar. ”Building Ethical AI: Federated Learning meets Fairness and Privacy.” Conference First Indian Conference on Deployable AI, 2021. Best Paper Award (DAI’21)
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Mar 2024 to present)
+- Postdoc Fellow, IISc Banglore (Mar 2024)
+
+- ● Fairness in Machine Learning
+- ● Game Theory
+- ● Mechanism Design
+
+Complete List of Publications

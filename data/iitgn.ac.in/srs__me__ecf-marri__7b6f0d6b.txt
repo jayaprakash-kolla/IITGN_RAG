@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Marri Girish Kumar
+Source: https://iitgn.ac.in/srs/me/ecf-marri
+
+# Marri Girish Kumar
+
+- Senior Research Staff
+Marri Girish Kumar
+
+## Marri Girish Kumar
+
+IITGN-Early Career Fellow, Mechanical Engineering
+
+- B.Tech: Rajiv Gandhi University of Knowledge Technologies, Andhra Pradesh, 2015
+- M.S. and PhD: IIT Madras,Tamil Nadu, 2022
+
+Email: marri.gk -AT- iitgn.ac.in
+
+Website :  https://scholar.google.com/citations?user=8_jqPT8AAAAJ&hl=en&oi=ao
+
+Work experience
+
+- IITGN-Early Career Fellow, Indian Institute of Technology, Gandhinagar (March 2022 - Present)
+- Senior Project Officer, Indian Institute of Technology Madras, Chennai, Tamil Nadu India (Jan 2022 – March 2022)
+- Post-Doctoral Equivalent Fellow, Indian Institute of Technology Madras, Chennai, Tamil Nadu, India (July 2021 - Jan 2022)
+- Junior Research Fellow, CSIR – Structural Engineering Research Center (CSIR-SERC), Chennai, India (Aug 2015 – July 2016)
+
+Selected Publications
+
+Marri Girish Kumar and C. Balaji, (2022).Effect of phase change temperatures and orientation on the thermal performance of a miniaturized PCM heat sink coupled heat pipe. Experimental Heat Transfer, 1-23.  doi:10.1080/08916152.2022.2073487
+
+Marri Girish Kumar, and C. Balaji (2022). Liquid crystal thermography based study on melting dynamics and the effect of mushy zone constant in numerical modeling of melting of a phase change material. International Journal of Thermal Sciences, 171, 107176. doi:10.1016/j.ijthermalsci.2021.107176
+
+Marri Girish Kumar, and C. Balaji (2021). Experimental and numerical investigations on the effect of porosity and ppi gradients of metal foams on the thermal performance of a composite phase change material heat sink. International Journal of Heat and Mass Transfer, 164, 120454.  doi:10.1016/j.ijheatmasstransfer.2020.120454
+
+Marri Girish Kumar, and C. Balaji (2021). Experimental and numerical investigations on a phase change material based heat sink with symbiotically joined heat pipe. Heat Transfer Engineering, 42, 23–40.  doi:10.1080/01457632.2019.1685241
+
+Marri Girish Kumar, Srikanth R, and C. Balaji (2020). Effect of phase change and ambient temperatures on the thermal performance of a solid-liquid phase change material based heat sinks. Journal of Energy Storage, 30, 101327. doi:10.1016/j.est.2020.101327
+
+- ● Multi-Phase Heat Transfer
+- ● Thermal Energy Storage
+- ● Electronic Cooling
+- ● Wettability Engineering
+- ● Data-driven and Machine Learning models for Heat and Fluid flow
+
+Complete List of Publications

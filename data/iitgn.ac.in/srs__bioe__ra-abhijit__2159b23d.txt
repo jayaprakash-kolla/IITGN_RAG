@@ -1,0 +1,43 @@
+Title: IIT Gandhinagar | Abhijit Paul
+Source: https://iitgn.ac.in/srs/bioe/ra-abhijit
+
+# Abhijit Paul
+
+- Senior Research Staff
+Abhijit Paul
+
+## Abhijit Paul
+
+Research Associate, Biological Engineering
+
+MTech: NIT Agartala, Tripura, 2016
+PhD: NIT Arunachal Pradesh, 2021
+
+Email: abhijit.p -AT- iitgn.ac.in
+
+Website :  https://scholar.google.com/citations?hl=en&user=M8_ic68AAAAJ
+
+Work experience
+
+- Post-Doctoral Fellow, Indian Institute of Technology, Gandhinagar, Gujarat, India (September 2021 - Present)
+
+Selected Publications
+
+Abhijit Paul, Anup Paul, 2021, “Thermo-mechanical Assessment of Nanoparticle mixed Vascular Tissues under Pulsed Ultrasound and Laser Heating,” International Journal of Thermal Sciences, vol. 163, pp. 106815, (DOI: 10.1016/j.ijthermalsci.2020.106815)
+
+Abhijit Paul, Anup Paul, 2020, “In-vitro Thermal Assessment of Vascularized Tissue Phantom in Presence of Gold Nanorods during Photo-thermal Therapy,” ASME Transactions on Journal of Heat Transfer, vol. 142 (10), pp. 101201-1-14 (DOI: 10.1115/1.4047371).
+
+Abhijit Paul, Anup Paul, 2019, “Thermomechanical analysis of a triple layered skin structure in presence of nanoparticle embedding multi-level blood vessels,” International Journal of Heat and Mass Transfer, vol. 148, pp. 119076-1-17 (DOI: 10.1016 /j.ijheat masstransfer.2019.119076)
+
+Abhijit Paul, Anup Paul, 2018, “Computational study of photo-thermal ablation of large blood vessel embedded tumor using localized injection of gold nanoshells,” Journal of Thermal Biology, vol. 78, pp.329-342, (DOI: /10.1016/j.jtherbio.2018.10.021)
+
+Gajendra Singh, Abhijit Paul, Himanshu Shekhar, Anup Paul, 2020 “Pulsed Ultrasound Assisted Thermo-therapy for Subsurface Tumor Ablation: A numerical investigation,” ASME Transactions on Journal of Thermal Science and Engineering Application., vol. 13 (4), pp. 041007. (DOI:10.1115/1.4048674)
+
+- ● Shear Wave Elastography
+- ● Acousto-mechanical model
+- ● Photo thermal therapy
+- ● Non-linear modelling
+- ● Plasmonic nanoparticles
+- ● Computational Fluid Dynamics
+
+Complete List of Publications

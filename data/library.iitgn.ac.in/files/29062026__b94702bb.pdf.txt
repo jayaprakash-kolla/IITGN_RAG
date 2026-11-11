@@ -1,0 +1,131 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 26, 2026
+(Added during 22nd - 25th June 2026)
+Available for the issue from 04th July 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+RESEARCH METHODS
+Title: Beyond belief: how evidence shows what really works​
+Author: Pearson, Helen​
+Publisher: New Jersey: Princeton University Press, 2026​
+Call No.: 001.42 PEA ​
+Acc. No.: 037138
+
+COMPUTER SCIENCES
+Title: Computing in the age of decolonization: India’s lost technological revolution​
+Author: Banerjee, Dwaipayan​
+Publisher: New Jersey: Princeton University Press, 2026​
+Call No.: 004.0954 BAN ​
+Acc. No.: 037142
+
+ARTIFICIAL INTELLIGENCE
+Title: Thinking AI: how artificial intelligence emulates human understanding​
+Author: MacCormick, John​
+Publisher: New Jersey: Princeton University Press, 2026​
+Call No.: 006.3 MAC ​
+Acc. No.: 037143
+
+SOCIAL SCIENCES
+Title: Body digital: a brief history of humans and machines from cuckoo clocks to
+ChatGPT​
+Author: Chang, Vanessa​
+Publisher: Brooklyn: Melville House, 2025​
+Call No.: 303.4834 CHA ​
+Acc. No.: 037146
+Title: Visceral politics​
+Author: Arumugam, Indira​
+Publisher: New York: Cambridge University Press, 2025​
+Call No.: 306.2095482 ARU ​
+Acc. No.: 037132
+
+Title: For harmony and strength: Japanese white-collar organization in
+anthropological perspective​
+Author: Rohlen, Thomas P.​
+Publisher: Berkeley: University of California Press, 1979​
+Call No.: 306.360952 ROH ​
+Acc. No.: 037130
+
+Title: Cambridge companion to Periyar​
+Author: Venkatachalapathy, A. R.​
+Publisher: New York: Cambridge University Press, 2025​
+Call No.: 320.95482 VEN ​
+Acc. No.: 037134
+
+MILITARY SCIENCES
+Title: AI, automation, and war: the rise of a military-tech complex​
+Author: King, Anthony​
+Publisher: New Jersey: Princeton University Press, 2025​
+Call No.: 355.3433 KIN ​
+Acc. No.: 037141
+
+ASTRONOMY
+Title: Modern cosmology, 3rd ed.​
+Author: Dodelson, Scott​
+Publisher: London: Academic Press, 2026​
+Call No.: 523.1 DOD ​
+Acc. No.: 037136
+
+PHYSICS
+Title: Top ten ideas of physics: foundations for understanding the universe​
+Author: Zee, Anthony​
+Publisher: New Jersey: Princeton University Press, 2025​
+Call No.: 530 ZEE ​
+Acc. No.: 037140
+
+Title: Quantum theory: concepts and methods​
+Author: Peres, Asher​
+Publisher: Dordrecht: Kluwer Academic Publishers, 1998​
+Call No.: 530.12 PER ​
+Acc. No.: 037131
+
+BIOLOGY
+Title: Living matter: seeking new physics in the biological world​
+Author: Levine, Alex J.​
+Publisher: New Jersey: Princeton University Press, 2025​
+Call No.: 570.1513 LEV ​
+Acc. No.: 037139
+
+Title: Crick: a mind in motion​
+Author: Cobb, Mathew​
+Publisher: London: Profile Books, 2025​
+Call No.: 572.8092 COB ​
+Acc. No.: 037145
+
+CHEMICAL ENGINEERING
+Title: Separation process principles: with applications using process simulators,
+4th ed.​
+Author: Seader, J. D.​
+Publisher: Hoboken: Wiley, 2016​
+Call No.: 660.2842 SEA ​
+Acc. No.: 037137
+
+ARTS & ORIGAMI
+Title: Empire of images, visual culture and the British in India, 1688–1815​
+Author: Chatterjee, Apurba​
+Publisher: New York: Cambridge University Press, 2025​
+Call No.: 700.954 CHA ​
+Acc. No.: 037133
+
+Title: Origametry: mathematical methods in paper folding​
+Author: Hull, Thomas C.​
+Publisher: New York: Cambridge University Press, 2021​
+Call No.: 736.982 HUL ​
+Acc. No.: 037135
+
+ARCHAEOLOGY
+Title: Ceramic analysis: laboratory methods​
+Author: Hein, Irmgard​
+Publisher: New York: Cambridge University Press, 2025​
+Call No.: 930.10285 HEI ​
+Acc. No.: 037144

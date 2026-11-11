@@ -1,0 +1,66 @@
+Title: Teaching Python Through Play: KVS Computer Science PGT Training at IITGN
+Source: https://cse.iitgn.ac.in/blog/kvs-computer-science-teacher-training-2018
+
+CG
+
+Center for Creative Learning, IIT Gandhinagar
+19 Jun 2018· 4 min read
+
+From June 8 to June 19, 2018, the Center for Creative Learning (CCL) at IIT Gandhinagar conducted the first spell of an in-service course for Kendriya Vidyalaya Sangathan Post Graduate Teachers of Computer Science. Fifty-two teachers from across India came to the IITGN campus for a 12-day program on the basics of computer science and Python.
+
+The timing mattered. In 2018, Python was being introduced into the CBSE curriculum in place of C++, and many teachers arrived with understandable apprehension about teaching a new programming language. The workshop was designed to make that transition concrete, confident, and engaging.
+
+Faculty members from Computer Science and Engineering at IITGN and members of CCL facilitated the program, including Anirban Dasgupta, Neeldhara Misra, Manish Jain, and Ravi Sinha.
+
+## Learning by Doing
+
+The workshop had lectures, but its center of gravity was experiential learning. Teachers solved problems, built models, played games, and used stories and classroom activities to understand computing ideas.
+
+The program connected Python with broader computer science. Participants worked through programming basics, regular expressions, file handling, object-oriented programming, Python libraries, Django, SQLite, and web development. They also explored sorting, searching, graph ideas, computer architecture, Arduino, microcontrollers, and robotics through activities that could travel back to classrooms.
+
+One highlight was the use of games to explain computing concepts. Sorting, searching, and even computer architecture were explored through group activities rather than only board work. Teachers also built and programmed a mechanical arm, making hardware and software feel connected.
+
+The workshop also introduced classroom-management and teaching tools such as Repl.it and Canva, with an emphasis on reducing administrative overhead and increasing time available for conceptual discussion.
+
+## Outcomes
+
+The largest outcome was confidence. After the 12-day immersion, more than 75% of survey respondents reported feeling confident about teaching Python in the classroom. This was a significant shift from the baseline, where participants were worried about the curriculum change and the move to a new language.
+
+The workshop also broadened how teachers saw computer science. By connecting programming with STEM activities, bioinformatics, robotics, microcontrollers, and classroom games, the course positioned computer science as an interdisciplinary way of thinking rather than a stand-alone subject.
+
+More than 80% of participants approached instructors for a special session on innovative pedagogy and technology-enhanced teaching. More than 90% wanted a follow-up spell at IIT Gandhinagar, and many emphasized that such pedagogy should reach computer science teachers across India.
+
+Navneet Sadh, a teacher from KV Kokrajhar, Assam, described the program this way:
+
+This workshop was on a whole different level. The target was to provide better education opportunities to children through us. My classes are going to be full of such activities.
+
+Manish Jain, Head of CCL, summarized the idea behind the design:
+
+The curriculum of KVS has been revamped. So now, the teachers have to teach Computer Science in Python language instead of C++. We showed them how Computer Science can be taught in a lucid manner using Python. For instance, teachers learnt about graphs, sorting, parallel computing and computer architecture by playing many games.
+
+## A 12-Day Arc
+
+The program moved from orientation and problem solving into Python, computer architecture, Arduino, web development, projects, robotics, peer demonstrations, and open-house presentations.
+
+Early sessions introduced computer science as both engineering and science. Python sessions covered variables, expressions, control flow, functions, lists, dictionaries, regular expressions, file input/output, exceptions, libraries, object-oriented programming, and Django. Practical sessions gave teachers time to work through assignments and projects.
+
+Later sessions focused on CS Unplugged-style activities, Arduino, robotic-arm construction, project work, group presentations, and reflection. The course concluded with project presentations, an open house, feedback, and certificates.
+
+## CCL and the Larger Outreach Story
+
+The program reflected CCL’s central belief: learners understand deeply when they do, make, explore, pull things apart, and put them back together. CCL began as the Creative Learning Initiative at IIT Gandhinagar and grew into a lab full of STEM models, toys, exhibits, and classroom-ready activities.
+
+By the time of this training, CCL had worked with thousands of teachers and college professors across India and had designed hundreds of activities for hands-on STEM learning.
+
+The KVS Computer Science PGT program showed how university faculty, CCL facilitators, and school teachers can work together on a curriculum transition. The goal was not just to teach Python syntax. It was to help teachers carry a more joyful, conceptual, and activity-rich version of computer science back to their students.
+
+## Links
+
+- Program blog
+- Feedback video
+- Feedback forms and material
+- Original Google Doc source
+
+## Related Articles
+
+28 NovPython Is Not an Acceptable MLProgramming LanguagesTeaching

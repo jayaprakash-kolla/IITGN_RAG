@@ -1,0 +1,39 @@
+Title: IIT Gandhinagar | pd-sarun
+Source: https://iitgn.ac.in/srs/me/pd-sarun
+
+# Sarun Kumar K
+
+- Senior Research Staff
+Sarun Kumar K
+
+## Sarun Kumar K
+
+Post-Doctoral Fellow, Mechanical Engineering
+
+- B.Tech.: Mechanical Engineering Department, Government Engineering College Thrissur, Kerala 2008
+- M.Tech.: Thermal Sciences, Mechanical Engineering Department, National Institute of Technology, Calicut, 2012
+- Ph.D.: Cryogenic Engineering, Indian Institute of Technology Kharagpur, 2021
+
+Email: sarun.k -AT- iitgn.ac.in
+
+Website :  https://scholar.google.co.in/citations?user=vSyTW6cAAAAJ&hl=en
+
+Work experience
+
+- Post-doctoral Fellow, Indian Institute of Technology, Gandhinagar (2021 to present).
+- Assistant professor, Department of Mechanical Engineering, Saintgits College of Engineering, Kottayam, Kerala (June 2012 – December 2013).
+- Software Engineer, Infosys Technologies Limited, Mysuru, Karnataka (September 2008 to February 2009).
+
+Selected Publications
+
+- Sarun Kumar Kochunni, Kanchan Chowdhury. Effect of precooling with transcritical CO2 cycle on two types of LNG boil-off gas reliquefaction systems. Journal of Natural Gas Science & Engineering (Elsevier) Vol. 89, 2021, 103876. (https://doi.org/10.1016/j.jngse.2021.103876)
+- Sarun Kumar Kochunni, Kanchan Chowdhury. Use of dual pressure Claude liquefaction cycles for complete and energy-efficient reliquefaction of boil-off gas in LNG carrier ships. Energy (Elsevier) Vol. 198, 2020, 117345. (https://doi.org/10.1016/j.energy.2020.117345)
+- Sarun Kumar Kochunni, Kanchan Chowdhury. Zero methane loss in reliquefaction of boil-off gas in liquefied natural gas carrier ships by using packed bed distillation in reverse Brayton system. Journal of Cleaner Production (Elsevier) Vol. 260, 2020, 121037. (https://doi.org/10.1016/j.jclepro.2020.121037)
+- Sarun Kumar Kochunni, Kanchan Chowdhury. LNG boil-off gas reliquefaction by Brayton refrigeration system–Part 1: Exergy analysis and design of the basic configuration. Energy (Elsevier) Vol. 176, 2019, 753–764. (https://doi.org/10.1016/j.energy.2019.04.032)
+- Sarun Kumar Kochunni, Jubil Joy, Kanchan Chowdhury. LNG boil-off gas reliquefaction by Brayton refrigeration system–Part 2: Improvements over basic configuration. Energy (Elsevier) 176, 2019, 861–873. (https://doi.org/10.1016/j.energy.2019.04.033)
+
+- ● Energy and Exergy Analysis
+- ● Process Simulation
+- ● Thermal Sciences
+- ● Cryogenic Systems
+- ● Liquefied Natural Gas

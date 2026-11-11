@@ -1,0 +1,44 @@
+Title: IIT Gandhinagar | Anirban Dasgupta
+Source: https://iitgn.ac.in/faculty/cse/fac-anirban
+
+# Anirban Dasgupta
+
+-  Computer Science & Engineering
+Anirban Dasgupta
+
+## Anirban Dasgupta
+
+Professor, Computer Science and Engineering (Affiliated to Discipline of Artificial Intelligence)
+
+- BTech: IIT Kharagpur, 1999
+- MS: Cornell University, 2005
+- PhD: Cornell University, 2005
+
+Email: anirbandg -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/site/anirbandasgupta
+
+Office:  AB 13/405G
+VOIP:  2463 / 2080
+
+Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya, Anirban Dasgupta, Soumen Chakrabarti: Task-Specific Representation Learning for Web-Scale Entity Disambiguation. AAAI 2018.
+
+Jayesh Choudhari, Anirban Dasgupta, Indrajit Bhattacharya, Srikanta Bedathur: Discovering Topical Interactions in Text-Based Cascades Using Hidden Markov Hawkes Processes. ICDM 2018.
+
+Flavio Chierichetti, Anirban Dasgupta, Shahrzad Haddadan, Ravi Kumar, Silvio Lattanzi: Mallows Models for Top-k Lists. NeurIPS 2018.
+
+Jayesh Choudhari, Anirban Dasgupta, Neeldhara Misra, M. S. Ramanujan: Saving Critical Nodes with Firefighters is FPT. ICALP 2017.
+
+Anirban Dasgupta, Ravi Kumar, Tamás Sarlós: Caching with Dual Costs. WWW 2017.
+
+- Professor, Indian Institute of Technology, Gandhinagar (Feb 2020 to Present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Jan 2014 to Feb 2020)
+- Senior Scientist, Yahoo Labs (Feb 2011 - Dec 2013)
+- Scientist, Yahoo Labs (Feb 2008 - Feb 2011)
+- Postdoctoral Researcher, Yahoo Labs (Feb 2006 - Feb 2008)
+
+- ● Algorithms for large scale data
+- ● Social networks
+- ● Computational social science
+- ● Crowdsourcing
+- ● Machine learning

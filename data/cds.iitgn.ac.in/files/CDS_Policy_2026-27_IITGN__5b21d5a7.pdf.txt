@@ -1,0 +1,2200 @@
+#flags:
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+CAREER DEVELOPMENT SERVICES
+IIT GANDHINAGAR
+
+CDS POLICY DOCUMENT
+(Term of Reference Purpose Only)
+
+With effect from the 2026–27 Placement and Internship Cycle until further notice
+This Policy supersedes all previous:
+❖ CDS Policies • Placement Policies • Internship Policies
+❖ Governance Frameworks
+❖ Operational Circulars and all related CDS regulatory documents
+
+Career Development Services | IIT Gandhinagar | cds@iitgn.ac.in
+
+CDS Policy 2026-27/ IITGN | Page 1
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+FOREWORD
+Career Development Services (CDS) earlier known as the Student Placement Office (SPO) is the officially
+designated institutional body of IIT Gandhinagar responsible for administering and facilitating the campus
+placement and internship ecosystem. CDS serves as the formal interface between IIT Gandhinagar and the
+professional world, engaging with industry, research institutions, and academic organizations to provide
+structured, credible, and equitable recruitment opportunities to eligible students.
+The placement and internship landscape has grown considerably in scale, complexity, and competitiveness
+over successive recruitment cycles. The diversity of recruiting organizations, the multiplicity of processes, the
+increasing expectations of professionalism, and the institutional commitments involved require that CDS
+operations be governed by a formal, comprehensive, and enforceable framework. This Policy has been
+developed in response to that institutional requirement.
+This Policy Framework is intended to serve three distinct but complementary purposes. First, it constitutes a
+governance framework that protects the institutional interests of IIT Gandhinagar, defines the authority
+relationships within CDS, and establishes clear accountability structures at every level of CDS operations.
+Second, it functions as a professional operational code, setting out the standards of conduct, documentation,
+communication, and compliance expected of all participants in CDS-administered processes. Third, it
+provides the structural foundation for a recruitment ecosystem that is efficient, transparent, consistent, and
+credible — both in the eyes of participating organizations and in the interests of the students it serves.
+The CDS Student Team carries a significant operational responsibility in the daily execution of recruitment
+activities. The quality of institutional engagement with recruiting organizations, the management of complex
+logistics, and the maintenance of student conduct standards are functions that depend substantially on the
+commitment, professionalism, and integrity of the CDS Student Team. This Policy formally recognizes that
+contribution and establishes a governance architecture that enables effective student-led operations within a
+framework of appropriate institutional oversight.
+Participation in CDS processes is not a passive entitlement. It carries professional and ethical obligations —
+to recruiting organizations, to fellow students, and to the institution. The credibility of IIT Gandhinagar in the
+eyes of the professional world is an institutional asset that must be actively protected by every participant in
+the recruitment ecosystem. This Policy gives operational expression to that expectation.
+All registered students, members of the CDS Student Team, and other participants in CDS processes are
+expected to familiarize themselves fully with this Policy and to comply with its provisions at all times. The
+terms of this Policy shall be binding upon all participants from the moment of registration, and ignorance of
+any provision shall not constitute a valid defense.
+Career Development Services, IIT Gandhinagar
+
+CDS Policy 2026-27/ IITGN | Page 2
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+ABBREVIATIONS
+Abbreviation
+
+Full Form
+
+AIPC
+
+All IIT Placement Council
+
+APS
+
+Academic Performance Score
+
+CDS
+
+Career Development Services
+
+CDS Admin
+
+CDS Administration
+
+CPI
+
+Cumulative Performance Index
+
+CV / Resume
+
+Curriculum Vitae
+
+Day-0
+
+Designated Day-Zero Recruitment (Placement / Internship) Event
+
+EOD
+
+End of Day
+
+FA
+
+Faculty Advisor
+
+FP
+
+Foundation Programme
+
+GPS
+
+Guided Process Scheme
+
+HoD
+
+Head of Department
+
+HR
+
+Human Resources
+
+IITGN
+
+Indian Institute of Technology Gandhinagar
+
+IMS
+
+Institute Management System
+
+MoU
+
+Memorandum of Understanding
+
+PDC
+
+Professional Development Cell (or equivalent institutional session)
+
+PE
+
+Physical Education
+
+PPI
+
+Pre-Placement Interview
+
+PPO
+
+Pre-Placement Offer
+
+PPT
+
+Pre-Placement Talk
+
+Chair CDS
+
+Chair, Career Development Services
+
+SOP
+
+Statement of Purpose
+
+SPM
+
+Student Placement Manager
+
+SPO
+
+Student Placement Office (former designation of CDS)
+
+SSAC
+
+Senate Student Affairs Committee
+
+UGRC
+
+Undergraduate Research Conclave
+
+All abbreviations used in this document shall carry the meanings assigned above and in Section 2.1
+(Definitions). Where an abbreviation appears for the first time in a section, the full form is also be
+provided for clarity.
+
+CDS Policy 2026-27/ IITGN | Page 3
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+TABLE OF CONTENTS
+FOREWORD ......................................................................................................................................................2
+ABBREVIATIONS ..............................................................................................................................................3
+TABLE OF CONTENTS .....................................................................................................................................4
+SECTION 1 — FOUNDATIONAL PROVISIONS ...............................................................................................7
+1.1 Purpose and Objectives ............................................................................................................................7
+1.2 Legal and Institutional Characterization of CDS .......................................................................................7
+1.3 Scope of Applicability ................................................................................................................................7
+1.4 Deemed Consent and Binding Effect ........................................................................................................7
+1.5 Communication Responsibility ..................................................................................................................8
+SECTION 2 — DEFINITIONS AND INTERPRETATION ...................................................................................9
+2.1 Definitions .................................................................................................................................................9
+2.2 Interpretation Rules .................................................................................................................................11
+SECTION 3 — DISCIPLINARY FRAMEWORK: WARNINGS, STRIKES, AND PENALTIES .......................12
+3.1 Framework Architecture ..........................................................................................................................12
+3.2 Warning Framework ................................................................................................................................12
+3.3 Strike Framework ....................................................................................................................................12
+3.4 Penalty Framework .................................................................................................................................13
+3.5 Strike and Penalty Waiver .......................................................................................................................13
+3.6 Procedural Fairness ................................................................................................................................13
+3.7 Late Arrival ..............................................................................................................................................13
+SECTION 4 — GOVERNANCE STRUCTURE AND INSTITUTIONAL HIERARCHY ....................................15
+4.1 Governance Architecture ........................................................................................................................15
+4.2 Chair, Career Development Services (Chair CDS) .................................................................................15
+4.3 CDS Administration .................................................................................................................................15
+4.4 CDS Student Team — Institutional Status and Authority .......................................................................15
+4.5 Student Placement Manager (SPM) .......................................................................................................16
+4.6 Core Team ..............................................................................................................................................16
+4.7 CDS Student Team — Succession and Continuity .................................................................................16
+4.8 Placement and Internship Coordinators..................................................................................................17
+4.9 Technology Lead and Social Media Lead ...............................................................................................17
+4.10 Authority Delegated to the CDS Student Team ....................................................................................17
+4.11 CDS Termination Policy — Student Team Members ...........................................................................17
+SECTION 5 — REGISTRATION FRAMEWORK.............................................................................................19
+5.1 General Registration Principles ..............................................................................................................19
+5.2 Placement Registration ...........................................................................................................................19
+5.3 Placement Deregistration and Refund Policy .........................................................................................19
+5.4 Industrial Internship Registration ............................................................................................................19
+5.5 Academic Internship Registration ...........................................................................................................19
+SECTION 6 — ELIGIBILITY FRAMEWORK ...................................................................................................21
+6.1 CDS Eligibility Principles .........................................................................................................................21
+6.2 Placement Eligibility ................................................................................................................................21
+6.3 Industrial Internship Eligibility ..................................................................................................................21
+CDS Policy 2026-27/ IITGN | Page 4
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+6.4 Academic Internship Eligibility ................................................................................................................22
+6.5 External Offers Management (Applicable to registered students) ..........................................................23
+Placement .....................................................................................................................................................23
+Internship ......................................................................................................................................................23
+SECTION 7 — PLACEMENT POLICY ............................................................................................................25
+7.1 One Student One Offer Policy ................................................................................................................25
+7.2 Multiple Offers and Selection Rules ........................................................................................................25
+7.3 PPO and PPI ...........................................................................................................................................25
+7.4 Offer Revocation by Recruiting Organization .........................................................................................25
+SECTION 8 — INDUSTRIAL INTERNSHIP POLICY ......................................................................................26
+8.1 One Internship Per Cycle Principle .........................................................................................................26
+8.2 Selection and Offer Management ...........................................................................................................26
+8.3 Communication Protocol — Internship ...................................................................................................26
+8.4 Joining, Completion, and Withdrawal......................................................................................................26
+8.5 Internship Rejection and Withdrawal — Strike Logic ..............................................................................26
+8.6 AIPC Reporting Authority ........................................................................................................................27
+SECTION 9 — ACADEMIC INTERNSHIP POLICY ........................................................................................28
+9.1 Ranking and Selection Process ..............................................................................................................28
+9.2 Academic Internship Limit and Financial Support ...................................................................................28
+9.3 Financial Support ....................................................................................................................................28
+9.4 Student Obligations — Academic Internships ........................................................................................28
+9.5 Off-Campus Application Control — Academic Internships .....................................................................29
+9.6 Documentation Requirements — Academic Internships ........................................................................29
+SECTION 10 — STUDENT OBLIGATIONS, CONDUCT, AND COMPLIANCE .............................................30
+10.1 General Obligations ..............................................................................................................................30
+10.2 Documentation and Preparation Obligations ........................................................................................30
+10.3 Professional Conduct Obligations .........................................................................................................30
+10.4 Communication Obligations ..................................................................................................................30
+10.5 Deregistration from a Specific Company ..............................................................................................31
+SECTION 11 — OFFICIAL COMMUNICATION FRAMEWORK .....................................................................32
+11.1 Authorized Communication Channels...................................................................................................32
+11.2 Communication Standards and Obligations .........................................................................................32
+SECTION 12 — CONFIDENTIALITY AND INSTITUTIONAL DATA GOVERNANCE ...................................33
+12.1 Scope of Confidential Information .........................................................................................................33
+12.2 Student Confidentiality Obligations .......................................................................................................33
+12.3 CDS Student Team Confidentiality Obligations ....................................................................................33
+12.4 CDS Data Processing Authorization .....................................................................................................33
+SECTION 13 — EMERGENCY POWERS, OPERATIONAL DISCRETION, AND FORCE MAJEURE .........34
+13.1 Emergency Operational Powers ...........................................................................................................34
+13.2 Institutional Discretion ...........................................................................................................................34
+13.3 Policy Amendment Authority .................................................................................................................34
+SECTION 14 — LIMITATION OF LIABILITY, NON-GUARANTEE, AND NON-RESPONSIBILITY
+CLAUSES .........................................................................................................................................................35
+14.1 No Guarantee of Placement or Internship ............................................................................................35
+CDS Policy 2026-27/ IITGN | Page 5
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+14.2 No Liability for Recruiter Actions ...........................................................................................................35
+14.3 No Vested Rights ..................................................................................................................................35
+14.4 No Entitlement to Process Continuation ...............................................................................................35
+14.5 Limitation on Scope of Liability .............................................................................................................35
+SECTION 15 — RECORD MAINTENANCE, RESIDUAL AUTHORITY, AND INTERPRETATION ..............36
+15.1 Record Maintenance .............................................................................................................................36
+15.2 Residual Authority Clause .....................................................................................................................36
+15.3 Policy Interpretation Authority ...............................................................................................................36
+SECTION 16 — SUPPLEMENTARY SCHEDULES, CALENDARS, AND OPERATIONAL GUIDANCE .....37
+16.1 Nature of Supplementary Operational Items ........................................................................................37
+16.2 Modification of Supplementary Operational Items ................................................................................37
+16.3 Distinction Between Core Policy and Supplementary Items .................................................................37
+16.4 Index of Supplementary Operational Items ..........................................................................................37
+ANNEXURE A ..................................................................................................................................................38
+DISCIPLINARY QUICK REFERENCE TABLE ...............................................................................................38
+ANNEXURE B ..................................................................................................................................................39
+CYCLE CALENDARS: 2026–27 ......................................................................................................................39
+Placement and Industrial Internship Cycles — 2026–27 ..............................................................................39
+Academic Internship Cycle — 2026–27 ........................................................................................................39
+ANNEXURE C ..................................................................................................................................................40
+FORMALIZED FREQUENTLY ASKED QUESTIONS (FAQs) ........................................................................40
+
+CDS Policy 2026-27/ IITGN | Page 6
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 1 — FOUNDATIONAL PROVISIONS
+1.1 Purpose and Objectives
+Career Development Services (CDS) — earlier known as the Student Placement Office (SPO) — at IIT
+Gandhinagar is the officially designated institutional body responsible for facilitating, coordinating, and
+administering the campus placement and internship processes for eligible students of IIT Gandhinagar. This
+Policy Framework ('the Policy') is issued to establish a unified, comprehensive, and enforceable governance
+and compliance framework governing all activities, processes, relationships, and obligations within the
+operational domain of CDS.
+The Policy is intended to:
+1.1.1 Establish and formalize the governance structure, operational hierarchy, authority
+relationships, and institutional roles within CDS;
+1.1.2 Define the rights, powers, responsibilities, and obligations of all parties operating within or
+interacting with the CDS ecosystem, including students, the CDS Student Team, CDS
+Administration, the Chair CDS, and recruiting organizations;
+1.1.3 Provide a clear, unambiguous, and enforceable framework for the conduct of placement and
+internship processes, including registration, eligibility, selection, offer management, and cycle
+completion;
+1.1.4 Establish a robust disciplinary and compliance framework with clearly defined progressive
+consequences for policy violations;
+1.1.5 Protect the institutional integrity, operational authority, and reputational interests of CDS and
+IIT Gandhinagar;
+1.1.6 Standardize all operational procedures,
+requirements, and conduct expectations;
+
+communication
+
+protocols,
+
+documentation
+
+1.1.7 Preserve institutional flexibility, discretionary authority, and emergency operational powers
+necessary for effective cycle administration; and
+1.1.8 Serve as the primary reference document for all CDS-related matters during the applicable
+recruitment cycle.
+
+1.2 Legal and Institutional Characterization of CDS
+For the purposes of this Policy and all CDS activities, the following characterizations are mandatory and shall
+govern interpretation of all related provisions:
+1.2.1 CDS is a facilitation and coordination body only. CDS does not function as an employer,
+recruiter, guarantor, placement assurance body, or contracting authority in relation to any
+employment or internship relationship between a student and a recruiting organization.
+1.2.2 CDS does not guarantee, represent, or warrant: (a) placement or internship; (b) compensation,
+designation, or job role quality; (c) continuation or non-revocation of any offer; (d) the conduct,
+decisions, timelines, or representations of any recruiting organization; or (e) any outcome of the
+recruitment process.
+1.2.3 The role of CDS is limited to providing a structured, administered platform through which
+eligible students may access recruitment opportunities made available by participating organizations.
+All decisions regarding selection, rejection, offer extension, offer revocation, and post-placement
+matters vest entirely with the respective recruiting organizations.
+1.2.4 Nothing in this Policy, and no communication, representation, or statement by any CDS
+personnel, shall be construed as creating any contractual obligation, entitlement, or guarantee on
+behalf of CDS or IIT Gandhinagar.
+
+1.3 Scope of Applicability
+
+CDS Policy 2026-27/ IITGN | Page 7
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+1.3.1 This Policy applies to all students of IIT Gandhinagar who register or participate in any CDSadministered process, including but not limited to placement cycles, industrial internship cycles, and
+academic internship processes, during the applicable recruitment cycle.
+1.3.2 This Policy applies to all members of the CDS Student Team, including the Student Placement
+Manager, Placement Coordinators, Internship Coordinators, Senior Representatives,
+Representatives, and all other designated roles.
+1.3.3 This Policy governs all communications, conduct, processes, documentation, and interactions
+occurring within the CDS operational framework, whether online, offline, digital, physical, formal, or
+informal.
+1.3.4 Provisions of this Policy that are specifically directed at particular categories of students,
+teams, or cycles shall apply as specified, without affecting other provisions.
+
+1.4 Deemed Consent and Binding Effect
+1.4.1 Registration with CDS — whether pre-registration or final registration — shall constitute
+deemed acknowledgement, acceptance, and consent by the student to comply fully with this Policy
+and all operational instructions issued by CDS or the CDS Student Team.
+1.4.2 Participation in any CDS-administered process shall constitute deemed consent to this Policy,
+irrespective of whether the student has fully read, partially read, or not read the Policy document.
+1.4.3 Ignorance of this Policy or any provision thereof shall not constitute a valid defense in any
+disciplinary, compliance, or grievance matter.
+1.4.4 The obligation to remain informed of this Policy and all official communications issued by CDS
+rests entirely with the student.
+
+1.5 Communication Responsibility
+Students are solely responsible for regularly reviewing all official communications issued by CDS, including
+emails, WhatsApp messages, CDS Portal notices, Google Form notifications, and telephone calls. Failure to
+review, access, or respond to any official communication shall not constitute a valid defense against any
+disciplinary action, missed deadline, or compliance failure.
+
+CDS Policy 2026-27/ IITGN | Page 8
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 2 — DEFINITIONS AND INTERPRETATION
+2.1 Definitions
+Unless the context otherwise requires, the following terms shall have the meanings assigned to them
+below. All defined terms are capitalized throughout this Policy.
+"Academic Internship"
+A research or academic engagement opportunity at a recognized national or international
+university, research institute, or academic organization, facilitated by CDS, distinct from an
+Industrial Internship.
+"Academic Performance Score (APS)"
+The score calculated or derived by CDS using CPI data received from the Academic Office of
+IIT Gandhinagar, solely for CDS operational, eligibility, ranking, and recruitment purposes.
+The APS is based on official CPI data and shall be rounded to one decimal place. Courses
+carrying zero credit, including Physical Education (PE), Foundation Programme (FP), and
+Viva-Voce, shall not be factored into the APS. The APS does not replace or alter the official
+CPI maintained by the Academic Office; it is a CDS-internal operational metric.
+"Acceptance of an Offer"
+The formal, explicit affirmative response by a student to an offer of placement or internship,
+communicated in the prescribed manner through CDS or as directed by CDS.
+"Active Recruitment Process"
+Any stage of a placement or internship cycle that has been formally initiated by CDS and is
+currently underway, including but not limited to pre-placement talks, aptitude or technical
+tests, group discussions, case study submissions, assignment evaluations, interviews
+(preliminary or final), result declarations, and offer communication stages.
+“Approved Degree Programs”
+Include the list of approved programs here
+BTech, MTech, MSc, MA, PhD, MDes, e-Masters
+"Authorized Representative"
+Any individual designated by CDS or the CDS Student Team in writing or through official
+communication to perform a specified operational function or communicate on behalf of CDS
+during a recruitment process.
+"Behavioural Misconduct"
+Any display of disrespectful, abusive, intimidating, inappropriate, or unprofessional conduct
+toward any person in the CDS ecosystem, including CDS Student Team members, CDS
+Administration, the Chair CDS, or Company Representatives.
+"CDS"
+Career Development Services, the official placement and internship services body of IIT
+Gandhinagar, operating under the supervision of the Chair CDS.
+"CDS Administration / CDS Admin"
+The administrative staff of CDS responsible for institutional, administrative, financial, and
+regulatory functions.
+"CDS Portal"
+The official online platform maintained by CDS through which students register, submit
+documents, and access process-related information.
+"CDS Student Team"
+The officially constituted student body responsible for the operational execution of all
+placement and internship activities under the authority of the Chair CDS and the guidance of
+CDS Administration, comprising the Core Team and all other designated members.
+
+CDS Policy 2026-27/ IITGN | Page 9
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+"Chair, Career Development Services (Chair CDS)"
+The faculty member of IIT Gandhinagar formally designated as the Chair/ Head of Career
+Development Services, who shall be the final institutional authority in all CDS-related matters.
+"Company Representative / Recruiter Representative"
+Any officer, agent, employee, or HR professional authorized by the respective organization to
+participate in the recruitment process at IIT Gandhinagar.
+"Compliance Failure"
+Any instance of a student's failure to comply with a procedural obligation, operational
+instruction, reporting requirement, deadline, attendance requirement, or documentation
+requirement as mandated by this Policy or issued by CDS.
+"Confidential Information"
+All information, data, and materials designated as confidential under Section 12 of this
+Policy, including but not limited to student academic records, resumes, shortlists, rankings,
+compensation details, HR contact information, recruiter communications, process details,
+disciplinary records, internal communications, placement statistics, and operational
+databases.
+"Core Team"
+The primary decision-making and operational leadership body of the CDS Student Team,
+comprising the Student Placement Manager (SPM), Placement Coordinator(s), Internship
+Coordinator(s), and the Internal Coordinator, as officially designated.
+"Day-0"
+First interview day of the cycle, a designated recruitment event day on which multiple
+recruiting organizations are scheduled to conduct their selection processes and declare
+results within the same slot or on the same day, as formally notified by CDS.
+"Deregistration"
+The formal withdrawal by a student from the CDS placement or internship cycle.
+"Disciplinary Action"
+Any formal action taken by CDS against a student for a policy violation, including the
+issuance of a Warning, Strike, or Penalty.
+"Disqualification"
+The formal removal of a student from the CDS placement or internship cycle.
+"Eligible Student"
+A student, enrolled in any of the approved degree programs, who satisfies all applicable
+registration, academic, and conduct requirements to participate in a specific CDSadministered process, as determined in accordance with this Policy and the criteria specified
+by the relevant recruiting organization.
+"External Offer"
+Any offer of placement or internship secured by a student through channels other than the
+CDS placement or internship process, including off-campus, online, or independently
+secured opportunities.
+"Force Majeure Event"
+Any circumstance beyond the reasonable control of CDS, including but not limited to natural
+disasters, pandemics, civil unrest, institutional emergencies, technical infrastructure failure,
+regulatory directives, or other events that materially disrupt the normal conduct of CDS
+operations.
+"Industrial Internship"
+A professional work engagement at a company, organization, or industry body for a defined
+duration of two to three months (short-term) or six months (long-term/semester), facilitated
+through the CDS internship cycle.
+
+CDS Policy 2026-27/ IITGN | Page 10
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+"Internship Cycle"
+The complete sequence of activities administered by CDS for the facilitation of industrial and
+academic internship opportunities, from cycle initiation through cycle closure.
+"Misconduct"
+Any act, omission, or conduct by a student that violates this Policy, institutional codes of
+conduct, or the standards of professional behaviour expected within the CDS framework.
+Misconduct includes Behavioural Misconduct and Professional Misconduct.
+"No-Show"
+The failure of a registered student to appear for any stage of a recruitment process —
+including tests, group discussions, case submissions, or interviews — for which the student
+is registered, without prior notice and approval from CDS.
+"Offer"
+A formal communication from a recruiting organization extending an opportunity of
+employment or internship to a specific student, whether communicated either digitally or in
+writing.
+"Official Communication"
+Any communication issued through an Authorized Communication Channel — namely,
+institutional email, WhatsApp (CDS group or official number), CDS Portal, Google Forms, or
+telephone call — by an authorized CDS or CDS Student Team representative.
+"One Student One Internship Offer Per Cycle Policy"
+The policy under which each eligible student may avail a maximum of one internship offer
+through CDS in a given internship cycle, irrespective of whether the internship is industrial or
+academic, short-term or long-term.
+"One Student One Placement Offer Policy"
+The policy under which each eligible student may avail a maximum of one placement offer
+through CDS during the placement cycle.
+"Operational Instruction"
+Any direction, notice, guideline, or instruction issued by the CDS Student Team or CDS
+Administration during an Active Recruitment Process, which is binding upon all eligible
+students participating in that process.
+"Penalty"
+The most severe category of disciplinary action, resulting in disqualification from all ongoing
+and future CDS processes for a specified or indefinite period, and potentially involving
+escalation to institutional authorities.
+"Placement"
+The securing of a full-time employment offer by an eligible student through the CDS
+placement cycle.
+"Placement Cycle"
+The complete sequence of activities administered by CDS for the facilitation of full-time
+employment placement opportunities, from cycle initiation through cycle closure.
+"PPO (Pre-Placement Offer)"
+An offer of full-time employment extended by a recruiting organization to a student, typically
+following a successful internship engagement with that organization.
+"PPI (Pre-Placement Interview)"
+An interview conducted by a recruiting organization with a student, typically offered to
+students who have previously interned with that organization.
+"Process Violation" - Repeat
+Any act or omission by a student that contravenes a specific procedural requirement,
+obligation, or Operational Instruction issued under this Policy.
+
+CDS Policy 2026-27/ IITGN | Page 11
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+"Professional Misconduct"
+Any act of dishonesty, misrepresentation, fraud, impersonation, cheating, unauthorized
+communication, confidentiality breach, data misuse, or circumvention of CDS procedures.
+"Recruitment Process"
+Any selection activity organized by a recruiting organization within the CDS framework,
+including pre-placement talks, aptitude or technical tests, group discussions, case
+submissions, assignments, interviews, and related activities.
+"Registration"
+The formal enrolment of a student in the CDS placement or internship cycle through the
+prescribed pre-registration and final registration processes.
+"Rejection"
+The formal refusal by a student of an offer extended by a recruiting organization,
+communicated through CDS in the prescribed manner.
+"Selection"
+The formal determination by a recruiting organization that a student has been chosen to
+receive an offer of employment or internship.
+"Strike"
+An intermediate category of disciplinary action recorded against a student for a specific
+breach of CDS policy. Strikes are cumulative across all CDS cycles. Upon accumulation of
+three Strikes, the student shall be permanently disqualified from all CDS processes.
+"Warning"
+The initial, least severe category of disciplinary action, issued for minor procedural or firstinstance behavioural violations. Only one Warning may be issued to a student during their
+entire association with CDS; subsequent violations of Warning-level severity shall directly
+result in a Strike.
+"Withdrawal"
+The revocation by a student of an earlier Acceptance of an offer of placement or internship.
+
+2.2 Interpretation Rules
+2.2.1 Words denoting the singular shall include the plural and vice versa, unless the context
+otherwise requires.
+2.2.2 References to 'student' include all students registered with CDS unless otherwise
+specified.
+2.2.3 References to 'days' mean calendar days unless expressly stated otherwise.
+2.2.4 Headings are for convenience only and shall not affect interpretation.
+2.2.5 In the event of any ambiguity, contradiction, or gap in this Policy, the interpretation of
+the Chair CDS shall be final and binding.
+2.2.6 This Policy shall be interpreted in a manner consistent with its stated objectives of
+institutional protection, student welfare, and operational efficacy.
+2.2.7 The use of 'including' or 'includes' shall be construed as 'including but not limited to'.
+2.2.8 The use of 'shall' denotes a mandatory obligation; 'may' denotes a discretionary power.
+
+CDS Policy 2026-27/ IITGN | Page 12
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 3 — DISCIPLINARY FRAMEWORK: WARNINGS, STRIKES,
+AND PENALTIES
+3.1 Framework Architecture
+The CDS disciplinary framework is designed to be progressive in nature while preserving
+institutional discretion to apply escalated measures for severe violations. The framework comprises
+three distinct categories of disciplinary action:
+Category
+
+Nature of Violation
+
+Consequence
+
+Warning
+
+Minor procedural / first-instance behavioural
+violation/ informal attire
+
+Formal written notice – Total 1 Warning
+One Warning per student during
+academic tenure
+On receiving 2nd Warning, which
+will be considered as 1st Strike
+
+Strike
+
+Significant policy breach; repeated conduct
+violations
+
+Cumulative record; Total 3 Strikes
+On receiving of the 3rd Strike the
+candidate will be permanently
+disqualified from the process
+
+Penalty
+
+Severe misconduct; egregious violations
+
+Immediate disqualification ± institutional
+escalation
+
+3.2 Warning Framework
+3.2.1 A Warning is the least severe disciplinary action and is issued for minor procedural or
+first-instance behavioural violations.
+3.2.2 Grounds for Warning: A Warning shall be issued for: (a) absence from mandatory CDS
+or PDC sessions; (b) absence from pre-placement talks (PPTs) of registered companies; (c)
+first instance of non-compliance with the prescribed resume format; and (d) first instance of
+minor behavioural misconduct.
+3.2.3 One Warning Per Student: Only one formal Warning may be issued to any student
+during the entirety of their association with CDS, across all cycles. Any subsequent violation
+that would otherwise qualify for a Warning shall instead result in the direct issuance of a
+Strike.
+3.2.4 A Warning shall be issued in writing by the CDS Student Team or CDS Administration
+and shall be placed on record.
+
+3.3 Strike Framework
+3.3.1 A Strike is a formal disciplinary record issued for a significant breach of CDS policy.
+Strikes are cumulative across all CDS cycles, including both the internship and placement
+cycles.
+3.3.2 Upon accumulation of three Strikes, the student shall be permanently disqualified from
+all ongoing and future CDS placement and internship processes. Permanent disqualification
+under this provision shall not be subject to appeal.
+3.3.3 Grounds for Strike: A Strike shall be issued for the following violations:
+a) Failure to inform CDS of an External Offer within 24 hours of receiving the
+selection communication;
+b) Initiating any direct communication with HR representatives, companies, or
+academic institutions at any stage of the recruitment process — including
+communication regarding acceptance, rejection, or withdrawal of offers — without
+routing it through CDS;
+c) Failure to attend any pre-interview stage (including tests, group discussions,
+assignments, or case submissions) for a company or opportunity for which the
+student is registered;
+d) Submission of a resume not complying with the format prescribed by CDS (after a
+Warning has already been issued, or where the first-instance Warning has been
+expended);
+CDS Policy 2026-27/ IITGN | Page 13
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+e) Submission of incorrect information — including Academic Performance Score
+(APS) data, backlog status, or program details — in any registration or
+opportunity form;
+f) Day-0 Internship Offers: Rejection of a Day-0 internship offer shall result in 1
+Strike. If a student accepts a Day-0 internship offer and subsequently withdraws
+from the accepted offer, 2 Strikes shall be imposed. Refer to Section 8.5 for the
+complete rejection/withdrawal strike matrix.
+g) Acceptance of an internship offer through CDS followed by subsequent
+withdrawal or decline of a non-Day-0 offer (1 Strike);
+h) Failure to submit project reports within a timeframe specified by CDS for projects
+undertaken during academic internships secured through CDS; and
+i) Any subsequent violation of Warning-level nature after the student has already
+received a Warning.
+
+3.4 Penalty Framework
+3.4.1 A Penalty is the most severe disciplinary action and shall result in disqualification from
+all ongoing and future CDS processes. Depending on the gravity of the violation, the case
+may be referred by CDS to the Senate Student Affairs Committee (SSAC) or the Dean of
+Students' Affairs for further institutional review and action.
+3.4.2 Grounds for Penalty: A Penalty shall be imposed for the following violations:
+a) Attempting, facilitating, or engaging in cheating, fraud, or malpractice during any
+stage of the selection process;
+b) Violation of Operational Instructions given by CDS Administration, CDS Student
+Team, or Company Representatives;
+c) Displaying disrespectful, abusive, intimidating, or unprofessional behaviour
+toward CDS Administration, Company Personnel, or CDS Student Team members;
+d) Failure to attend any scheduled interview round(s) during the recruitment process
+(No-Show);
+e) Submission of a resume containing materially incorrect information with the
+intention to misrepresent qualifications, background or any form directly relevant
+to the credentials;
+f) Violation of the institutional honor code of IIT Gandhinagar in the context of any
+CDS activity;
+g) Impersonation or unauthorized assistance during any recruitment process;
+h) Unauthorized disclosure, misuse, or exploitation of Confidential Information; and
+i) Any other act of serious misconduct determined by the Chair CDS to warrant a
+Penalty.
+
+3.5 Strike and Penalty Waiver
+3.5.1 A Strike may be waived only in genuine circumstances, including a documented medical
+emergency or an institute-approved commitment. The waiver request must be accompanied
+by valid supporting documentation and must be submitted promptly.
+3.5.2 All waiver requests shall be reviewed at the sole discretion of the Chair CDS. The
+decision of the Chair CDS on any waiver request shall be final and non-appealable.
+3.5.3 The absence of a waiver request shall authorise CDS to proceed with a disciplinary
+action.
+
+3.6 Procedural Fairness
+3.6.1 Before issuance of a Penalty or 3rd Strike, the student shall be given an opportunity to
+present their position to the CDS Administration or Chair CDS.
+3.6.2 The CDS Student Team's factual observations, documented records,
+communications shall form part of the official record in all disciplinary proceedings.
+
+and
+
+3.6.3 Disciplinary proceedings shall be conducted with institutional efficiency. Procedural
+compliance shall be construed in favor of institutional protection where there is genuine
+ambiguity.
+
+CDS Policy 2026-27/ IITGN | Page 14
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+3.7 Late Arrival
+Entry to a recruitment process after the stipulated reporting time is subject to the sole discretion of
+the recruiting organization and CDS. In most cases, late entry shall not be permitted, and the
+absence shall be treated as a No-Show attracting Penalty-level disciplinary action. Students must
+arrive well in advance of all scheduled processes.
+
+CDS Policy 2026-27/ IITGN | Page 15
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 4 — GOVERNANCE STRUCTURE AND INSTITUTIONAL
+HIERARCHY
+4.1 Governance Architecture
+CDS operates within a three-tier governance architecture designed to ensure effective institutional
+oversight, operational efficiency, and clear delineation of authority:
+4.1.1 Tier I — Institutional Authority: Chair, Career Development Services (Chair CDS).
+4.1.2 Tier II — Administrative Authority: CDS Administration (CDS Staff).
+4.1.3 Tier III — Operational Authority: CDS Student Team (Core Team and Student Team).
+
+4.2 Chair, Career Development Services (Chair CDS)
+4.2.1 The Chair CDS shall be the supreme authority in all matters pertaining to CDS policies,
+operations, disciplinary proceedings, and governance.
+4.2.2 All decisions of the Chair CDS shall be final, binding, and not subject to revision or
+revocation under any circumstance.
+4.2.3 The Chair CDS shall possess the authority to: (a) alter, modify, amend, or repeal any
+provision of this Policy; (b) resolve all disputes, inconsistencies, and undefined situations;
+(c) approve or deny appeals and waiver requests; (d) impose or waive penalties in
+exceptional circumstances; and (e) issue emergency directives.
+4.2.4 The Chair CDS may delegate specific operational or administrative functions to the CDS
+Administration or CDS Student Team as deemed appropriate.
+4.2.5 All undefined situations — i.e., circumstances not expressly addressed by this Policy —
+shall be resolved by the Chair CDS in consultation with the CDS Administration and the CDS
+Student Core Team. The resolution so arrived at shall be binding.
+
+4.3 CDS Administration
+4.3.1 CDS Administration shall be responsible for the institutional, administrative, financial,
+documentation, and regulatory functions of CDS.
+4.3.2 CDS Administration shall serve as the official institutional interface between CDS and
+external parties, including recruiting organizations and institutional bodies.
+4.3.3 CDS Administration shall maintain all official records, including disciplinary records,
+registration databases, offer records, and financial records.
+4.3.4 CDS Administration shall provide operational oversight, support, and authorization for
+major process decisions.
+
+4.4 CDS Student Team — Institutional Status and Authority
+4.4.1 The CDS Student Team is an officially constituted operational body of CDS, formally
+recognized under this Policy. It is not a voluntary student organization but a structured,
+institutionally embedded operational unit with defined responsibilities and formal
+recognition, functioning under the authority of the Chair CDS.
+4.4.2 The CDS Student Team shall serve as the primary operational interface between
+students, recruiting organizations, CDS Administration, and the Chair CDS.
+4.4.3 The CDS Student Team possesses formally recognized operational authority in relation
+to process execution, recruiter coordination, assistance in logistics management, attendance
+monitoring, communication management, conduct reporting, and operational supervision,
+exercised under and accountable to the Chair CDS.
+4.4.4 Operational instructions issued by authorized members of the CDS Student Team
+during Active Recruitment Processes shall carry the same operational authority as
+
+CDS Policy 2026-27/ IITGN | Page 16
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+instructions issued by CDS Administration and shall be binding upon all participating
+students.
+4.4.5 Non-compliance with Operational Instructions issued by authorized CDS Student Team
+members shall constitute non-compliance with CDS Policy and shall be subject to the
+disciplinary provisions of this Policy.
+4.4.6 CDS Student Team members acting in good faith within their defined authority shall
+receive institutional operational protection from personal liability. Such protection shall not
+extend to acts of bad faith, gross negligence, professional misconduct, or unauthorized
+actions outside the scope of defined authority.
+
+4.5 Student Placement Manager (SPM)
+4.5.1 The SPM shall be the head of the CDS Student Team and the principal student-side
+operational authority for all placement and internship activities.
+4.5.2 The SPM shall serve as the formal link between the student body, the CDS
+Administration, and the Chair CDS.
+4.5.3 The SPM shall hold primary responsibility for leading company engagement, overseeing
+communication and logistics, operational policy interpretation, and student conduct
+monitoring.
+4.5.4 The SPM shall be accountable to the Chair CDS for the performance and conduct of the
+CDS Student Team.
+4.5.5 Decisions and recommendations of the SPM on operational matters, made in good faith
+within the scope of this Policy, shall carry formal institutional weight in CDS deliberations.
+
+4.6 Core Team
+4.6.1 The Core Team shall comprise the SPM, the Internal Coordinator(s), the Placement
+Coordinator(s), and the Internship Coordinator(s), as officially designated.
+4.6.2 The Core Team shall collectively own and drive all student-facing operational decisions
+during Active Recruitment Processes, including process scheduling, company coordination,
+team deployment, conduct monitoring, and operational policy interpretation.
+4.6.3 The Core Team shall be responsible for: (a) onboarding and training newly inducted
+team members; (b) ensuring strict adherence to confidentiality and data protection
+standards; and (c) maintaining the integrity and professionalism of CDS operations.
+
+4.7 CDS Student Team — Succession and Continuity
+The continuity of CDS operations across successive cycles depends on structured leadership
+transition. The following provisions govern the succession of the CDS Student Team to preserve
+institutional familiarity, recruiter relationship continuity, and operational stability.
+4.7.1 Nomination of Incoming SPM: The core team shall nominate the incoming SPM based
+on an assessment of: (a) operational continuity and institutional familiarity with CDS
+processes; (b) demonstrated leadership capability and professional judgment; (c) recruiter
+relationship continuity; and (d) overall suitability for CDS leadership responsibility. Such
+nomination shall be confirmed by the Chair CDS in the interest of preserving institutional
+continuity, operational stability, and smooth leadership transition. The Chair CDS retains the
+authority to decline confirmation in exceptional circumstances warranting institutional
+intervention.
+4.7.2 Constitution of the Incoming Core Team: The incoming SPM, in consultation with the
+outgoing SPM, shall recommend the composition of the incoming Core Team to the Chair
+CDS. Such recommendation shall be formally confirmed by the Chair CDS.
+4.7.3 Constitution of the Remaining CDS Student Team: Following confirmation of the
+incoming Core Team, the incoming Core Team shall constitute the remaining CDS Student
+Team in accordance with operational requirements and the internal team structure
+established by the Core Team.
+CDS Policy 2026-27/ IITGN | Page 17
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+4.7.4 Operational Continuity as Institutional Value: The provisions of this Section reflect an
+institutional recognition that operational continuity, leadership succession driven by internal
+familiarity, and smooth transition of recruiter relationships are essential to the sustained
+credibility and effectiveness of CDS. Confirmation by the Chair CDS under this Section
+functions primarily as a governance oversight mechanism and shall not be construed as a
+substitution of institutional selection for the team-driven succession process described
+herein.
+4.7.5 Handover Obligations: The outgoing CDS Student Team shall fully cooperate in the
+transition of operational responsibilities, including transfer of databases, recruiter contacts,
+operational knowledge, and ongoing commitments, to the incoming team.
+
+4.8 Placement and Internship Coordinators
+4.8.1 Placement Coordinator(s) shall assist the SPM in planning and executing company
+outreach, placement cycle scheduling, and company logistics.
+4.8.2 Internship Coordinator(s) shall assist the SPM in planning and executing company
+outreach, internship cycle scheduling, and internship-related logistics.
+4.8.3 Coordinators shall lead their respective operational teams, oversee company databases,
+manage outreach, and supervise pre- recruitment processes.
+4.8.4 Coordinators shall serve as direct points of contact for assigned company
+representatives throughout the recruitment cycle.
+
+4.9 Technology Lead and Social Media Lead
+4.9.1 The Technology Lead shall oversee the development and maintenance of all CDS digital
+infrastructure, including the CDS Web Portal, mobile application, and internal automation
+tools.
+4.9.2 The Social Media Lead shall manage CDS public communications, social media
+presence, and institutional outreach.
+
+4.10 Authority Delegated to the CDS Student Team
+The following responsibilities are hereby delegated by the Chair, CDS to the CDS Student Team.
+These responsibilities shall be carried out under the authority of the Chair, CDS, in accordance with
+this Policy and the applicable institutional regulations. The CDS Student Team shall discharge these
+responsibilities with due accountability to the Chair, CDS.
+4.10.1 Authorize to Issue Formal Warnings: The CDS Student Team is empowered to issue
+formal written Warnings to any registered student for minor procedural violations, including
+first instances of resume format non-compliance, delayed reporting of External Offers, and
+absence from mandatory CDS or PDC sessions, exercised under Section 3.2.
+4.10.2 Authorize to Issue Warnings for Behavioural Misconduct: The CDS Student Team is
+empowered to issue a formal Warning to any registered student who displays disrespectful,
+inappropriate, or unprofessional behaviour toward any member of the CDS ecosystem.
+Where the severity of the misconduct warrants it, the matter may be directly escalated to the
+Chair CDS for Penalty proceedings without prior issuance of a Warning.
+4.10.3 Authorize to Redirect Non-Compliant Communication: The CDS Student Team
+empowered to decline and formally redirect any student communication that bypasses
+official CDS channels, seeks Confidential Information through informal means, or attempts to
+exert personal pressure on CDS Student Team members in their official capacity.
+4.10.4 Authorize to Escalate: The CDS Student Team is empowered to escalate any matter —
+including student conduct, company behaviour, or process irregularities — directly to the
+Chair CDS and, where necessary, to the Dean of Students' Affairs, without requiring CDS
+Administration intermediation.
+
+CDS Policy 2026-27/ IITGN | Page 18
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+4.10.5 Authorize to Maintain Operational Records: The CDS Student Team is empowered to
+maintain official operational records, including conduct observations, attendance records,
+and process compliance records, which shall form part of the official CDS record.
+
+4.11 CDS Termination Policy — Student Team Members
+Membership in the CDS Student Team may be terminated by the Chair CDS upon the
+recommendation of the SPM or CDS Administration under the following circumstances:
+4.11.1 Persistent failure to fulfil the basic duties outlined under this Policy and the rolespecific responsibilities defined by the Core Team;
+4.11.2 Habitual lack of engagement, including unexcused absence from team meetings or
+non-responsiveness to official communications;
+4.11.3 Unauthorized disclosure of Confidential Information to any external party;
+4.11.4 Misuse or unauthorized sharing of company details, including HR contact information
+or internal recruiter communications; or
+4.11.5 Any act of misconduct, dishonesty, or conduct unbecoming of a CDS Student Team
+member.
+
+CDS Policy 2026-27/ IITGN | Page 19
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 5 — REGISTRATION FRAMEWORK
+5.1 General Registration Principles
+5.1.1 Registration with CDS is a prerequisite for participation in any CDS-administered
+placement or internship cycle.
+5.1.2 The registration process shall comprise two phases: Phase I (Pre-Registration) and
+Phase II (Final Registration). Pre-Registration is mandatory for Final Registration. Failure to
+complete pre-registration shall render a student ineligible for Final Registration and,
+consequently, for the relevant cycle.
+5.1.3 Registration shall be completed through the CDS Portal within the prescribed deadlines
+as notified by CDS. No extensions to registration deadlines shall be granted under any
+circumstances.
+5.1.4 At the time of registration, students shall be required to declare their interest in the CDS
+cycle through one of the following options: (a) 'Yes' — indicating interest in availing CDS
+placement or internship services; or (b) 'No' — indicating non-participation, with a mandatory
+specification of the reason for non-participation (such as higher studies, competitive
+examinations, entrepreneurship, or other).
+5.1.5 Upon completion of Final Registration, a student shall be individually required to
+register for each specific company or organization for which they are eligible and interested,
+before the applicable company-specific registration deadline.
+5.1.6 Requests for extension of any company-specific registration deadline shall not be
+considered.
+
+5.2 Placement Registration
+5.2.1 Timelines: All specific dates for pre-registration, final registration, open houses, preplacement talks, and interview processes shall be notified by CDS through Official
+Communication Channels at the commencement of the applicable cycle. Refer to Annexure B
+for cycle-specific timelines.
+5.2.2 Mandatory Registration Fee: A placement registration fee as notified by CDS shall be
+payable by all eligible students interested in participating in the placement cycle. Payment of
+the registration fee is a prerequisite for valid Final Registration.
+
+5.3 Placement Deregistration and Refund Policy
+5.3.1 Phase I Deregistration (Full Refund): Students who submit a valid deregistration request
+during Phase I of the deregistration window (as notified by CDS) shall be entitled to a full
+refund of the registration fee.
+5.3.2 Phase II Deregistration (Partial Refund): Students who submit a valid deregistration
+request during Phase II of the deregistration window (as notified by CDS) shall be entitled to
+a 50% refund of the registration fee.
+5.3.3 No Refund Situations: No refund of the registration fee shall be provided in the
+following circumstances: (a) the student has received a job offer (including PPOs) through
+CDS or through Off-campus; (b) the student is disqualified from the CDS cycle as a
+consequence of a disciplinary violation; or (c) the student fails to submit a deregistration
+request before the expiry of Phase II Deregistration.
+
+5.4 Industrial Internship Registration
+5.4.1 Timelines: All specific dates for industrial internship registration phases, pre-placement
+talks, and interview processes shall be notified by CDS through Official Communication
+Channels. Refer to Annexure B for cycle-specific timelines.
+
+5.5 Academic Internship Registration
+5.5.1 Timelines: All specific dates for academic internship registration phases, CV and SOP
+collection, discipline ranking, and advertisement and nomination processes shall be notified
+CDS Policy 2026-27/ IITGN | Page 20
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+by CDS through Official Communication Channels. Refer to Annexure B for cycle-specific
+timelines.
+
+CDS Policy 2026-27/ IITGN | Page 21
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 6 — ELIGIBILITY FRAMEWORK
+6.1 CDS Eligibility Principles
+6.1.1 CDS does not independently determine eligibility criteria for individual hiring processes.
+Student eligibility for any specific recruitment process shall be governed by the criteria
+specified by the respective recruiting organization or academic institution, as communicated
+to CDS.
+6.1.2 CDS shall apply the eligibility criteria received from recruiting organizations in good
+faith but shall not be responsible for any errors, omissions, or changes in such criteria made
+by the recruiting organization.
+6.1.3 Academic Performance Score (APS): The APS shall be derived from i) the departmental
+score submitted by the HOD and ii) official CPI data received from the Academic Office. APS
+shall be used by CDS for all internal eligibility determinations, shortlisting, and ranking. The
+APS update procedure requires the student to formally request the Academic Office
+(ar.acad@iitgn.ac.in) to communicate the updated CPI directly to CDS Staff (cds@iitgn.ac.in).
+Only upon receipt of such communication from the Academic Office may the updated APS be
+used by CDS. IMS screenshots, student-forwarded emails, or any other informal modes of
+communication shall not be accepted.
+
+6.2 Placement Eligibility
+6.2.1 Students in the graduating cohort for the relevant placement cycle who have completed
+Final Registration before the applicable deadline and have no pending disciplinary actions
+shall be eligible to participate in the placement cycle.
+6.2.2 Students who opted for deferred placements in the preceding two academic cycles may
+be considered for participation, subject to prior approval from the Chair CDS. The application
+of deferred placement is generally approved to encourage the possible exploration of
+Startups.
+6.2.3 PPI shall be treated as a regular interview process for the purposes of this Policy, and
+all CDS eligibility rules shall apply.
+6.2.4 Students eligible for organizations that permit recruitment of students completing minor
+programs must complete their minor before graduation. Failure to do so shall result in CDS
+notifying the relevant organization, and the consequences thereof shall be borne entirely by
+the student.
+
+6.3 Industrial Internship Eligibility
+Summer Internship
+6.3.1 BTech Students
+All BTech students in their third year of study shall be eligible to participate in the internship
+cycle, provided they have completed Final Registration before the prescribed deadline and
+have no pending disciplinary actions.
+
+6.3.2 Dual Major BTech Students
+6.3.2(a) All Dual Major BTech students in their third and fourth years shall be eligible to
+participate in the internship cycle, subject to registration and conduct requirements.
+6.3.2(b) Eligibility to pursue internships in the primary discipline shall commence from the
+third year. Eligibility for internships in the secondary discipline shall commence from the
+beginning of the fourth year.
+
+6.3.3 BTech + MTech Dual Degree Students
+6.3.3(a) All BTech + MTech Dual Degree students in their third year shall be eligible to
+participate in the internship cycle, subject to registration and conduct requirements.
+
+CDS Policy 2026-27/ IITGN | Page 22
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+6.3.3(b) BTech + MTech Dual Degree students in their fourth year shall be eligible to apply for
+internship opportunities only with the prior written approval of their Faculty Advisor (FA) and
+the Head of Department (HoD). Formal registration for the internship cycle shall not be
+required for such students to participate in internship opportunities during their fourth year.
+
+Semester-Long Internship
+6.3.1 BTech Students
+All BTech students in their 7th semester of study shall be eligible to participate in the Semester-Long
+Internship, provided they have completed Final Registration before the prescribed deadline and have
+no pending disciplinary actions.
+
+6.3.2 Dual Major BTech Students
+6.3.2(a) All Dual Major BTech students shall be eligible to register for a semester-long
+internship through CDS during both their 7th and 9th semesters.
+6.3.2(b) A Dual Major BTech student may undertake only one semester-long internship
+through CDS during the academic program, subject to the following:
+⚫ During the 7th semester, the student may undertake an internship only in the primary
+discipline.
+⚫ If the student does not undertake a semester-long internship during the 7th semester,
+the student may undertake such an internship during the 9th semester in either the
+primary discipline or the secondary discipline.
+
+6.3.3 BTech + MTech Dual Degree Students
+6.3.3(a) All BTech + MTech Dual Degree students in their third year shall be eligible to register
+and participate in the internship cycle.
+6.3.3(b) BTech + MTech Dual Degree students in their fourth year shall be eligible to apply for
+internship opportunities only with the prior written approval of their Faculty Advisor (FA) and
+the Head of Department (HoD). Formal registration for the internship cycle shall not be
+required for such students to participate in internship opportunities during their fourth year.
+Please note that final registration for the semester-long internship is subject to
+recommendation/ approval of graduation plan by FA/ HOD.
+
+6.3.4 Additional Eligibility Provisions
+6.3.4(a) Students in their final year who have secured a full-time job offer through CDS are not
+eligible to apply for any further internships, including 8th semester internships, regardless of
+early graduation status.
+6.3.4(b) Students who accept an externally secured full-time job offer shall be deregistered
+from the placement cycle. However, they shall remain eligible to apply for 8th semester
+internship opportunities, provided they have not claimed early graduation.
+6.3.4(c) A student may secure only one industrial internship through CDS per cycle — either a
+Summer or a Semester-Long engagement. Upon securing such an internship, the student
+shall become ineligible for all further internship opportunities through CDS in that cycle,
+including academic internships, in accordance with the One Internship Per Cycle Policy.
+6.3.4(d)
+Final
+registration
+for
+a
+semester-long
+internship
+is
+subject
+recommendation/approval of the student's graduation plan by the FA / HoD respectively.
+
+to
+
+6.4 Academic Internship Eligibility
+6.4.1 All BTech and BTech + MTech Dual Degree students in their third year, and Dual Major
+BTech students in their third and fourth years, are eligible to apply for academic internships,
+subject to registration and conduct requirements.
+6.4.2 The applicant must not have accepted any internship offer — industrial or academic,
+through CDS or independently — during the current cycle, in accordance with the One
+Internship Per Cycle Policy.
+CDS Policy 2026-27/ IITGN | Page 23
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+6.4.3 The applicant must not be registered for any academic courses at IITGN offered during
+the internship period.
+6.4.4 The applicant must not be enrolled in the Guided Process Scheme (GPS).
+6.4.5 BTech + MTech Dual Degree students shall be eligible for academic internships in their
+BTech discipline during their third year only.
+6.4.6 Maximum Academic Internships Through CDS: A student may undertake a maximum of
+two academic internships through CDS during their entire academic program. This provision
+is specifically intended to accommodate Dual Major students who may require research
+engagement in multiple semesters. However, institutional financial support may be availed
+for only one academic internship. The second academic internship may be facilitated
+officially through CDS subject to eligibility and applicable process requirements, but no
+additional financial support from the institution shall be available for it.
+6.4.7 Notwithstanding Section 6.4.6, in any single internship cycle, only one internship —
+whether academic or industrial — may be secured through CDS in accordance with the One
+Internship Per Cycle Policy.
+
+6.5 External Offers Management (Applicable to registered students)
+Placement
+6.5.1 If a student secures an External Offer (off-campus placement), the student must inform
+CDS officials within 24 hours of receiving the selection communication and a copy of the
+offer letter must be shared with CDS for record purposes.
+6.5.2 If the student rejects the External Offer, the student shall remain eligible to register for
+and participate in the CDS Placement Cycle, subject to all other applicable rules and
+eligibility criteria. The student shall submit a copy of the rejection communication to CDS.
+6.5.3 If the student accepts the External Offer, the student may register for the CDS
+Placement Cycle, if otherwise eligible; however, the student shall not be permitted to
+participate in any placement process conducted through CDS for as long as the accepted
+External Offer remains valid.
+6.5.4 If the student subsequently applies for deregistration from the Placement Cycle and
+claims a refund of the placement registration fee in accordance with the applicable refund
+policy, the student shall not be permitted to rejoin or avail the regular CDS placement
+services during the same Placement Cycle, even if the External Offer is later withdrawn,
+cancelled, or revoked by the organisation.
+6.5.5 A student who has accepted an External Offer and has not deregistered from the
+Placement Cycle under Clause 7.4 may become eligible to participate in the CDS Placement
+Cycle only after submitting to CDS the organisation's official communication confirming the
+withdrawal, cancellation, or rejection of the accepted External Offer. Such participation shall
+be permitted only if the student has already completed registration for the applicable
+Placement Cycle and continues to satisfy all other eligibility requirements
+6.5.6 Failure to report an External Offer within 24 hours shall result in the issuance of a Strike.
+
+Internship
+6.5.1 A student who secures an External Internship Offer shall inform CDS within 24 hours of
+receiving the selection communication and submit a copy of the offer letter or other official
+communication for record purposes.
+6.5.2 A student who declines an External Internship Offer shall remain eligible to participate
+in the CDS Internship Cycle, subject to all other applicable rules and eligibility requirements.
+A student who accepts an External Internship Offer shall not be permitted to participate in
+any CDS internship process for an overlapping internship period. If the accepted External
+Internship Offer is subsequently withdrawn, cancelled, or formally declined by the student,
+the student may participate in the corresponding CDS internship process only upon
+CDS Policy 2026-27/ IITGN | Page 24
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+submitting the organisation's official communication confirming the same, provided all other
+applicable eligibility requirements are satisfied.
+6.5.3 Failure to report an External Internship Offer within 24 hours of receiving the selection
+communication shall result in the issuance of one Strike.
+
+CDS Policy 2026-27/ IITGN | Page 25
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 7 — PLACEMENT POLICY
+7.1 One Student One Offer Policy
+7.1.1 Each student may avail a maximum of one job offer through CDS. Upon receipt of the
+first job offer through CDS — irrespective of acceptance or rejection of the offer — the
+student shall be deemed 'placed' and shall be ineligible to continue in the recruitment
+processes of any other organization, subject to the Day-0 exceptions specified in Section 7.2.
+7.1.2 A student may apply to any number of companies until they receive one job offer
+through CDS.
+
+7.2 Multiple Offers and Selection Rules
+7.2.1 Day-0 Exception: Where multiple organizations are scheduled to conduct processes and
+declare results in the same slot on a designated Day-0 event, a student who receives multiple
+offers within that slot may choose one offer as per their preference. The student's selection
+decision must be communicated to the CDS Office before the commencement of the next
+slot.
+7.2.2 Same-Day Offers (Non-Day-0): If a student participates in processes of multiple
+companies on the same day and receives an offer from one company while results of other
+companies are pending at the end of the day, the offer received on that day shall be treated
+as the student's first and final offer, rendering the student ineligible for further recruitment
+processes.
+7.2.3 Deferred Results on Same Date: If results of processes concluded on earlier date(s) are
+declared on the same later date, the student shall be permitted to choose one offer from
+among those declared on that date.
+
+7.3 PPO and PPI
+7.3.1 PPOs channelled through CDS, once accepted by the student, shall be counted as a job
+offer and the One Student One Offer Policy shall apply.
+7.3.2 If a student rejects a PPO, they shall remain eligible to use CDS placement services
+under normal rules.
+7.3.3 PPI shall be treated as a regular interview process, and all CDS eligibility and policy
+rules shall apply.
+
+7.4 Offer Revocation by Recruiting Organization
+7.4.1 If a recruiting organization revokes an offer previously extended to a student, the
+student must inform CDS within 24 hours of receiving notice of such revocation.
+7.4.2 For off-campus revocations, the student must submit official documentation from the
+recruiting organization confirming the revocation.
+7.4.3 CDS shall review the case and based on its assessment, determine the student's
+eligibility to apply for other opportunities within the same cycle.
+7.4.4 Offer revocation by a recruiting organization shall not qualify the affected student for
+deferred placements.
+7.4.5 CDS reserves the authority to report any recruiting organization to the All IIT Placement
+Council (AIPC) in cases involving unethical conduct, patterns of offer revocation, breach of
+commitments made to students or institutions, recruiter misconduct, operational
+misrepresentation, reputational concerns, or conduct adversely affecting students or the
+institutional interests of IIT Gandhinagar.
+
+CDS Policy 2026-27/ IITGN | Page 26
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 8 — INDUSTRIAL INTERNSHIP POLICY
+8.1 One Internship Per Cycle Principle
+8.1.1 A student may secure only one internship through CDS during an internship cycle,
+irrespective of whether the internship is industrial or academic, Summer or Semester-Long,
+on-campus or off-campus, or online.
+8.1.2 Once a student receives, accepts, or is deemed to have secured an internship offer
+through CDS, the student shall become immediately ineligible for all remaining internship
+opportunities in that cycle through CDS, including industrial and academic internship
+opportunities.
+8.1.3 This principle is absolute and admits of no exceptions beyond those expressly provided
+in this Policy (specifically, Section 6.4.6 permitting a second academic internship across
+different cycles of a student's academic program, and not within the same cycle).
+
+8.2 Selection and Offer Management
+8.2.1 Day-0 Exception: Where multiple organizations are scheduled to conduct processes and
+declare results in the same slot on a designated Day-0 event, a student who receives multiple
+offers within that slot may choose one offer as per their preference. The student's selection
+decision must be communicated to the CDS Office before the commencement of the next
+slot.
+8.2.2 Same-Day Offers (Non-Day-0): If a student participates in processes of multiple
+companies on the same day and receives an offer from one company while results of other
+companies are pending at the end of the day, the offer received on that day shall be treated
+as the student's first and final offer, rendering the student ineligible for further recruitment
+processes.
+8.2.3 Deferred Results on Same Date: If results of processes concluded on earlier date(s) are
+declared on the same later date, the student shall be permitted to choose one offer from
+among those declared on that date.
+
+8.3 Communication Protocol — Internship
+8.3.1 Students must not directly communicate with recruiting organizations regarding
+acceptance, rejection, or withdrawal of internship offers. All such communications must be
+routed through CDS. Violation of this protocol shall result in disqualification from CDS
+processes for that particular company and may attract additional disciplinary action.
+
+8.4 Joining, Completion, and Withdrawal
+8.4.1 Students who secure an internship through CDS are expected to join and complete the
+internship as offered.
+8.4.2 If a student declines, fails to join, or discontinues an internship secured through CDS
+without prior approval from CDS, CDS may initiate disciplinary action including the issuance
+of a Strike or Penalty, determined on a case-by-case basis.
+8.4.3 In all cases of internship rejection or withdrawal — irrespective of when the rejection or
+withdrawal occurs — the student shall be permanently ineligible to participate in future
+placement or internship processes of that company through CDS.
+
+8.5 Internship Rejection and Withdrawal — Strike Logic
+The following matrix precisely governs the disciplinary consequences of internship rejection and
+withdrawal. This framework applies to industrial internships secured through CDS and is internally
+consistent with Section 3.3.
+
+CDS Policy 2026-27/ IITGN | Page 27
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+Offer Type
+
+Scenario
+
+Disciplinary Consequence
+
+Day-0 Offer
+
+Rejection BEFORE acceptance
+
+1 Strike + permanent ineligibility for that
+company
+
+Day-0 Offer
+
+Acceptance
+withdrawal
+
+by
+
+2 Strikes + permanent ineligibility for that
+company
+
+Non-Day-0 Offer
+
+Rejection BEFORE acceptance
+
+No Strike + permanent ineligibility for that
+company
+
+Non-Day-0 Offer
+
+Acceptance
+withdrawal
+
+1 Strike + permanent ineligibility for that
+company
+
+followed
+
+followed
+
+by
+
+NOTE: In all four scenarios, the student is permanently ineligible for future placement or internship
+processes of that company through CDS, regardless of whether a Strike is issued.
+
+8.6 AIPC Reporting Authority
+8.6.1 CDS reserves the authority to report any recruiting organization to the All IIT Placement
+Council (AIPC) in cases involving unethical conduct, patterns of offer revocation, breach of
+commitments made to students or institutions, recruiter misconduct, operational
+misrepresentation, reputational concerns, or conduct adversely affecting students or the
+institutional interests of IIT Gandhinagar.
+8.6.2 The decision to report a recruiting organization to the AIPC shall rest with the Chair CDS
+in consultation with CDS Administration, and shall be exercised on a case-by-case basis with
+appropriate institutional deliberation.
+
+CDS Policy 2026-27/ IITGN | Page 28
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 9 — ACADEMIC INTERNSHIP POLICY
+9.1 Ranking and Selection Process
+9.1.1 CDS shall arrive at a final ranking of applicants for academic internships using a
+composite scoring methodology: 50% weight to the departmental score (as provided by the
+respective Discipline Coordinator on a 100-point scale) and 50% weight to the APS derived
+from official CPI data received from the Academic Office.
+9.1.2 Rankings shall be shared individually with students and shall be treated as Confidential
+Information.
+9.1.3 The ranking and selection process is discipline-specific and shall be administered
+separately for each discipline.
+
+9.2 Academic Internship Limit and Financial Support
+9.2.1 Subject to the One Internship Per Cycle Policy (Section 8.1), a student may undertake a
+maximum of two academic internships through CDS across their entire academic program at
+IIT Gandhinagar.
+9.2.2 This provision is specifically intended to accommodate Dual Major students who may
+benefit from research engagement during multiple stages of their academic program.
+9.2.3 Institutional financial support may be availed for only one academic internship during a
+student's academic program. No institutional financial support shall be available in respect of
+a second academic internship, whether in the form of stipend, travel support,
+accommodation, visa expenses, or soft loans.
+9.2.4 The second academic internship, if pursued, shall be facilitated through CDS in the
+same operational manner as the first, subject to all eligibility, process, and compliance
+requirements.
+
+9.3 Financial Support
+9.3.1 CDS does not directly provide financial assistance for academic internships. The entire
+supporting mechanism is administered and decided by the Student Affairs Office at IITGN.
+9.3.2 Where a prior agreement exists between IITGN and the host institution, IITGN may
+provide financial assistance in the form of stipends, travel allowances, visa fees, or
+accommodation support. The nature and extent of such support shall be determined by the
+Student Affairs Office.
+9.3.3 Students who secure online academic internships via CDS do not typically receive
+financial support.
+9.3.4 Queries regarding financial support must be directed to the Student Affairs Office and
+not to CDS.
+
+9.4 Student Obligations — Academic Internships
+9.4.1 Students must strictly adhere to all deadlines communicated by CDS.
+9.4.2 Students must not directly contact faculty or representatives of host institutions during
+the CDS selection process. CDS shall guide selected students regarding further
+communication with host institutions.
+9.4.3 Students selected for an academic internship through CDS are expected to join and
+complete the internship.
+9.4.4 Students are expected to submit bi-weekly progress updates to CDS for the entire
+duration of the internship.
+9.4.5 Students who complete academic internships are required to present their research
+work to the IITGN community through at least one of the following forums: (a) Undergraduate
+Research Conclave (UGRC); (b) SRIP Poster Session; or (c) Institute Symposium.
+CDS Policy 2026-27/ IITGN | Page 29
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+9.4.6 Students are expected to continue research initiated during the internship after return,
+with the objective of producing a logical conclusion such as a publication.
+9.4.7 Students are expected to apply for visa and other travel documentation well in advance
+to avoid high last-minute costs. Students awaiting disbursement of financial support are
+encouraged to secure soft loans to minimize delays.
+9.4.8 Applicants for international academic internships must possess a valid passport at the
+commencement of the application process.
+9.4.9 Failure to join or premature departure from an academic internship without genuine
+documented reason, upon notification to CDS by the host institution, may result in
+debarment from future CDS activities or a Strike, or both, at the discretion of the Chair CDS.
+
+9.5 Off-Campus Application Control — Academic Internships
+Students who intend to apply independently for off-campus academic internships are subject to the
+following procedural requirements in the interest of maintaining institutional relationships,
+preserving existing Memoranda of Understanding (MoUs), avoiding duplicate outreach, and
+protecting the institutional reputation of IIT Gandhinagar.
+9.5.1 Pre-Application Disclosure: Students intending to independently apply for off-campus
+academic internships must first formally inform CDS of the institutions, universities,
+laboratories, professors, or organizations to which they intend to apply, prior to initiating any
+communication with such institutions.
+9.5.2 Submission of Proposed List: Students shall submit the proposed list of institutions or
+contacts through the process prescribed by CDS before initiating communication. CDS shall
+notify students of the applicable submission process at the commencement of the relevant
+cycle or upon request.
+9.5.3 CDS Approval Authority: CDS reserves the authority to approve, deny, restrict, or
+regulate independent applications to particular institutions in the interest of: (a) maintaining
+institutional relationships and existing MoUs; (b) preventing duplicate or conflicting outreach
+that may damage institutional credibility; (c) ensuring coordination of contacts already
+managed by CDS; and (d) protecting the institutional reputation of IIT Gandhinagar.
+9.5.4 Restricted Institutions: Students shall not independently contact institutions that have
+been specifically restricted or reserved by CDS, whether for reasons of existing MoUs, active
+negotiations, or institutional coordination requirements.
+9.5.5 Violation: Non-compliance with the requirements of this Section shall constitute a policy
+violation and may attract disciplinary consequences including a Strike, at the discretion of
+the Chair CDS, depending on the nature and severity of the non-compliance.
+
+9.6 Documentation Requirements — Academic Internships
+The following documents shall be collected by CDS at the commencement of each academic
+internship cycle from interested students:
+9.6.1 Updated Resume, formatted in accordance with CDS norms, with research projects
+performed individually highlighted as priority items.
+9.6.2 Academic Statement of Purpose, highlighting: (a) inclination towards research and
+previous research work, if any; (b) areas of research interest; and (c) experience in individual
+initiative and teamwork.
+9.6.3 Valid passport and other required travel credentials.
+
+CDS Policy 2026-27/ IITGN | Page 30
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 10
+COMPLIANCE
+
+—
+
+STUDENT
+
+OBLIGATIONS,
+
+CONDUCT,
+
+AND
+
+10.1 General Obligations
+10.1.1 Every registered student bears a continuous and non-delegable obligation to comply
+with all provisions of this Policy and all Operational Instructions issued by CDS and the CDS
+Student Team throughout the duration of their registration.
+10.1.2 Students are expected to have a clear understanding of their career objectives prior to
+registration and to participate in the CDS process with a genuine intention to accept and join
+any offer received. Accepting an offer without the intention to join causes material harm to
+recruiting organizations, fellow students, and the institutional reputation of IIT Gandhinagar.
+10.1.3 Students are solely responsible for regularly reviewing all Official Communications
+issued by CDS through any Authorized Communication Channel.
+10.1.4 Students must inform CDS of any External Offer within 24 hours of receipt, regardless
+of whether the student intends to accept or reject the offer.
+
+10.2 Documentation and Preparation Obligations
+10.2.1 Students must maintain a soft copy of their resume and all supporting documents in
+readily accessible form at all times during an Active Recruitment Process.
+10.2.2 Students must carry their Institute ID card, a valid government-issued photo ID, and
+multiple printed copies of their resume during all on-campus recruitment activities.
+10.2.3 Students must maintain original and photocopies of all certificates supporting
+academic and extracurricular achievements listed in their resume and must be prepared to
+present them at any stage of the process.
+10.2.4 Resume files must be named in the prescribed format: Firstname_LASTNAME (e.g.,
+Rohit_SHARMA).
+10.2.5 Requests for printouts or photocopies at the CDS Office will not be entertained under
+any circumstances. Students are expected to make all necessary arrangements
+independently in advance.
+10.2.6 Once a CV submission deadline has passed, late submissions or modifications shall
+not be permitted under any circumstances.
+
+10.3 Professional Conduct Obligations
+10.3.1 Students must maintain business formal attire — including appropriate grooming —
+throughout all recruitment activities.
+10.3.2 Students must maintain a respectful, professional, and courteous demeanour at all
+times toward Company Representatives, CDS Student Team members, CDS Administration,
+and other students.
+10.3.3 Students must use a laptop or desktop for online tests, group discussions, and
+interview processes. Students must verify audio, video, and internet connectivity in advance
+and must confirm compatibility of their system with the company's test platform if required.
+Students should utilize the Institute's Computer Labs where required or when directed by
+CDS.
+10.3.4 Students must be prepared for recruitment activities — including PPTs, tests, and
+interviews — on weekdays and weekends, and at short notice, as the recruitment calendar
+may require.
+
+10.4 Communication Obligations
+10.4.1 All communication between students and recruiting organizations regarding
+acceptance, rejection, withdrawal, offer negotiation, or any related matter must be routed
+CDS Policy 2026-27/ IITGN | Page 31
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+exclusively through CDS. Direct communication with Company Representatives, HR officers,
+or organizational representatives without the express authorization of CDS is strictly
+prohibited.
+10.4.2 Students must not directly contact faculty or representatives of academic institutions
+for opportunities applied through CDS.
+10.4.3 In the event of scheduling conflicts or technical issues during online processes, the
+student must immediately notify CDS with supporting evidence. Students must not
+independently contact the company to reschedule or resolve such issues.
+
+10.5 Deregistration from a Specific Company
+10.5.1 Deregistration from a specific company's process is permitted only before the
+application deadline for that company.
+10.5.2 Once the application deadline has passed, the student is expected to participate in all
+subsequent stages of that company's recruitment process. Failure to participate shall
+constitute a Process Violation.
+
+CDS Policy 2026-27/ IITGN | Page 32
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 11 — OFFICIAL COMMUNICATION FRAMEWORK
+11.1 Authorized Communication Channels
+The following channels are designated as Official Communication Channels of CDS.
+Communications issued through any of these channels by authorized CDS or CDS Student Team
+personnel shall constitute Official Communications and shall be binding upon registered students:
+11.1.1 Institutional Email: cds@iitgn.ac.in (CDS Administration); cdsteam@iitgn.ac.in (CDS
+Student Team). Students must include both addresses in all CDS-related correspondence
+unless otherwise directed.
+11.1.2 WhatsApp: Official CDS WhatsApp groups and official CDS number.
+11.1.3 CDS Portal: The official online CDS platform.
+11.1.4 Google Forms: Official data collection and registration forms issued by CDS.
+11.1.5 Telephone Calls: Calls made from officially registered CDS numbers.
+
+11.2 Communication Standards and Obligations
+11.2.1 Students must monitor all Authorized Communication Channels regularly during
+Active Recruitment Processes. Failure to monitor official communications shall not
+constitute a valid defence.
+11.2.2 Digital records, including screenshots, email threads, WhatsApp messages, and portal
+notifications, may be used as official operational evidence in disciplinary and compliance
+proceedings.
+11.2.3 Communications received through Authorized Communication Channels shall be
+presumed as received by the student upon dispatch, irrespective of the student's actual
+access.
+11.2.4 Student queries must be addressed to cdsteam@iitgn.ac.in with cds@iitgn.ac.in in
+copy.
+
+CDS Policy 2026-27/ IITGN | Page 33
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 12 —
+GOVERNANCE
+
+CONFIDENTIALITY
+
+AND
+
+INSTITUTIONAL
+
+DATA
+
+12.1 Scope of Confidential Information
+For the purposes of this Policy, the following categories of information shall constitute Confidential
+Information and shall be subject to all applicable confidentiality and data governance obligations:
+12.1.1 Student academic records, including APS data, backlog status, and program details;
+12.1.2 Student resumes and supporting documents;
+12.1.3 Shortlisting data, rankings, and selection outcomes;
+12.1.4 Compensation details, offer terms, and related financial information;
+12.1.5 HR contact information, recruiter details, and organizational contact databases;
+12.1.6 Communications between CDS and recruiting organizations or academic institutions;
+12.1.7 Interview content, assessment results, and process-specific evaluations;
+12.1.8 Student disciplinary records and proceedings;
+12.1.9 Internal CDS communications, operational decisions, and strategic plans; and
+12.1.10 Placement and internship statistics and institutional operational records.
+
+12.2 Student Confidentiality Obligations
+12.2.1 Registered students are prohibited from disclosing, sharing, distributing, publishing,
+or misusing any Confidential Information obtained during or as a result of participation in any
+CDS process.
+12.2.2 The prohibition on disclosure extends to sharing Confidential Information with other
+students, external parties, social media platforms, and any third-party individuals or
+organizations.
+12.2.3 Unauthorized disclosure or misuse of Confidential Information shall constitute a
+serious policy violation and may result in a Penalty, removal from all CDS processes, and
+escalation to institutional authorities.
+
+12.3 CDS Student Team Confidentiality Obligations
+12.3.1 All members of the CDS Student Team are bound by strict confidentiality obligations in
+relation to all Confidential Information accessed during their tenure.
+12.3.2 Unauthorized sharing of company details — including HR email addresses, contact
+information, internal recruiter communications, and organizational data — without the
+approval of the Chair CDS or CDS Administration is strictly prohibited and constitutes
+grounds for termination from the CDS Student Team.
+12.3.3 Confidentiality obligations shall continue to apply after the conclusion of a CDS
+Student Team member's tenure.
+
+12.4 CDS Data Processing Authorization
+Registration with CDS constitutes the student's express consent authorizing CDS to internally
+collect, store, process, use, communicate, and maintain student operational data — including
+academic records, resumes, and placement outcomes — for legitimate CDS purposes including but
+not limited to recruiter coordination, operational management, placement and internship execution,
+institutional record-keeping, eligibility verification, and communication management.
+
+CDS Policy 2026-27/ IITGN | Page 34
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 13 — EMERGENCY POWERS, OPERATIONAL DISCRETION,
+AND FORCE MAJEURE
+13.1 Emergency Operational Powers
+CDS retains broad emergency powers to modify, suspend, reschedule, or alter any process, timeline,
+requirement, or procedure during Active Recruitment Processes in the following circumstances:
+13.1.1 Technical failures in digital infrastructure, portals, or communication systems;
+13.1.2 Emergencies notified or caused by recruiting organizations;
+13.1.3 Force Majeure Events;
+13.1.4 Institutional disruptions including academic schedule changes, campus-wide
+emergencies, or administrative exigencies; and
+13.1.5 Any other unforeseen operational circumstances that, in the judgment of the Chair
+CDS, require immediate procedural modification.
+13.1.6 Emergency directives issued by the Chair CDS or CDS Administration under
+emergency powers shall be binding immediately upon communication and shall not require
+prior notice or consultation.
+
+13.2 Institutional Discretion
+13.2.1 CDS retains broad discretionary authority in exceptional operational circumstances,
+including the authority to: (a) modify standard procedures in the larger interest of students or
+institutional reputation; (b) make case-by-case determinations where the Policy does not
+prescribe a specific outcome; and (c) apply the spirit of this Policy in situations not
+contemplated by its express provisions.
+13.2.2 Exercises of institutional discretion shall not create precedents binding upon CDS in
+future situations.
+
+13.3 Policy Amendment Authority
+13.3.1 The Chair CDS holds exclusive authority to alter, modify, amend, or repeal any
+provision of this Policy at any time, with or without prior notice, in the larger interest of
+students or the objectives of CDS.
+13.3.2 Amendments shall be communicated through Official Communication Channels and
+shall be effective upon communication.
+13.3.3 Students shall be bound by the most current version of the Policy as communicated by
+CDS.
+
+CDS Policy 2026-27/ IITGN | Page 35
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 14 — LIMITATION OF LIABILITY, NON-GUARANTEE, AND
+NON-RESPONSIBILITY CLAUSES
+14.1 No Guarantee of Placement or Internship
+CDS does not guarantee, represent, or warrant the placement or internship of any registered student.
+The availability of opportunities, the extension of offers, the terms of any offer, and the decisions of
+recruiting organizations are entirely beyond the control of CDS. No representation by any CDS
+personnel shall be construed as a guarantee of any employment or internship outcome.
+
+14.2 No Liability for Recruiter Actions
+CDS shall not bear any liability for: (a) the actions, decisions, representations, or omissions of
+recruiting organizations; (b) changes in job roles, compensation, or work environment post-joining;
+(c) revocation of offers by recruiting organizations; (d) the quality, safety, or suitability of the work
+environment; or (e) any post-selection dispute between a student and a recruiting organization.
+Students are advised to conduct their own due diligence before accepting any offer.
+
+14.3 No Vested Rights
+Participation in any CDS process, completion of registration, or receipt of any prior benefit through
+CDS shall not create any vested right, entitlement, or legitimate expectation of placement, internship,
+financial support, or any other benefit in the current or any future cycle.
+
+14.4 No Entitlement to Process Continuation
+The initiation of any recruitment process does not create an entitlement in any student to the
+continuation or completion of that process. CDS reserves the right to suspend, cancel, or modify any
+process at any time in the exercise of its operational or emergency powers.
+
+14.5 Limitation on Scope of Liability
+To the maximum extent permissible under applicable institutional and legal norms, CDS, CDS
+Administration, and the CDS Student Team shall not be liable for any direct, indirect, consequential,
+or incidental harm arising from or in connection with the exercise of powers, functions, or
+discretions under this Policy, provided such exercise is made in good faith.
+
+CDS Policy 2026-27/ IITGN | Page 36
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 15 — RECORD MAINTENANCE, RESIDUAL AUTHORITY, AND
+INTERPRETATION
+15.1 Record Maintenance
+15.1.1 CDS shall maintain comprehensive operational and disciplinary records throughout
+each cycle, including registration records, attendance records, conduct observations,
+disciplinary proceedings, offer records, and communication logs.
+15.1.2 Disciplinary records — including Warnings, Strikes, and Penalties — shall be
+permanently recorded and shall be carried forward across all CDS cycles for the duration of
+the student's association with CDS.
+15.1.3 Records maintained by CDS shall constitute the official account of all CDS-related
+proceedings and shall be accorded full evidentiary weight in disciplinary and compliance
+matters.
+
+15.2 Residual Authority Clause
+Any situation, circumstance, or matter not expressly addressed or contemplated by this Policy shall
+be resolved by the Chair CDS in consultation with CDS Administration and the CDS Student Core
+Team. The resolution arrived at by the Chair CDS in such matters shall be final, binding, and shall be
+treated as an authoritative interpretation of this Policy. Such resolutions may be incorporated into
+future versions of the Policy.
+
+15.3 Policy Interpretation Authority
+The Chair CDS shall be the sole and final authority for the interpretation of all provisions of this
+Policy. Where this Policy is silent, ambiguous, or admits of more than one interpretation, the
+interpretation adopted by the Chair CDS shall be final and shall govern.
+
+CDS Policy 2026-27/ IITGN | Page 37
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+SECTION 16 — SUPPLEMENTARY SCHEDULES, CALENDARS, AND
+OPERATIONAL GUIDANCE
+16.1 Nature of Supplementary Operational Items
+16.1.1 CDS issues, from time to time, supplementary operational materials including but not
+limited to cycle calendars, operational FAQs, process timelines, scheduling notices,
+annexures, operational circulars, and other guidance documents (collectively,
+'Supplementary Operational Items').
+16.1.2 Supplementary Operational Items are dynamic operational instruments that
+supplement the core Policy framework. They are designed to accommodate the operational
+variability inherent in each recruitment cycle and may require periodic modification,
+updating, or replacement.
+
+16.2 Modification of Supplementary Operational Items
+16.2.1 Supplementary Operational Items may be modified, updated, replaced, expanded, or
+otherwise revised by the Chair CDS in consultation with CDS Administration and the CDS
+Core Team, without requiring formal amendment of this core Policy document.
+16.2.2 Modifications to Supplementary Operational Items shall become effective upon official
+communication by CDS through any Authorized Communication Channel.
+16.2.3 Such modifications shall not be treated as amendments to the core governance
+framework of this Policy unless expressly stated by the Chair CDS to constitute a formal
+amendment.
+
+16.3 Distinction Between Core Policy and Supplementary Items
+16.3.1 This Policy distinguishes between: (a) core governance provisions — comprising the
+operative sections of this document, which may be amended only with the authority of the
+Chair CDS and through formal communication — and (b) supplementary operational items —
+comprising calendars, schedules, FAQs, and operational guidance, which may be modified
+operationally without formal Policy amendment.
+16.3.2 This architecture is designed to preserve the stability and authority of the core
+governance framework while enabling the operational agility required for effective cycle
+management.
+16.3.3 Students, the CDS Student Team, and all participants in CDS processes are bound by
+both the core Policy provisions and all applicable Supplementary Operational Items as
+communicated by CDS.
+
+16.4 Index of Supplementary Operational Items
+The following Supplementary Operational Items form part of this Policy Framework as of the date of
+issue and are set out as Annexures to this document. Additional items may be issued by CDS as
+required during the cycle.
+⚫
+⚫
+⚫
+
+Annexure A Disciplinary Quick Reference Table
+Annexure B Cycle Calendars — 2026–27
+Annexure C Formalized Frequently Asked Questions (FAQs)
+
+-----END OF POLICY DOCUMENT-----
+
+CDS Policy 2026-27/ IITGN | Page 38
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+ANNEXURE A
+
+DISCIPLINARY QUICK REFERENCE TABLE
+Violation
+
+Consequence
+
+Additional Effect
+
+Absent: mandatory CDS/PDC session
+(1st instance)
+
+Warning
+
+—
+
+Absent: mandatory CDS/PDC session
+(2nd instance onwards)
+
+Strike
+
+—
+
+Absent: PPT of registered company (1st
+instance)
+
+Warning
+
+—
+
+Absent: PPT of registered company (2nd
+instance onwards)
+
+Strike
+
+—
+
+Resume format violation (1st instance)
+
+Warning
+
+—
+
+Resume format violation (2nd instance
+onwards)
+
+Strike
+
+—
+
+Failure to report External Offer within 24
+hours
+
+Strike
+
+—
+
+Direct contact with HR/company re.
+offer, result, or acceptance
+
+Strike
+
+Deregistered from that company's process
+
+Absent:
+pre-interview
+(test/GD/case) after registration
+
+stage
+
+Strike
+
+—
+
+Incorrect APS data or program details in
+opportunity form
+
+Strike
+
+—
+
+Day-0 internship offer
+BEFORE acceptance
+
+rejection
+
+Strike (1)
+
+Permanent ineligibility for that company
+
+Day-0 internship offer — acceptance
+followed by withdrawal
+
+Strikes (2)
+
+Permanent ineligibility for that company
+
+Non-Day-0 internship offer — rejection
+BEFORE acceptance
+
+No Strike
+
+Permanent ineligibility for that company
+
+Non-Day-0
+internship
+offer
+acceptance followed by withdrawal
+
+Strike (1)
+
+Permanent ineligibility for that company
+
+Non-submission of academic internship
+report
+
+Strike
+
+—
+
+No-Show at scheduled interview round
+
+Penalty
+
+Deregistration from CDS processes
+
+Cheating / fraud / malpractice
+
+Penalty
+
+Possible SSAC / Dean referral
+
+Penalty
+
+Possible institutional escalation
+
+Honor code violation
+
+Penalty
+
+Possible SSAC referral
+
+Misrepresentation in resume (intent to
+deceive)
+
+Penalty
+
+Possible institutional escalation
+
+Confidentiality breach
+
+Penalty
+
+Possible institutional escalation
+
+3 Strikes cumulative (across any cycles)
+
+Permanent
+Deregistration
+
+Non-appealable
+
+Disrespectful
+conduct
+CDS/company personnel
+
+—
+
+—
+
+toward
+
+CDS Policy 2026-27/ IITGN | Page 39
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+ANNEXURE B
+
+CYCLE CALENDARS: 2026–27
+This Annexure sets out the cycle-specific operational timelines for the 2026–27 academic cycle.
+Timelines for subsequent cycles shall be notified by CDS at the commencement of each cycle.
+
+Placement and Industrial Internship Cycles — 2026–27
+Milestone
+
+Placement Cycle
+
+Industrial Internship Cycle
+
+Cycle Start
+
+16 April 2026
+
+16 April 2026
+
+Open House 1
+
+16 April 2026
+
+16 April 2026
+
+Open House 2
+
+2 September 2026
+
+8 June 2026
+
+Pre-Registration / Phase I Reg.
+
+20 Apr – 20 May 2026
+
+20 Apr – 15 May 2026
+
+Final Registration / Phase II Reg.
+
+20 Aug – 10 Sep 2026
+
+21 May – 20 Jun 2026
+
+PPTs and Tests
+
+25 Sep 2026 onwards
+
+15–26 Jul 2026
+
+Interview Process
+
+13 Oct 2026 onwards
+
+5th August 2026 onwards
+
+Cycle End
+
+Convocation 2027
+
+30 Apr 2027 (3M); 31 May 2027
+(6M)
+
+Deregistration
+Refund)
+
+Phase
+
+I
+
+(Full
+
+15 Apr – 30 Apr 2027
+
+N/A
+
+Deregistration
+Refund)
+
+Phase
+
+II
+
+(50%
+
+1 May – 31 May 2027
+
+N/A
+
+Academic Internship Cycle — 2026–27
+Milestone
+
+Date / Period
+
+Cycle Start
+
+16 April 2026
+
+Open House
+
+16 April 2026
+
+Phase I Registration
+
+20 April – 20 May 2026
+
+Phase II Final Registration
+
+21 May – 20 June 2026
+
+CV and SOP Collection
+
+Mid-August 2026
+
+Discipline Ranking Process
+
+September 2026
+
+Advertisement,
+Selections
+
+Applications,
+
+Nominations,
+
+October 2026
+
+This Policy Framework has been issued by Career Development Services, IIT Gandhinagar.
+All students registered with CDS are bound by its provisions.
+The Chair CDS retains full authority to amend this Policy as required.
+For all queries: cdsteam@iitgn.ac.in | cds@iitgn.ac.in
+
+CDS Policy 2026-27/ IITGN | Page 40
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+ANNEXURE C
+
+FORMALIZED FREQUENTLY ASKED QUESTIONS (FAQs)
+The following FAQs are issued as authoritative interpretive guidance. Where any conflict exists
+between the FAQs and the substantive provisions of this Policy, the substantive provisions shall
+prevail.
+Q1 Will I be permitted to participate in further recruitment processes if I have already received an
+offer?
+No. IIT Gandhinagar observes a strict One Student One Offer policy. Upon receipt of the first job
+offer — irrespective of acceptance or rejection — the student is deemed placed and is ineligible
+for further CDS recruitment processes. The only exception is the Day-0 scenario, where multiple
+organizations declare results in the same slot; the student must choose one offer and
+communicate the decision to CDS before the next slot commences.
+Q2 What if multiple offers are declared on the same date following processes conducted on earlier
+dates?
+If the recruitment processes of multiple organizations were concluded on prior dates and results
+are declared on the same subsequent date, the student shall be permitted to select one offer
+from among those declared on that date.
+Q3 May I secure an industrial internship and an academic internship in the same cycle?
+No. The One Internship Per Cycle Policy is absolute. A student may secure only one internship —
+whether industrial or academic, Summer or Semester-Long through CDS in any single internship
+cycle. Upon securing an offer of any kind through CDS, the student becomes ineligible for all
+remaining internship opportunities in that cycle.
+Q4 Can I undertake more than one academic internship through CDS during my academic program?
+Yes, subject to conditions. A student may undertake a maximum of two academic internships
+through CDS during their entire academic program. This is specifically to accommodate Dual
+Degree and Dual Major students. However, institutional financial support may be availed for only
+one academic internship. In any single cycle, only one internship may be secured through CDS.
+Q5 I have secured an External Offer. Am I required to inform CDS?
+Yes, unconditionally. You must inform CDS within 24 hours of receiving the selection
+communication. Failure to do so shall result in a Strike. If you accept the External Offer, you will
+be automatically deregistered from the CDS cycle and the registration fee refunded. If you wish
+to continue in the CDS process, you must formally reject the External Offer and share a copy of
+the rejection with CDS. For further details you can refer to Section 7.5.
+Q6 I applied for a company by mistake and wish to deregister. Is this permitted?
+Deregistration from a specific company's process is permitted only before the application
+deadline. After the deadline, you are required to participate in all subsequent stages of that
+company's process. Failure to do so shall constitute a Process Violation.
+Q7 Can I directly contact an organization to inquire about shortlists, results, or offer terms?
+No. Direct communication with HR representatives or Company Personnel at any stage of the
+recruitment process — including regarding shortlists, results, acceptance, rejection, or
+withdrawal — without routing through CDS is a strict policy violation that shall result in a Strike.
+Q8 What should I do if two interviews are scheduled simultaneously or if I encounter a technical
+issue?
+You must immediately inform the CDS Office with supporting evidence (e.g., screenshots of
+technical errors or conflicting schedules). CDS will coordinate with the respective organizations
+to the extent possible. You must not independently contact the company to reschedule or
+resolve the issue.
+Q9 What are the refund provisions for the placement registration fee?
+Full refund: Deregistration during Phase I of the deregistration window (dates as notified). Partial
+refund (50%): Deregistration during Phase II of the deregistration window. No refund: If you have
+received a job offer through CDS, if deregistered due to a policy violation, or if you fail to submit
+a deregistration request before the end of Phase II.
+Q10 What happens if I arrive late to a scheduled interview or test?
+Late entry is subject to the sole discretion of the recruiting organization and CDS. In most cases,
+late entry is not permitted and the absence shall be treated as a No-Show attracting Penalty-level
+disciplinary action. Students must arrive well in advance of all scheduled processes.
+Q11 What happens if an organization revokes my job offer?
+CDS Policy 2026-27/ IITGN | Page 41
+
+CAREER DEVELOPMENT SERVICES | IIT GANDHINAGAR | CDS POLICY
+
+You must inform CDS within 24 hours and submit official documentation from the organization
+confirming the revocation. CDS will review the matter and determine your eligibility to apply for
+other opportunities within the same cycle. A revoked offer does not qualify you for deferred
+placements.
+Q12 What is the difference between a Warning, a Strike, and a Penalty?
+Warning: Issued for minor procedural violations or first-instance behavioral misconduct. Only
+one Warning may be issued per student. Any subsequent Warning-level violation directly results
+in a Strike. Strike: A formal disciplinary record for a significant policy breach. Strikes are
+cumulative across all cycles; three Strikes result in permanent deregistration. Penalty: The most
+severe disciplinary action, resulting in immediate deregistration and potential institutional
+escalation, reserved for grave offenses including cheating, serious misconduct, No-Shows, and
+honor code violations.
+Q13 Can a Strike be waived?
+A Strike may be waived only in genuine documented circumstances — such as a medical
+emergency or an institute-approved commitment — subject to submission of valid supporting
+documentation. All such requests are reviewed at the sole discretion of the Chair CDS. The
+decision shall be final and non-appealable.
+Q14 What are the consequences of rejecting or withdrawing from an internship offer?
+The consequences depend on whether the offer is a Day-0 or non-Day-0 offer: (a) Day-0 offer —
+rejection before acceptance: 1 Strike; (b) Day-0 offer — acceptance followed by withdrawal: 2
+Strikes; (c) Non-Day-0 offer — rejection before acceptance: No Strike; (d) Non-Day-0 offer —
+acceptance followed by withdrawal: 1 Strike. In all four scenarios, the student is permanently
+ineligible for future placement or internship processes of that company through CDS. Refer to
+Section 8.5 for the complete matrix.
+Q15 How do I update my Academic Performance Score (APS) in CDS records?
+You must formally request the Academic Office (ar.acad@iitgn.ac.in) to communicate your
+updated CPI directly to CDS Staff (cds@iitgn.ac.in). The updated APS may be used for CDS
+purposes only after this official communication is received by CDS. IMS screenshots, studentforwarded emails, or any other informal modes of communication shall not be accepted.
+Q16 Are zero-credit courses treated as backlogs for the purposes of APS computation?
+No. Courses carrying zero credit — including Physical Education (PE), Foundation Programme
+(FP), and Viva-Voce — are excluded from the computation of the Academic Performance Score
+(APS).
+Q17 Can I submit or modify my CV after the deadline?
+No. Once the submission deadline has passed, late submissions or modifications to the CV shall
+not be permitted under any circumstances. Students must ensure all information is accurate and
+complete prior to the deadline.
+Q18 What format should my resume file name follow?
+Resume files must follow the prescribed naming convention: Firstname_LASTNAME (e.g., Rohit
+SHARMA).
+Q19 Can a Dual Major student pursue internships in both their primary and secondary disciplines?
+Yes, within specified limits. Dual Major students may pursue internships in their primary
+discipline from their third year onwards. Eligibility for internships in their secondary discipline
+commences from the beginning of the fourth year. However, they may pursue only one
+Semester-Long industrial internship through CDS during their entire program, either in the 7th
+semester (primary discipline) or in the 9th semester (primary or secondary discipline). Refer to
+Section 6.3.2(c).
+Q20 Am I required to inform CDS before applying independently for an off-campus academic
+internship?
+Yes. Before initiating any independent communication with an off-campus academic institution,
+university, laboratory, or professor for an internship, you must formally inform CDS of the
+proposed institutions through the process prescribed by CDS. CDS may approve, restrict, or
+regulate such applications in the interest of institutional relationships and coordination. Noncompliance may attract disciplinary consequences.
+
+CDS Policy 2026-27/ IITGN | Page 42

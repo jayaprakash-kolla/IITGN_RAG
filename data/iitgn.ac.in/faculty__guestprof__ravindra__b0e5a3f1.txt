@@ -1,0 +1,30 @@
+Title: IIT Gandhinagar | Ravindra Pratap Singh
+Source: https://iitgn.ac.in/faculty/guestprof/ravindra
+
+# Ravindra Pratap Singh
+
+-  Guest Professors
+Ravindra Pratap Singh
+
+## Ravindra Pratap Singh
+
+Guest Professor, Physics
+
+- "Tanya Sharma, Ayan Biswas, Jayanth Ramakrishnan, Pooja Chandravanshi, R. P. Singh, 2024, “Mitigating the Source-side Channel Vulnerability by Characterisation of Photon Statistics”, Journal of Lightwave Technology 42, 3221-3227."
+- "Chahat Kaushik, A. Aadhi, Anirban Ghosh, R. P. Singh, S. Dutta Gupta, M. Ebrahim-Zadeh, G. K. Samanta, 2023, “Dynamically tunable broadband output coupling of optical oscillators based on non-cyclic geometric phase mirror”, APL Photonics 8, 116110. Editor’s Pick"
+- "Sarika Mishra, R.P. Singh, 2023, “Transformation of Bell states using linear optics”, Physics Open 18, 100199."
+- "N Lal, S Mishra, A Rani, A Banerji, C Perumangatt, R P Singh, 2023, Polarization–orbital angular momentum duality assisted entanglement observation for indistinguishable photons, Quantum Information Processing 22 (1), 90."
+- "Anju Rani, Pooja Chandravanshi, Jayanth Ramakrishnan, Pravin Vaity, P. Madhusudhan, Tanya Sharma, Pranav Bhardwaj, Ayan Biswas, R. P. Singh, 2023, Free space continuous variable Quantum Key Distribution with discrete phases, Physics Open 17, 100162."
+- "Natarajan Venkatachalam, Foram P Shingala, C Selvagangai, S Dillibabu, Pooja Chandravanshi, R P Singh, 2023, “Scalable QKD Post Processing System with Reconfigurable Hardware Accelerator”, IEEE Transactions on Quantum Engineering 4, 4100914."
+
+- Guest Professor, Indian Institute of Technology, Gandhinagar (May 2024 to present)
+- Senior Professor and Head of the Division, Atomic, Molecular and Optical Physics Division, Physical Research Laboratory, Ahmedabad
+- Visiting Professor, IIT Roorkee
+- Adjunct Professor, IIT Mandi
+- Adjunct Professor, SRM University AP, Amaravati, Andhra Pradesh
+
+- ● Light scattering
+- ● Structured light beams
+- ● Nonlinear Optics
+- ● Quantum Optics
+- ● Quantum Information

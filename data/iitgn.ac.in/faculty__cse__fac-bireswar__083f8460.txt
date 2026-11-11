@@ -1,0 +1,48 @@
+Title: IIT Gandhinagar | Bireswar Das
+Source: https://iitgn.ac.in/faculty/cse/fac-bireswar
+
+# Bireswar Das
+
+-  Computer Science & Engineering
+Bireswar Das
+
+## Bireswar Das
+
+Professor, Computer Science and Engineering
+
+- BE: REC Silchar, 2001
+- MTech: Indian Statistical Institute Kolkata, 2003
+- PhD: Institute of Mathematical Sciences, 2010
+
+Email: bireswar -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/site/bireswar/
+
+Office:  AB 13/405F
+VOIP:  2413
+
+Succinct Representations of Finite Groups (with Shiv Dutt Sharma and P. R. Vaidyanathan), Accepted in The Symposium on Fundamentals of Computation Theory, FCT'2019.
+
+Nearly Linear Time Isomorphism Algorithms for Some Nonabelian Group Classes (with Shiv Dutt Sharma), Accepted in The International Computer Science Symposium in Russia, CSR'2019.
+
+On NC algorithms for problems on bounded rank-width graphs (with Anirban Dasgupta, Murali Krishna Enduri and Vinod Reddy), Information Processing Letters, 139: 64-67, 2018.
+
+On the Parallel Parameterized Complexity of the Graph Isomorphism Problem (with Murali Krishna Enduri, and Vinod Reddy), WALCOM 2018, 252-264.
+
+CNF and DNF succinct graph encodings (with Patrick Scharpfenecker and Jacobo Torán), Information and Computation, 253: 236-447, 2017.
+
+Zero knowledge and circuit minimization (with Eric Allender), Information and Computation, 256: 2-8, 2017. (Conference version: MFCS 2014, Best Paper).
+
+On Structural Parameterizations of Graph Motif and Chromatic Number (with Murali Krishna Enduri, Neeldhara Misra, and Vinod Reddy), CALDAM 2017:118-129.
+
+Polynomial-time Algorithm for Isomorphism of Graphs with Clique-width at most three (with Murali Krishna Enduri and Vinod Reddy), Theoretical Computer Science, 2017 (Conference COCOON'2016).
+
+- Professor, Indian Institute of Technology, Gandhinagar, (Jun 2026 to Present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar, (Feb 2020 to Jun 2026)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar, (Jun 2010 to Feb 2020)
+- Visiting Faculty, National Institute of Science Education and Research, Bhubaneswar
+- Visiting Researcher, Laboratoire de Recherche en Informatique, Orsay, France (Sep 2009 - Dec 2009)
+- IUSSTF Fellow, DIMACS, Rutgers University (Jan 2014 -Dec 2014)
+
+- ● Computational complexity theory and algorithms
+- ● Algebra and computationy

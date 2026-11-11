@@ -1,0 +1,30 @@
+Title: Post-Docs
+Source: https://cse.iitgn.ac.in/people/postdocs
+
+People
+
+# Postdoctoral Researchers
+
+ Current postdoctoral researchers working with the department.
+
+ GS
+
+## Dr. Gourav Siddhad
+
+Postdoctoral Researcher
+
+January 2026 - Present
+
+Doctorate: PhD (CS 2020-2025), IIT Roorkee
+Working with: Yogesh Meena
+
+ GR
+
+## Dr. Gowtham Reddy
+
+Postdoctoral Researcher
+
+September 2025 - Present
+
+Doctorate: PhD (BE 2020-2025), IIT Kharagpur
+Working with: Yogesh Meena

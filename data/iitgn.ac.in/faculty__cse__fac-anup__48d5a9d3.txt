@@ -1,0 +1,55 @@
+Title: IIT Gandhinagar | Anup Kalbalia
+Source: https://iitgn.ac.in/faculty/cse/fac-anup
+
+# Anup Kalbalia
+
+-  Computer Science & Engineering
+Anup Kalbalia
+
+## Anup Kalbalia
+
+Associate Professor of Practice, Computer Science and Engineering
+
+- BE: Information Technology, MAKAUT (formerly IIIT-Calcutta), 2004
+- MS: Software Systems, BITS Pilani, 2011
+
+Email: anup.kalbalia -AT- iitgn.ac.in
+
+ Website :  https://anup.github.io/courses/
+
+Office:  AB 13/401 D
+VOIP:  2649
+
+- Associate Professor of Practice, Indian Institute of Technology Gandhinagar (Feb 2026 – Present)
+- Founder & Member, Justuju (Oct 2024 – Feb 2026)
+- Strategic Advisor, ICPC India (Aug 2024 – Feb 2025)
+- Director, School of Programming, NavGurukul (Jul 2022 – Dec 2023)
+- Advisor, Technology, Delhi Commission for Protection of Child Rights (Apr 2022 – Oct 2022)
+- CEO, CodeChef, Unacademy / Business Head - CodeChef, Directi (2009 – 2021)
+- Senior Executive, 3i Infotech / SDG Software Technologies (2004 – 2008)
+
+More Information
+
+### Teaching
+
+- ES 242 — Data Structures and Algorithms I, 4 credits (3-0-2-4): principled ways to store data, time and space complexity, arrays, linked lists, stacks, queues, trees, searching, and sorting (2026–27)
+- CS 437 — AI Assisted Software Development (2026–27)
+- ES 248 — Introduction to Data Structures and Algorithms, 3 credits (1.5-0-3-3): basics of C/C++, primitive/user-defined types for embedded systems, pointer logic, memory management, and efficient file reading/writing (previous offering)
+- Invited lectures on competitive programming and problem solving at institutions across India
+Course pages: https://anup.github.io/courses/
+
+### Current Projects
+
+- Secure Exam OS: An open, hardened Ubuntu image and toolchain for conducting online exams and contests in labs. It restricts access to AI assistants and unapproved sites, standardises the lab environment, and can be hardened and reverted per exam with a single script. In use for IITGN courses (ES242, ES248), the ACM India Summer School 2026, and ICPC India contests; deployed by other institutions including IIT Delhi (ZCO 2026). The goal is assessment that is safe against plagiarism yet calm and predictable for students.
+- CS Basics Exams: A course-scoped platform that lets teachers create and run coding exams and practice sets. Work in progress.
+- Rethinking CS101: Logic Before Syntax: A course design project that separates the logic of instructing a computer from the syntax of any one programming language, using flowcharts as a precise, math-oriented first notation. The aim is problem-solving skill that outlasts any particular language.
+
+### Invited Talks
+
+- Speaker, ICPC Competitive Learning Institute Symposium (CLIS), held alongside the ICPC World Finals, on competitive programming and CS pedagogy — Marrakech 2015 (co-instructor with Prof. Phalguni Gupta), Phuket 2016, Rapid City 2017, and Beijing 2018
+- ACM India Summer School on Competitive Programming, Dhirubhai Ambani University, Gandhinagar, June 2026
+
+- ● Systems for education: assessment infrastructure, hardened exam environments, and platforms for programming instruction and automated evaluation
+- ● Academic integrity in the age of AI: preventing misuse without surveillance-heavy or stressful exam conditions
+- ● Pedagogy of introductory CS: rethinking CS101 to teach problem-solving logic before language syntax
+- ● Equity and access in computer science education

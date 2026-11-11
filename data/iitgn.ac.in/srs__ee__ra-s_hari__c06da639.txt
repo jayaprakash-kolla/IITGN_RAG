@@ -1,0 +1,46 @@
+Title: IIT Gandhinagar | ra-s_hari
+Source: https://iitgn.ac.in/srs/ee/ra-s_hari
+
+# S Hari Charan Cherukuri
+
+- Senior Research Staff
+S Hari Charan Cherukuri
+
+## S Hari Charan Cherukuri
+
+Research Associate, Electrical Engineering
+
+- BE: Anna University Chennai, Tamil Nadu, 2011
+- MTech: SASTRA University, Thanjavur, Tamil Nadu, 2014
+- PhD: VIT, Vellore, 2019
+
+Email: h.cherukuri -AT- iitgn.ac.in
+
+Work experience
+
+- Research Associate, Indian Institute of Technology Gandhinagar, (Jul 2020 to present)
+
+Selected Publications
+
+Cherukuri, S. H. C., Saravanan, B., & Arunkumar, G. “Experimental evaluation of the performance of virtual storage units in hybrid micro grids.” International Journal of Electrical Power & Energy Systems, Vol. 114, 105379, 2020.
+
+Cherukuri, S.H.C., Kuhada, R.B., Kachhad, V.M., and Pindoriya, N.M. , “A real time control strategy for improvement of autonomous operation in AC/DC micro grids using electric springs,” International Transactions on Electrical Energy Systems, Early Access, October 2020.
+
+Jayabarathi, T., Raghunathan,T., R. Sanjay, R., Aditya Jha, Mirjalili, S., Cherukuri, S.H.C., “ Hybrid Grey Wolf Optimizer based Optimal Capacitor Placement in Radial Distribution Systems,” Electric Power Components and Systems, Accepted for publication, August 2020.
+
+Cherukuri, S. H. C., Saravanan, B., & Arunkumar, G. “A rule based approach for improvement of autonomous operation of hybrid micro grids.” Electrical Engineering, Vol. 102, pp. 989-1004, 2020.
+
+Cherukuri, S. H. C., Saravanan, B. “Hybrid energy management strategy for residential consumers using virtual and actual storage systems.” Journal of Energy Storage, Vol. 25, 100894, 2019.
+
+Cherukuri, S. H. C., Saravanan, B. "A novel energy management algorithm for reduction of main grid dependence in future smart grids using electric springs." Sustainable Energy Technologies and Assessments, vol. 21, pp. 1-12, 2017.
+
+Cherukuri, S. H. C., Saravanan, B. "An overview of selected topics in smart grids." Frontiers in Energy, Vol.10(4), pp. 441-458, 2016.
+
+Awards
+
+- CSIR fellowship for doctoral studies
+
+- ● Energy management in grid interactive micro grids
+- ● Electric springs and Demand Side Management
+- ● Home energy management
+- ● Application of optimization techniques to power systems problems

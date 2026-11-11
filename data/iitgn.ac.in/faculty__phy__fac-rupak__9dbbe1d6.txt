@@ -1,0 +1,52 @@
+Title: IIT Gandhinagar | Rupak Banerjee
+Source: https://iitgn.ac.in/faculty/phy/fac-rupak
+
+# Rupak Banerjee
+
+-  Physics
+Rupak Banerjee
+
+## Rupak Banerjee
+
+Associate Professor, Physics
+
+- BSc: University of Calcutta, 2000
+- MSc: University of Calcutta, 2002
+- PhD: University of Calcutta (Saha Institute of Nuclear Physics), 2012
+
+Email: rupakb -AT- iitgn.ac.in
+
+ Website :  https://rupakb1.wixsite.com/rupakbanerjee
+
+Office:  AB 5/356
+VOIP:  2484
+
+High-Performance GA2PbI4/PVDF Composite for Energy Harvesting and Real-Time Wireless Photodetection. P. Kumar, S. Das, N. H. Makani, P. Pradhan, B. K. Patra, R. Banerjee, Advanced Optical Materials (2026). https://doi.org/10.1002/adom.202503176
+
+Highly Efficient Noble-Metal Free Photocatalytic Hydrogen Generation Using Water-Stable 4,4'-Vinylenedipyridine-based Halide Perovskites. M. Singh, G. Pourceau, L. Quehon, F. Sauvage, R. Banerjee, Small e06894 (2025). https://doi.org/10.1002/smll.202506894
+
+Lead-Free Tin-Based Halide Perovskites: A Bifunctional Catalyst for Oxygen Evolution and Oxygen Reduction Suitable for Sustainable Energy Applications. V. Takhar, M. Barman, A. Dutta, and R. Banerjee, Small 21, e05293 (2025). https://doi.org/10.1002/smll.202505293
+
+Impact of Thermally Activated Ionic Dynamics on Trap-Mediated Current-Voltage Characteristics in Mixed-Halide Hybrid Perovskite. M. Singh, L. S. Tanwar, R. Banerjee, J. Mater. Chem. C 13, 15168–15184 (2025). https://doi.org/10.1039/D5TC02146D
+
+Harnessing Self-powered and Photoresponsive Biomechanical Activity Sensors by Exploring Piezo-phototronic Effect in Lead-free Layered Halide Perovskite/PVDF Composites. P. Kumar, T. Paul, A. Sahoo, M. Singh, A. Pathak, R. Thapa, R. Banerjee, J. Mater. Chem. A 13, 18420–18435 (2025). https://doi.org/10.1039/D4TA08601E
+
+Phosphonium Cation-Based Ferroelectric 1D Halide Perovskite-Like Semiconductor for Mechanical Energy Harvesting. P. Pradhan, P. Kumar, R. K. Bandaru, R. Dandela, R. Banerjee, B. K. Patra, Chemistry of Materials 36, 11015–11024 (2024). https://doi.org/10.1021/acs.chemmater.4c01446
+
+Tailoring Heterojunctions in CsPbBrxCl3−x–MoS2 Composites for Efficient Photocatalysis and Hydrogen Evolution. V. Takhar, S. Singh, S. Dhakar, M. R. A. Qureshi, S. Sharma, S. K. Misra, R. Banerjee, ChemCatChem 16, e202400684 (2024). http://dx.doi.org/10.1002/cctc.202400684
+
+Vortex Flow Induced Self-Assembly in CsPbI3 Rods Leads to Improved Electrical Response Towards External Analyte. T. Paul, A. Maity, P. Bairi, A. Sahoo, S. Maiti, M. Singh, B. Ghosh, R. Banerjee, Dalton Transactions 53, 6333–6342 (2024). https://doi.org/10.1039/D4DT00013G
+
+Dielectric Relaxation Mechanism in the Phase-Transition Region of a Chiral Hybrid Perovskite and Its Piezoelectric-Energy-Harvesting Properties. A. Sahoo, T. Paul, P. Pal, N. H. Makani, A. Ghosh, and R. Banerjee, Phys. Rev. Applied 20, 034024 (2023). https://doi.org/10.1103/PhysRevApplied.20.034024
+
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Oct 2021 to present)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (July 2015 - Oct 2021)
+- Postdoctoral Research Associate, Institute for Applied Physics, University of Tuebingen, Germany (Sep 2011 - Jun 2015)
+- Research Fellow, Surface Physics Division, Saha Institute of Nuclear Physics, Kolkata (Sep 2004 - Sep 2011)
+- Research Fellow, Post MSc/Teaching Division, Saha Institute of Nuclear Physics, Kolkata (Aug 2003 - Sep 2004)
+
+- ● Nanomaterials in renewable energy harvesting & storage
+- ● Dielectric and piezoelectric properties in Advanced functional materials
+- ● Physics of surfaces and interfaces
+
+Complete List of Publications

@@ -1,0 +1,177 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 15, 2026
+(Added during 06th April 2026– 10th April 2026)
+Available for the issue from 18th April 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Effective software architecture: building better software faster
+Author: Goldman, Oliver
+Publisher: Hoboken: Addison-Wesley, 2024
+Call No.: 005.12 GOL
+Acc. No.: 036876
+
+Title: We, programmers: a chronicle of coders from ADA to AI
+Author: Martin, Robert C.
+Publisher: Hoboken: Addison-Wesley Professional, 2025
+Call No.: 005.13 MAR
+Acc. No.: 036879
+
+Title: Rise of AI agents: integrating AI, blockchain technologies, and quantum
+computing
+Author: Radanliev, Petar
+Publisher: Boston: Addison-Wesley, 2024
+Call No.: 006.33 RAD
+Acc. No.: 036878
+
+PSYCHOLOGY
+Title: Predicting and changing behavior: the reasoned action approach
+Author: Fishbein, Martin
+Publisher: New York: Routledge, 2015
+Call No.: 153.85 FIS
+Acc. No.: 036882
+
+Title: Deep listening: transform your relationships with family, friends, and foes
+Author: Kasriel, Emily
+Publisher: London: Thorsons, 2025
+Call No.: 158.2 KAS
+Acc. No.: 036897
+
+PHILOSOPHY
+Title: Ancient philosophy, mystery and magic: Empedocles and Pythagorean
+tradition
+Author: Kingsley, Peter
+Publisher: Oxford: Clarendon Press, 2009
+Call No.: 182 KIN
+Acc. No.: 036880
+
+Title: Pythagoras and the early Pythagoreans
+Author: Zhmud, Leonid
+Publisher: Oxford: Oxford University Press, 2012
+Call No.: 182.2 ZHM
+Acc. No.: 036881
+
+SOCIAL SCIENCE
+Title: Dilemmas of a Trishanku: memory, self, and society in contemporary India
+Author: Kumar, Deepak
+Publisher: New Delhi: Primus Books, 2024
+Call No.: 306.0954 KUM
+Acc. No.: 036884
+
+Title: Contextualizing the body: an Indian experience
+Author: Kumar, Sudit Krishna (Ed.)
+Publisher: New Delhi: Manohar Publishers & Distributors, 2021
+Call No.: 306.4610954 KUM
+Acc. No.: 036895
+
+Title: Routledge handbook of placemaking
+Author: Courage, Cara (Ed.)
+Publisher: New York: Routledge, 2021
+Call No.: 307.1216 COU
+Acc. No.: 036883
+
+EDUCATION
+Title: Every last girl: a journey to educate India’s forgotten daughters
+Author: Husain, Safeena
+Publisher: Gurugram: HarperCollins Publishers India, 2026
+Call No.: 370.820954 HUS
+Acc. No.: 036886
+
+Title: Education in colonial India: historical insights
+Author: Kumar, Deepak (Ed.)
+Publisher: New Delhi: Manohar Publishers & Distributors, 2026
+Call No.: 370.954 KUM
+Acc. No.: 036896
+
+Title: Spelling rules, riddles and remedies: advice and activities to enhance
+spelling achievement for all, 2nd ed.
+Author: Raymond, Sally
+Publisher: New York: Routledge, 2019
+Call No.: 372.632 RAY
+Acc. No.: 036893
+
+LINGUISTICS
+Title: Keywords: a vocabulary of culture and society
+Author: Williams, Raymond
+Publisher: London: Fontana Press, 1988
+Call No.: 423.1 WIL
+Acc. No.: 036875
+
+PHYSICS
+Title: Modeling nonlinear problems in the mechanics of strings and rods: the role
+of the balance laws
+Author: O’Reilly, Oliver M.
+Publisher: Cham, Switzerland : Springer, 2017
+Call No.: 531 ORE
+Acc. No.: 036891
+Title: Elements of quantum optics, 4th ed.
+Author: Meystre, Pierre
+Publisher: Heidelberg: Springer, 2007
+Call No.: 535.15 MEY
+Acc. No.: 036892
+
+Title: Mathematical approaches to biomolecular structure and dynamics
+Author: Mesirov, Jill P (Ed.)
+Publisher: New York: Springer, 1996
+Call No.: 574.88 MES
+Acc. No.: 036890
+
+LIFE SCIENCES
+Title: Speciation
+Author: Coyne, Jerry A.
+Publisher: Sunderland: Sinauer Associates, Inc., 2004
+Call No.: 576.86 COY
+Acc. No.: 036888
+
+MEDICINE & HEALTH
+Title: Dreadful diseases in colonial Bengal: cholera, malaria and smallpox: a
+documentation
+Author: Das, Suranjan (Ed.)
+Publisher: New Delhi: Primus Books, 2022
+Call No.: 614.4095414 DAS
+Acc. No.: 036885
+
+ENGINEERING
+Title: Vibrations and stability: advanced theory, analysis, and tools, 3rd ed.
+Author: Thomsen, Jon Juel
+Publisher: Cham: Springer, 2021
+Call No.: 620.3 THO
+Acc. No.: 036889
+
+Title: Experimental rock mechanics
+Author: Mogi, Kiyoo
+Publisher: Boca Raton: CRC Press, 2019
+Call No.: 624.15132 MOG
+Acc. No.: 036894
+
+MANAGEMENT
+Title: Rebooting tech culture: how to ignite innovation and build organizations
+where everyone can thrive
+Author: Whitney, Telle
+Publisher: Boston: Harvard Business Review Press, 2025
+Call No.: 658 WHI
+Acc. No.: 036874
+Title: Agile guide to business analysis and planning: from strategic plan to
+continuous value delivery
+Author: Podeswa, Howard
+Publisher: Boston: Addison-Wesley, 2021
+Call No.: 658.4012 POD
+Acc. No.: 036877
+
+LITERATURE
+Title: Life’s magic moments
+Author: Bond, Ruskin
+Publisher: Gurugram: Penguin Books, 2025
+Call No.: 824.917 BON
+Acc. No.: 036887

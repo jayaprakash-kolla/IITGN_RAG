@@ -1,0 +1,1787 @@
+#flags:
+
+PAPER MATH
+Interesting Paper Activities
+all with an A4 Sized Sheet!
+
+CENTER FOR CREATIVE LEARNING
+IIT GANDHINAGAR
+
+Table of Contents
+1. A4 Sheet Ratio of Sides
+2. Who feels colder, Baby or Adult?
+3. Square Roots in A4
+4. Root Spiral, √1, √2, √3,…
+5. Cutting a Newspaper and getting Isosceles Triangle
+6. Equilateral Triangle from A4 Sheet
+7. Largest Equilateral Triangle from A4 Sheet
+8. Largest Equilateral Triangle from a Square.
+9. Going to the Moon
+10. Convert A4 Sheet to Square Using all the Paper
+11. A4 Sheet to Rectangle of Given Size
+12. Beautiful Paper Folding Knot Technique
+13. Fold A4 Sheet Once to get Shapes
+14. Triangle to Square of Same Area
+15. Circle to Cone
+16. Largest Cones from Same Circle
+17. Regular Polygon Using a Cone
+18. Geometric Series
+19. Knot Magic
+20. Regular Pentagon from Paper Folding
+21. Hexagon from Paper Folding
+22. Dividing a Line in Equal Number of Parts
+23. Get Hexagon, Triangle, Pentagon from Single Cuts
+24. Triangle with Single Cut
+25. Möbius Strip
+26. Single Möbius Strip Cut in 1/3
+27. Double Möbius with Perpendicular Axis
+28. Double Möbius with Parallel Axis
+29. Area of Triangle
+30. Largest Box from A4
+31. Cylinder and Sphere have Same Area
+32. Cut Isosceles Triangle get 2 Isosceles Triangles
+33. Golden Ratio in Rectangle
+34. Golden Ratio in Triangle and Pentagon
+35. Polygons from Cube
+36. Volume of Pyramid is 1/3 of Prism
+37. Volume of a Cube = 3 Equal Square Pyramids
+38. Volume of a Cube = 6 Half Square Pyramids
+39. Volume of a Cube = 6 Triangular Pyramids
+40. Buffon's Needle
+
+........................... 1
+........................... 3
+........................... 5
+........................... 6
+........................... 7
+........................... 9
+........................... 11
+........................... 12
+........................... 13
+........................... 15
+........................... 17
+........................... 19
+........................... 21
+........................... 23
+........................... 25
+........................... 27
+........................... 29
+........................... 31
+........................... 33
+........................... 35
+........................... 37
+........................... 39
+........................... 41
+........................... 43
+........................... 45
+........................... 47
+........................... 49
+........................... 51
+........................... 53
+........................... 55
+........................... 57
+........................... 59
+........................... 61
+........................... 63
+........................... 65
+........................... 67
+........................... 69
+........................... 71
+........................... 73
+........................... 75
+
+1
+
+1
+
+A4 Sheet
+Ratio of Sides
+
+We see and use A4 sheets almost daily. We all know that it is a
+rectangle. But is there something special about this rectangle?
+
+When we keep two
+A4 sheets side by side,
+We get an A3 sheet.
+With two A3 sheets,
+we get A2 and so on.
+
+Similarly, if we go in other direction
+and halve the A4 sheet, we get an
+A5 sheet.
+The speciality of this A-series is that the ratio or proportion of length and
+breadtth of all the sheets (A0, A1, A2, A3, A4,...) is exactly the same.
+
+2
+
+This same ratio implies that the photo or the text to be printed on the paper
+doesn’t get stretched or squeezed, no matter the paper we choose for printing
+(A3, A4, A5,....). So if we want to change the type of paper, we don’t have to
+adjust the aspect ratio. It is as if the same sheet has been zoomed!
+Using this information, let’s find this ratio.
+Let’s assume that the initial ratio of length
+to breadth is r:1. When the length is halved
+by folding the length, the longer side
+becomes 1 and the smaller side is r/2.
+So the ratio is 1
+So r = 1
+(r/2).
+1 (r/2)
+And we are saying that these two ratios are equal.
+Solving it gives, r= √2
+We can also find the ratio without using the
+equations.
+Area of a rectangular sheet = length x breadth
+If we double it’s dimensions the area becomes 4 times.
+When we join two A5 sheets we get an A4 sheet. And the area becomes double
+in the process. And to increase the area by 2 times, we have to increase the
+length and breadth by √2 or 1.414 times (1.414x1.414 =2). Actually this is the
+definition of √2, the number which multiplied by itself gives the number 2.
+For example, the area of A4 sheet is double that
+of A5. Therefore, the length and breadth of an
+A4 sheet is √2 times the length and breadth of
+an A5 sheet respectively. And if we look closely,
+the breadth of the A4 sheet is the length of the
+A5 sheet. So when we say that the ratio of length
+of A4 to length of A5 is √2, it also means that the
+ratio of length and breadth of A4 sheet is also √2.
+
+2
+
+who needs
+more woolens?
+
+3
+
+Who Feels Colder,
+Baby or Adult?
+
+If we have two identical persons, one the size of
+a baby and the other one the size of an adult,
+which one would feel more cold- the baby or the adult?
+Let’s find out. We feel cold when the skin is warmer than the
+surroundings. And the more skin we have in contact with the
+surroundings, the colder we feel. So it seems that the baby
+will feel less cold because the area of his skin is lesser than the
+adult. Right? Not quite.
+D0 you Know??? The size of cells of an adult and a child is same!
+So when we grow up, the number of cells in our body increases but the size
+of individual cells remains same.
+We have to take into account one more process- the production
+of heat. A biger body is made up of more cells,/and these cells
+will generate more heat. As the cell are present in our whole
+body and not just in the skin(or the surface), the amount of cells
+is proportional to the volume of the body, not the surface area.
+When all the sides of an object are doubled, the area becomes
+4 times. And this is true for any shape, not just the square or
+the rectangle. This means that the skin through which heat
+loss takes place becomes 4 times.
+Let’s asuume that all the dimensions of the adult are twice
+of the baby. The length, breadth and height all are double.
+Now let’s see what happens to the volume when the
+dimensions are doubled. The volume becomes 8 times
+in this process, and with that, the ability to generate
+heat also becomes 8 times.
+So although an adult loses more heat to the surrounding, his heat-generation
+capacity has also increased. The increase in heat production is more than the
+increase in heat-loss. That’s why a child is dressed more heavily.
+
+4
+
+3
+
+5
+
+Square Roots
+in A4
+
+A4 sheets are extremely special. Or for that matter any series of A paper
+or B paper or C paper. As we saw earlier that the sides are in ratio of √2.
+What this means is that we can see three basic square roots in any sheet.
+For instance, an A4 sheet has the dimensions 297x 210 mm.
+
+The ratio of the sides: 297/210 = √2
+
+If we assume the width of A4 sheet to be 1 unit, the length is √2 which
+we have just shown. Now if we fold the paper along the diagonal,
+and find the length of this diagonal using pythagoras rule, it would be
+√(12 + (√2)2)
+which comes out to be √3.
+
+So the first three square roots are there in the most-used sheet of paper.
+How interesting!
+
+4
+
+6
+
+Root Spiral
+√1, √2, √3,..
+
+We can construct a spiral of square roots, starting with an
+isosceles right triangle of unit length. If the perpendicular
+and base are of unit length, the length of hypotenuse comes
+out to be √(12+ 12) = √2. (by pythagoras theorem)
+Now if we draw another line of unit length perpendicular
+to this hypotenuse, length of the new hypotenuse
+obtained is √(12 + (√2)2).
+We can continue like this and
+get sides of length equal to the
+square roots of subsequent numbers.
+
+5
+
+7
+
+Isosceles Triangle
+from a Newspaper
+
+Take a newspaper and
+fold it into half along the length.
+Cut a piece of paper from
+the folded side at any angle,
+but in a straight line.
+Unfold this piece...you get an isosceles triangle.
+
+Why did you get so? Because when we folded the paper it gave us the
+perpendicular bisector for the triangle. As we had cut the two sides
+of the triangle by the same cut we get the sides equal.
+
+Now, what will happen if we fold it along the width and also not even
+from the middle? The result will be same, because we had folded paper
+perpendicularly only.
+
+8
+
+What will happen if we fold
+the paper obliquely?
+
+We can still get an isosceles triangle, but
+we will have to make one more fold,
+folding the folded edge exactly upon itself.
+
+Cut the paper on this fold.
+
+We get an
+isosceles triangle.
+
+Now cut a piece of paper
+from the folded side by
+making an oblique cut.
+
+6
+
+Equilateral Triangle
+from A4 Sheet
+
+wow!
+equilateral
+triangle!!
+
+An equilateral triangle is a triangle in which all three
+sides are equal. We will try to make an equilateral triangle by folding an
+A4 sheet and that too without using a scale or compass. Before going any
+further, try it yourself and fold an A4 sheet to make a triangle.
+How can we ensure that the triangle we get
+after folding the sheet is an equilateral triangle?
+Just put one side on top of another
+to check whether they are equal.
+One of the ways is to use the fact that all angles of an
+equilateral triangle are 600. We can fold angles of 600 by
+dividing the angle of 900 in 3 equal parts and then
+taking two of those parts.
+But how do we divide an angle in three equal parts?
+Just fold the angle such that the remaining part of the angle
+completely covers the initial fold. Doing this for two
+corners of A4 sheet gives us the equilateral triangle.
+But this method of trisecting the
+angle is approximate because we
+can’t exactly divide an angle in
+three equal parts the process of
+trisecting an angle always involve
+some trial and error.
+One more way is to first fold the width of
+the paper in half. The crease that we get
+would divide it in two equal parts.
+Now lift the width of the paper and put
+one of its corners on the crease as shown
+in the image. This is the third vertex of the
+triangle and the triangle we’ve got is
+surely an equilateral triangle.
+Can you prove why?
+
+9
+
+10
+
+Let’s see. We will use an interesting property of perpendicular
+bisector that all the points on it are equidistant from
+the corners. And the first crease we got by folding the width
+in half was indeed the perpendicular bisector of the width.
+All the triangles we get with these 3 points- 2 corners of the sheet and
+1 point on the perpendicular bisector are at least isosceles.
+Now all we have to do is find a point on the perpendicular
+bisector line so that theI two lines drawn from it are equal to
+the base. Isosceles triangle would then become equilateral.
+To do this, we lift the width of the paper and put it
+on the perpendicular bisector such that the fold line
+passes through the other corner. This ensures that the
+two lines we draw from vertex on the perpendicular
+bisector are equal to the base. Now we have made
+sure that all the sides are equal in length. Hence,
+our triangle is an equilateral triangle.
+
+7
+
+Largest Equilateral
+Triangle from A4 Sheet
+
+To fold the largest triangle, fold the
+perpendicular bisector of the width.
+Then lift the width of the paper and
+put it on the perpendicular bisector,
+such that the fold line passes through
+the other corner.
+We have followed the steps of the
+previous activity till now.
+
+Now fold the remaining paper as shown below.
+
+and we will get the largest equilateral triangle
+possible in an A4 sheet.
+
+11
+
+12
+
+8
+
+Largest Equilateral
+Triangle from a Square
+
+Making an equilateral triangle from a square is simpler because we
+already have 4 equal sides. The triangle formed by taking any three
+sides of the square will surely be equilateral.
+
+To do this, first fold
+the square from the
+middle such that we
+get the perpendicular
+bisector of the side.
+
+Now put the two adjacent
+vertices of the square on the
+perpendicular bisector such that
+the fold lines pass through the
+other two vertices of the square.
+Now the triangle at the center is an
+equilateral triangle because it is formed
+by taking 3 sides of the square which
+are equal.
+One more way is to proceed exactly like
+we did for an A4 sheet.
+For making largest
+equilateral triangle
+from a square, fold
+the sides of square
+in half which would
+divide the square in four equal parts.
+Then lift the side
+of square and put
+the corner on the
+crease as shown.
+
+Now take another side perpendicular to the side taken in the previous
+step and put this on the second crease as shown.
+Fold the remaining paper and the triangle obtained
+like this is the largest equilateral triangle in a square
+and has sides bigger than the square and has sides
+bigger than the square.
+If we start with a unit square, sides of this largest triangle are 1.03527 units.
+
+13
+
+9
+
+CHANDRAYAAN
+
+Going to
+the moon
+
+How many times can we fold a sheet of paper onto itself?
+Take an A4 sheet and try for yourself. You would probably be able to fold
+it six or seven times. But what if we take a really huge paper and keep
+folding it. Can we reach the moon by folding this paper onto itself?
+
+We don’t even know the thickness of a single sheet of
+paper so let’s find out that first. Well, it’s difficult to
+guess but we have seen a ream of 500 sheets which is
+around 5 cm thick. So the thickness of a single sheet is
+around 5/500 = 0.01 cm.
+Now the distance of the moon from the earth
+is 3,84,400 km or
+(3,84,400 km/0.01 cm)= 3,844,000,000,000 pages.
+So it seems that we would need a lot of folds to go
+to the moon.
+Let’s find out.
+
+Now if we fold this sheet once, it becomes 2-pages
+thick- 0.02 cm. Now, when we fold this sheet, the
+thickness becomes 0.04 cm. 3rd time, 0.08 cm. 4th time,
+0.16 cm…10th time, 10.2 cm. Before going further, pick a number which
+you think is the closest to the number of folds required to go to the moon.
+A. 40 B) 400 C) 4,000
+D) 40,000
+For every fold, the thickness is doubling. The increase in thickness is
+exponential and not linear. So rate of increase of thickness also picks up
+pace after some time. We can also write a formula for the thickness after
+n
+n folds: 0.01 x 2
+In 27 folds, the stack
+becomes 13.4 km
+high, higher than the
+Mt. Everest.
+
+14
+In 41 folds,
+we would be halfway to the moon.
+And all the way to
+the moon in
+42 folds!
+
+Of course there would
+be some logistical issues.
+As the area of the sheet
+is also decreasing exponentially,
+getting halved in every fold, you'd probably need to start
+with a sheet roughly the size of the milky way.
+And at that point, the paper would most likely have
+more mass than the Earth, which means it
+would be compressing the Earth,
+not the other way around.
+And good luck folding the
+paper more than 8-10 times
+in reality.
+
+MythBusters,
+a TV program
+wanted to fold
+the paper
+maximum
+number
+of times.
+
+They started
+with a sheet
+the size of a
+football field
+and they
+were able
+to fold it
+12 times and
+used a
+BULLDOZER
+to assist them
+in folding!
+
+10
+
+15
+
+Convert A4 Sheet to
+Square Using All the Paper
+Method A
+
+As we saw earlier,the width of an A4 sheet is
+210mm and the length is 297mm.
+Therefore, area = 210 x 297 = 62,370mm2.
+
+Now, we have to convert the sheet into
+a square using all the paper. It means
+that the area of that square would
+also be 62,370mm2
+Side of the square = 62,370 = 249.74mm
+
+First mark this length from point A to the
+opposite edge so that the length of line AB
+is 25 cm. Cut the paper along the line AB.
+
+Shift this piece across to the other side.
+
+Now mark another line from point D such
+that the length of DE is also 25cm.
+You would see that this line is
+automatically perpendicular to line AB.
+Shift this part also
+to the other side
+across the paper.
+
+Now all the sides
+are 25cm and
+we would get a square.
+
+16
+
+Method B
+We know that the area of A4 sheet is 210 x 210√2
+S0 the side of the square with same area will be
+√(210 x 210√2) or 210√(√2) or approx 250mm
+So make an
+oblique cut
+as shown.
+
+Cut the extra triangle of
+lower part protruding
+above the upper part
+and place it in the
+space above base.
+The shape now obtained
+is a square of side 25cm.
+
+Slide the upper cut portion
+on the oblique line till the
+base of the lower cut portion.
+
+11
+
+17
+
+A4 Sheet to Rectangle
+of Given Size
+
+In the previous activity, we made a square from A4 sheet.
+This time we will convert the sheet into a rectangle of given dimensions.
+Let’s make a rectangle of length 23cm.
+First mark a point on edge opposite point A
+so that the length of line AB is 23 cm.
+Cut the paper along the line AB.
+
+Shift this piece across to the other side.
+
+Now mark another line from point D such that it is
+perpendicular to line AB and cut the paper along
+that line.
+
+Shift this
+part also
+to the other
+side across
+the paper.
+
+We get a rectangle with
+one side 23cm or 230mm.
+We can also predict the
+other side as we know its
+area from the previous
+activity(62,370mm2.)
+
+When we make an oblique cut, as we did earlier, we will always get side
+greater than the width of the paper(21cm). So we can make a rectangle
+of side 15cm using this method directly because 15 cm is less than 23cm.
+For this we need to cut the paper in half so that its side becomes less than
+15cm. We can cut along the width as shown below.
+
+18
+
+This rectangle would have one side equal to 15cm.
+Can you find out the other side without measuring it?
+
+12
+
+19
+
+Beautiful Paper Folding
+Knot Technique
+
+Take a paper strip and make a knot as shown.
+
+Pull the two ends neatly
+to make a pentagon.
+
+To make a 7-sided polygon,
+make a knot of pentagon
+but do not tighten it.
+
+Bring the
+top end A
+down from
+front.
+
+You get four loops.
+Insert the end A
+through these loops
+with 2 on each side.
+
+Pull ends
+A and B to
+make a knot.
+
+To make a nonagon take the knot of heptagon without tightening it.
+Bring the top end A down from front. You get 6 loops.
+Insert the end A through these loops with 3 on each side.
+
+To make 11-sided polygon take the knot of nonagon without tightening it.
+Bring the top end A down from front. You get 8 loops.
+Insert the end A through these loops with 4 on each side.
+
+20
+
+13
+
+21
+
+Fold A4 Sheet Once
+to Get Shapes
+
+22
+
+14
+
+23
+
+Triangle to Square
+of Same Area
+
+same
+area??
+
+We will convert a triangle into a square of same area.
+And that too, with just paper folding and without any measurements.
+Draw a triangle
+in the left hand
+bottom corner
+of the paper.
+Now enclose
+this triangle in
+a rectangle.
+Area of triangle = ½ base x height
+= ab
+Area of rectangle = base x height
+= 2ab
+Now if we fold the rectangle into
+half, we get a rectangle having
+same area as the triangle.
+i,e; a x b
+Mark the height
+of rectangle on
+both sides of
+point P (R & S).
+Draw vertical
+lines at R & S
+
+Fold the length TS on
+vertical line at point R.
+Mark that point as X.
+Now in triangle TXU,
+using pythagoras theorem
+(a+b)2-(a-b)2 = 4ab
+or TU = 4ab
+The square formed using TU
+as a side will have area 4ab
+
+Now make the square.
+
+Divide this square in 4 parts
+
+24
+
+15
+
+25
+
+Circle to
+Cone
+
+I scream...!!
+
+Take a hard paper and
+cut a circle out of it.
+
+Now cut a sector
+from this circle.
+
+Join the edges AB and BC
+with a tape.
+
+Your cone is ready.
+What will happen if you cut a bigger sector?
+
+Will the height increase or decrease?
+Will the radius of cone increase or decrease?
+Cut different size of sectors and observe.
+
+26
+
+16
+
+27
+
+Largest Cone
+from Same Circle
+
+I scream...!!
+
+Take hard paper and
+cut a circle out of it.
+
+Now make cones by cutting out sectors of differnt angles, as made earlier.
+
+28
+
+We can observe as we move from cone 1 to 11, the area of the base decreases
+gradually and the height increases. So which cone has the maximum volume?
+In other words, which cone would hold the maximum sand?
+Take sand in a mug and fill cones one by one. Find out which cone holds the
+maximum sand.
+
+17
+
+29
+
+Regular Polygons
+Using a Cone
+
+Take a hard paper and
+cut a circle out of it(circle A).
+In the same manner
+cut a circle of same size
+with a simple paper(circle B).
+
+Fold the circle B thrice.
+Open the paper, you
+will see that it is divided
+in 8 equal parts.
+
+Place the circle B on A
+and mark 8 points on the
+circumference of circle A.
+
+Join the edges PQ and QR with a tape.
+
+Now Place this cone on a paper
+and mark all 7 points.
+
+Now cut
+sector PQR
+from this
+circle.
+
+Your cone is ready.
+It has 7 markings.
+
+Join the 7 points to make a
+heptagon (7 sided polygon)
+
+30
+
+Using the same method, We can make any polygon
+we want. For example, for making a hexagon, we
+have to cut two parts from the circle and then make
+a cone.
+For making polygons with more number of sides, we have to divide
+the circle in more number of parts. This can be easily done by folding
+the circle further.
+
+18
+
+31
+
+Geometric Series
+
+Make a square
+from an A4 paper
+
+Divide it into 4 parts.
+
+Again divide 1 out of
+these 4 into 4 parts.
+Divide the white square
+into 4 parts. It means we
+have divided 1/4 into
+4 equal parts again so
+one part equals 1/4 x 1/4.
+
+Again divide the white
+square into 4 parts
+
+Keep dividing the
+white square into
+4 parts till infinity giving a Geometric Series.
+
+32
+
+We can now see that the big square
+is divided into 3 equal parts denoted
+by black, checkered and lined parts.
+Therefore, if we consider the whole
+square to be 1, one part becomes 1/3.
+
+Carbon dating used by archeologist and
+paleontologists is a geometrical series!!
+
+19
+
+33
+
+knot Magic
+
+Take an A4 sheet
+and cut along the
+dotted line.
+
+Ask your friend to hold the paper as shown.
+The trick is to bring the paper resting on
+top of his hand to the bottom without
+taking the paper out of his hand.
+
+Ask your friend to
+close eyes.
+Now you fold
+the paper
+as shown.
+
+Now twist the two hand cuff style rings
+inside out. Left one anti clockwise and
+right one clockwise.
+
+Wow! paper handcuffs
+have gone down!
+
+34
+
+Twisting of loops inside out
+
+Paper handcuffs unfurls.
+
+Paper strip is
+dangling downwards.
+
+20
+
+35
+
+Regular Pentagon
+from Paper Folding
+
+Take a square paper.
+Fold
+the
+square
+paper
+at the
+center
+
+Mark the half side of
+the square(O) on this
+diagonal by placing
+the side of square on it.
+Mark this point as A.
+
+Fold along the
+diagonal of
+the rectangle
+
+Fold at B
+such that A
+lies on the edge
+of the square
+
+Trace line AB
+
+Fold along mid line
+Fold along
+line AB
+
+Fold the other side
+also along AB
+
+36
+
+Bring B to A
+
+cut along
+this line
+Fold like a ribbon.
+
+Unfold to get
+a pentagon
+
+21
+
+37
+
+Hexagon From
+Paper folding
+
+Take a square paper and fold it into
+half and make a line AD on the fold.
+
+Fold it on the other side to mark
+the midpoint O of the line.
+
+Fold the
+paper on
+point B,
+parallel
+to the
+line AD.
+
+Also mark the
+quarter line .
+
+Divide OD in half
+to get the other
+quarter line.
+
+Place point A on
+the quarter line and
+mark the point B.
+
+Mark the intersection
+of quarter line and
+fold line passing
+through B as C.
+Join BC. This is the
+1st side of hexagon
+
+Join A and B, second side
+join C and D , 3rd side of
+hexagon.
+
+38
+
+fold paper on lines
+AB, BC and CD.
+
+fold along the
+line AD and
+superimpose
+the lines from the
+folded portion
+to get the
+remaining 3 sides.
+
+22
+
+39
+
+Dividing a Line in
+Equal Number of Parts
+
+Take a square paper and
+fold it into half. mark the
+point as 1/2.
+
+Now bring left
+corner of the
+paper on this
+1/2 point and
+fold the paper.
+The edge cuts
+the right side of
+paper at a point.
+Mark this point as 2/3.
+
+In the same manner
+bring left corner of
+the paper on this
+1/3 point and fold the
+paper. The edge cuts
+the right side of paper
+at the bottom side.
+Mark the point as 2/4.
+
+Divide the 2/3 part
+in half to get 1/3.
+
+Divide it into half
+to get 1/4 and 3/4
+on opposite sides.
+
+40
+
+And this way we can go on and on and
+divide a line in any number of parts.
+
+23
+
+41
+
+Get Hexagon, Triangle,
+Pentagon from Single Cuts
+
+Fold the paper
+in half. Get the
+mid point by folding
+in other direction.
+
+Now fold the paper
+so as to divide it in
+3 equal parts.
+We get a triangle.
+
+Cut along the line
+as shown.
+Unfold it to get
+a hexagon.
+
+How can we get
+a pentagon
+using this method?
+
+42
+
+Cut along the fold line
+Fold the hexagon back
+into triangle. Fold it into
+half as shown.
+Unfold to get an equilateral triangle.
+
+Fold the triangle
+back. Fold it into
+half as shown.
+
+Cut it at the fold
+line so obtained.
+
+Unfold it
+to get a 3
+pointed star.
+If you lok closely,
+it is also a hexagon.
+
+We are geting a triangle if we cut perpendicular to the edge.
+For all other cases we get a hexagon.
+
+24
+
+43
+but triangle
+has 3 sides???
+
+Triangle With a
+Single Cut
+
+We will draw a triangle on an A4 sheet and then cut it out with a single cut.
+Draw a scalene triangle
+(all 3 sides unequal)
+on a paper.
+step 1
+
+step 2
+
+Place one side
+of triangle on
+the other
+(AB on BC)
+to get an
+angle bisector.
+
+Now put BC on
+AC and get 2nd
+angle bisector.
+
+Next put AB on
+AC to get 3rd
+angle bisector.
+
+44
+
+Fold along the
+angle bisectors
+
+Fold in such a manner that
+the bases meet.
+Cut along the base to cut the
+whole triangle in one cut.
+
+Unfold to get the
+drawn triangle
+
+25
+
+medal ribbon
+a mobius band
+wow!
+
+Möbius Strip
+
+Let’s suppose we have an ordinary band of paper.
+What would happen if we cut it in half?
+Sure enough, the two parts would fall apart.
+
+Now, let’s make a Möbius strip. We can make a Möbius strip by taking a
+strip of paper and giving it one turn before joining the two ends.
+
+The special thing about this strip is that it has
+only one boundary, i.e. if we trace the edge of
+the strip, we would cover the entire boundary.
+This is unlike the normal strip where we have
+two separate disjoint edges.
+
+What would happen if we cut this strip in half? Would we get two parts
+that would fall apart? Or would we get two entangled pieces?
+Let’s try.
+
+45
+
+46
+
+If we cut the Möbius strip with a single twist in half, we get a single
+Möbius strip with double length. Now count the number of twists this
+strip has.
+To do this accurately, you can hold the strip in such a way that the all
+the twists are in the upper half and the lower half has no twists. Now cut
+the lower half and slowly untwist the upper half.
+
+You would find out that the strip has 4 twists.
+
+Neck ribbon configured
+as Möbius strip allows it
+to fit comfortably around
+the neck while the medal
+lies flat on the chest.
+
+26
+
+47
+
+Single Möbius Strip
+(Half Twist) Cut in 1/3
+
+yummy!!
+potato twister
+
+In the last activity, we had cut the Möbius strip in half.
+What happens when we cut the strip in 1/3rd. Let’s try.
+
+When we cut the strip in half, we end up at
+the same point when we complete one turn.
+
+But when the cut is 1/3rd (or any other value
+than half), we end up on the different side
+after a complete trip of the strip. And in order
+to separate the part we are cutting from the
+original strip, we have to take one more trip.
+
+When we complete these two trips,
+we get two strips which are entangled.
+One is our original strip with a single twist.
+The other one is twice in length because we went
+around twice while cutting it and with 4 twists, just like
+when we had cut it in half!!
+
+Let’s say that the distance of the cut is d from both sides.
+The value of d can vary from 0 to ½.
+When d is zero, we would just brush past the paper
+without cutting anything, and obviously, we would
+have the original strip in the end.
+
+When d is ½ (which we had seen in the last activity), the
+middle part becomes zero and we get a single strip twice
+the length of the original strip.
+
+48
+
+You can try with a value of d closer to zero and one
+closer to ½ to see the effect on the resulting strips.
+When d is close to 0, the strip having 4 turns is narrow
+and the strip with 1 twist is wide. And when d is closer to ½,
+the strip having 1 turn is narrow and the strip with 4 turns is wide.
+
+Now, why are they entangled?
+
+Let’s trace the side part and see where it is in relation to the middle part.
+If initially it runs left of the
+middle part, after one round
+it comes to the right side of
+the middle strip.
+So we can say that it has
+crossed once over the strip.
+Now again, by the time
+we cover our second trip,
+it comes back to the left
+side of the middle strip.
+Thus the narrower strip has crossed the middle strip twice and entangled
+itself around the middle one.
+
+27
+
+I have
+twisted legs
+
+Double Möbius with
+Axis Perpendicular
+
+We have learned to make Möbius bands in the previous activity.
+Now we will join two bands together and then see what happens
+when we cut them.
+Join two bands with no twist to each other
+such that their axes are perpendicular.
+
+Mark the half cut line
+on both the bands.
+
+After second cut,
+the strips make a
+square shape with
+all sides having
+same width.
+
+First cut one band.
+The band will split
+into 2, each having
+width half the previous.
+They will be joined with
+a strip(cut 2nd band)
+
+Now join a normal band (no twists) and
+a Möbius strip with their axes perpendicular.
+Mark the half cut line on both the bands
+
+First cut the
+normal
+band.
+The band
+will split again into two, but
+one ring will be above the strip
+and the other one below.
+
+After second cut,
+the strips make a
+square shape with
+all sides having
+same width.
+
+49
+
+50
+
+Now join two Möbius bands with no twist to each
+other such that their axes are perpendicular.
+
+Mark the half cut
+line on both the bands.
+
+The bands will split into two parts,
+each having width half the previous.
+Both are identical hearts.
+
+In this case, what direction did you twist the strips? If we twist both the
+Mobius strips in opposite direction, we get two separate hearts. But if
+they are twisted in the same direction, we get two entangled hearts!
+
+28
+
+Double Möbius
+with Parallel Axis
+
+abra ka
+dabra... gili gili
+chhuuu!
+
+First join two bands with no twist to each
+other such that their axes are parallel.
+
+Mark the half cut line on both the bands
+and cut them along the line.
+The bands will split into two, each
+having width half the previous.
+What will happen if we cut the bands at 1/3rd width?
+In this case, nothing intersting happened. Let’s try other combinations.
+Now join a normal band (no twists) and a Möbius band, such that their
+axes are parallel. Mark the half cut line on both the bands and cut them
+along the line.
+The bands will split into three parts, each
+having width half of the original bands.
+The smaller ones will be without twist and the
+larger one is just like a single mobius split into half.
+
+Try cutting the the bands
+at 1/3rd width?
+
+51
+
+52
+
+Let’s join now two Möbius bands, again keeping
+their axes parallel. Mark the half cut line on both
+the bands and cut them along the line.
+
+The bands will split into two parts, each
+having width half the original bands.
+Both are identical and placed one
+above the other. They are just like a single mobius split into half.
+
+Try cutting the the bands at 1/3rd width?
+They will be just like two single mobius cut
+at 1/3rd but sticked to each othjer.
+
+29
+
+53
+
+Area of a Triangle
+
+The different triangles having same base and height will have same area.
+
+Triangle 1 and 2 have same area although they look so different.
+
+Take a few pencils and cut them
+in various sizes.
+Align them in a triangular manner
+on a wooden scale.
+with a small scale push all these
+pencils to one side but keeping the
+scale fixed at the lower part.
+
+With the same pencils and its stubs
+you can get these triangles.
+
+54
+
+Do you think a rectangle and a parallelogram with same base and
+height will have same areas? Find out in the same manner.
+
+30
+
+55
+
+Largest Box
+from A4
+
+Fold a sheet of A4 paper
+twice to get 1/4th its size.
+
+Cut a small square from this folded sheet such that squares are
+cut from all the four corners.
+Can you cut all
+the four squares
+with a single cut?
+
+Fold it to make a box
+
+In the same manner make
+other boxes, increasing the
+size of square successively.
+Stick the sides with the tape.
+
+We would see that gradually the
+area of the base decreases and
+the height of the box increases as
+we increase of the cut square.
+Which of these boxes has the maximum volume?
+
+56
+
+Fill the boxes with sand and find out which box can take maximum amount
+of sand. And we can say that this box has the maximum volume.
+The size of such box comes out to be maximum when a square of
+approximately 4 cm length is cut in case of an A4 sheet.
+
+31
+
+57
+
+Cylinder and Sphere
+Have Same Areas
+Take a paper and and make a
+cylinder around a ball. The height of
+cylinder must be equal to the height
+of ball and cylinder should touch
+sphere at its equator.
+
+Remove the cylinder
+from the ball and cut
+it longitudinally.
+We get a rectangular shape of paper.
+Now cut this paper in very thin strips
+whose width must be along the height
+of cylinder.
+
+Stick all these strips on ball without overlaping. you will see that the strips
+cover the sphere completely. This shows that the curved surface of cylinder
+is equal to the surface area of sphere.
+
+58
+
+There will be some surface of sphere which wont be covered.
+This happens because the paper gets crumpled when we stick
+it on sphere which gets wasted otherwise it could have been
+used for the left out space. The problem can be solved if we
+cut the strips of width nearing to zero.
+
+32
+
+59
+
+Cut Isosceles Triangle
+Get 2 Isosceles Triangles
+
+Can we cut an Isosceles triangle in 2 parts and get
+2 isosceles triangles? Well we can do this in
+some special cases. Lets find them.
+In the triangle ABC, let’s assume angle B
+and angle BAD as Ɂ. So the exterior
+angle ADC of triangle ABD becomes 2Ɂ
+Triangle ABD is isosceles.
+
+To make triangles ABC and
+ACD isosceles we need to make
+either angle C as Ɂ or 2Ɂ
+
+60
+
+To make triangles ABC and ACD isosceles
+we need to make either angle C as Ɂ or 3Ɂ
+
+33
+
+61
+
+Golden Ratio
+in Rectangle
+
+Two quantities are said to be in golden ratio in their ratio is the same as
+ratio of their sum to the larger of the two quantities.
+
+So if a and b are in golden ratio
+(and a is the larger of the two quantities),
+it means that a/b = (a+b)/a
+Let’s try and solve this. If we denote replace a/b by r,
+the above equation becomes:
+
+r=1 + 1/r or
+
+r2 = r+1
+
+Solving this, we get r= (1+√5) = 1.618
+2
+This ratio is denoted by the the greek alphabet ɍ.
+As we had seen in the first activity, the ratio of sides of an A4 sheet is √2
+which is equal to 1.414. If we want to convert it into a golden rectangle,
+the ratio of its sides should be 1.618. If we keep the length unchanged at
+297 mm, we have to reduce the breadth to increase the ratio of sides from
+√2 (1.414) to ɍ (1.618). The new breadth should be 297/1.618 = 183.56
+
+Lets make a golden rectangle.
+
+Fold the
+A4 paper
+into half.
+
+Mark a square
+by folding paper
+diagonally.
+
+Mark the
+midpoint
+on the line
+of square.
+
+62
+
+Taking the distance from one side of the square to an opposite
+corner as radius, draw an arc.
+
+This gives the length of
+the golden rectangle.
+
+A whole book has been written
+on this number by Mario Livio
+(The Golden Ratio:
+The Story of Phi, the World's
+Most Astonishing Number)
+“The fascination with the
+Golden Ratio is not confined
+just to mathematicians.
+Biologists, artists, musicians,
+historians, architects,
+psychologists, and even mystics
+have pondered and debated
+the basis of its ubiquity
+and appeal.”
+
+34
+
+63
+
+Delhi
+Agra
+
+Golden Ratio in
+Triangle & Pentagon
+
+Jaipur
+
+The triangle of a pentagram is a golden triangle.
+
+bisect one
+bigger
+angle
+
+Make a regular pentagon
+using the method discussed
+in the earlier activity. If we
+join the diagonals of the
+pentagon, we get a star
+shaped structure inside
+which is called a pentagram.
+
+Subsequent bisection of the angle
+made by bisector will keep
+giving golden triangles.
+Subsequent bisection of the angle other
+than the one made by bisector will also
+keep giving golden triangles,
+but the smaller side of triangle
+gives a spiral shape.
+
+In the pentagon ABCDE,
+all the diagonals are in
+golden ratio with the
+sides of the pentagon.
+
+AB and AD are in golden ratio In the same manner, AB and BE are
+also in golden ratio. Can you identify other sides in golden ratios?
+
+64
+
+In a golden pentagon the
+golden ratio is in triangles
+formed inside pentagon.
+
+3 shaded triangles
+are golden triangles
+
+a/b or diagonal/ side is in golden ratio.
+So a pentagon with diagonal as
+previous pentagon’s side will
+next pentagon.
+
+35
+
+65
+
+Polygons from Cube
+
+Take a potato and cut it in the
+form of a cube.
+
+A number of
+such cubes will be required.
+Let us cut a simple
+vertical section
+
+We get a
+square section.
+What will happen if we incline
+the diagonal plane somewhat
+outward so that bottom part of
+section cuts the two front faces
+in middle?
+
+Cut a diagonal
+section now.
+
+We get a
+rectangular section.
+
+Now incline the diagonal plane
+such that the diagonally opposite
+vertices of the plane lie midway
+on the edge.
+
+We get a
+trapezoidal section!
+We get a
+rhombus section.
+
+66
+
+What will happen if the diagonally opposite
+vertices of the plane does not lie midway but
+say at 1/3rd of edge? (parallelogram)
+
+Cut diagonally such that the
+sectional plane touches 3
+vertices only.
+
+What will we get if the sectional plane
+touches the 6 edges at midpoint?
+
+We get a
+hexagon.
+
+We get a
+triangle.
+How can we get
+a pentagon?
+
+67
+
+36
+
+Volume of Pyramid
+is 1/3 of Prism
+
+We will make a square prism(a cuboid) and a square pyramid
+and then compare the volume of the two.
+
+pyramid
+
+cutting line
+fold line
+Fill the
+pyramid
+with sand.
+
+Repeat the filling
+and emptying.
+
+Empty the
+pyramid
+in the box.
+
+prism
+
+Box will not
+fill completely.
+
+Again fill the pyramid
+and empty it in the box.
+It is completely filled the
+third time.
+
+So volume of prism = 3 times volume of pyramid
+or volume of pyramid = 1/3 volume of prism
+
+68
+
+cutting line
+fold line
+
+37
+
+69
+
+Volume of a Cube =
+3 Equal Square Pyramid
+
+Make three identical pyramids with the help of blue print given here.
+
+Fold along
+the dotted lines
+and stick the
+grey part on
+the faces.
+
+Join the 3 pyramids
+to get a cube
+
+You get 3 equal
+pyramids
+
+70
+
+cutting line
+fold line
+
+38
+
+71
+
+Volume of a Cube =
+6 Half Square Pyramid
+
+Make six identical pyramids with the help of blue print given.
+Fold along the dotted lines
+and stick the grey part on
+the faces
+
+You get 6 equal
+pyramids
+
+Join the 6 pyramids
+to get a cube
+
+72
+
+cutting line
+fold line
+
+39
+
+73
+
+Volume of a Cube =
+6 Triangular Pyramid
+
+again??
+
+Make six identical pyramids with the help of blue print given.
+Fold along the dotted lines
+and stick the grey part on
+the faces
+You get
+6 equal
+triangular
+pyramids
+
+Join the 6 pyramids
+to get a cube
+
+74
+
+cutting line
+fold line
+
+75
+
+40
+
+Buffon’s Needle
+
+Make parallel lines on a sheet of paper.
+The spacing(x) of lines must be less than
+the length of the matchstick(L).
+
+Place the paper on a level
+ground. Drop a matchstick
+from an approximate height
+of 5cm on the paper.
+Observe the position of sticks. It will either touch a line or fall in between
+two lines without touching any line. Discard the ones which drop out of
+paper. Drop 20 such sticks.
+Make a table
+Stick
+position
+
+Tally
+
+total
+
+propor
+-tion
+
+on
+line
+
+How many sticks fell on line?
+Calculate the proportion(p)
+
+between
+lines
+
+Now calculate the value of pi
+from the formula
+Total
+
+76
+
+Experiment with different number of sticks, or different spacing or
+different length of sticks. Make sure that the length of stick is always
+less than the spacing of lines. Observe.
+
+CENTER FOR CREATIVE LEARNING
+IIT GANDHINAGAR

@@ -1,0 +1,64 @@
+Title: IIT Gandhinagar | Sharmila Mande
+Source: https://iitgn.ac.in/faculty/guestprof/sharmila
+
+# Sharmila Mande
+
+-  Guest Professors
+Sharmila Mande
+
+## Sharmila Mande
+
+Guest Professor, Biological Engineering
+
+- PhD: IISc, Bangalore, India, 1991
+
+Office:  302
+
+Host-microbiome interactions: Gut-Liver axis and its connection with other organs (2022)
+ Swadha Anand and Sharmila S. Mande*
+NPJ Biofilms Microbiomes 8(1):89, (2022)
+https://doi.org/10.1038/s41522-022-00352-6
+https://www.nature.com/articles/s41522-022-00352-6
+
+Can machines learn the mutation signatures of SARS-CoV-2 and enable viral-genotype guided predictive prognosis? (2022)
+ Sunil Nagpal, Nishal Kumar Pinna, Namrata Pant, Rohan Singh, Divyanshu Srivastava and Sharmila S. Mande*
+J Mol Biol. 434(15):167684, (2022)
+https://doi.org/10.1016/j.jmb.2022.167684
+https://www.sciencedirect.com/science/article/pii/S0022283622002765
+
+A compendium of predicted growths and derived symbiotic relationships between 803 gut microbes in 13 different diets (2022)
+ Rohan Singh, Anirban Dutta, Tungadri Bose and Sharmila S. Mande*
+Current Research in Microbial Science 3:100127, 2022
+https://doi.org/10.1016/j.crmicr.2022.100127
+https://www.sciencedirect.com/science/article/pii/S2666517422000244
+
+Trans-ethnic gut microbial signatures of prediabetic subjects from India and Denmark (2021)
+ Nishal Kumar Pinna, Ranjit Mohan Anjana, Shruti Saxena, Anirban Dutta, Visvanathan Gnanaprakash, Gnanavadivel Rameshkumar, Sukumaran Aswath, Srividhya Raghavan, Coimbatore Subramanian Shanthi Rani, Venkatesan Radha, Muthuswamy Balasubramanyam, Archana Pant, Trine Nielsen, Torben Jørgensen, Kristine Færch, Alireza Kashani, Maria Camila Alvarez Silva, Henrik Vestergaard, Tue Haldor Hansen, Torben Hansen, Manimozhiyan Arumugam, Gopinath Balakrish Nair, Bhabatosh Das, Oluf Pedersen, Viswanathan Mohan and Sharmila S. Mande*
+Genome Med  13, 36 (2021)
+https://doi.org/10.1186/s13073-021-00851-9
+https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00851-9
+
+MetagenoNets: Comprehensive inference and meta-insights for microbial correlation networks (2020)
+ Sunil Nagpal, Rashmi Singh, Deepak Yadav, Sharmila S Mande*
+Nucleic Acids Research  48(W1):W572-W579 (2020)
+https://doi.org/10.1093/nar/gkaa254
+https://academic.oup.com/nar/article/48/W1/W572/5825626
+
+‘NetShift’: a methodology for understanding ‘driver microbes’ from healthy and disease microbiome datasets (2019)
+ BK Kuntal, Pranjal Chandrakar, Sudipta Sadhu, Sharmila S. Mande*
+ISME J 2019 Feb;13(2):442-454 (2019)
+https://doi.org/10.1038/s41396-018-0291-x
+https://www.nature.com/articles/s41396-018-0291-x
+
+- Guest Professor, Indian Institute of Technology Gandhinagar (Present)
+- Advisor to Life Sciences Research, Tata Consultancy Service Ltd. (Aug 2022 to present)
+- Distinguished Chief Scientist TCS Research, Tata Consultancy Service Ltd. (2020 - July 2022)
+- Chief Scientist TCS Research, Tata Consultancy Service Ltd., Pune & Delhi (2017-2019)
+- Head, Bio-Sciences Research, Tata Consultancy Services Ltd. (TCS), Pune (2012-2017)
+- Head, Bioinformatics Division, Tata Consultancy Services Ltd. (TCS), Hyderabad (2001-2011)
+- CSIR Senior Research Associate, PGIMER, Chandigarh (1998 - 2001)
+- CSIR Senior Research Associate, Institute of Microbial Technology (MTECH), Chandigarh (1996 - 1997)
+
+- ● Bioinformatics
+- ● Computational Biology
+- ● Systems Biology

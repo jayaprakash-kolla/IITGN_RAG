@@ -1,0 +1,46 @@
+Title: IIT Gandhinagar | Rohit Kumar Mishra
+Source: https://iitgn.ac.in/faculty/maths/fac-rohit
+
+# Rohit Kumar Mishra
+
+-  Mathematics
+Rohit Kumar Mishra
+
+## Rohit Kumar Mishra
+
+Associate Professor, Mathematics
+
+- BSc: Dr. Ram Manohar Lohia Avadh University, 2011
+- MSc: TIFR Centre for Applicable Mathematics Bangalore, 2013
+- PhD: TIFR Centre for Applicable Mathematics Bangalore, 2017
+
+Email: rohit.m -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/view/rkmishra91
+
+Office:  AB 6/341
+VOIP:  2576
+
+R. K. Mishra and F. Monard. Range characterizations and Singular Value Decomposition of the geodesic X-ray transform on disks of constant curvature. To appear in Journal of Spectral Theory. 2020.
+
+M. Gupta, R. K. Mishra, and S. Roy. A new optimization approach to sparse reconstruction of conductivity in current density impedance tomography. Journal of Mathematical Imaging and Vision, 62(2):189-205, 2020.
+
+R. K. Mishra. Full reconstruction of a vector field from its restricted Doppler transform and first integral moment transform in R^n. Journal of Inverse and Ill-posed Problems, 28(2):173-184, 2020.
+
+A. Abhishek and R. K. Mishra. Support theorems and an injectivity result for integral moments of a symmetric m-tensor field. Journal of Fourier Analysis and Applications, 25(4):1487-1512, 2019.
+
+V. P. Krishnan and R. K. Mishra. Microlocal analysis for restricted ray transform of symmetric m-tensor fields in R^n. SIAM J. Math. Anal., 50(6), 6230-6254, 2018.
+
+R. Griesmaier, R. K. Mishra, and C. Schmiedecke. Inverse source problems for Maxwell's equations and the windowed Fourier transform. SIAM J. Sci. Comput., 40(2): A1204-A1223, 2018.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Dec 2025 to Present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (May 2021 to Dec 2025)
+- Postdoctoral Scholar, University of Texas at Arlington, TX, USA (Aug 2019 - May 2021)
+- Postdoctoral Scholar, University of California, Santa Cruz, CA, USA (Aug 2017 - July 2019)
+
+- ● Inverse problems related to integral geometry
+- ● Partial differential equations
+- ● Microlocal analysis
+- ● Medical imaging
+
+Complete List of Publications

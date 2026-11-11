@@ -1,0 +1,134 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 37, 2026
+(Added during 07th September – 11th September 2026)
+Available for the issue from 19th September 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+ACADEMIC LIBRARY
+Title: Strategic positioning of academic libraries: global challenges, local politics
+and strategy development
+Author: Cox, John
+Publisher: Great Britain: Facet Publishing, 2026
+Call No.: 025.1 COX
+Acc. No.: 037276
+
+PSYCHOLOGY
+Title: Wisdom, intelligence, and creativity synthesized
+Author: Sternberg, Robert J.
+Publisher: Cambridge: Cambridge University Press, 2011
+Call No.: 153.9 STE
+Acc. No.: 037284
+
+SOCIAL SCIENCES
+Title: Managing multi-dimensional complexities in organizations: from problemsolving to system-optimization with the dimensions surfacing heuristics
+Author: Tegally, Mehaad A.
+Publisher: Oxon: Routledge, 2025
+Call No.: 302.35 TEG
+Acc. No.: 037281
+Title: Colonialism and wildlife: an environmental history of modern India
+Author: Saravanan, Velayutham
+Publisher: Oxon: Routledge, 2024
+Call No.: 304.20954 SAR
+Acc. No.: 037278
+
+ZOOLOGY
+Title: Animate: how animals shape the human mind
+Author: Bond, Michael
+Publisher: London: Picador, 2026
+Call No.: 591.5 BON
+Acc. No.: 037285
+
+HUMAN PHYSIOLOGY
+Title: Machine learning for neuroscience: a systematic approach
+Author: Easttom, Chuck
+Publisher: Boca Raton: CRC Press, 2024
+Call No.: 612.80285631 EAS
+Acc. No.: 037292
+
+Title: Functional connectivity of the human brain: from mechanisms to clinical
+applications
+Author: Rocca, Maria A. (Ed.)
+Publisher: London: Academic Press, 2026
+Call No.: 612.82 ROC
+Acc. No.: 037279
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Smart heat transfer and thermal management: leveraging AI, machine
+learning, and soft computing
+Author: Arya, Raj Kumar (Ed.)
+Publisher: Cambridge: Woodhead Publishing, 2026
+Call No.: 621.4022028563 ARY
+Acc. No.: 037283
+Title: Naval architecture: for marine engineers, 6th ed.
+Author: Pemberton, Richard
+Publisher: London: Reeds & Bloomsbury Publishing, 2024
+Call No.: 623.81 PEM
+Acc. No.: 037277
+Title: Second Orbit: belief of a man . . . dream of 1.4 billion hearts
+Author: Shukla, Shubhanshu
+Publisher: Gurugram: Vintage Books, 2026
+Call No.: 629.450092 SHU
+Acc. No.: 037290
+Title: AI for robotics: toward embodied and general intelligence in the physical
+world
+Author: Imran, Alishba
+Publisher: New York: Apress, 2025
+Call No.: 629.892 IMR
+Acc. No.: 037282
+
+GENERAL MANAGEMENT
+Title: Founder manual: insights from the top founders of India
+Author: Somani, Utsav
+Publisher: Gurugram: Penguin Business, 2026
+Call No.: 658.11 SOM
+Acc. No.: 037289
+
+Title: Culture by design, 3rd ed.
+Author: Friedman, David J
+Publisher: USA: Culturewise, 2026
+Call No.: 658.4 FRI
+Acc. No.: 037286
+
+CERAMIC ARTS
+Title: Handbook of Mediterranean Roman pottery
+Author: Hayes, John W.
+Publisher: Norman: University of Oklahoma Press, 1997
+Call No.: 738.30937 HAY
+Acc. No.: 037293
+
+GRAPHIC ARTS
+Title: Design and the social imagination
+Author: DelSesto, Matthew
+Publisher: London: Bloomsbury Visual Arts, 2022
+Call No.: 745.4 DEL
+Acc. No.: 037291
+
+SPORTS
+Title: Maestro: a portrait of Garry Sobers, cricket's greatest all-rounder
+Author: Tossell, David
+Publisher: West Sussex: Pitch Publishing, 2025
+Call No.: 796.3580924 TOS
+Acc. No.: 037280
+
+HISTORY
+Title: Indian archaeology and the issue of national security
+Author: Chakrabarti, Dilip K.
+Publisher: New Delhi: Aryan Books International, 2026
+Call No.: 930.10954 CHA
+Acc. No.: 037287
+Title: Invincible Somnath: a saga of millennia
+Author: Jain, Meenakshi
+Publisher: New Delhi: Aryan Books International, 2026
+Call No.: 954.75 JAI
+Acc. No.: 037288

@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Neeldhara Misra
+Source: https://iitgn.ac.in/faculty/cse/fac-neeldhara
+
+# Neeldhara Misra
+
+-  Computer Science & Engineering
+Neeldhara Misra
+
+## Neeldhara Misra
+
+Smt. Amba and Sri. V S Sastry Chair Associate Professor, Computer Science and Engineering (Affiliated to Discipline of Artificial Intelligence)
+
+- BSc: Mount Carmel College, Bangalore 2007
+- PhD: The Institute of Mathematical Sciences, Chennai, 2012
+
+Email: neeldhara.m -AT- iitgn.ac.in
+
+ Website :  http://neeldhara.com/
+
+Office:  AB 13/405H
+VOIP:  2490
+
+On the Parameterized Complexity of Minimax Approval Voting, Neeldhara Misra, Arshed Nabeel, Harman Singh, International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2015.
+
+Solving d-SAT via Backdoors to Small Treewidth, Fedor Fomin, Daniel Lokshtanov, Neeldhara Misra, M.S. Ramanujan, Saket Saurabh, Proceedings of ACM-SIAM Symposium on Discrete Algorithms (SODA), 2015.
+
+Backdoors into Heterogeneous Classes of SAT and CSP, Serge Gaspers, Neeldhara Misra, Sebastian Ordyniak, Stefan Szeider, Stanislav Zivny, Proceedings of the Twenty-Eighth AAAI Conference on Artificial Intelligence (AAAI), pp. 2652-2658, 2014.
+
+Faster Deterministic Algorithms for r-Dimensional Matching Using Representative Sets, Prachi Goyal, Neeldhara Misra, Fahad Panolan, Annual Conference on Foundations of Software Technology and Theoretical Computer Science, (FSTTCS), pp. 237-248, 2013.
+
+Planar F-Deletion: Approximation, Kernelization and Optimal FPT Algorithms, Fedor V. Fomin, Daniel Lokshtanov, Neeldhara Misra, Saket Saurabh, Foundations of Computer Science, FOCS, pp. 470-479, 2012.
+
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Oct 2021 to present)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (Sep 2015 - Oct 2021)
+- INSPIRE Faculty Fellow, Indian Institute of Science (Mar 2013 - Sep 2015)
+- Research Associate, Indian Institute of Science (Sep 2012 - Feb 2013)
+
+- ● Design and analysis of algorithms
+- ● Computational social choice
+- ● Extremal combinatorics
+- ● Combinatorial game theory
+- ● Combinatorial and computational Geometry
+- ● Satisfiability and constraint satisfaction
+
+Complete List of Publications

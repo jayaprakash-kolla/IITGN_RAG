@@ -1,0 +1,143 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 33, 2026
+(Added during 10th August – 14th August 2026)
+Available for the issue from 22nd August 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Mindful design: survival guide for responsible product designers, 2nd ed.
+Author: Riley, Scott
+Publisher: New York: Apress, 2026
+Call No.: 004.21 RIL
+Acc. No.: 037214
+Title: Python practice lab: learn how to code through interactive examples
+Author: Lim, Angelica
+Publisher: Princeton: Princeton University Press, 2026
+Call No.: 005.133 LIM
+Acc. No.: 037225
+
+Title: ChatGPT for dummies, 2nd ed.
+Author: Baker, Pam
+Publisher: Hoboken: Wiley, 2025
+Call No.: 006.3 BAK
+Acc. No.: 037229
+
+Title: AI paradox: how to make sense of a complex future
+Author: Dignum, Virginia
+Publisher: Princeton: Princeton University Press, 2026
+Call No.: 006.3 DIG
+Acc. No.: 037223
+
+Title: Artificially yours: real friendship in a world of chatbots
+Author: Tiberius, Valerie
+Publisher: Princeton: Princeton University Press, 2026
+Call No.: 006.3 TIB
+Acc. No.: 037224
+
+Title: Machine learning engineering
+Author: Burkov, Andriy
+Publisher: Canada: True Positive Inc., 2020
+Call No.: 006.31 BUR
+Acc. No.: 037227
+
+Title: Machine learning: from the classics to deep networks, transformers, and
+diffusion models, 3rd ed.
+Author: Theodoridis, Sergios
+Publisher: London: Academic Press, 2026
+Call No.: 006.31 THE
+Acc. No.: 037226
+
+SOCIAL SCIENCES
+Title: Beyond nature and culture
+Author: Descola, Philippe
+Publisher: Chicago: University of Chicago Press, 2014
+Call No.: 304.2 DES
+Acc. No.: 037220
+
+ECONOMICS
+Title: Abundant Earth: toward an ecological civilization
+Author: Crist, Eileen
+Publisher: Chicago: University of Chicago Press, 2019
+Call No.: 333.9516 CRI
+Acc. No.: 037219
+
+MILITARY SCIENCE
+Title: Project Maven: a marine colonel, his team, and the dawn of AI warfare
+Author: Manson, Katrina
+Publisher: New York: W.W. Norton, 2026
+Call No.: 355.80973 MAN
+Acc. No.: 037218
+
+EDUCATION
+Title: IIT: the story of India's most prestigious educational ecosystem
+Author: Kumar, Prabhat
+Publisher: Gurugram: HarperCollins Publishers, 2026
+Call No.: 378.54 KUM
+Acc. No.: 037215
+
+ASTRONOMY
+Title: Universe: a guide to everything
+Author: Kragh, Helge
+Publisher: London: Reaktion Books, 2026
+Call No.: 523.1 KRA
+Acc. No.: 037217
+Title: Lunacy: ten false promises of the new space age
+Author: Bramble, Ben
+Publisher: Princeton: Princeton University Press, 2026
+Call No.: 523.4 BRA
+Acc. No.: 037222
+
+PHYSICS
+Title: Introduction to general relativity and cosmology: theory, observations, and
+applications
+Author: Balbus, Steven A.
+Publisher: Princeton: Princeton University Press, 2026
+Call No.: 530.11 BAL
+Acc. No.: 037221
+
+ANALYTICAL CHEMISTRY
+Title: Electrochemical sensors: from working electrodes to functionalization and
+miniaturized devices
+Author: Maruccio, Giuseppe (Ed.)
+Publisher: Oxford: Woodhead Publishing, 2022
+Call No.: 543 MAR
+Acc. No.: 037216
+
+BIOCHEMISTRY
+Title: Fundamentals of systems biology: from synthetic circuits to whole-cell
+models
+Author: Covert, Markus W.
+Publisher: London: CRC Press, 2015
+Call No.: 572.8 COV
+Acc. No.: 037231
+
+ENGINEERING AND ALLIED OPERATIONS
+Title: Maintenance: of everything, part one
+Author: Brand, Stewart
+Publisher: Belgium: Stripe Press, 2025
+Call No.: 620.0045 BRA
+Acc. No.: 037228
+Title: Advanced membrane technology and applications
+Author: Li, Norman N. (Ed.)
+Publisher: Hoboken: Wiley, 2008
+Call No.: 660.28424 LIN
+Acc. No.: 037230
+
+CHILDREN COLLECTION
+Title: Smash, crash, topple, roll!: the inventive Rube Goldberg—a life in comics,
+contraptions, and six simple machines
+Author: Thimmesh, Catherine
+Publisher: San Francisco, California: Chronicle Books, 2025
+Call No.: 741.56973 THI
+Acc. No.: CC2298

@@ -1,0 +1,38 @@
+Title: IIT Gandhinagar | Projesh Nath Choudhury
+Source: https://iitgn.ac.in/faculty/maths/fac-projesh
+
+# Projesh Nath Choudhury
+
+-  Mathematics
+Projesh Nath Choudhury
+
+## Projesh Nath Choudhury
+
+Associate Professor, Mathematics
+
+- BSc: Gurucharan College, Silchar (under Assam University), 2011
+- MSc: IIT Guwahati, 2013
+- PhD: IIT Madras, 2018
+
+Email: projeshnc -AT- iitgn.ac.in
+
+ Website :  https://projesh.people.iitgn.ac.in
+
+Office:  AB 6/356
+VOIP:  2601
+
+- Projesh Nath Choudhury, Characterizing total positivity: single vector tests via Linear Complementarity, sign non-reversal, and variation diminution, Bulletin of the London Mathematical Society, 54 (2022), 791-811.
+- Projesh Nath Choudhury, M. Rajesh Kannan and Apoorva Khare, Sign non-reversal property for totally non- negative and totally positive matrices, and testing total positivity of their interval hull, Bulletin of the London Mathematical Society, 53 (2021), 981-990.
+- Projesh Nath Choudhury and Michael J. Tsatsomeros, Algorithmic Detection and Construction of N-matrices, Linear Algebra and its Applications, 602 (2020), 46-56.
+- Projesh Nath Choudhury and K.C. Sivakumar, An extension of a matrix inequality of Thompson, Linear Algebra and its Applications, 535 (2017), 151-159.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Jun 2026 to Present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Aug 2022 to Jun 2026)
+- CV Raman Postdoctoral Fellow, Indian institute of Science, Bengaluru (Mar 2022 - Aug 2022)
+- SERB National Postdoctoral Fellow,Indian institute of Science, Bengaluru (Apr 2020 - Feb 2022)
+- NBHM Postdoctoral Fellow, Indian institute of Science, Bengaluru (Jul 2018 - Mar 2020)
+- Institute Posdoctoral Fellow, Indian Institute of Technology Madras, Chennai (Jan 2018 - Jun 2018)
+
+- ● Matrix Analysis
+- ● Total Positivity
+- ● Combinatorics

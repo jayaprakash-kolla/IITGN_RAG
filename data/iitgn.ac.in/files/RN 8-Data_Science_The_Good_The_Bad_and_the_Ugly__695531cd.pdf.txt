@@ -1,0 +1,58 @@
+#flags:
+
+RODDAM NARASIMHA
+
+DISTINGUISHED LECTURE
+Date
+August 5, 2019
+Time
+4:00 PM - 5:30 PM
+Venue
+Academic Building 1/103
+IIT Gandhinagar
+Palaj, Gandhinagar 382355
+
+Data Science:
+The Good,
+The Bad and
+the Ugly
+
+Prof JAYANT HARITSA
+Professor
+Dept. of Computational & Data Sciences
+Indian Institute of Science, Bangalore
+
+Abstract
+
+About the Speaker
+
+Data Science has become the buzzword of choice in
+recent times, especially in the software industry. The
+accompanying hoopla has spawned frenetic claims
+foretelling the development of great and wondrous
+solutions to all kinds of contemporary local and global
+challenges. In this talk, we will attempt to provide a more
+nuanced and balanced view of the area. Specifically, we
+will make the case that data science is certainly a potent
+force-multiplier for solving challenging problems, but
+is equally subject to methodological abuse, leading to
+grossly erroneous conclusions. Worse, such misuse could
+also be deliberate to suit preconceived outcomes and
+biases, concealed under a scientific veneer. In a nutshell,
+we will advocate the view that data science should be a
+tool of last resort, not first, and leveraged as a support,
+not substitute, for domain expertise.
+
+Jayant Haritsa is a professor at the Suprcomputer Education and
+Research Center and the Department of Computational & Data
+Sciences at the Indian Institute of Science, Bangalore. A 2014
+Infosys Laureate and a distinguished alumnus of IIT-Madras,
+Professor Haritsa received his M.S. and Ph.D. in Computer Science
+from the University of Wisconsin, Madison, USA. His work lies
+at the intersection of database systems and data mining, with a
+focus on query processing across a range of database systems.
+He has been conferred with the Shanti Swarup Bhatnagar Award
+and Distinguished Scientist of ACM award in 2009 and the ACCS
+CDAC Foundation Award in 2013. He is a Fellow of IEEE, Indian
+Academy of Sciences, Indian National Academy of Engineering,
+and National Academy of Sciences, India.

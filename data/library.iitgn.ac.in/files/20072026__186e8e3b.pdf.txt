@@ -1,0 +1,44 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 29, 2026
+(Added during 13th July – 17th July 2026)
+Available for the issue from 25th July 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+SEMICONDUCTOR
+Title: Fundamentals of power semiconductor devices, 2nd ed.
+Author: Baliga, B. Jayant
+Publisher: Cham: Springer, 2019
+Call No.: 621.317
+Acc. No.: 037164
+
+CHEMICAL ENGINEERING
+Title: Ancient glass of South Asia: archaeology, ethnography and global connections
+Author: Kanungo, Alok Kumar (Ed.)
+Publisher: Singapore: Springer Nature, 2021
+Call No.: 666.10954 KAN
+Acc. No.: 037165
+
+GLASS
+Title: Glass crafts in Northern India
+Author: Kanungo, Alok Kumar
+Publisher: Delhi: Primus Books, 2022
+Call No.: 748.50282 KAN
+Acc. No.: 037166
+
+CHILDREN COLLECTION
+Title: ABC of the world
+Author: Blyth, Rowena
+Publisher: Great Britain: Fouth Wall Publishing, 2017
+Call No.: 910 BLY
+Acc. No.: CC2290

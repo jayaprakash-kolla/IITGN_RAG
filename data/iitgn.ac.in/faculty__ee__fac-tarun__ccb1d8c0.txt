@@ -1,0 +1,38 @@
+Title: IIT Gandhinagar | Tarun Kumar Agarwal
+Source: https://iitgn.ac.in/faculty/ee/fac-tarun
+
+# Tarun Kumar Agarwal
+
+-  Electrical Engineering
+Tarun Kumar Agarwal
+
+## Tarun Kumar Agarwal
+
+Assistant Professor, Electrical Engineering
+
+- BTech: AMU, Aligarh, 2008
+- MTech: IIT Delhi, 2010
+- PhD: KU Leuven, 2018
+
+Email: tagarwal -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/iitgn.ac.in/mdcl/home
+
+Office:  AB 13/327A
+VOIP:  2574
+
+T. Agarwal, B. Soree, I. Radu, P. Raghavan, G. Iannaccone, G. Fiori, W. Dehaene and M. Heyns, “MaterialDevice-Circuit Co-optimization of 2D Material based FETs for Ultra-Scaled Technology Nodes,” Scientific Reports, vol. 7, no. 5016, pp. 1-7, Jul. 2017. (Impact factor: 4.525)
+
+T. Agarwal, M. Rau, I. Radu, M. Luisier, W. Dehaene and M. Heyns, “Performance Comparison of s-Si, In0.53Ga0.47As, Monolayer BP- and WS2 -Based n-MOSFETs for Future Technology Nodes–Part II: Circuit-Level Comparison,” IEEE Transactions on Electron Devices, vol. 66, no. 8, pp. 3614-3619, Aug. 2019. (Impact factor: 2.704)
+
+T. Agarwal, G. Fiori, B. Soree, I. Radu, M. Heyns and W. Dehaene, “Material-Device-Circuit Co-design of 2D Materials based Lateral Tunnel FETs,” IEEE Journal of the Electron Devices Society, vol. 6, pp. 979-986, Apr. 2018. (Impact factor: 2.0)
+
+- Assistant Professor, Indian Institute Of Technology Gandhinagar (Apr 2021 to present)
+- Postdoctoral Researcher, ETH Zurich (Aug 2018 - Apr 2021)
+- Component Design Engineer, Intel Technologies India Pvt. Ltd. (Jul 2010 - Jun 2012)
+
+- ● Benchmarking of beyond CMOS materials and devices using multi-scale approaches.
+- ● Modeling and simulation of advanced nanoscale devices
+- ● Material-Device-Circuit co-design for alternative computing paradigms.
+
+Complete List of Publications

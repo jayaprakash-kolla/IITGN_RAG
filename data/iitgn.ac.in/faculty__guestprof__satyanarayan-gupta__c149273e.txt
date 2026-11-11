@@ -1,0 +1,47 @@
+Title: IIT Gandhinagar | Satyanarayan Gupta
+Source: https://iitgn.ac.in/faculty/guestprof/satyanarayan-gupta
+
+# Satyanarayan Gupta
+
+-  Guest Professors
+Satyanarayan Gupta
+
+## Satyanarayan Gupta
+
+Guest Professor, Electrical Engineering
+
+- Ph.D.: Old Dominion University, Norfolk, Virginia, 1992
+- Masters: IIT Delhi, 1987
+- B.E.: BITS Pilani, 1983
+
+- 40+ Papers in International Conferences & Journals
+
+- Guest Professor, Indian Institute of Technology Gandhinagar (2025 - Present)
+- Co-Founder, Intel Micro-Electronics
+- Co-Founder, Open-Silicon
+- Co-Founder, Concept-2-Silicon
+- Co-Founder, SenZopt
+- Co-Founder, Seedeyas Innovations
+- Intel (Supercomputers, Processor Design, EDA Tool Development) (1992-2000)
+- Intel Micro-Electronics: ASIC Foundry Division (2000-2003)
+- Open-Silicon: Co-Founder (2003-2008)
+- Concept2Silicon Systems: Co-Founder & CEO (2009-2017)
+- SenZopt Technologies: Co-Founder & CEO (2017-2019)
+- Seedeyas Innovations: Co-Founder & CEO (2019-Current)
+
+Awards
+
+- IEEE Gordon Bell award for high performance computing
+- 1st to break Tera-Flop Barrier for computing
+- Fastest computer in the world in 1993
+- Open-Silicon award for best privately held semiconductor company (GSA)
+- Open-Silicon acquisition at $245 Million Dollars
+- Life-time achievement award by VLSI Society of India, 2023
+
+- ● Semiconductor industry
+- ● Microprocessor, SOC’s, Wireless chips, High Performance, Super-Computing
+- ● Semiconductor & Electronics Manufacturing (Fabs, packaging and testing, EMS)
+- ● IP development, CAD tools
+- ● Intelligent Electronics products for Energy efficiency, Automation, Medical, Biometric & Healthcare devices
+- ● Clean & sustainable environment technologies
+- ● Cyber security

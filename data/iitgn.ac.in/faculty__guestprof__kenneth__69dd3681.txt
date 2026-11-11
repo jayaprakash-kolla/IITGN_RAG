@@ -1,0 +1,38 @@
+Title: IIT Gandhinagar | Kenneth E. Gonsalves
+Source: https://iitgn.ac.in/faculty/guestprof/kenneth
+
+# Kenneth E. Gonsalves
+
+-  Guest Professors
+Kenneth E. Gonsalves
+
+## Kenneth E. Gonsalves
+
+Guest Professor, Electrical Engineering
+
+- BS: Delhi University
+- MS: Boston College
+- PhD: University of Massachusetts (1981-1984)
+
+Vishwanath Kalyani, V. S. V. Satyanarayana, Abdus Salam Sarkar, Ashwani Kumar, Suman K Pal, Subrata Ghosh, Kenneth E. Gonsalves, Chullikkatil P. Pradeep. A Radiation Sensitive Hybrid Polymer Based on an Mn-Anderson Polyoxometalate Cluster and a UV Active Organic Monomer: Synergistic Effects Lead to Improved Photocurrent in a Photoresponsive Device. RSC Adv 2015, 5, 3627-31 (IF 3.71)
+
+Vishwanath Kalyani, V. S. V. Satyanarayana, Vikram Singh, Chullikkattil P. Pradeep, Subrata Ghosh, Satinder K Sharma, Kenneth E Gonsalves. New Polyoxometalates Containing Hybrid Polymers and Their Potential for Nano-Patterning. Chem. Eur J. 2015, 21(5), 2250-2258 (IF: 5.56)
+
+V. S. V. Satyanarayana, Vikram Singh, Vishwanath Kalyani, Chullikkattil P. Pradeep, Satinder K Sharma, Subrata Ghosh, Kenneth E Gonsalves. Hybrid polymeric material bearing ferrocene based pendant organometallic functionality: synthesis and applications in nano-patterning using EUV lithography. RSC Adv. 2014, 4, 59817-59820. (IF: 3.71)
+
+V S V Satyanarayana, Felipe Kessler, Vikram Singh, Francine R Scheffer, Daniel E Weibel, Subrata Ghosh, Kenneth E Gonsalves. Radiation Sensitive Novel Polymeric Resist Materials: Iterative Synthesis and Their EUV Fragmentation Studies. ACS Appl. Mater. Interfaces 2014, 6, 4223−4232. (IF: 5.91)
+
+Vikram Singh, V.S.V. Satayanarayana, Satinder Sharma, Subrata Ghosh, K. E. Gonsalves. Towards novel non-chemically amplified (n-CARS) negative resists for electron beam lithography applications. J. Mater. Chem. C 2014, 2, 2118–2122. (IF: 6.26 (parent journal)
+
+- Guest Professor, Indian Institute of Technology, Gandhinagar (Feb 2025 – Present)
+- Professor, University of Connecticut at Storrs, Aug (1999-2000)
+- Assistant Professor, University of Connecticut at Storrs, (Sep 1990 - Sep 1994)
+- Assistant Professor, Stevens Inst. of Technology NJ, (1986-1990)
+
+- ● Materials Synthesis: Organic Polymer Chemistry
+- ● Organometallic polymers
+- ● Polymer and molecular precursors for ceramics and intermetallics
+- ● Nanostructured materials/composites
+- ● Biomaterials
+- ● Novel resists for nanolithography
+- ● Nanofabrication and nanopatterning of biomaterials

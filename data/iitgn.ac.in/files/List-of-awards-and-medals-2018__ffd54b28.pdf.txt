@@ -1,0 +1,628 @@
+#flags:
+
+Sl.
+No
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+
+Award Category
+
+Name of Awardee
+
+Roll Number
+
+CPI
+
+Branch
+
+President’s Gold Medal, B.Tech
+President’s Gold Medal, M.Tech
+President’s Gold Medal, MSc and MA
+Institute Gold Medal - Civil Engineering,
+B.Tech
+Institute Gold Medal - Chemical
+Engineering, B.Tech
+Institute Gold Medal - Electrical
+Engineering, B.Tech
+Institute Gold Medal - Mechanical
+Engineering, B.Tech
+Institute Gold Medal - Materials
+Science and Engineering, B.Tech
+Institute Gold Medal – Biological
+Engineering, M.Tech
+Institute Gold Medal – Civil
+Engineering, M.Tech
+Institute Gold Medal – Chemical
+Engineering, M.Tech
+Institute Gold Medal – Computer
+Science and Engineering, M.Tech
+Institute Gold Medal – Electrical
+Engineering, M.Tech
+Institute Gold Medal – Earth System
+Science, M.Tech
+Institute Gold Medal – Mechanical
+Engineering, M.Tech
+Institute Gold Medal – Material Science
+and Engineering, M.Tech
+Institute Gold Medal – Cognitive
+Science, MSc
+Institute Gold Medal – Chemistry, MSc
+Institute Gold Medal – Mathematics,
+MSc
+Institute Gold Medal – Physics, MSc
+
+Aketi Sai Aparna
+Shubhanshu Gupta
+Prerna Subramanian
+
+14110011
+16210095
+16520012
+
+9.62
+10.00
+9.74
+
+Electrical Engineering
+Electrical Engineering
+Society & Culture
+
+Solanki Vidhi Rasik
+
+14110128
+
+8.86
+
+Civil Engineering
+
+Jani Purvil Rahulbhai
+
+14110056
+
+8.32
+
+Chemical Engineering
+
+Aketi Sai Aparna
+
+14110011
+
+9.62
+
+Electrical Engineering
+
+Vinod Ramakrishnan
+
+14110146
+
+9.27
+
+Mechanical Engineering
+
+Kaustubh Shirish
+Panse
+
+14110061
+
+9.60
+
+Materials Science and
+Engineering
+
+Institute Gold Medal – MA
+Institute Silver Medal - Civil
+Engineering, B.Tech
+Institute Silver Medal - Chemical
+Engineering, B.Tech
+Institute Silver Medal - Electrical
+Engineering, B.Tech
+Institute Silver Medal - Mechanical
+Engineering, B.Tech
+Institute Silver Medal - Materials
+Science and Engineering, B.Tech
+Institute Silver Medal – Biological
+Engineering, M.Tech
+Institute Silver Medal – Civil
+Engineering, M.Tech
+Institute Silver Medal – Chemical
+Engineering, M.Tech
+Institute Silver Medal – Computer
+Science and Engineering, M.Tech
+
+Not recommended. The total strength of the graduating students is less than 10
+Ashutosh Sonpal
+
+16210017
+
+9.88
+
+Civil Engineering
+
+Kusum Panwar
+
+16210044
+
+9.11
+
+Chemical Engineering
+
+Not recommended. The total strength of the graduating student is only 01
+Shubhanshu Gupta
+
+16210095
+
+10.00
+
+Electrical Engineering
+
+Not recommended. The total strength of the graduating student is only 02
+Nevilkumar Panchal
+
+16210055
+
+9.00
+
+Mechanical Engineering
+
+Roshan Sebastian
+
+16210079
+
+9.06
+
+Material Science and
+Engineering
+
+Reshma Babu
+
+16510063
+
+9.19
+
+Cognitive Science
+
+Afridi Zamader
+
+16510004
+
+9.07
+
+Chemistry
+
+Sudip Pandit
+
+16510085
+
+9.65
+
+Mathematics
+
+Ayatri Singha
+
+16510017
+
+8.18
+
+Physics
+
+Prerna Subramanian
+Heet Vasudevbhai
+Patel
+
+16520012
+
+9.74
+
+Society & Culture
+
+14110049
+
+8.54
+
+Civil Engineering
+
+Abhinay Rana
+
+14110003
+
+8.13
+
+Chemical Engineering
+
+Ayushman Tripathi
+
+14110025
+
+9.22
+
+Electrical Engineering
+
+Dave Sowill
+
+14110035
+
+9.04
+
+Mechanical Engineering
+
+Not recommended. The total strength of the graduating students is less than 20
+Not recommended. The total strength of the graduating students is less than 20
+Not recommended. The total strength of the graduating students is less than 20
+Not recommended. The total strength of the graduating students is less than 20
+Not recommended. The total strength of the graduating students is less than 20
+
+Sl.
+No
+
+Award Category
+
+38.
+39.
+40.
+
+Institute Silver Medal – Electrical
+Engineering, M.Tech
+Institute Silver Medal – Earth System
+Science, M.Tech
+Institute Silver Medal – Mechanical
+Engineering, M.Tech
+Institute Silver Medal – Material
+Science and Engineering, M.Tech
+Institute Silver Medal – Cognitive
+Science, MSc
+Institute Silver Medal – Chemistry, MSc
+Institute Silver Medal – Mathematics,
+MSc
+Institute Silver Medal – Physics, MSc
+Institute Silver Medal – MA
+Director's Gold Medal, B.Tech
+
+41.
+
+Director's Gold Medal, M.Tech
+
+42.
+43.
+
+Director's Gold Medal, PhD
+Director's Gold Medal, MSc and MA
+Director's Silver Medal - Civil
+Engineering, B.Tech
+Director's Silver Medal - Chemical
+Engineering, B.Tech
+Director's Silver Medal - Electrical
+Engineering, B.Tech
+Director's Silver Medal - Mechanical
+Engineering, B.Tech
+Director's Silver Medal - Materials
+Science and Engineering, B.Tech
+
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+
+44.
+45.
+46.
+47.
+48.
+
+Name of Awardee
+
+Roll Number
+
+CPI
+
+Ashutosh Jindal
+
+16210014
+
+9.49
+
+Branch
+Electrical Engineering
+
+Not recommended. The total strength of the graduating students is less than 20
+Not recommended. The total strength of the graduating students is less than 20
+Not recommended. The total strength of the graduating students is less than 20
+Not recommended. The total strength of the graduating students is less than 20
+Not recommended. The total strength of the graduating students is less than 20
+Harshitha C
+
+16510031
+
+9.49
+
+Mathematics
+
+Not recommended. No graduating student has CPI 8.00 or above.
+Not recommended. The total strength of the graduating students is less than 20
+Ayushman Tripathi
+14110025
+9.22
+Electrical Engineering
+Materials Science and
+Rana Pratap Singh
+16210073
+7.89
+Engineering
+None found suitable
+Prerna Subramanian
+16520012
+9.74
+Society & Culture
+Anmol Kishore Raina
+
+14110016
+
+8.02
+
+Civil Engineering
+
+None found suitable.
+Vaishnavi Sunil Patil
+
+14110139
+
+8.73
+
+Electrical Engineering
+
+Modi Harsh
+Jashvantbhai
+
+14110076
+
+8.93
+
+Mechanical Engineering
+
+Deepak Dhariwal
+
+14110036
+
+8.20
+
+Materials Science and
+Engineering
+
+49.
+
+Award for Outstanding Innovation
+
+Gottumukala Sai Rama
+Krishna
+
+14110047
+
+7.68
+
+Electrical Engineering
+
+50.
+
+Award for Outstanding Social Service
+
+Patel Zainab Shabbar
+
+14110093
+
+8.20
+
+Materials Science and
+Engineering
+
+Award for Integrity and Exemplary
+Human Qualities
+Award for the Outstanding Research
+(B.Tech)
+Award for the Outstanding Research
+(M.Tech)
+Award for the Outstanding Research
+(PhD)
+Award for the Outstanding Research
+(MSc and MA)
+Award for Overall Outstanding
+Performance in Sports
+Award for Outstanding Performance in
+Athletics
+Award for Outstanding Performance in
+aquatics
+Award for Outstanding Performance in
+indoor sports
+Award for Outstanding Performance in
+outdoor sports
+Awards for Outstanding Performance in
+Arts and Culture
+
+Yogesh Shantaram
+Fulpagare
+Kaustubh Shirish
+Panse
+
+12310017
+
+7.08
+
+Mechanical Engineering
+
+14110061
+
+9.60
+
+Materials Science and
+Engineering
+
+Ramchandra Gawas
+
+13110037
+
+9.00
+
+Chemical Engineering
+
+Guru Krishnakumar
+Viswanathan
+
+12310001
+
+9.73
+
+Biological Engineering
+
+Ayatri Singha
+
+16510017
+
+8.18
+
+Physics
+
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+
+None found suitable.
+Julianna Rex
+
+16510001
+
+6.48
+
+Physics
+
+None found suitable.
+Vaishnavi Sunil Patil
+
+14110139
+
+8.73
+
+Electrical Engineering
+
+None found suitable.
+Aditya Goel
+
+14110004
+
+7.24
+
+Electrical Engineering
+
+Sl.
+No
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+Award Category
+Pioneer Batch Award for Outstanding
+Leadership
+Award for the best performance in the
+core courses of Engineering Graphics,
+and Manufacturing and Workshop
+Practice
+Award for the best performance in the
+core courses of Physics, Chemistry and
+Life Sciences
+Award for the best overall performance
+in the core courses of Humanities and
+Social Sciences
+Award for outstanding performance in
+the courses of Humanities and Social
+Sciences
+
+Name of Awardee
+
+Roll Number
+
+CPI
+
+Branch
+
+Roy Nikhil Aditya
+
+14110113
+
+7.89
+
+Modi Harsh
+Jashvantbhai
+
+14110076
+
+8.93
+
+Aketi Sai Aparna
+
+14110011
+
+9.62
+
+Electrical Engineering
+
+Ayushman Tripathi
+
+14110025
+
+9.22
+
+Electrical Engineering
+
+Tushar Nirmal
+
+14110136
+
+8.74
+
+Mechanical Engineering
+
+Chemical Engineering
+
+Mechanical Engineering

@@ -1,0 +1,97 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 10, 2026
+(Added during 02nd March 2026– 06th March 2026)
+Available for the issue from 14th March 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Differential privacy
+Author: Garfinkel, Simson L.
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 005.8 GAR
+Acc. No.: 036759
+
+PSYCHOLOGY
+Title: Seven rules of trust: why it is today's most essential superpower
+Author: Wales, Jimmy
+Publisher: London: Bloomsbury Publishing, 2025
+Call No.: 158.2 WAL
+Acc. No.: 036755
+
+ECONOMICS
+Title: Rare: investing the Rakesh Jhunjhunwala way
+Author: Vijayaraghavan,Nandini
+Publisher: Chennai: Westland Business, 2025
+Call No.: 332.6322092 VIJ
+Acc. No.: 036754
+
+PHYSICS
+Title: Not even wrong: the failure of string theory and the continuing challenge to
+unify the laws of physics
+Author: Woit, Peter
+Publisher: London: Vintage Books, 2007
+Call No.: 530.14 WOI
+Acc. No.: 036751
+
+CHESS
+Title: Lightning kid: 64 winning lessons from the boy who became five-time world
+chess champion
+Author: Anand, Viswanathan
+Publisher: Gurugram: Hachette India, 2026
+Call No.: 794.1092 ANA
+Acc. No.: 036757
+Title: Price of genius: inside the world of India’s chess prodigies
+Author: Priyaranjan, Binit
+Publisher: New Delhi: Juggernaut, 2025
+Call No.: 794.10954 PRI
+Acc. No.: 036752
+
+LITERATURE
+Title: Secret of secrets: a novel
+Author: Brown, Dan
+Publisher: London: Bantam, 2025
+Call No.: 813.54 BRO
+Acc. No.: 036756
+
+Title: Real estate
+Author: Levy, Deborah
+Publisher: Dublin: Penguin Books, 2022
+Call No.: 824.92 LEV
+Acc. No.: 036750
+
+HISTORY - BIOGRAPHY
+Title: Babasaheb: my Life with Dr Ambedkar
+Author: Ambedkar, Savita
+Publisher: Gurugram: Vintage, 2024
+Call No.: 954.035092 AMB
+Acc. No.: 036758
+
+Title: Savitribai Phule: her life, her relationships, her legacy
+Author: Gupta, Reeta Ramamurthy
+Publisher: Gurugram: HarperCollins India, 2023
+Call No.: 954.035092 GUP
+Acc. No.: 036753
+
+Children’s Collection
+Title: Ultimate guide to leadership and self-development (Set of 26 books)
+Author: Gupta, Aditi
+Publisher: India: Menstrupedia Technologies, 2025
+Call No.: 158.10285 GUP
+Acc. No.: CC2238 – CC2263
+
+Title: Geronimo Stilton (Set of 20 books)
+Author: Stilton, Geronimo
+Publisher: New Delhi: Scholastic, 2020
+Call No.: 813.6 STI
+Acc. No.: CC2218 – CC2237

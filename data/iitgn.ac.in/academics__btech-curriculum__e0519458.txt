@@ -1,0 +1,242 @@
+Title: IIT Gandhinagar | BTech Curriculum
+Source: https://iitgn.ac.in/academics/btech-curriculum
+
+# BTech Programmes Curriculum
+
+#### (Academic Year 2022-23 Onwards)
+
+ BTech Admissions
+
+ The BTech programme is divided into two distinct but compatible parts called Institute level curriculum and Discipline specific curriculum. Each student is required to go through the Institute level curriculum, irrespective of his/her chosen branch of specialization.
+
+- ❖ All students admitted to the first year of undergraduate (BTech and BTech-MTech) programmes are called at least one week before the rest of the batches. First, they go through a Foundation Programme of about four weeks followed by regular semester activities of about twelve weeks.
+
+- ❖ A student is required to pass the prescribed minimum courses of the curriculum for his/her programme and complete the minimum credits requirement of 169-175 for the BTech degree according to the structure prescribed by each discipline.
+
+- ❖ All BTech students are required to complete 28 credits of courses under the Humanities and Social Sciences basket, including two mandatory Writing courses namely HS 191: Introduction to Writing I (2 credits) and HS 192: Introduction to Writing II (2 credits).
+
+- ❖ In addition to the Writing courses, the Humanities and Social Sciences courses which are mandatory for undergraduate students are Economics (4 credits), Introduction to Philosophy (4 credits) and World Civilizations and Cultures (4 credits). In the future, baskets of courses may be offered as an alternative to the mandatory Humanities and Social Sciences courses. Rest of the 12 credits will be covered through Humanities, Social Sciences or Management electives, with 4 credits (2 courses of 2 credits each) worth of courses from a General Education Basket. Some of the courses which could be considered under the General Education (GE) Basket include courses on Cultural Expression, Performing Arts, Theatre, Fine Arts, Sports etc. The courses under the mandatory General Education Basket (up to 4 credits) will have Pass/Fail grade and not an usual letter grade.
+
+- ❖ All students are required to complete 8 credits worth of courses from the Science Basket, which will have courses from Chemistry, Cognitive Science, Earth Sciences and Physics. The parent discipline of the student may specify one course out of the two courses which a student is required to complete. In addition, all students are required to complete an additional 4 credits of Basic Science electives, which may also include courses from the Science basket.
+
+- ❖ Three mathematics courses [MA 103: Calculus of Single Variable & Linear Algebra (4 credits), MA 104: Ordinary Differential Equations (2 credits), MA 203: Numerical Methods (2 credits)] will be mandatory for all undergraduate students. Further, a student will be required to complete 2 credits worth of courses from the Mathematics Basket, which may include courses on Calculus of Several Variables, Complex Analysis, Integral Transform, Optimization Theory and Partial Differential Equations to name a few. The course to be completed from the Mathematics basket may be specified by the parent discipline of the student. All Mathematics courses are envisioned to be offered in the active learning mode, with significant use of visual learning tools, programming assignments etc.
+
+- ❖ To give students a research experience during their undergraduate programme, all undergraduate students are required to complete a project course. The student will be free to do this Open Project Course (4 credits) in the area/discipline of their choice, any time after the first year of their undergraduate programme. This project course may also be offered at the IITGN Research Park, in collaboration with industry partners. In addition to the Open Project Course, students are free to register for project courses within or outside their parent discipline. Up to 16 credits of such project courses can be counted towards the graduation requirements.
+
+- ❖ Students will have the opportunity to do Open Electives worth 16 credits.
+
+- ❖ BTech students could spend their seventh semester pursuing external exposure activities, with prior approval of the institute. These external exposure activities can be industrial internships, external academic engagements, exposure in R&D labs, start-up activities etc.
+
+- ❖ Up to 16 credits worth of external exposure activities can be counted towards a student's graduation requirements. These will be in the form of 4 credit modules (IN 498 - External Exposure), with a maximum of 4 credits worth of external exposure activities completed in a quad. The credits so registered shall be counted towards meeting the requirement of open electives, open project course and HSS only. A maximum of 8 credits only can be counted towards the requirement of HS electives and a maximum of 4 credits can be counted towards the requirement of an open project course.
+
+- ❖ Engagement in external exposure activities shall be non-mandatory for the students. A student who would not like to take this alternative shall continue to do the course work as specified in the programme.
+
+- ❖ Four semesters of Physical Education courses will be mandatory for all undergraduate students.
+
+- ❖ A Comprehensive Viva Voce is conducted every semester. It is a mandatory pass/fail activity with grade P/F.
+
+- ❖ Other mandatory Institute level courses include: ES 101: Engineering Graphics  (3 credits), ES 112: Computing (3 credits), ES 113: Data Centric Computing  (3 credits), ES 114:  Probability, Statistics and Data Visualization  (3 credits), ES 115: Design, Innovation and Prototyping  (5 credits), ES 116: Principles and Applications of Electrical Engineering  (5 credits), ES 117: The World of Engineering  (2 credits), ES 118: Materials for the Future  (3 credits), ES 243:  Biology for Engineers  (4 credits) and BS 192:  Undergraduate Science Laboratory  (3 credits).
+
+- ❖ The following table shows the list of Institute level courses for first year of BTech programmes:
+
+Semester 1
+Semester 2
+Title of the Course
+Credits
+Title of the Course
+Credits
+Foundation Programme
+4
+General Education I
+2
+Introduction to Writing I
+2
+Introduction to Writing II
+2
+Calculus of Single Variable & Linear Algebra
+4
+Ordinary Differential Equations
+2
+Undergraduate Science Laboratory
+3
+Data Centric Computing
+3
+Engineering Graphics
+3
+Probability, Statistics & Data Visualization
+3
+Computing
+3
+Principles & Applications of Electrical Engineering
+5
+Design, Innovation & Prototyping
+5
+The World of Engineering
+2
+Physical Education
+0
+Physical Education
+0
+
+- ❖ Discipline specific courses will be for 62-64 credits.
+
+- ❖ Students enrolled in the BTech-MTech programme have to earn a minimum of 72 credits, in addition to the credits counted towards their BTech degree requirements. Out of the additional 72 credits, students should obtain a minimum of 24 credits through courses and a minimum of 32 credits through MTech thesis units. The open elective requirement in the BTech programme of the student may be reduced by 8 credits in such cases.
+
+## Discipline Specific Curriculum
+
+## BTech in Artificial Intelligence
+
+ The curriculum for BTech in Artificial Intelligence will have discipline specific core courses for 44 credits and discipline specific elective courses for 20 credits.
+
+ The discipline-specific core courses are:
+
+- ❖ Data Structures & Algorithms I (4 credits)
+- ❖ Signals, Systems & Random Processes (4 credits)
+- ❖ Digital Systems (4 credits)
+- ❖ Theory of Computing (4 credits)
+- ❖ Mathematical Foundations for AI (4 credits)
+- ❖ Control Systems (4 credits)
+- ❖ Software Tools & Techniques for AI (4 credits)
+- ❖ Computer Organization & Architecture (4 credits)
+- ❖ Foundations of AI: Multiagent Systems (4 credits)
+- ❖ Machine Learning (4 credits)
+- ❖ Introduction to Data Science (4 credits)
+
+## BTech in Chemical Engineering
+
+The curriculum for BTech in Chemical Engineering will have discipline specific core courses for 42 credits and discipline specific elective courses for 20 credits.
+
+ The discipline-specific core courses are:
+
+- ❖ Thermodynamics (3 credits)
+- ❖ Chemical Process Calculations (3 credits)
+- ❖ Chemical Engineering Thermodynamics (3 credits)
+- ❖ Process Fluid Mechanics (3 credits)
+- ❖ Heat Transfer (3 credits)
+- ❖ Chemical Reaction Engineering I (3 credits)
+- ❖ Chemical Reaction Engineering II (3 credits)
+- ❖ Separation Processes I (3 credits)
+- ❖ Process Dynamics & Control (3 credits)
+- ❖ Integrated Chemical Engineering Lab I (3 credits)
+- ❖ Separation Processes II (3 credits)
+- ❖ Process Synthesis, Design & Simulation (4 credits)
+- ❖ Transport Phenomena (3 credits)
+- ❖ Integrated Chemical Engineering Lab II (2 credits)
+
+## BTech in Civil Engineering
+
+ The curriculum for BTech in Civil Engineering will have discipline specific core courses for 42 credits and discipline specific elective courses for 20 credits.
+
+ The discipline-specific core courses are:
+
+- ❖ Mechanics of Solids (4 credits)
+- ❖ Earth Materials & Processes (2 credits)
+- ❖ Geospatial Engineering (3 credits)
+- ❖ Structural Analysis (4 credits)
+- ❖  Fluid Mechanics (4 credits)
+- ❖ Sustainability & Environment (3 credits)
+- ❖ Hydrology & Hydraulics (4 credits)
+- ❖  Design of Steel Structures (4 credits)
+- ❖ Soil Mechanics (5 credits)
+- ❖  Design of Reinforced Concrete Structures (5 credits)
+- ❖ Construction Technology & Management (4 credits)
+ ❖ The discipline-specific elective courses are divided into two baskets namely Design/Applications Basket and General CE Electives Basket.
+
+ ❖ Twelve credits of courses under the discipline-specific elective courses are to be taken from the Design/Applications Basket.
+
+ ❖ Eight credits of courses under the discipline-specific elective courses are to be taken from the General CE Electives Basket.
+
+## BTech in Computer Science & Engineering
+
+ The curriculum for BTech in Computer Science & Engineering will have discipline specific core courses for 36 credits and discipline specific elective courses for 26 credits.
+
+ The discipline-specific core courses are:
+
+-  ❖ Data Structures & Algorithms I (4 credits)
+-  ❖ Discrete Mathematics (4 credits)
+-  ❖ Digital Systems (4 credits)
+-  ❖ Computer Organization & Architecture (4 credits)
+-  ❖ Theory of Computing (4 credits)
+-  ❖ Operating Systems (4 credits)
+-  ❖ Software Tools & Techniques in CSE  (4 credits)
+-  ❖ Foundations of AI: Multiagent Systems (4 credits)
+-  ❖ Computer Networks (4 credits)
+ Some of the discipline-specific elective courses are categorized into baskets namely Theory & Algorithms Basket and Systems Basket. At least 8 credits of courses under the discipline-specific elective courses are to be taken from each of these two baskets.
+
+## BTech in Electrical Engineering
+
+ The curriculum for BTech in Electrical Engineering will have discipline specific core courses for 42 credits and discipline specific elective courses for 20 credits.
+
+ The discipline-specific core courses are:
+
+-  ❖ Signals, Systems & Random Processes (4 credits)
+-  ❖ Electronic Devices (3 credits)
+-  ❖ Electrical Machines (4 credits)
+-  ❖ Power Systems (4 credits)
+-  ❖ Control Systems (4 credits)
+-  ❖ Digital Systems (4 credits)
+-  ❖ Engineering Electromagnetics (4 credits)
+-  ❖ Analog & Mixed Signal Circuits (4 credits)
+-  ❖ Power Electronics (4 credits)
+-  ❖ Digital Signal Processing (4 credits)
+-  ❖ Communication Systems (3 credits)
+
+## BTech in Integrated Circuit Design & Technology
+
+(from AY 2024-25)
+
+ The curriculum for BTech in Integrated Circuit Design & Technology will have discipline specific core courses for 44 credits and discipline specific elective courses for 20 credits.
+
+ The discipline-specific core courses are:
+
+-  ❖ Unveiling the Semiconductor World  (2 credits)
+-  ❖ Signals, Systems & Random Processes (4 credits)
+-  ❖ Computer Organization & Architecture (4 credits)
+-  ❖ Digital Systems (4 credits)
+-  ❖ Analog & Mixed Signal Circuits (4 credits)
+-  ❖ CMOS Circuit Design (4 credits)
+-  ❖ Semiconductor Devices (4 credits)
+-  ❖ Semiconductor Material & Device Characterization (4 credits)
+-  ❖ IC Fabrication & Manufacturing (4 credits)
+-  ❖ Thin Film Science & Vacuum Technology (4 credits)
+-  ❖ Semiconductor Package Assembly & Manufacturing (4 credits)
+-  ❖ IC Fabrication Lab (4 credits)
+
+## BTech in Materials Engineering
+
+ The curriculum for BTech in Materials Engineering will have discipline specific core courses for 42 credits and discipline specific elective courses for 20 credits.
+
+ The discipline-specific core courses are:
+
+-  ❖ Structure of Materials  (4 credits)
+-  ❖ Materials Thermodynamics (4 credits)
+-  ❖ Transport Phenomena in Materials Engineering (4 credits)
+-  ❖ Microstructural Engineering (4 credits)
+-  ❖ Physics of Materials (4 credits)
+-  ❖ Integrated Computational Materials Engineering (4 credits)
+-  ❖ Mechanical Behaviour of Materials (4 credits)
+-  ❖ Polymers, Ceramics & Composites (4 credits)
+-  ❖ Materials Processing (4 credits)
+-  ❖ Corrosion & Degradation of Materials (4 credits)
+-  ❖ Materials and Environment (2 credits)
+
+## BTech in Mechanical Engineering
+
+ The curriculum for BTech in Mechanical Engineering will have discipline specific core courses for 44 credits and discipline specific elective courses for 20 credits.
+
+ The discipline-specific core courses are:
+
+- ❖ Thermodynamics  (3 credits)
+- ❖ Statics & Dynamics (4 credits)
+- ❖ Fluid Dynamics (5 credits)
+- ❖ Mechanics of Solids (4 credits)
+- ❖ Principles of Manufacturing Process (3 credits)
+- ❖ Vibrations (2 credits)
+- ❖ Heat & Mass Transfer (4 credits)
+- ❖ Introduction to Manufacturing Systems & Metrology (3 credits)
+- ❖ Mechanics of Materials (3 credits)
+- ❖ Control Systems (4 credits)
+- ❖ Synthesis & Analysis of Mechanisms (3 credits)
+- ❖ Mechanical Systems Design (3 credits)
+- ❖ Energy Systems (3 credits)
+For more information about courses, please see the  Course Catalog.

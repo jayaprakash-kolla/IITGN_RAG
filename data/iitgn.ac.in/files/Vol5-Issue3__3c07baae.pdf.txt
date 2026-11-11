@@ -1,0 +1,403 @@
+#flags:
+
+2012 - 2013, Vol. V, Issue III
+Jan - Mar 2013
+
+Institute News
+BoG Approves New Masters Programmes
+The BoG approved the establishment of a
+two-year MSc Programme in Cognitive
+Science and a two-year Master of Arts programme in Society & Culture at its meeting on March 28, 2013. To strengthen the
+Children's Education Fund scheme for
+contractual staff members, the Board
+enhanced the reimbursable limit from Rs.
+7,500 to Rs. 10,000 per year per family.
+The BoG also sanctioned a scheme for
+interest-free soft advance for new staff
+members. To incentivize undergraduate
+and postgraduate student research, the
+BoG also approved a cash award scheme
+for papers published in refereed journals.
+The Board also endorsed the norms to provide overseas research experience to the
+PhD students. It also approved a plan for
+the creation of a R&D Park at the permanent campus.
+
+152 Students Compete in Electrical Vehicle Contest
+Team 1
+
+Team 2
+
+152 students participated in a research contest sponsored by Underwriters Laboratory
+(UL), Northbrook, USA, and IITGN to develop an electrical vehicle platform with the
+aim of better understanding safety challenges for electrical vehicles in Indian conditions. An external review committee of EV industry experts comprising of Mr. Vikram
+Gulati, (Director, National Automotive Testing and R&D Infrastructure Project,
+NATRIP), Mr. Mukesh Bhandari (Founder, Chairman and CTO, Electrotherm), Mr.
+Chetan Maini (Chief of Strategy & Technology, Reva-Mahindra Reva) and Dr.
+Pravinray Gandhi (Director of Corporate Research, UL) selected two winning teams,
+who will spend time at UL labs in Chicago during the summer of 2013 on developing
+working prototypes. The members of the two winning teams are:
+Team 1: Mr. Madan Taldevkar, Mr. Vaibhav Gandhi, Ms. Kimaya Kale, and
+Mr. Prathamesh Bhat.
+Team 2: Mr. Kishan Suthar, Mr. Shubham Gupta, Mr. Varun Gupta, and
+Mr. Shreyas Vaidya.
+
+IITGN Selected as 2013 CUDA Teaching Center
+IIT Gandhinagar has been selected as a
+CUDA Teaching Center for the year 2013.
+CUDA Teaching Centers have integrated
+GPU computing techniques into their mainstream computer programming curriculum. Students and other members of the Institute
+will have access to CUDA enabled systems for hands-on experience of CUDA C/C++ development, debugging and experimentation.
+Currently CUDA Research and Teaching centers are available in 42 countries worldwide.
+
+Support for the Institute
+GMDC Chair at IIT Gandhinagar
+Gujarat Mineral Development Corporation Ltd (GMDC), a 50-year-old company with primary interests in minerals, lignite, and
+energy, has set up a chair at IITGN in the areas of Materials, Minerals, Metallurgical Engineering and Earth Sciences. The GMDC Chair
+will enable the Institute to provide additional financial support to outstanding faculty and students beyond what is possible through the
+government grants.
+
+Faculty News
+Sponsored Projects
+An Investigation on Eigenvalue Problems and Qualitative Theory of Fully
+Nonlinear Elliptic Equations, sponsored
+by NBHM. Principal Investigator: Prof
+Jagmohan Tyagi, Mathematics.
+
+Consultancy Projects
+• Design of Rehabilitation of Articulations of Naini Bridge for Dynasoure
+Concrete Treatments Pvt Ltd. Principal
+Investigator: Prof Abhijit Mukherjee,
+Civil Engineering.
+
+• Industrial Computational Fluid
+Dynamics Activities for Hi-Tech OS.
+Principal Investigator: Prof Murali
+Damodaran, Mechanical Engineering.
+
+Professional Activities
+© Prof Sharmita Lahiri chaired a session at
+
+the International Conference on
+Disnarration: The Road Not Taken,
+IIT Bombay, March 1-2, 2013.
+© Prof Sudhir K. Jain was Chief Guest at
+the 59th Annual Conference of the Indian
+Association of Cardiothoracic Surgeons
+in Mumbai during Feb. 14-17, 2013.
+© Prof Uttama Lahiri's research work has
+been acknowledged by the Simons Foundation Autism Research Initiative
+(SFARI), which cited two of her recent
+publications in the IEEE Transactions of
+Neural Systems Rehabilitation Engineer-
+
+ing (TNSRE). The report recognized the
+gels can assemble and re-assemble
+research focus on teaching social converthrough interplay between chemical comsation skills by using an adaptive gazemunication and light irradiation. The
+sensitive intelligent virtual-reality based
+paper reveals a novel "life-like" behavior
+platform to children with Autism Specfor synthetic systems, and also provides
+trum Disorder (ASD).
+the mechanism to control it.
+© Prof Pratyush Dayal, along with his col- © Prof Rita Kothari's book Memories and
+laborators from University of Pittsburgh
+Movements: Borders and Communi(Prof A. C. Balazs and Dr. O. Kuksenok),
+ties in Banni, Kutch, Gujarat, published
+have demonstrated that it is possible to reby Orient Blackswan, was launched on
+assemble synthetic systems by computaJan. 18, 2013. Prof Rajmohan Gandhi
+tional modeling. In their recent publicaand Prof Sudhir K. Jain were the guests
+tion in the Proceedings of the National
+of honour. Prof Mona Mehta and Prof
+Academy of Sciences, the authors demonRosa Maria Perez shared their impresstrate that Belousov-Zhabotinsky (BZ)
+sions of the new book.
+
+New Faculty
+The following faculty joined IITGN during this quarter:
+
+Scholars-in-Residence
+
+Activities at IITGN
+New Building Inaugurated
+
+A new 3,000 sq. m. building (Shed-5) constructed on the temporary campus at
+VGEC was inaugurated by Prof Sudhir K.
+Jain, Director, IITGN on Feb. 18, 2013.
+The building will house expanded laboratory facilities, provide office space to faculty and research scholars and meet the
+requirements of new class-rooms.
+Short Courses/ Workshops/ Seminars
+© IIT Gandhinagar Library in collabora-
+
+tion with IIM Ahmedabad Library organized the 9th annual meet and workshop
+
+of INDEST-AICTE Consortium durScientists from India and France offered
+ing Jan. 17-19, 2013. Over 200 library prodifferent lectures at the event, which also
+fessionals from different parts of the
+featured astronomical observations by
+country participated in the workshop.
+Odyssey, the astronomy Club of IITGN.
+© A short course on Finite Element Methods, Constitutive Modeling and Applications, Jan. 28 - Feb. 1, 2013. Resource
+persons included Dr. Chandrakant S.
+Desai, University of Arizona; Dr.
+Abhijit Mukherjee, Dr. Dhiman Basu,
+and Dr. Amit Prashant, IIT Gandhinagar.
+Forty-four professionals, students, and © A workshop on Fire Safety was organized by the IIT Gandhinagar Safety Cenfaculty from various parts of the country
+ter (IITGN-SC) on March 2-3, 2013.
+attended and was coordinated by Dr.
+Work shop faculty included Dr.
+Amit Prashant and Mr. Nitin Shukla.
+Venkatesh Kodur, Michigan State Uni© A short course on Technology Strategy
+versity,
+USA; Dr. Pravinray D. Ganfor Managers and Entrepreneurs by
+dhi,
+Director,
+Corporate Research,
+Mr. Paresh Vora, Feb. 2, 3 and 9, 2013.
+Underwriters Laboratories, USA; and
+© A two-day event on Heritage of Indian
+Mr. G. B. Menon, Fire Advisor (Retd),
+Astronomy during Feb. 9-10, 2013 was
+Government of India and founder presihosted by IIT Gandhinagar in association
+dent of National Association of Fire Offiwith Alliance Française d'Ahmedabad as
+part of the Bonjour India 2013 Festival.
+cers (NAFO). Other speakers included
+
+Mr. D. K. Shami, Fire Advisor, Governdhir K. Jain, Dr. Ajanta Sachan, and Dr. © A Brain Storming Workshop was orgament of India; Mr. Hirak Dutta, ExecuAmit Prashant from IIT Gandhinagar
+nized on March 15, 2013 to evolve a road
+tive Director, Oil Industry Safety Direcand Dr. Debasis Roy from IIT Kharagpur.
+map for the academic programme in
+torate, (OISD); Mr. M. V. Deshmukh,
+Forty-three participants attended the course.
+Earth Sciences at IIT Gandhinagar.
+Fire Advisor and Director, Maharashtra © A two-day workshop on Promoting HisAbout a dozen eminent experts in variFire Services; Mr. A. K. Sharma, Directory of Science in India on March 16-17,
+ous disciplines of Earth Sciences particitor, Delhi Fire Service; Mr. Debashis
+2013. Eminent scientist and Padma
+pated in the seminar. The deliberations
+Kar, Director General (Building),
+Vibhushan awardee Prof Roddam Narfocused on the kind of academic and the
+Kolkata Municipal Corporation. Nearly
+asimha delivered the keynote address
+R & D programmes that the Institute
+150 people from all over India attended
+titled Barbarous Algebra, Inferred Aximay initiate.
+the workshop, which was organized by
+oms: Eastern Modes in the Rise of West- © A workshop on Collaborating to CoProf Chinmay Ghoroi.
+ern Science. Over 50 delegates from varicreate the Future by Ms. Rashmi
+© A short course on Geotechnical Aspects
+ous parts of India attended the workDatta, Founder and Director of Dialog
+of Earthquake Engineering, March 4-8,
+shop. The event was coordinated by Prof
+Services, March 23, 2013 for faculty of
+2013. Resource persons included Dr. SuJaison A. Manjaly and Prof Michel Danino.
+the Institute.
+
+Student and Staff Activities
+Blithchron '13
+Blithchron, the twoday cultural festival of
+IIT Gandhinagar was
+back with its fifth edition from Jan. 19-20,
+2013. A record 19,000
+visitors attended the
+festivities. More than
+20 events, including a
+rock concert, music shows, drama, a fashion show and games were organized, in
+which more than 30 institutes participated.
+Day 2 saw thousands of students throng
+Pronites, the rock concert featuring
+Agnee, an Indie-Rock band, and the event
+String Theory in which various bands
+from across the state were pitted against
+each other. BMX (bicycle motocross),
+attracted major crowds on the second day as
+the professionals from Mumbai enthralled
+the audience with their stunts.
+
+organizing team and over 40 volunteers
+worked diligently for the smooth conduct
+of the games that often extended past midnight. The event was coordinated by Mr.
+Wasim Khan, sports secretary and Mr.
+Prashant Patel, chemical engineering, 3rd
+year.
+Mehfil-e-Adab: An Evening of Urdu Poetry
+An evening of Urdu
+poetry on Feb. 6, 2013
+marked the end of the
+half-semester course on
+Urdu Script and Poetry
+by Ms. Hamida Banu
+Chopra (University of
+California, Berkeley). A large audience of
+faculty, staff and students was enthralled by
+the poetry of famous Urdu poets recited by
+Ms. Chopra and her students.
+Picnic in Palaj
+
+Halla Bol'13
+
+The 3rd edition of Halla Bol, the all-night
+intra-college sports festival, was organized
+from March 15-24, 2013. The festival comprised 11 entertaining games played over 10
+days. The traditional rules were given a
+twist or two to make the games more unpredictable and fun to play and watch. More
+than 400 matches attracted 2,400 attendees
+from students, staff and faculty, who
+formed mixed teams. A 50-member core-
+
+More than 155 IITGN community members participated in a picnic organized at the
+IIT Gandhinagar permanent campus site in
+Palaj, Gandhinagar, along the banks of the
+Sabarmati River on Feb. 17, 2013. The organizing team comprised Prof Srinivas
+Reddy, Ms. Komal Vadhvani, Mr.
+Santosh Raut, Mr. Dharmendra Panchal,
+and Mr. Babloo Sharma.
+
+VGEC-IITGN Club. IITGN will offer educational programmes to the VGEC students. Prof Sharmita Lahiri led the first of
+these sessions on March 17, 2013 with a
+workshop on Group Discussions. The
+series is coordinated by Prof Achal Mehra.
+Staff Training & Educational Programme
+(STEP)
+A training programme on Advance Microsoft Excel and Access was conducted on
+Feb. 2-3, 2013 and Feb. 23, 2013, respectively. Forty-seven staff members attended the
+events.
+Ms. Jasbir Kaur Thadani, Counselor, gave
+a talk on Psychology's Role While Choosing a Career on DD Girnar, which was telecast live in 36 countries on Feb. 13, 2013.
+Students on Dean's List Felicitated
+One hundred and fifty three BTech students made it to the Dean's List, which recognizes students with an SPI of 8.5 or more.
+The students received a letter of appreciation and a topical book, Indian Summer by
+Alex Von Tunzelmann, from the Director, Prof Sudhir K. Jain. Further details are
+available at http://www.iitgn.ac.in/acade
+mic_deanlist.htm.
+
+Basanta Panchami Celebrations
+IITGN celebrated Basanta Panchami on
+Feb. 16, 2013. The day began with Saraswati
+Puja and community prasad distribution. A
+cultural programme titled Basanta Utsav
+was organized in the evening, attended by
+students, staff and faculty members along
+with their families. The participation of children in many cultural activities was a highlight
+of the evening. Postgraduate and PhD
+VGEC-IITGN Club
+students
+adapted and performed a play
+More than 200 first year students of VGEC
+based
+on
+Sarat Chandra Chattopadhyay's
+have signed up for the newly created
+famous short story Lalu.
+
+Aparna Menon, MTech won the title of Student Publications and Research
+the Musical Sensation of the Year 2013. Mr. © Mr. Akshay Jain (co-authors: Mr. Prateek
+Madan Taldevkar, mechanical engineerNyati, Mr. Nakul Nuwal, Prof Chinmay
+nd
+Ghoroi, Mr. Adnan Ansari, and Dr.
+ing, 2 year was the first runner-up.
+Pravinray D. Gandhi) presented a paper
+UL-IIT Gandhinagar Kitchen Fire Safety
+Life Skill Series
+System at Suppression, Detection and SigJob Interviews: How to Nail Them was
+naling Research and Applications Conheld on Jan. 12, 2013. Ms. Ekta Prashnani,
+ference, Orlando, Florida, Feb. 26, 2013.
+Mr. Tarkeswar Singh, Mr. Gaurav
+The IITGN Counseling Service organized Dubey, Mr. Sauryaprakash Sinha, Mr. © Mr. Chetas Joshi (co-authors: Prof
+Uttama Lahiri, and Prof Nitish Thakor)
+Reflections, an interactive session with the Mohit Verma, Mr. Dhruv Chokshi and
+presented a paper Classification of Gait
+4th year BTech students on March 24, 2013. Mr. Shyamal Kishore, all 4th year students,
+Phases from Lower Limb EMG: ApplicaThe event involved students sharing the ex- shared their successful job interview experition to Exoskeleton Orthosis at IEEE
+perience of their journey at IITGN with fac- ences with an audience of 60 students. The
+EMBS (Engineering in Medicine and Biolulty members, the director, dean of aca- session was coordinated by Mr. Dhruv
+ogy Society) Special Topic Conference on
+demic programmes and dean of student Chokshi and Mr. Shyamal Kishore. Prof
+Point-of-Care Healthcare Technologies,
+affairs, reflecting on their experience with Atul Bhargav was guest expert at the session.
+Bangalore,
+Jan. 16-18, 2013.
+their batch. The event was coordinated by
+© A report by PhD student Ms. Payel C.
+Ms. Jasbir Thadani, counselor, IITGN.
+Student's Patent (Pending)
+Mukherjee, on X Theory/Praxis Course
+Local Scale, Rotation and Position(June 18-July l4, 2012) jointly organized by
+Invariant Word Detection for Optical
+Republic Day Celebrations
+Center for Contemporary Theory Baroda
+The 64th Republic Day celebrations on Jan. Character Recognition, India PLW Ref.
+and Osmania University Hyderabad is be26, 2013 began with the faculty, staff and stu- 10010-03668, filed Dec. 31, 2012. Inventors:
+ing published in the bi-annual Newsletter of
+dents participating in a Green Run. Later Mr. Sri Kaushik Pavani, Research Scienthe Forum of Contemporary Theory.
+the Director, Prof Sudhir K. Jain unfurled tist, Ricoh Innovations Pvt Ltd and Ms.
+the national flag. The day concluded with a Ekta Prashnani, undergraduate student, © Mr. Sumitava Mukherjee (co-authors:
+Prof Jaison A. Manjaly and Mr. Neeraj
+cultural programme by IITGN community. electrical engineering, IITGN.
+Kumar) presented a poster titled Consequences of Priming Money on Insight
+Student Achievements
+Blood Donation Drive
+th
+Problem Solving at the 100 Indian Science
+Ninety five units of blood was collected in In a nationwide photography competition
+Congress, Kolkata, Jan. 3-7, 2013.
+two Blood Donation Drives conducted by Darkroom conducted by Symbiosis Centre
+©
+Mr.
+Sumitava Mukherjee and Mr. Neeraj
+IITGN students with the Indian Red Cross for Information Technology (SCIT), Pune,
+Kumar, doctoral students, delivered a talk
+Society and the Prathama Blood Center. Jan. 2013 Mr. Bhaskarjyoti Das, chemical
+th
+and presented a poster at the 20 InternaThe event was organized by Mr. Yash engineering, 3rd year was declared the wintional Conference on Toward a Science of
+Kotak, 3rd year and Mr. Shashank Heda, ner of the theme Silhouette and Mr.
+Consciousness (TSC) organized by AriAtharva Patil, mechanical engineering, 3rd
+2nd year electrical students.
+zona Center for Consciousness Studies,
+year was declared the winner of the theme
+Agra, March 3-9, 2013. A poster coMusical Sensation of the Year (MuSTY) 2013 Emotions. Mr. Bhaskarjyoti Das, was also
+authored
+by Mr. Sumitava Mukherjee was
+Among the six finalists who participated in declared the overall grand winner among
+also presented at the conference.
+the final round on Jan. 18, 2013; Ms. around 500 entries.
+Reflections
+
+Sports News
+Mr. Chetas Joshi, senior undergraduate,
+secured 3rd position in the Table Tennis
+Tournament at Khel-Mahakumbh 201213, including a cash prize of Rs. 2,000 and
+represented Ahmedabad at the Inter District Table Tennis Championship at
+Rajkot.
+Petro Cup 2013
+The men's basketball team, with outstanding scoring by Mr. Suresh Choudhari and
+Mr. Ravi Pal, defeated PDPU 65-38 and
+won the Petro Cup title three years in a
+row.
+In the women's category, Ms. Shivani
+Rani won gold medals in discuss throw,
+
+shot put throw, and javelin throw. In the
+men's category, Mr. Umesh Singh won
+gold medals in discuss throw and javelin
+throw, whereas Mr. Chetan Patil won silver medal in discuss throw and bronze
+medal in shot put throw.
+Inter Department Table Tennis Championship 2012-13
+The Electrical team, comprising Mr.
+Chetas Joshi (captain), Mr. Ameya Joshi,
+Mr. Rajat Choudhary, Mr. Shubham
+Ranka, and Mr. Lingala Thrinath Reddy
+won the final match against Chemical by 30 on Feb. 7, 2013.
+
+Capital Season League (CSL)
+With the joint effort of the sports departments of IIT Gandhinagar, Pandit
+Deendayal Petroleum University (PDPU)
+and Gujarat National Law University, the
+first edition of CSL was held from March
+11-18, 2013, featuring volleyball and basketball. IIT Gandhinagar won the basketball
+tournament while in volleyball it won second place, behind PDPU. IITGN students
+Mr. Ravi Kumar and Mr. Endla Naveen
+bagged the title of Player of Tournament in
+both basketball and volleyball respectively.
+Mr. Wasim Khan (sports secretary) and
+Mr. Aditya Samant (basketball secretary)
+facilitated the smooth conduct of CSL.
+
+Published by Information Cell, Indian Institute of Technology Gandhinagar, Ahmedabad
+Phone: +91 79 2397 2574; Fax: +91 79 2397 2586; Email: infocell@iitgn.ac.in

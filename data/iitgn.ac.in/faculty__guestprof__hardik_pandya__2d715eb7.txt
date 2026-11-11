@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Hardik Jeetendra Pandya
+Source: https://iitgn.ac.in/faculty/guestprof/hardik_pandya
+
+# Hardik Jeetendra Pandya
+
+-  Guest Professors
+Hardik Jeetendra Pandya
+
+## Hardik Jeetendra Pandya
+
+Guest Associate Professor, Electrical Engineering
+
+- B.E.: Sardar Patel University, Gujarat, India, 2002
+- M.E.: Sardar Patel University, Gujarat, India, 2004
+- PhD: Indian Institute of Technology Delhi, 2013
+
+Manik Kakkar, Jagruti M. Patil, Vishwas Trivedi, Anushka Yadav, Ratan K. Saha, Shilpa Rao, Vikas Vazhayil, Hardik Pandya, Anita Mahadevan, Himanshu Shekhar, Karla P. Mercado-Shekhar, “Hermite-scan imaging for differentiating glioblastoma from normal brain: Simulations and ex vivo studies for applications in intra-operative tumor identification.” Journal of the Acoustical Society of America (Accepted). Impact Factor: 2.482
+
+Chowdhury, A., Sharma, S.S., Arjun B S, Pandya, H.J., Rao, B.S., and Laxmi, T.R., “Risky decision-taking task: A novel paradigm to assess the risk-taking behavior in rats predisposed to early-life stress.” Journal of Neuroscience Methods, 2023. DOI: https://doi.org/10.1016/j.jneumeth.2023.109864 Impact Factor: 2.987
+
+Suman Chatterjee, Rathin K Joshi, Tushar Sakorikar, Bhagaban Behera, Nitu Bhaskar, Shabari Girishan K V, Mahesh Jayachandra, and Hardik J Pandya, “Design and fabrication of a microelectrode array for studying epileptiform discharges from rodents.” Biomedical Microdevices, 25, 31 (2023). DOI: https://doi.org/10.1007/s10544-023-00672-0 Impact Factor: 3.783
+
+Haripriya P, Madhavan Rangarajan, Hardik J. Pandya, “Breath VOC Analysis and Machine Learning Approaches for Disease Screening – A Review.” Journal of Breath Research, Volume 17, Number 2, Feb 2023, DOI: https://doi.org/10.1088/1752-7163/acb283 Impact Factor: 4.538
+
+Anju Joshi, Anil Vishnu G. K., Smitha P. K; Ashlesh Kadandale, Hari R. S., Manjula Das, Hardik J. Pandya, “Lab-on-PCB-Based Electrical Immunosensing Platform for Point-of-Care Detection of SARSCoV- 2.” IEEE Sensors Letters, vol. 7, no. 1, pp. 1-4, Jan. 2023, Art no. 4500204. DOI: https://doi.org/10.1109/LSENS.2022.3228306 Impact Factor: 3.04
+
+Rathin K. Joshi, Varun Kumar M, Megha Agarwal, Avinash Rao, Mahesh Jayachandra, Latika Mohan, and Hardik J. Pandya, “Spatiotemporal analysis of interictal EEG for automated seizure detection and classification.” Biomedical Signal Processing and Control, volume 79, part 1, 104086, 2023. DOI: https://doi.org/10.1016/j.bspc.2022.104086 Impact Factor: 5.076
+
+- Guest Associate Professor, Indian Institute of Technology, Gandhinagar (March 2024 to present)
+- Associate Professor, Indian Institute of Science, Bangalore, Karnataka, India, 2023 - March 2024
+- Assistant Professor, Indian Institute of Science, Bangalore, Karnataka, India, 2017-2022
+
+Awards
+
+- DST Abdul Kalam Technology Innovation National Fellowship, 2023.
+
+- ISSS Young Scientist Award 2020.
+
+- Texas Instrument: For Fostering an Ecosystem Bridging Government, Industry, and Academia (2019).
+
+- Early Career Research Award (August 2017), Science and Engineering Research Board, Government of India.
+
+- ● Microfluidics
+- ● Immunotherapy
+- ● Microchips for Antibiotic Susceptibility Testing

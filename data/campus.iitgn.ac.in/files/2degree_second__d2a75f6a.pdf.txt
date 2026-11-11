@@ -1,0 +1,106 @@
+#flags:
+
+Items to be started at Block -4
+Sl. No.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+18
+19
+20
+22
+
+Item
+QUANTITY
+Kulhad Tea
+100
+Noodles/Paneer Samosa
+1
+Veg Soup
+120
+Kachori (3PM-7PM)
+1
+Pakoda (Aloo/pyaaj/Mix) (3PM-7PM)
+150
+Peri Peri Popcorn
+80
+Hot Chocolate
+200
+Cold Coffee with icecream
+250
+Milkshakes with Icecream
+250
+Bournvita/with chocolate
+250
+Sprouts Salad
+180
+Boiled Corn Salad
+180
+Burger (Veg Tikki/Paneer)
+180
+Masalapuri/Dahipuri
+6
+Aloo Twister Fry
+150
+Bhelpuri
+100
+French Fries
+200
+Bread Cutlet (3PM-7PM)
+2
+Veggie Finger
+180
+
+UOM
+ml
+pc
+ml
+pc
+gm
+gm
+ml
+ml
+ml
+ml
+gm
+gm
+gm
+pc
+gm
+gm
+gm
+pc
+gm
+
+PRICE
+15
+15/20
+30
+20
+35
+30
+50
+50
+60
+40/50
+40
+40
+50/60
+25/35
+40
+35
+50
+30
+60

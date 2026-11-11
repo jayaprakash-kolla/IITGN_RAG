@@ -1,0 +1,130 @@
+Title: Python Is Not an Acceptable ML
+Source: https://cse.iitgn.ac.in/blog/python-is-not-an-acceptable-ml
+
+BK
+
+Balagopal Komarath
+28 Nov 2022· 6 min read
+
+Python is a popular fixture in introductory programming courses. Its adoption is mainly driven by two reasons: its popularity in scientific computing and industry, and its perceived readability.
+
+The first point is irrefutable. The second is more complicated. Python’s surface-level readability does not compensate for its violations of several fundamental principles of programming-language and user-interface design. Many of the problems below are faced most sharply by beginning programmers. A language with better design, such as OCaml, avoids or even prevents several of them.
+
+When programming, errors can be detected at different stages. Some are caught by an editor or IDE while typing; some by a compiler; some always appear when the program runs; and some remain hidden until particular runtime conditions occur. A well-designed programming language should detect as many errors as possible as early as possible.
+
+Can we create a perfect language where all errors are compile-time errors? Such languages exist, but they usually require advanced knowledge to use well. Every language is designed around a tradeoff between correctness and usability. But the tradeoff is not linear. If we quantified usability and correctness on a scale of 1 to 100, some languages might be 80 in usability and 80 in correctness, while others might be 90 in usability and 50 in correctness.
+
+My thesis is that OCaml is an 80-usability, 80-correctness language for introductory programming, while Python is, at best, a 90-usability, 50-correctness language. The examples below explain why.
+
+## Errors of Commission and Omission
+
+The following Python program has an error. Can you find it?
+def sound(animal): if animal == 'dog': return 'bow' elif animal == 'cat': return 'meow' elif animal == 'cow': return 'moo' elif anima1 == 'pig': return 'oink' elif animal == 'human': return 'huh'print(sound('cat'))
+It prints:
+meow
+The error is that one occurrence of animal is misspelled as anima1. Python accepts the program and the bug remains hidden unless that branch is reached. This is a conditional runtime error that should have been a compilation error.
+
+In OCaml, the same function can be written without even spelling out the parameter:
+let sound = function | "dog" -> "bow" | "cat" -> "meow" | "cow" -> "moo" | "pig" -> "oink" | "human" -> "huh" | _ -> assert falselet () = print_endline (sound "cat")
+The parameter name conveys no useful information here, so the language lets us avoid it. If we write the function in a more Python-like style and make the same spelling mistake, OCaml reports it immediately:
+let soundanimal = if animal = "dog" then "bow" else if animal = "cat" then "meow" else if animal = "cow" then "moo" else if anima1 = "pig" then "oink" else if animal = "human" then "huh" else assert falseLine 5, characters 10-16:5 | else if anima1 = "pig" then "oink" ^^^^^^Error: Unbound value anima1Hint: Did you mean animal?
+The same issue appears when programs evolve. Suppose we write two Python functions:
+def sound(animal): if animal == 'dog': return 'bow' elif animal == 'cat': return 'meow' elif animal == 'caterpillar': return '...'def legs(animal): if animal == 'dog' or animal == 'cat': return 4 elif animal == 'caterpillar': return 1000
+Later, we decide to handle humans:
+def sound(animal): if animal == 'dog': return 'bow' elif animal == 'cat': return 'meow' elif animal == 'caterpillar': return '...' elif animal == 'human': return 'huh'
+If we forget to update legs, then legs('human') returns None. Python gives no warning. The error remains conditional, because it appears only if that function is called with that input.
+
+In OCaml, the natural representation uses a sum type:
+type animal = Cat | Dog | Caterpillarlet sound = function | Cat -> "meow" | Dog -> "bow" | Caterpillar -> "..."let legs = function | Cat | Dog -> 4 | Caterpillar -> 1000
+If we add Human to the type but forget to update legs, the compiler points out the omission:
+type animal = Cat | Dog | Caterpillar | Humanlet legs = function | Cat | Dog -> 4 | Caterpillar -> 1000Warning 8 [partial-match]: this pattern-matching is not exhaustive.Here is an example of a case that is not matched:Human
+
+## What Is in a Name?
+
+The scope of a name defines the context in which it is valid. Python’s rules for scope are often unintuitive:
+day = 'Monday'def setday(newday): day = newdaysetday('Tuesday')print(day)
+This prints:
+Monday
+The day inside setday refers to a newly created local variable, not the global day. Python implicitly creates variables on first assignment in functions, avoiding an explicit keyword like let or var. This violates Python’s own principle that explicit is better than implicit.
+
+The problem is not limited to global variables:
+def end(s): last = "x" def a(): last = "a" def b(): last = "b" for c in s: if c == "a": a() elif c == "b": b() return lastprint(end("abracadabra"))
+This prints:
+x
+The assignments inside a() and b() do not affect the last in the scope of end(). Python’s fix is to use global and nonlocal declarations. But it is easy for a beginner to forget them, producing conditional runtime errors.
+
+## Python UI Lies
+
+A fundamental rule of user-interface design, including programming-language design, is that things that look the same should behave the same. Consider:
+x = 5y = xx = x + 1print(x, y)x = []y = xx.append(0)print(x, y)
+The output is:
+6 5[0] [0]
+Changing x also changes y in the second case but not in the first. Python provides a consistent-looking interface to value types and reference types, even though they behave fundamentally differently.
+
+The list replication operator makes the same issue worse:
+xs = [[0] * 3] * 3xs[0][0] = 1print(xs)
+The result is:
+[[1, 0, 0], [1, 0, 0], [1, 0, 0]]
+The rows are not independent lists. The expression creates repeated references to the same inner list.
+
+Implicit duplicate references can also appear during iteration:
+xs = [1, 2, 3, 4]for x in xs: if x % 2 == 1: xs.remove(x)print(xs)
+This seems to work:
+[2, 4]
+But a small change exposes the problem:
+xs = [1, 2, 3, 4]for x in xs: xs.remove(x)print(xs)
+The result is still:
+[2, 4]
+The iterator keeps an implicit reference to the list, while the loop body mutates it through xs. The language allows the conflict.
+
+## Python Non-Functionality
+
+Higher-order programming, the ability to manipulate functions as values, is important because it enables code reuse beyond first-order abstractions. Python has adopted many higher-order features from the ML family, but its inability to distinguish value and reference types weakens them.
+
+Consider:
+def dup(x): return (x, x)def applyfst(f, pair): (x, y) = pair return (f(x), y)
+With integers, this behaves as expected:
+print(applyfst(lambda x: x + 1, dup(0)))(1, 0)
+With lists, it does not:
+def append0(xs): xs.append(0) return xsprint(applyfst(append0, dup([])))([0], [0])
+The definitions of dup and applyfst are logical, but their behavior changes depending on whether they are used with values or references. In a real program, such functions may come from a library. A user should not need to know the implementation details of a library to use it safely.
+
+The OCaml equivalent has no such surprise:
+let dupx = (x, x)let applyfstf (x,y) = (f x, y)let incx = x + 1let () = assert ( applyfst inc (dup 0) = (1, 0))let append0xs = xs @ [0]let () = assert ( applyfst append0 (dup []) = ([0], []))
+Even Python’s built-in higher-order functions must be used with care:
+def listmap(f, xs): return list(map(f, xs))print( listmap( lambda f: f(0), [lambda x: x + 1, lambda x: x + 2] ))print( listmap( lambda f: f(0), [lambda x: x + i for i in range(1, 10)] ))
+The output is:
+[1, 2][9, 9, 9, 9, 9, 9, 9, 9, 9]
+It is possible to teach students to avoid such errors by explaining Python’s abstract machine. But the point of a high-level language is to raise the machine’s level of conversation toward the human, not to lower the human’s level of conversation toward the machine.
+
+In OCaml, the corresponding code works as expected:
+let applyfsx = List.map (funf -> f x) fslet rec rangenm = if n = m then [n] else n :: range (n + 1) mlet fs = List.map (funi -> (+) i) (range 1 9)let () = assert (apply fs 0 = range 1 9)
+
+## OCaml Imperativity
+
+There is at least one place where Python is usually considered more usable: mutation and iteration. The following computes a factorial using a mutable variable:
+def factorial(n): p = 1 for i in range(2, n + 1): p = p * i return p
+The classic recursive OCaml version mirrors the mathematical definition:
+let rec factorialn = if n = 0 then 1 else n * factorial (n - 1)
+Functional-programming experts would usually write a tail-recursive version for performance:
+let factorialn =let rec loopacc = function | 0 -> acc |n -> loop (acc * n) (n - 1)in loop 1 n
+But OCaml is not as strict about functional style as some functional languages. We can mirror the Python implementation:
+let factorialn =let p = ref 1in fori = 2 to n do p := !p * i done; !p
+The difference is that we must explicitly state that p is mutable by making it a ref. The ! operator retrieves the current contents of the reference. This may look less pretty than Python, but it satisfies the principle that explicit is better than implicit.
+
+## Fixing Python?
+
+Realistically, it would be difficult to convince people to switch from Python to OCaml. If Python is used with learners, I suggest these guidelines:
+
+- For misspellings and type changes, introduce automated tests early. Teach function syntax before control structures. Mandate linters such as flake8, unit testing with pytest, and type hints from the beginning.
+- Avoid global variables and local variables accessed by nested functions as much as possible.
+- Treat lists and dictionaries as either immutable, or ensure there is exactly one active reference to them at all times.
+- Introduce higher-order programming anyway, because it is important. It may be better to let learners encounter Python-specific problems as they arise rather than turning an introductory course into a course on Python arcana.
+
+## Epilogue
+
+There are many scenarios where Python may be a better choice than OCaml. This article considers only the suitability of a language for introductory programming courses. The switch from C to Python helped a larger number of students get into programming. A switch from Python to a better-designed language could have a similar effect in the future.
+
+## Related Articles
+
+19 JunTeaching Python Through Play: KVS Computer Science PGT Training at IITGNOutreachTeacher Training

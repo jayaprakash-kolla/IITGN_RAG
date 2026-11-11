@@ -1,0 +1,173 @@
+#flags:
+
+Topic: Computational Thinking based on Geometry of Vegetables
+A case-study of 3030 STEM program episode
+
+Adithi Iyer, Akash Umaraliya, Ashutosh Bhakuni, Dinesh Rathod, Gaurav Yadav, Jay Thakkar,
+Jyoti Gupta, Manish Jain, Sarita Yadav, Satish Kumar, Tapas Hira
+Center for Creative Learning
+IIT Gandhinagar
+Gandhinagar, India
+cli@iitgn.ac.in
+
+Short Abstract
+In this paper, we discuss basic conceptual understanding and critical thinking of mathematics and science
+using vegetables. This content was broadcast live on youtube1 as 3030 STEM and was viewed by over 10
+Lakh2 viewers. Overall, the 26 episode online series had over 1 crore2 view count. Prime focus of 3030
+STEM was to:
+● Unlock the hidden mysteries, beauty and magic in Maths and Science that is all around us,
+● Make the curriculum more engaging, as suggested by National Education Policy 2020.
+● Make science and math education experiential and hands-on
+Vegetables and fruits like cucumber, carrot, okra, sweet lemon, and potato were used to study shapes
+like cylinder, cone, pyramids, spheres, and cube. Non-intuitive hands-on activities, like the peel of a slant
+cut on a bottle gourd forming a sinusoidal curve with area equal to 𝜋, area of a circle on a sweet lemon
+and on a flat plane being equal, making three equal volumed pyramids from a cubical piece of potato,
+gave the viewers a sense of wonder. Itempool3 was used to have a live Question and Answer type of
+interaction with the audience. The episode also contained open-ended homework/ assignments
+problems like carving out a 3D shape from a cucumber which looks like a triangle, circle and square when
+seen from different views. The engagement graph in Fig 4 shows that illustrations, live activities, stories,
+and homework problems can make online learning and teaching equally engaging and interesting.
+Section 1 Background:
+With the support of C.B.S.E and Vigyan Prasar, we at Center For Creative Learning, IIT Gandhinagar,
+conducted an online program - 3030 STEM. It aimed at discovering the beauty in Mathematics-Science
+and nurturing the inherent curiosity by engaging in hands-on activities. The pandemic bound students
+and teachers to their homes, and learning shifted from direct to the remote mode. Hence engaging the
+students became more challenging. Keeping in mind the suggestion of NEP 2020 about the use of
+Mother tongue /Regional Language, we conducted the one-hour sessions in Hindi for better
+understanding.
+1
+
+https://youtu.be/2aEGg5TMdHs
+This count includes the raw YouTube videos multiplied with the average number of people watching from each
+device or account, as determined from a poll conducted with the participants.
+3
+https://itempool.com/ccl/c/2We79fhvlOp
+2
+
+During the two seasons of the program, we broadcasted 26 episodes live on Youtube every Sunday.
+Instead of going from subject to object, in the episodes, we choose an object as a theme and explore
+various concepts in the curriculum in an interdisciplinary manner. These objects included a bicycle,
+candle, A4 paper, vegetables,water, cricket, etc. A total of 75 thousand homework submissions and over
+10 lakh comments from participants shows that students and teachers can be made more interested in
+math and science by designing hands-on activities from objects around them.
+Section 2 Implementation
+Content design plays an essential role in making classes engaging and interesting. Our years of
+experience of conducting over 150 workshops with 10,000+ teachers and 50,000+ teachers prompted us
+to keep in mind the following three dimensions while designing the outline of the session:
+● Breaking the subject boundaries and approaching the curriculum in an interdisciplinary manner.
+For example, we explored topics like Trigonometry, Calculus, Geometry, Sustainability, Nutrition,
+History, etc., using vegetables like cucumber, sweet lemon, lady finger, carrot, and potato.
+● Relating subjects with things in everyday life by hands-on activities, for example, understanding
+the projection of the earth's surface into a map using a sweet lemon.
+● Provoking a sense of wonder through stories and non-intuitive questions, thereby making an
+impact in our lives. For example, the story of Archimedes and his findings that a circle on a sweet
+lemon and a flat surface, both yield the same surface area, is very non-intuitive and gives a sense
+of wonder.
+This section illustrates the content in more detail:
+1. Sine wave in peel of the bottle gourd:
+● When we take a cylindrical piece of a bottle gourd, make an oblique(slant) cut across it
+we get an ellipse. Now, on removing its peel, we get a sinusoidal wave ( 1- cos(𝜃) to be
+precise, considering the base radius and height as 1). The area of this peel is 𝜋 which is
+the same as the base circle of this piece. Now, on cutting off the upper half of this gourd
+peel, we get a piece whose area is independent of 𝜋 and exactly equal to 1, which is
+non-intuitive (Fig 1(b)).
+
+Figure 1(a): Sine wave from the peel of slant cut bottle gourd
+
+Figure 1(b): Appearance and disappearance of 𝜋 from the area of peel
+●
+
+Now, if we make a cut from the middle of the base circle, we get a piece whose volume
+and area are independent of 𝜋. The fact that the area of a piece from a cylindrical solid is
+independent of 𝜋 gives a sense of wonder to the audience. Such non-intuitive activities
+make us think critically about concepts using computational thinking.
+
+2. Volume of pyramids using Cross-section of a potato:
+● Different cross-sections of a cube carved from a potato give various polygons i.e.,
+triangle, square, pentagon, and hexagon. A visual illustration4 showing formation of a
+regular hexagonal cross-section, was followed by an open-ended question of making a
+regular pentagonal cross-section if possible or proved otherwise.
+● In the curriculum, we have studied that the area of a pyramid is one-third the area of a
+cube through pictures of how these sections could be made. A puzzle of actually dividing
+this potato cube into three pyramidal pieces of equal volume gave everyone a hands-on
+practical understanding.
+● A lady finger could be used effectively in a classroom for visualization of pyramids with
+pentagonal and hexagonal pyramids. Tasks of looking for and finding lady fingers with
+heptagonal, octagonal, or any other polygon as a base motivated students to observe
+what they eat and extend a helping hand in the kitchen.
+3. Map distortion and comparing surface areas of cylinder-sphere using sweet melon:
+● Visual comparison of countries like Greenland and India in a 2D world map shows
+ambiguity in areas. This suggests that projections are distorted when taken from a
+sphere to a plane. A visual module and a live itempool question compared the actual
+areas of a country on a globe and on a 2D map. The story of Archimedes gives a very
+non-intuitive way of understanding this distortion. This is done by proving that the peel
+4
+
+https://www.geogebra.org/m/hawhwybp
+
+of slices of equal heights of a sphere has the same area irrespective of their latitude.
+These activities help us compare the actual area in the 2D projection of a globe.
+Additionally, the area of these peels is equal to the area of the peel of the cucumber/
+Bottle gourd with the same base radius and equal height.
+
+Figure 2: Slices with equal height of the sweet melon has same surface area
+●
+
+Another hands-on activity shows that the surface area of a circle on a sweet lemon is
+equal to the area of a circle on a flat surface. This activity can be used to derive the
+surface area of a sphere.
+
+Figure 3: Circle on a sphere and on a flat surface
+4. 3d geometry and visualization using cucumber:
+In 3D visualization of solids, high school students study how a solid will look from different directions.
+We tried to make this visualization even more interesting through a homework problem5. We asked the
+viewers to carve a 3D structure with three different shapes when viewed from three different directions,
+i.e., front, side, and top view. The feedback and answer submissions to these questions showed how
+creativity inspires learning.
+
+5
+
+Gardner, Martin. "Mathematical Puzzles and Diversions. The Second Scientific American Book."
+Academic Medicine 37.1 (1962): 84
+
+Hardware Setup:
+The minimal hardware requirement for conducting such sessions is a mobile phone and stable internet
+connection. However, we conducted the program for a large audience, and to have a full HD live stream
+on Youtube, we used an advanced hardware set up. This setup included a computer, two cameras, one
+monitor, a writing tablet, a stable internet connection, a microphone, and appropriate connectors. The
+software used for the streaming was OBS6, which allows the presenter to switch between different
+cameras and even overlay different layers of content. For example, the video feed can be the background
+layer, and an image, a file, or a screen can be an overlay that can be resized. This allowed the delivery to
+be highly interactive.
+Section 3 The Analysis
+Viewer Analysis:
+The registration count for the 3030 STEM program at the time of writing this paper was 5+ lakhs. The
+youtube analysis of concurrent viewers shows 100% engagement during the live session of the “Math in
+Vegetable” episode, as shown in figure 4.
+
+Figure 4: Engagement graph of viewers from YouTube analytics for vegetable math episode, 3030 STEM
+program
+The average view time of this episode is 10 mins which is exceptional for an educational session. The
+data shows that the audience today has an attention time of less than two minutes. Participants'
+feedback shows how they think about a problem for days and the sheer joy they get from getting an
+answer. This suggests that stories, real-life context, object-oriented and thought-provoking sessions, and
+interesting homeworks can bring back the true fun of learning. The quantitative data from YouTube
+analytics and the feedback, shows the success of these techniques.
+Section 4 Conclusion
+The overwhelming engagement and audience feedback of the episode shows that the online mode of
+learning could also be made engaging and interesting. This process of starting from a relatable object like
+vegetables and moving to the subject like maths, science, and history, triggers computational thinking.
+Our experience of working with teachers and students to develop hands-on activities, indicate that these
+
+6
+
+https://obsproject.com/
+
+techniques of designing a lesson and activities could help achieve the interdisciplinary approach giving
+learners a space to explore.
+
+Annexure:
+Homework Submitted - Puzzle of carving out a shape so that it looks like three shapes from different
+directions:
+
+Feedbacks of Participants:

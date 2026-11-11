@@ -1,0 +1,771 @@
+#flags:
+
+RESEARCH &
+DEVELOPMENT
+
+OCT - DEC 2024
+
+NEWS
+
+IIT GANDHINAGAR
+
+iitgn.ac.in/research/
+
+COVER STORY
+Towards the end of this quarter, IITGN hosted the Grande Finale of the Smart India Hackathon (Software Edition) 2024.
+Spread over 36 hours between the 11th and 12th of December, the finale saw the participation of 37 teams comprising
+250 students. The event was inaugurated by the Hon’ble Minister of Education, Shri Dharmendra Pradhan. Shri Sukanta
+Majumdar, Hon’ble Minister of State, was in attendance for the inauguration, along with Prof T.G. Sitharam, Chairman,
+All India Council for Technical Education (AICTE), Shri Sanjay Kumar, Secretary, Ministry of Education GoI, and Shri
+Sant Rajan, AVP & Head, R&D (Innovation), Godrej Appliances. Later in the course of the event, the Hon’ble Prime Minister Shri Narendra Modi addressed
+the participants and expressed his delight in witnessing so many young innovators contribute to society’s well-being. Ten teams were declared winners of
+the Hackathon, with a cash prize of 1 lakh for each of the 7 problem statements in the competition.
+
+PROJECT FUNDING
+PI/Mentor
+
+Discipline
+
+Project Title
+
+Agency Name
+
+Vellore Nandagopal
+Prabhakar
+
+Humanities and
+Social Sciences
+
+Water Management during the Solanki Period Gujarat: Analysis of the
+Water Bodies/Reservoirs and Religious Structures
+
+Adani Enterprises Limited
+
+Harish Palanthandalam
+Madapusi
+
+Mechanical
+Engineering
+
+Bi-Manual Manipulation Skills for Robots
+
+Addverb Technologies Limited
+
+Prachi Thareja
+
+Chemical
+Engineering
+
+Printing of Emulsion filled Hydrogels and Potential Application
+
+Council of Scientific & Industrial Research
+(CSIR), India
+
+Arpan Bhattacharyya
+
+Physics
+
+Development of Material Model for Foams Accounting for Rate and
+Damage Effects
+
+Defence Research and Development
+Organisation - Aeronautics R&D Board
+(DRDO- AR&DB)
+
+Yogesh Kumar Meena
+
+Computer Science
+and Engineering
+
+A Brain-Computer Interface Driven Mental Fatigue Monitoring System
+to Improve Stroke Rehabilitation Therapy
+
+Department for the Economy, Northern
+Ireland
+
+Nipun Batra
+
+Computer Science
+& Engineering
+
+exploreCSR: Bridging Digital Divides through Computing
+
+Google
+
+Alok Kumar Kanungo
+
+Humanities and
+Social Sciences
+
+Vadnagar Glass and its Role in Maritime Network: Phase 2
+
+Gujarat State Archaeology Department
+
+Alok Kumar Kanungo
+
+Humanities and
+Social Sciences
+
+Metallurgical Tradition of Vadnagar
+
+Gujarat State Archaeology Department
+
+Sameer Patel
+
+Civil Engineering
+
+An Urban Livability Index for Sustainable Environmental Monitoring of
+Indian Cities
+
+Higher Education Financing Agency (HEFA)
+
+Kabeer Jasuja
+
+Chemical
+Engineering
+
+Synthesizing Pristine Metal Diboride Nanosheets and their Nanoparticle
+Hybrids as Catalysts for Hydrogen Evolution and Nitrogen Activation
+
+Ministry of Education
+
+Sameer G Kulkarni
+
+Computer Science
+& Engineering
+
+Development of Quantum Machine Learning Use Cases and Applications
+
+Ministry of Electronics and Information
+Technology (MeitY)
+
+Emila Panda
+
+Materials
+Engineering
+
+Strain-induced Phase Transformation and Stabilization at Near Room
+Temperature: A Thermodynamic and Experimental Framework
+
+Science & Engineering Research Board Core Research Grant (SERB - CRG)
+
+Krishna Kanti Dey
+
+Physics
+
+Dynamics and Applications of Impulsive Enzymes in Crowded
+Intracellular Environments
+
+Science & Engineering Research Board Core Research Grant (SERB - CRG)
+
+Rupak Banerjee
+
+Physics
+
+Development of Lead-free Halide Perovskite-Based
+Thermoelectric Materials for Waste Heat Conversion
+
+Stable
+
+Science & Engineering Research Board Core Research Grant (SERB - CRG)
+
+Sudipta Sarkar
+
+Physics
+
+Testing the Nature of Compact Objects and Theories beyond General
+Relativity through Gravitational Wave Observations
+
+Science & Engineering Research Board Core Research Grant (SERB - CRG)
+
+Venkata Sriram Kanvah
+Gundimeda
+
+Chemistry
+
+Synthesis and Evaluation of Fluorescent Natural Products
+
+Science & Engineering Research Board
+- Teachers Associateship for Research
+Excellence (SERB-TARE)
+
+Vellore Nandagopal
+Prabhakar
+
+Humanities and
+Social Sciences
+
+Mapping of Archaeological Heritage of South Asia
+
+University of Cambridge
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Testing of Fire-rated 6mm Phenolic Resin Panel at FERL - P33
+
+Citizen Industries
+
+Venkata Sriram Kanvah
+Gundimeda
+
+Chemistry
+
+Synthesis of Industrially Relevant Products
+
+Classykem
+
+Atul Bhargav
+
+Mechanical
+Engineering
+
+Detailed Feasibility Study for Fuel Cell Based Regenerative Powerpack in
+High-Altitude Platforms
+
+Defence Research & Development
+Organisation (DRDO)
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Proof-checking of Design of Platform Boundary Wall at Gokulpuri Metro
+Station
+
+Delhi Metro Rail Corporation
+
+Vimal Mishra
+
+Civil Engineering
+
+Flood Management Study for Dholera City
+
+Dholera Industrial City Development
+Limited
+
+Manish Kumar
+
+Civil Engineering
+
+Development of Site-Specific Response Spectra and Compatible Ground
+Motions for The Site of a Major National Highway Authority of India
+Bridge in Kangra, Himachal Pradesh (Chainage: 188+885)
+
+Gawar Construction Limited
+
+Manish Jain
+
+Centre for Creative
+Learning
+
+Gujarat Council of Science City
+
+Gujarat Council Of Science City
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Testing of Fire-Rated Door at FERL - P30
+
+Hadid Products
+
+Ravi Sadananda Hegde
+
+Electrical
+Engineering
+
+Enhancing Productivity and Decision-Making in MSMEs through AIPowered Meeting Minutes
+
+Indian Institute of Technology Madras
+
+Soumyadip Sett
+
+Mechanical
+Engineering
+
+Exploring the Feasibility of Thermoelectric Cooling
+
+Ingersoll Rand (INDIA) Limited
+
+Sushobhan Sen
+
+Civil Engineering
+
+Study for Performance Efficacy Measurement of Mobile Quality Control
+Van Deployed by Ministry of Road Transport & Highways
+
+Ministry Of Road Transport & Highways
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Testing of Fire-Rated Metal Door at FERL - P34
+
+Omfurn India Limited
+
+Vimal Mishra
+
+Civil Engineering
+
+Groundwater Survey and Rainwater Harvesting Design for 50 MW
+
+Radiance Renewables Private Limited
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Testing of Fire-Rated Door at FERL - P32
+
+Shakti Hormann Private Limited
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Testing of Two Test Samples as Fire Rated Doors at FERL - P31
+
+Shakti Hormann Private Limited
+
+Udit Bhatia
+
+Civil Engineering
+
+Enhancing Flood Management through Inundation Mapping And Risk
+Assessment for Surat Conventional Barrage and Riverside Development
+
+Tapi Riverfront Development Corporation
+Limited
+
+S.R.Gandhi
+
+Civil Engineering
+
+Annual Ash Disposal Compliance Audit & Certification for Ash Pond
+
+Tata Power Company Limited Mundra
+
+Manish Jain
+
+Centre for Creative
+Learning
+
+Vellore Institute of Technology, Chennai
+
+Vellore Institute Of Technology, Chennai
+
+Manish Kumar
+
+Civil Engineering
+
+Safety Audit and Rehabilitation Planning of Railway Station Building at
+Lakhtar
+
+Western Railway
+
+Sameer Sahasrabudhe
+
+Design
+
+MahaSWAYAM Content Creation and Faculty Training
+
+Yashwantrao Chavan Maharashtra Open
+University, Nashik
+
+AWARDS AND FELLOWSHIPS
+Prof Rajat Moona, Director, IITGN, was awarded the
+prestigious ‘Institute Fellow’ Award 2023 by IIT Kanpur. This
+honour celebrates his outstanding contributions towards
+advancing education, research, and technology development.
+Prof Sivapriya Kirubakaran, Kankuben Bakshirambhai Gelot
+Chair Professor, Chemistry, was nominated for the Chirantan
+Rasayan Sanstha (CRS) Silver Award.
+Prof Uttama Lahiri, Professor, Electrical Engineering, along
+with IITGN alumni, Dr Deepesh Kumar and Dr Dhaval Solanki,
+and Prof Kunal Mankodia from The University of Rhode Island,
+USA, was awarded a three-year grant of $500,000 from the US
+National Science Foundation for their project titled ‘RE-GAIN: An adaptive,
+medical CPS platform integrating e-textile wearables, Virtual/Augmented
+Reality, and AI for stroke rehabilitation’.
+Prof Yogesh Meena, Assistant Professor, Computer Science,
+received the IEEE SMC24 Young Professional Grant at
+the IEEE International Conference on Systems, Man, and
+Cybernetics 2024.
+Prof Biswajit Mondal, Assistant Professor, Chemistry, received
+the prestigious Society for Materials Chemistry (SMC)
+Emerging Scientist Award 2024, conferred at the 10th DAE
+– BRNS Interdisciplinary Symposium on Materials Chemistry
+(ISMC2024) held between December 4-7, 2024.
+Prof Argha Manna, Artist-in-Residence, Humanities and
+Social Sciences, was selected as a Visiting Fellow of Asia,
+Guest Scholar/Artist Partnership Program by Notre Dame
+Global, University of Notre Dame.
+
+A
+research
+team
+including
+Ankita
+Raghuvanshi,
+PhD
+Scholar;
+Dr
+Priya
+Pallavi, Alumni; Paromita Mitra, PhD Scholar; Vaibhav Ramprasad
+Yadav, Senior Research Fellow; Prof Uttama Lahiri, Professor, Electrical
+Engineering; and Prof Manasi Kanetkar, Associate Teaching Professor won
+the prestigious Gandhian Young Technological Innovation-2023 (GYTI)
+Appreciation Award.
+‘Rahee’, a game developed by Prof Jyothi
+Krishnan, Assistant Teaching Professor, and
+Bhavya Agarwal, Toy and Game Designer, CCL,
+IITGN, was awarded the top prize in the ‘Game in
+Development’ category at the 18th European Conference for Game-Based
+Learning, held in Denmark.
+Akash Chandra, PhD Scholar, Biological Engineering,
+was awarded the CIRE Award from the Committee for
+International Research and Education (CIRE) of the Acoustical
+Society of America (ASA). The award includes a scholarship for
+his graduate research and a three-year membership as a Student member
+of the ASA.
+Haritha D, PhD Scholar, Chemistry, was awarded the prestigious
+Wenner-Gren Foundation Postdoctoral Fellowship.
+Rajdeep Singh Devra, PhD Scholar, Mechanical
+Engineering, was awarded the prestigious Startup Srujan
+Grant by i-Hub, Government of Gujarat, to further develop
+the innovation on the Filament-less Direct Nozzle 3D Printer
+(Golden Plastics). The grant will support his ongoing work in creating
+advanced waste recycling systems using 3D printing, building on his PhD
+research in additive manufacturing.
+
+Galanto Innovations, a startup incubated at the
+Innovation and Entrepreneurship Center (IIEC)
+at IITGN, founded by Dr Chandan Kumar Jha
+and Rupsha Mukherjee, has been honoured with
+the prestigious ‘Best Stroke Innovator of the Year’ Award at the Voice of
+Healthcare Stroke Innovations and Excellence Awards.
+Harsh Shah, our alumni and founder of AgroCast Analytics Pvt
+Ltd, incubated at IITGN Research Park, has been awarded the
+IEI Young Engineers Award in Civil Engineering 2024 by The
+
+Institution of Engineers (India) during the 39th National Convention of Civil
+Engineers in Kochi.
+IITGN has been conferred the CII Award
+for Industry-Academia Partnership as the
+Gold Winner in the Government Institute
+Category for 2024. This prestigious
+recognition is bestowed by the Confederation
+of Indian Industry (CII).
+
+CONTINUING EDUCATION PROGRAMME (IITGN-X)
+Event/Programme Name
+
+Event Date
+
+Discipline/Centre/Institute and Funding Agency
+
+Conference: Culinary Histories:
+Insights from South Asia
+
+October 5 - 6, 2024
+
+Organised by the Department of Humanities and Social Sciences (HSS) with sponsorship from the Indian
+Council of Historical Research (ICHR)
+
+Conference for Young Researchers
+(J-NOST)
+
+October 7 - 9, 2024
+
+Organised by the Department of Chemistry with oversight by the National Organic Symposium Trust (NOST)
+
+Training Program: Plant Tissue
+Culture and Transgenics
+
+October 14 - 25, 2024
+
+Organised by the Department of Biological Sciences and Engineering with funding from the Gujarat
+Biotechnology Research Centre (GBRC)
+
+Workshop: cNarmada
+Stakeholder Session
+
+October 22, 2024
+
+Organised by the Centre for Narmada River Basin Management (cNarmada)
+
+Workshop: Ceramic Thin Section
+Petrography and its Applications in
+Archaeology
+
+November 4 - 11, 2024
+
+Organised by the ASI Archeology Chair of the Department of Humanities and Social Sciences (HSS)
+
+Workshop: Application of GIS in
+archaeology and heritage
+
+December 2 - 6, 2024
+
+Organised by the Department of Earth Sciences
+
+Workshop: IITGN-KISEM Project
+Summit
+
+December 5 - 7, 2024
+
+Organised jointly by IITGN and Kotak-IIT Madras Save Energy Mission (KISEM)
+
+Conference: Compute and T4E
+
+December 5 - 8, 2024
+
+Organised by IITGN in association with ACM India and EdTech Society, and sponsorship from the National
+Programme on Technology Enhanced Learning (NPTEL) and IIT Madras Bachelor of Science (BS) Degree
+
+Conference: Chemical Catalysis
+Conference
+
+December 6 - 9, 2024
+
+Organised by the Department of Chemistry
+
+Short Course: AI Applications in Fire
+Dynamics
+
+December 9 - 13, 2024
+
+Organised by the Fire Engineering Research Laboratory (FERL), IITGN
+
+Workshop: Nanomaterials: Recent
+Advances and Future Prospects
+
+December 10 - 11,
+2024
+
+Organised by the Department of Chemical Engineering in collaboration with University of Miami’s College
+of Engineering
+
+Workshop: Wearable Robotics
+
+December 10 - 11,
+2024
+
+Organised jointly by the Department of Mechanical Engineering and the Department of Cognitive Science,
+with sponsorship from The Robotic Society of India (TRS), the Department of Biotechnology (DBT), and the
+Life Sciences Research Board (LSRB) of DRDO.
+
+Conference: Foundations of
+Software Technology and Theoretical
+Computer Science
+
+December 14 - 20,
+2024
+
+Organised by the Department of Computer Science and the Indian Association for Research in Computing
+Science (IARCS), in association with ACM India, and sponsorship from Google and Tata Consultancy Services
+(TCS).
+
+PATENTS
+Title of Invention
+
+Name of inventors
+
+Status
+
+A Chiral Non-Silyl Bicyclic Secondary Amine Catalyst For Asymmetric
+Transfer Hydrogenation
+
+Appayee, Chandrakumar; Kumar, Rohtash; Avinash, Avinash
+
+Filed
+
+A System For Adaptive Volume Control To Enhance Driver Attention
+
+Myers, Nitin Jonathan; Sunny, Meera Mary
+
+Filed
+
+A System And A Method To Print Mesh-Reinforced Concrete Structures
+
+Modi, Chandan; Kumar, Manish; Vadali, Venkata Madhukanth;
+
+Filed
+
+Phenothiazine-Based Molecules
+
+Kirubakaran, Sivapriya; Thiruvenkatam, Vijay; Rai, Gaurav; Bhanu Priya
+
+Filed
+
+Apparatus And Method For Wastewater Treatment
+
+Datta, Bhaskar ; Singh, Simranjit ; Takhar, Vishakha ; Banerjee, Rupak
+
+Filed
+
+Quinazoline-Based Atr Kinase Inhibitors And A Process For Their Preparation
+
+Kirubakaran, Sivapriya ; Bhagwat, Pranav Umesh
+
+Filed
+
+An Adaptive Battery Charging Optimization System
+
+Bharadwaj, Pallavi; Sachan, Paarth
+
+Filed
+
+Electrolysis Of Water
+
+Banerjee, Rupak; Takhar, Vishakha; Barman, Madhurima; Dutta, Arnab
+
+Filed
+
+Biaryl-Based Carbazoles For The Treatment Of Cancer And Preparation
+Thereof Via C-H Functionalization
+
+Kirubakaran, Sivapriya (IITGN); Dilip, Haritha (Iitgn); Babu,
+Arulananda (IISER Mohali); Kaur, Ramandeep (IISER Mohali);
+
+Filed
+
+MoUs
+
+NATIONAL CHANGHUA UNIVERSITY OF EDUCATION, TAIWAN
+Two MoUs were signed between the National Changhua University
+of Education, Taiwan and IITGN to promote academic exchange and
+cooperation in publications and information, participation in conferences,
+
+Srinivasarao
+
+and exchange for faculty and staff. A Student Exchange Program between
+the institutions is also being created.
+
+NATIONAL YANG MING CHIAO TUNG UNIVERSITY, TAIWAN
+Through an MoU to foster academic collaboration, National Yang Mang
+
+Chiao University and IITGN have agreed to create a Dual Degree program,
+enable faculty and staff exchange, and jointly appoint faculty, along with
+other academic exchange and cooperation.
+
+NATIONAL CHUNG CHENG UNIVERSITY, TAIWAN
+
+exchange program where ten students of either institution will be hosted at
+the partner institution.
+
+ACADEMY OF INNOVATIVE SEMICONDUCTOR AND SUSTAINABLE
+MANUFACTURING (AISM), NATIONAL CHENG KENG UNIVERSITY, TAIWAN
+
+IITGN and National Chung Cheng University in Taiwan are signatories to two
+MoUs that will facilitate partnerships in research and education ventures,
+such as collaborative research, resource sharing, and internship support.
+The institutions will soon begin a study abroad program where nominated
+students of either institution will be hosted at the partner institution for up
+to two semesters.
+
+AISM, National Cheng Keng University in Taiwan, and IITGN have signed
+two MoUs placing emphasis on collaborative research and education
+in semiconductor technologies, including manufacturing, testing, and
+sustainability. The two institutions will also establish a student exchange
+program where ten students will be hosted for a year.
+
+KING MONGKUT’S UNIVERSITY OF TECHNOLOGY THONBURI, THAILAND
+
+The Adani Group has pledged financial support for research activities
+at IITGN in Indology through a research grant named “Adani Indology
+Research Scholarship Program”. The grant will fund eligible PhD scholars,
+postdoctoral fellows, and faculty members for five years.
+
+IITGN has signed two MoUs with King Mongkut’s University Of Technology
+Thonburi in Thailand, fostering academic collaborations through the
+exchange of publications, faculty, and staff, and the creation of a student
+
+MAJOR FACILITIES
+
+HIGH-PERFORMANCE SERVER
+Model: Tyrone Camareo TDI100C3R-212
+The Server installed has two 3rd Gen Intel Xeon Scalable Processors and
+is powered by a 32GB Nvidia RTX 5000 ADA Graphics Processing Unit. The
+server has 256 GB RAM composed of sixteen DDR4 – 3200 ECC RDIMM units.
+The server is used for extensive data
+handling and analytics pertaining to
+ongoing research towards big data
+analysis and AI models for climate
+and hydrological science.
+The server is now installed in the server rack at the ELV Room (Main Server
+Room) in AB5-102. Please contact Prof Udit Bhatia (bhatia.u@iitgn.ac.in) for
+further details.
+
+INVERTED FLUORESCENCE MICROSCOPE
+Model: Lecica DM IL LED Fluo
+The Leica DMIL LED Inverted Routine Fluorescence Microscope comes
+with a fixed stage and includes a TL illumination column, with integrated
+HC Optics and LED Illumination for transmitted
+light (> 50.000 h lifetime). Features include an
+automatic brightness adjustment to contrast
+method and auto on/ off function, including
+integrated Fluorescence axis, manual shutter and
+a 3-fold filter slider. The 20 mm field of view, high stability and large working
+distances provide optimum microscopy conditions.
+The microscope is currently installed at AB6- 210A. For further information,
+please contact Prof Subramanian Sankaranarayanan (s.sankar@iitgn.ac.in)
+
+DIGITAL STORAGE OSCILLOSCOPE
+Model: Rigol DS70304
+The Rigol DS70304 is a high-performance digital oscilloscope designed for
+advanced signal analysis and debugging applications. Key features include
+four Analog channels, a Bandwidth of
+3 GHz, and a sample rate of 20 GSa/s for
+a single channel, and 10 GSa/s for all
+channels. The oscilloscope features a 2
+Gpts memory depth and 8-16 bit adjustable
+resolution for extensive data recording and
+
+ADANI ENTERPRISES PVT. LTD.
+
+jitter analysis. It includes a 15.6-inch HD multi-touch display for intuitive
+signal visualisation. Suitable for various applications, it supports real-time
+spectrum analysis, RF and high-speed analogue signal debugging, and jitter
+analysis across R&D and industrial settings.
+The instrument is now installed at the Emerging Devices and Systems
+Lab (EDSL), nanoDC Lab (AB13/310). Please contact Prof Sandip Lashkare
+(sandip.lashkare@iitgn.ac.in) for more information.
+
+LASER DIODE HEAD, HIGH-THROUGHPUT MULTICHANNEL EVENT TIMER &
+TCSPC UNIT MULTIHARP WITH SUBCOMPONENTS:
+Model: PicoQuant LDH-D-C-405 & PicoQuant Multiharp 450N
+The laser is a 405 nm fibre-coupled pulsed
+laser. This component is part of a setup used for photoluminescence lifetime
+measurement. The Multiharp is used for
+timetagging each photon. This component is
+part of a set-up used for photoluminescence
+lifetime measurement.
+They are installed at the Nanoplasmonics
+Research lab (AB 6/212). For further
+information, please contact Prof Saumyakanti
+Khatua (khatuask@iitgn.ac.in).
+
+DIAMOND ANVIL CELL
+Model: DACTools Diamond Anvil Cell
+The Symmetric DAC works with various optical spectroscopies, electric
+measurements, and X-ray techniques. With diamond culets <250 µm,
+diamond parallelism and alignment, it can reach megabar pressures.
+Pressure is controlled by four #10-32 / M5x0.8mm
+screws to minimise diamond rotation. Made
+from Stainless Steel 440C or Vascomax C-300/350
+superalloy hardened and tempered to HRc 56-58
+for optimal properties, it operates at cryogenic
+conditions as low as less than 4K as well as
+high temperatures with resistive heating. The
+equipment is used to explore material properties
+under high pressure.
+The cell is now installed at AB12/206. Please contact Prof Rajkrishna Dutta
+(raj.dutta@iitgn.ac.in) for further details.
+
+INDIAN INSTITUTE OF TECHNOLOGY GANDHINAGAR
+PALAJ, GANDHINAGAR, GUJARAT - 382 055

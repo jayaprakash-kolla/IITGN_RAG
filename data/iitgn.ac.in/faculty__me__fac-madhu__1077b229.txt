@@ -1,0 +1,41 @@
+Title: IIT Gandhinagar | Madhu Vadali
+Source: https://iitgn.ac.in/faculty/me/fac-madhu
+
+# Madhu Vadali
+
+-  Mechanical Engineering
+Madhu Vadali
+
+## Madhu Vadali
+
+Associate Professor, Mechanical Engineering
+
+- BE: Osmania University (MJCET), 2008
+- MS: University of Wisconsin - Madison, 2010
+- PhD: University of Wisconsin - Madison, 2013
+
+Email: madhu.vadali -AT- iitgn.ac.in
+
+ Website :  https://research.iitgn.ac.in/robotics
+
+Office:  AB 4/316
+VOIP:  2534
+
+- Tianheng Feng, Madhu Vadali,. Zheren Ma, Dongmei Chen, and Jason Dykstra; 2017, “A Finite Element Method with Full Bit-Force Modeling to Analyze Drillstring Vibration,” ASME Journal of Dynamic Systems, Measurement and Control 139(9), 091016, 10 pages, paper No: DS-16-1508; doi: http://dx.doi.org/10.1115/1.4036083.
+- Pfefferkorn, F.E., N.A. Duffie, X. Li, M. Vadali, C. Ma, 2013, “Improving surface finish in pulsed laser micro polishing using thermocapillary flow,” CIRP Annals - Manufacturing Technology, Volume 62, Issue 1, 2013, Pages 203–206, DOI: http://dx.doi.org/10.1016/j.cirp.2013.03.112.
+- Vadali, M., C. Ma, N.A. Duffie, X. Li, F.E. Pfefferkorn, 2013, “Effects of Pulse Duration on Laser Micro Polishing,” ASME Journal of Micro and Nano-Manufacturing (J. Micro NanoManuf. 1(1)), 011006 (Mar 25, 2013) (9 pages); Paper No: JMNM-12-1064; doi: http://dx.doi.org/10.1115/1.4023756.
+- Vadali, M., Ma, C., Duffie, N. A., Li, X., and Pfefferkorn, F. E., 2012, "Pulsed Laser Micro Polishing: Surface Prediction Model," SME Journal of Manufacturing Processes, 14(3), pp. 307-315, 08/2012; DOI: http://dx.doi.org/10.1016/j.jmapro.2012.03.001.
+- Madhu Vadali,. Yuzhen Xue, Xingyong Song, Jason Dykstra, 2015, “Control of Rotary Steerable Toolface in Directional Drilling”, ASME Dynamic Systems and Controls Conference, Paper No. DSCC2015-9857, Oct 28-30, Columbus, OH, USA, doi: 10.1115/DSCC2015-9857.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Nov 2024 to present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Dec 2017 - Nov 2024)
+- Principal R&D Engineer, Halliburton Global R&D (2016 - 2017)
+- Senior R&D Engineer, Halliburton Global R&D (2013 - 2016)
+
+- ● Soft Robotics
+- ● Multi Robotic Systems
+- ● Control systems
+- ● Dynamic systems
+- ● Laser based manufacturing
+
+Complete List of Publications

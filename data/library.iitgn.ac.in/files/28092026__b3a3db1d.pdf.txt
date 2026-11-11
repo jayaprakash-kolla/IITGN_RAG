@@ -1,0 +1,121 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 39, 2026
+(Added during 21st September – 25th September 2026)
+Available for the issue from 03rd October 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Software project management: a process-driven approach
+Author: Ahmed, Ashfaque
+Publisher: Boca Raton: CRC Press, 2021
+Call No.: 005.1068 AHM
+Acc. No.: 037318
+Title: Creative machines: AI, art & us
+Author: Ackerman, Maya
+Publisher: New Jersey: Wiley, 2026
+Call No.: 006.3 ACK
+Acc. No.: 037329
+
+PSYCHOLOGY
+Title: Eco-Freud from A to Z
+Author: Marder, Michael
+Publisher: London: Bloomsbury Publishing, 2025
+Call No.: 150.195 MAR
+Acc. No.: 037327
+
+SOCIAL SCIENCES
+Title: Voltage effect: how to make good ideas great and great ideas scale
+Author: List, John A.
+Publisher: Great Britain; Penguin Business, 2022
+Call No.: 300.72 LIS
+Acc. No.: 037324 & 037325
+Title: 100-year life: living and working in an age of longevity
+Author: Gratton, Lynda
+Publisher: London: Bloomsbury Publishing, 2020
+Call No.: 305.26 GRA
+Acc. No.: 037323
+Title: Healing of the lands: reflections & dialogues on the Naga repatriation
+journey
+Author: Kechu, Pangernungba (Ed.)
+Publisher: Dimapur: PenThrill Publications, 2025
+Call No.: 305.895954 KEC
+Acc. No.: 037351
+Title: History of economics: the past as the present
+Author: Galbraith, John Kenneth
+Publisher: London: Penguin Books, 2020
+Call No.: 330.09 GAL
+Acc. No.: 037326
+
+MATHEMATICS
+Title: Development of elliptic functions according to Ramanujan
+Author: Venkatachaliengar, K
+Publisher: Singapore: World Scientific Publishing, 2012
+Call No.: 515.983 VEN
+Acc. No.: 037322
+
+EARTH SCIENCE
+Title: Earth and life: a four billion year conversation
+Author: Knoll, Andrew H.
+Publisher: New Jersey: Princeton University Press, 2026
+Call No.: 551.7 KNO
+Acc. No.: 037321
+
+ZOOLOGY
+Title: Birds up close: an engineer explores their hidden wonders
+Author: Gibson, Lorna J.
+Publisher: Cambridge, Massachusettes: MIT Press, 2026
+Call No.: 598 GIB
+Acc. No.: 037320
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Introduction to microfluidics, 2nd ed.
+Author: Tabeling, P
+Publisher: Oxford: Oxford University Press, 2023
+Call No.: 629.8042 TAB
+Acc. No.: 037328
+
+HISTORY
+Title: Story of civilization, 9-Vol. Set, 27th ed.
+Author: Duran, Will
+Publisher: New Delhi: Cosmo Publications, 2023
+Call No.: 909 DUR
+Acc. No.: 037330 - 037350
+
+Title: Sapiens: a graphic history, Vol. 3: the masters of history
+Author: Harari, Yuval Noah
+Publisher: Dublin: Fern Press, 2024
+Call No.: 909 HAR
+Acc. No.: 037319
+
+CHILDREN COLLECTION
+Title: Geronimo Stilton: the kingdom of fantasy (1-7 Books)
+Author: Stilton, Geronimo
+Publisher: New York: Scholastic, 2003
+Call No.: 813.6 STI
+Acc. No.: CC2301 – CC2307
+Title: Geronimo Stilton: the kingdom of fantasy (8-13 Books)
+Author: Stilton, Geronimo
+Publisher: New York: Scholastic, 2003
+Call No.: 813.6 STI
+Acc. No.: CC2308 – CC2313
+Title: How the onion got its layers
+Author: Murty, Sudha
+Publisher: Gurugram: India Puffin, 2020
+Call No.: 823.914 MUR
+Acc. No.: CC2300
+Title: Big book of Gopi stories: the Gopi diaries
+Author: Murty, Sudha
+Publisher: Gurugram: HarperCollin's Children's Books, 2025
+Call No.: 823.92 MUR
+Acc. No.: CC2299

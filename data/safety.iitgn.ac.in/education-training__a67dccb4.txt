@@ -1,0 +1,48 @@
+Title: Education & Training | Centre for Safety Engineering (CSE)
+Source: https://safety.iitgn.ac.in/education-training
+
+# Safety-Related Courses
+
+To educate is the key to develop the resilience building in the field of safety. Therefore, IIT Gandhinagar runs courses reaching out to everyone to grasp something and have a cross-learning platform together. The short course along with the semester-long courses are held. the short courses are open for all whereas the semester courses are for the students.
+
+# Short Courses
+
+#### Design of RCC structure for Earthquake and Fire (As per NBC-2016)
+
+#### Design and Safety of Structures under Fire
+
+#### Soil-Structure Interaction: Computer Applications and Material Models
+
+#### Geotechnical Investigation for Structural Engineering
+
+#### Nuclear Reactor Thermal Hydraulics and Safety
+
+# Semester-Long Courses
+
+IIT Gandhinagar endeavours to develop and integrate safety-related courses into its graduate and undergraduate curriculum. Elective courses currently being offered are:
+
+## Introduction to Fire Engineering
+
+Introduced in the UG curriculum from 2012, this course was developed by Prof. Jim Milke (Professor and Associate Chair, Dept. of Fire Protection Engineering, University of Maryland), Dr. Pravin Gandhi (Director, Corporate Research, Underwriters Laboratories, Chicago) and Dr. Chinmay Ghoroi (Asst. Professor, IITGN) and was taught by Dr. Chinmay Ghoroi and Dr. Gandhi.
+
+## Fundamentals of Chemical Process Safety
+
+Introduced in the UG curriculum from 2013, this course was developed by Prof. Rajagopalan Srinivasan (Professor, IITGN), Prof. Sam Mannan (Director, MKO Process Safety Centre, Texas A&M University) and Dr. Chinmay Ghoroi (Asst. Professor, IITGN) and taught by Prof. Srinivasan and Dr. Chinmay Ghoroi. In addition to the fundamentals of Process Safety, students are familiarized with HAZOP analysis and Risk Assessment through their class project.
+
+## Structures Under Fire
+
+Prof. Gaurav Srivastava from Civil Engineering has developed a course on structural design for fire. The course covers design considerations for individual members exposed to fire: structural members in tension, compression, bending; provisions in Eurocodes and IS codes to ensure fire safety; behaviour of structural systems under fire; preventive/protective systems for structures.
+
+# SACHE Membership
+
+IIT Gandhinagar has become a member of the Safety and Chemical Engineering Education SACHE program of the American Institute of Chemical Engineers (AIChE). This program provides teaching material and programs that bring elements of process safety into undergraduate and graduate student curriculum. This membership provides IITGN students access to a wide range of educational materials prepared by AIChE’s Centre for Chemical Process Safety.
+
+# Summer-Winter Internship
+
+The students are provided with a wide range of options to choose if wished to persuade any research in the field of safety.
+
+# Fire Engineering Laboratory
+
+The Centre has inaugurated the Sir William Henry Merrill Fire Engineering Laboratory in collaboration with UL. The laboratory is set up to take a vigorous study in the broad perspective on fire.
+
+Click here to know more about Fire Engineering Laboratory.

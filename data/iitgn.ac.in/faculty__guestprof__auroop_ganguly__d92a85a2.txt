@@ -1,0 +1,125 @@
+Title: IIT Gandhinagar | Auroop R. Ganguly
+Source: https://iitgn.ac.in/faculty/guestprof/auroop_ganguly
+
+# Auroop R. Ganguly
+
+-  Guest Professors
+Auroop R. Ganguly
+
+## Auroop R. Ganguly
+
+Guest Professor, Civil Engineering
+Director, Sustainability & Data Sciences Lab (SDS Lab), Northeastern University
+
+Professor, Civil and Environmental Engineering and Affiliate Professor, Computer Science, Northeastern University
+(Joint) Chief Scientist, US DOE's Pacific Northwest National Laboratory
+Co-Founder and Chief Scientific Adviser, risQ Inc.
+BTech (Hons.): IIT Kharagpur, 1993
+MS: University of Toledo, Ohio, 1997
+PhD: Massachusetts Institute of Technology, 2002
+
+ Website :  https://coe.northeastern.edu/people/ganguly-auroop/
+
+Kodra, E., Bhatia, U., Chatterjee, S., Chen, S. and Ganguly, A.R., 2020. Physics-guided probabilistic modeling of extreme precipitation under climate change. Scientific Reports, Nature Research 10(1), pp.1-11.
+
+Konduri, V.S., Kumar, J., Hargrove, W.W., Hoffman, F.M. and Ganguly, A.R., 2020. Mapping crops within the growing season across the United States. Remote Sensing of Environment, 251, p.112048.
+
+Yadav, N., Chatterjee, S. and Ganguly, A.R., 2020. Resilience of urban transport network-of-networks under intense flood hazards exacerbated by targeted attacks. Scientific Reports, Nature Research, 10(1), pp.1-14.
+
+Bhatia, U., Sela, L. and Ganguly, A.R., 2020. Hybrid method of recovery: combining topology and optimization for transportation systems. Journal of Infrastructure Systems, ASCE, 26(3), p.04020024.
+
+Vandal, T., Kodra, E., Dy, J., Ganguly, S., Nemani, R. and Ganguly, A.R., 2018, July. Quantifying uncertainty in discrete-continuous and skewed data with Bayesian deep learning. In KDD 2018, Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 2377-2386).
+
+Vandal, T., Kodra, E., Ganguly, S., Michaelis, A., Nemani, R. and Ganguly, A.R., 2017, August. DeepSD: Generating high resolution climate change projections through single image super-resolution. In KDD 2017, Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1663-1672).
+
+Wang, D., Gouhier, T.C., Menge, B.A. and Ganguly, A.R., 2015. Intensification and spatial homogenization of coastal upwelling under climate change. Nature, 518(7539), pp.390-394.
+
+Ghosh, S., Das, D., Kao, S.C. and Ganguly, A.R., 2012. Lack of uniform trends but increasing spatial variability in observed Indian rainfall extremes. Nature Climate Change, 2(2), pp.86-91.
+
+Steinhaeuser, K., Chawla, N.V. and Ganguly, A.R., 2011. Complex networks as a unified framework for descriptive analysis and predictive modeling in climate science. Statistical Analysis and Data Mining, 4(5), pp.497-511.
+
+Kodra, E., Steinhaeuser, K. and Ganguly, A.R., 2011. Persisting cold extremes under 21st‐century warming scenarios. Geophysical Research Letters, 38(8).
+
+Ganguly, A.R., Steinhaeuser, K., Erickson, D.J., Branstetter, M., Parish, E.S., Singh, N., Drake, J.B. and Buja, L., 2009. Higher trends but larger uncertainty and geographic variability in 21st century temperature and heat waves. Proceedings of the National Academy of Sciences, 106(37), pp.15555-15559.
+
+Khan, S., Bandyopadhyay, S., Ganguly, A.R., Saigal, S., Erickson III, D.J., Protopopescu, V. and Ostrouchov, G., 2007. Relative performance of mutual information estimation methods for quantifying the dependence among short and noisy data. Physical Review E, 76(2), p.026209.
+
+Professor, Civil & Environmental Engineering, Affiliate Professor of Computer Science, and Director, Sustainability & Data Sciences Lab (SDS Lab), Northeastern University, Boston, MA (2011 to present)
+
+(Joint) Chief Scientist, US DOE's Pacific Northwest National Laboratory, Richland, WA, (2020 to present)
+
+Co-Founder and Chief Scientific Adviser, risQ Inc. Boston, MA (2014 to present)
+
+International Visiting Professor, Indian Institute of Technology Kharagpur (Jun 2018 – Jan 2021)
+
+Senior Scientist (Senior R&D Staff), Oak Ridge National Laboratory, Oak Ridge, TN (Sep 2004 - Aug 2011)
+
+Visiting Faculty, Civil & Environmental Eng., University of South Florida, Tampa, FL (Dec 2003 - Sep 2004)
+
+Senior Product Manager of Analytics & Strategy, Demantra Inc., subsequently acquired by Oracle Corporation, Cambridge, MA & Waltham, MA (Mar 2003 - Dec 2003)
+
+Product Manager of Demand Planning, Burlington, MA & Waltham, MA (1999 - 2003)
+
+Time Series Software Developer, Nashua, NH Oracle Corporation (1998 - 1999)
+
+Awards
+
+Constantinos Mavroidis Translational Research Award, College of Engineering, Northeastern University (2021)
+
+Best Student Paper Award, (PhD student Nishant Yadav), Fragile Earth (“Feed”) Workshop held with 2020 ACM Knowledge Discovery and Data mining (KDD) (2020)
+
+1st Place Poster Presentation, (PhD student Venkata Shashank Konduri), Hydrology Section, American Meteorological Society 100th Annual Meeting, Boston, MA (2020)
+
+Best Poster Award, Society for Risk Analysis, awarded to PNNL PI (Chatterjee) for joint project on infrastructure resilience: PNNL, Northeastern, RPI, IIT-GN, VOLPE (2020)
+
+Fellow, American Society of Civil Engineers (ASCE) (2019)
+
+Invited Keynote, National Academies Workshop: Data, Models, Urban Sustainability. (2019)
+
+Senior Member, Institute of Electrical and Electronics Engineers (IEEE) (2018)
+
+Runner-Up Best Paper Award and Runner-Up Best Student Paper Award (to PhD student Vandal), KDD 2017 Applied Data Science Track, ACM SIGKDD Knowledge Discovery and Datamining Conference (8.8% acceptance rate for paper acceptance as an oral presentation in Applied Data Science track) (2017)
+
+First Prize (to PhD student Jalalzadeh-Fard), American Geophysical Union (AGU) Virtual Poster Presentation (with a special note from the CEO of AGU) (2017)
+
+Excellent Youth Paper Award Candidate (to PhD student Bhatia), US National Academy of Engineering & Chinese Academy of Engineering organized International Conference on Sustainable Infrastructure, Shenzhen, China (2016)
+
+ERL Highlights of 2015, for Environmental Research Letters paper (2015)
+
+Outstanding Reviewer, American Society of Civil Engineers 2011)
+
+Faculty Fellow, Northeastern University, College of Engineering (2011)
+
+Best Student Paper Award, SIAM Data Mining (2011)
+
+AGU Editor’s Pick, American Geophysical Union, for GRL journal paper (2011)
+
+Research Highlight in journal Nature, for GRL journal paper (2011)
+
+Research Highlight in journal Nature Climate Change, for GRL journal paper (2011)
+
+Outstanding Joint/Adjunct/Research Faculty Award, U. TN, Knoxville, CEE. (2010)
+
+Best Paper Award, NASA Conference on Intelligent Data Understanding (2010)
+
+Significant Event Award, Oak Ridge National Laboratory (ORNL), U.S. Department of Energy (US DOE). (Novel analysis of new Climate model simulations.) (2010)
+
+Best Doctoral Student Award for PhD Co-Advisee and ORNL Mentee (2010)
+
+Best Student Paper Award, ACM KDD Sensor-KDD Workshop (2010)
+
+Significant Event Award, ORNL, US DOE. (Science Lead from ORNL for an international climate change war game.) (2009)
+
+Exceptional Mentoring, ORNL, US DOE. (2009)
+
+Significant Event Award, ORNL, US DOE. (Co-PI and Task Lead on DARPA project on systematic evaluation of human behavior modeling.) (2009)
+
+Outstanding Mentor Award, US DOE. (2008)
+
+Outstanding Mentor Award, ORNL, US DOE. (2006)
+
+Selfless Mentoring Award, ORNL, US DOE. (2006)
+
+- ● Water & Climate Science
+- ● Data & Network Science
+- ● Infrastructure Resilience

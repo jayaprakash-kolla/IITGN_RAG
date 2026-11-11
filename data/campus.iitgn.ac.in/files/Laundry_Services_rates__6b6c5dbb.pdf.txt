@@ -1,0 +1,178 @@
+#flags:
+
+Rates for walk-in service and for student service outside regular semester days and for
+items not included in regular service
+
+Ser Item
+
+Washing
+
+Ironing
+
+Total Price
+(Washing + Ironing)
+
+1
+
+Trousers
+
+5
+
+5
+
+10
+
+2
+
+Shirt
+
+5
+
+5
+
+10
+
+3
+
+Short/ T-shirt
+
+5
+
+5
+
+10
+
+4
+
+Bed Sheet:- single
+Double)
+
+4
+7
+
+6
+7
+
+10
+14
+
+5
+
+Pillow Cover
+
+-
+
+-
+
+5
+
+-
+
+-
+
+10
+5
+
+6
+Towel Big Towel small
+7
+
+Curtains Small
+
+-
+
+-
+
+20
+
+8
+
+Curtain Big
+
+-
+
+-
+
+40
+
+9
+
+Woolen Sweater
+
+-
+
+-
+
+60
+
+-
+
+-
+
+70
+150 (dry clean)
+
+10
+Jackets
+11
+
+Blazer (dry cleaning)
+
+-
+
+100
+
+12
+
+3 piece suit men (suit +
+half jacket + trouser)
+
+-
+
+170
+250 (dry Clean)
+
+13
+
+Sari
+
+14
+
+Sari (dry cleaning)
+
+-
+
+-
+
+80
+
+15
+
+Silk Sari (dry cleaning)
+
+-
+
+-
+
+120
+
+-
+
+-
+
+30
+100
+
+16
+
+40
+
+Suits (Ladies)
+17
+
+Blanket (dry clean):Single bed Double bed
+
+-
+
+120
+180

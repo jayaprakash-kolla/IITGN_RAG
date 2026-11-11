@@ -1,0 +1,116 @@
+Title: CSE @ IIT Gandhinagar
+Source: https://cse.iitgn.ac.in/
+
+Indian Institute of Technology Gandhinagar
+
+# Computer Science& Engineering
+
+ We teach and study computer science at IIT Gandhinagar, from algorithms and computer systems to artificial intelligence.
+
+Explore our researchMeet our facultyJoin us at IIT GandhinagarCSE · Class of 2026
+1 / 2
+
+Research at CSE
+
+## Research areas
+
+ Find faculty, topics, and selected work in each area. Many faculty work across these areas.
+
+01
+
+## Theory
+
+Algorithms, complexity, combinatorics, and the mathematical foundations of computation.
+ Faculty and research
+02
+
+## Systems
+
+Computer architecture, networks, distributed systems, software engineering, security, and privacy.
+ Faculty and research
+03
+
+## AI & Machine Learning
+
+Machine learning, natural language processing, computer vision, data science, and human–computer interaction.
+ Faculty and research
+
+## Department news
+
+All news
+
+May 2026 · research
+
+### ThermEval accepted at KDD 2026
+
+A Sustainability Lab benchmark evaluates vision-language models on thermal imagery, extending CSE work on robust AI for sensing and climate applications.
+
+May 2026 · research
+
+### Undergraduate-led NILMBench2026 accepted at BuildSys 2026
+
+Second-year undergraduates led a reproducible benchmark for energy disaggregation, continuing the department focus on deployable AI systems.
+
+Feb 2026 · research
+
+### CVIG Lab work on AI-assisted pollen classification receives coverage
+
+The project combines scanning electron microscopy and vision transformers to classify pollen grains, with coverage in science and education outlets.
+
+## Latest seminars
+
+All talks
+ 10 Sep 2026 · 5:00 pm IST
+
+### Forbidden Structures; Two Landmarks in Graph Colouring
+
+ Dr. Vineeth Chintala
+
+ 9 Sep 2026 · 3:30 pm IST
+
+### Data Centers: The Factories of the Digital Age
+
+ Mr. Ambarish Ojha
+
+ 27 Aug 2026 · 2:30 pm IST
+
+### Invited talk: verification of safety-critical software
+
+ Dr. Ranjani Krishnan · Vikram Sarabhai Space Centre, ISRO
+
+ 20 Aug 2026 · 11:30 am IST
+
+### From Inside-Out to Outside-In Learning in the age of LLMs and AGI
+
+ Mr. Arnav Gupta · Meta
+
+Department events
+Browse the archive
+17 Jun 2026
+
+### Theory Day: Foundations of Computer Science
+
+9 Apr 2026
+
+### Cybersecurity Workshop on Strengthening IT/OT and Financial Sector Security through Collaboration
+
+Our community
+
+## Awards & fellowships
+
+All awards & fellowships
+
+16 September 2026
+
+### Arjun Badola and Dikshit Hegde win QIF India 2026
+
+Arjun Badola and Dikshit Hegde have won the Qualcomm Innovation Fellowship India 2026 for their proposal on transparent 3D Gaussian splatting, advised by Prof. Shanmuganathan Raman.
+Read more
+
+3 August 2026
+
+### Ayush Shrivastava and Rohit Narayanan selected for TCS PhD fellowships
+
+Ayush Shrivastava and Rohit Narayanan have been selected for the TCS Research Scholar Program, Cycle 20, with fellowships effective 1 July 2026.
+Read more
+Three CSE PhD students receive IndiaAI PhD FellowshipsJun 2026Himanshu Beniwal receives Microsoft Research India PhD Award and Fulbright-Nehru Fellowship2025-26Anirban Dasgupta receives ACM STOC 10-year Test of Time Award2024

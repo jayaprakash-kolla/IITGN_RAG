@@ -1,0 +1,92 @@
+Title: Library | IIT Gandhinagar
+Source: https://library.iitgn.ac.in/opentextbooks.php
+
+# Open Textbooks Resources
+
+Open Textbooks
+Search Engines for Open Textbooks
+Evaluating Open Textbooks
+
+“An ‘open’ textbook is a textbook created using an open copyright license, like Creative Commons, and shared with no or low cost at the point of use for students, teachers and members of the public” (source)
+
+The following are some of the Open TextBook Project’s worth exploring:
+
+American Society for Engineering Education - Open Text Books
+The American Society for Engineering Education (ASEE) actively supports and promotes the use of Open Textbooks and Open Educational Resources (OER) in engineering education
+
+American Institute of Mathematics (AIM)- Open Textbook Initiative
+The American Institute of Mathematics (AIM) seeks to encourage the adoption of open source and open access mathematics textbooks. The AIM Editorial Board has developed evaluation criteria to identify the books that are suitable for use in traditional university courses.
+
+OpenStax
+Launched in 2012 by Rice University in Houston, Texas. Available both in digital and print formats. You can view online or download. Being used in 70% of college and universities in the U.S. and over 150 countries The library has grown to over 60 books for college and high school courses.
+Subjects: Business, College Success, Computer Science, Humanities, Math, Nursing, Science, Social Sciences.
+
+Open Textbook Library (Open Education Network)
+Collectively, by more than 600 institutions (Initiated by University of Minnesota). Implementing open education engagement and training programs since 2014. Resources include textbooks, lectures, course materials, and more. Affordable, Equitable, Sustainable.
+Subjects: Business, Comp. Sci, Education, Humanities, Maths, Natural Sci, Law, Engineering, Medicine, Journalism and more
+
+MERLOT Open Textbooks
+The MERLOT project began in 1997, when the California State University Center for Distributed Learning (CSU-CDL at www.cdl.edu) developed and provided free access to MERLOT (www.merlot.org). The MERLOT system provides access to curated online learning and support materials and content creation tools, led by an international community of educators, learners and researchers.
+
+Milne Open TextBook
+Operated by Milne Library at the State University of New York (SUNY) Geneseo, started in 2012. Holds more than 50 open-access textbooks. Accessible online and are available for download in various digital formats. In 2020, the project's name was changed to Milne Open Textbooks when the Open SUNY initiative transitioned to SUNY Online.
+ Subjects: including but not limited to humanities, social sciences, sciences, and mathematics.
+
+LibreTexts
+17 subject field libraries available; Over 2000 textbooks for various courses. Ability to remix multiple different textbook chapters from different books and your own material to make a custom textbook.
+
+OERTX
+OERTX Repository is a public digital library of open educational resources for higher education. Search collections or create and collaborate to improve instruction; it is developed by Texas Higher Education Coordinating Board. The mission of the Texas Higher Education Coordinating Board is to serve as a resource, partner, and advocate for Texas higher education, resulting in a globally competitive workforce that positions Texas as an international leader..
+
+BCcampus OpenEd
+Initiative based in and funded by British Columbia, Canada. Announced in 2012 at the annual OpenEd conference in Vancouver. Open textbooks aligned with the top 40 highest-enrolled subject areas in the province. Later included trades, technology, and skills training
+
+Open Library Ontario
+The library was launched in 2017 in partnership with BCcampus. A product of the Open Publishing Infrastructure Project – a collaborative effort between eCampusOntario and Ryerson University. Access to more than 1,700 free and openly-licensed educational resources
+
+Open Textbook Initiative (RMIT)
+Initiative by RMIT (Royal Melbourne Institute of Technology) in 2014. Aims to create a consortium of OER librarians
+
+MIT Open Textbooks
+MIT Open Textbooks refers to the availability of educational materials, including textbooks, from MIT courses that are freely accessible online. These materials are part of MIT OpenCourseWare (OCW), an initiative that publishes course content from MIT's undergraduate and graduate programs. MIT Open Textbooks are licensed under Creative Commons, allowing for free use, adaptation, and distribution..
+
+The following are some of the Search Engines for Open TextBook's :
+
+OAPEN
+ OAPEN works with publishers to build a quality controlled collection of open access books, and provides services for publishers, libraries and research funders in the areas of deposit, quality assurance, dissemination, and digital preservation.
+
+OASIS
+ Openly Available Sources Integrated Search (OASIS) is a search tool that aims to make the discovery of open content easier. OASIS currently searches open content from 132+ different sources and contains 447,775+ records. OASIS is being developed at SUNY Geneseo's Milne Library.
+
+Directory of Open Access Books (DOAB)
+ Directory of Open Access Books (DOAB): The Directory of Open Access Books (DOAB) was established by OAPEN Foundation in 2012, in close cooperation with the Directory of Open Access Journals (DOAJ) & SemperTool. DOAB is a community-driven discovery service that indexes and provides access to scholarly, peer-reviewed open access books and helps users to find trusted open access book publishers
+
+The Mason OER Metafinder
+ Helps you find Open Educational Resources. Launches a real-time, simultaneous search across 22 different sources of open educational materials as you hit the Search button
+
+When evaluating open textbooks, consider the following checklist:
+
+- Accuracy:
+
+- Is the content reliable and factually correct?
+- Are there any significant mistakes, missing information, spelling, or grammatical issues?
+- Relevance:
+- Does the material align with the learning objectives of the course?
+- Production Quality:
+
+- Is the content presented in a clear and comprehensible manner?
+- Is the interface or layout user-friendly and easy to follow?
+- Do the design elements support and enhance the learning experience?
+- For multimedia resources, is the audio or video quality adequate?
+- Accessibility:
+
+- Is the content provided in multiple formats (e.g., Word documents)?
+- Do audio or video materials include features like transcripts or subtitles for better accessibility?
+- Interactivity:
+
+- Does the resource promote student engagement and active participation?
+- Are there tools or features that allow learners to assess their understanding (e.g., interactive videos with questions)?
+- Licensing:
+
+- Is the material covered under a license that permits educational use?
+- Does the license allow users to adapt or modify the content for different teaching contexts? (Ref: https://libguides.murdoch.edu.au/oer/evaluatingoers)

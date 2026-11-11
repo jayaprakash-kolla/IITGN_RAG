@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Nihar Ranjan Mohapatra
+Source: https://iitgn.ac.in/faculty/ee/fac-nihar
+
+# Nihar Ranjan Mohapatra
+
+-  Electrical Engineering
+Nihar Ranjan Mohapatra
+
+## Nihar Ranjan Mohapatra
+
+Professor, Electrical Engineering
+
+- BE: VSSUT , Odisha, 1998
+- PhD: IIT Bombay, 2003
+
+Email: nihar -AT- iitgn.ac.in
+
+ Website :  http://people.iitgn.ac.in/~nihar/
+
+Office:  AB 13/327D
+VOIP:  2420
+
+- Mohit D. Ganeriwala, Francisco G. Ruiz, Enrique G. Marin, Nihar R. Mohapatra, “A Compact model for the III-V Nanowire electrostatics including band non-parabolicty”, Journal of Computational Electronics, Accepted.
+- Apoorva Ojha and Nihar R. Mohapatra, “A computationally efficient quantum-corrected Poisson solver for accurate device simulation of multi-gate FETs”, Solid State Electronics, Vol. 160, October 2019.
+- Sangya Dutta, Tanmay Chavan, Nihar R. Mohapatra and Udayan Ganguly, “Electrical Tunability of Partially Depleted Silicon on Insulator (PD-SOI) Neuron”, Solid State Electronics, Vol. 160, October 2019.
+- Rohit Dawar, Samit Barai, Pardeep Kumar, Babji Srinivasan and Nihar R. Mohapatra, “Random forest based robust classification for lithographic hotspot detection”, Journal of Micro/Nanolithography, MEMS, and MOEMS, Apr. 2019.
+- Mohit D. Ganeriwala, Francisco G. Ruiz, Enrique G. Marin, Nihar R. Mohapatra, A Compact Charge and Surface Potential Model for III-V Cylindrical Nanowire Transistors, IEEE Transaction on Electro Devices (IEEE TED), Vol. 66, Issue 1, pp. 73, 2019.
+- Mandar Bhoir, Yogesh Singh Chauhan and Nihar R. Mohapatra, Back-gate Bias and Substrate Doping influenced Substrate Effect in UTBB FD-SOI MOS Transistors: Analysis and Optimization Guidelines, IEEE Transaction on Electro Devices (IEEE TED), Vol. 66, Issue 2, pp. 861, 2019.
+
+- Professor, Indian Institute of Technology, Gandhinagar, (Feb 2020 - Present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar, (Nov 2015 - Feb 2020)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar, (July 2011 - Nov 2015)
+- Member of Technical Staff, GLOBALFOUNDRIES, Dresden, Germany (Feb 2009 - Jun 2011 )
+- Sr. Technology and Integration Engineer, Advanced Micro Devices (AMD), Dresden, Germany (Oct 2006 - Jan 2009)
+- Member of Scientific Staff, IHP Microelectronics, Frankfurt (Oder), Germany (Jul 2003 - Sep 2006)
+- Graduate Engineer, Larsen and Tubro Ltd, Chennai, India (July 1998 - May 1999)
+
+- ● Nano-scale devices physics
+- ● Device and circuit interaction in advanced devices
+- ● Reliability of semiconductor devices
+- ● Compact modeling
+- ● Computational lithography
+- ● Analog IC design
+
+Complete List of Publications

@@ -1,0 +1,53 @@
+Title: IIT Gandhinagar | Sharad Gupta
+Source: https://iitgn.ac.in/faculty/bioe/fac-sharad
+
+# Sharad Gupta
+
+-  Biological Sciences and Engineering
+Sharad Gupta
+
+## Sharad Gupta
+
+Professor, Biological Sciences and Engineering
+
+- MSc(Integrated, 5yr.): IIT Kanpur, 2003
+- PhD: University of Pittsburgh, 2009
+
+Email: sharad -AT- iitgn.ac.in
+
+ Website :  http://sharad.people.iitgn.ac.in/
+
+Office:  AB 6/327A
+VOIP:  2440
+
+Joshna Gadhavi, Sumedha Shah, Tulika Sinha, Alok Jain and Sharad Gupta, “Charge neutralization of lysine via carbamylation reveals hidden aggregation hot-spots in tau protein flanking regions” The FEBS Journal, 2021, https://doi.org/10.1111/febs.16284
+
+Chinmaya Panda, Clara Voelz, Pardes Habib, Christian Mevissen, Thomas Pufe, Cordian Beyer, Sharad Gupta, Alexander Slowik*, “Aggregated tau-PHF6 (VQIVYK) potentiates NLRP3 inflammasome expression and autophagy in human microglial cells” Cells 2021, 10(7), 1652; https://doi.org/10.3390/cells10071652,
+
+Hivare, Pravin; Rajwar, Anjali; Gupta, Sharad and Bhatia, Dhiraj, “Spatiotemporal dynamics of endocytic pathways adapted by small DNA nanocages in model neuroblastoma cell-derived differentiated neurons”, ACS Applied Bio Materials, 2021, DOI: 10.1021/acsabm.0c01668.
+
+Marapureddy, Sai Geetha; Hivare, Pravin; Sharma, Aarushi; Chakraborty, Juhi; Ghosh, Sourabh; Gupta, Sharad and Thareja, Prachi, “Rheology and direct write printing of chitosan - graphene oxide nanocomposite hydrogels for differentiation of neuroblastoma cells”, Carbohydrate Polymers, 2021, DOI: 10.1016/j.carbpol.2021.118254, vol. 269.
+
+Hivare, Pravin; Panda, Chinmaya; Gupta, Sharad and Bhatia, Dhiraj, “Programmable DNA nanodevices for applications in neuroscience”, ACS Chemical Neuroscience, 2021, DOI: 10.1021/acschemneuro.0c00723.
+
+Mudasir Maqbool, Joshna Gadhavi, Pravin Hivare, Sharad Gupta and Nasimul Hoda, “Diphenyl triazine hybrids inhibit α-synuclein fibrillogenesis: Design, synthesis and in vitro efficacy studies” European Journal of Medicinal Chemistry, 2020, DOI: 10.1016/j.ejmech.2020.112705, vol. 207, 112705.
+
+Guru Krishnakumar, V.; Baweja, Lokesh; Ralhan, Krittika and Gupta, Sharad, “Carbamylation promotes amyloidogenesis and induces structural changes in Tau-core hexapeptide fibrils”, Biochimica et Biophysica Acta (BBA) - General Subjects, 2018, DOI: 10.1016/j.bbagen.2018.07.030, Vol.1862, No.12, pp. 2590-2604.
+
+Ralhan, K.; Guru Krishna Kumar, V.; Gupta. S. "Piperazine and DBU: a safer alternative for rapid and efficient fmoc deprotection in solid phase peptide synthesis." RSC Advances,2015, 5, 104417-104425. DOI: 10.1039/C5RA23441G.
+
+Professor, Indian Institute of Technology Gandhinagar (Dec 2025 to present)
+
+Associate Professor, Indian Institute of Technology Gandhinagar (Feb 2019 to Dec 2025)
+
+Assistant Professor, Indian Institute of Technology Gandhinagar (July 2012 to Jan 2019)
+
+Post Doctoral Fellow, Department of Chemical and Biomolecular Engineering, University of Delaware (Aug 2010 - June 2012)
+
+Post Doctoral Researcher, Department of Chemistry, Temple University (Sept 2009-July 2010)
+
+- ● Protein aggregation and their role in neurodegenerative disorders
+- ● Role of post translational modifications on protein aggregation and toxicity
+- ● Peptides as molecular probes / therapeutics in Alzheimer's disease and related disorders
+- ● Role of proteomics in understanding the effect of disease modifying therapies
+- ● Difficult peptide synthesis and novel scaffolds

@@ -1,0 +1,472 @@
+Title: Library | IIT Gandhinagar
+Source: https://library.iitgn.ac.in/faqs.php
+
+## Frequently Asked Questions
+
+- General Information
+- Borrowing & Other Services
+- Library Resources
+- Using Technology in the Library
+- Staff, Employment, and Assistance
+- Research Assistance
+- Off-Campus and Other Libraries
+- Faculty FAQs
+- Other General Questions
+
+Where is the Library located?
+
+ - Main Library, Block 13
+ - Mini Library, an extension of the Library, is located in Emiet Hostel.
+
+What are the Library hours?
+
+ Find the Library hours here. This is subject to change based on the severity of the pandemic prevalent at any given time and the Institute Regulations in force from time to time.
+
+Can I bring my personal books/notebooks to the Library?
+
+Yes, you may bring your personal books/notebooks to the Library under your care.
+
+Are food and beverages allowed in the Library?
+
+- Outside food and beverages are not allowed inside the Library. You may carry your water bottle.
+- Library provides hot water and green tea bags for the users. One must carry their mug for prevailing this service.
+Can mobile phones be used in the Library?
+
+The audible use of mobile phones in the library premises is highly discouraged.
+
+Does the Library provide any orientation program to the fresher?
+
+Yes, the Library at the Institute offers an orientation program to the students and others at the beginning of every academic year and also on demand from a group of students. Write to [email protected] for more details.
+
+I am a new student/staff/faculty member. How do I get the library membership card?
+
+You have to apply for the library membership by filling out the membership form. Institute identity card acts as the library card. Visit https://library.iitgn.ac.in/brrr.php for more details.
+
+I am a visitor or general member of the public. Is it possible for me to use your Library?
+
+- For those related to IITGN faculty/staff/students, they may apply for Family Membership.
+
+ - External users may apply for Individual membership, which will be granted if their research interests align with that of the Institution.
+
+- Visitors are welcome to visit the library. It is advised that they may take a prior permission by writing at [email protected].
+
+Are there any group study areas in the libraries?
+
+Yes. Refer to here.
+
+Can I leave my belongings (laptop, notebooks, water bottle, etc.) overnight in the library?
+
+No, we highly discourage leaving personal belongings in the library for long period of time. Library team is not liable for any loss/damage to the personal belongings of a user in the Library.
+
+What is the procedure of donating books to the Library?
+
+Inside the Library.
+
+Do I need an IITGN ID card to borrow?
+
+ Yes, the IITGN ID card is mandatory for borrowing any physical resource from the Library. For external members, you must carry the IITGN Library Card provided to you.
+
+How can I get Institute ID card RFID enabled?
+
+ Leave your IITGN card with staff on duty at the circulation desk with a request, and your card will be RFID enabled.
+
+How can I borrow books using an RFID kiosk?
+
+ - Click on 'Issue' on the screen.
+ - Tap your Institute ID card/ Library Card against the card reader on the machine.
+ - Type your account password on the screen (Contact circulation desk if you do not know your password).
+ - Place the books (one at a time in case of thicker books) on the scan bed. Make sure all the book details show up on the screen.
+ - Click on ‘Done’ and collect the receipt, with all associated details of the check-out including due date. An email will also reach your registered email address.
+
+How can I return books using an RFID kiosk?
+
+ - Click on ‘Return’ on the screen.
+ - Place the books (one at a time in case of thicker books) on the scan bed. Make sure all the book details show up on the screen.
+ - Click on ‘Done’ and collect the receipt, with all associated details of the check-in including due date. An email will also reach your registered email address.
+
+What is the purpose of the gates at the entrance of the Library?
+
+The RFID security gates are placed to ensure that all library books are issued properly before leaving the library premises. The gates alerts whenever a book is being taken out without being issued to a patron. It also records gate counts or footfalls.
+
+What are vacation issues?
+
+Student members, except those completing their final semester program, can borrow books during the vacation period as per the entitlement. Vacation issues (only books) will be issued two days before the Winter/Summer Vacation and due date for these books will be two days from the day when semester begins. There will be an announcement to this effect as we are near to vacation.
+
+Can I check out periodicals or reference books?
+
+All periodicals (except the latest issue) can be borrowed for 5 days.
+ However, reference books are not allowed to be borrowed. They are to be referred to within the library premises. Kindly refer to the borrowing privileges given under the library services.
+
+Can I recall an item that is currently checked out?
+
+No, not in ordinary situations. However, you may reserve it for yourself. For very urgent requirements, you may write to [email protected].
+
+Can I put a book on hold which is issued to me?
+
+We discourage placing hold on a book issued to self, as that hurts the chances of other users to get it.
+
+How many books & other reading materials can I check out at a time, and for how long?
+
+Borrowing privileges depend upon your user category. For more details, visit here
+
+How can I find out when a library item is due?
+
+An advance alert mail will reach you when your library item is due. Also, you will get a reminder when a borrowed item becomes overdue. You can also login to your account in Online Catalogue and find out the due date.
+
+When do Library late return fees begin to accrue & how much are library late return fees?
+
+Library late fee begins to accrue the day after the item was due, including Sundays & other holidays. For any general item, the late fee is Rs. 2/- for the first 7 days, followed by Rs.5/- each 8th day onwards. For Short Loan books, the charges are Rs. 5/- for the first 7 days, followed by Rs. 10/- each 8th day onwards
+
+How do I pay a library late return fee?
+
+Payment of late fee can be made either in cash or online.
+
+How do I renew an item I have checked out?
+
+Follow the procedure of returning a book and then follow the procedure of issuing the same. You have to bring the book physically to the Library to get it renewed.
+
+Can I renew an overdue item?
+
+Yes, but only if the overdue charges are cleared.
+
+How many times can I renew borrowed books?
+
+You may renew the borrowed books once, provided there is no hold on the same.
+
+May I renew my books online?
+
+No, you have to bring the books physically to the Library.
+
+I checked out a Library book/DVD/cd and lost it; what should I do?
+
+Loss of book(s) must be reported immediately. Overdue fine, if any, will be charged till the loss of book(s) is reported. If the original book is returned after notifying it lost, the fine will be calculated till the date of its return. The borrower will have to replace the book, if lost/damaged, with the latest edition within 45 days from reporting, along with overdue charges. If the lost book is out of print, and if the borrower cannot replace it, he/she will have to pay the overall cost of the book, plus a 30% processing fee.
+
+If I cannot come physically to the Library and the books are overdue, what can be done?
+
+Overdue charges will accrue. However, one must report the situation by mailing the Librarian at the earliest.
+
+How do I get an ID card?
+
+- For students, staff, and faculty, the Institute ID card acts as the library card.
+ - For Family members and external members, the Library will provide a library card on applying.
+
+How do I get a library username and password?
+
+Library username is your registered email id, and the default password will be shared at the circulation desk.
+
+How do I log in to check my loan record?
+
+Go to "Online Catalog" at https://catalog.iitgn.ac.in/ On the top right corner, you will find "Log in to your account." There enter your username and password. Your loan record will appear.
+
+How long can I borrow a CR book?
+
+You may borrow it for two hours for reference within the Library against your ID Card.
+
+Can I borrow CR book for more than 2 hours?
+
+If no other user is demanding it, you may get it renewed by physically bringing the book to the circulation desk.
+
+What happens if I damage a book?
+
+Damaged books are treated the same as lost books. It must be reported immediately. The borrower will have to replace the book within 45 days from reporting, along with overdue charges. If the said book is out of print, and if the borrower cannot replace it, he/she will have to pay the overall cost of the book, plus a 30% processing fee.
+
+How many SL books can I borrow at a time?
+
+You are allowed to issue 2 SL books at a time
+
+When can I send a document for similarity checking? How long does it take to get the similarity report?
+
+You can send your document for similarity checking anytime of the day.
+ It takes 12-24 hours for providing similarity report. It might take longer during weekend/holidays. Please send your documents well in advance.
+
+How are books organized in the Library?
+
+ Books are arranged Subject-wise according to Dewey Decimal Classification scheme.
+
+How do I find material in the Library?
+
+ Search the Online Catalog for the book's particulars like Call no. and Accession no. and search in the shelves with those particulars. For any additional help, contact the circulation desk or ask any staff of the Library.
+
+How do I search our library catalog?
+
+You can search the library catalog at https://catalog.iitgn.ac.in/ by the full or partial title, author name, Subject, ISBN, series, and Call number.
+
+What is a call number? How can I locate a book using a call number?
+
+Call number is the assigned number of the subject to which the book belongs. Books are arranged according to call numbers on the shelf in ascending order.
+
+What is the purpose of the gates at the entrance of the Library?
+
+The RFID security gates are placed to ensure that all library books are issued properly before leaving the library premises. The gates alerts whenever a book is being taken out without being issued to a patron. It also records gate counts or footfalls.
+
+What do the different location codes (CR Books, SL books, Reference books, etc.) mean?
+
+These are all different collections which are arranged in different places of the Library. SL books are available on the shelves, along with general books.
+
+How do I access the print journals, magazines, and newspapers?
+
+The journal shelves contain all the journals of a year. The shelves are arranged alphabetically. The daily newspapers are kept on display just beside the journal shelves, and maximum 3 months old newspapers are stored. For any old newspaper, contact the library professionals at information desk
+
+What is a reference book?
+
+A book intended to be used as consulting materials, such as a dictionary, encyclopedia, handbooks, etc.
+
+How do I find a DVD or CD?
+
+CDs and DVDs are usually kept locked. If you wish to access one, see the Call no. and Acc. no., through the online catalog and ask the library staff to help you.
+
+What are the types of collections IITGN library has?
+
+Library has collections of books, reference books, course readings, print journals, technical reports, theses & dissertations, Hindi collection, and children collection.
+
+How do I learn more about the multimedia collections (film, video, sound recordings, etc.) at IITGN Library?
+
+You may use the online catalog: https://catalog.iitgn.ac.in/, or this link here.
+
+How do I search for a thesis/dissertation written by an IITGN student?
+
+Ph.D. and M.Tech. Theses are cataloged and can be searched in the online catalog. For M.A. /M.Sc. Thesis, ask the circulation desk.
+
+How do I find out which textbooks and other materials are required for my classes?
+
+The list of Course Reading on the website provides the information: https://library.iitgn.ac.in/coursereadings.php
+
+How do I get something from course reserves? / What are course reserves?
+
+Course reserves are the books suggested by faculty members for the courses being taught during a semester. CR books cannot be taken outside the Library. It can be borrowed for 2 hours against the user's ID card.
+
+What should I do if I can't find a book?
+
+Inform the Library staff and register the book in the problem register if they cannot find it.
+
+Does the Library have copies of textbooks?
+
+Yes, as per the faculty's recommendation. But limited number of multiple copies, in the case of Indian Editions only; otherwise, only one copy will be available.
+
+Where can I find a digital copy of my textbook?
+
+Library doesn't keep an e-book collection at this point of time. However, you may find e-books at https://library.iitgn.ac.in/ebooks.php
+
+Where can I find the fiction section in the Library?
+
+Fictions in English and other languages are placed from 820 to 890 call numbers in general. Hindi and Sanskrit have separate shelves dedicated to the languages. For more specific details, search the online catalog for the subject "fiction" or alternatively seek the assistance from the Library staff.
+
+How can I be alerted to new items acquired by the Library?
+
+The list of new additions is sent to all users once a week and the same is available here: https://library.iitgn.ac.in/newaddition.php.
+
+How do I get electronic access to Subscribed Print Journals?
+
+List of Subscribed Print Journals are here: https://library.iitgn.ac.in/printresources.php#journals. On clicking the embedded titles, it will lead to the electronic version.
+
+How do I log in to access e-resources, such as databases, e-journals, e-books etc.?
+
+These are web based and require no log-in from the users.
+
+What is the URL for the Libraries' catalog and other electronic resources?
+
+Library catalog: https://catalog.iitgn.ac.in/; Other electronic resources: available under "Digital Resources" in the Library website.
+
+How do I check if the full text of journal articles are available?
+
+The list of full-text journals can be found here: https://library.iitgn.ac.in/ejournals.php
+
+What electronic resources are available to me?
+
+List of available electronic resources can be found under "Digital Resources".
+
+Do I need a password to use electronic resources?
+
+No, using the IITGN server grants access.
+
+Why am I asked for an ID or payment when I try to view an article?
+
+When using a non-IITGN server or trying to view unsubscribed content, this message may appear
+
+How can I get a copy of the article, which is not part of the library subscribed journals?
+
+The library team would be happy to arrange to get a copy of such articles from other libraries. Please send an email request on [email protected] for same with details.
+
+Can I access IITGN subscribed electronic journals, books, and databases if I'm not on campus?
+
+Yes, off-campus access is made possible through RemoteXS for students.
+
+Can I surf the Web or check my email on library computers?
+
+Yes, as long as it is associated with academic purposes.
+
+Can I recommend the library for a book or any other resources to purchase?
+
+Students may recommend, with the consultation and authorization of faculty.
+
+Can I use my own laptop/PDA to connect to the internet in the Library?
+
+ Yes, you may use your own devices to connect to the internet in the Library.
+
+Is there access to Webmail?
+
+Yes
+
+Does the Library have a color printer?
+
+No
+
+How do I connect to the WiFi inside the library?
+
+The library uses the same network as the rest of the institute. You may continue using the same. In case of any difficulty, get in touch with the library staff at information desk.
+
+Are there scanning, photocopy, printing services available in the Library?
+
+Yes, two printers and two scanners are available in the Library. Users are requested to bring their own A4 pages for printing requirements.
+
+How can I contact a librarian who purchases library resources?
+
+ Write to [email protected] with the particulars of your purchase suggestion.
+
+To whom can I ask questions related to reference services related to my project/theses?
+
+ Write to [email protected] or come to the circulation desk.
+
+How can I get a librarian who can provide in-depth research support?
+
+For any assistance with your research, write to [email protected]
+
+Is there a complete list of library staff and contact information?
+
+Yes, you can find it here: https://library.iitgn.ac.in/staff.php
+
+Where do I ask if I have a question?
+
+You can write to us at any given email ids or speak person-to-person at the circulation desk.
+
+How do I find information on a subject?
+
+You may use "Resource Guides" at: https://library.iitgn.ac.in/resourceguide.php or Subject Gateways: https://library.iitgn.ac.in/virtualreferencecollection.php. In case, your subject is not covered by the library, kindly write to [email protected] /[email protected].
+
+Can someone show me how to research a topic?
+
+You may use the various databases for your research. List of databases is given under the heading Digital Resources. For personal assistance, kindly visit us at circulation desk or write to [email protected].
+
+Are there any student jobs available in the Library? How can students apply for jobs in the Library?
+
+Yes, TA and oCEO jobs are available for students. For more particulars, kindly get in touch with your Coordinator.
+
+Where can I find information on scholarships, educational grants, or financial aid?
+
+You can find it here at: https://library.iitgn.ac.in/scholarships.php
+
+Where can I scan a document or a graphic image?
+
+ You may use the two scanners inside the library premises to scan your desired document.
+
+I am having trouble finding articles and books for my research paper. Where can I get some help?
+
+ You may search through the bibliographic databases/scholarly search engines here: https://library.iitgn.ac.in/bibliographic_databases.php, https://library.iitgn.ac.in/resource_discovery_tool.php
+
+What is a citation?
+
+A citation is a formal reference to a published or unpublished source you consulted and obtained information from while writing your research paper.
+
+Where can I find information about how to cite or document my sources?
+
+A complete guide to many citation styles is available here: https://library.iitgn.ac.in/citation_reference.php
+
+How can I effectively manage references/citations as well as save bibliographic details of the documents referred?
+
+For effective recording and utilising bibliographic citations, we recommend using Reference Management Softwares, such as Zotero, EndNote, JabRef, Mendeley, RefWorks etc.
+
+I want to check the similarity/plagiarism report of my assignment/thesis/research paper. How do I get that?
+
+- You may kindly send your final version of the document to [email protected] for plagiarism checking.
+ - Kindly note:
+ - The reports are provided on a first-come-first-served basis.
+ - Library uses the software Turnitin for plagiarism detection, which charges a considerable amount for each document uploaded. Hence, we kindly request you to send us the final document. In case, the similarity index is higher than expected, you can send us one more time after final edits. .
+
+What is Grammarly? How can I create my account in Grammarly premium?
+
+- Grammarly is a cross platform writing assistant that reviews spelling, grammar, punctuation, clarity and to an extent plagiarism of a document.
+ - Steps to activate your Grammarly Premium account are as follows:
+ - Go to https://www.grammarly.com/edu/signup
+ - Enter your name, institute email, and preferred password. Click "sign up".
+ - Check your email (Inbox and spam) for an activation email.
+ - Learn more here: https://support.grammarly.com/hc/en-us/categories/115000018631-Tips-Tutorials
+
+What is a scholarly or academic journal?
+
+Scholarly or peer-reviewed journal articles are written by scholars or professionals who are experts in their fields.
+
+What is an annotated bibliography?
+
+An annotated bibliography is a list of citations to books, articles, and documents. Each citation is followed by a brief descriptive and evaluative paragraph.
+
+What is peer review?
+
+Peer review is the evaluation of work by one or more people with similar competencies as the work producers.
+
+How do I find dissertations on my subject?
+
+You may access the hard copies of IITGN Alumni Theses & Dissertation within the library premises.
+
+Currently I am not on campus. How do I request new titles (books, journals, AV material) that are not available in the Library?
+
+ You may write to us with your suggestions at: [email protected]
+
+Can I continue to access Library resources and services after I graduate?
+
+ Yes, you may enroll yourself in the Alumni Membership. Access to electronic resources would become restricted, but you can write us your requirements from your IITGN email id at [email protected].
+
+Can I access IITGN subscribed electronic journals, books, and databases if I'm not on campus?
+
+Yes, the subscribed resources are accessible to the users of IIT Gandhinagar. Visit https://library.iitgn.ac.in/off-campus-access.php to learn more about this.
+
+Is there any way of obtaining a book or journal article if it is not held by the IITGN Library?
+
+Yes, it can be requested on interlibrary loan. For books, write to [email protected], and for journal articles, write to [email protected].
+
+How do I request a book chapter using Interlibrary Loan (ILL)?
+
+For book chapters, write to [email protected].
+
+Can the Library scan book chapters for course reserve material?
+
+ Yes, you may write to [email protected] with the details of your requirement including the title of the book, author, the title of the chapter, page no., call no. , accession no. etc.
+
+Can I recommend a library purchase?
+
+ Yes, we look forward to having recommendations! Write to us at [email protected] with your purchase suggestions.
+
+I want to distribute some selected readings for my class not included in the textbook. What are my options for making these readings available?
+
+You may provide copies of your course reading material to the Library with the course name and course code.
+
+How do I determine if the Library provides access to a specific journal?
+
+For a list of journals, you may refer to [email protected].
+
+How do I search for bibliographic details of my citations in library databases?
+
+You may use Scopus and/or Web of Science.
+
+How do I put an item on reserve for one of my courses?
+
+You may write to [email protected] with the details of the book(s), the number of copies to be reserved, and which Course it is getting reserved for.
+
+I believe I lost something in the Library! Where is the lost & found area?
+
+ Ask the circulation desk regarding the lost materials.
+
+Do you have a phone I can use?
+
+ Library has no phone for public use. But, the office is well connected through the intercom.
+
+May I take photographs in the Library?
+
+Yes, you may, with permission.
+
+I have a visitor with me who would like to see the Library and spend some time?
+
+You are most welcome to bring your visitors who are keen to see our library. It is advisable that you keep the library staff informed in advance or write an email at [email protected]
+
+My question hasn't been answered here - how can I contact you?
+
+You can write to us at [email protected]

@@ -1,0 +1,35 @@
+Title: IIT Gandhinagar | Adithya Kumar
+Source: https://iitgn.ac.in/faculty/cse/fac-adithya
+
+# Adithya Kumar
+
+-  Computer Science & Engineering
+Adithya Kumar
+
+## Adithya Kumar
+
+Assistant Professor, Computer Science and Engineering
+
+- BTech: National Institute of Technology, Tiruchirappalli, 2012
+- PhD: The Pennsylvania State University, 2022
+
+Email: k.adithya -AT- iitgn.ac.in
+
+ Website :  https://minus-one.github.io/
+
+Office:  13/401F
+VOIP:  2449
+
+- Apostolos Kokolis, Michael Kuchnik, John Hoffman, Kumar, Adithya, Parth Malani, Faye Ma, Zachary DeVito, Shubho Sengupta, Kalyan Saladi, and Carole-Jean Wu. 2025. Revisiting reliability in large-scale machine learning research clusters. In Proceedings of the IEEE International Symposium on High Performance Computer Architecture (HPCA). IEEE, 1259-1274.
+- Kumar, Adithya, Anand Sivasubramaniam, and Timothy Zhu. 2023. Splitrpc: A {Control+Data} path splitting rpc stack for ml inference serving. Proceedings of the ACM on Measurement and Analysis of Computing Systems (SIGMETRICS) 7, 2 (2023), 1–26.
+- Kumar, Adithya, Anand Sivasubramaniam, and Timothy Zhu. 2022. Overflowing Emerging Neural Network Inference Tasks from the GPU to the CPU on Heterogeneous Servers. In Proceedings of the ACM International Systems and Storage Conference (SYSTOR).
+- Kumar, Adithya, Iyswarya Narayanan, Timothy Zhu, and Anand Sivasubramaniam. 2020. The Fast and The Frugal: Tail latency aware provisioning for coping with load variations. In Proceedings of The Web Conference (WWW). 314–326.
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Aug 2026 – Present)
+- Software Engineer, Meta (4 years)
+
+- ● Heterogeneous Systems, Distributed Systems, Storage systems
+- ● AI/ML Infrastructure, GPU Systems
+- ● Performance Evaluation, Tail latency awareness
+
+Complete List of Publications

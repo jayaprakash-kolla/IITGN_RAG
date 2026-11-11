@@ -1,0 +1,130 @@
+#flags:
+
+INDIAN INSTITUTE OF TECHNOLOGY GANDHINAGAR
+MTech Admissions for 2025 Through COAP: GATE Cutoff Scores
+
+MTech Discipline
+Artificial Intelligence
+Biological Engineering
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Earth System Science
+Electrical Engineering
+Integrated Circuit Design and
+Technology
+Materials Engineering
+Mechanical Engineering
+
+GEN
+
+PwD
+(GEN)
+
+721
+532
+325
+351
+747
+371
+526
+
+257
+257
+222
+165
+291
+
+Category-wise Gate Cut-Off score
+PwD
+PwD
+OBCPwD
+EWS
+(OBCSC
+ST
+(EWS)
+NCL
+(SC)
+NCL)
+693
+647
+522
+393
+383
+435
+317
+217
+181
+325
+320
+222
+227
+363
+328
+253
+247
+752
+693
+531
+456
+312
+295
+160
+255
+492
+480
+378
+268
+
+598
+
+-
+
+538
+
+-
+
+569
+
+-
+
+410
+
+-
+
+310
+
+-
+
+358
+477
+
+-
+
+311
+445
+
+-
+
+308
+345
+
+-
+
+191
+222
+
+-
+
+243
+257
+
+-
+
+PwD
+(ST)
+-
+
+Note: Admission to the MTech programme at IIT Gandhinagar through COAP is based on a cumulative score, which considers GATE
+Score and other academic parameters. Therefore, the GATE score does not reflect the actual cut-off for admission to all the branches
+of MTech programme.

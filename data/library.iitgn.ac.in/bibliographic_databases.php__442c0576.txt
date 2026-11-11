@@ -1,0 +1,128 @@
+Title: Library | IIT Gandhinagar
+Source: https://library.iitgn.ac.in/bibliographic_databases.php
+
+## Bibliographic & Stat. Databases
+
+ The Library at IITGN subscribes to the following collection of bibliographic databases in electronic form. These databases are accessible for Institute community on the campus network. To access, please click on the databases of your interest.
+
+ASCE's Civil Engineering Database (CEDB)
+
+ This database provides a bibliographic access to all the publications of the American Society of Civil Engineers (ASCE). It contains over 260,000 bibliographic records including books, journals, conference proceedings, and magazines published by ASCE, with coverage from 1872 to the present. Library IITGN is subscribing to the ASCE journals and the full-text of articles can be accessed directly through ASCE abstract page. This database makes it possible for civil engineers and researchers to search all publications published by ASCE in one place.
+
+This database can be accessed from here
+
+ACM Computing Reviews
+
+Computing Reviews is the largest and most comprehensive database of reviews in computer science covering the computing literature. It provides practitioners, researchers, educators, and students with a guidance in scholarly and practical communication, which is evolving rapidly. Computing Review is part of ACM Digital Library and provide the link to full-text of the reviewed resources. The expert reviews from over 1,000 subject matter and having over 30,000 reviews covering books, journal articles, and conference proceedings from different publishers and hundreds of thousands of publications and has searchable archives dating back to 1985
+
+This database can be accessed from here
+
+GeoRef
+
+GeoRef, a comprehensive bibliographic database established by the American Geosciences Institute in 1966, covers a wide spectrum of geoscience literature. It contains over 4.5 million references to geoscience journal articles, books, maps, conference papers, reports, and theses. Additionally, GSW provides access to GeoRef in Process, a database containing bibliographic records currently undergoing editing and review for inclusion in GeoRef. Moreover, the GeoRef Thesaurus, housing more than 40,000 controlled vocabulary terms and the complete GeoRef indexing structure, serves as an indispensable tool for subject, geographic, and time-span searches within GeoScienceWorld.
+
+To access please click here
+
+Indian Science Abstracts
+
+Indian Science Abstracts(ISA) is a bibliographical database published by NISCAIR, CSIR. This database provides abstracts of research articles, short communications, review articles, and informative articles published in current Scientific and technical periodicals, as well as Indian standards and thesis. It is a leading bibliographical database in India covering entire spectrum of Science and Technology including Intellectual Property Rights, Management and Library & Information Science published in India and covers the information since 2009.
+
+To access please click here
+
+Indiastat.com
+
+ It is Indias most comprehensive database of socio-economic statistical data. Indiastat.com is a cluster of 56 sites including India-specific, Sector specific, Region specific and State specific sites rendering its dedicated services to the research fraternity from academic, professional and corporate world with authentic and comprehensive compilation of secondary level socio-economic statistical data about India and its states, Region and Sector on more than 35 variables.
+
+To search this Statistical Database, please visit (https://www.indiastat.com/).
+
+ MathSciNet (Mathematical Reviews)
+
+MathSciNet® is an electronic easily searchable database of reviews, abstracts and bibliographic information for much of the mathematical sciences literature. This database contains over 2 million items. Bibliographic data from retro-digitized articles dates back to the early 1800s. Over 100000 new items are added each year, most of them classified according to the Mathematics Subject Classification.
+
+To access please click here
+
+### New MathSciNet Video Tutorials
+
+Three new videos are available on the Mathematical Reviews/MathSciNet YouTube channel:
+
+- MathSciNet for Undergraduate and Graduate Students
+- MathSciNet for Mid-career Mathematicians
+- MathSciNet for Early Career Mathematicians
+SciFindern
+
+Welcome to CAS SciFinder Discovery PlatFormTM
+ From January 2020, IITGN Library has moved from SciFinder to SciFinder®. SciFinder® is the latest interface of CAS SciFinder Discovery PlatFormTM, and it offers many new functions and improvements compared to previous interfaces: more intuitive user interface, improved text search processing, parallel use in multiple browser tabs, analysis and filtering of large numbers of hits, tool for synthesis planning, similarity search in reactions, Retrosynthesis Planning, PatentPak, Chemscape analysis, Biosequence search, Synthetic methods, data Visualization, citation map, create alert, knowledge graph, supplier insights, lexicon builder, regulatory search and display of Markush structures among others.
+ The CAS SciFinder Discovery Platform combines task-specific information solutions and tools, including CAS SciFinder®, CAS Formulus® and CASAnalytical MethodsTM, making it the most complete source of scientific information in the world.
+ More about SciFinder here
+
+- SciFinder help: Click here to download the SciFinder user guide. Moving from SciFinder to SciFinder® & New Registration
+ If you already have a SciFinder account, you will be able to log in to SciFinder® via the new platform and do not need to set up a new account. URL: https://scifinder-n.cas.org
+ Please follow the instructions:
+
+- Use your IITGN email address to ensure access.
+- JavaScript, Java, and cookies must be enabled. A Java plug-in may be needed for structure drawing.
+Use this link to access SciFinder®: https://scifinder-n.cas.org
+ Off campus Users - Kindly mail to [email protected] or [email protected]
+Key New Features
+ SciFinder-n provides access to a variety of different sources of chemical information. Here are a few of the features you may find helpful:
+
+- Supports searching in multiple tabs
+- Structure Searching - Draw or upload structures to perform exact, substructure, or similarity searches
+- Substance Searching - Find chemical information by keyword CAS registry numbers, or patent number.
+- GHS Hazard Statements - This data provides critical insights to use restrictions and warnings associated with substances.
+- Reaction Searching
+- Text based Reaction Searching – AI driven Natural-language processing recognizes reaction roles (reagent, solvent, and catalyst) and groups (substance, functional, and transformation) in the syntax/phrasing of your query.
+- Reference Search
+- Generate Knowledge graph
+- Retrosynthesis Planning
+- Citation Mapping
+- Full access to PatentPak (annotated full-text patents)
+- Access to Methods Now-Synthesis
+- Ranks searches by relevance
+- Saves past searches in "History"
+- Lexicon Builder – It helps researchers navigate the scientific literature by providing a structured hierarchy of terms for concepts, chemical classes, and taxonomic vocabulary
+- Chemical Supplier Insights - Overview the chemical catalogs to streamlines your chemical ordering process faster and effective.
+- Biosequence – It includes BLAST, CDR and MOTIF features to extract the valuable information on nucleotide and protein sequences.
+- Project Workflow - Project Files in CAS SciFinder® are being enhanced with the ability to share! Now, users can invite colleagues to collaborate on a project. User can share both reference and substance data collected in project files
+Databases Included in SciFinder®
+
+- CAPlus - Bibliographic entries from Chemical Abstracts back to 1907. Over 1,500 core chemical journals are included, as well as patents, books, conference proceedings, etc.
+- MEDLINE - Bibliographic entries in the medical sciences back to 1949
+- CAS Insights - A new content hub at the intersection of science, technology, and innovation.
+- CAS REGISTRYSM - Chemicals and biochemical sequences searchable by name, number, formula, or structure, with experimental and predicted property data.
+- CHEMLIST - Registry of regulated chemicals.
+- CHEMCATS - Chemical supplier catalogs.
+- CASREACTS - Individually indexed reaction schemes back to 1840.
+- MARPAT - Searchable Markush structures from patents covered by CAS from 1988.
+- CIN (Chemical Industry Notes) - Bibliographic entries from chemical industry trade publications from 1974.
+CAS Webinars
+ Please visit the SciFinder® webinar page to register for upcoming webinars or access these recordings.
+On-demand SciFinder® webinars (each <35 minutes):
+
+- Substance searching
+- Reaction searching
+- Reference searching
+- Patent searching
+- Sequence searching
+Useful Links
+
+- CAS SciFinder FAQ
+- Navigating Cas SciFinder
+
+- Content at a Glance
+- SciFinder® Quick Reference Guide
+- SciFinder® Help
+- Academic Contact Resource Center
+- Watch our video collection of SciFindern How-To videos and bookmark the page
+CAS- ASCI in India Email: [email protected]
+ If you have any questions, please contact us at Emails: [email protected] or [email protected]
+
+Scopus
+
+Scopus, an abstract and citation database of peer-reviewed literature produced by Elsevier Publishing. It offers integrated web search plus linking to full-text articles and other information resources as well as broad coverage of scientific, technical, medical, arts, humanities and social sciences literature. It covers over 21,000 titles from more than 5,000 international publishers. It Scopus offers smart tools which provides facility to search, retrieve, track, analyze and visualize the research.
+
+To search this bibliographic source, please visit Scopus (http://www.scopus.com/).
+
+ Scopus Help: https://service.elsevier.com/app/overview/scopus/
+
+Click hereto view the Tutorial

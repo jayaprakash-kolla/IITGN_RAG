@@ -1,0 +1,233 @@
+Title: IIT Gandhinagar | Mathematics
+Source: https://iitgn.ac.in/faculty/maths
+
+# Mathematics
+
+##### Back to Faculty
+
+#### Abhinav Jha
+
+PhD (Freie Universitaet Berlin)
+Assistant Professor
+ Numerical Analysis of Partial Differential Equations, Stabilization Methods for Convection Dominated Problems
+
+## Research Interests
+
+- Numerical Analysis of Partial Differential Equations
+- Stabilization Methods for Convection Dominated Problems
+- A Posteriori Error Estimates
+- Domain Decomposition Methods in Computational Chemistry
+- Scientific Computing, including writing scientific software
+
+#### Akshaa Vatwani
+
+PhD (Queen's University)
+Associate Professor
+ Analytic number theory, Sieve methods, Algebraic number theory
+
+## Research Interests
+
+- Analytic number theory
+- Sieve methods
+- Algebraic number theory
+
+#### Arnab Saha
+
+PhD (University of New Mexico)
+Associate Professor
+ Arithmetic Geometry
+
+## Research Interests
+
+- Arithmetic Geometry
+
+#### Atul Abhay Dixit
+
+PhD (University of Illinois at Urbana Champaign)
+N Rama Rao Chair Professor
+ Analytic number theory, Special functions, Theory of partitions
+
+## Research Interests
+
+- Analytic number theory
+- Special functions
+- Theory of partitions, modular forms and q-series
+
+#### Bipul Saurabh
+
+PhD (Indian Statistical Institute, Delhi)
+Associate Professor
+ Operator algebras, Noncommutative geometry, Quantum groups
+
+## Research Interests
+
+- Operator algebras
+- Noncommutative geometry
+- Quantum groups
+- My Research Work
+
+#### Kasivisvanthan Chelvakumar
+
+PhD (California Institute of Technology)
+Visiting Professor
+(Affiliated to Humanities and Social Sciences, Mathematics discipline)
+ Fintech readiness index, big data repositories and LLMs; Finance and management for engineers
+
+## Research Interests
+
+- Fintech readiness index, big data repositories and LLMs
+- Finance and management for engineers
+- Healthcare finance
+- Engineering mechanics
+- Solar power: cell physics, panel production, off-grid installations and solar power economics and finance
+
+#### Chetan Pahlajani
+
+PhD (University of Illinois at Urbana Champaign)
+Associate Professor
+ Probability theory and stochastic processes, Dynamical systems
+
+## Research Interests
+
+- Probability theory and stochastic processes
+- Dynamical systems
+
+#### Gadadhar Misra
+
+PhD (Stony Brook University)
+Visiting Professor
+ Mostly in operator theory using tools from complex geometry and representation theory
+
+## Research Interests
+
+- Mostly in operator theory using tools from complex geometry
+ and representation theory.
+- A detailed research statement is here.
+
+#### Md Hasan Ali Biswas
+
+PhD (IIT Madras)
+Assistant Professor
+ Quantum harmonic analysis, Time-frequency analysis, frame theory.
+
+## Research Interests
+
+- Quantum harmonic analysis
+- Time-frequency analysis
+- Frame theory
+- Sampling theory
+
+#### Himanshu Gupta
+
+PhD (University of Delaware)
+Assistant Professor
+ Algebraic Graph Theory, Combinatorial Matrix Theory, Finite Fields
+
+## Research Interests
+
+- Algebraic Graph Theory
+- Combinatorial Matrix Theory
+- Finite Fields
+
+#### Indranath Sengupta
+
+PhD (IISc Bangalore)
+Professor
+ Commutative algebra, Algebraic geometry
+
+## Research Interests
+
+- Commutative algebra
+- Algebraic geometry
+
+#### Jagmohan Tyagi
+
+PhD (IIT Kanpur)
+Professor
+ Partial Differential Equations, Chemotaxis, Blow-up phenomena
+
+## Research Interests
+
+- Partial Differential Equations
+- Chemotaxis
+- Blow-up phenomena
+
+#### Jugal K. Verma
+
+PhD (Purdue University)
+Visiting Professor
+ Hilbert functions, Blowup algebras, Local cohomology
+
+## Research Interests
+
+- Hilbert functions
+- Blowup algebras
+- Local cohomology
+
+#### Madhu Gupta
+
+PhD (University of Texas at Arlington)
+Assistant Teaching Professor
+ Nonstandard Finite Difference Methods, PDE Constrained Optimization, Deep Learning
+
+## Research Interests
+
+- PDE-constrained optimization
+- Inverse problems in medical imaging
+- Deep learning
+- Nonstandard finite difference methods
+
+#### Projesh Nath Choudhury
+
+PhD (IIT Madras)
+Associate Professor
+ Matrix Analysis, Total Positivity, and Combinatorics
+
+## Research Interests
+
+- Matrix Analysis
+- Total Positivity
+- Combinatorics
+
+#### Rohit Kumar Mishra
+
+PhD (TIFR Centre For Applicable Mathematics Bangalore)
+Associate Professor
+ Inverse problems related to integral geometry, Partial differential equations
+
+## Research Interests
+
+- Inverse problems related to integral geometry
+- Partial differential equations
+- Microlocal analysis
+- Medical imaging
+
+#### Sanjaykumar Hansraj Amrutiya
+
+PhD (Harish-Chandra Research Institute)
+Associate Professor
+ Algebraic geometry
+
+## Research Interests
+
+- Algebraic geometry
+
+#### Sudeshna Roy
+
+PhD (IIT Bombay)
+Assistant Professor
+ Commutative Algebra
+
+## Research Interests
+
+- Commutative Algebra
+
+#### Tanya Kaushal Srivastava
+
+PhD (Freie Universitat Berlin Germany)
+Assistant Professor
+ Algebraic Geometry (Mathematics)
+
+## Research Interests
+
+- Algebraic Geometry (Mathematics)

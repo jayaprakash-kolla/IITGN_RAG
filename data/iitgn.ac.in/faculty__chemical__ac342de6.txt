@@ -1,0 +1,223 @@
+Title: IIT Gandhinagar | Chemical Engineering
+Source: https://iitgn.ac.in/faculty/chemical
+
+# Chemical Engineering
+
+##### Back to Faculty
+
+#### Abinaya Sampath
+
+PhD (University of Illinois at Urbana-Champaign)
+Assistant Professor
+ Heterogeneous catalysis, Raman spectroscopy, Mass spectrometry
+
+## Research Interests
+
+- Heterogeneous catalysis
+- Raman spectroscopy
+- Mass spectrometry
+- In situ and operando spectroscopy
+- Electrochemistry
+
+#### Biswajit Saha
+
+PhD (Singapore MIT Alliance)
+Associate Professor
+ 2D/nanomaterials, Wearable sensing, Biosensing, Plant wearable, Water filtration
+
+## Research Interests
+
+- 2D/nanomaterials
+- Wearable sensing
+- Biosensing
+- Plant wearable
+- Water filtration
+
+#### Chinmay Ghoroi
+
+PhD (IIT Bombay)
+B. S. Gelot ChairProfessor
+ Particle Engineering, Cohesive Powders, Surface Engineering, Wetting and Antibacterial Surfaces/ Bacterial Adhesion
+
+## Research Interests
+
+- CO2 capture
+- Particle Engineering
+- Materials for energy applicaiton
+- Wastewater treatment
+- Cohesive Powders
+- Surface Engineering
+- Wetting and Antibacterial Surfaces/ Bacterial Adhesion
+- Drug Formulation
+- Nano-materials for Drug Delivery/ Controlled Release
+- Solid-phase Reactions for Functional Materials, Water Treatment
+
+#### Hari Sai Ganesh
+
+PhD (The University of Texas at Austin)
+Assistant Professor
+ Modeling and Simulation, Process Control and Optimization, Energy and Environment, Data Science
+
+## Research Interests
+
+- Modeling and Simulation
+- Process Control and Optimization
+- Energy and Environment
+- Data Science
+
+#### Kabeer Jasuja
+
+PhD (Kansas State University)
+Dr. Dinesh O Shah Chair Professor
+ Exfoliation of layered metal borides, Synthesis of XBenes - a new family of boron based nanosheets analogous to graphene
+
+## Research Interests
+
+- Exfoliation of layered metal borides
+- Synthesis of XBenes - a new family of boron based nanosheets analogous to graphene
+- Fundamental science at the interface of nanosheets
+- Designing novel nano composites
+- Nanomaterials for energy storage
+
+#### Karthik Subramaniam Pushpavanam
+
+PhD (Arizona State University)
+Assistant Professor
+ Synthetic Biology, Nanomaterials, Sensors
+
+## Research Interests
+
+- Biomaterials
+- Biofuels
+- Biosensors
+- Biocatalysis
+- Nano-Biotechnology
+- Nanomaterials
+
+#### Kaustubh Sunil Rane
+
+PhD (University at Buffalo)
+Associate Professor
+ Interfacial phenomena at solid-fluid and fluid-fluid interfaces, Thermodynamics and statistical mechanics, Molecular simulations
+
+## Research Interests
+
+- Interfacial phenomena at solid-fluid and fluid-fluid interfaces
+- Thermodynamics and statistical mechanics
+- Molecular simulations
+
+#### Mithun Radhakrishna
+
+PhD (Columbia University)
+Associate Professor
+ Protein aggregation, Chaperone mediated protein folding, Polymer coacervation, Molecular simulations
+
+## Research Interests
+
+- Protein aggregation
+- Chaperone mediated protein folding
+- Polymer coacervation
+- Molecular simulations
+
+#### Nitin U. Padhiyar
+
+PhD (IIT Bombay)
+Associate Professor
+ Process optimization and control, Multi-objective optimization, Genetic algorithms, Dynamic optimization
+
+## Research Interests
+
+- Process optimization and control
+- Multi-objective optimization (MOO)
+- Genetic algorithms
+- Dynamic optimization
+- Model predictive control (MPC)
+- MOO based MPC
+
+#### Prachi Thareja
+
+PhD (University of Pittsburgh)
+Professor
+ Rheology , structure and 3D printing of materials for environment and health
+
+## Research Interests
+
+- Rheology
+- Structure and 3D printing of materials for environment and health
+
+#### Pratyush Dayal
+
+PhD (University of Akron)
+Professor
+ Self-oscillating polymer gels, Structure development in polymer blends and solutions, Polymer processing
+
+## Research Interests
+
+- Self-oscillating polymer gels
+- Structure development in polymer blends and solutions
+- Polymer processing
+
+#### Sai Praneet Batchu
+
+PhD (University of Delaware)
+Assistant Professor
+ Computational Chemistry, Advanced Materials, Environmental engineering and sustainability, Computational Catalysis, DFT
+
+## Research Interests
+
+- Computational Chemistry
+- Advanced Materials
+- Environmental engineering and sustainability
+- Computational Catalysis
+- Microkinetic and Complex-Kinetic Modelling
+- Enzyme Catalysis
+- AI/ML in Catalysis
+- Stochastic Kinetic Modelling
+- Waste Valorization
+- Renewable Chemical and Fuels
+- Circular Bioeconomy
+
+#### Sameer V. Dalvi
+
+PhD (IIT Bombay)
+Smt. Meera and Prof. Girish K. Sharma Chair Professor
+ Engineering stable microbubbles formulations for biomedical applications, Precipitation and stabilization
+
+## Research Interests
+
+- Engineering stable microbubbles formulations for biomedical applications
+- Precipitation and stabilization of nnanoparticles in aqueous suspensions
+- Supercritical fluid processing
+
+#### Sameer Patel
+
+PhD (Washington University in St. Louis)
+Associate Professor
+(Jointly with Chemical Engineering department)
+ Aerosol and air quality, Air pollution control
+
+## Research Interests
+
+- Aerosol and air quality
+- Air pollution control
+- Low-cost air quality monitors
+- Environmental policies and regulations
+
+#### Soumajit Dutta
+
+PhD (University of Illinois Urbana-Champaign)
+Assistant Professor
+ Computational chemistry, Advanced materials, Molecular Dynamics, Machine Learning, Enhanced Sampling, DFT
+
+## Research Interests
+
+- Computational Chemistry
+- Advanced Materials
+- Molecular Dynamics Simulation
+- Machine Learning in Chemistry
+- Enhanced Sampling Methods
+- Density Functional Theory
+- Deep Learning Forcefields
+- Markov State Models
+- Kinetic Monte Carlo Simulation
+- Membrane Separation

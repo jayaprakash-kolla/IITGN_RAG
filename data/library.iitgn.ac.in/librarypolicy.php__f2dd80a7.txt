@@ -1,0 +1,136 @@
+Title: Library | IIT Gandhinagar
+Source: https://library.iitgn.ac.in/librarypolicy.php
+
+## Library Policies
+
+- Library General Rules
+- Circulation Policy
+- E-Resources Use Policy
+
+-  The Library being a place for individual study and research, members are requested to maintain decorum, dignity, peace and silence within the Library premises.
+-  Users are requested to bring their ID card issued by the Institute while coming to the Library. The ID card is a must for borrowing of Library materials by using a self-checkout and self-check-in system (RFID).
+-  On receiving the Institute ID Card, users are required to get it RFID enabled from the Library.
+-  The borrowers are requested to check the books & other reading materials thoroughly for missing pages and chapters, any damages, markings etc., before borrowing.
+-  Use of personal stereos, music sets, audible use of mobile phones, smoking, consumption of food and drink in the Library are not permitted.
+-  No books in damaged conditions will be accepted from the borrowers. Mutilated, writing, scribbling, marking, cutting pages will be severely dealt with or spoiled books may have to be replaced by the borrower.
+-  The borrowing facility of the user will be restricted or suspended in case of misbehaviour or misuse of the Library facilities/materials.
+-  Members are held responsible for all items issued on their name, until they are returned by the respective members to the Library.
+-  The Institute smart ID card used for borrowing Library materials is not transferable and must be produced whenever requested by Library staff.
+-  Faculty and staff going on long leave, with or without salary, deputation, study leave, or extraordinary leave will have to return all borrowed materials before leaving the Institute.
+-  All members are requested to keep their personal belongings at the Property Counter at their risks. The library is not responsible for loss of or damage.
+-  No material from the Library should be taken out without proper issuing/ recording. Any type of violation may lead to disciplinary action.
+
+ Library provides general access to collection and a full range of loan services. These services include issue of materials from the circulating collections, checking in returned materials, and shelving of reading materials. Circulation staff in the library will also assist you in placing reservation and recall requests on items that are issued out and will help you in locating items in the stack area and deal with related matters.
+
+#### Borrowing of Materials
+
+ Borrowing of reading materials facility is available to the faculty, researchers, students and staff of the Institute. The registration to use the library facility and services is automatic for the faculty and staff on joining the Institute and for students on registration for the academic programs. The rules are framed to facilitate and promote, rather than to constrain, the use of library collection and services.
+
+#### 1. Membership
+
+ The faculty members, staff & students of the Institute are required to enroll as members of the Library (upon joining the Institute) by filling in the membership form available at the library circulation desk (along with a passport size photograph). This entitles the use of resources & services offered for the purpose of academic and research work. Institute Identity Card is a must for issue & return of reading materials.
+
+#### 2. Borrowing Privileges
+
+| Category of member | No. of Books  | Category of Collection | Duration  |
+| Faculty (Regular, Visiting, Adjunct, Guest) | 30 | General Collection | One semester
+ Due dates: 15th May, & 15th December  |
+| 02  | Reference Collection | 05 days |
+| 02  | Loose issue of Journals/Magazines | 05 days |
+| 02  | CD, DVDs etc. | 05 days |
+| 06  | Children’s Collection | 30 days |
+| Research Scholars (PhD & PDF)  | 12 | General Collection | 30 days |
+| 02  | Loose issue of a Journals/Magazines | 05 days |
+| 06  | Children’s Collection | 30 days |
+| PG Students (MTech, MSc, & MASC) | 08 | General Collection | 15 days |
+| 02  | Loose issue of a Journals/Magazines | 05 days |
+| 06  | Children’s Collection | 30 days |
+| UG Students | 06 | General Collection | 15 days |
+| 02  | Loose issue of a Journals/Magazines | 05 days |
+| 06  | Children’s Collection | 30 days |
+| Administrative & Project Staff including Trainees  | 06 | General Collection | 30 days |
+| 02  | Loose issue of a Journals/Magazines | 05 days |
+| 02  | CD, DVDs etc. | 05 days |
+| 06  | Children’s Collection | 30 days |
+Note: System generated advance alert and overdue alert is sent over the email Immediately after the due date.
+
+#### 3. Late Fee (applies to all categories of users)
+
+| Category of Collections | First - 7 days  | 8th day and onwards |
+| General Books, CDs/DVDs and Loose Issues Journals etc. | Rs.2.00 per day | Rs.5.00 per day |
+| Short Loan Books (Course Reading) | Rs. 5.00 per day  | Rs. 10.00 per day  |
+Note: Books designated as Short Loan Collection for the current Semester will be issued only for three days.
+
+#### 4. Reminders
+
+ Library will usually send reminders to members for the overdue items, but non-receipt of reminders is no reason for returning books late.
+
+#### 5. Late fee
+
+ Library late fee will be charged to the members as per the details given in the Borrower Privileges table. The borrowing facility will be automatically blocked for the users having late fee/overdue charges of any amount in their accounts. User account will be activated, once the late fee is paid, and the books are returned.
+
+#### 6. Renewals
+
+ Library materials can be renewed, if there are no reservations on them by other users. Same materials will not be renewed more than once. Borrower has to bring the material physically to the Library for renewal. Journals, reference books, CDs etc, (other than books) will not be renewed.
+
+#### 7. Recall
+
+ Library staff may recall a book at any time before it’s due date. It is mandatory to return the book(s) when it is recalled. The overdue charges may be increased for failure to return a book, when it is due or recalled.
+
+#### 8. Reservation
+
+ Members can reserve only those materials, which are already issued at the Circulation Desk. One reader can reserve maximum two books at any given time. A book can have maximum two reservations. Reserved books will be put on hold at the Circulation Desk for maximum three working days (inclusive of the day on which it is received/returned) from the date of return by previous borrower. If a member who has reserved the book fails to pick up the same within this period, the reservation stands cancelled. Availability of reserved items will be informed through email.
+
+#### 9. Loss of / Damage to Library Materials
+
+ Loss of book(s) must be reported immediately. Overdue fine, if any will be charged till the loss of book(s) is reported. If the original book is returned after reporting it lost, the fine will be calculated till the date of its return. Borrower will have to replace the book, if lost/damaged with latest edition within 45 days from reporting, along with overdue charges. If the lost book is out of print, and if the borrower is unable to replace it, he/she will have to pay the prevailing cost of the book, plus 30% processing fee.
+
+#### 10. Course Reserve (CR) Collection
+
+ Course Reserve (CR) Collection consists of textbooks and other reading materials recommended by the respective faculty members for different courses for each semester and are kept at the Circulation Desk. Documents in the Course Reserve Collection can be used only in the Library against Identity Card. This collection will be issued for two hours at a time.
+
+#### 11. Short Loan (SL) Collection
+
+ Copies of text and reference books recommended by faculty for different courses which are likely to be in heavy demand during the semester are identified and designated as Short Loan (SL) Books. They are shelved along with other books with a green label as Short Loan Collection. These are issued to the students for a period of only 3 days and may not be renewable. Like the Course Reserve Collection, most materials in the Short Loan Collection change from semester to semester.
+
+#### 12. Vacation Issues (Winter/Summer)
+
+ Student members, except those completing their final semester program, can borrow books during the vacation period as per the entitlement. Vacation issue (only books) will begin two days before the Winter/Summer Vacation and due date for these books will be two days from the day when semester begins.
+
+#### 13. Personal Books
+
+ Members are allowed to bring in their personal books and other reading materials inside the Library. These items should bear the respective members name and ID Number. Members will have to produce these items at the Circulation Desk/Property Counter every time while entering in, and leaving the Library.
+
+#### 14. Books Issued to Members
+
+ Members are allowed to bring in Library books already issued on their name for reference purpose. These will have to be produced at the Circulation Desk for verification of dates etc. every time while entering in, and leaving of the Library. If such an item is found overdue, members will have to return the same to the Library immediately.
+
+ The Library at IIT Gandhinagar subscribes to number of core e-resources (journals, databases, books etc.) covering the content in full-text, bibliographic, statistical, video form. These resources are either subscribed directly or through national consortia or aggregators or through Institutional membership to support teaching, learning, research and other activities at the Institute. Use of each resource being made available to IITGN Community is governed by the license agreements and copyrights to which Library is signatory. The terms and conditions for using these resources are clearly spelled out in every license agreement that is signed with each publisher by the Library. These resources are meant to be used only by the authorised/registered users viz. Institute administrators, faculty, researchers, students, staff and others directly associated and onsite visitors for the purpose of academic and research purpose. Therefore, while accessing these resources, users are requested to adhere to the following policy guidelines. We request our users to take these guidelines seriously and any violation of the same will be reported to the relevant Institute authorities for appropriate action.
+
+What is permissible?
+
+- Viewing, downloading, copying, printing and saving a copy of search results.
+-  Viewing, downloading, copying, printing and saving individual articles.
+-  Using e-resources for scholarly, educational or scientific research, teaching, discussions, private study and clinical purposes as per the copyright and other Intellectual Property Rights of the author/publisher.
+-  Sending a copy of an article to another authorized user (i.e. Faculty, students or staff) within the Institute for academic and research work.
+-  Posting the URL of the publisher's version of the article on the Institute, library, class websites (for only Institute’s authorized user’s access).
+What is NOT permissible?
+
+- Use of robots or any intelligent agents to do systematic, bulk, excessive or automatic downloading of documents.
+-  Systematic downloading or printing of entire journal issues or volumes, or large portions of other e-resources.
+-  Using e-resources for commercial gain (i.e. reselling, redistributing or republishing licensed content).
+-  Transmitting, disseminating or otherwise making online content available to unauthorized users (i.e. sending to mailing lists or electronic bulletin boards).
+-  Posting the publisher's version or PDF of an article to an open class website (If necessary, post the URL to the article which will allow only authorized user’s access).
+-  Mounting or distributing any part of the licensed material on any electronic network, including the Internet and the World Wide Web, other than the Secure Network (a network which is only accessible to "authorized users" whose conduct shall be subjected to regulation by the licensee).
+- Copying, manipulating, re-publishing, disseminating, and displaying the content without obtaining prior permission from the copyright holder except in accordance with fair use or licensed agreement.
+Policy when Agreed License Terms are VIOLATED
+
+ All Publishers regularly track the access to their subscribed electronic resources by our Institute. Misuse, if any, is notified to the Institute/ Librarian with details of kinds of violations. As subscriber and having signed license agreements with every publisher, Institute/ Library are expected to take immediate action. Many a times, publisher suspends the access to e-resource pending suitable action by the Institute/Library. The access may be stopped not only for journals where license agreement was violated, but for all journals by the same publisher. Moreover, the access is suspended not only for the individual violator but for the entire institution.
+On and Off-Campus Access
+
+ Access to most of the e-resources subscribed and licensed by the Library is provided through the Library's computers and from other computers connected with our Institute network on the campus.
+
+ Off-campus/Remote access to the Library's electronic resources is also available for authorized users as defined in the license agreements and permitted by the respective publisher. Such access requires you to log-in using your IITGN assigned login ID and password. This log-in validates that the off-campus user is a part of the licensed user group of the IIT Gandhinagar community. More details are given here.
+Policy on Denying Access/Serious Action
+
+ If any of our (IITGN) users violates the above mentioned electronic resources usage policy, they would risk having their library access suspended and access to the resource(s) blocked. This is applicable to users of this service at all levels. Please note that on receipt of a complaint from the publisher, usually the Library & IT Services track down the user/ IP address committing such violations. Also, such incidents will be viewed seriously and when noticed it will be reported to relevant Institute authorities for appropriate action.

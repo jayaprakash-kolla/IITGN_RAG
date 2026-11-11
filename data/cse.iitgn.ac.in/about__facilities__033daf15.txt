@@ -1,0 +1,85 @@
+Title: Facilities
+Source: https://cse.iitgn.ac.in/about/facilities
+
+Department of Computer Science & Engineering, IIT Gandhinagar
+
+# Computing facilities for research and teaching
+
+ The department draws on institute-scale high-performance computing infrastructure for research, and maintains dedicated computing labs for hands-on instruction and course delivery.
+
+At a glance
+
+Research clusters3
+Teaching labs4
+
+Research facilities
+
+## High-performance computing through ISTF
+
+ IIT Gandhinagar's supercomputing ecosystem includes PARAM Ananta, the IITGN HPC cluster, the CSE Singularity cluster, and department GPU-server resources such as Turing and Hamilton, supporting high-performance CPU, GPU, memory, and storage needs across institute and department research workloads.
+
+ National Supercomputing Mission supercomputer
+
+### PARAM Ananta
+
+ Commissioned at IIT Gandhinagar in May 2022 under the National Supercomputing Mission, PARAM Ananta supports CPU- and GPU-intensive research across computational science, engineering, AI/ML/DL, climate and environment sciences, materials, biology, astronomy, and related domains.
+
+- 838 TFLOPS peak performance
+- 7,408 CPU cores and 20 NVIDIA V100 GPU cards
+- 52 TiB RAM and 1 PiB usable PFS-based storage
+- 156 compute nodes with 100 Gbps EDR InfiniBand
+ View facility details ->
+
+ In-house high-performance computing cluster
+
+### IITGN HPC Cluster
+
+ The institute HPC cluster, developed through successive upgrades since the supercomputing facility began in 2010, complements PARAM Ananta with additional CPU, GPU, memory, storage, and InfiniBand-connected capacity for research workloads.
+
+- 132 TFLOPS peak performance
+- About 1,250 CPU cores and 6 GPU cards
+- About 7 TiB RAM and 100 TB usable PFS storage
+- 34 compute nodes with Mellanox EDR InfiniBand
+ View facility details ->
+
+ CSE high-performance computing cluster
+
+### Singularity Cluster
+
+ Commissioned in April 2025, the CSE Singularity HPC Cluster provides GPU-accelerated computing capacity for departmental research workloads, with SLURM-based scheduling and shared storage for users.
+
+- 128 CPU cores
+- 8 NVIDIA L40S GPU cards
+- 172 TB usable PFS storage
+- 100 Gbps EDR InfiniBand
+ View cluster details ->
+
+ Department-maintained GPU servers
+
+### Turing and Hamilton
+
+ Turing and Hamilton are department-maintained GPU-based server resources that support CSE research computing needs alongside the institute and CSE HPC clusters.
+
+- GPU-based departmental computing resources
+- Maintained by the Department of Computer Science & Engineering
+- In active use for running various department-level utilities
+
+More HPC information
+
+ Supercomputing facility overview  Available software domains  Usage and access FAQs  CSE Singularity cluster
+
+Teaching facilities
+
+## Dedicated computing labs for coursework
+
+ The department has four computing labs for teaching and practical sessions. Each lab is equipped with 70 machines, giving students access to 280 teaching-lab systems across the department.
+
+ Teaching lab capacity
+
+4
+
+Computing labs
+
+70
+
+Machines each

@@ -1,0 +1,44 @@
+Title: IIT Gandhinagar | Abhisek Samanta
+Source: https://iitgn.ac.in/faculty/phy/fac-abhisek
+
+# Abhisek Samanta
+
+-  Physics
+Abhisek Samanta
+
+## Abhisek Samanta
+
+Assistant Professor, Physics
+
+- BSc: University of Calcutta, 2012
+- MSc: IIT Kanpur, 2014
+- PhD: Tata Institute of Fundamental Research Mumbai, 2020
+
+Email: abhisek.samanta -AT- iitgn.ac.in
+
+ Website :  https://abhisekphy.github.io
+
+Office:  AB 5/349
+VOIP:  2627
+
+Ilia Khait, Sauri Bhattacharyya∗, Abhisek Samanta∗ and Assa Auerbach, Hall anomalies of the doped Mott insulator, npj Quantum Materials 8, 75 (2023)
+
+Bo Fan, Abhisek Samanta and Antonio M. Garc´ıa-Garc´ıa, Tuning superinductors by quantum coherence effects for enhancing quantum computing, Physical Review Letters 130, 047001 (2023)
+
+Abhisek Samanta, Daniel P. Arovas and Assa Auerbach, Hall coefficient of semimetals, Physical Review Letters 126, 076603 (2021)
+
+Abhisek Samanta, Kedar Damle and Rajdeep Sensarma, Tracking the many-body localized to ergodic transition via extremal statistics of entanglement eigenvalues, Physical Review B 102, 104201 (2020)
+
+B. Datta, S. Dey, A. Samanta, A. Borah, K. Watanabe, T. Taniguchi, R. Sensarma and M. M. Deshmukh, Strong electronic interaction and multiple quantum Hall ferromagnetic phases in trilayer graphene, Nature Communications 8, 14518 (2017)
+
+Assistant Professor, Indian Institute of Technology Gandhinagar, (Oct 2024 to present)
+Post-doctoral Researcher, The Ohio State University, Columbus (OH), USA (Aug 2022 - Aug 2024)
+Post-doctoral Researcher, Technion – Israel Institute of Technology, Haifa, Israel (Aug 2019 to Jul 2022)
+
+- ● Study of strongly correlated many-body systems, through advanced field-theoretical and numerical techniques
+- ● Superconductivity in thin-films and nanowires: Role of disorder and fluctuations
+- ● Quantum transport theory: Calculation of Hall, thermopower, Nernst coefficients
+- ● Quantum Hall Effects
+- ● Entanglement, thermalization and Many-body localization (MBL)
+
+Complete List of Publications

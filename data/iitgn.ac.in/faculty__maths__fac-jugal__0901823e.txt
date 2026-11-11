@@ -1,0 +1,63 @@
+Title: IIT Gandhinagar | Jugal K. Verma
+Source: https://iitgn.ac.in/faculty/maths/fac-jugal
+
+# Jugal K. Verma
+
+-  Mathematics
+Jugal K. Verma
+
+## Jugal K. Verma
+
+Visiting Professor, Mathematics
+
+- MSc: Birla Institute of Technology and Science, Pilani, Rajasthan, 1981
+- PhD: Purdue University (West Lafayette, USA), 1987
+
+Email: jugal.verma -AT- iitgn.ac.in
+
+Office:  AB 5/339A
+VOIP:  2761
+
+- Arindam Banerjee, Kriti Goel and J. K. Verma, The Hilbert-Samuel coefficients of Frobenius powers of an ideal, to appear in Proceedings of the American Mathematical Society, 2023.
+- Clare D'Cruz, Mousumi Mandal and J. K. Verma, Symbolic Rees algebras and set theoretic complete intersections, Journal of Algebra 630 (2023), 317{333
+- Saipriya Dubey, P. H. Quy and J. K. Verma, Tight Hilbert polynomial and F-rational local rings, to appear in Research in Math. Sciences (2023).
+- Kriti Goel, Vivek Mukundan, Sudeshna Roy and J. K. Verma, Algorithms for computing mixed multiplicities, mixed volumes and sectional Milnor numbers (Software package: MixedMultiplicity included in Macaulay2, version 1.16), Journal of software in algebra and geometry 13 (2023), 1-12.
+- Kriti Goel, Vivek Mukundan, Sudeshna Roy and J. K. Verma, Algorithms for computing mixed multiplicities, mixed volumes and sectional Milnor numbers, to appear in Contemporary Mathematics,American Mathematical Society, 2023.
+
+- Visiting Professor, Indian Institute of Technology Gandhinagar, (July 2024 to present)
+- Head, National Centre for Mathematics, IIT Bombay, (2020-2023)
+- Institute Chair Professor, IIT Bombay, (2018-2021)
+- Visiting Professor, University of Genoa, Italy, (May 2018)
+- Professor (HAG), IIT Bombay, (2012-)
+- Visiting Professor, Vietnam Institute of Advanced Studies, Hanoi (Vietnam), (2012)
+- Chief Vigilance Officer, IIT Bombay, (2011-2012)
+- Dean (Faculty Affairs), IIT Bombay, (2014- 2017)
+- Professor and Head, IIT Bombay, (2006-2009)
+- Visiting Professor, University of Duisberg-Essen, Essen (Germany), (2006)
+- Visiting Professor,Institute of Mathematics, Hanoi (Vietnam), (2002)
+- Professor, IIT Bombay, (1998-)
+- Associate Professor, IIT Bombay, (1994-1998)
+- Assistant Professor, IIT Bombay, (1990-1994)
+- Lecturer, IIT Bombay, (1990-1990)
+- Assistant Professor, Louisiana State University, (1989-1990)
+- V. Assistant Professor, University of Kansas, (1987-1989)
+- David Ross Fellow, Purdue University, (1986-1987)
+- Teaching Assistant, Purdue University, (1981-1987)
+
+Awards
+
+- Gold medal for standing first in SSC examination of Rajasthan State Board, 1974.
+- Fellow of International Centre for Theoretical Physics, 2001-2007.
+- Fellow of National Academy of Sciences, Allahabad, elected in 2008.
+- Fellow of Indian National Science Academy, New Delhi, elected in 2012.
+- Ramanujan Memorial Award Lecture, Indian Mathematical Society, 2013.
+- IIT Bombay Excellence In Teaching Award (Mathematics), 2016.
+- S. P. Sukhatme Institute Excellence in Teaching Award, 2019.
+- S. C. Bhattacharya award for pure sciences, IIT Bombay, 2021.
+
+- ● Hilbert functions
+- ● Blowup algebras
+- ● Local cohomology
+
+Complete List of Publications
+Papers in Google Scholar

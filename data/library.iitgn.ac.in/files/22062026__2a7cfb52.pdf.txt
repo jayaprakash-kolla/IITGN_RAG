@@ -1,0 +1,155 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 25, 2026
+(Added during 15th– 19th June 2026)
+Available for the issue from 27th June 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+ARTIFICIAL INTELLIGENCE
+Title: Mathematical foundations of deep learning models and algorithms
+Author: Spiliopoulos, Konstantinos
+Publisher: Rhode Island: American Mathematical Society, 2025
+Call No.: 006.31 SPI
+Acc. No.: 037122
+Title: Imaging science: computer vision, image and signal processing, pattern
+recognition
+Author: Deligiannidis, Leonidas
+Publisher: Berlin: De Gruyter, 2025
+Call No.: 006.37 DEL
+Acc. No.: 037123
+
+LIBRARY & INFORMATION SCIENCES
+Title: Complete guide to creative technology spaces in academic libraries: media
+labs, makerspaces, and more
+Author: Thompson, Emily
+Publisher: Chicago: ALA Editions Core, 2025
+Call No.: 027.70285 THO
+Acc. No.: 037111
+
+SOCIAL SCIENCES & ENVIRONMENTAL LAWS
+Title: Fleeting agencies: a social history of Indian coolie women in British Malaya
+Author: Datta, Arunima
+Publisher: New York: Cambridge University Press, 2021
+Call No.: 305.4209595 DAT
+Acc. No.: 037109
+
+Title: Development of environmental laws in India
+Author: Kohli, Kanchi
+Publisher: New York: Cambridge University Press, 2021
+Call No.: 344.54046 KOH
+Acc. No.: 037110
+
+NATURAL SCIENCES
+Title: Unruly: the Ig Nobel prizes and the science that refuses to behave
+Author: Sarraju, Upasana
+Publisher: Gurugram: Penguin Books, 2026
+Call No.: 500 SAR
+Acc. No.: 037117
+
+PHYSICS
+Title: Mirror symmetry
+Author: Hori, Kentaro
+Publisher: Rhode Island: American Mathematical Society, 2003
+Call No.: 530.143 HOR
+Acc. No.: 037112
+
+BIOLOGY
+Title: Practical computing for biologists
+Author: Haddock, Steven H. D.
+Publisher: Massachusetts: Sinauer Associates, Inc, 2011
+Call No.: 570.285 HAD
+Acc. No.: 037128 & 037129
+Title: On the future of species: authoring life by means of artificial biological
+intelligence
+Author: Woolfson, Adrian
+Publisher: London: Bloomsbury Publishing, 2026
+Call No.: 576.5 WOO
+Acc. No.: 037118
+
+PUBLIC HEALTH
+Title: Fighting the fever Kala-azar in Eastern India, 1875–1947
+Author: Dutta, Achintya Kumar
+Publisher: Cambridge: Cambridge University Press, 2025
+Call No.: 614.5320954 DUT
+Acc. No.: 037121
+
+CONTROL DEVICES & SEMICONDUCTORS
+Title: SPICE for power electronics and electric power, 3rd ed.
+Author: Rashid, Muhammad H.
+Publisher: New York: CRC Press, 2018
+Call No.: 621.3170285 RAS
+Acc. No.: 037105 & 037106
+
+Title: Electrostatic discharge protection: advances and applications
+Author: Liou, Juin J.
+Publisher: New York: CRC Press, 2016
+Call No.: 621.381 LIO
+Acc. No.: 037107 & 037108
+
+Title: ESD protection device and circuit design for advanced CMOS technologies
+Author: Semenov, Oleg
+Publisher: Dordrecht: Springer, 2008
+Call No.: 621.38152 SEM
+Acc. No.: 037124 & 037125
+
+Title: Physical limitations of semiconductor devices
+Author: Vashchenko, V. A.
+Publisher: New York: Springer, 2010
+Call No.: 621.38152 VAS
+Acc. No.: 037126 & 037127
+
+MANAGEMENT & ENTREPRENEURSHIP
+Title: 80,000 hours: how to have a fulfilling career that does good
+Author: Todd, Benjamin
+Publisher: London: Cornerstone Press, 2026
+Call No.: 650.1 TOD
+Acc. No.: 037115
+
+Title: Building India’s upstarts: a bootstrapped entrepreneur's playbook for success
+Author: Narasimhan, Raghavan
+Publisher: Gurgram: Penguin Business, 2026
+Call No.: 658.11 NAR
+Acc. No.: 037116
+
+LITERATURE
+Title: Vulnerable earth: the literature of climate crisis
+Author: Nayar, Pramod K.
+Publisher: Cambridge: Cambridge University Press, 2024
+Call No.: 809.933556 NAY
+Acc. No.: 037120
+
+Title: Ministry for the future: a novel
+Author: Robinson, Kim Stanley
+Publisher: London: Orbit, 2020
+Call No.: 813.6 ROB
+Acc. No.: 037114
+
+Title: 250 years of Jane Austen: Indian responses
+Author: Shivram, Meenakshi (Ed.)
+Publisher: Hyderabad: Orient BlackSwan, 2026
+Call No.: 823.7 SHI
+Acc. No.: 037104
+
+TRAVEL (ASIA)
+Title: River traveller
+Author: Hazarika, Sanjoy
+Publisher: New Delhi: Speaking Tiger, 2025
+Call No.: 915.4 HAZ
+Acc. No.: 037113
+
+BIOGRAPHY
+Title: Touch of genius: the wisdom of India’s Nobel laureates
+Author: Mukherjee, Rudrangshu (Ed.)
+Publisher: New Delhi: Aleph Book Company, 2026
+Call No.: 920.54 MUK
+Acc. No.: 037119

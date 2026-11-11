@@ -1,0 +1,8 @@
+Title: Fire Laboratory | Centre for Safety Engineering (CSE)
+Source: https://safety.iitgn.ac.in/fire-laboratory
+
+# Sir Henry William Fire Engineering Laboratory
+
+The Centre has inaugurated the Sir William Henry Fire Engineering Laboratory in collaboration with UL. The laboratory is set up to take a vigorous study in the broad perspective on fire.
+
+Fire Lab at IIT Gandhinagar has the in-house facility of iCone mini – Oxygen consumption calorimeter. The Cone Calorimeter is considered the most significant bench scale instrument in fire testing. This apparatus has been adopted by the International Organization for Standardization (ISO 5660-1) for measuring heat release rate (HRR) of a sample under an incident heat flux. The specimen can be exposed to a maximum of 100 kW/m2 heat flux. This device analyzes the combustion gases and measures the produced smoke from the test specimen along with its time to ignition and Mass loss rate. The data collected from this bench scale real fire test can be used for fire modelling, prediction of real scale fire behaviour, pass/fail tests etc.

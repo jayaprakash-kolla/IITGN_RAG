@@ -1,0 +1,582 @@
+#flags:
+
+Medals and awards conferred at the fifth convocation
+Sr
+No
+1.
+
+NAME OF AWARDEE
+
+ROLL
+NUMBER
+
+CPI
+
+BRANCH
+
+President’s Gold Medal, B.Tech
+
+Patil Radhika Pramod
+
+12110069
+
+9.74
+
+Mechanical Engineering
+
+2.
+
+President’s Gold Medal, M.Tech
+
+Nanditha J S
+
+14210029
+
+9.43
+
+Civil Engineering
+
+3.
+
+President’s Gold Medal, MSc and MA
+
+Sini Varghese
+
+14520010
+
+8.98
+
+Society & Culture
+
+4.
+
+Institute Gold Medal - Mechanical Engineering,
+B.Tech
+Institute Gold Medal - Chemical Engineering,
+B.Tech
+Institute Gold Medal - Electrical Engineering,
+B.Tech
+Institute Gold Medal – Civil Engineering, M.Tech
+
+Patil Radhika Pramod
+
+12110069
+
+9.74
+
+Mechanical Engineering
+
+Nishit Shetty
+
+12110058
+
+8.90
+
+Chemical Engineering
+
+Jatindeep Singh
+
+12110029
+
+9.45
+
+Electrical Engineering
+
+Nanditha J S
+
+14210029
+
+9.43
+
+Civil Engineering
+
+Vandana Rajput
+
+14210020
+
+8.78
+
+Chemical Engineering
+
+Puchalapalli
+Sambasivaiah
+Mohit Garg
+
+14210058
+
+9.22
+
+Electrical Engineering
+
+14210106
+
+8.80
+
+Aditya Sarkar
+
+14210065
+
+8.57
+
+12.
+
+Institute Gold Medal – Chemical Engineering,
+M.Tech
+Institute Gold Medal – Electrical Engineering,
+M.Tech
+Institute Gold Medal – Mechanical Engineering,
+M.Tech
+Institute Gold Medal – Material Science and
+Engineering, M.Tech
+Institute Gold Medal – Chemistry, MSc
+
+Ravi Srivastava
+
+14510008
+
+8.97
+
+Mechanical
+Engineering
+Material Science and
+Engineering
+Chemistry
+
+13.
+
+Institute Gold Medal – Mathematics, MSc
+
+Nitesh Kumar
+
+14510030
+
+8.80
+
+Mathematics
+
+14.
+
+Institute Gold Medal – Physics, MSc
+
+Akash Kumar Mishra
+
+14510035
+
+8.00
+
+Physics
+
+15.
+
+Institute Gold Medal – Cognitive Science, MSc
+
+Devu Mahesan
+
+14510013
+
+8.98
+
+Cognitive Science
+
+16.
+
+Institute Gold Medal – MA
+
+Sini Varghese
+
+14520010
+
+8.98
+
+Society & Culture
+
+17.
+
+Institute Silver Medal - Mechanical Engineering,
+B.Tech
+Institute Silver Medal - Chemical Engineering,
+B.Tech
+Institute Silver Medal - Electrical Engineering,
+B.Tech
+Institute Silver Medal – Civil Engineering, M.Tech
+
+Pranshul Saini
+
+12110064
+
+9.57
+
+Mechanical Engineering
+
+Hema Choudhary
+
+12110026
+
+8.52
+
+Chemical Engineering
+
+Salecha Kushal
+
+12110038
+
+9.31
+
+Electrical Engineering
+
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+
+18.
+19.
+20.
+21.
+
+AWARD CATEGORY
+
+Not recommended. The total strength of the graduating students is less than 20
+
+25.
+
+Institute Silver Medal – Chemical Engineering,
+M.Tech
+Institute Silver Medal – Electrical Engineering,
+M.Tech
+Institute Silver Medal – Mechanical Engineering,
+M.Tech
+Institute Silver Medal – Material Science and
+Engineering, M.Tech
+Institute Silver Medal – Chemistry, MSc
+
+26.
+
+Institute Silver Medal – Mathematics, MSc
+
+Not recommended. The total strength of the graduating students is less than 20
+
+27.
+
+Institute Silver Medal – Physics, MSc
+
+Not recommended. The total strength of the graduating students is less than 20
+
+22.
+23.
+24.
+
+Not recommended. The total strength of the graduating students is less than 20
+
+Sunny Verma
+
+14210063
+
+9.11
+
+Electrical Engineering
+
+Abheeti Goyal
+
+14410003
+
+8.27
+
+Mechanical Engineering
+
+Not recommended. The total strength of the graduating students is less than 20
+Not recommended. The total strength of the graduating students is less than 20
+
+28.
+
+Institute Silver Medal – Cognitive Science, MSc
+
+Not recommended. The total strength of the graduating students is less than 20
+
+29.
+
+Institute Silver Medal – MA
+
+Not recommended. The total strength of the graduating students is less than 20
+
+30.
+
+Director's Gold Medal, B.Tech
+
+Yash Pratap Singh
+
+31.
+
+Director's Gold Medal, M.Tech
+
+None found suitable
+
+32.
+
+Director's Gold Medal, PhD
+
+33.
+
+Director's Gold Medal, MSc and MA
+
+34.
+
+12110120
+
+8.13
+
+Mechanical Engineering
+
+Payel Chattopadhyay
+Mukherjee
+Ratna Bharti B
+
+11310006
+
+9.82
+
+14520007
+
+8.32
+
+Humanities and Social
+Sciences
+MA in Society & Culture
+
+Pranshul Saini
+
+12110064
+
+9.57
+
+Mechanical Engineering
+
+Palak Sadani
+
+12110060
+
+8.07
+
+Chemical Engineering
+
+Salecha Kushal
+
+12110038
+
+9.31
+
+Electrical Engineering
+
+37.
+
+Director's Silver Medal - Mechanical Engineering,
+B.Tech
+Director's Silver Medal - Chemical Engineering,
+B.Tech
+Director's Silver Medal - Electrical Engineering,
+B.Tech
+Award for Outstanding Innovation
+
+Chitranshu Kumar
+
+12110018
+
+7.03
+
+Electrical Engineering
+
+38.
+
+Award for Outstanding Social Service
+
+Salecha Kushal
+
+12110038
+
+9.31
+
+Electrical Engineering
+
+39.
+
+Ajnadkar Chinmay
+Kishor
+Malireddi Sri Raghu
+
+12110017
+
+7.73
+
+Electrical Engineering
+
+40.
+
+Award for Integrity and Exemplary Human
+Qualities
+Award for the Outstanding Research (B.Tech)
+
+12110098
+
+8.76
+
+Electrical Engineering
+
+41.
+
+Award for the Outstanding Research (M.Tech)
+
+Jyoti Maheshwari
+
+14210049
+
+9.00
+
+Electrical Engineering
+
+42.
+
+Award for the Outstanding Research (PhD)
+
+Thorat Alpana
+Ankush
+
+10101001
+
+7.77
+
+Chemical Engineering
+
+43.
+
+Award for the Outstanding Research (MSc and
+MA)
+Award for Overall Outstanding Performance in
+Sports
+
+Nupur Joshi
+
+14520005
+
+8.74
+
+MA in Society & Culture
+
+Animesh Singh
+Kumawat
+
+12110009
+
+8.27
+
+Electrical Engineering
+
+45.
+
+Award for Outstanding Performance in Aquatics
+
+Animesh Singh
+Kumawat
+
+12110009
+
+8.27
+
+Electrical Engineering
+
+46.
+
+Award for Outstanding Performance in Indoor
+sports
+Award for Outstanding Performance in Outdoor
+sports
+Award for Outstanding Performance in Athletics
+
+None found suitable
+
+Awards for Outstanding Performance in Arts and
+Culture
+Pioneer Batch Award for Outstanding Leadership
+
+None found suitable
+Vishvendra Singh
+
+12110115
+
+6.78
+
+Mechanical Engineering
+
+Award for the best performance in the core
+courses in Engineering Graphics, and
+Manufacturing and Workshop Practice
+Award for the best performance in core courses
+of Mathematics
+Award for the best performance in core courses
+in Physics and Chemistry and Life science
+Award for the best performance in core courses
+in Humanities and Social Sciences
+Award for the Best Overall Performance in
+Humanities and Social Sciences Subjects
+
+Nirmal Jayaprasad
+Nair
+
+12110057
+
+9.24
+
+Mechanical Engineering
+
+Jatindeep Singh
+
+12110029
+
+9.45
+
+Electrical Engineering
+
+Salecha Kushal
+
+12110038
+
+9.31
+
+Electrical Engineering
+
+Patil Radhika Pramod
+
+12110069
+
+9.74
+
+Mechanical Engineering
+
+Yash Pratap Singh
+
+12110120
+
+8.13
+
+Mechanical Engineering
+
+35.
+36.
+
+44.
+
+47.
+48.
+49.
+50.
+51.
+
+52.
+53.
+54.
+55.
+
+None found suitable
+None found suitable

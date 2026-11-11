@@ -1,0 +1,42 @@
+Title: IIT Gandhinagar | ra-akash
+Source: https://iitgn.ac.in/srs/mse/ra-akash
+
+# Akash Ashok Deshmukh
+
+- Senior Research Staff
+Akash Ashok Deshmukh
+
+## Akash Ashok Deshmukh
+
+Research Associate, Materials Engineering
+
+- BSc: SK Porwal College of Arts, Commerce and Science (2009)
+- MSc: RTM Nagpur University, Maharashtra (2011)
+- PhD: RTM Nagpur University, Maharashtra (2020)
+
+Email: a.deshmukh -AT- iitgn.ac.in
+
+Work experience
+
+- Research Associate, Indian Institute of Technology Ganddhinagar (Jun 2021 – Present)
+
+Selected Publications
+
+Local structure investigation of Co‒Fe‒Si‒B ribbons by extended X‒ray absorption fine structure spectroscopy, A. A. Deshmukh, A. P. Srivastava, J. P. Singh, Manish Kumar, K. H. Chae, K. Asokan, U. A. Palikundwar, J. Synchrotron Radiat. 28 (2021) 240-246. https://doi.org/10.1107/S1600577520015131.
+
+Dynamic probing of structural evolution for Co50Ni50 metallic glass during pressurized cooling using atomistic simulation, A. A. Deshmukh, Snehanshu Pal. J. Mol. Model. 26 (2020) 208. https://doi.org/10.1007/s00894-020-04468-4.
+
+Understanding the role of Er on glass–forming ability parameters and critical cooling rate in Fe‒based multicomponent bulk metallic glasses, A. A. Deshmukh, A. A. Khond, J. G. Bhatt, U. A. Palikundwar. J. Alloys Compd. 819 (2020) 152938. https://doi.org/10.1016/j.jallcom.2019.152938.
+
+Investigation of glass forming ability parameters in Hf–Cu–Ni glassy alloy, A. A. Deshmukh, A. A. Khond, A. P. Srivastava, J. G. Bhatt, and U. A. Palikundwar. Eng. Res. Express 2 (2020) 015047. https://doi.org/10.1088/2631-8695/ab7ee6.
+
+Prediction of glass forming compositions in Al–Fe–Si alloy system by thermodynamic approach, A. A. Deshmukh, A. A. Khond, U. A. Palikundwar. J. Non–Cryst Solids 477 (2017) 50-57. https://doi.org/10.1016/j.jnoncrysol.2017.09.044.
+
+- ● Metallic Glasses (MGs)
+- ● Mechanical behavior of MGs
+- ● Thermodynamic Modeling
+- ● X-ray Absorption Spectroscopy (XAS)
+- ● Extended X-ray Absorption Fine Structure (EXAFS) Spectroscopy
+- ● Molecular Dynamics simulations
+- ● Density Functional Theory (DFT)
+- ● High Entropy Alloys (HEAs)

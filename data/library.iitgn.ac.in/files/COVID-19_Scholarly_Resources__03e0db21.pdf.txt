@@ -1,0 +1,466 @@
+#flags:
+
+​Scholarly Resources On Coronavirus (Covid-19)
+(Freely accessible)
+Updated on 14th May, 2020
+
+Meta Sources (Search Engines)
+arxiv: COVID 19
+BASE: Bielefeld Academic Search Engine
+
+https://www.base-search.net/
+
+COVID-19 research database
+
+https://covid19researchdatabase.org/
+
+bioRxiv: Preprint server for Biology- COVID-19
+SARS-CoV-2
+
+https://connect.biorxiv.org/relate/content/181
+
+CORE-Aggregating the world's open access
+research papers
+
+https://core.ac.uk/
+
+Google Scholar: Articles about COVID 19
+
+https://scholar.google.com/
+
+COVID Scholar- AI based new search engine
+
+https://www.covidscholar.org/
+
+medRxiv: Preprint for Health
+Sciences-COVID-19 SARS-CoV-2
+
+https://connect.medrxiv.org/relate/content/181
+
+LitCOVID- National Library of Medicine
+
+https://www.ncbi.nlm.nih.gov/research/coronavirus/docsu
+m
+
+Meta (Beta version): COVID 19
+
+https://www.meta.org/feed-previews/covid-19/af84352b-28
+5c-4b73-9254-41610da4413b?sf120418075=1
+
+Microsoft Academic:Coronavirus disease 2019
+(COVID-19)
+
+https://academic.microsoft.com/topic/3008058167
+
+PubChem:COVID-19 (Coronavirus Disease
+2019) data in PubChem
+
+https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus
+
+SciFinder-n
+
+https://sso.cas.org/as/8uMuI/resume/as/authorization.ping
+
+Scopus
+
+https://www.scopus.com/
+
+Semantic Scholar: CORD-19 COVID-19 Open
+Research Dataset
+
+https://www.semanticscholar.org/cord19
+
+Web of Science
+
+https://apps.webofknowledge.com/WOS_GeneralSearch_in
+put.do?product=WOS&search_mode=GeneralSearch&SID=D
+6yYFHS1zFnIFydsUdG&preferencesSaved=
+
+Sources for Locating Full Text of Articles
+
+Resources
+
+Link
+
+AIP Publishing: COVID-19 pandemic
+
+https://publishing.aip.org/publications/journals/covid-19/
+
+American Chemical Society
+Efforts & Resources on COVID-19
+
+https://www.acs.org/content/acs/en/covid-19.html
+Chemistry in Coronavirus Research – Free to read collection
+
+American College of Physicians: Annals
+of Internal Medicine
+
+https://annals.org/aim/pages/coronavirus-content
+
+American College of Physicians:
+Covid-19 ACP Physician's Guide
+
+https://www.acponline.org/clinical-information/clinical-reso
+urces-products/coronavirus-disease-2019-covid-19-informati
+on-for-internists
+
+American Medical Association: JAMA
+Coronavirus Resource Center
+
+https://jamanetwork.com/journals/jama/pages/coronavirusalert
+
+American Society for Microbiology:
+Novel Coronavirus resources and
+research articles
+
+https://asm.org/Press-Releases/2020/COVID-19-Resources
+
+American Society of Mechanical
+Engineers
+
+COVID-19 Resource
+
+APA: Pandemics- General Articles
+
+https://www.apa.org/practice/programs/dmhi/research-info
+rmation/pandemics
+
+APA:COVID-19Free Articles from APA
+Journals
+
+https://www.apa.org/pubs/highlights/covid-19-articles
+
+ASTM Standards & COVID-19
+
+https://www.astm.org/COVID-19/
+
+BioOne COVID-19 articles: open access
+through 2020
+
+https://complete.bioone.org/covid-19
+
+BioWorld
+
+Coronavirus articles free access
+
+Brill COVID-19 Collection
+
+https://www2.brill.com/COVID-19_Collection
+
+British Medical Journal (BMJ):
+Coronavirus
+
+https://www.bmj.com/coronavirus
+
+CABI
+
+Focus on Coronavirus
+
+Cambridge University Press COVID-19
+articles and book chapters
+
+https://www.cambridge.org/core/browse-subjects/medicine
+/coronavirus-free-access-collection
+https://www.cambridge.org/core/news/free-access-to-coron
+avirus-research
+
+Cell Press Coronavirus Resource Hub
+
+https://www.cell.com/2019-nCOV?utm_medium=homepage
+
+Centre for Disease Control &
+Prevention USA: Coronovirus
+
+https://www.coronavirus.gov
+
+Clarivate ( Web of Science)
+
+Coronavirus resources
+
+Cochrane Library:Coronavirus
+(COVID-19)
+
+https://www.cochranelibrary.com/covid-19
+
+COVID-19 Updates & Information
+powered by EBSCO
+
+https://covid-19.ebscomedical.com/
+
+CSIRO Journal of Primary Healthcare
+
+Coronavirus (COVID-19): infection control and prevention
+measures
+https://www.publish.csiro.au/aboutus
+
+Duke University Press: Navigating the
+Threat of Pandemic Syllabus
+
+https://www.dukeupress.edu/Explore-Subjects/Syllabi/Navig
+ating-Pandemic-Syllabus
+
+DynaMed COVID-19 (Novel
+Coronovirus) Topic Guide
+
+https://www.dynamed.com/condition/covid-19-novel-coron
+avirus/
+
+Elsevier:Novel Coronavirus Information
+Center
+
+https://www.elsevier.com/connect/coronavirus-informationcenter
+
+Emerald Publishing free content related
+to Coronavirus and the management of
+epidemics
+
+https://www.emeraldgrouppublishing.com/promo/coronavir
+us.htm
+
+European Respiratory Society
+
+SARS-CoV-2 and COVID-19
+
+Future Science Group
+
+COVID-19 Hub
+
+HighWire Press: COVID-19 On the
+Information Frontline
+
+https://www.highwirepress.com/news/adjusting-to-the-newnormal-publishing-in-the-time-of-covid-19/
+
+IEEE
+
+COVID-19 Related Research Now Free to Read in IEEE Xplore
+
+Indian Council of Medical Research
+
+COVID-19
+
+IHS: Covid-19 Resource Hub- Helping
+Cities and Towns confront Covid-19
+
+https://www.ihs.nl/en/resources/covid-19-resource-hub
+
+Institute of Physics Publishing
+
+Coronavirus articles - free to access content
+●
+
+IntechOpen
+
+Pneumonia of Viral Etiologies
+● Coronaviruses as encephalitis – Inducing infectious
+agents
+● Structural and functional aspects of viroporins in human
+respiratory viruses: Respiratory syncytial virus and
+coronaviruses
+● Bats, bat-borne viruses, and environment changes
+Ithaka S+R COVID-19: resources for
+higher education and academic libraries
+
+https://sr.ithaka.org/our-work/covid-19/
+
+JAMA : Coronavirus Disease 2019
+(COVID-19)
+
+Coronavirus Resource Center
+
+JoVE Coronavirus Free Access Resource
+Center
+
+https://www.jove.com/coronavirusresource
+
+JSTOR resources during COVID-19
+
+https://about.jstor.org/covid19/
+
+Karger Topic Article Package:
+Coronavirus (COVID-19)
+
+https://www.karger.com/Tap/Home/278492
+
+Mary Ann Liebert, Inc: Coronavirus
+Highlights Urgent Need for
+Science-Backed Research
+
+https://home.liebertpub.com/lpages/-coronavirus-science-ba
+cked-research/250/
+
+●
+
+●
+●
+●
+●
+●
+●
+
+Microbiology Australia
+
+COVID-19: a novel zoonotic disease caused by
+coronavirus from China: what we know and what we
+don't
+Persistent or long-term coronavirus infection in
+Australian bats
+Laboratory accidents and breaches in biosafety – they
+do occur!
+Bat viruses and diseases
+The interplay between viruses and the immune system
+of bats
+Bat and virus ecology in a dynamic world
+The movement of humans and the spread of Salmonella
+into existing and pristine ecosystems
+
+MIT Press: Articles for Understanding
+Pandemics and Epidemiology
+
+https://mitpress.mit.edu/blog/articles-understanding-pande
+mics-and-epidemiology
+
+National Digital Library of India
+
+https://www.ndl.gov.in/
+
+National Institutes of Health:
+Coronavirus
+
+https://www.nih.gov/coronavirus
+●
+
+National Library of Medicine
+
+MEDLINE Plus: Coronavirus Infections
+● LitCovid
+Nature Magazine: Coronavirus and
+COVID-19
+
+https://www.nature.com/collections/aijdgieecb
+
+New England Journal of Medicine
+COVID-19 Resources
+
+https://www.nejm.org/coronavirus
+
+Oxford University Press free access to
+resources on coronavirus and related
+topics
+
+https://academic.oup.com/journals/pages/coronavirus
+
+PLoS: COVID-19 Updates
+
+https://plos.org/covid-19/
+
+Project MUSE: Free Resources on MUSE
+During COVID-19
+
+https://about.muse.jhu.edu/resources/freeresourcescovid19
+/
+
+Royal Society of Chemistry
+
+https://www.chemistryworld.com/coronavirus/100140.tag
+
+Royal Society of Chemistry
+
+Coronavirus articles - free to access collection
+
+Royal Society: Sharing research data
+and findings relevant to the novel
+coronavirus outbreak
+
+https://royalsociety.org/journals/
+
+Sage Publishing: Free access COVID-19
+articles
+
+https://us.sagepub.com/en-us/nam/press/access-coronaviru
+s-covid-19-articles-from-sage-publishing
+
+Science (AAAS)
+
+Coronavirus Disease 2019
+
+Science Magazine: Coronavirus:
+Research, Commentary, and News
+
+https://www.sciencemag.org/coronavirus-research-commen
+tary-and-news?intcmp=ghd_cov
+
+SIAM Epidemiology Collection
+
+https://epubs.siam.org/page/EpidemiologyCollection
+
+Society of Critical Care Medicine
+
+https://covid19.sccm.org/
+
+Springer Nature
+
+Coronavirus
+
+Springer Nature: Coronavirus Protocols
+and Methods on Springer Nature
+Experiments
+
+https://experiments.springernature.com/organisms/coronavi
+rus
+
+Springer Nature: Free research articles,
+ebooks, and additional commentary on
+COVID-19
+
+https://www.springernature.com/gp/researchers/campaigns
+/coronavirus
+
+Springer Publishing Company
+
+COVID-19 Response
+
+Taylor & Francis: COVID-19: Novel
+Coronavirus Content
+
+https://taylorandfrancis.com/coronavirus/
+
+Thieme Pub: Coronavirus
+
+https://www.thieme.com/resources/1721-coronavirus
+
+University of Chicago Press articles and
+book reviews on COVID-19
+
+https://www.journals.uchicago.edu/coronavirus
+
+WHO
+
+Global Research on Coronavirus Disease (WHO)
+
+Wiley Online Library: Free to access
+Novel Coronavirus Content
+
+https://www.scitrus.com/special/novel%20coronavirus%20o
+utbreak/
+
+Wiley: Covid-19: Novel Coronavirus
+Content Free to Access
+
+https://novel-coronavirus.onlinelibrary.wiley.com/
+●
+
+Wolters Kluwer
+
+Coronavirus Resources & Tools
+● Nursing Center – 2019 Novel Coronavirus
+
+World Scientific: Coronavirus
+information from World Scientific
+
+https://www.worldscientific.com/worldscibooks/10.1142/11
+834
+
+ZB MED Establishes special services to
+support research
+
+https://covid-19.zbmed.de/

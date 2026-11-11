@@ -1,0 +1,55 @@
+Title: IIT Gandhinagar | Gaurav Srivastava
+Source: https://iitgn.ac.in/faculty/civil/fac-gaurav
+
+# Gaurav Srivastava
+
+-  Civil Engineering
+Gaurav Srivastava
+
+## Gaurav Srivastava
+
+Dr. Vilas Mujumdar Chair Professor, Civil Engineering
+
+- BTech: IT-BHU, Varanasi, 2007
+- MS: University of Minnesota, 2008
+- PhD: University of Minnesota, 2011
+
+Email: gauravs -AT- iitgn.ac.in
+
+ Website :  https://gauravs.people.iitgn.ac.in
+
+Office:  AB 6/405
+VOIP:  2454
+
+Books
+
+S. Chandrasekaran, Gaurav Srivastava. Fire-Resistant Design of Structures, Boca Raton: CRC Press, ISBN: 9781003328711. [2022].
+
+Gaurav Srivastava, Pravinray Gandhi. Performance of Combustible Facade Systems used in Green Building Technologies under Fire, Singapore: Springer, ISBN:9789811631122, 9789811631146, 9789811631115. [2022].
+
+S. Chandrasekaran, Gaurav Srivastava. Design Aids of Offshore Structures Under Special Environmental Loads including Fire Resistance, Singapore: Springer, ISBN: 9789811076077, 9789811076084. [2018].
+
+Articles
+
+Gaurav Srivastava, Vikash Kumar Singh. "Effect of PVME on cement hydration and pore creation in mortar at elevated temperatures”, In: ASCE Journal of Materials in Civil Engineering, accepted [2023].
+
+Dharmit Nakrani, Gaurav Srivastava. "Experimental study on fire performance of ventilated facade system”, In: Structural Engineering Digest IAStructE, accepted [2023].
+
+Dharmit Nakrani, Gaurav Srivastava. "Full-scale fire performance of combustible and non-combustible curtain wall systems with firestops”, In: Fire Technology, https://doi.org/10.1007/s10694-022-01342-y. [2022].
+
+Dravesh Yadav, Gaurav Srivastava. "Characterization of blast loads due to explosion of energetic materials through multi-physics computer simulations”, In: 4th Structural Integrity Conference and Exhibition, Hyderabad, India [2022].
+
+Gaurav Srivastava, Dharmit Nakrani, Chinmay Ghoroi. "Performance of combustible facade systems with glass, ACP and firestops in full-scale, real fire experiments”, In: Fire Technology, vol. 56, no. 4, pp. 1575-1598. [2020].
+
+P. Ravi Prakash, Gaurav Srivastava. "Distributed plasticity model for analysis of steel structures subjected to fire using the direct stiffness method”, In: Fire Safety Journal, vol. 105, pp. 169-187. [2019].
+
+- Professor, Indian Institute of Technology Gandhinagar (Nov 2024 to Present)
+- Associate Professor, Indian Institute of Technology Gandhinagar (Feb 2020 - Nov 2024)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (May 2013 to Feb 2020)
+- Postdoctoral Research Associate, University of Notre Dame, (Jun 2011 to Dec 2012)
+
+- ● Uncertainty quantification
+- ● Structural Fire Engineering
+- ● Computational mechanics
+
+Complete List of Publications

@@ -1,0 +1,40 @@
+Title: IIT Gandhinagar | Vinod Narayanan
+Source: https://iitgn.ac.in/faculty/me/fac-vinod
+
+# Vinod Narayanan
+
+-  Mechanical Engineering
+Vinod Narayanan
+
+## Vinod Narayanan
+
+Professor, Mechanical Engineering
+
+- BTech: Mahatma Gandhi University, 1995
+- MTech: University of Kerala, 1999
+- PhD: Jawaharlal Nehru Centre for Advanced Scientific Research, 2005
+
+Email: vinod -AT- iitgn.ac.in
+
+Office:  AB 4/304
+VOIP:  2404
+
+- Global stability analysis of spatially developing boundary layer:Effect of streamwise pressure gradients, Ramesh Bhoraniya and Narayanan Vinod, Fluid Dynamics, (to appear in 2019).
+- Control of optimal growth of instabilities in Jeffery-Hamel flow, Ravi Kant and Narayanan Vinod, AIP Advances, (to appear in 2019).
+- Global stability analysis of axisymmetric boundary layers, Ramesh Bhoraniya and Narayanan Vinod Theoretical and Computatiional Fluid Dynamics, Volume 32, Issue 4, pp 425-449, 2018.
+- Global stability analysis of axisymmetric boundary layer over a circular cone, Ramesh Bhoraniya and Narayanan Vinod, Phys. Rev. Fluids 2, 063901 (2017).
+- Global stability analysis of axisymmetric boundary layer over a circular cone, Ramesh Bhoraniya and Narayanan Vinod, J. Phys.: Conf. Ser. 822 012018, 2017.
+- N. Vinod and R. Govindarajan "Secondary instabilities in axisymmetric, boundary layers", Journal of Fluid Engineering, ASME, J. Fluids Eng. 134, 024503 (2012).
+
+- Professor, Indian Institute of Technology Gandhinagar (Apr 2025 - Present)
+- Associate Professor, Indian Institute of Technology Gandhinagar (Feb 2020 - Apr 2025)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (May 2010 - Feb 2020)
+- Scientist, Metacomp Technologies Pvt Ltd., Chennai (Dec 2008 - May 2009)
+- Post-doc, Dept of Mechanical Engineering, University of California at Santa Barbara, USA (May 2007 - Aug 2008)
+- Post-doc, Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore, INDIA, Braunschweig, Germany (Oct 2005 - Apr 2007)
+
+- ● Flow instabilities and transition to turbulence
+- ● Compressible fluid flow
+- ● Convective heat transfer
+
+Complete List of Publications

@@ -1,0 +1,67 @@
+Title: Reconstructing Shuffled Mystery Pages at Hackrush 2026
+Source: https://cse.iitgn.ac.in/blog/hackrush-2026-surriya-archivist-puzzle
+
+SU
+
+Surriya
+5 May 2026· 3 min read
+
+One of the Hackrush 2026 problems was a narrative reconstruction challenge inspired by Cain’s Jawbone. We were given two mystery books as CSV files of shuffled text fragments. The goal was to reconstruct the original page order for each book.
+
+The submission format required, for each book, a CSV mapping reconstructed original_page positions to the shuffled_page identifiers from the input. The evaluation used a normalized Kendall-Tau score: a random permutation scores near 0.5, while a perfect reconstruction scores 1.0.
+
+## High-Level Strategy
+
+I framed page ordering as a minimum-cost Hamiltonian path problem, similar to a directed TSP. Each page is a node. A directed edge from page i to page j receives a weight that estimates how naturally page i precedes page j.
+
+Solving the full book as one massive TSP instance would be too expensive, so the pipeline first divides pages into chapter buckets using structural cues and embedding similarity. Each bucket is solved independently and the results are concatenated.
+
+The pipeline looked like this:
+Load pages -> normalize text and extract head/tail windows -> compute dense embeddings -> detect chapter-heading anchors -> assign pages to chapter buckets -> build directed edge weights inside each bucket -> solve a Hamiltonian path -> concatenate bucket solutions -> write submission CSV
+
+## Text, Embeddings, and Anchors
+
+Each page was normalized with Unicode fixes, whitespace cleanup, and punctuation cleanup. I extracted head and tail windows of about 120 words. The tail of one page and the head of another are the most important regions for estimating adjacency.
+
+For dense embeddings, I used BAAI/bge-large-en-v1.5 through sentence-transformers. The pipeline computed embeddings for full pages, heads, and tails. Full-page embeddings were used for chapter bucketing, while tail and head embeddings were used for directed transition scoring.
+
+Chapter headings such as Chapter IV or CHAPTER XII were detected using a regex that supported both Roman numerals and digits. Detected anchors were treated as fixed starting pages for their chapter buckets.
+
+## Bucket Assignment
+
+The default assignment method was nearest-anchor matching: each page was assigned to the chapter whose anchor embedding was most similar. A balance constraint prevented any single chapter from becoming too large.
+
+I also supported spectral methods. Spectral seriation builds a graph from embedding similarities and uses a one-dimensional ordering signal to divide pages into buckets. A dynamic-programming variant added penalties for implausible chapter transitions.
+
+After assignment, oversized buckets were trimmed by moving outlying pages to adjacent chapters. This helped keep bucket sizes practical for the route solver.
+
+## Edge Scoring
+
+Within each bucket, I built an N x N directed edge-weight matrix. Several signals contributed to each edge:
+
+- Tail-to-head embedding cosine similarity.
+- Exact boundary word overlap between the suffix of page i and prefix of page j.
+- Character or named-entity flow, using Jaccard similarity over recurring proper nouns.
+- Optional causal language-model boundary scores.
+- Optional cross-encoder reranker scores.
+The expensive LM and reranker features were computed only for the top candidates from cheaper signals, usually the top 30 per page. Scores were cached in SQLite so repeated experiments did not recompute the same pairs.
+
+## Solving and Ensembling
+
+The main solver used OR-Tools routing to find a minimum-cost directed Hamiltonian path for each bucket, with a configurable time limit. Beam search and greedy search were available as faster fallbacks.
+
+After route solving, an optional sliding-window refinement pass checked consecutive windows and applied local reorderings when they improved the score.
+
+Multiple independent runs could then be ensembled. I supported Borda averaging and an approximate Kemeny median using pairwise preferences, greedy insertion, and adjacent-swap refinement.
+
+## Takeaway
+
+The key insight was that page ordering is not purely local. Chapter boundaries provide global scaffolding, while semantic similarity, exact boundary overlap, and character flow handle fine-grained ordering inside each chapter.
+
+The OR-Tools solver helped avoid many greedy local mistakes. Hackrush made this problem especially interesting because it sat between NLP, optimization, and software engineering: the final score depended not just on a good model, but on a reliable end-to-end pipeline.
+
+## Related Articles
+
+01 MayBuilding a Rule-Aware Snake Bot for Hackrush 2026#hackrush2026Game AI
+02 MayBazaar@IITGN: A Campus Marketplace for Hackrush 2026#hackrush2026Web Development
+03 MayFew-Shot Bone Marrow Cell Classification at Hackrush 2026#hackrush2026Machine Learning

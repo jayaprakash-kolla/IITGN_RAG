@@ -1,0 +1,44 @@
+Title: IIT Gandhinagar | sabarmati_seminar
+Source: https://iitgn.ac.in/academics/lectures/sabarmati_seminar
+
+## Sabarmati Young Researchers' Seminar Series
+
+ A unique seminar series, under which, young researchers (including senior PhD students, postdoctoral fellows & young faculty members) under the age of 35 years could be invited to IITGN to deliver a research seminar in their area of expertise.
+
+#### Title of Seminar
+
+#### Speaker
+
+#### Discipline
+
+#### Date of Visit
+
+| Development and Optimization of Next Generation Optoelectronic and Memory Devices using Oxide Semiconductors and their Integration with 2D Semiconductors | Kaushik P. Seshadreesan | Physics | 21-Jan-2020 |
+| Efficient Large-Scale Graph Processing | Archak Purkayastha | Physics | 9-Jan-2020 |
+| The Parameterized Complexity of Network Design Problems | Ruta Desai | Computer Science and Engineering | 7-Jan-2020 |
+| Understanding the role of climate characteristics on drought propogation | Bidyut Sarkar | Chemistry | 7-Jan-2020 |
+| Geometric control of mechanical systems | Harish Parikh | Computer Science and Engineering | 3-Jan-2020 |
+| Attitude Tracking Control for Aerobatic Helicopters: A Geometric Approach | Gautam Pai | Computer Science and Engineering | 2-Jan-2020 |
+| Effective dynamics of a quartic oscillator | Niraj Chawake | Materials Science and Engineering | 27-Dec-2019 |
+| Meshfree numerical modeling for 'problem-solving' in Geoscience | Manas Chakraborty | Chemistry | 20-Dec-2019 |
+| Anomaly and Index Theorem | Rajesh Chaunsali | Mechanical Engineering | 12-Dec-2019 |
+| Abrupt climate anomalies recorded in lacustrine and marine sediments during the Quaternary | Yama Dixit | Earth Sciences | 11-Dec-2019 |
+| In-process discontinuity detection during friction stir welding | Rohit Vaish | Computer Science and Engineering | 6-Dec-2019 |
+| Development of a Colorimetric Plasmonic Nanosensor for the Detection of Therapeutic Levels of Ionizing Radiation | Alok Chaudhari | Earth Sciences | 23-Nov-2019 |
+| Friction Stir Processing of Beta Titanium Alloys: Challenges and Opportunities | Aniket Dutt | Materials Science and Engineering | 22-Nov-2019 |
+| Engineering Thermal Conduction in Semiconductor Nanostructures | Abhinav Malhotra | Chemical Engineering | 22-Nov-2019 |
+| Synchronization: a novel framework to study coupled interactions in thermoacoustic system | Samadhan A Pawar | Mechanical Engineering | 20-Nov-2019 |
+| Design, Function and Utilization of Surface Coatings for Mitigating Battery Degradation | Vikrant | Chemical Engineering | 6-Nov-2019 |
+| Friction Stir Processing of Beta Titanium Alloys: Challenges and Opportunities | Amber Shrivastava | Materials Science and Engineering | 21-Oct-2019 |
+| Synchronization: a novel framework to study coupled interactions in thermoacoustic system | Rosy Sharma | Chemistry | 18-Oct-2019 |
+| Engineering Thermal Conduction in Semiconductor Nanostructures | Karthik S Pushpavanam | Chemical Engineering | 16-Aug-2019 |
+| Recent Advances in Image Motion Deblurring | Arnab Rudra | Physics | 8 & 9-Aug-2019 |
+| Large scale CFD modeling of gas-particle flows in fluidized beds | Bidisha Chakrabarty | Physics | 27-Jun-2019 |
+| Continuous-variable quantum repeaters based on the quantum scissors and mode multiplexing | Pankaj Kumar Mishra | Earth Sciences | 8-May-2019 |
+| Synthesis of B2 aluminides (FeAl and NiAl) using spark plasma sintering and their high temperature deformation | Nidhish Raj | Electrical Engineering | 22-Apr-2019 |
+| Understanding complex geochemical reactions insights from high pressure-temperature in-situ synchrotron experiments | Aradhana Nayak | Electrical Engineering | 11-Apr-2019 |
+| Abrupt climate anomalies recorded in lacustrine and marine sediments during the Quaternary | Tushar Apurv | Civil Engineering | 17-Jan-2019 |
+| Topological Metamaterials: emerging trends in manipulating mechanical waves | Tejendra Dixit | Electrical Engineering | 9-Jan-2019 |
+| Diverse functions of molecular motors: from mitosis to cellular transport to microtubule organization | Pranabendu Misra | Computer Science and Engineering | 7-Jan-2019 |
+| Robot Design for Everyone -- Computational Tools that Democratize the Design of Robots | Keval Vora | Computer Science and Engineering | 3-Jan-2019 |
+| MALTS - Matching After Learning to Stretch | Subeesh Vasu | Electrical Engineering | 26-Oct-2018 |

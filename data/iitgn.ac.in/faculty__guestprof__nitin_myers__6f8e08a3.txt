@@ -1,0 +1,51 @@
+Title: IIT Gandhinagar | Nitin Jonathan Myers
+Source: https://iitgn.ac.in/faculty/guestprof/nitin_myers
+
+# Nitin Jonathan Myers
+
+-  Guest Professors
+Nitin Jonathan Myers
+
+## Nitin Jonathan Myers
+
+Guest Faculty, Electrical Engineering
+
+- BTech: Indian Institute of Technology, Madras, 2016
+- PhD: University of Texas at Austin, 2020
+
+H. Masoumi, M. Verhaegen, and N. J. Myers, “In-sector compressive beam alignment for mmWave and THz radios,” submitted to the IEEE Transactions on Wireless Communications, Aug 2023 [arXiv]
+
+C. ¨Onen, A. Pandharipande, G. Joseph, N. J. Myers, “Occupancy Grid Mapping for Automotive Driving Exploiting Clustered Sparsity,” submitted to the IEEE Sensors Journal, Aug 2023
+
+K. Patel, N. J. Myers, and R. W. Heath Jr., “Circulant Shift-based Beamforming for Secure Communication with Low-resolution Phased Arrays,” IEEE Transactions on Wireless Communications, vol. 22, no. 4, pp. 2295-2310, Apr 2023
+
+N. J. Myers and R. W. Heath, Jr., “InFocus: A spatial coding technique to mitigate misfocus in near field LoS beamforming,” IEEE Transactions on Wireless Communications, vol. 21, no. 4, pp. 2193-2209, Apr 2022
+
+P. Kumari, N. J. Myers, and R. W. Heath Jr., “An adaptive and fast beamforming design for automotive millimeter-wave joint communication-radar,” IEEE Journal on Selected Topics in Signal Processing, vol. 15, no. 5, June 2021 (identified as one of the IEEE Signal Processing Society’s top 25 downloaded articles in ’21-’22)
+
+Y. Wang, N. J. Myers, N. Gonz´alez Prelcic, and R. W. Heath Jr., “Site-specific online compressive beam codebook learning in mmWave vehicular communication,” IEEE Trans. on Wireless Communications, vol. 20, no. 5, May 2021
+
+- Guest Faculty, Indian Institute of Technology, Gandhinagar (Dec 2023 to present)
+- Assistant Professor, Delft University of Technology, Netherlands (April ’2021- Dec 2023)
+- Visiting Researcher, Tampere University of Technology, Finland (2018)
+- Visiting Researcher, University of Oulu, Finland (2018)
+- Research Assistant, Otto von Geuricke University Magdeburg, Germany (2014)
+
+Awards
+
+- Best Lecturer, 2nd year BSc Mechanical Engineering, 3mE, TU Delft 2021-2022
+
+- Co-author of paper that won the Best Student Paper Award, IEEE SPAWC 2022
+
+- Graduate School Continuing Fellowship, UT Austin for the year 2019-2020
+
+- First Runner-up, ICASSP 2020 video contest (with my GLUE undergraduate mentees)
+
+- Exemplary Reviewer, IEEE Trans. on Communications for the year 2019
+
+- ECE Research Award 2019, Cockrell School, UT Austin for excellence in research
+
+- ● Robust signal processing
+- ● Data-driven optimization
+- ● Vehicular communication
+- ● Radar

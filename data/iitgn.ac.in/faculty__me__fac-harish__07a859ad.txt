@@ -1,0 +1,55 @@
+Title: IIT Gandhinagar | Harish Palanthandalam-Madapusi
+Source: https://iitgn.ac.in/faculty/me/fac-harish
+
+# Harish Palanthandalam-Madapusi
+
+-  Mechanical Engineering
+Harish Palanthandalam-Madapusi
+
+## Harish Palanthandalam-Madapusi
+
+Professor, Mechanical Engineering
+
+- BE: University of Mumbai, 2001
+- MSE: University of Michigan, 2004
+- PhD: University of Michigan, 2007
+
+Email: harish -AT- iitgn.ac.in
+
+ Website :  https://research.iitgn.ac.in/robotics
+
+Office:  AB 4/314A
+VOIP:  2425
+
+S. Jadav, and H. J. Palanthandalam-Madapusi, “Configuration and Force-field Aware Variable Impedance Control with Faster Re-learning,” Journal of Intelligent and Robotic Systems, https://doi.org/10.1007/s10846-023-02022-x, January 2024.
+
+S. Jadav, and H. J. Palanthandalam-Madapusi, “Utilisation of Manipulator Redundancy for Torque Reduction During Force Interaction,” ASME Letters in Dynamical Systems and Control, https://doi.org/10.1115/1.4064654, February 2024.
+
+S. Barat, S. Surve, R. Rana, M. Vadali, H. J. Palanthandalam-Madapusi, “Impact of Added Compliance on the Performance of Tip-actuated Flexible Manipulator,” ASME Dynamical Systems Measurements and Control, https://doi.org/10.1115/1.4063488, December 2023.
+
+V. V. Shah, S. Jadav, S. Goyal and H. J. Palanthandalam-Madapusi, “A Machine-Learning-Based Method to Detect Degradation of Motor Control Stability with Implications to Diagnosis of Presymptomatic Parkinson’s Disease: A Simulation Study,” Applied Sciences, https://doi.org/10.3390/app13179502, August 2023.
+
+S. D. Kadam, and H. J. Palanthandalam-Madapusi, "A Note on Invertibility and Relative Degree of MIMO LTI Systems." IFAC J. Sys. & Contr. Vol. 20, 100193, https://doi.org/10.1016/j.ifacsc.2022.100193, June 2022.
+
+- Professor, Indian Institute of Technology Gandhinagar (Nov 2024 - present)
+- Director, AB6 Robotics Private Ltd. (Sep 2024 - Present)
+- Dean (General Administration), Indian Institute of Technology Gandhinagar (Jan 2023 - present)
+- Visiting Scholar, The University of Texas at Austin (Aug 2019 - Dec 2019)
+- Dean (Student Affairs), Indian Institute of Technology Gandhinagar (Dec 2018 - Dec 2020)
+- Dean (Campus Development), Indian Institute of Technology Gandhinagar (Mar 2017 - Aug 2018)
+- Associate Professor, Indian Institute of Technology Gandhinagar (Sep 2016 - Nov 2024)
+- Associate Dean (Campus Development), Indian Institute of Technology Gandhinagar (Jan 2015 - Mar 2017)
+- Visiting Scholar, The University of California, Merced (June 2014 - July 2014)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Dec 2011 - Sep 2016)
+- Assistant Professor, Syracuse University (Aug 2007 - Aug 2011)
+- Research Engineer, IIT Bombay (Oct 2001 - July 2002)
+
+- ● Robotics
+- ● Learning in Robotics
+- ● Robot grasping and grippers and dexterous manipulation
+- ● Robotic manipulation and bi-manual manipulation
+- ● Autonomous Vehicles
+- ● Humanoids
+- ● Embodied Intelligence in Robots
+
+Complete List of Publications

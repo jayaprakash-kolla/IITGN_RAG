@@ -1,0 +1,86 @@
+Title: Building an AI Image Editor at Hackrush 2026
+Source: https://cse.iitgn.ac.in/blog/hackrush-2026-yuvraj-ai-image-editor
+
+YU
+
+Yuvraj
+6 May 2026· 3 min read
+
+For Hackrush 2026, I built an AI Image Editor: a web application that lets users edit images using natural-language instructions, masks, sketches, and voice input.
+
+The motivation was to make advanced image editing accessible to ordinary users without requiring professional editing skills or complex software. A user should be able to upload an image, describe the desired modification, and receive an edited result automatically.
+
+The platform was designed to support tasks such as object editing, object removal, object insertion, and sketch-based generation.
+
+## Problem Statement
+
+Traditional image-editing software often requires technical editing knowledge, manual masking, layer management, complex UI interactions, and significant time even for small edits.
+
+The goal was to support simple instructions such as:
+
+- Remove the tree.
+- Add a dog near the chair.
+- Change the shirt color to black.
+- Turn this sketch into a real object.
+The challenge was to make these operations accurate, automated, and visually realistic while keeping the interface simple.
+
+## Approach
+
+The design centered on three ideas: simplicity for the user, modular AI workflow design, and automatic workflow selection.
+
+Instead of building separate tools for each task, I designed a unified system where different AI pipelines work behind the scenes. The user only interacts with image upload, prompt input, and optional sketch or mask input. The backend decides which workflow and models should be used.
+
+For example:
+
+| User prompt | Selected workflow |
+| Remove the chair | Remove Object |
+| Add a cat on the sofa | Add Object |
+| Make the shirt red | Edit Object |
+| Sketch input provided | Sketch Insert |
+This automatic intent detection reduces user complexity and makes the editing flow easier to understand.
+
+## Architecture and Features
+
+The system follows a simple flow:
+User -> Frontend web app -> API route -> Intent detection -> ComfyUI workflow -> AI models -> Generated result -> Frontend result viewer
+The Edit Object workflow detects the object region, generates a segmentation mask, applies SDXL inpainting, and returns the edited image. This supports changes such as color, texture, and style modifications.
+
+The Remove Object workflow uses GroundingDINO to detect the object, SAM2 to segment it, LaMa to reconstruct the background, and blending to produce a natural result.
+
+The Add Object workflow creates an insertion mask, applies prompt-guided inpainting, matches lighting and composition, and blends the object into the scene.
+
+The Sketch Insert workflow lets users draw a rough sketch. ControlNet Scribble processes the sketch, and the prompt guides generation of a realistic object.
+
+Voice input makes interaction faster and more accessible, while automatic intent detection selects the correct workflow from the prompt.
+
+## Models Used
+
+The system combines several specialized models:
+
+- SDXL Inpainting for region-specific object editing and insertion.
+- GroundingDINO and SAM2 for object localization and mask generation.
+- LaMa for background reconstruction during object removal.
+- ControlNet Scribble for sketch-to-image generation.
+- Florence-2 for scene understanding and prompt enhancement.
+- KSampler to control iterative diffusion generation.
+The main software stack used React or Next.js on the frontend, Node.js on the backend, ComfyUI as the workflow engine, and the Web Speech API for voice input.
+
+## Challenges
+
+Accurate object segmentation was one of the main difficulties. Small or complex objects were hard to isolate from text prompts, so I combined GroundingDINO for localization with SAM2 for fine segmentation.
+
+Maintaining visual consistency was another challenge. Generated objects sometimes had mismatched lighting, texture, perspective, or style. Florence-2 prompt enhancement and tuned SDXL inpainting settings helped preserve scene consistency.
+
+Workflow selection also required care because users often give vague prompts. The intent detection layer analyzes keywords and context before choosing the workflow.
+
+## Result
+
+The final system is a modular AI-powered image-editing platform capable of editing objects, removing objects, adding objects, generating objects from sketches, understanding voice instructions, and automatically selecting workflows.
+
+Hackrush was a chance to integrate multiple generative AI and computer-vision models into one practical tool. The most important lesson was that a good AI application is not just a model demo; it needs workflow design, careful defaults, and a user interface that hides complexity without removing capability.
+
+## Related Articles
+
+01 MayBuilding a Rule-Aware Snake Bot for Hackrush 2026#hackrush2026Game AI
+02 MayBazaar@IITGN: A Campus Marketplace for Hackrush 2026#hackrush2026Web Development
+03 MayFew-Shot Bone Marrow Cell Classification at Hackrush 2026#hackrush2026Machine Learning

@@ -1,0 +1,35 @@
+Title: IIT Gandhinagar | Krista R. Khiangte
+Source: https://iitgn.ac.in/faculty/phy/fac-krista
+
+# Krista R. Khiangte
+
+-  Physics
+Krista R. Khiangte
+
+## Krista R. Khiangte
+
+Assistant Professor, Physics
+
+- BSc: Mizoram University, 2009
+- MSc: Indian Institute of Technology Bombay, 2012
+- PhD: Indian Institute of Technology Bombay, 2018
+
+Email: krista.khiangte -AT- iitgn.ac.in
+
+Office:  AB 5/357
+VOIP:  2602
+
+- Single crystalline Ge thin film growth on c-plane sapphire substrates by molecular beam epitaxy (MBE). Emmanuel Wangila, Samir K Saha, Rahul Kumar, Andrian Kuchuk, Calbi Gunder, Sylvester Amoah, Krista R Khiangte, Zhong Chen, Shui-Qing Yu, Gregory J Salamo. CrystEngComm 24, 4372 (2022).
+- Epitaxial Ge-Gd2O3 on Si (111) substrate by sputtering for germanium-on-insulator applications. Amita Rawat, Krista R Khiangte, Philipp Gribisch, H-J Osten, Apurba Laha, Suddhasatta Mahapatra, Udayan Ganguly. Thin Solid Films 731, 138732 (2021).
+- Wafer-scale mono-crystalline GeSn alloy on Ge by sputtering and solid phase epitaxy. S Dev, Krista R Khiangte, S Lodha. Journal of Physics D: Applied Physics 53 (21), 21LT01 (2020)
+- Molecular beam epitaxy and defect structure of Ge (111)/epi-Gd2O3 (111)/Si (111) heterostructures. Krista R Khiangte, Jaswant S Rathore, Sudipta Das, Ravindra S Pokharia, Jan Schmidt, HJ Osten, Apurba Laha, Suddhasatta Mahapatra. Journal of Applied Physics 124 (6), 065704 (2018).
+- Wafer-scale all-epitaxial GeSn-on-insulator on Si (1 1 1) by molecular beam epitaxy. Krista R Khiangte, JS Rathore, J Schmidt, HJ Osten, A Laha, S Mahapatra. Journal of Physics D: Applied Physics 51 (32), 32LT01 (2018).
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Sep 2022 to present)
+- Assistant Professor, Banaras Hindu University (Aug 2020 - Sep 2022)
+- Post Doctoral Fellow, University of Arkansas at Fayetteville (Dec 2019 - Aug 2020)
+- Postdoctoral Research Asscociate, Indian Institute of Technology Bombay (Apr 2018 - Sep 2019)
+
+- ● Group IV semiconductors
+- ● Diluted Magnetic Semiconductors
+- ● Magnetic Multilayers

@@ -1,0 +1,41 @@
+Title: IIT Gandhinagar | TEOCO Chair
+Source: https://iitgn.ac.in/faculty/chairs/teoco
+
+# Faculty Chairs
+
+- Faculty Chairs
+- TEOCO Chair
+
+## TEOCO Chair
+
+ IIT Gandhinagar has setup a faculty chair through a donation by Mr Atul Jain, Chairman & CEO of TEOCO.
+
+Atul Jain founded TEOCO Corporation in 1995 with the dream of building a successful business model, not just a successful business. His goal was to build a company that did not compromise its values. Prior to starting TEOCO Corporation,
+
+Mr. Jain was with a Silicon Valley firm TIBCO for seven years. At TIBCO, Mr. Jain’s focus was to work with Fortune 500 clients to design and build state-of-the-art software solutions leveraging the company’s trademark TIB platform.
+
+ Mr Atul Jain
+
+##### Endowment
+
+ Mr Atul Jain is Chairman & CEO of TEOCO (‘The Employee Owned Company’) Corporation. TEOCO is a leading global organization providing cost, routing, revenue and network management solutions to top communications service providers worldwide.
+
+##### Current Occupant
+
+Dr. Nithin V. George
+TEOCO Chair
+Professor of Electrical Engineering
+
+ Read More →
+
+## Prof. Nithin V. George
+
+Prof. Nithin V. George is Professor of Electrical Engineering at IIT Gandhinagar. His group develops adaptive signal processing and machine learning algorithms for audio applications, with particular emphasis on active noise cancellation, microphone array systems, hearing aids, and hearables.
+
+ He completed his BTech at the University of Kerala (2007), MTech at NIT Rourkela (2009), and PhD at IIT Bhubaneswar (2012). His early training included a stint as a Visiting Graduate Student at the University of Western Ontario, Canada (2008–09) under the DFAIT GSEP Fellowship, and postdoctoral work at IIT Bhubaneswar before he joined IIT Gandhinagar as Assistant Professor in November 2012. He was later a Visiting Research Fellow at Curtin University, Australia (2017), rose to Associate Professor in 2018, and was promoted to Professor in November 2024. He has held the TEOCO Chair at IIT Gandhinagar since 2018.
+
+ His lab is equipped with a dedicated active noise control test bench, an extensive array of measurement and array microphones, noise-cancelling headphones and real-time audio controllers. He holds two Indian patents on acoustic feedback cancellation systems for assistive listening devices.
+
+ Prof. George's contributions have been recognized with the Excellence in Research Award from IIT Gandhinagar (2022–23), the Excellence in Institution Building Award from IIT Gandhinagar (2017–18), the INSPIRE Faculty Award (2013–18), and the Indo-Australia Early and Mid-Career Researchers Fellowship (2016–17).
+
+Research Interests: Active Noise Control · Acoustic Beamforming · Adaptive Signal Processing · Array Signal Processing · Assistive Listening Devices

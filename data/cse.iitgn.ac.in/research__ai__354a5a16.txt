@@ -1,0 +1,182 @@
+Title: AI & Machine Learning
+Source: https://cse.iitgn.ac.in/research/ai
+
+Research / Area
+
+# AI & Machine Learning
+
+ Machine learning, natural language processing, computer vision, data science, and human–computer interaction.
+
+ Featured Video
+
+## Synthesizing Compositional Videos from Text Description
+
+ Watch on YouTube
+
+ Research Themes
+
+## Research topics
+
+ Multilingual NLP and Indian-language AI  Computer vision, graphics, and computational photography  Efficient learning algorithms and graph ML  Fair, federated, and trustworthy learning  AI for sustainability, health, and assistive systems  Sketching, sampling, and coresets for large data  AI for sustainability, energy, air quality, and health  Physics-guided models for climate and urban resilience  Scientific text mining and social-network analytics  Open benchmarks, reproducibility, and deployment-oriented data systems  Human-AI interaction and explainable interfaces  Brain-computer interfaces, EEG, EMG, and eye tracking  Assistive technologies for disability, aging, and dyslexia  Cognitive modelling and neural decoding  Multimodal, multilingual, and accessible interaction design
+
+Faculty
+
+## Faculty
+
+### Anirban Dasgupta
+
+ Professor
+
+ Algorithms for large scale data; Social networks; Computational social science
+
+### Krishna Prasad Miyapuram
+
+ Professor
+
+ Neuroeconomics & neuromarketing; Computational cognitive science; Neuroimaging (EEG, fMRI) & brain computer interface
+
+### Manisha Padala
+
+ Assistant Professor
+
+ Fairness in Machine Learning; Game Theory; Mechanism Design
+
+### Mayank Singh
+
+ Associate Professor
+
+ Text mining; Natural language and processing; Machine learning
+
+### Nipun Batra
+
+ Associate Professor
+
+ Sensor networks; Machine learning; Computational sustainability
+
+### Nirmal Kumar Sancheti
+
+ Visiting Professor
+
+ Deep Learning, Machine Learning and Design Oriented Effective Programming
+
+### Shanmuganathan Raman
+
+ Professor
+
+ Computer Vision; Image & Video Processing; Computer Graphics
+
+### Udit Bhatia
+
+ Associate Professor
+
+ Physics Guided Machine Learning for Urban Flooding; Food-Water Nexus; Resilience of Built and Natural Systems
+
+### Yogesh Kumar Meena
+
+ Assistant Professor
+
+ Human-Computer Interaction; Brain-Computer Interface; Eye Tracking
+
+ Selected Publications
+
+## Recent Publications
+
+### FIT-GNN: Faster Inference Time for GNNs that FIT in Memory Using Coarsening
+
+ TMLR 2026 - efficient graph neural-network inference.
+
+### Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation
+
+ 2026 preprint - robustness and alignment for vision-language models.
+
+### GF-Score: Certified Class-Conditional Robustness Evaluation with Fairness Guarantees
+
+ 2026 preprint - fairness-aware robustness assessment.
+
+### MERLiN: Single-Shot Material Estimation and ReLighting for Photometric Stereo
+
+ ECCV 2024 - computer vision and inverse rendering.
+
+### Streaming Coresets for Symmetric Tensor Factorization
+
+ ICML 2020 - scalable coresets and tensor factorization.
+
+### Spatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes
+
+ 2024 preprint - graph learning for climate extremes.
+
+### Vartalaap: What Drives #AirQuality Discussions: Politics, Pollution or Pseudo-science?
+
+ PACM HCI 2021 - public discourse and air-quality analytics.
+
+### Physics-guided Emulators Reveal Resilience and Fragility under Operational Latencies and Outages
+
+ 2025 preprint - physics-guided models for resilience.
+
+### Operationalizing Self-Perceptions of Aging Using Reflection Probe and SPA Design Cards with HCI Practitioners
+
+ CHI Extended Abstracts 2026 - HCI methods for aging and design.
+
+### Design and Evaluation of a Multimodal Elevator System with Gaze and Multilingual Voice Controls
+
+ IndiaHCI 2025 - accessible multimodal interaction.
+
+### Explainable artificial intelligence approaches for brain-computer interfaces: a review and design space
+
+ Journal of Neural Engineering 2024 - XAI for BCI.
+
+### Hierarchic-EEG2Text: Assessing EEG-To-Text Decoding across Hierarchical Abstraction Levels
+
+ 2026 preprint - neural decoding and language abstraction.
+
+ Projects & Outputs
+
+## Representative Projects
+
+### Chitrabhasha: Developing India's Largest Dataset and Foundation Models for Multimodal AI
+
+ ANRF Advanced Research Grant led by Mayank Singh.
+
+### Scalable Detection of Brick Kilns from Low-Resolution Satellite Imagery for Environmental Compliance
+
+ ANRF project led by Nipun Batra.
+
+### iGazeBuddy: Multimodal gaze-controlled learning system for dyslexia support
+
+ ANRF PMECRG project led by Yogesh Kumar Meena.
+
+### Fair Federated Learning Framework in the Presence of Heterogeneous, Strategic, and Malicious Clients
+
+ ANRF early-career grant led by Manisha Padala.
+
+### AI Resilience and Command Centre for data-driven climate-risk management
+
+ IITGN centre focused on anticipatory urban flood and climate-risk management.
+
+### Automated Crop Mapping using time-series satellite and ancillary data
+
+ ISRO-sponsored project led by Nipun Batra.
+
+### Network-of-Network Lens to quantify resilience of coupled infrastructure systems
+
+ ANRF/SERB-supported project led by Udit Bhatia.
+
+### Development of Large Language Models based chat plugin for website-specific queries
+
+ Consultancy project led by Mayank Singh.
+
+### A Brain-Computer Interface Driven Mental Fatigue Monitoring System to Improve Stroke Rehabilitation Therapy
+
+ International project with Department for the Economy, Northern Ireland.
+
+### iGazeBuddy: Multimodal Gaze-Controlled On-Screen Assisted Learning System for Dyslexia Detection and Intervention in Regional Indian Languages
+
+ ANRF PMECRG project led by Yogesh Kumar Meena.
+
+### System for augmentative and alternative communication for people with severe speech and motor disabilities
+
+ Indian patent involving Yogesh Kumar Meena.
+
+### HAIx Lab
+
+ Lab focused on intelligent technologies and transforming community health and care.

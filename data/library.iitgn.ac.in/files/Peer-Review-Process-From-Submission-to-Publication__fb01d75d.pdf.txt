@@ -1,0 +1,203 @@
+#flags:
+
+Peer Review Process: From Submission to Publication
+4th October 2023
+
+Disclaimer: The material is prepared for the students of IIT
+Gandhinagar and is intended as awareness of peer-review process.
+Images/Text sourced are cited as much as possible
+
+http://sandhya.varadh.com/2020/01/academic-jokes-on-twitter.html 1
+
+Peer Review Process: From Submission to Publication
+
+https://www.kmeverson.org/blog/may-11th-2020
+
+2
+
+What is Peer Review?
+ Peer review is designed to assess the validity, quality and often the originality of articles for publication. Its
+ultimate purpose is to maintain the integrity of science by filtering out invalid or poor quality articles
+Review by peers
+Includes researchers in the field of research
+
+https://www.linkedin.com/posts/jason-thatcher-0329764_on-anonymity-and-reviewing-or-write-like-activity-7046628885119008768-eLfa/?originalSubdomain=cm
+
+3
+
+https://www.elsevier.com/__data/assets/pdf_file/0004/205717/PeerReviewWeek2016_Infographic.pdf
+
+4
+
+Peer Review Process
+
+ Internal review (by editorial staff)
+
+(Organic Biomolecular Chemistry- RSC) Editorial Staff
+
+(Initial Assessment/Initial Evaluation)
+
+Katie Lim, Executive Editor
+Jack Washington, Deputy Editor
+Daniel Robertshaw, Development Editor
+Sarah Whitehouse, Editorial Production Manager
+Nicola Burton, Publishing Editor
+Tom Cozens, Publishing Editor
+Katie Fernandez, Publishing Editor
+Ryan Kean, Publishing Editor
+Roxane Owen, Publishing Editor,
+Andrea Whiteside, Publishing Assistant
+Sam Keltie, Publisher, Journals,
+5
+
+(Initial Assessment/Evaluation)
+
+ Submitted manuscripts undergo initial evaluation.
+ May be returned in one (or more) of the following situations:
+ The manuscript clearly lies beyond the scope of the journal.
+ The novelty of the study is not sufficient.
+ The scientific quality is quite inadequate.
+ The quality of the English
+ The results/conclusions of the manuscript have been published
+or well-known.
+ The manuscript is insufficient for the general interest of the
+journal and would be better suited to a more specialized journal.
+
+(its possible that I missed this reference).
+
+6
+
+ External review (by experts in the field)
+
+ Only those manuscripts that pass the initial review
+process, will be continued to other stages for further
+evaluation.
+ Assigned an editor (ACS) or With the Editor (RSC)
+
+Editor may then decide by himself or send out to peer
+reviewers
+Who are the experts?
+How do editors choose the experts?
+ People with general expertise in the subject area
+ Other researchers in the field
+ Authors from the reference list
+ Recommendations given by you.
+ Journals maintain a general database of reviewers
+7
+
+Why do people Review?
+
+ The typical turn-around time for peer review is 2-14 weeks.
+
+ If you have not heard back, re-check the journal for expected response time and allow 2 more weeks before tactfully
+emailing the editor.​
+ Now some Journals have Tracking your Submission Options
+https://www.elsevier.com/__data/assets/pdf_file/0004/205717/PeerReviewWeek2016_Infographic.pdf
+
+8
+
+ Adds to the general delays in processing times
+
+https://www.elsevier.com/__data/assets/pdf_file/0004/205717/PeerReviewWeek2016_Infographic.pdf
+
+9
+
+Forms of Peer Review
+
+ Single Blind,
+ Double Blind,
+ Open,
+ and Post-Publication Review.
+
+ Single Blind: The reviewer knows the identity of the author. The author does not know the identity of the reviewer.
+(Many Journals follow this)
+ Double Blind: Author and reviewer identities are concealed. (eg. ChemComm)
+
+ Open: The identity of all parties is openly disclosed. (Eg. Frontier Publications: Options to Reveal Names (eg.
+NatureComm)
+ Post-Publication: Publication precedes reviews (eg. Archives)
+
+https://fourwaves.com/blog/single-double-blind-peer-review/
+
+10
+
+11
+https://www.elsevier.com/__data/assets/pdf_file/0004/205717/PeerReviewWeek2016_Infographic.pdf
+
+The editor makes a decision based on the reviews, and their own evaluation of the paper.
+The editor can choose to:
+• REJECT the manuscript
+• REVISE with MAJOR revisions needed.
+• REVISE with MINOR revisions needed.
+• ACCEPT with no revisions.
+
+MAJOR revisions needed:
+MINOR revisions:
+
+Probably needs an experiment or two is needed and may be sent to reviewers again
+Generally, some clarification, general errors and the Publishing editor might take care,
+
+ The paper does not need any more revisions, and is ready to be published! Sometimes the manuscript does not need
+any revision at all, but this is rare.
+ The paper is edited and proofread by the journal, then is published.
+
+12
+
+Responding to reviewers’ comments
+
+ In most cases, if your article has been accepted for publication, it will require making changes (major or minor) that
+respond to reviewers’ comments.
+
+Immediate reaction
+
+Don’t respond immediately. Cool down first!
+
+Study the review
+
+Next, read the revision document carefully, noting each point the reviewer/editor
+has made, so you have a full understanding of the reviewers’ and editors’ concerns
+
+Consider ALL comments raised by reviewers individually
+Those that require more substantial changes (such as clarifying the case for your research
+or clarifying your contribution) and those that address more minor issues (such as
+editing).
+
+Where you disagree
+
+Politely and tactfully explain why you disagree; Support your point with evidence, e.g. cite
+other published work.
+
+https://rmit.pressbooks.pub/researchwritingmodules/chapter/the-peer-review-process/
+
+13
+
+Reply to the editor
+
+In your response email to the editor, thank the editor and reviewers, summarise
+the changes/rebuttals and include your detailed responses to reviewers’ comments
+
+REMEMBER:
+
+When responding to peer review, it is important to be polite, clear and concise
+Remember, rejection of publication happens to everyone
+
+Animal Farm,
+Gone With the Wind
+Harry Potter
+rejected multiple times before they were published!
+Rejection can also be a very useful learning process, even if it hurts!
+ It is equally important to know that, despite publication rejection, you still have a number of choices available. You can:
+ Submit your article to another journal
+ Revise and resubmit the article to the same journal
+ Revise and resubmit the article to a different journal
+ Appeal the decision
+ Abandon the article (for now)
+https://rmit.pressbooks.pub/researchwritingmodules/chapter/the-peer-review-process/
+
+14
+
+Summary
+
+Relief and Party
+Sourced from.
+https://www.abdn.ac.uk/staffnet/documents/Navigating%20Peer%20Review5.pptx15

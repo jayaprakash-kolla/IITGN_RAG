@@ -1,0 +1,38 @@
+Title: IIT Gandhinagar | ecf-shirsendu
+Source: https://iitgn.ac.in/srs/phy/ecf-shirsendu
+
+# Shirsendu Mitra
+
+- Senior Research Staff
+Shirsendu Mitra
+
+## Shirsendu Mitra
+
+IITGN-Early Career Fellow, Physics
+
+- BSc: Chemistry, University of Calcutta, 2010
+- BTech: Chemical Engineering, University of Calcutta, 2013
+- PhD: Chemical Engineering, IIT Guwahati, 2020
+
+Email: shirsendu.m -AT- iitgn.ac.in
+
+Work experience
+
+- IITGN-Early Career Fellow, Indian Institute of Technology Gandhinagar, (Present)
+
+Selected Publications
+
+Multimodal Chemo-Magneto-Photo-Taxes of 3G CNT-bots to Power Fuel Cells, Shirsendu Mitra, Nirmal Roy, Surjendu Maity, Dipankar Bandyopadhyay J. Microsys. Nano Eng, 6, 19 (2020). (Impact Factor 5.616)
+
+Efficient Micro Extraction Process Exploiting Spontaneous Interfacial Convection Driven by Marangoni and Electric Field Instability: A Computational Fluid Dynamics Study, Shirsendu Mitra, Ekaterina Shevchenko, Sunil Singh, Mohit Sachan, Abir Ghosh, Mitali Basak, Partho Sarathi Gooh Pattader, Physics of Fluids, 32, 014102 (2020). (Impact Factor 2.627)
+
+Joint mass transfer of two components associated with the spontaneous interfacial convection in the liquid-liquid extraction system. Ekaterina A. Shevchenko, Shirsendu Mitra, Sergei A. Ermakov, Anatolii G. Titov , Anatoli A. Ermakov , Partho Sarathi Gooh Pattader, Chem. Eng. Sc.,195, 301-311, 2019. (Impact Factor: 3.375)
+
+Effects of Fluid-Structure-Interaction and Surface Heterogeneity on the Electrophoresis of Finite Sized Microparticles. Shirsendu Mitra, Shreya Mukherjee, Abir Ghosh, and Dipankar Bandyopadhyay, Ind. Eng. Chem. Res., 58, 6756-6766, 2019. (Impact Factor: 3.375)
+
+Paper Based Enzymatic Chemiresistor for POC Detection of Ethanol in Human Breath. Nirmal Roy, Shirsendu Mitra, Nayanmani Das, N. Mandal, Harshal B. Nemade, Dipankar Bandyopadhyay, T. K. Mandal, IEEE Sens. J. 20, 5 , (2020). (Impact Factor: 3.076)
+
+- ● Electokinetic motions in confined channels
+- ● Computational Fluid Dynamics
+- ● Self-motile micro/nano robots for bio- sensing and other healthcare applications
+- ● Biosensors and POCT device development

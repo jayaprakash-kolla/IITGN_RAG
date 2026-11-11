@@ -1,0 +1,49 @@
+Title: IIT Gandhinagar | Avinash Hariharan
+Source: https://iitgn.ac.in/faculty/mse/fac-avinash
+
+# Avinash Hariharan
+
+-  Materials Engineering
+Avinash Hariharan
+
+## Avinash Hariharan
+
+Assistant Professor, Materials Engineering
+
+- BTech: NITK Surathkal, 2011
+- MS: IIT Madras, 2015
+- PhD: Max Planck Institute for Iron Research Duesseldorf (MPIE) and Ruhr University Bochum, 2019
+
+Email: avinash.hariharan -AT- iitgn.ac.in
+
+Office:  AB11/309 C
+VOIP:  2642
+
+A. Turnali, Avinash Hariharan, E. Polatidis, N. Peter, J. Gehlmann, C, Sofras, Z. Hegedüs, L. Sayk, T. Allam, J. Schleifenbaum, Christian Haase, ”Harnessing additive manufacturing-induced microstructure and solute heterogeneities for the design of precipitation-strengthened alloys”: Acta Materialia, 2025 (https://doi.org/10.1016/j.actamat.2025.121423)
+
+Avinash Hariharan, Marc Ackermann, Stephan Koß, Ali Khosravani, Surya R. Kalidindi, Patrick Koehnen, Christian Haase, “High speed 3D printing coupled with machine learning to accelerate alloy development for additive manufacturing”: Advanced Science, 2025 (https://doi.org/10.1002/advs.202414880)
+
+Ludovico Andrea Alberta, P. Osorno, Avinash Hariharan, J. Vishnu, S. Pilz, A. Voß, A. Palmquist, M. Trobos, Annett Gebert, Mariana Calin, “Effect of aging treatments on mechanical, chemical, and antibacterial properties of a β-type Ti–Nb–Cu alloy for implant applications”: Journal of Materials Research and Technology, 2025 (https://doi.org/10.1016/j.jmrt.2025.03.179)
+
+H. von Lintel, A. Elsayed, L. Mielewczyk, K. Eichmann, J. Grothe, U. Krupp, Avinash Hariharan, K. Jahns, “Development of a novel processing route for dispersoid/precipitation-strengthened high conductive copper alloys by using metallized nano ceramics in additive manufacturing”: Advanced Engineering Materials, 2024 (https://doi.org/10.1002/adem.202401957)
+
+Avinash Hariharan, Phil Goldberg, Frederic Schell, Ute Hempel, Friedrich Striggow, Martin Hantusch, Mariana Medina-Sánchez, Andrés F. Lasagni, Annett Gebert, “Single‐and Multiscale Laser Patterning of 3D Printed Biomedical Titanium Alloy: Toward an Enhanced Adhesion and Early Differentiation of Human Bone Marrow Stromal Cells”: Advanced Functional Materials, 2023 (https://doi.org/10.1002/adfm.202310607)
+
+Phil Goldberg, Avinash Hariharan, Frederic Schell, Martin Hantusch, Magdalena Ola Cichocka, Nicolas Perez, Andrea Voß, Lars Giebeler, Volker Hoffmann, Christoph Zwahr, Annett Gebert, “Fine-tuning effect of direct laser interference patterning on the surface states and the corrosion behavior of a biomedical additively manufactured beta Ti alloy”: Corrosion Science, 2023 (https://doi.org/10.1016/j.corsci.2023.111230)
+
+Avinash Hariharan, Lin Lu, Jeroen Risse, Aleksander Kostka, Baptiste Gault, Eric A. Jaegle, Dierk Raabe, “Misorientation-dependent solute enrichment at interfaces and its contribution to defect formation mechanisms during laser additive manufacturing of superalloy”: Physical Review Materials, 2019 (https://doi.org/10.1103/PhysRevMaterials.3.123602)
+
+Avinash Hariharan, Anand K. Kanjarla, “Crystal plasticity study of heterogeneous deformation behavior in γ matrix channels during high temperature low stress creep of single crystal superalloys”: Materials Performance and Characterization, 2019 (https://doi.org/10.1520/MPC20190008)
+
+Assistant Professor, Indian Institute of Technology Gandhinagar (Mar 2026 – Present)
+Project Group Leader, Max Planck Institute for Sustainable Materials, Duesseldorf, Germany (2025 – 2026)
+Group Leader, Materials for Additive Manufacturing, Steel Institute, RWTH Aachen University, Aachen, Germany (2024 – 2025)
+Postdoctoral Researcher, Steel Institute, RWTH Aachen University, Aachen, Germany (2023 – 2024)
+Postdoctoral Researcher, Leibniz-Institute for Solid State and Materials Research (IFW), Dresden, Germany (2020 – 2022)
+Metallurgical Engineer, L&T Construction Equipment Limited, Bangalore, India (2011 – 2013)
+
+- ● Sustainable Manufacturing and Circular Metallurgy
+- ● Additive Manufacturing (3D printing)
+- ● Microstructure and Metal Physics
+- ● Alloy design (Superalloys, Steels, Ti-, Cu-, Al-based alloy systems)
+- ● Advanced Microscopy

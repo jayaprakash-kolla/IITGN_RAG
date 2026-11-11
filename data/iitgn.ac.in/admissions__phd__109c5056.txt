@@ -1,0 +1,323 @@
+Title: IIT Gandhinagar | PHD
+Source: https://iitgn.ac.in/admissions/phd
+
+# PHD PROGRAMMES
+
+- Admissions
+- Programs
+- PhD
+
+ IIT Gandhinagar is looking for bright and dedicated young scholars interested in research to join us as Ph.D. scholars.
+
+ Currently, we offer Ph.D. programme in Biological Engineering, Chemical Engineering, Chemistry, Civil Engineering, Cognitive Science, Computer Science and Engineering, Artificial Intelligence, Earth Sciences, Archaeological Sciences, Electrical Engineering, Integrated Circuit Design and Technology, Humanities & Social Sciences, Materials Engineering, Mathematics, Mechanical Engineering, Maritime Engineering, Design, Physics.
+
+ Prospective students satisfying the eligibility criteria are encouraged to acquaint themselves with the research areas of our faculty members for suitable match of interest.
+ Download Brochure
+
+## Important Dates
+
+##### 07 September 2026 (Monday) at 10:00 AM
+
+ Application Opens
+
+##### 28 September 2026 (Monday) October 01, 2026 by 05:00 PM (IST)
+
+ Application Deadline
+
+##### 15 October 2026
+
+ Announcement of the Shortlisted Candidates (tentative)
+
+##### 22 October - 06 November 2026
+
+ Interviews and/or Written Test
+
+ Research overview  |  List of Scholars  |  PhD — Find out more
+
+Eligibility Criteria
+
+#### Eligibility Criteria
+
+ Minimum of 55% marks (50% marks for SC/ST/PwD) or 5.5 CPI (5.0 CPI for SC/ST/PwD) in postgraduate degree programme or in 4-years bachelor degree programme in appropriate branches.
+ Above mentioned eligibility criteria is minimum at Institute level. The department-wise eligibility criteria can be found here. The departments may also use higher cut-off levels for shortlisting besides giving due consideration to the way questions are answered in the application form.
+
+ Candidates belonging to SC/ST/PwD categories would be eligible for relaxations, as per norms, in the selection criteria.
+
+ The departments may also use higher cut off levels for shortlisting. Merely meeting the minimum eligibility criteria will not guarantee the shortlisting and/or admission.
+
+Admission Categories
+
+#### Admission Categories
+
+Regular(RR): Fulltime residential research candidate.
+
+Continuing Doctoral Programme (CDP):
+
+- Candidates admitted to the PhD programme under the CDP category can directly join the PhD programme.
+- The residency requirement for the candidates will be the time required to do the course work offered offline. Further, the candidates are encouraged to spend at least two weeks every semester at IITGN to ensure steady progress in their PhD research work.
+- The curricular requirements will be the same as that of a regular PhD programme.
+
+Financial Support
+
+### Financial Support
+
+ Students joining the Ph.D. program as regulars (RR) may be considered for the Institute Fellowship (subjected to availability of fund) based on the following norms:
+
+- Candidates with qualifications in any of the points (a-f) mentioned below are eligible for a monthly fellowship of Rs. 37,000/-.
+
+- a). Post Graduate Degree in Basic Science with NET/GATE Qualification or Graduate Degree in Professional Courses (B.Tech/B.E.) with NET/GATE Qualification or Postgraduate Degree in Professional Courses (M.Tech/M.E. etc)
+- b). BTech degree from a CFTI (Centrally Funded Technical Institute) with CPI at least 8.0 (on a scale of 10).
+- c). MSc/MA from IITs with CPI at least 8.0 (on a scale of 10)
+- d). BS from IISc with CPI at least 6.4 (on a scale of 8)
+- e). BS-MS from IISERs with CPI at least 8.0 (on a scale of 10)
+- f). BS from IISERs with CPI at least 8.0 (on a scale of 10)
+- After successful completion of two years in a regular Ph.D. programme, a Ph.D. candidate may be eligible for a monthly fellowship of Rs. 42,000/-.
+
+### Find Out More
+
+Explore details about the various opportunities for scholarships and awards.
+
+Admission Procedure
+
+### Admission Procedure
+
+Admission is generally offered on the basis of an interview, which is supplemented by a written test if necessary. The Institute will invite a limited number of candidates for a written test and/or interview based on the academic records, statement of purpose, etc. The final selection will be mainly based on academic credentials, written test and/or interview.
+
+ The mode (offline/online) and dates for the written test (if any) and interview will be communicated to the shortlisted candidates by their respective departments.
+
+In addition to the announced admission cycles with prescribed deadline of application, the Institute also considers applications any time of the year in case of exceptional candidates. Based on the qualifications of the candidates and the need of the discipline concerned, applications received are processed through duly constituted selection committees at regular intervals.
+
+Important Dates
+
+### Application Procedure
+
+All applications must be submitted online. If you are applying for more than one discipline, please submit a separate application for each discipline. After successful submission of the application form, you will receive an application number and a link to download the application form. Please save the application form. You need to furnish hardcopy of the application form and self attested copies of all the relevant documents at the time of interview. Incomplete applications will be rejected
+
+Application Fees: Rs. 150/- (SC/ST/PD Category), Rs. 300/- (Others)
+You NEED NOT send the hard-copy of the application form.
+
+Important Dates
+
+| Application Opens | - | 07 September 2026 (Monday) at 10:00 AM |
+| Application Deadline | - | 28 September 2026 (Monday)October 01, 2026
+by 05:00 PM |
+| Announcement of the Shortlisted Candidates | - | 15 October 2026 (Thursday) (tentative) |
+| Written test and/or interview | - | 22 October - 06 November 2026 |
+
+Focus Areas
+
+Archaeological Sciences
+
+ 1. Environmental Archaeology, Archaeozoology and taphonomy, Geoarchaeology,
+ 2. Archaeology, Ceramic Petrology, Ancient Technology,
+ 3. Harappan and Protohistoric Archaeology
+
+Artificial Intelligence (CSE)
+
+ 1. Machine/Deep learning, Game theory, Theoretical machine learning, Quantum algorithms for ML, federated learning
+ 2. Natural Language Processing, Multilingual and Multimodal Modelling, Mechanistic Interpretability, Information Retrieval
+ 3. Computer Vision, Computer Graphics, Deep Learning Applications for Vision and Graphics
+ 4. Human-Computer Interaction, Brain-Computer Interface, Accessibility and Assistive Technology, Explainable & Human-Centred AI, Medical Imaging and Healthcare
+ 5. Software Engineering using Generative AI, Empirical Software Engineering, Software Testing, Compilers;
+ 6. AI hardware design, Processor design and validation, Hardware Security, AI for Hardware Design and Test
+ 7. Graph neural networks, GNNs for citywide simulation
+ 8. Computer Systems, Concurrent, Distributed & Parallel Computing, AI/ML Infrastructure, Software for emerging computer architectures, Performance Engineering, Agentic AI Systems, Concurrent/distributed data structures & algorithms
+
+Biological Sciences and Engineering
+
+ 1. Computational Biology and Bioinformatics
+ 2. AI in Biology
+ 3. Molecular Dynamics Simulations and Computational Drug Discovery
+ 4. Evolutionary and Disease Epigenomics
+ 5. Mechanisms of Gene Regulation
+ 6. Circadian Biology
+ 7. Self-assembled Nanostructures for biosensing and therapeutic applications
+ 8. Biomaterials in Drug Delivery and Implants
+ 9. Ultrasound (Imaging, Diagnostics, and Ultrasound-mediated therapy)
+ 10. Structural Biology and Chemical Crystallography.
+ 11. Microfluidic lab-on-chip technology development
+ 12. Plant Developmental Biology, Plant Biotechnology, Plant Nanotechnology
+ 13. Molecular Neuroscience
+ 14. RNA Biochemistry and Informatics, Long Noncoding RNA as Clinical Markers
+ 15. Food Biochemistry, Food Science & Applied Nutrition
+ 16. Microbiology of ESKAPE pathogens
+ 17. Peptide Engineering and Applications
+ 18. Proteomics and Metabolomics
+
+Chemical Engineering
+
+ 1. Reaction Engineering: Heterogeneous catalysis, Catalyst synthesis, Multiphase reactions, Catalysis for green hydrogen production, Kinetic modelling of catalytic and enzymatic reactions
+ 2. Process optimization and control: Process Engineering, Control, and Optimization, Cyber-Physical Systems for industrial manufacturing and buildings, Machine learning and data science
+ 3. Pharmaceutical Engineering and Drug Delivery: Biomaterials, stimuli-responsive hydrogels, nano-drug suspensions, microbubbles for drug delivery and ultrasonic imaging, pharmaceutical powder processing, crystallization of pharmaceuticals, polymorphic behavior of pharmaceuticals, Amorphous Solid dispersions of Pharmaceuticals
+ 4. Molecular Simulations: Thermodynamics and statistical mechanics, protein aggregation and folding, biomolecular simulations, molecular dynamics simulations for pharmaceutical polymorphism, Computational catalysis, Quantum chemical simulations, AI/ML for catalysis
+ 5. Water Treatment: Wastewater treatment, drinking water, microbubbles for waste-water treatment
+ 6. Environmental science and engineering: Particulate matter and aerosols, Building energy management, indoor air quality, atmospheric transport, and transformation of pollutants
+ 7. Advanced functional materials: Functional materials for CO2 capture and adsorption, Colloids and Interfaces, Rheology, 2D materials, Supercapacitors and other energy storage devices
+ 8. Polymer science and engineering: Polymer processing, polymer gels, polymer blends, Shape memory polymers, Smart polymeric materials, Polymer ionic liquids, Polymer nanocomposites
+ 9. Nano & bio-engineering: Bio-printing, 3D printing, Hybrid nanomaterials, and biomolecules for agricultural applications
+ 10. Protein and Peptide Engineering: Protein Engineering, peptide design, synthetic biology, biomolecular self-assembly, protein-based biomaterials, and bio-inspired materials
+ 11. Surface Science: Surface Engineering and Superhydrophobic surfaces,Environment Sustainability, Porous Ceramics, Superhydrophobicity, Wear, Corrosion, Micro-Nano Lithography
+
+Chemistry
+
+ 1. Photocatalysis with gold nanoparticles, sunlight to hydrogen production, Single-particle spectroscopy, plasmonics.
+ 2. Electrochemical Reduction of CO2; Molecular electrocatalysis for nitrogen to ammonia interconversion, Bio-inspired Electrocatalysis and Spectro-electrochemical Mechanisms.
+ 3. Development of novel organocatalysts, Application of organocatalysis to the asymmetric synthesis of bioactive molecules.
+ 4. Chemical Biology, Next generation therapeutics: Infectious diseases and Cancer, Drug Discovery & Medicinal Chemistry
+ 5. Synthesis of fluorescent dyes and polymers and theranostic imaging. Photosensitizers for Photodynamic Therapy (PDT) and synthesis of photo-catalysts for organic transformations. Small molecules and nanoscale materials for imaging and impairing sub cellular organelles for cancer therapy.
+ 6. Development of Computational Ayurveda Framework. Development of Computational Framework for Bacterial Structural Biology
+ 7. Solid State Chemistry and Sustainable Energy Conversion.
+ 8. Ultrafast dynamics in organic optoelectronic molecules and nanomaterials for solar and light emitting applications.
+ 9. Development of Machine Learning Interatomic Potentials and Generative AI Architectures for Excited-State Dynamics and Materials Discovery.
+ 10. Main Group-Organometallic Chemistry: Small Molecule Activation Using Low-valent Main Group and Transition Metal Complexes.
+ 11. Functional materials: peptide-based tough hydrogels, brush-like polymers; Depolymerization of addition polymers.
+ 12. Heterogeneous catalysis for hydrogen generation, CO2 capture and utilization, air batteries and sensors.
+ 13. Experimental and Data Analytics of Foods Covering Compositional Profiling and Food Transformation Related Changes.
+ 14. Small molecule activation with main group metal complexes, dinitrogen fixation.
+
+Civil Engineering
+
+ 1. Geotechnical Engineering: Dynamic behavior of soils, soil liquefaction, suction and collapse of unsaturated soils, constitutive modeling of soils, geotechnical earthquake engineering, geosynthetics
+ 2. Water Resources Engineering: Machine learning architectures for hydrological sciences, resilience of urban water distribution systems, land surface hydrologic modeling, remote sensing applications in hydrology, climate change impacts and risk assessment on water resources, dam breach and levee breach hydraulics, integrated urban water management, blockage/leak detection in pipes, modeling of floods and droughts, critical infrastructure resilience and system
+ modeling
+ 3. Structural Engineering: Fire engineering, tall structures, performance-based earthquake engineering of structures, probabilistic seismic hazard and ground motion characterization, seismic isolation of nuclear structures, structural health assessment and monitoring, resilience of infrastructure, computational solid mechanics, 3D concrete printing, topology optimization, multiscale material modeling, blast engineering
+ 4. Environmental Engineering: Aerosols and air quality, indoor air quality, pollution mitigation, Solid Waste Management and Planning, Thermo-chemical coversion of waste and biomass, Pre-treatment of biomass, Life-Cycle Assessment of Industrial process and Waste treatment Systems
+ 5. Transportation Engineering: Mechanistic modeling of flexible and rigid pavements, pavement-environment interaction, urban sustainability, AI/ML applications in transportation engineering
+ 6. Construction Materials: Sustainable building materials, high-performance concrete, life cycle assessment, characterization techniques
+
+Cognitive and Brain Sciences
+
+ 1. Motor Control, Stroke Rehabilitation
+ 2. Emotion processing, Affective Computing
+ 3. Attentional selection and control, Vision Science
+ 4. Brain Connectivity, NeuroAI
+ 5. Human Computer Interaction, Human-Robot Interaction
+ 6. Meditation Studies, Music Cognition
+ 7. Multisensory Perception, Neuroplasticity
+ 8. Functional Vision, Neurodevelopment
+ 9. Perception, Planning, learning and decision making
+
+Computer Science and Engineering
+
+ 1. Theoretical computer science, Computational complexity, Algebra and computation, Algorithms, Quantum algorithms and Protocols.
+ 2. Machine/Deep learning, Game theory, Theoretical machine learning, Quantum algorithms for ML, federated learning.
+ 3. Formal methods and verification, Verification of concurrent software
+ 4. Natural Language Processing, Multilingual and Multimodal Modelling, Mechanistic Interpretability, Information Retrieval
+ 5. Computer Vision, Computer Graphics, Deep Learning Applications for Vision and Graphics
+ 6. Human-Computer Interaction, Brain-Computer Interface, Accessibility and Assistive Technology, Explainable & Human-Centred AI, Medical Imaging and Healthcare
+ 7. Software Engineering using Generative AI, Empirical Software Engineering, Software Testing, Compilers;
+ 8. System security, Web security, Usable privacy and security
+ 9. AI hardware design, Processor design and validation, Hardware Security, AI for Hardware Design and Test
+ 10. Graph neural networks, GNNs for citywide simulation
+ 11. Computer Networks, Network Security, Distributed Systems, Cloud Computing, and Computer Architecture
+ 12. Computer Systems, Concurrent, Distributed & Parallel Computing, AI/ML Infrastructure, Software for emerging computer architectures, Performance Engineering, Agentic AI Systems, Concurrent/distributed data structures & algorithms
+
+Design
+
+ 1. Smart Products, Product–Service Systems, and Emerging Technologies
+ 2. Human–Technology Relations and Responsible Innovation
+ 3. Design and Technology Studies
+ 4. Game Design
+ 5. Game Studies
+ 6. Sustainability Transitions, Circularity, and Regenerative Practices
+ 7. Systems Thinking in Design Methods, Pedagogy, and Knowledge Practices
+
+Earth Sciences
+
+ 1. Climate Change, Water Resources Modelling,
+ 2. Coral Reefs, Microbial Reefs, Carbonate Reservoirs, Sequence Stratigraphy
+ 3. Seismic Hazard Analysis, Geodynamic Modelling, Statistical Seismology, Tectonics
+ 4. Micropaleontology, Biostratigraphy, Paleobiology and Paleoclimate Reconstruction
+ 5. Natural Hazards and risk, Remote sensing & GIS
+ 6. Reservoir modelling, Fluid flow in rocks, Fluid-rock Interaction,
+ 7. River Science, Groundwater, Cryosphere modeling, DEM Applications in ESP
+ 8. Rock mechanics, Petrophysics, Structural Geology
+ 9. CCS/CCUS
+ 10. Critical Minerals, Ore Genesis
+ 11. Natural Hydrogen
+ 12. Igneous petrology, geochemistry, mantle petrology, natural diamonds, craton evolution, lithosphere, alkaline rocks.
+ 13. Water policy/governance, Human-river interactions
+ 14. Geothermal
+
+Electrical Engineering (EE)
+
+ 1. Biomedical Signal Processing, Human Computer Interaction
+ 2. Computer Vision, Image and Video Processing, Computer Graphics, Deep Learning applied to Vision and Imaging problems
+ 3. Adaptive Signal Processing, Array Signal Processing, Audio and Speech Signal Processing
+ 4. Power systems, Smart grid and Grid Optimization
+ 5. Electrical Machines and Power Electronics
+ 6. Smart power electronics for Renewable Energy Integration and Electric Vehicles
+ 7. Photonic Sensors, Mid-infrared laser spectroscopy, Optical fibre sensors, AI and ML in photonics, Nanophotonics, Chip-based biosensors
+ 8. Computational Electromagnetics, Electromagnetic Metamaterials, Antenna synthesis
+ 9. Next-generation ultrasound imaging and therapy
+ 10. Wireless Communication, Sensing, and Network Intelligence
+
+HSS
+
+ 1. Economics and Public Policy
+ 2. Environmental Economics, Development Economics
+ 3. Modern Indian Social History, History of the Northeast Indian Region, Food History
+ 4. Conservation and Heritage Management
+ 5. Indian-English and Bengali Literature together with Indian English Literature
+
+Integrated Circuit Design and Technology (ICDT)
+
+ 1. Nanoelectronics, Nanoscale Semiconductor Devices, Nanotechnology, Advanced Semiconductor Devices, Emerging Memories, Multi-scale and Multi-physics modeling, Semiconductor device and process modeling, 2D Materials
+ 2. VLSI Design, Computing in Memory for ML, AI Hardware, Hardware Security, Computer Architecture
+ 3. Analog Circuits, Mixed-signal IC Design, Power Management IC (PMIC) Design, High-Frequency Analog Circuit Design
+ 4. Semiconductor Manufacturing, Computational Lithography
+
+Materials Engineering
+
+ 1. Modeling and simulation of friction stir additive manufacturing; Solid Stir Extrusion process modeling; Failure mechanism analysis of liquid reinforced composite materials; Aluminum recycling using friction stir process; Development of cooling systems using FSC
+ 2. Semiconductor materials and device fabrication for (opto)electronic applications
+ 3. Materials for Energy conversion, Magnetocaloric cooling, Thermoelectrics for power generation and cooling
+ 4. Al-ML Assisted Alloy Design for High Temperature Applications, Alloys for Automibile Applications, Steels
+ 5. Computational materials science, AI-enabled materials design
+ 6. Computational materials science; Energy materials (Li/Na-ion battery cathodes/anodes); Semiconductor materials; AI/ML based materials design
+ 7. Additive Manufacturing of Steels, Superalloys and Aluminium alloys, Sustainable manufacturing of metals (Nickel based alloys and Fe based alloys), Alloy design and multiscale characterization
+ 8. Environment Sustainability, Porous Ceramics, Superhydrophobicity, Wear, Corrosion
+ 9. High Entropy alloys, Creep, Electroplating
+ 10. Quantum materials and devices, Prototype development of semiconductor-grade automated processing tools/chambers
+ 11. Physical Metallurgy, Phase Transformation, Materials Physics, and Transmission Electron Microscopy
+
+Maritime Engineering
+
+ 1. Maritime Structures - Analysis and Design
+ 2. Marine Renewable Energy
+ 3. Smart Port Systems
+ 4. Marine Policy, Logistics and Safety
+ 5. Maritime Structures under Fire, Blast and Impact Loads
+ 6. Marine Biofouling
+ 7. Perforated Members in Maritime Structures
+
+Mathematics
+
+ Algebraic Geometry, Commutative Algebra, Combinatorics, Functional Analysis, Partial Differential Equations, Inverse problems in integral geometry and PDEs, Harmonic Analysis, Stochastic Processes and Differential Equations
+
+Mechanical Engineering
+
+ 1. Thermofluids: Fluid Mechanics and Heat transfer, Multiphase flows (drops and bubbles), Compressible flows, Turbulence, Combustion and propulsion, Geophysical Fluid Dynamics, Hydrogen Fuel cell Systems for Aerospace Applications, Hydrogen Fuel Cell Systems for Marine Applications, Hydrogen Fuel Cell Systems for Long Endurance e Mobility, Energy Systems, Battery Thermal Management, Complex Fluids, Porous media, Boiling, Condensation and frosting, Microfluidics, Micro/Nanoscale Surface Engineering, Droplets and Fluid Transport. Soft and Living Matter.
+ 2. Computational Fluid Dynamics: Meshless methods using Smoothed Particle Hydrodynamics (SPH), Radial Basis Function (RBF) methods, and Moving Least Squares (MLS) approaches, Machine Learning for Computational Fluid Dynamics.
+ 3. Robotics and Dynamical Systems: Control systems, Robotics, Robot learning, Human-robot interactions, Soft Robotics
+ 4. Theoretical and Applied Mechanics: Mechanical Systems Design, Dynamics and Vibrations, Solid Mechanics, Computational Mechanics, Mechanics of highly deformable structures, Failure and stress-strain response of materials, Mechanics of polymers and self-healing materials, Mechanics of Biological Growth, Composites & Granular Materials, Constitutive modeling of granular materials, Damage modelling in polymer matrix composites, Wave propagation in mechanical metamaterials, dynamical systems
+
+Physics
+
+ 1. Gravitation, Black Hole Physics & Thermodynamics, Gravitational Waves, Modified Gravity Theories, Tests of General Relativity
+ 2. Experimental soft condensed matter physics (colloids, holographic optical tweezer)
+ 3. High Energy Physics Theory (scattering amplitudes and gravitational physics) and Quantun Many-body dynamics
+ 4. Experimental Condensed Matter (Semiconductor, Nanomagnetism and Spintronics)
+ 5. Experimental soft condensed matter and biological physics: Enzyme-driven active systems, Nonequilibrium systems, Living matter.
+ 6. High Energy Particle Physics: Dark Matter, Flavour Physics
+ 7. High Energy Physics: hot QCD matter, Quak-Gluon Plasma, Heavy quark dynamics, Quakonia in hot QCD medium
+ 8. Experimental condensed matter physics: Straintronics, Device physics, Mesoscopic transport
+ 9. Nanomaterials in energy storage and harvesting
+ 10. Membrane Science and Technology based on 2D materials for Desalination, Fuel cells and Electric Vehicles
+ 11. Theoretical Condensed Matter Physics: Superconductivity, Magnetism, Topological phases
+
+PMRF
+
+#### Prime Minister's Research Fellowship
+
+ The Prime Minister's Research Fellows (PMRF) Scheme has been designed for improving the quality of research in various higher educational institutions in the country. With attractive fellowships, the scheme seeks to attract the best talent into research thereby realizing the vision of development through innovation. The scheme was announced in the Budget 2018-19. The institutes which can offer PMRF include all the IITs, all the IISERs, Indian Institute of Science, Bengaluru and some of the top Central Universities/NITs that offer science and/or technology degrees. The candidates will be selected through a rigorous selection process and their performance will be reviewed suitably through a national convention time to time. Kindly visit https://iitgn.ac.in/pmrf for more details about PMRF.

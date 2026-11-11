@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Nitin Kumar Tripathi
+Source: https://iitgn.ac.in/faculty/guestprof/nitin_k_tripathi
+
+# Nitin Kumar Tripathi
+
+-  Guest Professors
+Nitin Kumar Tripathi
+
+## Nitin Kumar Tripathi
+
+Guest Professor, Civil Engineering
+
+- BTech: National Institute of Technology, Warangal, India, 1984
+- MTech: Indian Institute of Technology, Kanpur, India, 1987
+- PhD: Indian Institute of Technology, Kanpur, India, 1994
+
+- Tripathi, N.K., Siddiqi, M.U. and Gokhale, K.V.G.K., 2000, Directional morphological image transforms for lineament extraction from remotely sensed images, International Journal of Remote Sensing, Vol. 21, No. 17, pp 32 -3292.
+- Tripathi, N.K. and Rao, A. M., 2001, Bathymetric Mapping in Kakinada Bay, India, using IRS-1D LISS-III Data, International Journal of Remote Sensing, Vol. 23, No. 6, pp 1013-1025.
+- Daniel KW, Tripathi, N.K., Honda K, 2003, Artificial neural network analysis of laboratory and in situ spectra for the estimation of macronutrients in soils of Lop Buri (Thailand).Aust. J. Soil Res. Vol. 41, 47-59.
+- Tripathi, N.K., and Vasan, C. 2005, Open GIS based wireless data logger for flood mitigation, Role of water sciences in trans-boundary river basin management, Ed. By Dr. S. Herath, Dr. Dusmantha Dutta, Dr. A. Dasgupta. Published by: United Nations University, Asian Institute of Technology, 75-80.
+- Muhammad Sarfraz, Nitin Tripathi and Asanobu Kitamoto. 2013. Near real-time characterization of urban environments: A holistic approach for monitoring dengue fever risk areas, Journal of Digital Earth, (ID: 786144 DOI:10.1080/17538947.2013.786144, Impact Factor: 1.80)
+- Reda AG, Tripathi NK, Soni P, Tipdecho T, Phalke A, 2013. Temporal climate trend of Ping Basin of Thailand and implications for Mekong Region, J Earth Sci Clim Change, Vol.4, Issue 4. 4:146, http://dx.doi.org/10.4172/2157-7617.1000146 doi: 10.4172/2157-7617.1000146. (Impact Factor: 1.0)
+
+- Guest Professor, Indian Institute of Technology, Gandhinagar (Mar 2024 – Present)
+
+Awards
+
+- DAE Young Scientist Award – 1994 (By The Dept. of Atomic Energy, India)
+
+- AICTE Career Award for Young Teacher – 1996 (All India Council for Technical Education)
+
+- Best Paper Award, 3rd Map Asia 2004, Beijing, China
+
+- Best Paper Award, 25th Asian Conf. on Remote Sensing 2004, Chiang Mai, Thailand
+
+- OCU Distinguished Scientist Award, 2007 By Osaka City University
+
+- Best Paper Award, 2009-Int. Conference on GIT4NDM, Bangkok, Thailand, 2009
+
+- ● Remote Sensing and GIS for environment
+- ● Coastal
+- ● Agriculture
+- ● Disaster and Health
+- ● Internet GIS
+- ● Machine Learning applications in GIS

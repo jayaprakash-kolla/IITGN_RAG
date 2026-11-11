@@ -1,0 +1,158 @@
+Title: IIT Gandhinagar | Virtual Seminar Series
+Source: https://iitgn.ac.in/academics/lectures/virtual_seminar_series
+
+At this time of global virus pandemic, IIT Gandhinagar has postponed all academic activities and enforced strict social distancing inside the campus. But, at the same time, we are planning various innovative educational programs using online platforms.
+
+ As a part of these programs, an online seminar series by IIT Gandhinagar faculty members will start from April 24th. The seminars will be on diverse topics, non-technical and designed for a general audience.
+
+ All the lectures will be live streamed on IITGN official YouTube Channel. Details of the seminars are as follows:
+
+## What is a black hole?
+
+Dr. Sudipta Sarkar | Physics
+
+ A black hole is an exotic compact object whose gravitational attraction is so strong that nothing, not even light, can escape. Black holes were long considered a mathematical ...  Read More
+
+## What is a black hole?
+
+ View Lecture
+ 24th April, 2020 | 4 - 5:15 PM
+
+ A black hole is an exotic compact object whose gravitational attraction is so strong that nothing, not even light, can escape. Black holes were long considered a mathematical curiosity of eccentric theoretical physicists, but recent observational results provided compelling evidence in favour of the existence of these exotic objects in the universe. Astronomers have identified numerous stellar black hole candidates in binary star systems and also established that a source known as Sagittarius A*, at the core of our own Milky Way galaxy, contains a supermassive black hole of about 4.3 million solar masses. In 2016, the LIGO collaboration announced the first direct detection of gravitational waves from two merging black holes. In 2019, the first-ever direct image of a black hole and its vicinity was published, following observations made by the Event Horizon Telescope of the supermassive black hole in the centre of the galaxy Messier 87.
+
+ Black hoes are often considered to be the mathematical laboratory to study the fundamental laws of physics; in the particular relationship between quantum theory and gravitation. A remarkable property of the black hole is that it behaves like a thermodynamic system, with temperature and entropy. It is widely believed that the study of these properties will provide us with clues about the ultimate aim of theoretical physics, the unification of all forces, the theory of everything!
+
+ In this (online) seminar, I will present a non-technical account of the fascinating history of black hole research.
+
+ View Lecture
+
+ 24th April, 2020 | 4 - 5:15 PM
+
+## Doing Carpentry with DNA
+
+Dr. Dhiraj Bhatia | Biological Engineering
+ Non technical lecture on nanotechnology with DNA. No Biology but Fun.
+ View Lecture
+
+27th April, 2020 | 4 - 5:15 PM
+
+## Ornaments of the Dead among the Nagas
+
+Dr. Alok Kumar Kanungo | Archaeology Science
+ A lecture on the culture and tradition of the Naga people which helps in understanding their origin and migration. This will have a good number of exotic pictures.
+ View Lecture
+
+1st May, 2020 | 4 - 5.15 PM
+
+## Dear Virus, Thank you!!!
+
+Dr. Umashankar Singh | Biology Engineering
+
+Viruses are again at the centre of human attention. A century ago, they were a big headache for cancer biologists and occupied the centre piece of research in biology...  Read More
+
+## Dear Virus, Thank you!!!
+
+ View Lecture
+
+ Viruses are again at the centre of human attention. A century ago, they were a big headache for cancer biologists and occupied the centre piece of research in biology. The last two decades shed light on the fact that the world as we know wouldn't exist without the agents of change that these viruses are. For one thing, the apes be would still be apes, not humans, if it wasn't for some viruses. I will share some insights into the love-hate relationship between humans and the beautiful things these viruses are. We will end with a serious note of thanks to the viruses.
+
+ View Lecture
+
+4th May, 2020 | 4 - 5.15 PM
+
+## An introduction to the Theory of Partitions
+
+Dr. Atul Abhay Dixit | Mathematics
+
+ The Theory of Partitions is an active branch of number theory and combinatorics. It was initiated by Euler and later, many people such as J. J. Sylvester, S. Ramanujan, G. H. Hardy... Read More
+
+## An introduction to the Theory of Partitions
+
+ View Lecture
+
+ The Theory of Partitions is an active branch of number theory and combinatorics. It was initiated by Euler and later, many people such as J. J. Sylvester, S. Ramanujan, G. H. Hardy made important contributions to it. Ramanujan's stunning advances in this field, either by himself or in collaboration with Hardy, opened the doors for many of the current areas within number theory. This talk will be an introduction to this beautiful area of mathematics mainly concentrating on the partition function p(n) and the congruences satisfied by it.
+
+ View Lecture
+
+8th May, 2020 | 4 - 5.15 PM
+
+## Glasses: the original super cool materials!
+
+Dr. Raghavan Ranganathan | Materials Science and Engineering
+
+From its use during stone age, to exquisite decorative items through the ages, to high-performance metallic glasses used in cutting edge applications today, no...  Read More
+
+## Glasses: the original super cool materials!
+
+ View Lecture
+ From its use during stone age, to exquisite decorative items through the ages, to high-performance metallic glasses used in cutting edge applications today, no other material has arguably seen more progress than glasses. Nonetheless, the precise physics behind glass transition remains to be a mystery. This lecture will touch upon various aspects of this wonderful material, beginning from the history to the current engineering advances, with lots of illustrations. Along the way, we will see why the epithet in the title is befitting!
+
+ View Lectture
+
+11th May, 2020 | 4 - 5.15 PM
+
+## Alan M. Turing: ushering the age of computational thinking
+
+Dr. Anirban Dasgupta | Computer Science and Engineering
+
+We will trace few contributions of Alan Turing: how he laid the groundstone for computer science when trying to answer fundamental questions about the very...  Read More
+
+## Alan M. Turing: ushering the age of computational thinking
+
+ View Lecture
+ We will trace few contributions of Alan Turing: how he laid the groundstone for computer science when trying to answer fundamental questions about the very foundations of mathematics and logical reasoning, as well as his thoughts about "intelligent machines" and how to characterize them.
+
+ View Lecture
+
+15th May, 2020 | 4 - 5.15 PM
+
+## Languages and Scripts of India
+
+Dr. Nishaant Choksi | Humanities & Social Sciences
+ A non-technical, interactive overview describing different langauges and scripts, and practices of multilingualism in one of the most linguistically diverse countries in the world.
+ View Lecture
+
+18th May, 2020 | 4 - 5.15 PM
+
+## How do we Read literature?
+
+Dr. Arka Chattopadhyay | Humanities & Social Sciences
+
+ Between conceptual and cultural readings, between 'close' and 'distant' readings of literary texts, what are the different ways of approaching literature?...  Read More
+
+## How do we Read literature?
+
+ Between conceptual and cultural readings, between 'close' and 'distant' readings of literary texts, what are the different ways of approaching literature? This session will read out from select literary texts and interactively demonstrate various ways of engaging with them.
+
+ View Lecture
+
+29th May, 2020 | 4 - 5.15 PM
+
+## History and geography of fluid mechanics
+
+Dr. Uddipta Ghosh | Mechanical Engineering
+
+In this seminar, we take a look at the history of fluid dynamics - we see how the subject was developed from the ancient time and talk about the people who made...  Read More
+
+## History and geography of fluid mechanics
+
+ View Lecture
+ In this seminar, we take a look at the history of fluid dynamics - we see how the subject was developed from the ancient time and talk about the people who made great contributions towards building the subject. We also take a brief glance at how to quantify fluid motion, what forces and properties play important roles. This helps us get an overview of the subject across scales and to understand what are the different active areas of research in fluid dynamics. We shall try to keep the seminar non-technical and accessible to an audience from a large spectrum of background.
+
+ View Lecture
+
+1st June, 2020 | 4 - 5.15 PM
+
+## Shape of things
+
+Dr. Manasi Kanetkar | Design
+
+Design is a multidisciplinary field that borrows applied knowledge from various technical fields, marketing principles as well as takes inspiration from art and sociology....  Read More
+
+## Shape of things
+
+ Design is a multidisciplinary field that borrows applied knowledge from various technical fields, marketing principles as well as takes inspiration from art and sociology. Amongst various aspects of a product, the appearance is very critical. It needs to be attractive, and has to respond to cognitive aspects for effective human interaction. This pictorial presentation will be quick glance at the process of designing aesthetic and semantic aspects of a product.
+
+ View Lecture
+
+8th June, 2020 | 4 - 5.15 PM

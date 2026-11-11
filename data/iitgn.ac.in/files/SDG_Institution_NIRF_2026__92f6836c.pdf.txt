@@ -1,0 +1,4632 @@
+#flags:
+
+National Institutional Ranking Framework
+Ministry of Education
+Government of India
+Welcome to Data Capturing System: Sustainable Institutions
+Submitted Institute Data for NIRF'2026'
+Institute Name: Indian Institute of Technology Gandhinagar [IR-B-U-0139]
+Sanctioned (Approved) Intake
+Academic Year
+
+2024-25
+
+2023-24
+
+2022-23
+
+2021-22
+
+2020-21
+
+2019-20
+
+UG [4 Years Program(s)]
+
+340
+
+310
+
+225
+
+225
+
+-
+
+-
+
+UG [5 Years Program(s)]
+
+60
+
+60
+
+40
+
+0
+
+0
+
+-
+
+PG [2 Year Program(s)]
+
+450
+
+355
+
+-
+
+-
+
+-
+
+-
+
+Total Actual Student Strength (Program(s) Offered by Your Institution)
+(All programs
+of all years)
+
+No. of Male
+Students
+
+No. of Female
+Students
+
+Total Students
+
+Within State
+(Including male
+& female)
+
+Outside State
+(Including male
+& female)
+
+Outside
+Country
+(Including male
+& female)
+
+Economically
+Backward
+(Including male
+& female)
+
+Socially
+Challenged
+(SC+ST+OBC
+Including male
+& female)
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from the State
+and Central
+Government
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from Institution
+Funds
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from the Private
+Bodies
+
+No. of students
+who are not
+receiving full
+tuition fee
+reimbursement
+
+UG [4 Years
+Program(s)]
+
+937
+
+236
+
+1173
+
+209
+
+959
+
+5
+
+45
+
+562
+
+261
+
+130
+
+5
+
+211
+
+UG [5 Years
+Program(s)]
+
+84
+
+29
+
+113
+
+19
+
+94
+
+0
+
+7
+
+67
+
+38
+
+7
+
+0
+
+29
+
+PG [2 Year
+Program(s)]
+
+507
+
+251
+
+758
+
+72
+
+670
+
+16
+
+36
+
+334
+
+164
+
+82
+
+4
+
+120
+
+Ph.D Student Details (including Integrated Ph.D)
+Ph.D (Student pursuing doctoral program till 2024-25 Students admitted in the academic year 2025-26 should not be entered here.)
+Total Students
+Full Time
+
+736
+
+Part Time
+
+21
+No. of Ph.D students graduated (including Integrated Ph.D)
+2024-25
+
+2023-24
+
+2022-23
+
+Full Time
+
+111
+
+78
+
+73
+
+Part Time
+
+0
+
+0
+
+0
+
+IPR
+Calendar year
+
+2024
+
+2023
+
+2022
+
+No. of Patents Published
+
+11
+
+8
+
+7
+
+No. of Patents Granted
+
+12
+
+13
+
+4
+
+Sponsored Research Details
+Financial Year
+
+2024-25
+
+2023-24
+
+2022-23
+
+Total no. of Sponsored Projects
+
+360
+
+293
+
+262
+
+Total no. of Funding Agencies
+
+80
+
+72
+
+53
+
+Total Amount Received (Amount in Rupees)
+
+1148729560
+
+1099233686
+
+575094530
+
+Amount Received in Words
+
+One Hundred Fourteen Crore Eighty Seven Lakh Twenty Nine
+Thousand Five Hundred Sixty only
+
+One Hundred and Nine Crore Ninety Two Lakh Thirty Three
+Thousand Six Hundred And Eighty Six
+
+Fifty Seven Crore Fifty Lakh Ninety Four Thousand Five
+Hundred Thirty Only
+
+Consultancy Project Details
+Financial Year
+
+2024-25
+
+2023-24
+
+2022-23
+
+Total no. of Consultancy Projects
+
+116
+
+79
+
+50
+
+Total no. of Client Organizations
+
+67
+
+63
+
+45
+
+Total Amount Received (Amount in Rupees)
+
+284315453
+
+91502045
+
+67879352
+
+Amount Received in Words
+
+Twenty Eight Crore Forty Three Lakh Fifteen Thousand Four
+Hundred Fifty Three only
+
+Nine Crore Fifteen Lakh Two Thousand Forty Five only
+
+Six Crore Seventy Eight Lakh Seventy Nine Thousand Three
+Hundred Fifty Two Only
+
+PCS Facilities: Facilities of physically challenged students
+1. Do your institution buildings have Lifts/Ramps?
+
+Yes, more than 80% of the buildings
+
+2. Do your institution have provision for walking aids, including wheelchairs and transportation from one building to another for
+handicapped students?
+
+Yes
+
+3. Do your institution buildings have specially designed toilets for handicapped students?
+
+Yes, more than 80% of the buildings
+
+Energy Generated & Consumed
+Electricity Questionnaire
+1. Practices to avoid misuse of electricity: Yes
+2. LED Replacement Percentage: 80
+3. BLDC Fan Replacement Percentage: NA
+4. Defined norms for cooling/heating: Yes
+5. Renewable electricity procurement: Yes
+6. Additional energy reduction activity: Yes
+Activity Details: IIT Gandhinagar has implemented several measures to reduce energy consumption across its campus, which holds a 5-Star Green Campus rating. All buildings use energy-efficient LED lighting. Street and corridor lights operate automatically
+based on time schedules, while motion sensors ensure lights in washrooms and passages switch off when not in use. The campus cooling systems are designed to optimize energy use according to demand. Dining halls are cooled using Passive Downdraft
+Evaporative Cooling (PDEC), which uses air movement and mist with minimal electricity consumption. Guesthouses and hostels use a key-card system that automatically cuts off power when rooms are vacant. A rooftop solar power system meets about 4–5% of
+the campus’s electricity needs, and solar water heaters reduce reliance on electric geysers. Sewage is treated using root zone treatment technology, and the treated water is reused for gardening.
+Academic Year
+
+Total Electricity Consumed (kWh)
+
+Total Renewable Energy Installed (kWp)
+
+Total Renewable Energy Generated (kWh)
+
+Total Built-up Area (Sq. ft.)
+
+2024-25
+
+15964751.000
+
+500.000
+
+626501.000
+
+2169552.000
+
+2023-24
+
+14372559.000
+
+500.000
+
+650159.000
+
+2169552.000
+
+2022-23
+
+12117504.000
+
+500.000
+
+635709.000
+
+1887129.000
+
+Water Management
+Water Questionnaire
+1. Water conservation practices: Yes
+2. Rainwater harvesting system: Yes
+3. Wastewater treatment system: 80
+4. Water audit conducted: Yes
+5. Low-flow fixtures installed: Yes
+Academic Year
+
+Total Pump Power (HP)
+
+RWH Connected Area (Sq.ft.)
+
+Wastewater Treated (%)
+
+Total Taps
+
+Low-Flow Taps
+
+Total Rooftop Area (Sq.ft.)
+
+2024-25
+
+478.000
+
+689106.000
+
+99.000
+
+3789
+
+3789
+
+689106.000
+
+2023-24
+
+468.000
+
+603382.000
+
+99.000
+
+3789
+
+3789
+
+603382.000
+
+2022-23
+
+468.000
+
+603382.000
+
+99.000
+
+3789
+
+3789
+
+603382.000
+
+Wet Waste (Tons)
+
+Dry Waste Recycled (Tons)
+
+Bio/Food Waste Processed
+(Tons)
+
+Waste Management
+Waste Management Questionnaire
+1. Does your institute have a waste segregation system? Yes
+2. Does the institute practice composting? Yes
+3. Are hazardous wastes handled properly? Yes
+4. Does the institute have an e-waste management system? No
+5. Are there initiatives for reducing single-use plastics? Yes
+6. Any additional waste reduction activities? Yes
+Financial Year
+
+Total Solid Waste (Tons)
+
+Horticulture Waste (Tons)
+
+Dry Waste (Tons)
+
+Electronic Waste (Kg)
+
+2024-25
+
+367.00
+
+0.00
+
+87.00
+
+280.00
+
+57.00
+
+276.00
+
+1,200.00
+
+2023-24
+
+475.00
+
+0.00
+
+83.00
+
+382.00
+
+50.00
+
+421.00
+
+1,511.00
+
+2022-23
+
+392.00
+
+0.00
+
+23.00
+
+361.00
+
+12.00
+
+398.00
+
+1,200.00
+
+Green Coverage
+Green Coverage Questionnaire
+1. Total land area of the campus: Yes
+2. Total green area in the campus: Yes
+3. Number of trees planted in the campus: Yes
+4. Initiatives for improving green coverage (e.g., saplings planted, gardens, rooftop gardens): Yes
+Financial Year
+2024-25
+
+Total Land Area (Acres)
+399.000
+
+Green Area (Acres)
+279.000
+
+Number of Trees
+99999
+
+Number of Saplings Planted
+8500
+
+2023-24
+
+399.000
+
+297.000
+
+99999
+
+1000
+
+2022-23
+
+399.000
+
+303.000
+
+99999
+
+1000
+
+Health & Well-Being
+Health & Well-being Questionnaire
+1. Availability of pedestrian-friendly areas on campus: Yes
+2. Sports facilities and areas accessible to students and staff: Yes
+3. Total campus area dedicated to health and wellness activities: Yes
+4. Number of students participating in yoga or fitness programs: Yes
+5. Additional initiatives promoting health and well-being: Yes
+Financial Year
+
+Pedestrian Area (Acres)
+
+Sports Area (Acres)
+
+Total Campus Area (Acres)
+
+Yoga (Twice per Week)
+
+Yoga (Weekly)
+
+2024-25
+
+35.000
+
+22.000
+
+399.000
+
+1000
+
+400
+
+2023-24
+
+35.000
+
+22.000
+
+399.000
+
+1000
+
+400
+
+2022-23
+
+35.000
+
+22.000
+
+399.000
+
+1000
+
+400
+
+Sustainable Communities and Partnership
+Community Questionnaire
+1. Initiatives undertaken by the institute for community engagement: No
+2. Programs promoting student participation in social initiatives: Yes
+3. Measures taken to involve students in planting, cleanliness, and sustainability activities: Yes
+4. Partnerships with local communities or NGOs: Yes
+5. Events organized for community welfare: Yes
+6. Any other community support activities undertaken by the institute: Yes
+Financial Year
+
+Active Initiatives
+
+Students - Tree Plantation
+
+Students - Other Activities
+
+Students - Outside Campus
+
+Events Organized
+
+2024-25
+
+4
+
+150
+
+700
+
+60
+
+20
+
+2023-24
+
+4
+
+50
+
+150
+
+10
+
+11
+
+2022-23
+
+4
+
+0
+
+100
+
+7
+
+17
+
+Faculty Details2
+Srno
+
+Name
+
+Designation
+
+Gender
+
+Qualification
+
+Experience (In
+Months)
+
+Currently working
+with institution?
+
+Joining Date
+
+Leaving Date
+
+Association type
+
+1
+
+Abinaya Sampath
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+37
+
+Yes
+
+26-07-2022
+
+--
+
+Regular
+
+2
+
+BANERJEE RUPAK
+
+Associate Professor
+
+Male
+
+Ph.D
+
+265
+
+Yes
+
+01-07-2015
+
+--
+
+Regular
+
+3
+
+BHATIA DHIRAJ
+
+Associate Professor
+
+Male
+
+Ph.D
+
+144
+
+Yes
+
+02-07-2018
+
+--
+
+Regular
+
+4
+
+CHANDAN KUMAR
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+95
+
+Yes
+
+28-01-2021
+
+--
+
+Regular
+
+5
+
+DALVI SAMEER
+VISHVANATH
+
+Professor
+
+Male
+
+Ph.D
+
+218
+
+Yes
+
+29-12-2009
+
+--
+
+Regular
+
+6
+
+GANDHI R S
+
+Professor
+
+Male
+
+Ph.D
+
+427
+
+Yes
+
+25-10-2021
+
+--
+
+Adhoc / Contractual
+
+7
+
+GHOSH PRADIPTA
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+132
+
+Yes
+
+04-07-2019
+
+--
+
+Regular
+
+8
+
+JAIN MANISH
+
+Professor
+
+Male
+
+B.Tech
+
+282
+
+Yes
+
+05-12-2018
+
+--
+
+Adhoc / Contractual
+
+9
+
+Kanetkar Manasi
+
+Associate Professor
+
+Female
+
+Master of Design
+
+225
+
+Yes
+
+07-12-2018
+
+--
+
+Adhoc / Contractual
+
+10
+
+KHATUA
+SAUMYAKANTI
+
+Associate Professor
+
+Male
+
+Ph.D
+
+122
+
+Yes
+
+06-04-2015
+
+--
+
+Regular
+
+11
+
+KRISHNAN JYOTI
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+30
+
+Yes
+
+11-03-2024
+
+--
+
+Adhoc / Contractual
+
+12
+
+LASHKARE SANDIP
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+81
+
+Yes
+
+10-07-2023
+
+--
+
+Regular
+
+13
+
+MANJALY JAISON
+ANTONY
+
+Professor
+
+Male
+
+Ph.D
+
+226
+
+Yes
+
+16-10-2008
+
+--
+
+Regular
+
+14
+
+MISHRA VIMAL
+
+Dean / Principal /
+Director / Vice
+Chancellor
+
+Male
+
+Ph.D
+
+181
+
+Yes
+
+31-05-2012
+
+--
+
+Regular
+
+15
+
+MONDAL ANIRBAN
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+106
+
+Yes
+
+27-08-2021
+
+--
+
+Regular
+
+16
+
+NARAYANAN VINOD
+
+Professor
+
+Male
+
+Ph.D
+
+232
+
+Yes
+
+28-05-2009
+
+--
+
+Regular
+
+17
+
+PANDA EMILA
+
+Professor
+
+Female
+
+Ph.D
+
+214
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+18
+
+PATHAK MADHAV
+KIRITKUMAR
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+19
+
+Yes
+
+07-12-2023
+
+--
+
+Regular
+
+19
+
+RAJKRISHNA DUTTA
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+50
+
+No
+
+25-05-2022
+
+24-02-2025
+
+Regular
+
+20
+
+ROWTHU
+SRIHARITHA
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+105
+
+Yes
+
+06-12-2019
+
+--
+
+Regular
+
+21
+
+SEETHARAMAN
+RAJENDRAN
+
+Associate Professor
+
+Male
+
+M.Tech
+
+498
+
+Yes
+
+23-05-2011
+
+--
+
+Adhoc / Contractual
+
+22
+
+Sharad Kumar Jain
+
+Professor
+
+Male
+
+Ph.D
+
+516
+
+Yes
+
+26-05-2025
+
+--
+
+Adhoc / Contractual
+
+23
+
+Shreesha Bhat
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+10
+
+Yes
+
+12-03-2025
+
+--
+
+Adhoc / Contractual
+
+24
+
+SISODIA NAVEEN
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+59
+
+Yes
+
+01-06-2023
+
+--
+
+Regular
+
+25
+
+Sudeshna Roy
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+52
+
+Yes
+
+01-05-2025
+
+--
+
+Regular
+
+26
+
+THAREJA PRACHI
+
+Professor
+
+Female
+
+Ph.D
+
+211
+
+Yes
+
+22-12-2011
+
+--
+
+Regular
+
+27
+
+VASHISTA VINEET
+
+Associate Dean
+
+Male
+
+Ph.D
+
+117
+
+Yes
+
+26-11-2015
+
+--
+
+Regular
+
+28
+
+Abhinav Jha
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+9
+
+Yes
+
+15-10-2024
+
+--
+
+Adhoc / Contractual
+
+29
+
+APPAYEE
+CHANDRAKUMAR
+
+Professor
+
+Male
+
+Ph.D
+
+206
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+30
+
+BHARADWAJ
+PALLAVI
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+82
+
+Yes
+
+10-07-2023
+
+--
+
+Regular
+
+31
+
+BISWAJIT SAHA
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+158
+
+Yes
+
+18-07-2022
+
+--
+
+Regular
+
+32
+
+CHOPPERLA TEJA
+SIVA KRISHNA
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+46
+
+Yes
+
+12-02-2024
+
+--
+
+Regular
+
+33
+
+DAYAL PRATYUSH
+
+Associate Professor
+
+Male
+
+Ph.D
+
+241
+
+Yes
+
+28-06-2012
+
+--
+
+Regular
+
+34
+
+GHANA PRIYABRATA
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+22
+
+Yes
+
+15-09-2023
+
+--
+
+Regular
+
+35
+
+HEGDE SADANANDA
+RAVI
+
+Associate Professor
+
+Male
+
+Ph.D
+
+206
+
+Yes
+
+06-07-2015
+
+--
+
+Regular
+
+36
+
+Kamla Prasan Ray
+
+Professor
+
+Male
+
+Ph.D
+
+469
+
+Yes
+
+16-06-2025
+
+--
+
+Adhoc / Contractual
+
+37
+
+Kasivisvanthan
+Chelvakumar
+
+Professor
+
+Male
+
+Ph.D
+
+544
+
+Yes
+
+17-01-2025
+
+--
+
+Adhoc / Contractual
+
+38
+
+Kothiyal Aditi
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+75
+
+Yes
+
+16-08-2022
+
+--
+
+Adhoc / Contractual
+
+39
+
+KUMAR TARUN
+AGARWAL
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+51
+
+Yes
+
+19-04-2021
+
+--
+
+Regular
+
+40
+
+MANDAL RUSA
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+83
+
+Yes
+
+30-06-2022
+
+--
+
+Regular
+
+41
+
+MISHRA ABHIJIT
+
+Professor
+
+Male
+
+Ph.D
+
+177
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+42
+
+MOHAPATRA NIHAR
+RANJAN
+
+Professor
+
+Male
+
+Ph.D
+
+273
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+43
+
+MUKESH DHANKA
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+63
+
+Yes
+
+10-06-2022
+
+--
+
+Regular
+
+44
+
+PAHALAJANI
+CHETAN DEVKISHIN
+
+Associate Professor
+
+Male
+
+Ph.D
+
+210
+
+Yes
+
+14-07-2014
+
+--
+
+Regular
+
+45
+
+Partha Pratim Roy
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+9
+
+Yes
+
+21-10-2024
+
+--
+
+Regular
+
+46
+
+PURI RAVINDER
+
+Professor
+
+Male
+
+Ph.D
+
+268
+
+Yes
+
+14-07-2014
+
+--
+
+Adhoc / Contractual
+
+47
+
+Rath Arnapurna
+
+Associate Professor
+
+Female
+
+Ph.D
+
+195
+
+Yes
+
+24-12-2010
+
+--
+
+Regular
+
+48
+
+SAIRAM
+MALLAJOSYULA
+SWAROOP
+
+Associate Professor
+
+Male
+
+Ph.D
+
+139
+
+Yes
+
+12-12-2013
+
+--
+
+Regular
+
+49
+
+SETT SOUMYADIP
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+49
+
+Yes
+
+23-06-2021
+
+--
+
+Regular
+
+50
+
+SHEKHAR
+HIMANSHU
+
+Associate Professor
+
+Male
+
+Ph.D
+
+141
+
+Yes
+
+15-04-2019
+
+--
+
+Regular
+
+51
+
+SINGHAI RAKESH
+
+Professor
+
+Male
+
+Ph.D
+
+492
+
+Yes
+
+29-07-2024
+
+--
+
+Adhoc / Contractual
+
+52
+
+SUBRAMANIAN
+HARINI
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+37
+
+Yes
+
+07-07-2023
+
+--
+
+Regular
+
+53
+
+SUNNY MEERA
+MARY
+THOMPUNNAYIL
+
+Associate Professor
+
+Female
+
+Ph.D
+
+172
+
+Yes
+
+01-02-2012
+
+--
+
+Regular
+
+54
+
+Vadali Madhukanth
+Venkata
+
+Associate Professor
+
+Male
+
+Ph.D
+
+139
+
+Yes
+
+04-12-2017
+
+--
+
+Regular
+
+55
+
+YAJNIK URJIT
+
+Professor
+
+Male
+
+Ph.D
+
+467
+
+Yes
+
+28-06-2023
+
+--
+
+Adhoc / Contractual
+
+56
+
+Abhisek Samanta
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+9
+
+Yes
+
+16-10-2024
+
+--
+
+Regular
+
+57
+
+ARORA AMIT
+
+Associate Professor
+
+Male
+
+Ph.D
+
+178
+
+Yes
+
+31-10-2011
+
+--
+
+Regular
+
+58
+
+BHARGAV ATUL
+
+Professor
+
+Male
+
+Ph.D
+
+215
+
+Yes
+
+04-05-2011
+
+--
+
+Regular
+
+59
+
+CHAKRABORTY
+ARUP LAL
+
+Professor
+
+Male
+
+Ph.D
+
+255
+
+Yes
+
+26-05-2010
+
+--
+
+Regular
+
+60
+
+CHOUDHURY
+PROJESH NATH
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+39
+
+Yes
+
+24-08-2022
+
+--
+
+Regular
+
+61
+
+DIXIT ATUL ABHAY
+
+Associate Professor
+
+Male
+
+Ph.D
+
+106
+
+Yes
+
+14-08-2015
+
+--
+
+Regular
+
+62
+
+GHOROI CHINMAY
+
+Professor
+
+Male
+
+Ph.D
+
+243
+
+Yes
+
+15-06-2009
+
+--
+
+Regular
+
+63
+
+Iti Gupta
+
+Professor
+
+Female
+
+Ph.D
+
+240
+
+Yes
+
+03-07-2009
+
+--
+
+Regular
+
+64
+
+KANAGARAJ
+RAGAVAN
+
+Professor
+
+Male
+
+Ph.D
+
+217
+
+Yes
+
+05-05-2009
+
+--
+
+Regular
+
+65
+
+KHANOLKAR SONAL
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+97
+
+Yes
+
+28-06-2024
+
+--
+
+Regular
+
+66
+
+Krishna Kanti Dey
+
+Associate Dean
+
+Male
+
+Ph.D
+
+155
+
+Yes
+
+19-08-2016
+
+--
+
+Regular
+
+67
+
+LAHIRI UTTAMA
+
+Professor
+
+Female
+
+Ph.D
+
+324
+
+Yes
+
+25-04-2012
+
+--
+
+Regular
+
+68
+
+Manisha Samanta
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+7
+
+Yes
+
+20-12-2024
+
+--
+
+Regular
+
+69
+
+MISHRA SUPERB
+KUMAR
+
+Associate Dean
+
+Male
+
+Ph.D
+
+218
+
+Yes
+
+03-03-2014
+
+--
+
+Regular
+
+70
+
+MOHAPATRA
+PRANAB KUMAR
+
+Professor
+
+Male
+
+Ph.D
+
+344
+
+Yes
+
+24-11-2014
+
+--
+
+Regular
+
+71
+
+MUTHA PRATIK
+KIRAN
+
+Dean / Principal /
+Director / Vice
+Chancellor
+
+Male
+
+Ph.D
+
+187
+
+Yes
+
+11-11-2013
+
+--
+
+Regular
+
+72
+
+PALANTHANDALAM
+MADAPUSI HARISH
+JAGANATHAN
+
+Professor
+
+Male
+
+Ph.D
+
+220
+
+Yes
+
+21-12-2011
+
+--
+
+Regular
+
+73
+
+PATEL SAMEER
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+53
+
+Yes
+
+05-01-2021
+
+--
+
+Regular
+
+74
+
+Raghunandan M Rao
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+50
+
+Yes
+
+14-07-2025
+
+--
+
+Regular
+
+75
+
+RAVI SASTRI
+AYYAGARI
+
+Associate Professor
+
+Male
+
+Ph.D
+
+161
+
+Yes
+
+14-12-2016
+
+--
+
+Regular
+
+76
+
+SAURABH BIPUL
+
+Associate Professor
+
+Male
+
+Ph.D
+
+113
+
+Yes
+
+04-10-2018
+
+--
+
+Regular
+
+77
+
+Shah Mana Apporva
+
+Lecturer
+
+Female
+
+Ph.D
+
+96
+
+Yes
+
+17-07-2017
+
+--
+
+Adhoc / Contractual
+
+78
+
+SHEKHAR KARLA
+PATRICIA
+
+Associate Professor
+
+Female
+
+Ph.D
+
+127
+
+Yes
+
+15-04-2019
+
+--
+
+Regular
+
+79
+
+SINGHANIA DEEPAK
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+49
+
+Yes
+
+23-07-2021
+
+--
+
+Regular
+
+80
+
+Subramanian
+Sankaranarayanan
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+115
+
+Yes
+
+09-06-2022
+
+--
+
+Regular
+
+81
+
+Tanya Kaushal
+Srivastava
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+80
+
+Yes
+
+24-08-2021
+
+--
+
+Regular
+
+82
+
+Vaibhav Tripathi
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+34
+
+Yes
+
+03-03-2025
+
+--
+
+Adhoc / Contractual
+
+83
+
+Achyut Mishra
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+9
+
+Yes
+
+07-10-2024
+
+--
+
+Regular
+
+84
+
+BARADHWAJ
+PANAYANCHERI
+COLEPPA
+
+Associate Professor
+
+Male
+
+Ph.D
+
+191
+
+Yes
+
+16-12-2014
+
+--
+
+Regular
+
+85
+
+BHATIA UDIT
+
+Associate Professor
+
+Male
+
+Ph.D
+
+103
+
+Yes
+
+17-01-2019
+
+--
+
+Regular
+
+86
+
+CHANDRA VINOD
+
+Associate Professor
+
+Male
+
+Ph.D
+
+208
+
+Yes
+
+01-07-2014
+
+--
+
+Regular
+
+87
+
+DANINO MICHEL
+
+Professor
+
+Male
+
+M.Sc.
+
+526
+
+No
+
+09-05-2018
+
+31-01-2025
+
+Adhoc / Contractual
+
+88
+
+GANESH SAI HARI
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+53
+
+Yes
+
+27-01-2021
+
+--
+
+Regular
+
+89
+
+GHOSH UDDIPTA
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+108
+
+Yes
+
+15-12-2017
+
+--
+
+Regular
+
+90
+
+JAIN VIKRANT
+
+Professor
+
+Male
+
+Ph.D
+
+300
+
+Yes
+
+14-06-2013
+
+--
+
+Regular
+
+91
+
+Kanungo Alok Kumar
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+310
+
+Yes
+
+29-09-2014
+
+--
+
+Adhoc / Contractual
+
+92
+
+KHIANGTE KRISTA
+ROLUAHPUIA
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+88
+
+Yes
+
+30-06-2022
+
+--
+
+Regular
+
+93
+
+KULKARNI SAMEER
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+193
+
+Yes
+
+03-04-2020
+
+--
+
+Regular
+
+94
+
+Lazar Leslee
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+114
+
+Yes
+
+26-12-2016
+
+--
+
+Adhoc / Contractual
+
+95
+
+Mcblane Angus
+Alexander James
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+126
+
+Yes
+
+29-06-2015
+
+--
+
+Adhoc / Contractual
+
+96
+
+MISRA GADADHAR
+
+Professor
+
+Male
+
+Ph.D
+
+528
+
+Yes
+
+11-11-2021
+
+--
+
+Adhoc / Contractual
+
+97
+
+MONDAL BISWAJIT
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+81
+
+Yes
+
+21-09-2021
+
+--
+
+Regular
+
+98
+
+NETTEMADATHIL
+RAMAKRISHNAN
+
+Professor
+
+Male
+
+Ph.D
+
+517
+
+No
+
+04-01-2010
+
+03-07-2025
+
+Adhoc / Contractual
+
+99
+
+PANDEY CHHAVI
+NATH
+
+Professor
+
+Male
+
+Ph.D
+
+515
+
+Yes
+
+02-09-2016
+
+--
+
+Adhoc / Contractual
+
+100
+
+PINDORIYA NARAN
+MANJI
+
+Professor
+
+Male
+
+Ph.D
+
+241
+
+Yes
+
+29-11-2010
+
+--
+
+Regular
+
+101
+
+RAMAN
+SHANMUGANATHAN
+
+Professor
+
+Male
+
+Ph.D
+
+262
+
+Yes
+
+20-05-2013
+
+--
+
+Regular
+
+102
+
+SACHAN AJANTA
+
+Professor
+
+Female
+
+Ph.D
+
+243
+
+Yes
+
+09-12-2010
+
+--
+
+Regular
+
+103
+
+SEN SUSHOBHAN
+
+Associate Dean
+
+Male
+
+Ph.D
+
+70
+
+Yes
+
+27-12-2022
+
+--
+
+Regular
+
+104
+
+SHARMA DINESH
+KUMAR
+
+Professor
+
+Male
+
+Ph.D
+
+396
+
+Yes
+
+01-08-2024
+
+--
+
+Adhoc / Contractual
+
+105
+
+SINGH HARMEET
+
+Associate Dean
+
+Male
+
+Ph.D
+
+101
+
+Yes
+
+16-12-2022
+
+--
+
+Regular
+
+106
+
+SRIVASTAVA
+ASHUTOSH
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+54
+
+Yes
+
+29-12-2020
+
+--
+
+Regular
+
+107
+
+SUDHIR KUMAR
+ARORA
+
+Professor
+
+Male
+
+M.Tech
+
+360
+
+Yes
+
+26-07-2021
+
+--
+
+Adhoc / Contractual
+
+108
+
+THIRUVENKATAM
+VIJAY
+
+Associate Professor
+
+Male
+
+Ph.D
+
+190
+
+Yes
+
+28-01-2013
+
+--
+
+Adhoc / Contractual
+
+109
+
+VATWANI AKSHAA
+
+Associate Professor
+
+Female
+
+Ph.D
+
+108
+
+Yes
+
+23-07-2018
+
+--
+
+Regular
+
+110
+
+Aiyadurai Ambika
+
+Associate Professor
+
+Female
+
+Ph.D
+
+210
+
+Yes
+
+16-08-2016
+
+--
+
+Regular
+
+111
+
+BASU DHIMAN
+
+Professor
+
+Male
+
+Ph.D
+
+280
+
+Yes
+
+01-08-2012
+
+--
+
+Regular
+
+112
+
+BHATTACHARYYA
+ARPAN
+
+Associate Professor
+
+Male
+
+Ph.D
+
+68
+
+Yes
+
+21-10-2019
+
+--
+
+Regular
+
+113
+
+CHANNARAYAPATNA
+V SHARADA
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+127
+
+Yes
+
+01-02-2019
+
+--
+
+Regular
+
+114
+
+DAS BIRESWAR
+
+Associate Professor
+
+Male
+
+Ph.D
+
+178
+
+Yes
+
+28-06-2010
+
+--
+
+Regular
+
+115
+
+GAURAV
+
+Professor
+
+Male
+
+Ph.D
+
+162
+
+Yes
+
+29-05-2013
+
+--
+
+Regular
+
+116
+
+GUNDIMEDA
+VENKATA SRIRAM
+KANVAH
+
+Professor
+
+Male
+
+Ph.D
+
+290
+
+Yes
+
+31-12-2009
+
+--
+
+Regular
+
+117
+
+JASUJA KABEER
+
+Professor
+
+Male
+
+Ph.D
+
+167
+
+Yes
+
+01-10-2012
+
+--
+
+Regular
+
+118
+
+KAO HAO TSUNG
+
+Assistant Professor
+
+Male
+
+B.A
+
+24
+
+Yes
+
+18-08-2023
+
+--
+
+Adhoc / Contractual
+
+119
+
+Kim Jooyoung
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+157
+
+Yes
+
+01-01-2020
+
+--
+
+Adhoc / Contractual
+
+120
+
+KUMAR ANAND
+
+Professor
+
+Male
+
+MBA
+
+384
+
+Yes
+
+12-07-2021
+
+--
+
+Adhoc / Contractual
+
+121
+
+Madhu Gupta
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+19
+
+Yes
+
+26-12-2024
+
+--
+
+Adhoc / Contractual
+
+122
+
+MEENA YOGESH
+KUMAR
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+161
+
+Yes
+
+14-02-2023
+
+--
+
+Regular
+
+123
+
+MISRA NEELDHARA
+
+Associate Dean
+
+Female
+
+Ph.D
+
+167
+
+Yes
+
+22-09-2015
+
+--
+
+Regular
+
+124
+
+MONDAL SHOUVICK
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+51
+
+Yes
+
+01-02-2023
+
+--
+
+Regular
+
+125
+
+Nirmal Kumar Sancheti
+
+Professor
+
+Male
+
+Ph.D
+
+361
+
+Yes
+
+04-08-2025
+
+--
+
+Adhoc / Contractual
+
+126
+
+PANDEY PRAFULL
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+62
+
+Yes
+
+06-05-2024
+
+--
+
+Regular
+
+127
+
+PRABHAKAR N V
+
+Associate Professor
+
+Male
+
+Ph.D
+
+57
+
+Yes
+
+16-09-2020
+
+--
+
+Regular
+
+128
+
+RANE KAUSTUBH
+SUNIL
+
+Associate Professor
+
+Male
+
+Ph.D
+
+141
+
+Yes
+
+15-07-2016
+
+--
+
+Regular
+
+129
+
+SAHA ARNAB
+
+Associate Professor
+
+Male
+
+Ph.D
+
+237
+
+Yes
+
+02-07-2019
+
+--
+
+Regular
+
+130
+
+SENGUPTA ANAND
+SANKAR
+
+Associate Professor
+
+Male
+
+Ph.D
+
+160
+
+Yes
+
+07-02-2012
+
+--
+
+Regular
+
+131
+
+SHARMA
+SUDHANSHU
+
+Associate Professor
+
+Male
+
+Ph.D
+
+192
+
+Yes
+
+09-07-2012
+
+--
+
+Regular
+
+132
+
+SINGH MAYANK
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+97
+
+Yes
+
+06-02-2019
+
+--
+
+Regular
+
+133
+
+Subba Tanka Bahadur
+
+Professor
+
+Male
+
+Ph.D
+
+456
+
+Yes
+
+19-07-2024
+
+--
+
+Adhoc / Contractual
+
+134
+
+Sudipta Sarkar
+
+Professor
+
+Male
+
+Ph.D
+
+168
+
+Yes
+
+21-07-2014
+
+--
+
+Regular
+
+135
+
+Toshiki Osada
+
+Professor
+
+Male
+
+Ph.D
+
+384
+
+Yes
+
+29-07-2025
+
+--
+
+Adhoc / Contractual
+
+136
+
+VENKATESH
+PRASANNA B
+
+Associate Professor
+
+Male
+
+Ph.D
+
+59
+
+Yes
+
+01-10-2018
+
+--
+
+Regular
+
+137
+
+AMRUTIYA
+SANJAYKUMAR
+HANSRAJ
+
+Associate Professor
+
+Male
+
+Ph.D
+
+169
+
+Yes
+
+01-07-2014
+
+--
+
+Regular
+
+138
+
+BASU SUDIPTA
+
+Associate Professor
+
+Male
+
+Ph.D
+
+221
+
+Yes
+
+12-07-2018
+
+--
+
+Regular
+
+139
+
+BHAUMIK ANAGH
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+67
+
+Yes
+
+07-12-2023
+
+--
+
+Regular
+
+140
+
+Chattopadhyay Arka
+
+Associate Professor
+
+Male
+
+Ph.D
+
+148
+
+Yes
+
+08-11-2017
+
+--
+
+Regular
+
+141
+
+DASGUPTA ANIRBAN
+
+Professor
+
+Male
+
+Ph.D
+
+223
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+142
+
+GAUTAM ABHAY RAJ
+SINGH
+
+Dean / Principal /
+Director / Vice
+Chancellor
+
+Male
+
+Ph.D
+
+196
+
+Yes
+
+07-10-2014
+
+--
+
+Regular
+
+143
+
+GUPTA
+DEVKINANDAN
+MANOJ
+
+Associate Professor
+
+Male
+
+Ph.D
+
+133
+
+Yes
+
+31-01-2016
+
+--
+
+Regular
+
+144
+
+JAYAPRAKASH K R
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+163
+
+Yes
+
+14-03-2017
+
+--
+
+Regular
+
+145
+
+KAPADIA VIVEK
+PURUSHOTTAMDAS
+
+Professor
+
+Male
+
+M.E.
+
+385
+
+Yes
+
+03-06-2024
+
+--
+
+Adhoc / Contractual
+
+146
+
+KIRUBAKARAN
+SIVAPRIYA
+
+Professor
+
+Female
+
+Ph.D
+
+231
+
+Yes
+
+23-01-2023
+
+--
+
+Regular
+
+147
+
+KUMAR MANISH
+
+Dean / Principal /
+Director / Vice
+Chancellor
+
+Male
+
+Ph.D
+
+123
+
+Yes
+
+15-06-2015
+
+--
+
+Regular
+
+148
+
+MAJUMDAR
+SHARMISTHA
+
+Associate Professor
+
+Female
+
+Ph.D
+
+199
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+149
+
+MEHROTRA SURYA
+PRATAP
+
+Dean / Principal /
+Director / Vice
+Chancellor
+
+Male
+
+Ph.D
+
+347
+
+Yes
+
+04-07-2012
+
+--
+
+Adhoc / Contractual
+
+150
+
+MITHUN
+RADHAKRISHNA
+
+Associate Dean
+
+Male
+
+Ph.D
+
+116
+
+Yes
+
+09-12-2016
+
+--
+
+Regular
+
+151
+
+MOONA RAJAT
+
+Dean / Principal /
+Director / Vice
+Chancellor
+
+Male
+
+Ph.D
+
+142
+
+Yes
+
+03-11-2022
+
+--
+
+Regular
+
+152
+
+P MANISHA
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+16
+
+Yes
+
+26-03-2024
+
+--
+
+Regular
+
+153
+
+PANDEY
+PREMCHAND
+
+Professor
+
+Male
+
+Ph.D
+
+324
+
+Yes
+
+16-07-2021
+
+--
+
+Adhoc / Contractual
+
+154
+
+Prabhat Munshi
+
+Professor
+
+Male
+
+Ph.D
+
+548
+
+Yes
+
+02-12-2024
+
+--
+
+Adhoc / Contractual
+
+155
+
+RANGANATHAN
+RAGHAVAN
+
+Associate Professor
+
+Male
+
+Ph.D
+
+105
+
+Yes
+
+04-07-2019
+
+--
+
+Regular
+
+156
+
+SAHA JHUMA
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+50
+
+Yes
+
+07-05-2021
+
+--
+
+Regular
+
+157
+
+SENGUPTA
+INDRANATH
+
+Professor
+
+Male
+
+Ph.D
+
+134
+
+Yes
+
+22-04-2014
+
+--
+
+Regular
+
+158
+
+SHARMA V D
+
+Professor
+
+Male
+
+Ph.D
+
+467
+
+No
+
+21-10-2019
+
+31-12-2024
+
+Adhoc / Contractual
+
+159
+
+SINGH RISHI NARAIN
+
+Professor
+
+Male
+
+Ph.D
+
+727
+
+Yes
+
+29-12-2015
+
+--
+
+Adhoc / Contractual
+
+160
+
+Subhangi Shamsundar
+Bansude
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+51
+
+Yes
+
+10-03-2025
+
+--
+
+Adhoc / Contractual
+
+161
+
+Sumit Sunil Tambe
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+4
+
+Yes
+
+18-03-2025
+
+--
+
+Adhoc / Contractual
+
+162
+
+TYAGI JAGMOHAN
+
+Professor
+
+Male
+
+Ph.D
+
+207
+
+Yes
+
+13-12-2010
+
+--
+
+Regular
+
+163
+
+VERMA JUGAL
+KISHORE
+
+Professor
+
+Male
+
+Ph.D
+
+516
+
+Yes
+
+08-07-2024
+
+--
+
+Adhoc / Contractual
+
+164
+
+Anil Kumar Devara
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+38
+
+Yes
+
+03-04-2025
+
+--
+
+Adhoc / Contractual
+
+165
+
+BATRA NIPUN
+
+Associate Professor
+
+Male
+
+Ph.D
+
+96
+
+Yes
+
+09-07-2018
+
+--
+
+Regular
+
+166
+
+BICHHAWAT
+ABHISHEK
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+52
+
+Yes
+
+30-03-2021
+
+--
+
+Regular
+
+167
+
+Choksi Nishaant
+
+Associate Professor
+
+Male
+
+Ph.D
+
+108
+
+Yes
+
+16-07-2018
+
+--
+
+Regular
+
+168
+
+DATTA BHASKAR
+
+Dean / Principal /
+Director / Vice
+Chancellor
+
+Male
+
+Ph.D
+
+311
+
+Yes
+
+22-12-2011
+
+--
+
+Regular
+
+169
+
+GEORGE NITHIN
+VARGHESE
+
+Dean / Principal /
+Director / Vice
+Chancellor
+
+Male
+
+Ph.D
+
+162
+
+Yes
+
+16-11-2012
+
+--
+
+Regular
+
+170
+
+GUPTA SHARAD
+
+Associate Professor
+
+Male
+
+Ph.D
+
+191
+
+Yes
+
+11-07-2012
+
+--
+
+Regular
+
+171
+
+KALON
+GOPINADHAN
+
+Associate Professor
+
+Male
+
+Ph.D
+
+199
+
+Yes
+
+16-07-2018
+
+--
+
+Regular
+
+172
+
+Karthik Subramaniam
+Pushpavanam
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+64
+
+Yes
+
+22-09-2021
+
+--
+
+Regular
+
+173
+
+KOMARATH
+BALAGOPAL
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+54
+
+Yes
+
+21-12-2020
+
+--
+
+Regular
+
+174
+
+KUMAR MISHRA
+ROHIT
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+50
+
+Yes
+
+10-05-2021
+
+--
+
+Regular
+
+175
+
+Malay Nitinkumar
+Dhamelia
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+31
+
+Yes
+
+21-01-2025
+
+--
+
+Adhoc / Contractual
+
+176
+
+MEKIE JOYCEE
+MANILAL
+
+Associate Professor
+
+Female
+
+Ph.D
+
+214
+
+Yes
+
+30-12-2009
+
+--
+
+Regular
+
+177
+
+MIYAPURAM
+KRISHNAPRASAD
+
+Associate Professor
+
+Male
+
+Ph.D
+
+203
+
+Yes
+
+03-10-2012
+
+--
+
+Regular
+
+178
+
+Mubashshir Ahsan
+Moh D
+
+Lecturer
+
+Male
+
+Ph.D
+
+149
+
+Yes
+
+01-07-2019
+
+--
+
+Adhoc / Contractual
+
+179
+
+PADHIYAR NITIN
+UMEDLAL
+
+Associate Professor
+
+Male
+
+Ph.D
+
+217
+
+Yes
+
+13-04-2009
+
+--
+
+Regular
+
+180
+
+PANKAJ KHANNA
+
+Associate Dean
+
+Male
+
+Ph.D
+
+85
+
+Yes
+
+01-12-2021
+
+--
+
+Regular
+
+181
+
+PRASHANT AMIT
+
+Dean / Principal /
+Director / Vice
+Chancellor
+
+Male
+
+Ph.D
+
+259
+
+Yes
+
+06-12-2010
+
+--
+
+Regular
+
+182
+
+Rao G V
+
+Professor
+
+Male
+
+Ph.D
+
+453
+
+Yes
+
+04-10-2019
+
+--
+
+Adhoc / Contractual
+
+183
+
+Sahasrabudhe Sameer
+
+Professor
+
+Male
+
+Ph.D
+
+342
+
+Yes
+
+01-08-2022
+
+--
+
+Adhoc / Contractual
+
+184
+
+SENGUPTA
+MADHUMITA
+
+Associate Professor
+
+Female
+
+Ph.D
+
+307
+
+Yes
+
+22-04-2014
+
+--
+
+Regular
+
+185
+
+Sharmita Lahiri
+
+Associate Dean
+
+Female
+
+Ph.D
+
+204
+
+Yes
+
+27-07-2009
+
+--
+
+Regular
+
+186
+
+SINGH
+UMASHANKAR
+
+Associate Professor
+
+Male
+
+Ph.D
+
+211
+
+Yes
+
+28-05-2015
+
+--
+
+Regular
+
+187
+
+Subhasish Dey
+
+Professor
+
+Male
+
+Ph.D
+
+492
+
+Yes
+
+08-08-2025
+
+--
+
+Adhoc / Contractual
+
+188
+
+SUNDARAM DILIP
+SRINIVAS
+
+Associate Dean
+
+Male
+
+Ph.D
+
+152
+
+Yes
+
+01-12-2015
+
+--
+
+Regular
+
+189
+
+UTSAV MANNU
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+94
+
+Yes
+
+02-11-2021
+
+--
+
+Regular
+
+190
+
+Vinod Goel
+
+Professor
+
+Male
+
+Ph.D
+
+362
+
+No
+
+25-09-2023
+
+11-03-2024
+
+Adhoc / Contractual

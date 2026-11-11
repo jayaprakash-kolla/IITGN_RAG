@@ -1,0 +1,39 @@
+Title: IIT Gandhinagar | Md Hasan Ali Biswas
+Source: https://iitgn.ac.in/faculty/maths/fac-hasan
+
+# Md Hasan Ali Biswas
+
+-  Mathematics
+Md Hasan Ali Biswas
+
+## Md Hasan Ali Biswas
+
+Assistant Professor, Mathematics
+
+- B.Sc: Maulana Azad College (University of Calcutta), 2015
+- M.Sc: Indian Institute of Technology Madras, 2017
+- PhD: Indian Institute of Technology Madras, 2023
+
+Email: hasan.biswas -AT- iitgn.ac.in
+
+ Website :  https://scholar.google.com/citations?user=OOHwN9UAAAAJ&hl=en
+
+Office:  6/359
+VOIP:  2451
+
+- Md Hasan Ali Biswas and Sundaram Thangavelu, Modulation spaces on the Heisenberg group, Indagationes Mathematicae, Vol 37 (2026) 1250-1279. DOI: https://doi.org/10.1016/j.indag.2025.09.00
+- Md Hasan Ali Biswas, Peter Massopust, and Radha Ramakrishnan, The theory of deep convolutional neural networks and a data approximation problem based on the fractional Fourier transform, Applied and Computational Harmonic Analysis, Vol 81 (2026) 27pp. DOI: https://doi.org/10.1016/j.acha.2025.101823
+- Md Hasan Ali Biswas and Ramesh Manna, Nonlinear operations and Factorizations on a class of affine modulation spaces, Forum Mathematicum, Vol 37, No. 5, (2024) 1401-1432, DOI: https://doi.org/10.1515/forum-2024-0191
+- Md Hasan Ali Biswas and Radha Ramakrishnan, Frames and system of translates of Hilbert $C^∗$-module valued functions, Journal of Mathematical Analysis and Applications, Vol 539, No. 2 (2024) 24 pp. DOI: https://doi.org/10.1016/j.jmaa.2024.128557
+- Md Hasan Ali Biswas, Hans Georg Feichtinger and Radha Ramakrishnan, Modulation spaces, multipliers associated with the special affine Fourier transform, Complex Analysis and Operator Theory (Birkhauser, Springer), Vol 16. No. 6, (2022), Paper No. 86, 30 pp. DOI: https://doi.org/10.1007/s11785-022-01264-1
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (September, 2026 – Present)
+- NBHM Postdoctoral Fellow, Indian Institute of Science Bangalore (January, 2024 – August, 2026)
+- Research Associate I, National Institute of Science Education and Research Bhubaneswar (June – December, 2023)
+
+- ● Quantum harmonic analysis
+- ● Time-frequency analysis
+- ● Frame theory
+- ● Sampling theory
+
+Complete List of Publications

@@ -1,0 +1,206 @@
+Title: Publications
+Source: https://cse.iitgn.ac.in/research/publications
+
+Last updated1 June 2026
+
+# Publications
+
+Most of the data on this page is fetched directly from DBLP. It includes publications in all formats, including preprints. Publications that are not indexed by DBLP may not show up here. DBLP exports are author-based, not affiliation-at-publication-time records, so some entries may include work from before or outside IIT Gandhinagar. If you notice any errors or anything that is amiss, pleaselet us know.
+
+2026ProceedingsCALDAMAlgorithms and Discrete Applied Mathematics - 12th International Conference, CALDAM 2026, Dharwad, India, February 12-14, 2026, Proceedings
+
+DBLPDOI
+
+2026ConferenceWALCOMCan One Flip Spoil it All?
+Pragya Arora, Palash Dey, Neeldhara Misra
+
+DBLPDOI
+
+2026JournalInf. Softw. Technol.Evaluation of the Impact of Image Mutations on the Origin Classification of Digital Images.
+Vaishnav Koka, Ramanand, Shouvick Mondal, Yogesh Kumar Meena
+
+DBLPDOI
+
+2026ConferenceFUNFerry Cover with Connectivity Constraints.
+Niranjan Balachandran, Ankita Dargad, Urban Larsson, Neeldhara Misra, Umesh Shankar
+
+DBLPDOI
+
+2026JournalJ. Comput. Syst. Sci.Finding and counting patterns in sparse graphs.
+Balagopal Komarath, Anant Kumar, Suchismita Mishra 0001, Aditi Sethia
+
+DBLPDOI
+
+2026JournalTrans. Mach. Learn. Res.FIT-GNN: Faster Inference Time for GNNs that 'FIT' in Memory Using Coarsening.
+Shubhajit Roy, Hrriday Ruparel, Kishan Ved, Anirban Dasgupta 0001
+
+DBLPFull Text
+
+2026PreprintCoRRFlowIID: Single-Step Intrinsic Image Decomposition via Latent Flow Matching.
+Mithlesh Singla, Seema Kumari, Shanmuganathan Raman
+
+DBLPDOIarXiv
+
+2026PreprintCoRRGaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation.
+Arya Shah, Vaibhav Tripathi, Mayank Singh 0001, Chaklam Silpasuwanchai
+
+DBLPDOIarXiv
+
+2026PreprintCoRRGF-Score: Certified Class-Conditional Robustness Evaluation with Fairness Guarantees.
+Arya Shah, Kaveri Visavadiya, Manisha Padala
+
+DBLPDOIarXiv
+
+2026PreprintCoRRHierarchic-EEG2Text: Assessing EEG-To-Text Decoding across Hierarchical Abstraction Levels.
+Anupam Sharma 0001, Harish Katti, Prajwal Singh, Shanmuganathan Raman, Krishna P. Miyapuram
+
+DBLPDOIarXiv
+
+2026ConferenceCOMSNETSLeveraging Quantum Kernel Methods for Enhanced Intrusion Detection.
+Anuj Tiwari, Sameer G. Kulkarni
+
+DBLPDOI
+
+2026PreprintCoRRLeveraging SIMD for Accelerating Large-number Arithmetic.
+Subhrajit Das, Abhishek Bichhawat, Yuvraj Patel
+
+DBLPDOIarXiv
+
+2026ConferenceWSDM CompanionLocal Fragments, Global Gains: Subgraph Counting using Graph Neural Networks.
+Shubhajit Roy, Shrutimoy Das, Binita Maity, Anant Kumar, Anirban Dasgupta 0001
+
+DBLPDOI
+
+2026ConferenceCOMSNETSMCP-Diag: A Deterministic, Protocol-Driven Architecture for AI-Native Network Diagnostics.
+Devansh Lodha, Mohit Panchal, Sameer G. Kulkarni
+
+DBLPDOI
+
+2026PreprintCoRRMCP-Diag: A Deterministic, Protocol-Driven Architecture for AI-Native Network Diagnostics.
+Devansh Lodha, Mohit Panchal, Sameer G. Kulkarni
+
+DBLPDOIarXiv
+
+2026ConferenceCOMSNETSMemory Bottlenecks in Quantum Simulation: Cache Contention and Adaptive Allocation Policy.
+Mallika Chouhan, Sameer G. Kulkarni
+
+DBLPDOI
+
+2026JournalTrans. Mach. Learn. Res.On Sketching for Gaussian Process Regression with New Statistical Guarantees.
+Jayesh Malaviya, Rachit Chhaya, Anirban Dasgupta 0001, Supratim Shit
+
+DBLPFull Text
+
+2026JournalTheor. Comput. Sci.On the parameterized complexity of diverse SAT.
+Neeldhara Misra, Harshil Mittal, Ashutosh Rai 0001
+
+DBLPDOI
+
+2026PreprintCoRROne Instruction Does Not Fit All: How Well Do Embeddings Align Personas and Instructions in Low-Resource Indian Languages?
+Arya Shah, Himanshu Beniwal, Mayank Singh 0001
+
+DBLPDOIarXiv
+
+2026ConferenceCHI Extended AbstractsOperationalizing Self-Perceptions of Aging Using Reflection Probe and SPA Design Cards with HCI Practitioners.
+Neeta M. Khanuja, Yogesh Kumar Meena, Valentina Nisi, Jodi Forlizzi
+
+DBLPDOI
+
+2026ConferenceFUNPermutation Match Puzzles: How Young Tanvi Learned About Computational Complexity.
+Kshitij Gajjar, Neeldhara Misra
+
+DBLPDOI
+
+2026PreprintCoRRPermutation Match Puzzles: How Young Tanvi Learned About Computational Complexity.
+Kshitij Gajjar, Neeldhara Misra
+
+DBLPDOIarXiv
+
+2026PreprintCoRRQASM: A Novel Framework for QUIC-Aware Stateful Middleboxes.
+Hari Hara Sudhan Selvam, Sameer G. Kulkarni
+
+DBLPDOIarXiv
+
+2026ConferenceCOMSNETSQuantum Wasserstein GAN: A Novel Approach for Generating Anomalous Timeseries Data.
+Shashi Kumar, Sameer G. Kulkarni
+
+DBLPDOI
+
+2026ConferenceAAAIScalable Air-Quality Sensor Placement via Gradient-Based Mutual Information Maximization.
+Zeel B. Patel, Vinayak Rana, Nipun Batra 0001
+
+DBLPDOI
+
+2026ConferenceWACVSynthesizing Compositional Videos from Text Description.
+Prajwal Singh, Kuldeep Kulkarni, Shanmuganathan Raman, Harsh Rangwani
+
+DBLPDOI
+
+2026PreprintCoRRTask-Specificity Score: Measuring How Much Instructions Really Matter for Supervision.
+Pritam Kadasi, Abhishek Upperwal, Mayank Singh 0001
+
+DBLPDOIarXiv
+
+2026ConferenceAAAIThe Cost and Complexity of Minimizing Envy in House Allocations (Abstract Reprint).
+Jayakrishnan Madathil, Neeldhara Misra, Aditi Sethia
+
+DBLPDOI
+
+2026JournalSIAM J. Comput.The Minimal Faithful Permutation Degree of Groups Without Abelian Normal Subgroups.
+Bireswar Das, Dhara Thakkar
+
+DBLPDOI
+
+2026PreprintCoRRThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery.
+Ayush Shrivastava, Kirtan Gangani, Laksh Jain, Mayank Goel, Nipun Batra 0001
+
+DBLPDOIarXiv
+
+2026PreprintCoRRTruthful Reverse Auctions for Adaptive Selection via Contextual Multi-Armed Bandits.
+Pronoy Patra, Sankarshan Damle, Manisha Padala, Sujit Gujar
+
+DBLPDOIarXiv
+
+2026ConferenceCOMSNETSUnderstanding Cache-Level Profiling of 5GC NFs.
+Ayushman Singh, Sameer G. Kulkarni
+
+DBLPDOI
+
+2026ConferenceISBIUnsupervised Ultrasound Image Denoising with Monte Carlo Risk Estimation.
+Ashutosh Gupta 0008, Chandra Sekhar Seelamantula, Thierry Blu, Himanshu Shekhar, Nitant Dube, Shanmuganathan Raman
+
+DBLPDOI
+
+2025ConferenceFSTTCSA Characterization of Spartan Graphs and New Lower Bounds for Eternal Vertex Cover.
+Neeldhara Misra, Saraswati Girish Nanoti
+
+DBLPDOI
+
+2025JournalMultim. Tools Appl.A novel dominating set and centrality based graph convolutional network for node classification.
+Neeraj Garg, Sneha Garg, Mahipal Jadeja, Yogesh Kumar Meena, Dinesh Gopalani, Ganpat Singh Chauhan
+
+DBLPDOI
+
+2025ConferenceNIER@ICSEA Unified Browser-Based Consent Management Framework.
+Gayatri Priyadarsini Kancherla, Abhishek Bichhawat
+
+DBLPDOI
+
+2025PreprintCoRRADAPT: Learning Task Mixtures for Budget-Constrained Instruction Tuning.
+Pritam Kadasi, Abhishek Upperwal, Mayank Singh 0001
+
+DBLPDOIarXiv
+
+2025PreprintCoRRAgribot: agriculture-specific question answer system.
+Naman Jain, Pranjali Jain, Pratik Kayal, Jayakrishna Sahit, Soham Pachpande, Jayesh Choudhari, Mayank Singh 0001
+
+DBLPDOIarXiv
+
+2025PreprintCoRRBeyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models.
+Rajvee Sheth, Samridhi Raj Sinha, Mahavir Patil, Himanshu Beniwal, Mayank Singh 0001
+
+DBLPDOIarXiv
+
+2025ProceedingsBDABig Data and Artificial Intelligence - 12th International Conference, BDA 2024, Hyderabad, India, December 17-20, 2024, Proceedings
+
+DBLPDOI

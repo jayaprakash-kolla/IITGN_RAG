@@ -1,0 +1,29 @@
+Title: IIT Gandhinagar | Subir Varma
+Source: https://iitgn.ac.in/faculty/guestprof/subir_varma
+
+# Subir Varma
+
+-  Guest Professors
+Subir Varma
+
+## Subir Varma
+
+Guest Professor, Computer Science and Engineering
+
+- B.Tech: Indian Institute of Technology, Kanpur
+- MS: University of Maryland, College Park
+- PhD: University of Maryland, College Park
+
+- Queues with Resequencing, Part 1: Structural Properties, S Varma, AM Makowski, Technical Report, University of Maryland, College Park, (1987).
+- Queues with Resequencing, Part 2: Heavy Traffic Limits, S Varma, AM Makowski, Technical Report, University of Maryland, College Park, (1990).
+- Queues with Resequencing, Part 3: Light Traffic Limits and Interpolation Approximations, S Varma, AM Makowski, Technical Report, University of Maryland, College Park, (1990).
+- A Matrix Geometric Solution to a Resequencing Problem, S Varma, Performance Evaluation, Vol 12,Issue 2, (1991).
+- Optimal Allocation of Customers in a Two Server Queue with Resequencing, S Varma, IEEE Transactions on Automatic Control, Vol 36, Issue 11, (1991)
+
+- Guest Professor, Indian Institute of Technology, Gandhinagar (Sep 2024 – Present)
+- Co-Founder and Managing Partner, General Cognitics, San Jose, CA (2019)
+- Adjunct Professor, Santa Clara University, Santa Clara, CA (2017)
+- Co-Founder and Vice President , Catapulse Partners, Palo Alto, CA (2012 – 2016)
+
+- ● Internet Congestion Control
+- ● Deep Learning

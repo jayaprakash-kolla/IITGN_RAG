@@ -1,0 +1,38 @@
+Title: IIT Gandhinagar | Nipun Batra
+Source: https://iitgn.ac.in/faculty/cse/fac-nipun
+
+# Nipun Batra
+
+-  Computer Science & Engineering
+Nipun Batra
+
+## Nipun Batra
+
+Associate Professor, Computer Science and Engineering (Affiliated to Discipline of Artificial Intelligence)
+
+- BE: Delhi College of Engineering, 2011
+- PhD: IIIT Delhi, 2017
+
+Email: nipun.batra -AT- iitgn.ac.in
+
+ Website :  https://nipunbatra.github.io/
+
+Office:  AB 13/401C
+VOIP:  2539
+
+Nipun Batra, Yiling Jia, Hongning Wang, Kamin Whitehouse Transferring Decomposed Tensors for Scalable Energy Breakdown across Regions * AAAI 2018. New Orleans, USA.
+
+Nipun Batra, Hongning Wang, Amarjeet Singh, Kamin Whitehouse Matrix Factorisation for Scalable Energy Breakdown * AAAI 2017. San Francisco, USA.
+
+Nipun Batra, Amarjeet Singh, Kamin Whitehouse Gemello: Creating a Detailed Energy Breakdown from just the Monthly Electricity Bill* KDD 2016. San Francisco, USA.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Nov 2024 to present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (July 2018 - Nov 2024)
+- Postdoc Researcher, University of Virginia (2017 - 2018)
+- Software Associate, RBS, India (2011)
+
+- ● Sensor networks
+- ● Machine learning
+- ● Computational sustainability
+
+Complete List of Publications

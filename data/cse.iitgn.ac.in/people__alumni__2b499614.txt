@@ -1,0 +1,208 @@
+Title: Alumni
+Source: https://cse.iitgn.ac.in/people/alumni
+
+People
+
+# Alumni
+
+ Meet our alumni and see where their work has taken them, from university research to industry.
+
+ Alumni highlights
+
+## Meet Our Alumni
+
+### Vinu Sankar Sadasivan
+
+ BTech CSE 2020
+
+AI Research Scientist, Meta SuperIntelligence Labs
+
+ Works on AI safety, multimodal robustness, and trustworthy models, with earlier research appointments at Google DeepMind and Meta FAIR.
+
+ AI safety  research labs  BTech
+ Profile
+
+### Sachin Yadav
+
+ BTech CS 2022
+
+Pre-Doctoral Researcher, Google DeepMind
+
+ Works on generative models and efficient language models, after research roles with Microsoft Research India and IITGN.
+
+ generative AI  research labs  BTech
+ Profile
+
+### Rishiraj Adhikary
+
+ PhD CSE 2025
+
+Research Associate, University of Cambridge
+
+ Builds mobile sensing systems for health, with a focus on making AI work on everyday devices.
+
+ health AI  ubiquitous computing  PhD
+ Profile  CVIG alumni
+
+### Supratim Shit
+
+ PhD CSE 2021
+
+Assistant Professor, CSE, IIIT Delhi
+
+ Works in algorithms for data science, including coresets, clustering, and large-scale optimization.
+
+ faculty  algorithms  data science
+ Faculty profile
+
+### Indra Deep Mastan
+
+ PhD CSE 2021
+
+Assistant Professor, CSE, IIT BHU
+
+ Researches computer vision, deep learning, unsupervised learning, and vision-language models.
+
+ faculty  computer vision  PhD
+ Faculty profile  CVIG alumni
+
+### Sudhakar Kumawat
+
+ PhD CSE 2021
+
+Assistant Professor, IIT(ISM) Dhanbad
+
+ Researches computer vision and deep learning, including efficient methods for recognising actions in video.
+
+ faculty  computer vision  awards
+ Faculty profile  CVIG alumni
+
+### Rachit Chhaya
+
+ PhD CSE 2022
+
+Assistant Professor, Dhirubhai Ambani University
+
+ Works on streaming and randomized algorithms, coresets, and scalable methods for clustering and graph problems.
+
+ faculty  theory  coresets
+ Faculty profile
+
+### Akash Pareek
+
+ PhD CSE 2025
+
+Postdoctoral researcher, Université libre de Bruxelles
+
+ Works in theoretical computer science, algorithms, and data structures after completing doctoral work at IITGN.
+
+ postdoc  theory  PhD
+ Profile
+
+### Pankaj Pandey
+
+ PhD CSE 2023
+
+Postdoctoral researcher, St. Jude Children's Research Hospital
+
+ Researches machine learning for imaging and neurotechnology, with prior postdoctoral work at the University of Rhode Island.
+
+ postdoc  machine learning  health
+ Lab profile
+
+### Dharaben R. Thakkar
+
+ PhD CSE 2025
+
+Designated Assistant Professor, Nagoya University
+
+ Received the ACM India Doctoral Dissertation Award 2025 for her thesis on computing optimal representations of finite groups.
+
+ faculty  theory  award
+ Profile  Dissertation award
+
+### Jayesh Choudhari
+
+ PhD CSE 2020
+
+Postdoctoral researcher, University of Warwick
+
+ Works on dynamic algorithms, streaming and sublinear algorithms, graph analytics, and fair representation.
+
+ postdoc  algorithms  graphs
+ Profile
+
+### Murali Krishna Enduri
+
+ PhD CSE 2018
+
+Assistant Dean (Graduate Outcomes), SRM University-AP
+
+ Studies graph algorithms and complex networks, including how information and disease spread through networks.
+
+ faculty  networks  PhD
+ Faculty profile
+
+ Pathways
+
+## Alumni Careers
+
+ Explore a few of the places our alumni work and the recognition they have received.
+
+### Faculty and postdoctoral paths
+
+ CSE doctoral alumni have moved into faculty and postdoctoral roles across IITs, IIITs, international universities, and research centers.
+
+-  Supratim Shit - IIIT Delhi
+-  Indra Deep Mastan - IIT BHU
+-  Sudhakar Kumawat - IIT(ISM) Dhanbad
+-  Rachit Chhaya - Dhirubhai Ambani University
+-  Akash Pareek - Université libre de Bruxelles
+-  Jayesh Choudhari - University of Warwick
+
+### Research labs and applied AI
+
+ Our alumni work on AI research, applied science, and software engineering in industry.
+
+-  Vinu Sankar Sadasivan - Meta
+-  Sachin Yadav - Google DeepMind
+-  Aditi Agarwal - Google DeepMind
+-  Progyan Das - Microsoft India
+-  Prasoon Kumar Karn - Google
+-  Anshuman Dash - Meta
+
+### Awards and fellowships
+
+ Alumni have received research fellowships and awards for work in computer science.
+
+-  Dharaben R. Thakkar - ACM India Doctoral Dissertation Award 2025
+-  Rishiraj Adhikary - Fulbright-Nehru and PMRF
+-  Sudhakar Kumawat - PMRF, JSPS, Qualcomm Innovation Fellowship
+-  Darshita Jain - TCS Research and Innovation
+-  Ram Singh - computer-vision research in industry
+
+ Doctoral alumni
+
+## CSE PhD Alumni
+
+NameJoinedPhD year
+
+Murali Krishna Enduri20112018
+Vinod Kumar Reddy I20112018
+Choudhari Jayesh Tulsidas20152020
+Sudhakar Kumawat20152021
+Ananya Shrivastava20162021
+Indra Deep Mastan20162021
+Shiv Dutt Sharma20162021
+Supratim Shit20162021
+Chhaya Rachit Chandravadan20172022
+Pankaj Pandey20172023
+Tom Glint Issac20182024
+Akash Pareek20192025
+Dharaben Rameshbhai Thakkar20192025
+Rishiraj Adhikary20192025
+Shruti Singh20192025
+Dipan Dey20202025
+Harshil Mittal20202025
+Sawant Shriraj Pramod20202025
+ Open the official IITGN alumni record

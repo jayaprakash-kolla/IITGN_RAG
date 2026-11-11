@@ -1,0 +1,343 @@
+#flags:
+
+Medals and awards conferred at the third convocation
+Sr. Award Category
+Name of The Student
+No
+1.
+President’s Gold Medal, B.Tech DHWANIL SHUKLA
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+
+President’s Gold Medal, M.Tech
+Institute Gold Medal Mechanical Engineering, B.Tech
+Institute Gold Medal - Chemical
+Engineering, B.Tech
+Institute Gold Medal - Electrical
+Engineering, B.Tech
+Institute Gold Medal – Chemical
+Engineering, M.Tech
+Institute Gold Medal – Electrical
+Engineering, M.Tech
+Institute Gold Medal –
+Mechanical Engineering, M.Tech
+Institute Silver Medal Mechanical Engineering, B.Tech
+Institute Silver Medal - Chemical
+Engineering, B.Tech
+Institute Silver Medal - Electrical
+Engineering, B.Tech
+Director's Gold Medal, B.Tech
+Director's Silver Medal Mechanical Engineering, B.Tech
+Director's Silver Medal Chemical Engineering, B.Tech
+Director's Silver Medal Electrical Engineering, B.Tech
+Award for Outstanding
+Innovation
+Award for Integrity and
+Exemplary Human Qualities
+Award for the Outstanding
+Research (B.Tech)
+Award for the Outstanding
+Research (M.Tech)
+Award for the Outstanding
+Research (PhD)
+Award for Overall Outstanding
+Performance in Sports
+Award for Outstanding
+Performance in Outdoor sports
+Award for Outstanding
+Performance in Athletics
+Awards for Outstanding
+
+Roll Number
+
+CPI
+
+Branch
+
+10003011
+
+9.76
+
+ME
+
+RITESH JAIN
+DHWANIL SHUKLA
+
+12210028
+10003011
+
+10.00
+9.76
+
+EE
+ME
+
+PRANAV BAGARIA
+
+10001002
+
+8.97
+
+CL
+
+SHASHANK TYAGI
+
+10003017
+
+9.49
+
+EE
+
+MISHRA NIDHI S
+
+12210003
+
+8.90
+
+CL
+
+RITESH JAIN
+
+12210028
+
+10.00
+
+EE
+
+RACHIT PRASAD
+
+12210044
+
+8.62
+
+ME
+
+SHASHANK AGARWAL
+
+10003016
+
+9.44
+
+ME
+
+PAMULAPATI
+SUSHMA SRI
+AISHWARYA
+AGRAWAL
+KOTAK YASH
+PRASHANT
+SHASHANK AGARWAL
+
+10001022
+
+8.96
+
+CL
+
+10001009
+
+9.42
+
+EE
+
+10002005
+
+9.04
+
+EE
+
+10003016
+
+9.44
+
+ME
+
+AKSHAY JAIN
+
+10001004
+
+8.59
+
+CL
+
+SHAH NISARG NIKHIL
+
+10002011
+
+8.70
+
+EE
+
+KOTAK YASH
+PRASHANT
+SUSHRUT PRAMOD
+MESHRAM
+AKSHAY JAIN
+
+10002005
+
+9.04
+
+EE
+
+10002032
+
+7.38
+
+EE
+
+10001004
+
+8.59
+
+CL
+
+RACHIT PRASAD
+
+12210044
+
+8.62
+
+ME
+
+SUMITAVA
+MUKHERJEE
+SURESH CHOUDHARY
+
+10104001
+
+9.40
+
+CG
+
+09003028
+
+5.93
+
+ME
+
+GAVASANE RITU
+MILIND
+SURESH CHOUDHARY
+
+10003020
+
+8.25
+
+ME
+
+09003028
+
+5.93
+
+ME
+
+BHASKARJYOTI DAS
+
+10001039
+
+6.48
+
+CL
+
+25.
+26.
+
+27.
+28.
+
+29.
+
+30.
+
+Performance in Arts and Culture
+Pioneer Batch Award for
+Outstanding Leadership
+Award for the best performance
+in the core courses on
+Engineering Graphics, and
+Manufacturing and Workshop
+Practice
+Award for the best performance
+in core courses of Mathematics
+Award for the best performance
+in core courses in Physics and
+Chemistry
+Award for the best performance
+in core courses in Humanities
+and Social Sciences
+Award for the Best
+Overall Performance in
+Humanities and Social Sciences
+Subjects
+
+KATRE VIBHAV VIKAS
+
+10002019
+
+9.23
+
+EE
+
+KATRE VIBHAV VIKAS
+
+10002019
+
+9.23
+
+EE
+
+SHASHANK TYAGI
+
+10003017
+
+9.49
+
+EE
+
+AISHWARYA
+AGRAWAL
+
+10001009
+
+9.42
+
+EE
+
+KATRE VIBHAV VIKAS
+
+10002019
+
+9.23
+
+EE
+
+SHALIWAHAN SINGH
+RATHORE
+
+10003006
+
+8.52
+
+ME

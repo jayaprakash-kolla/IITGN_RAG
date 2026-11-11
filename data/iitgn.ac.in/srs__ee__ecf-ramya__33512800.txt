@@ -1,0 +1,33 @@
+Title: IIT Gandhinagar | ecf-ramya
+Source: https://iitgn.ac.in/srs/ee/ecf-ramya
+
+# Ramya Selvaraj
+
+- Senior Research Staff
+Ramya Selvaraj
+
+## Ramya Selvaraj
+
+IITGN-Early Career Fellow, Electrical Engineering
+
+- B.E: Velammal Engineering College, Anna University, 2011
+- M.E: PSG College of Technology, Anna University, 2013
+- PhD: Indian Institute of Technology Madras, 2019
+
+Email: ramya.s -AT- iitgn.ac.in
+
+Work experience
+
+- Project Associate, Indian Institute of Technology Madras, 2020
+- Short Term Post-Doctoral Fellow, Indian Institute of Technology Madras, 2019
+
+Selected Publications
+
+- R. Selvaraj, N J. Vasa, S. M. S. Nagendra, and B. Mizaikoff, "Advances in Mid-Infrared Spectroscopy-Based Sensing Techniques for Exhaled Breath Diagnostics," Molecules 25, 2227 (2020).
+- R. Selvaraj, N. Vasa, and S. M. S. Nagendra, "Off-Resonance Photoacoustic Spectroscopy Technique for Multi-Gas Sensing in Biogas Plants," Anal. Chem. 91, 14239–14246 (2019).
+- R. Selvaraj, N. J. Vasa, and S. M. Shiva Nagendra, "Off-resonant Photoacoustic Spectroscopy for Analysis of Multicomponent Gas Mixtures at High Concentrations using Broadband Vibrational Overtones of Individual Gas Species," Appl. Opt. 58, 4118-4126 (2019).
+- R. Selvaraj, A. N. K.T., N. J. Vasa, and S. N. S.M., "Monitoring of CO2 And CH4 Composition in a Biogas Matrix from Different Biomass Structures," Sens. Act. B Chem. 249, 378-385 (2017).
+
+- ● MID-IR Wavelength Modulated Photoacoustic Spectroscopy
+- ● Chemical and Biomedical sensing
+- ● Hollow core fiber assisted sensing

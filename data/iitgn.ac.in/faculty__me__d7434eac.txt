@@ -1,0 +1,282 @@
+Title: IIT Gandhinagar | Mechanical Engineering
+Source: https://iitgn.ac.in/faculty/me
+
+# Mechanical Engineering
+
+##### Back to Faculty
+
+#### Atul Bhargav
+
+PhD (University of Maryland)
+Professor
+ Hydrogen production from hydrocarbon reforming, Heat & mass transfer
+
+## Research Interests
+
+- Hydrogen production from hydrocarbon reforming
+- Fuel cell systems design and simulation
+- Heat & mass transfer
+- Palladium-based composite membranes for Hydrogen purification in fuel cell system applications
+- Control algorithms for fuel cell systems
+
+#### Dilip Srinivas Sundaram
+
+PhD (Georgia Institute of Technology)
+Associate Professor
+ Propulsion and Combustion, Energetic Nanomaterials, Nanoscale Transport Processes, Multiphase and Chemically Reacting Systems
+
+## Research Interests
+
+- Propulsion and Combustion
+- Energetic Nanomaterials
+- Nanoscale Transport Processes
+- Multiphase and Chemically Reacting Systems
+
+#### Harini Subramanian
+
+PhD (IIT Madras)
+Assistant Professor
+ Constitutive modelling, Continuum damage mechanics, Plasticity, Mechanics of composites, Viscoelasticity, Self-healing materials
+
+## Research Interests
+
+- Constitutive modelling
+- Continuum damage mechanics
+- Plasticity
+- Mechanics of composites
+- Viscoelasticity
+- Self-healing materials
+
+#### Harish Palanthandalam-Madapusi
+
+PhD (University of Michigan)
+Professor
+ Robotics Learning in Robotics, Robot grasping and grippers and dexterous manipulation
+
+## Research Interests
+
+- Robotics
+- Learning in Robotics
+- Robot grasping and grippers and dexterous manipulation
+- Robotic manipulation and bi-manual manipulation
+- Autonomous Vehicles
+- Humanoids
+- Embodied Intelligence in Robots
+
+#### Harmeet Singh
+
+PhD (Virginia Tech)
+Assistant Professor
+ Classical continuum mechanics, Elasticity, Mechanics of thin bodies, Applied differential geometry
+
+## Research Interests
+
+- Classical continuum mechanics
+- Elasticity
+- Mechanics of thin bodies
+- Applied differential geometry
+- Calculus of variations
+
+#### K.R. Jayaprakash
+
+PhD (University of Illinois at Urbana Champaign)
+Associate Professor
+ Wave propagation in one and two-dimensional granular media
+
+## Research Interests
+
+- Wave propagation in one and two-dimensional granular media
+- Elastic wave scattering at discrete nonlinear interfaces
+- Wave propagation in microfluidic droplet lattices
+- Nonlinear energy channeling in three-dimensional, locally resonant, unit-cell models and lattices
+
+#### Kasivisvanthan Chelvakumar
+
+PhD (California Institute of Technology)
+Visiting Professor
+(Affiliated to Humanities and Social Sciences, Mathematics discipline)
+ Fintech readiness index, big data repositories and LLMs; Finance and management for engineers
+
+## Research Interests
+
+- Fintech readiness index, big data repositories and LLMs
+- Finance and management for engineers
+- Healthcare finance
+- Engineering mechanics
+- Solar power: cell physics, panel production, off-grid installations and solar power economics and finance
+
+#### Lokesh Malik
+
+PhD (Indian Institute of Technology Madras)
+Assistant Professor
+ Microfluidics, Acoustofluidics, Droplet Microfluidics, Biophysics, Lab-on-a-chip systems
+
+## Research Interests
+
+- Microfluidics (Experimental Fluid Mechanics)
+- Biophysics of Living and Soft Matter
+- Microscale Acoustofluidics
+- Droplet Microfluidics and Interfacial Phenomena
+- Lab-on-a-chip systems
+
+#### Madhu Vadali
+
+PhD (University of Wisconsin - Madison)
+Associate Professor
+ Soft Robotics, Multi Robotic Systems, Control systems, Dynamic systems, Laser based manufacturing
+
+## Research Interests
+
+- Soft Robotics
+- Multi Robotic Systems
+- Control systems
+- Dynamic systems
+- Laser based manufacturing
+
+#### Prabhat Munshi
+
+PhD (IIT Kanpur)
+Visiting Professor
+ Computerized Tomography, Nondestructive Testing and Evaluation, Nuclear Reactor Safety Analysis
+
+## Research Interests
+
+- Computerized Tomography
+- Nondestructive Testing and Evaluation
+- Nuclear Reactor Safety Analysis
+- Multi-phase Flow Measurements
+
+#### Rakesh Singhai
+
+PhD (Shiv Nadar University)
+Professor of Practice
+ Electric and hybrid vehicles design, Manufacturing processes, Process Engineering, Dispatchable electricity from Solar resources
+
+## Research Interests
+
+- Electric and hybrid vehicles design
+- Manufacturing processes
+- Process Engineering
+- Dispatchable electricity from Solar resources
+- Concentrated Solar Power Towers
+
+#### Ravi Sastri Ayyagari
+
+PhD (Illinois Institute of Technology)
+Associate Professor
+ Solid mechanics, Constitutive modeling, Computational mechanics, Continuum damage mechanics
+
+## Research Interests
+
+- Solid mechanics
+- Constitutive modeling
+- Computational mechanics
+- Continuum damage mechanics
+
+#### Rohil Jain
+
+PhD (Purdue University)
+Assistant Professor
+ Organ Transplantation, Liquid Biopsy Assays, Spectroscopic Techniques
+
+## Research Interests
+
+- Organ Transplantation
+- Liquid Biopsy Assays
+- Spectroscopic Techniques
+
+#### Sameer Sahasrabudhe
+
+PhD (YCMOU)
+Professor of Practice
+(Jointly with Mechanical Engineering department)
+(Affiliated to Society and Culture, Design discipline)
+ Visual Communication
+
+## Research Interests
+
+- Visual Communication
+- 3D Animation
+- Educational Technology.
+
+#### Shubhangi Shamsundar Bansude
+
+PhD (University of Connecticut)
+Assistant Professor
+ Turbulent reacting flows, Large eddy simulations (LES), Combustion chemical kinetics
+
+## Research Interests
+
+- Turbulent reacting flows
+- Large eddy simulations (LES)
+- Probability/filtered density function (PDF/FDF) methods
+- Data-driven approaches for modeling turbulent combustion
+- Combustion chemical kinetics
+
+#### Soumyadip Sett
+
+PhD (University of Illinois)
+Associate Professor
+ Phase Change Heat Transfer, Thermal Management, Water Harvesting
+
+## Research Interests
+
+- Phase Change Heat Transfer
+- Thermal Management
+- Water Harvesting
+- Interfacial Phenomena
+- Surface Science & Engineering
+- Micro/Nanoscale Materials
+
+#### Uddipta Ghosh
+
+PhD (IIT Kharagpur)
+Associate Professor
+ Viscous Flows, Electrohydrodyamics and Electrokinetics
+
+## Research Interests
+
+- Viscous Flows, Electrohydrodyamics and Electrokinetics
+- Flow of Complex Fluids
+- Transport in Porous Media
+- Energy and Hygrometric Studies of Buildings
+
+#### Vineet Vashista
+
+PhD (Columbia University)
+Associate Professor
+(Affiliated to Cognitive Science discipline)
+ Wearable & Rehabilitation Robotics, Human-robot Interaction
+
+## Research Interests
+
+- Wearable & Rehabilitation Robotics
+- Human-robot Interaction
+- Cable-driven Robotics
+- Human Movement Adaption
+
+#### Vinod Narayanan
+
+PhD (Jawaharlal Nehru Centre for Advanced Scientific Research)
+Professor
+ Flow instabilities and transition to turbulence
+
+## Research Interests
+
+- Flow instabilities and transition to turbulence
+- Compressible fluid flow
+- Convective heat transfer
+
+#### Vinod Ramakrishnan
+
+PhD (University of California San Diego)
+Assistant Professor
+ Phononic Crystals and Metamaterials, Smart Materials, Wave Propagation
+
+## Research Interests
+
+- Phononic Crystals and Metamaterials
+- Smart Materials
+- Linear and Nonlinear Wave Propagation
+- Fluid-Metamaterial Interaction
+- Flow Control

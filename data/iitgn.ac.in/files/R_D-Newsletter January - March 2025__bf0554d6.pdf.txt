@@ -1,0 +1,790 @@
+#flags:
+
+RESEARCH &
+DEVELOPMENT
+
+JAN - MAR 2025
+
+NEWS
+
+IIT GANDHINAGAR
+
+iitgn.ac.in/research/
+
+COVER STORY
+CoLab 2025
+The first quarter of 2025 at IIT Gandhinagar was marked by a series of vibrant workshops,
+symposia, and collaborative events, underscoring the institute’s steadfast commitment to
+academic-industry partnerships. Continuing its tradition of fostering meaningful dialogue
+and innovation, IITGN hosted the much-anticipated second edition of CoLab, the Institute’s
+annual Industry Open House, on 22nd February, 2025.
+Drawing over 200 industry leaders, researchers, and innovators, the event reaffirmed a simple yet
+powerful belief: academia and industry are natural allies — each offering distinct strengths that, when
+combined, shape a brighter, more sustainable future. CoLab 2025 served as a lively platform for knowledge
+exchange and networking, featuring stimulating discussions and showcases across ten key areas,
+including Artificial Intelligence, Quantum Technologies, Sustainability, and Advanced Manufacturing.
+As collaborations spark new ideas and lasting partnerships, events like CoLab continue to reflect IITGN’s
+vision of blending intellectual rigour with practical ingenuity for transformative impact.
+
+PROJECT FUNDING
+PI/Mentor
+
+Discipline
+
+Project Title
+
+Agency Name
+
+Sharad Gupta
+
+Biological
+Engineering
+
+Appraisal of Proteome Profile in Duchenne Muscular Dystrophy Hotspot of the
+Gujarat Population for Promising Therapeutics
+
+Aeronautics R&D Board (AR&DB)
+
+Atul Bhargav
+
+Mechanical
+Engineering
+
+Seed Grant for Development of Fuel Cell-Based Propulsion System for Aircrafts
+at CSIR-NAL Bangalore
+
+Council of Scientific & Industrial Research
+(CSIR)
+
+Uddipta Ghosh
+
+Mechanical
+Engineering
+
+Reactive Mixing in Porous Media: From Mechanistic Modelling to Geoelectrical
+Sensing
+
+Council of Scientific & Industrial Research
+(CSIR)
+
+Nishaant Choksi
+
+Humanities &
+Social Sciences
+
+Ritual and the Organization of Semiotic Diversity in South and Southeast Asia
+
+Google
+
+Soumyadip Sett
+
+Mechanical
+Engineering
+
+Developing Bioinspired Antimicrobial Surfaces through Engineering Scalable
+Nanostructured Catheter Interiors to Combat Bacterial Adhesion and Biofilm
+Formation
+
+Gujarat State Biotechnology Mission (GSBTM)
+
+Krishna Kanti Dey
+
+Physics
+
+Catalytic Enzymes as Regulators of Intracellular Transport and Cellular
+Motility
+
+Gujarat State Biotechnology Mission (GSBTM)
+
+Gopinadhan Kalon
+
+Physics
+
+Designing Turing Morphogenesis Polymer-2D Material Membranes for
+Desalination and Fuel Cell Applications
+
+Higher Education Financing Agency (HEFA)
+
+Neeldhara Misra
+
+Computer Science
+& Engineering
+
+Re-Envisioned ARPIT Program
+
+Ministry of Education (MoE)
+
+Tarun Kumar
+Agarwal
+
+Electrical
+Engineering
+
+RES-URSC-2022-02: Numerical Simulation of III-V Semiconductor Thin Films
+Growth in MOCVD Process for Solar Cell Applications
+
+Ministry of Education (MoE)
+
+Udit Bhatia
+
+Civil Engineering
+
+DIGIFEST: Digital Identity Feasibility Study for Technical Standard
+Organization
+
+Ministry of Electronics and Information
+Technology (MeitY)
+
+Chhavi Nath
+Pandey
+
+Civil Engineering
+
+Review of Drinking Water Situation in India vis-a-vis Government Policy and
+Action - Ground Reality, Challenges and Way Forward
+
+National Human Rights Commission (NHRC)
+
+Jhuma Saha
+
+Electrical
+Engineering
+
+On-chip Based Single Photon Source with High Brightness and Spectral Purity
+
+Science & Engineering Research Board - Core
+Research Grant (SERB-CRG)
+
+Madhav
+Kiritkumar Pathak
+
+Electrical
+Engineering
+
+NSF-MeitY: Fundamental Realizable Limit Vibration Energy Harvesting:
+Design, Analysis, and Implementation
+
+Science & Engineering Research Board - Core
+Research Grant (SERB-CRG)
+
+Naran Manji
+Pindoriya
+
+Electrical
+Engineering
+
+[ADEPT] AI-assisted Energy Portfolio Optimization Toolkit for Renewable
+Energy-rich Grid Management
+
+Science & Engineering Research Board - Core
+Research Grant (SERB-CRG)
+
+Rusa Mandal
+
+Physics
+
+Unraveling Dark Matter through Hadron Decays
+
+Science & Engineering Research Board - Core
+Research Grant (SERB-CRG)
+
+Biswajit Saha
+
+Chemical
+Engineering
+
+Detection of Urinary Infection by Laboratory Developed Sensing Kits
+
+Science & Engineering Research Board
+- Teachers Associateship for Research
+Excellence (SERB - TARE)
+
+Emila Panda
+
+Materials
+Engineering
+
+Development of Superconductor-Insulator-Superconductor (SIS) Thin Film
+Stack for THz Application
+
+University of Cambridge
+
+Dhiman Basu
+
+Civil Engineering
+
+Design of Civil Engineering Structures for the Enhancement of Seismic and
+Fire Safety (Course Code : EEP C2/24-25)
+
+Association of Infrastructure Industry (India)
+
+Dhiman Basu
+
+Civil Engineering
+
+Structural Audit of “ITO Flats” at Ashram Road, Ahmedabad
+
+Central Public Works Department (CPWD)
+
+Dhiman Basu
+
+Civil Engineering
+
+Structural Audit of “Custom House” at Ashram Road, Ahmedabad
+
+Central Public Works Department (CPWD)
+
+Manish Kumar
+
+Civil Engineering
+
+Technical Inputs on Structural Analysis of a Major Bridge in Shimla, Himachal
+Pradesh (Chainage: 146+800) Considering Spatial Variability of Ground Motions
+
+Gawar Construction Limited
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Proposed Civil Interior Work for Designing of Hall
+
+Green Energy Transition Research Institute
+(GETRI)
+
+Pranab Kumar
+Mohapatra
+
+Civil Engineering
+
+Hydrodynamic Modelling of Baleshwar Nallah and Performance Evaluation of
+CETP at Palsana, Surat
+
+Gujarat Eco Textile Park Ltd.
+
+Amit Prashant
+
+Civil Engineering
+
+Damage Assessment and Solution to Leakage and Cracking of Water Supply
+Duct of Gandhinagar Thermal Power Plant
+
+Gujarat State Electricity Corporation Ltd
+(GSECL)
+
+Amit Prashant
+
+Civil Engineering
+
+Independent Assessment of Compliance for Constructed Pile Foundations for
+Oil Storage Tanks at Khandla as per Tender Specifications
+
+Indian Oil Corporation Ltd (IOCL)
+
+Krishna Siva Teja
+Chopperla
+
+Civil Engineering
+
+Visual Inspection of Cracks in S1 Administration Building – Ground Floor Slab
+(Pour 2A &2B between Grid X4-X7/Y3-Y8) (Part of MAHSR D-2 Construction)
+
+Larsen & Toubro (L&T) Limited
+
+Shailesh R Gandhi
+
+Civil Engineering
+
+Geotechnical Recommendation for Pagla STP
+
+Larsen & Toubro (L&T) Limited, Construction
+
+Amit Prashant
+
+Civil Engineering
+
+R&BD Gujarat - Bridge Experts' Committee Member
+
+LEA Associates South Asia Pvt. Ltd.
+
+Pranab Kumar
+Mohapatra
+
+Civil Engineering
+
+Surge Analysis of Kauni Yojana, Gujarat
+
+Megha Engineering & Infrastructures Ltd
+
+Vineet Vashista
+
+Mechanical
+Engineering
+
+Enhancement of the Existing Prosthetics and Orthotics Used by the Spark
+Minda Group
+
+Minda Corporation Limited
+
+Amit Prashant
+
+Civil Engineering
+
+SOP for Construction of Geosynthetic Reinforced Soil Structures
+
+National Highway Authority of India (NHAI),
+Ahmedabad
+
+Sushobhan Sen
+
+Civil Engineering
+
+Testing of 24 Nos Concrete Cores from a Section of NH-8E
+
+National Highways Authority of India (NHAI),
+Rajkot
+
+Manish Jain
+
+Creative Learning
+
+Samagra Shiksha Himachal Pradesh
+
+Samagra Shiksha Himachal Pradesh
+
+Manish Jain
+
+Creative Learning
+
+Samagra Shiksha Madhymaik Uttar Pradesh
+
+Samagra Shiksha Madhyamik Uttar Pradesh
+
+Pankaj Khanna
+
+Earth Sciences
+
+Hyperspectral Imaging IODP 389
+
+TheiaX GmbH
+
+Dhiman Basu
+
+Civil Engineering
+
+Proof Checking (vetting) or Structural Audit for Retrofitting & Renovation
+Work of Block C of the Existing Hospital Building at U N Mehta Institute of
+Cardiology & Research Center, Ahmedabad
+
+U N Mehta Institute of Cardiology & Research
+Centre, Ahmedabad
+
+Pranab Kumar
+Mohapatra
+
+Civil Engineering
+
+Flood Management in Lekawada Campus (Indian Coast Guard)
+
+Venu Consultants Pvt. Ltd.
+
+Vikrant Jain
+
+Civil Engineering
+
+Water Scoping Study in the Nalsarovar Bird Sanctuary (NBS) and Neighboring
+Satellite Wetlands
+
+World Wide Fund (WWF) for Nature - India
+
+AWARDS AND FELLOWSHIPS
+Prof MD Srinivas, Guest Professor, Humanities and Social
+Sciences, has been awarded the Padma Shri. He has been an
+outstanding contributor to the history of science and technology
+in India, apart from insightful studies of Indian society.
+Prof Aashish Xaxa, Assistant Professor, Humanities and Social
+Sciences, has received the first Tribal Awards (2025) from the
+Commissioner for Tribal Affairs, New Delhi, for his work on
+Indigenous Sociology.
+Prof Yogesh Kumar Meena, Department of Computer Science
+and Engineering, was awarded the Distinguished Alumnus
+Award by ABV-IIITM Gwalior for excellence in the field of
+academia.
+Prof Anirban Mondal, Assistant Professor, Chemistry, was
+awarded the prestigious Humboldt Research Fellowship for
+Experienced Researchers.
+Sreejith Nair, PhD Scholar, Physics, and Himanshu
+Beniwal, PhD Scholar, CSE have been awarded the
+Fulbright-Nehru Doctoral Research Fellowship
+2025-26. Srijeeth has also secured the Raman–
+Charpak Fellowship 2024-25.
+Jagruti M Patil, PhD Scholar, Biological Sciences and
+Engineering, has won the Best Poster Award in Biomedical,
+Biological and Agricultural Sciences category at the Annual
+
+PMRF Symposium.
+Soumyaratna Debnath, MTech in Computer Science and
+Engineering, has received the Nanyang President’s Graduate
+Scholarship (NPGS), NTU Singapore.
+Prathamesh P Shanbhag, Gautham Bharati, Palak
+Gupta, MTech students, Artificial Intelligence, and
+Husain Malwat, BTech student with Dual Majors
+(Electrical Engineering & Computer Science and
+Engineering), have been awarded the IndiaAI
+Fellowship.
+Dr Sumit Nandi, Post-Doctoral Fellow, Civil
+Engineering; Keshav Bansal, BTech, Civil
+Engineering; Vibhash Bhushan, BTech, Chemical
+Engineering along with Prof Sushobhan Sen,
+Assistant Professor, Civil Engineering have received
+the best paper award in the category of ‘Urban Planning and Development’
+at the American Society of Civil Engineers (ASCE) India Section Northern
+Region Conference on Challenges and Innovations in Sustainable Smart
+Cities (CISSC 2025).
+The Maker Bhavan team, led by Aniruddh Mali
+along with Dharmesh Makvana, Divij Yadav, and
+Shaury Patel, won the Silver Medal in the Education
+category at Maker Fest Vadodara 2025.
+
+CONTINUING EDUCATION PROGRAMME (IITGN-X)
+Event/Programme Name
+
+Event Date
+
+Discipline/Centre/Institute and Funding Agency
+
+Symposium: Population, Resources, and Resilience:
+Harmonizing Population Dynamics with
+Environmental Sustainability
+
+January 6 - January 7, 2025
+
+Organised by the Department of Civil Engineering, IITGN, with the support of
+Pandya Shivpuri Chair in Population Dynamics.
+
+Workshop: Mathematics Teacher Orientation Camp
+(MTOC) 2025
+
+January 13 - January 17, 2025
+
+Organised by the Department of Mathematics, IITGN
+
+Workshop: Photonics for Energy, Sensing, and
+Education
+
+January 16 to January 17, 2025
+
+Organised jointly by the Nanoplasmonics Research Lab and the Royal Academy
+of Engineering (RAE), UK, with funding support from the Distinguished
+International Associates Programme.
+
+Conference and Workshop: Ganita Sammelan
+
+January 19 - January 22, 2025
+
+Organised by IITGN’s Archaeological Sciences Centre and the Department of
+Mathematics, with financial aid from the HOMI Project Fund.
+
+Conference: Curiosity Conclave
+
+January 23 - January 25, 2025
+
+Organised by IITGN’s Curiosity Lab in collaboration with Art@IITGN and Social
+Action Policy Lab, and the nonprofit organisation, Centre for Curiosity
+
+Short-term Course: Innovative Foundation Design
+Methods for Structures on Expansive Soils
+
+January 23 - January 25, 2025
+
+Organised by the Department of Civil Engineering, IITGN, with CSR funding
+from TechFab.
+
+Conference: Carbon Capture and Storage in Basalts
+
+February 3 - February 4, 2025
+
+Organised by the Department of Earth Science, IITGN, with the support of the
+Department of Science and Technology (DST).
+
+Joint Review Meeting: cNarmada Project
+
+February 11, 2025
+
+Organised by the Department of Civil Engineering, IITGN, with financial
+support from the Ministry of Water Resources.
+
+Symposium: Cognitive Science Symposium 2025
+
+February 15, 2025
+
+Organised by the Department of Cognitive and Brain Sciences, IITGN.
+
+Industry Open House: CoLab 2025
+
+February 22, 2025
+
+Organised by IITGN.
+
+iGrip Conclave on Indian Standards Code of Practice
+for Reinforced Soil Structures
+
+February 24 - February 25, 2025
+
+Organised by the Department of Civil Engineering, IITGN, with CSR funds from
+TechFab India.
+
+cNarmada: Stakeholders Meet
+
+March 1 - March 2, 2025
+
+Organised by the Department of Civil Engineering, IITGN, with financial
+support from the Ministry of Water Resources.
+
+Workshop: IITGN Flavour Physics Week - Exploring
+Quark and Lepton Frontiers
+
+March 3 - March 9, 2025
+
+Organised by the Department of Physics, IITGN
+
+Workshop: Prosthetics Technology
+
+March 8 - March 9, 2025
+
+Organised by the Department of Mechanical Engineering, IITGN, with CSR
+support from Spark Minda Foundation.
+
+Workshop: Advances in Neuro Rehabilitation and
+Assistive Technologies: Workshop on BCI-Driven
+Stroke Rehabilitation
+
+March 10 - March 11, 2025
+
+Organised by the Department of Computer Science and Engineering, IITGN,
+with funding support from Ulster University.
+
+Workshop: ARPIT Workshop & The Mathematics of
+Card Magic
+
+March 14 - March 16, 2025
+
+Organised by the Department of Computer Science and Engineering, IITGN,
+with support from the Ministry of Education.
+
+Certificate Course: Modern 802.11 WLANs
+
+March 17 - March 23, 2025
+
+Organised by the Department of Computer Science and Engineering, IITGN.
+
+Japan Meets India Summit
+
+March 20 - March 21, 2025
+
+Organised by the Department of Electrical Engineering, IITGN.
+
+A Symposium on Wearable Robotics
+
+March 21 - March 22, 2025
+
+Organised by the Department of Mechanical Engineering, IITGN, with support
+from Prof Nitish Thakor’s Donation Endowment Fund.
+
+Workshop: CO Laser Cutting - Where Innovation
+Meets Precision
+
+March 22, 2025
+
+Organised by the Department of Mechanical Engineering, IITGN
+
+Workshop: Paradigms for Beyond 5G Communication
+
+March 24, 2025
+
+Organised by the Department of Computer Science and Engineering, IITGN.
+
+Short-term Course: CAD / CAM Integration with
+Interface CNC Machines
+
+March 24 - March 28, 2025
+
+Organised by the Department of Mechanical Engineering, IITGN, with funding
+from Autodesk.
+
+Workshop: Indo - Thailand Workshop on AI - Driven
+Innovations (AIDI)
+
+March 24 - March 28, 2025
+
+Organised by the Department of Electrical Engineering, IITGN, with financial
+support from the AI CoE Project Fund.
+
+Short-term Course: Soil Structure Interaction Analysis
+
+March 27 - March 29, 2025
+
+Organised by the Department of Civil Engineering, IITGN, with CSR funding
+from TechFab.
+
+PATENTS
+Title
+
+Inventor
+
+Status
+
+Fluorophores and a Process for their Synthesis
+
+Gundimeda, Venkata Sriram Kanvah; Singh, Deepmala; Virupakshi, Soppina
+
+Granted
+
+Sensor for Ammonia Gas Detection and a Method for Manufacturing the Sensor
+
+Banerjee, Rupak; Paul, Tufan; Maity, Avisek; Sahoo, Adit
+
+Granted
+
+A System and Method for Super-Resolution Ultrasound Reconstruction with
+Representation Learning on Sparse Data
+
+Dhawan, Ruchika; Agarwal Mihir; Jain, Shreyans; Ruparel, Hrriday Viraj;
+Shekhar, Himanshu
+
+Filed
+
+Surface-enhanced Raman Spectroscopy Substrate and a Process for its Preparation
+
+Khatua, Saumyakanti; Joshi, Gayatri
+
+Filed
+
+Papaverine Loaded Berberine Microcrystals and a Process for their Preparation
+
+Dhanka, Mukesh; Panja, Sebika; Suri, Rishi; Balchandra Apotikar, Shreyash;
+Dan, Aniruddha
+
+Filed
+
+A Hydrogel Formulation and a Process for its Preparation
+
+Dhanka, Mukesh; Barani, Prasanna Kumari; Yadav, Indu; Dan, Aniruddha
+
+Filed
+
+A Topical Formulation and a Process for its Preparation
+
+Dhanka, Mukesh; Vithalani, Hitasha; Gupta, Garima; Dave, Harshil
+
+Filed
+
+An Emulgel and a Process for its Preparation
+
+Thareja, Prachi; Patel, Panchami
+
+Filed
+
+MEMORANDA OF UNDERSTANDING
+CHIANG MAI UNIVERSITY, THAILAND
+
+An MoU was signed between the Faculty of Engineering and the Faculty
+of Science, IIT Gandhinagar, and the Faculty of Engineering, Chiang Mai
+University, Thailand, to foster academic and research collaboration in
+science and engineering. The partnership aims to promote joint research
+ventures, exchange programs for faculty and students, shared academic
+programs/workshops/conferences, entrepreneurial ventures, and industryacademia initiatives.
+
+UNIVERSITY OF CALIFORNIA SAN DIEGO, USA
+IITGN and the Halicioglu Data Science Institute at UC San Diego have signed
+an MoU to promote collaboration in education and research. The partnership
+covers faculty and student exchanges, joint research projects, shared
+publications, material and information exchange, research internships, and
+special programs such as workshops, virtual classrooms, and short-term
+academic initiatives.
+
+TATA ELECTRONICS PRIVATE LIMITED, BANGALORE
+IITGN has signed an MoU with Tata Electronics Private Limited and
+its subsidiary Tata Semiconductor Manufacturing Private Limited, to
+establish a Centre of Excellence named SAMARTH — Silicon and Advanced
+Semiconductor Manufacturing Research and Training Hub. This initiative
+aims to meet the evolving needs of India’s electronics and microelectronics
+industries and the global semiconductor sector. The collaboration will focus
+on developing a highly skilled workforce to support the upcoming Dholera
+semiconductor fabrication facility, creating educational and training
+programs for technicians, engineers, and supply chain professionals, and
+advancing research in next-generation semiconductor manufacturing by
+leveraging IITGN’s scientific and engineering expertise.
+
+INFINEON TECHNOLOGIES (INDIA) PRIVATE LIMITED, BANGALORE
+
+IITGN to build a collaborative framework for industrial research, technology
+development, innovation, and talent nurturing. As part of the partnership,
+the signatories will jointly explore and pursue government funding
+opportunities and grants, including schemes from SERB, DST programs, and
+other relevant initiatives.
+
+GUJARAT ENERGY RESEARCH AND MANAGEMENT INSTITUTE (GERMI),
+GANDHINAGAR
+IITGN and GERMI have signed an MoU to foster joint research, knowledge
+exchange, and capacity building in energy research. The collaboration
+includes developing joint research proposals, faculty and student
+exchanges, implementing research projects, and offering internships. The
+two institutions will share access to labs, instrumentation, and libraries,
+co-organise conferences and symposia, and disseminate research through
+publications and reports.
+
+MRS SEEMA JHA AND MR JAGDISH JHA, BANGALORE
+A Gift Agreement was signed by Mrs Seema Jha and Mr Jagdish Jha with
+IITGN pledging Rs 60 lakh to establish a perpetual endowment corpus
+for supporting a Faculty Chair at the institute. The Faculty Chair, named
+‘Singheshwari and Ram Krishna Kha Chair’, will be instituted in one of the
+departments at IITGN, contributing to academic excellence and research
+leadership at the institute.
+
+SIAM UNIVERSITY, THAILAND
+IITGN and Siam University, Bangkok, Thailand, have signed an MoU to
+promote academic, research, and scientific collaboration. The agreement
+includes provisions for student exchanges for joint and non-degree
+programs and the exchange of faculty members and staff to strengthen
+mutual learning and research opportunities.
+
+Infineon Technologies (India) Private Limited has signed an MoU with
+
+MAJOR FACILITIES
+
+SINGULARITY HPC CLUSTER (AI-ML HPC CLUSTER)
+Model: Tyrone Server
+
+High-Performance Computing (HPC) systems are
+essential for tackling advanced computational challenges
+across diverse research domains. The HPC Cluster, now
+installed in the Server Room (AB5/102 - Faculty Rack) at
+the IITGN CSE Department, features 2 compute nodes
+equipped with 8 NVIDIA L40S 48GB GPUs and a Lustrebased storage system offering ~172TB capacity. Designed
+to support AI and ML research, this cluster integrates
+systems administration, parallel programming, and
+computational techniques. HPC technologies enable
+the efficient execution of complex algorithms, offering a
+multidisciplinary platform that bridges digital electronics,
+computer architecture, and advanced data processing.
+Please contact Prof Mayank Singh (singh.mayank@iitgn.ac.in) for more
+information.
+
+a stainless-steel (SS316) octagonal micro probe station housed within a
+vacuum-sealed chamber capable of reaching 2 × 10-2 Torr. Four manually
+controlled tungsten probes endure temperatures up to 450°C, while a Cool
+White calibrated light source delivers 1000 W/m², replicating standard
+AM 1.5 solar conditions. Integrated with custom software (K-Lyte 1.2), the
+system offers precise control and characterisation capabilities.
+The system is currently installed at the AB5/207, Epitaxy and Characterization
+Lab (ECL). Please contact Prof Krista R Khiangte (krista.khiangte@iitgn.
+ac.in) for more information.
+
+SOLAR SIMULATOR
+The solar simulator system is a sophisticated platform designed for highprecision electrical and optical characterisation of photovoltaic and
+semiconductor devices. Developed by the Laboratory of Advanced Synthesis
+and Characterisation (LASC) India, the custom-made system features
+
+INDIAN INSTITUTE OF TECHNOLOGY GANDHINAGAR
+PALAJ, GANDHINAGAR, GUJARAT - 382 055

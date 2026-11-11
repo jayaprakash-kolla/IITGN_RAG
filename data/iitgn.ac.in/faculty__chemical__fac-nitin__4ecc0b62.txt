@@ -1,0 +1,40 @@
+Title: IIT Gandhinagar | Nitin U. Padhiyar
+Source: https://iitgn.ac.in/faculty/chemical/fac-nitin
+
+# Nitin U. Padhiyar
+
+-  Chemical Engineering
+Nitin U. Padhiyar
+
+## Nitin U. Padhiyar
+
+Associate Professor, Chemical Engineering
+
+- BE: L.D. College of Engineering Ahmedabad, 2000
+- MTech: Indian Institute of Technology Kharagpur, 2003
+- PhD: Indian Institute of Technology Bombay, 2008
+
+Email: nitin -AT- iitgn.ac.in
+
+Office:  AB 5/404A
+VOIP:  2402
+
+- Md Zafar Ahmed and N. Padhiyar*, 2021. Comparative Study of the Optimal Operation of Methane Reforming Process in Cylindrical and Spherical Reactors using Multi-Objective Optimization, International Journal of Hydrogen Energy. 46 (10): 7060–72.
+- S. Amin, P. Dayal and N. Padhiyar, 2020. Process design of batch reactors using multi-objective optimization for synthesis of butylated urea formaldehyde resins, Computers and Chemical Engineering. 140, 1-11.
+- Md Zafar Ahmed and N. Padhiyar, 2020. Multi objective optimization of a tri-reforming process with the maximization of H2 production and minimization of CO2 emission & power loss, International Journal of Hydrogen Energy. 45, 22480-22491.
+- S. Shirude and N. Padhiyar, 2019. Optimal Grade Transition of a Non-Isothermal Continuous Reactor with Multi-Objective Dynamic Optimization Approach, Chemical Engineering Research and Design. 147, 63-72.
+- A. Markana, N. Padhiyar and K. Moudgalya, 2018, Multi-criterion control of a bioprocess in fed-batch reactor using EKF based economic model predictive control, Chemical Engineering Research and Design. 136, 282-294.
+- N. Patel, N. Padhiyar, 2017, Multi-Objective Dynamic Optimization Study of Fed-Batch Bio-Reactor, Chemical Engineering Research and Design, 119, 160-170.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Sep 2023 to Present)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (Apr 2009 to Sep 2023)
+- Research Engineer, Asea Brown Boveri (ABB), Indian Corporate Research (INCRC), Bangalore (Sep 2007 - Sep 2008)
+
+- ● Process optimization and control
+- ● Multi-objective optimization (MOO)
+- ● Genetic algorithms
+- ● Dynamic optimization
+- ● Model predictive control (MPC)
+- ● MOO based MPC
+
+Complete List of Publications

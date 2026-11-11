@@ -1,0 +1,1645 @@
+#flags:
+
+Now in the 58th year
+
+Clean water using advanced materials:
+Science, incubation and industry
+T. Pradeep
+Institute Professor, IIT Madras
+pradeep@iitm.ac.in
+Founder
+InnoNano Research Pvt. Ltd.
+An IIT Madras Incubated Company
+
+Prof. Amrutur V. Anilkumar
+Prof. Uttama Lahiri
+Co-founder
+InnoDI Water Technologies Pvt. Ltd.
+An IIT Madras Incubated Company
+
+Associate Editor
+
+Sixth Lecture of the Roddam Narasimha Distinguished Lecture Series, IIT Gandhinagar, June 6, 2017
+
+My greetings to Professor Roddam Narasimha
+
+Our blue planet
+12.6x1020 litres, 42x1045 molecules
+
+Source: http://ga.water.usgs.gov/edu/earthwherewater.html
+6/13/2017 6:29 PM
+
+4
+
+Water is probably the most researched subject, yet not fully understood.
+
+Challenges and opportunities
+•About 780 million people live without clean drinking water.
+•More than two billion people worldwide rely on wells for their water.
+•By 2025, an estimated 1.8 billion people will live in areas plagued by water
+scarcity.
+•Half of the global population lives in countries where water tables are rapidly
+falling - Ogallala Aquifer in the United States
+•Over the past 40 years the world’s population has doubled and use of water has
+quadrupled.
+•Agriculture accounts for ~70% of global freshwater withdrawals and up to 90% in
+some fast-growing economies.
+
+• By 2035, energy consumption will increase by 35 percent, increasing water
+use by 15 percent.
+• In the US, thermoelectric power plants account for nearly 50% of all
+freshwater withdrawals.
+• 46% of the globe’s (terrestrial) surface is covered by transboundary river
+basins which can lead to future conflicts over water.
+• The global middle class will surge from 1.8 to 4.9 billion by 2030, which will
+result in a significant increase in freshwater consumption.
+
+Lab to market
+T. Pradeep
+
+Anshup
+
+Mohan Udhaya Sankar
+
+Amrita Chaudhary
+
+Email: pradeep@iitm.ac.in
+Phone: 044-2257-4208
+
+Email: anshup@gmail.com
+Phone: +91-9962327075
+Partner agencies
+Founder
+Government of India
+InnoNano Research Pvt. Ltd.
+An IIT Madras Incubated Company
+Department of Science and Technology
+State Governments
+West Bengal, Bihar, Uttar Pradesh, Punjab
+
+Co-founder
+InnoDI Water Technologies Pvt. Ltd.
+An IIT Madras Incubated Company
+
+DST Unit of Nanoscience and
+Thematic Unit of Excellence, IIT Madras
+
+An IIT Madras incubated company
+6/13/2017 6:29 PM
+
+ACS Sustainable Chemistry & Engineering Editorial, December 2016
+
+8
+
+We have clean water on the surface of Earth only because chemistry permits it!
+
+Why nanotechnology?
+
+-9
+Nano 10
+
+Quantum
+
+Sajanlal and Pradeep, Kirk-Othmer Encyclopedia, 2012
+www.pubs.acs.org
+
+An object for the nanotechnology - nanomaterials.
+
+A
+
+Difficult to functionalize
+Poor/no adsorption
+
+B
+
+Bulk noble metal
+
+No solubility, catalysis,
+reactivity and optical
+properties
+
+Transformation
+
+1. More for less
+Ligand shell
+Optical absorption
+Conjugation
+
+Photoluminescence
+
+Adsorption
+
+Electrical conductivity
+
+Solubility
+
+Alloying
+
+Control of charge
+
+Redox property
+
+Influence on photophysical
+
+Catalysis
+
+properties
+Supramolecular assembly
+
+Nanoparticles/clusters
+
+Variation in properties originating from ligand shell and metal core as bulk noble metals
+transform to nanoparticles/clusters. Sizes are not to scale. New properties such as color and
+photoluminescence arise in such size regime. Photographs of Au@citrate nanoparticles (inset
+A) showing intense absorption of visible light and Au@SG (SG corresponds to glutathione
+thiolate) clusters (inset B) showing intense photoluminescence upon ultraviolet irradiation
+(from the author’s work).
+
+Permissible contamination
+
+2. Limits of contaminants
+1012 molecules
+
+Time
+
+Permissible contamination reaches limits of detection
+
+Permissible limit (ppb)
+
+= Arsenic
+
+Time (Years)
+Decrease in the permissible limit of arsenic in drinking water, according to US EPA,
+with time. The graph indicates a general trend.
+
+3. Can we reach limits?
+(A)
+
+(B)
+
+After 10 ppt Hg2+
+
+After 500 ppt Hg2+
+
+(D)
+
+(E)
+
+Blank
+
+After 500 ppt Hg2+
+
+(C)
+
+After 1 ppb Hg2+
+
+(F)
+G
+
+After 1 ppb Hg2+
+
+(A)–(C) Dark field fluorescence images of Au@SiO2@Ag15 MFs showing the gradual
+disappearance of luminescence with increasing Hg2+. (D)–(F) Fluorescence images
+showing variation in color during the addition of Hg2+ of different concentrations to
+Au@SiO2-FITC@Ag15 MFs. Insets in all images show the corresponding optical images of
+the MFs; scale bars are 3 μm.
+
+Cavities, channels, imprints, assemblies, fibres, …
+
+Metal Clusters
+Number of atoms
+100
+
+1000
+
+Metal Clusters
+・Small is different
+・Every atom counts
+
+Bulk
+
+Properties
+
+10
+
+Metal nanoparticles
+
+Atom
+
+2nm
+
+1nm
+Diameter
+
+Shibhu, Habeeb, Uday, Kamalesh, Lourdu, Ammu, Ananya, Indranath, Atanu, Krishnadas, Shridevi, Papri, ….
+
+Indranath and Pradeep, Chem. Rev. 2017
+Krishnadas et al. Acc. Chem. Res. 2017 (to appear)
+
+Au25PET18
+
+Au25(PET)18-
+
+7385
+
+7390
+
+2000
+
+4000
+
+7395
+
+6000
+
+m/z
+
+8000
+
+10000
+
+Featured in:
+The Guardian, UK
+The Hindu, Telegraph, Times of India, etc.
+Scientific American
+New Scientist
+and many others
+
+Future of water purification: An enigma with some pointers
+21
+21
+
+20
+20
+
+Candidate contaminant list
+Contaminants regulated by EPA
+
+15
+15
+
+15
+15
+
+13
+13
+9
+9
+4
+4
+
+4
+4
+
+1
+1
+
+3
+3
+1
+1
+
+1
+1
+
+1 11
+1 11
+
+1
+1
+
+2
+1 21
+1 1
+
+r
+r
+
+q
+q
+
+p
+p
+
+o
+o
+
+m
+m
+
+l
+l
+
+n
+n
+
+k
+k
+
+44
+44
+
+5
+5
+
+6
+6 6
+6 5
+5
+
+6
+6
+
+7
+7
+
+10
+10
+
+9
+9
+5
+5
+
+i
+i
+
+h
+h
+
+g
+g
+
+f
+f
+
+Label
+Label for
+for contaminants
+contaminants
+
+e
+e
+
+d
+d
+
+c
+c
+
+10
+10
+5
+5
+
+2
+2
+
+1
+1
+j
+j
+
+Numberofofcontaminants
+contaminants
+Number
+
+25
+25
+
+b
+b
+
+a
+a
+
+0
+0
+
+(a): Halogenated organic (b): Metal (c): Organochlorine pesticide (d): Inorganic
+salt (e): Biological contaminant (f): Nuclear (g): Benzo derivative (h): Carbamate
+pesticide (i): Pesticides (others) (j): Unclassified (k): Triazine derivative pesticide
+(l): Organophosphorus pesticide (m): Organobromine pesticide (n): Non-metal
+(o): Nitrophenol derivative, (p): Dioxin, (q): Benzo and halogenated organic (r):
+Organometallics
+
+Category-wise distribution of contaminants regulated by USEPA and future contaminants
+
+Noble metal nanoparticles for water purification: A critical review, T. Pradeep and Anshup,
+Invited critical review, Thin Solid Films, 517 (2009) 6441-6478
+(DOI: 10.1016/j.tsf.2009.03.195).
+
+World’s first nanochemistry-based water purifier
+
+Chemistry world
+First ever
+nanotechnology
+product for clean
+water
+
+A plant to make supported nanomaterials for water
+purification; with capacity of 4.5 tons per month, 2007
+1. Patents: A method of preparing purified water from water
+containing pesticides, Indian patent 200767
+2. Extraction of malatheon and chlorpiryhphos from drinking
+water by nanoparticles , US 7,968,493 A method for
+decontaminating water containing pesticides, EP 17,15,947
+Product is marketed now by a Eureka Forbes Ltd.
+Several new technologies are now available
+
+Affordable materials for water purification - Bioinspired
+Water positive
+Water-based, room temperature, water stable
+Green
+
+M. U. Sankar et al, PNAS 2013
+
+a
+OH RT
+
+(i)
+
+(ii)
+
+(iii)
+
+c
+
+pH 7
+
+2. BH 4-, <8 0C
+
+RT
+
+b
+
+pH 6
+
+1. Ag+
+
+Incubation
+
+OH -
+
+DRY
+
+- Ag Np
+- AlOOH Np
+- Chitosan fiber
+WET
+
+(iv)
+
+(v)
+
+d
+
+pH 8
+50 nm
+
+50 nm
+
+20 nm
+
+80
+60
+
++
+
+[Ag ] (ppb)
+
+100
+
+40
+20
+0
+
+0
+
+250 500 750 100012501500
+Volume of water passed (L)
+
+Live/dead staining experiments
+
+A
+
+10µm
+
+B
+
+Bacterial count (CFU/mL)
+
+A
+
+1.0x10
+
+5
+
+7.5x10
+
+4
+
+5.0x10
+
+4
+
+2.5x10
+
+4
+
+Input
+Output
+
+TDS
+
+0.0
+
+B
+
+Bacterial count (CFU/mL)
+
+0 150 300 450 600 750 900
+TDS (ppm)
+
+1.0x10
+
+5
+
+7.5x10
+
+4
+
+5.0x10
+
+4
+
+2.5x10
+
+4
+
+Input
+Output
+
+pH
+Real water experiments
+
+0.0
+
+C
+
+Bacterial count (CFU/mL)
+
+6.5 7.0 7.5 8.0 8.5 9.0
+pH
+
+1.0x10
+
+5
+
+7.5x10
+
+4
+
+5.0x10
+
+4
+
+2.5x10
+
+4
+
+Input
+Output
+
+0.0
+0
+
+5
+TOC (ppm)
+
+10
+
+TOC – Humic acid
+
+b
+
+d
+
+Scattering intensity (a.u.)
+
+a
+
+400
+
+Scattering intensity (a.u.)
+
+800
+
+1000
+
+Wavelength (nm)
+
+e
+
+c
+
+600
+
+400
+
+600
+
+800
+
+Wavelength (nm)
+
+1000
+
+A
+
+Aluminium (ppb)
+
+200
+150
+100
+50
+0
+
+B
+
+WHO allowed limit
+Leaching from material
+
+10
+
+1.2
+
+50
+
+After contacting with Ag-BM
+
+1.0
+
+TOC (ppm)
+
+20
+30
+40
+Number of batch trials
+
+0.8
+0.6
+0.4
+0.2
+0.0
+
+10
+
+20
+30
+40
+Number of batch trials
+
+Leaching experiments
+
+Physicochemical characteristics of influent natural drinking water
+(Note: All parameters are expressed in mg L-1, except for pH and conductivity)
+ND-not detected
+Natural drinking water (without treatment so that there is a residual bacterial count in it)
+was used for testing to ensure that that the material functions in the field.
+Parameters
+
+Value
+
+Total coliforms (CFU/mL)
+
+1-2 x 103
+
+p H @25°C
+
+7.8
+
+Conductivity (µS/cm)
+
+640.000
+
+Fluoride
+
+0.573
+
+Chloride
+
+86.340
+
+Nitrate
+
+1.837
+
+Sulphate
+
+32.410
+
+Silicate
+
+15.870
+
+Lithium
+
+ND
+
+Sodium
+
+53.740
+
+Ammonium
+
+ND
+
+Potassium
+
+2.330
+
+Magnesium
+
+14.340
+
+Calcium
+
+28.720
+
+a
+
+b
+
+c
+(
+Bacteria countCFU/mL)
+
+Cap
+
+Filter unit
+Membrane filter and
+antimicrobial media
+Storage container
+
+Multilayer axial block
+
+5
+
+2x10 i)(
+1x10
+
+5
+
+5x10
+
+4
+
+0
+
+0
+
+Tap
+
+e 180 i)(
+
+0
+
+ii)(
+0
+
+120
+
+1500
+
+60
+
+0
+
+1500
+
+100
+200
+300
+Volume passedL)
+(
+
+400
+
+0.5
+
+5+
+
+90
+
+30
+
+500
+1000
+Volume passedL)
+(
+
+(
+[As ]ppm)
+
+4
+
+500
+1000
+Volume passedL)
+(
+
+f 1.0 i)(
+
+150
+
+[Pb]ppb)
+(
+
+2+
+
+[Fe ]ppm)
+(
+
+d 6 i)(
+
+2
+
+ii)(
+
+ii)(
+
+0.05
+0.00
+
+500
+1000
+Volume passedL)
+(
+
+1500
+
+ii)(
+0
+
+A. Anil Kumar, et al. Adv Mat. 2016
+
+- Total arsenic input
+
+- Iron input
+
+- Total arsenic output
+
+- Iron output
+
+4000
+
+output
+
+a
+
+150
+100
+
+Input
+
+50
+
+40
+
+b
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+0
+
+0
+1000 2000 3000 4000 5000 6000
+
+Volume of water passed (L)
+
+Pure water flow rate (Liter/hour)
+
+200
+3000
+2000
+1000
+0
+0
+0
+
+1000
+
+2000
+
+3000
+
+4000
+
+5000
+
+Volume of water passed (L)
+
+6000
+
+Iron concentration (ppb)
+
+250
+
+Applied pressure (psi)
+
+Total arsenic concentration (ppb)
+
+A
+
+Anion effect
+
+R. Swathy, et al. Scientific Reports, 2014
+
+Imagining how new adsorbents are changing the dynamics at
+ground level
+
+• Existing unit for iron and arsenic
+removal – 20 m3/h
+• Uses activated alumina and iron
+oxide (old generation of
+adsorbents)
+
+• Existing unit for iron and arsenic
+removal – 18 m3/h
+• Uses iron oxyhydroxide (new
+generation of adsorbents)
+• Input arsenic concentration: 168
+ppb
+• Output arsenic concentration: 2 ppb
+
+A glimpse of performance data for installations in Murshidabad
+S.No
+
+Sample Name
+
+Input arsenic (ppb)
+
+Output arsenic
+(ppb)
+
+Number of days
+running
+
+1.
+
+Topidanga Jumma Masjid, Bhagwangola-II
+
+31
+
+0
+
+30 days
+
+2.
+
+Bhandahara Jumma Masjid, Bhagwangola-II
+
+20.7
+
+0.4
+
+30 days
+
+3.
+
+Horirampur Jumma Masjid, Bhagwangola-II
+
+37
+
+0
+
+45 days
+
+4.
+
+Dihipara Jumma Masjid, Bhagwangola-II
+
+4.8
+
+1.8
+
+30 days
+
+5.
+
+Bahadurpur High School, Bhagwangola-I
+
+9.4
+
+0.2
+
+30 days
+
+6.
+
+Charlabangola Higher Sec School, Bhagwangola-I
+
+28.2
+
+0.1
+
+245 days
+
+7.
+
+Mahisasthali Girls’ High School, Bhagwangola-I
+
+0
+
+0
+
+30 days
+
+8.
+
+Orahar Girls’ High School, Bhagwangola-I
+
+0.53
+
+0
+
+10 days
+
+9.
+
+Rabindratola BN Pandey High School, Bhagwangola-I
+
+84.3
+
+0
+
+245 days
+
+10.
+
+Karbalajamam Masjid, Berhampore
+
+6.8
+
+0
+
+150 days
+
+11.
+
+PHED office, Berhampore
+
+32
+
+0
+
+10 days
+
+12.
+
+Nabipur Bazar Jumma Masjid, Raninagar-II
+
+1.3
+
+0
+
+60 days
+
+13.
+
+Rukunpur Jumma Masjid, Hariharpara
+
+25.6
+
+2.2
+
+60 days
+
+14.
+
+Klyanpur Jumma Masjid, Domkal
+
+64.7
+
+0
+
+200 days
+
+15.
+
+Benadaha Mondalpara Hanafi Jamat, Beldanga-I
+
+9.04
+
+0
+
+180 days
+
+16.
+
+Maniknagar Jumma Masjid, Domkal
+
+1
+
+0.04
+
+60 days
+
+17.
+
+South Hariharpura Jumma Masjid, Hariharpara
+
+5.47
+
+0
+
+60 days
+
+18.
+
+Lochan Mati Danga Para Jumma Masjid, Hariharpara
+
+14.6
+
+0
+
+150 days
+
+19.
+
+Paschim Malipara Jumma Masjid, Raninagar – II
+
+3.3
+
+0.13
+
+90 days
+
+20.
+
+Khalilabad Jumma Masjid, Hariharpara
+
+179.0
+
+0
+
+270 days
+
+21.
+
+Bhatu Komnagar Masjid, Raninagar –II
+
+67.89
+
+0.22
+
+360 days
+
+Performance data from Murshidabad (continued)
+S. No.
+
+Sample Name
+
+Input arsenic (ppb)
+
+Output arsenic
+(ppb)
+
+Number of days
+running
+
+23.
+
+Babaltali Jumma Masjid, Raninagar – II
+
+10.7
+
+0
+
+180 days
+
+24.
+
+Sargachhi Paschimpara Jumma Masjid, Beldanga – I
+
+1.26
+
+0.04
+
+180 days
+
+25.
+
+Pratappur Jumma Masjid, Hariharpara
+
+27.19
+
+0.13
+
+180 days
+
+26.
+
+Fakirabad Jumma Masjid, Domkal
+
+24.67
+
+0
+
+180 days
+
+27.
+
+Shialmari Jumma Masjid, Raninagar – II
+
+287.5
+
+0.09
+
+240 days
+
+28.
+
+Bhabta Ahelahadis Jumma Masjid, Beldanga
+
+8.6
+
+5.7
+
+240 days
+
+A glimpse of performance data for installations in Nadia
+S. No.
+
+Sample Name
+
+Input arsenic (ppb)
+
+Output arsenic
+(ppb)
+
+Number of days running
+
+1.
+
+Dhapadia Junior Madrasah
+
+46.5
+
+2.15
+
+30 days
+
+2.
+
+Khidirpur Shishu Shiksha Kendra
+
+14.99
+
+0
+
+260 days
+
+3.
+
+Junior Madrasah
+
+12.7
+
+0
+
+60 days
+
+4.
+
+Dhapana Board High School
+
+14.96
+
+0.6
+
+45 days
+
+5.
+
+Birpur Primary School
+
+19.56
+
+0
+
+90 days
+
+6.
+
+Bethuaduari JCM High School
+
+4.56
+
+0
+
+45 days
+
+7.
+
+Jugnuthala Primary School
+
+23.36
+
+0
+
+60 days
+
+8.
+
+Dahakula Primary High School
+
+36.6
+
+0
+
+60 days
+
+9.
+
+Bargachi Primary School Nagadi
+
+9.56
+
+0
+
+90 days
+
+10.
+
+Dahakula Primary School
+
+22.7
+
+0
+
+60 days
+
+11.
+
+BJ Kumari Primary School
+
+5.9
+
+0
+
+100 days
+
+12.
+
+Arijnagar Primary School
+
+0.13
+
+-
+
+60 days
+
+13
+
+Patikpari Girls Primary School
+
+9.6
+
+0
+
+60 days
+
+14
+
+Bawanipur Primary School Nagadi
+
+0.49
+
+0
+
+60 days
+
+Work was featured in several journals
+
+Nature Nanotechnology, July 2014 issue
+
+Plan for immediate future
+
+ARSENIC TOXIC
+WATER
+In-line arsenic sensor and
+remote data management –
+indicates when filtration systems
+require maintenance.
+IMPROVED FILTER
+SUSTAINABILITY
+
+India Mark II hand
+water pump –
+most common
+water pump used
+globally
+
+InnoNano Research’s in-line arsenic
+removal filtration system
+
+SUSTAINABLE
+SOURCE OF
+ARSENIC FREE
+SAFE DRINKING
+WATER
+
+52
+
+Biosensor Design
+1st Generation Design (Mediated Electrochemistry)
+
+Buffer: pH 7-8
+
+As(III)
+e-
+
+e-
+
+As(V)
+Recombinant Arsenite
+Oxidase NT-26 Aio
+
+Horse Heart
+Cytochrome C
+
+Aldrithiol
+
+Low-cost Gold sputtered
+thin film on PET substrate
+
+2nd Generation Design (Direct Electron Transfer)
+
+As(III)
+
+eAs(V)
+Recombinant Arsenite
+Oxidase NT-26 Aio
+
+low-cost nanostructured
+electrodes which interact
+directly with enzyme (e.g.
+graphene or CNT).
+
+Integrate Arsenic monitor and Arsenic filter
+into in-line filtration/monitoring unit to
+improve management of Arsenic problem
+
+Easy-to-use
+Quantitative
+Fast < 3 minutes
+Low cost
+Non-toxic
+Automatic recording of test
+results with well GPS position
+
+Proprietary nano materials
+Manufactured in India
+Filters arsenic & iron
+Integrated to Mark II hand pumps
+
+I(E)=A(W)*W
+
+2
+
+Quantum cluster based metal ion sensing paper
+Large area uniform illumination using quantum cluster
+
+Visible light
+
+UV light
+
+2 min
+6 min
+10 min
+
+300
+
+400 500 600 700
+Wavelength (nm)
+
+800
+
+Decrease in the absorption of Au15 as a biofilm is dipped into the cluster
+solution. Inset: Free standing quantum cluster loaded film in visible light and
+UV light.
+Anu George et al. ACS Applied Materials & Interfaces, 2012
+
+Approaching detection limits of tens of Hg2+
+[a]
+
+[b]
+
+[c]
+
+10 µm
+
+1 cm
+
+1 cm
+
+[e]
+
+[d]
+
+[f]
+
+3 µm
+
+3 µm
+
+3 µm
+
+[g]
+
+[h]
+
+[i]
+
+3 µm
+
+Atanu Ghosh et al. Anal. Chem.2014.
+
+Video of mercury quenching experiment using the nanofiber
+
+Sub-zeptomolar detection
+
+Featured in:
+The Hindu, Telegraph, Times of India, etc.
+C&E News
+and many others
+
+Ammu Mathew, et al. Angew. Chem. Int. Ed. 2012
+
+D. Sarkar, et. al. Adv. Mater. 2016
+
+100
+
+150
+
+200
+
+Capacitive Desalination
+(CDI)
+
+Our new company
+
+Geo-specific water
+purifier bottle
+
+Design
+
+Protot
+ype
+
+Indian Institute of Technology
+Madras
+
+Bhaskar Ramamurthi
+6/13/2017 6:29 PM
+
+Director
+
+63
+
+6/13/2017 6:29 PM
+
+64
+
+World population density 1994
+
+Parting message
+Every problem is dwarfed in front of the giant water crisis looming large on the planet.
+Water stress – in quantity and quality- is felt most severely by the populous countries.
+Indian subcontinent is at the centre of action.
+Many of the problems of water quality can be handled affordably by new technologies.
+Arsenic, fluoride, mercury, pesticides,….affordable, accessible and reliable solutions
+are here in the country.
+
+https://commons.wikimedia.org/wiki/File:World_population_
+
+When we are unable to give clean water to children, the nation loses future.
+
+Department of Science and Technology
+
+Thank you

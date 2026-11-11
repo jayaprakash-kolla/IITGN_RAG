@@ -1,0 +1,30 @@
+Title: challenges | Centre for Safety Engineering (CSE)
+Source: https://safety.iitgn.ac.in/challenges
+
+# Engineering Challenge
+
+An engineering challenge on a safety related theme is floated each year and students are invited to propose ideas to address them. Over the years, hundreds of students, ranging from first year freshmen to 4th year seniors across various specializations have enthusiastically participated in these challenges in the ‘Ideation Phase’. An expert panel evaluates their ideas and picks eight finalists based on innovation, feasibility, application and commercial potential of the idea for the 2nd round of ‘Design and Implementation’. These teams are further mentored by experts, encouraged to visit various research labs, and provided an opportunity to pursue internship at UL and other labs abroad. Through these opportunities, the students work on translating their ideas into products. These engineering challenges have birthed several labs on campus including the Fire Engineering Lab, 20 kW Solar PV Roof-top plant, PV research lab, and Electric Vehicle lab.
+
+#### National Fire Database Challenge, 2010
+
+Eighty IITGn students embarked upon the first UL-IITGN challenge of developing innovative ideas to address fire accidents in urban India. To obtain the necessary background students visited fire services in three major Indian cities – Delhi, Mumbai and Ahmedabad., interacted with fire department officials, and were mentored by UL experts from India & US and by chiefs of fire service departments. The expert panel commended the work of all participants, and recommended four teams to graduate to the Conceptualization and Technology development phase. The 8 finalists – Anchit Gaurav, Adnan Ahmad Ansari, Vivek Yadav, Abhishek Umrao, Saurya Prakash Sinha, Divyank Singh, Shruti Jain and Ekta Prashnani also availed a three-week internship at UL, Chicago during summer 2010 . They were also invited to present their ideas in the International Conference on Disaster Mitigation through Fire Safety and Earthquake Engineering 2010, at Ahmedabad.
+
+#### Innovative PV Applications Challenge, 2011
+
+Innovative photovoltaic (PV) applications with special emphasis on performance and safety issues was the theme of the Engineering Challenge in 2011. The four winning teams from the Ideation phase comprising Sunil Patidar, Shubham Chauhan, Divyank Singh, Abhilash Patel, U. Revanth Sandeep, Ravi Teja, Abhishek Kandoi and Maisum Ali Dairkee pursued internship at UL Chicago and at the PV Labs of Case Western Reserve University, Cleveland, OH, USA during the summer of 2012 .
+
+#### Electric Vehicle Challenge, 2012
+
+Eighty IITGn students embarked upon the first UL-IITGN challenge of developing innovative ideas to address fire accidents in urban India. To obtain the necessary background students visited fire services in three major Indian cities – Delhi, Mumbai and Ahmedabad., interacted with fire department officials, and were mentored by UL experts from India & US and by chiefs of fire service departments. The expert panel commended the work of all participants, and recommended four teams to graduate to the Conceptualization and Technology development phase. The 8 finalists – Anchit Gaurav, Adnan Ahmad Ansari, Vivek Yadav, Abhishek Umrao, Saurya Prakash Sinha, Divyank Singh, Shruti Jain and Ekta Prashnani also availed a three-week internship at UL, Chicago during summer 2010 . They were also invited to present their ideas in the International Conference on Disaster Mitigation through Fire Safety and Earthquake Engineering 2010, at Ahmedabad.
+
+#### Safer Water Challenge, 2013
+
+Thirty two students undertook the challenge of designing and developing a research platform for drinking water station for community use. A special seminar by Dr. T.N.V.V.Rao, Head Water Solution, UL and Mr. Ravi Sewak, Country Director, Safe Water Network was arranged for the participants. Students also visited UL, Bangalore to observe different test facilities and technologies for water purification. The two winning teams from the Ideation Phase comprising Manjot Singh, Monish Bhangale, Sanjit Jena, Saurabh Vaichal, Ch Suryavinay Koundinya, Rakesh Ranjan, Shubham Pachori, and Vidyanand Wagh availed a summer internship opportunity at UL Chicago.
+
+#### Electrical Fire : UL Safety Engineering Challenge 2014
+
+Under UL Safety Engineerin Challenge 2014, students worked on Electrical Fire problem and its understanding. Phase 1 of the project included literature review of the causes of electrically induced fires and case studies of some major fires caused by electrical means. Mr Desikan, Director, Operation of UL South Asia announced the winning teams on April 23, 2015. Total eight students selected as winners of UL Challenge 2014. During phase 2 the team worked at IITGN on design of experiments and analysis to study the causes of electrical fires in low voltage applications in greater depth. The major lab scale experiments include ‐ impact of harmonics current in electrical generated sparks, harmonics assessment and thermal analysis of commonly used ballasts, study of sparking at 5 A sockets, and sequence currents in neutral conductor. Many experimental samples were generated to draw technical implications of each study. The work done in phase 2 was extended using the lab facilities at Underwriters Laboratories in Chicago.
+
+#### Roof-top Solar Photovoltaic (PV) Safety: UL Safety Engineering Challenge 2015
+
+Innovative photovoltaic (PV) applications with special emphasis on performance and safety issues was the theme of the Engineering Challenge in 2011. The four winning teams from the Ideation phase comprising Sunil Patidar, Shubham Chauhan, Divyank Singh, Abhilash Patel, U. Revanth Sandeep, Ravi Teja, Abhishek Kandoi and Maisum Ali Dairkee pursued internship at UL Chicago and at the PV Labs of Case Western Reserve University, Cleveland, OH, USA during the summer of 2012 .

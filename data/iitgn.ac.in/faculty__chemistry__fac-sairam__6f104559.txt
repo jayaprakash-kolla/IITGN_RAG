@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Sairam Swaroop Mallajosyula
+Source: https://iitgn.ac.in/faculty/chemistry/fac-sairam
+
+# Sairam Swaroop Mallajosyula
+
+-  Chemistry
+Sairam Swaroop Mallajosyula
+
+## Sairam Swaroop Mallajosyula
+
+Professor, Chemistry
+
+- BSc: Sri Sathya Sai Institute of Higher Learning, Andhra Pradesh, 2002
+- MSc: Sri Sathya Sai Institute of Higher Learning, Andhra Pradesh, 2004
+- PhD: Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore, 2009
+
+Email: msairam -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/iitgn.ac.in/sairamlab/home
+
+Office:  AB 4/324
+VOIP:  2459
+
+Soni, S.; Halder, R.; Luniwal, M.; Mallajosyula, S. S., Unravelling amino acid–graphene interactions: insights from polarizable force field simulations. Nanoscale2025, 17, 27624–27636.
+
+Chythra, J. N.; Yamaguchi, T.; Mallajosyula, S. S., Further Refinement and Validation of the Drude Polarizable Force Field for Carboxylate and N-Acetyl amine Hexopyranose Derivatives. Journal of Chemical Theory and Computation2025, 21, 8533–8556.
+
+Chythra, J. N.; Guvench, O.; MacKerell Jr, A. D.; Yamaguchi, T.; Mallajosyula, S. S., Refinement of the Drude Polarizable Force Field for Hexose Monosaccharides: Capturing Ring Conformational Dynamics with Enhanced Accuracy. Journal of Chemical Theory and Computation2024, 20, 9161–9177.
+
+Hemanth, H.; Mallajosyula, S. S., Graphene: From Solid Support for Nucleobase Assisted Self-Assemblies to Functional Material for DNA Sequencing. Journal of Physical Chemistry C2024, 128, 3091–3112. (Review Article)
+
+Hemanth, H.; Mallajosyula, S. S., Unveiling DNA Translocation in Pristine Graphene Nanopores: Understanding Pore Clogging via Polarizable Simulations. ACS Applied Materials & Interfaces2023, 15 (47), 55095–55108.
+
+Hemanth, H.; Mewada, R.; Mallajosyula, S. S., Capturing Charge and Size Effects of Ions at the Graphene-Electrolyte Interface Using Polarizable Force Field Simulations. Nanoscale Advances2023, 5, 796–804.
+
+Chythra, J. N.; Mallajosyula, S. S., Impact of Polarization on the Ring Puckering Dynamics of Hexose Monosaccharides. Journal of Chemical Information and Modeling2023, 63 (1), 208–223.
+
+- Professor, Indian Institute of Technology Gandhinagar (Jun 2026 to present)
+- Associate Professor, Indian Institute of Technology Gandhinagar (Nov 2021 to Jun 2026)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Dec 2013 - Nov 2021)
+- Postdoctoral Fellow, Computer-Aided Drug Design Center, School of Pharmacy, University of Maryland, Baltimore (May 2009 - Dec 2013)
+
+- ● Carbohydrate-protein interactions
+- ● Novel DNA constructs
+- ● Molecular mechanics force field development

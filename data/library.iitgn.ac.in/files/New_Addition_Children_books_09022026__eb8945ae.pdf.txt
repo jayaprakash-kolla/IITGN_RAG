@@ -1,0 +1,121 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Children Books
+
+GRAPHIC ARTS - COMICS
+Title: Life of A.P.J. Abdul Kalam
+Author: Abhyankar, Gaurav
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 ABH
+Acc. No.: CC2203
+
+Title: Tales from the Panchatantra
+Author: Jose, Aleena Mary
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 JOS
+Acc. No.: CC2209
+
+Title: Timeless Tales from the Vedas and Upanishads
+Author: Patel, Daaji Kamlesh
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 PAT
+Acc. No.: CC2208
+
+Title: Ganesha
+Author: Patwardhan, Anushree
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 PAT
+Acc. No.: CC2216
+
+Title: Hanuman
+Author: Singh, Pallavi
+Publisher: Chennai: Westland Books, 2024
+Call No.: 741.5 SIN
+Acc. No.: CC2215
+
+Title: Krishna
+Author: Sudharshan, Hemant
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 SUD
+Acc. No.: CC2214
+
+Title: Shiva
+Author: Sudarshan, Hemant
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 SUD
+Acc. No.: CC2217
+
+Title: Tenali Rama
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 TAM
+Acc. No.: CC2197 & CC2198
+
+Title: Akbar & Birbal
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 TAM
+Acc. No.: CC2199 & CC2200
+
+Title: Sheikh Chilli
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 TAM
+Acc. No.: CC2201
+
+Title: Vikram & Betal
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 TAM
+Acc. No.: CC2202
+
+Title: Life of Bhagat Singh
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 TAM
+Acc. No.: CC2204
+
+Title: Life of Swami Vivekananda
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2024
+Call No.: 741.5 TAM
+Acc. No.: CC2205
+
+Title: Life of Chanakya
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 TAM
+Acc. No.: CC2206
+
+Title: Tales from the Jatakas
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 TAM
+Acc. No.: CC2207
+
+Title: Story of Ganesha
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 TAM
+Acc. No.: CC2210
+
+Title: Story of Shiva
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 TAM
+Acc. No.: CC2211
+
+Title: Story of Hanuman
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2024
+Call No.: 741.5 TAM
+Acc. No.: CC2212
+
+Title: Story of Krishna
+Author: Tamhankar, Rajeev
+Publisher: Chennai: Westland Books, 2025
+Call No.: 741.5 TAM
+Acc. No.: CC2213

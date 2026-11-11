@@ -1,0 +1,157 @@
+#flags:
+
+## Sheet: Sheet1
+Institute Name |  |  |  |  |  |  |  |
+India Rankings 2017 ID |  |  |  |  |  |  |  |
+Discipline |  |  |  |  |  |  |  |
+Parameter | Details of Top Universities where your graduates have been admitted for higher studies |  |  |  |  |  |  |
+3D.GTOP | S.No. | Name of the student of your institution | Graduating year
+of the student | PG/PhD program in where student has been admitted | Name of the top university/institutions | Year of
+admission |  |
+ | 1 | Luv Gupta | 2012 | MS | Stanford University | 2008 |  |
+ | 2 | Yogesh Goyal | 2012 | MS & PhD | Princeton University | 2008 |  |
+ | 3 | Vivek Yadav | 2012 | PhD | University of Houston | 2008 |  |
+ | 4 | Saurabh Hiten Nagrecha | 2012 | PhD | University of Notre Dame | 2008 |  |
+ | 5 | Kishore R | 2012 | MS | The University of North Carolina at Chapel Hill | 2008 |  |
+ | 6 | Lalitha Anusha | 2012 | PhD | University of California, San Diego | 2008 |  |
+ | 7 | Prerit Terway | 2012 | MS | University of Michigan, Ann Arbor | 2008 |  |
+ | 8 | Tembhekar Ishan Deodatta | 2012 | MS & PhD | Caltech | 2008 |  |
+ | 9 | Swetava Ganguli | 2012 | MS & PhD | Stanford University | 2008 |  |
+ | 10 | Nadkarni Neel Prashant | 2012 | MS & PhD | Caltech | 2008 |  |
+ | 11 | Vineeth Dasaraju | 2012 | MS | University of Florida | 2008 |  |
+ | 12 | VRD Santosh Kumar | 2012 | MBA | Western Virginia University | 2008 |  |
+ | 13 | Yalla Sushmitha | 2012 | MS | University of North Carolina at Charlotte | 2008 |  |
+ | 14 | Kajori Das | 2012 | MBA | IIM Ahmedabad | 2008 |  |
+ | 15 | Parichita Kapoor | 2012 | MBA | IIM Kozhikode | 2008 |  |
+ | 16 | Anusha Gunturu | 2012 | M.Tech | IIT Delhi | 2008 |  |
+ | 17 | Ankit Agarwal | 2012 | MBA | IIM Kozhikode | 2008 |  |
+ | 18 | Nitesh Gupta | 2012 | M.Tech | IIT Delhi | 2008 |  |
+ | 19 | V. Naveen Deepak | 2012 | PhD | IIT Gandhinagar | 2008 |  |
+ | 20 | Nitish Choudhary | 2012 | PhD | IIT Gandhinagar | 2008 |  |
+ | 21 | Naveen Kumar Endla | 2012 | PhD | IIT Gandhinagar | 2008 |  |
+ | 22 | Nikhil Haridas | 2012 | PGP | XLRI Jamshedpur | 2008 |  |
+ | 23 | Nishant Joshi | 2012 | PGP | IIM Lucknow | 2008 |  |
+ | 24 | Jeenam Jindal | 2012 | PGP | IIM Kozhikode | 2008 |  |
+ | 25 | Vivek Maheshwary | 2012 | MBA | IIFT Kolkata | 2008 |  |
+ | 26 | Arava Pavan Kishore | 2012 | M.Tech | IIT Madras | 2008 |  |
+ | 27 | Abhishek Umrao | 2012 | M.Des | NID Bangalore | 2008 |  |
+ | 28 | G. Naveen | 2012 | PhD | IIT Bombay | 2008 |  |
+ | 29 | Shruti Jain | 2013 | PhD | University of Texas, Austin | 2009 |  |
+ | 30 | Kotu Susmitha Purnima | 2013 | PhD | Texas A & M University | 2009 |  |
+ | 31 | Shalinee Kavadiya | 2013 | PhD | Washington University in St.Louis | 2009 |  |
+ | 32 | Aditi Dighe | 2013 | PhD | Duke University | 2009 |  |
+ | 33 | Ekta Prashnani | 2013 | MS & PhD | University of California, Santa Barbara | 2009 |  |
+ | 34 | Narendranath Balasubramoni | 2013 | MS | Cornell University | 2009 |  |
+ | 35 | Chetas Joshi | 2013 | MS | Purdue University | 2009 |  |
+ | 36 | Suresh Ramasamy | 2013 | MS | Carnegie Mellon University | 2009 |  |
+ | 37 | Abhijith Rajiv | 2013 | MS | University of Washington , Seattle | 2009 |  |
+ | 38 | Pratham Shah | 2013 | Master of Product
+Development | Carnegie Mellon University | 2009 |  |
+ | 39 | Mohak Patel | 2013 | PhD | Brown University | 2009 |  |
+ | 40 | Shrankhla Narya | 2013 | Graduate Program
+ in Design | University of Texas, Austin | 2009 |  |
+ | 41 | N. Lalitha Pragna | 2013 | MS | University of Nebraska - Lincoln | 2009 |  |
+ | 42 | Shashank Naphade | 2013 | MS | Texas A&M University | 2009 |  |
+ | 43 | Shivani Rani | 2013 | PhD | University of Oklahoma | 2011 |  |
+ | 44 | Satyajit | 2013 | PhD | IIT KGP | 2011 |  |
+ | 45 | Nidal | 2013 | PhD | IIT Delhi | 2011 |  |
+ | 46 | Pranav Bagaria | 2014 | PhD | Texas A & M University | 2010 |  |
+ | 47 | Smit Shah | 2014 | PhD | Texas A & M University | 2010 |  |
+ | 48 | Akshay Jain | 2014 | PhD | Texas A & M University | 2010 |  |
+ | 49 | Mayank Jhalaria | 2014 | MS | Cornell University | 2010 |  |
+ | 50 | Pamulapati Sushma Sri | 2014 | PhD | RICE University | 2010 |  |
+ | 51 | Aishwarya Agrawal | 2014 | PhD | Virginia Tech | 2010 |  |
+ | 52 | Ameya Joshi | 2014 | MS | Stanford University | 2010 |  |
+ | 53 | Balaji Venkatesh | 2014 | MS | University of California, Irvine | 2010 |  |
+ | 54 | Kartik Saxena | 2014 | MS | University of California, Irvine | 2010 |  |
+ | 55 | Smit Soni | 2014 | MS | University of California, Irvine | 2010 |  |
+ | 56 | Yash Goyal | 2014 | PhD | Virginia Tech | 2010 |  |
+ | 57 | Akash Bapat | 2014 | MS and PhD | The University of North Carolina at Chapel Hill | 2010 |  |
+ | 58 | Spandan J Das | 2014 | M.Engg | Cornell University | 2010 |  |
+ | 59 | Deep Karpe | 2014 | MS | University of Florida | 2010 |  |
+ | 60 | Dhwanil Shukla | 2014 | PhD | Georgia Institute of Technology | 2010 |  |
+ | 61 | Nakul Nuwal | 2014 | MS | Purdue University | 2010 |  |
+ | 62 | Nihar Kotak | 2014 | MS | Carnegie Mellon University | 2010 |  |
+ | 63 | Sanket Mahajan | 2014 | PGP | IIM Calcutta | 2010 |  |
+ | 64 | Bhaskarjyoti Das | 2014 | MDes | NID Ahmedabad | 2010 |  |
+ | 65 | Durgesh Bagri | 2014 | MA | Hindu College, University of Delhi | 2010 |  |
+ | 66 | Snigdha Manogyna | 2014 | PGP | IIM Ahmedabad | 2010 |  |
+ | 67 | Ankita Sharma | 2014 | PGP | IIM Ahmedabad | 2010 |  |
+ | 68 | Saksham Kohli | 2014 | PGP | IIM Lucknow | 2010 |  |
+ | 69 | Ritu Gavasane | 2014 | PGP | IIM Calcutta | 2010 |  |
+ | 70 | Bhavya Madasu | 2014 | M.Tech | IIT Madras | 2010 |  |
+ | 71 | Rohan Kokane | 2014 | PGP | IIM Lucknow | 2010 |  |
+ | 72 | Amita Bedar | 2014 | PhD | IIT Bombay - Monash Academy | 2012 |  |
+ | 73 | Satyajit Mohapatra | 2014 | PhD | IIT Gandhinagar | 2012 |  |
+ | 74 | Laya | 2014 | PhD | IIT Gandhinagar | 2012 |  |
+ | 75 | Ritesh Jain | 2014 | Research Assistanship | Bergische University, Wuppertal, Germany | 2012 |  |
+ | 76 | Sreejith R. | 2014 | PhD | IIT Gandhinagar/Delhi | 2012 |  |
+ | 77 | Rachit Prasad | 2014 | PhD | Virginia Tech | 2012 |  |
+ | 78 | Roshan Anandrao Chavan | 2014 | PhD | IIT Gandhinagar | 2012 |  |
+ | 79 | Rohit Mishra | 2014 | PhD | IIT Gandhinagar | 2012 |  |
+ | 80 | P. Raja Mohan Reddy | 2014 | PhD | IIT Gandhinagar | 2012 |  |
+ | 81 | Nandan Vora | 2015 | MS | Clemson University, SC, USA | 2011 |  |
+ | 82 | Shanmukha Manoj | 2015 | MS | University of Maryland, Maryland, US | 2011 |  |
+ | 83 | Shaurya Seth | 2015 | MS | North Carolina State University, NC, US | 2011 |  |
+ | 84 | Sukriti Gakhar | 2015 | PhD | University of California, Davis, USA | 2011 |  |
+ | 85 | Tushti Shah | 2015 | PhD | University of Texas at Austin, TX, US | 2011 |  |
+ | 86 | Ishan Upadhyaya | 2015 | MS | University of California, Los Angeles, USA | 2011 |  |
+ | 87 | Kimaya Uday Kale | 2015 | MS | Georgia Institute of Technology, GA, USA | 2011 |  |
+ | 88 | Raj Shah | 2015 | MS | Stanford University, CA, USA | 2011 |  |
+ | 89 | Rohan Patidar | 2015 | MS | University of Washington, WA, USA | 2011 |  |
+ | 90 | P.Sandeep Reddy | 2015 | MS | University of Maryland, Maryland, US | 2011 |  |
+ | 91 | Thrinath Reddy | 2015 | MS | Texas A & M University, TX, USA | 2011 |  |
+ | 92 | Vaibhav Gandhi | 2015 | MEng | University of Southern California, USA | 2011 |  |
+ | 93 | Aashrith Koundinya | 2015 | PhD | University of Wisconsin, Madison, WI, US | 2011 |  |
+ | 94 | Abhishek Navarkar | 2015 | MEng | University of Tokyo, Tokyo, Japan | 2011 |  |
+ | 95 | Gaurav Mahamuni | 2015 | PhD | University of Washington, WA, USA | 2011 |  |
+ | 96 | B. Manasa | 2015 | PhD | University of Washington, WA, USA | 2011 |  |
+ | 97 | Rounak Mehta | 2015 | MS | Duke University, NC, USA | 2011 |  |
+ | 98 | Apoorv Patwardhan | 2015 | MS | Columbia University, NY, USA | 2011 |  |
+ | 99 | Mihika Shah | 2015 | PhD | Homi Bhabha Centre for Science Education, TIFR, Mumbai, India | 2011 |  |
+ | 100 | Mishita Jaiswal | 2015 | PGP | Indian Institute of Management Bangalore | 2011 |  |
+ | 101 | Soham Harshe | 2015 | M.Tech | Indian Institute of Technology Bombay | 2011 |  |
+ | 102 | Sachchit Vekaria | 2015 | M.Tech | Indian Institute of Technology Bombay | 2011 |  |
+ | 103 | Simily Sabu | 2015 | PhD | Central European University, Hungary | 2013 |  |
+ | 104 | Goldy Yadav | 2015 | PhD | Indian Institute of Technology Gandhinagar | 2013 |  |
+ | 105 | Palash Jana | 2015 | PhD | Indian Institute of Technology Gandhinagar | 2013 |  |
+ | 106 | Amarjyoti Das Mahapatra | 2015 | PhD | Indian Institute of Technology Gandhinagar | 2013 |  |
+ | 107 | Ashok Kumar | 2015 | PhD | Indian Institute of Technology Kanpur | 2013 |  |
+ | 108 | Gunda Harini | 2015 | PhD | Indian Institute of Technology Gandhinagar | 2013 |  |
+ | 109 | Dhaval Solanki | 2015 | PhD | Indian Institute of Technology, Gandhinagar | 2013 |  |
+ | 110 | Krishna Kumar Saxena | 2015 | PhD | University of Auckland, New Zealand | 2013 |  |
+ | 111 | Puneet Kumar | 2015 | PhD | Michigan State University | 2013 |  |
+ | 112 | Ganeriwala Mohit Dineshkumar | 2015 | PhD | Indian Institute of Technology Gandhinagar | 2013 |  |
+ | 113 | Bhoir Mandar Suresh Smita | 2015 | PhD | Indian Institute of Technology Gandhinagar | 2013 |  |
+ | 114 | Vighnesh Prasad | 2015 | PhD | Indian Institute of Technology Gandhinagar | 2013 |  |
+ | 115 | Nishit Shetty | 2016 | PhD | Washington University in St. Louis | 2012 |  |
+ | 116 | Yash Sultania | 2016 | MBA | IIM Indore | 2012 |  |
+ | 117 | Yash Mehta | 2016 | MS+PhD | Rice University | 2012 |  |
+ | 118 | Gullapally Sai Chowdary | 2016 | MS | University of California San Diego | 2012 |  |
+ | 119 | Pranshul Saini | 2016 | MS | TU Munich, Germany. | 2012 |  |
+ | 120 | Nirmal Jayaprasad | 2016 | MS | University of Illinois, Urbana Champaign | 2012 |  |
+ | 121 | Animesh Kumawat | 2016 | MSc | University of Toronto | 2012 |  |
+ | 122 | Sri Raghu Malireddi | 2016 | M.Sc | University of Victoria, British Colombia | 2012 |  |
+ | 123 | Radhika Pramod Patil | 2016 | MS | Stanford University | 2012 |  |
+ | 124 | K.Abhishek | 2016 | MBA | IIM Kozhikode | 2012 |  |
+ | 125 | Chinmay Ajnadkar | 2016 | MME | Duke University | 2012 |  |
+ | 126 | Kishore Kumar | 2016 | MS | Arizona State University | 2012 |  |
+ | 127 | Lavdeep Kaur | 2016 | MA | Tata Institute of Social Sciences | 2012 |  |
+ | 128 | Jithin Prabha | 2016 | MS | Purdue University | 2012 |  |
+ | 129 | Jagini Kumar | 2016 | PhD | IIT Gandhinagar | 2014 |  |
+ | 130 | Akash Kumar Mishra | 2016 | PhD | IIT GANDHINAGAR | 2014 |  |
+ | 131 | Ravi Srivastava | 2016 | Doctoral Program | University Claude Bernard Lyon | 2014 |  |
+ | 132 | Amit Kumar Singh | 2016 | PhD | IIT Gandhinagar | 2014 |  |
+ | 133 | Abheeti Goyal | 2016 | PhD | TU Eindhoven | 2014 |  |
+ | 134 | jyoti maheshwari | 2016 | PhD | Imperial college London | 2014 |  |
+ | 135 | Nikhil Cherian Kurian | 2016 | PhD | Royal Melbourne institute of technology, Melbourne, Australia. | 2014 |  |
+ | 136 | Ekta Sharma | 2016 | PhD | IIT Bombay | 2014 |  |
+ | 137 | vandana rajput | 2016 | PhD | IITGN | 2014 |  |
+ | 138 | Manish Kumar Vishwakarma | 2016 | PHD | IIT Bombay | 2014 |  |
+ | 139 | Mohmad Mohsin Thakur | 2016 | PhD | University of Tennessee, Knoxville | 2014 |  |
+ | 140 | Sarkar Aditya Anjan | 2016 | PhD | Indian Institute of Technology, Bombay | 2014 |  |
+ | 141 | Kumari Sushmita | 2016 | PhD | IIT Gandhinagar | 2014 |  |
+ | 142 | Akshay Gadi Patil | 2016 | PhD | Simon Fraser University, Burnaby, Canada | 2014 |  |
+ | 143 | Ratna Bharati B | 2016 | MPhil | Hyderabad Central University | 2014 |  |
+## Sheet: Sheet2
+## Sheet: Sheet3

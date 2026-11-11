@@ -1,0 +1,130 @@
+#flags:
+
+66047/2025/ISTF
+
+INDIAN INSTITUTE OF TECHNOLOGY GANDHINAGAR
+Palaj Campus, Gandhinagar Gujarat – 382055
+28-Jan-2025
+
+Advertisement
+Applications are invited for One (1) contractual position of “IT Associate II” at ISTF, IIT Gandhinagar.
+
+Name of the Post
+
+IT Associate II
+
+Consolidated Monthly Pay
+
+Rs. 50,000/- to Rs. 78,000/- per month based on the experience and
+credentials of the candidate.
+
+Tenure
+
+One year, with the possibility of extension based on the
+incumbent’s satisfactory performance and the institute’s
+requirements.
+
+Mandatory Eligibility Criteria
+
+1.​ M.Tech/M.E/M.S in CSE/IT.
+Or
+B.Tech. / B.E. (regular) in CSE/IT or MCA/M.Sc.(IT) with a
+minimum of 02 years of post qualification experience in HPC
+(High-Performance Computing) application and tools support..
+Or
+B.C.A./B.Sc (IT). with a minimum of 06 years of post-qualification
+experience, out of which a minimum of 02 years experience in
+HPC (High-Performance Computing) application and tools
+support.
+2.​ The percentage/grade points with respect to the academic
+qualifications will be a minimum of 60% or equivalent grade from
+Graduation onwards and 55% or equivalent grade in class 10th
+and 12th.
+
+1
+File No. ISTF-ESTT0REC/2/2025-ISTF (Computer No. 36772)
+Generated from eOffice by TEJ BAHADUR GURUNG, ASSISTANT,EA, TG, Assistant, External Affairs, IIT Gandhinagar on 30/01/2025 05:27 PM
+
+66047/2025/ISTF
+
+Desirable
+
+Job Description
+
+1.​ Experience with programming languages such as Python, Shell
+scripting, or similar languages.
+2.​ Practical experience with job schedulers (e.g., SLURM, PBS)
+and MPI in parallel computing environments.
+3.​ Proficiency in using system monitoring tools (e.g., Ganglia,
+Nagios) and handling system logging.
+4.​ Familiarity with cloud-based HPC platforms.
+5.​ Knowledge of virtualization, containerization (e.g., Docker), and
+configuration management tools (e.g., Ansible, Puppet).
+6.​ Prior experience in managing scientific/research-oriented
+computing environments.
+7.​ Strong troubleshooting and problem-solving skills, especially for
+high-performance systems.
+8.​ Awareness of security protocols, system backup procedures, and
+disaster recovery processes.
+9.​ Solid experience in Linux/Unix system administration.
+10.​Profound knowledge of parallel computing, job scheduling, and
+resource management for high-performance systems.
+11.​Familiarity with HPC clusters, storage systems, and performance
+optimization techniques.
+●​ Administer, maintain, and enhance HPC systems, including
+clusters, storage, and network resources.
+●​ Provide technical support for users involved in computational
+tasks, simulations, and research-related applications.
+●​ Monitor system performance, troubleshoot issues, and carry out
+diagnostics to ensure system health.
+●​ Manage user accounts and access control and implement
+security measures for the HPC environment.
+●​ Install, configure, and update HPC-related software applications.
+●​ Assist researchers in deploying and optimizing applications for
+computational efficiency.
+●​ Help set up and manage parallel computing environments and
+job schedulers (e.g., SLURM, PBS).
+●​ Collaborate with the research community to improve system
+capabilities and optimize workflows.​ ​
+​
+​
+
+How to Apply:
+●​ Interested candidates are requested to apply online through this link.
+●​ No manual / Paper / Email application will be entertained.
+●​ Read the instructions carefully and fill in the online application form providing accurate
+information about your candidature.
+●​ The last date for submitting the online application will be 15 days from the date of
+advertisement publication.
+2
+File No. ISTF-ESTT0REC/2/2025-ISTF (Computer No. 36772)
+Generated from eOffice by TEJ BAHADUR GURUNG, ASSISTANT,EA, TG, Assistant, External Affairs, IIT Gandhinagar on 30/01/2025 05:27 PM
+
+66047/2025/ISTF
+
+General Conditions and Instructions:
+●​ The position is purely temporary and contractual.
+●​ Degrees for meeting qualification must be awarded by a reputed and recognized
+University/Institution.
+●​ The candidates should bring all original documents while appearing for an interview
+(online/offline). (starting from 10th standard to higher degree).
+●​ Selection will be based on the interview (online/offline) performance of the candidate.
+●​ No TA/DA will be given for attending the interview.
+●​ The selected candidate will not have any legal right to claim his/her
+regularization/appointment by absorption or otherwise against any regular posts or any
+other contractual engagement.
+●​ Institute reserves the right to fill up the post, not to fill up the post or cancel the
+advertisement in whole or part without assigning any reason, and to waive/relax any
+conditions of the advertisement. The Institute will also reserve the right to place a
+reasonable limit on the total number of candidates to be called for a test and/or interview.
+The decision of the Institute in this regard will be final.
+●​ No interim correspondence will be entertained. Canvassing in any form shall lead to
+automatic disqualification.
+●​ For a query related to the submission of an online application, you may send an email to
+istf@iitgn.ac.in.
+●​ Candidates are advised to mention their correct and active email address in the
+application, as all the correspondence will be communicated through email only.
+
+3
+File No. ISTF-ESTT0REC/2/2025-ISTF (Computer No. 36772)
+Generated from eOffice by TEJ BAHADUR GURUNG, ASSISTANT,EA, TG, Assistant, External Affairs, IIT Gandhinagar on 30/01/2025 05:27 PM

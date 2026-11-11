@@ -1,0 +1,38 @@
+Title: IIT Gandhinagar | Kamla Prasan Ray
+Source: https://iitgn.ac.in/faculty/ee/fac-kamla-prasan-ray
+
+# Kamla Prasan Ray
+
+-  Electrical Engineering
+Kamla Prasan Ray
+
+## Kamla Prasan Ray
+
+Professor of Practice, Electrical Engineering
+
+- MSc: University of Delhi, 1983
+- MTech: University of Delhi, 1985
+- PhD: IIT Bombay, 1998
+
+Email: kp.ray -AT- iitgn.ac.in
+
+Office:  AB 13/321A
+VOIP:  2640
+
+- D. S. Gyan, K. P. Ray and A. K. Poddar, “Generation of Higher Order OAM Waves with Single Point Fed Circular Microstrip Antenna using Bifurcated Cylindrical Harmonics”, Accepted for publication in IEEE Transaction in Antennas & Propagation 2024
+- A. K. Singh, B. B. Padhy, K. P. Ray, “Compact Circular Microstrip 1:4 Power Divider/Combiner With Defected Ground Plane”, Accepted for publication in Journal of Electromagnetic Waves and Applications (Taylor & Francis), pp. , July 2024
+- Y. Kumar, A. Shukla and K. P. Ray, “Design And Analysis of 25 Watt Broad-Band GaN HEMT Based Power Amplifier”, IETE Journal of Research (Taylor & Francis), pp. 1-12, 16 May 2024, DOI: 10.1080/03772063.2024.2350928
+- K. Raha and K. P. Ray, “Ground Penetrating Radar Model and its Validation using Developed Prototype”, Wireless Personal Communication, Springer, pp. 1-12, 30 April 2024. doi: https://doi.org/10.1007/s11277-024-11123-1
+- A. Shukla and K. P. Ray, “Design and development of GaN based power amplifier for Radar applications”, IETE Technical Review (Taylor & Francis), PP. 1-21, 30 April 2024, https://doi.org/10.1080/02564602.2024.2341056
+
+Professor of Practice, Indian Institute of Technology Gandhinagar (June 2025 to Present)
+Head, Electronics Engineering Dept &
+Director of School of Radar Technology, Defence Institute of Advanced Technology (DIAT), DRDO, Ministry of Defence
+
+- ● Electromagnetics
+- ● Radiating Systems
+- ● RF/Microwaves
+- ● Radars
+- ● EMI/EMC/NEMP
+- ● EW
+- ● Industrial/Medical Applications

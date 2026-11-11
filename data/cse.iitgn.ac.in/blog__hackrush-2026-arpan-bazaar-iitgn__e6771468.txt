@@ -1,0 +1,70 @@
+Title: Bazaar@IITGN: A Campus Marketplace for Hackrush 2026
+Source: https://cse.iitgn.ac.in/blog/hackrush-2026-arpan-bazaar-iitgn
+
+AR
+
+Arpan
+2 May 2026· 3 min read
+
+Bazaar@IITGN is a peer-to-peer campus marketplace built exclusively for the IIT Gandhinagar community. The motivation came from a familiar student problem: someone wants to sell an old cycle before the semester ends, or find an affordable textbook before exams, but there is no reliable, trusted platform designed for the campus.
+
+Generic marketplaces and informal WhatsApp groups do not provide proximity, institutional trust, or community context. Bazaar@IITGN addresses this by creating a closed, verified marketplace where only @iitgn.ac.in accounts can participate. Students can list items for sale, rent, or trade; negotiate through real-time chat; and build a visible reputation over time.
+
+## Design Thinking
+
+The core question was: what makes a campus marketplace different from a general marketplace?
+
+That led to three pillars:
+
+- Trust is institutional. Access is gated through Google OAuth with a hard IITGN domain restriction.
+- Reputation must be earned. A karma system rewards good traders and penalizes bad behavior.
+- Negotiation is normal. Students rarely treat prices as fixed, so offers and counteroffers needed first-class support.
+Once these ideas were clear, the technical architecture followed naturally.
+
+## Architecture
+
+The project is a client-server monorepo with two independently deployable units:
+
+- A React 19 single-page frontend built with Vite, styled using Tailwind CSS, and state-managed through Zustand.
+- A Node.js and Express 5 backend with Socket.IO for real-time features and MongoDB Atlas for storage.
+The frontend communicates through Axios for REST operations and a singleton socket.io-client instance for live events. The backend exposes multiple Express routers and a WebSocket handler, all protected by JWT middleware.
+
+The system integrates Google OAuth for authentication, Cloudinary for image upload and CDN delivery, GPT-4o-mini for report moderation and listing-description refinement, and a QR service for UPI payment requests.
+
+## The Karma Engine
+
+The trust backbone of the platform is a composite karma score:
+karma = (successfulTrades * 15) + ((averageRating - 3) * 10) + (accountAgeDays * 0.1) + (totalListings * 2) - (flagsReceived * 20)
+The 3-star baseline means average behavior contributes nothing; a user has to trade well to benefit. Flags carry a strong penalty, and account age grows slowly so long-term community participation is rewarded without giving newcomers an easy shortcut.
+
+Karma maps to four visible tiers: New Member, Trusted Trader, Community Pillar, and Campus Legend. These tiers appear on profiles and listings, making reputation part of the browsing experience.
+
+## Negotiation as a State Machine
+
+Negotiation is modeled with a formal offer state machine:
+pending -> countered -> accepted -> completed | | v v rejected cancelled
+When an offer is accepted, the listing is marked reserved, competing offers are auto-rejected, and trade counts increment for both parties. Completion uses a dual-handshake protocol: both buyer and seller must independently confirm the physical handover before the listing moves to sold.
+
+At that point, the listing description, images, and FAQs are scrubbed from the database. This was a deliberate privacy-first decision.
+
+## Real-Time UX Details
+
+One subtle feature is notification deduplication. If both parties are already active in the same chat, the server avoids creating extra notifications. It inspects the Socket.IO room adapter to determine whether the recipient is present in the relevant offer room. If the recipient is active, the message appears live in the chat instead of producing redundant notification noise.
+
+The platform also works as a PWA. Cache strategies are split by data type: dynamic API data uses a network-first strategy, while images and static assets use cache-first behavior. Authentication distinguishes between invalid tokens and offline failures, so a user is not logged out just because the network is bad.
+
+## Challenges and Result
+
+React Strict Mode caused duplicate WebSocket connections during development. This was fixed with a connection guard. Another challenge was keeping listing scores consistent when a seller’s karma changed after reviews or report resolution; a utility recalculates active seller listings so search rankings remain correct.
+
+Offline behavior also needed careful scoping. Full message history was too large to persist, but the active chat and offer list could be stored through Zustand’s persistence layer so users still see ongoing negotiations.
+
+The final result is a deployable campus marketplace with IITGN-only authentication, a karma-based reputation system, real-time negotiation chat, privacy-aware trade completion, AI-assisted listing and moderation workflows, UPI payment requests, and PWA support.
+
+Deployed link: https://iitgn-bazzar-client.vercel.app
+
+## Related Articles
+
+01 MayBuilding a Rule-Aware Snake Bot for Hackrush 2026#hackrush2026Game AI
+03 MayFew-Shot Bone Marrow Cell Classification at Hackrush 2026#hackrush2026Machine Learning
+04 MayHardware-Friendly Activation Functions at Hackrush 2026#hackrush2026Computer Architecture

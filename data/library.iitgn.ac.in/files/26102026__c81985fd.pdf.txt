@@ -1,0 +1,86 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 43, 2026
+(Added during 19th– 23rd October 2026)
+Available for the issue from 31st October 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Shared-Memory synchronization, 2nd ed.
+Author: Scott, Michael L.
+Publisher: Cham: Springer, 2024
+Call No.: 005.43 SCO
+Acc. No.: 037393
+
+SOCIAL SCIENCE
+Title: Tamils: a portrait of a community
+Author: Lakshman, Nirmala
+Publisher: New Delhi: Aleph Book Company, 2025
+Call No.: 305.794811 LAK
+Acc. No.: 037389
+
+ECONOMICS
+Title: Fabless: the transformation of the semiconductor Industry
+Author: Nenni, Daniel
+Publisher: Chambersburg: Semiwiki.com Project, 2013
+Call No.: 338.476213 NEN
+Acc. No.: 037397
+
+MATHEMATICS
+Title: Copositive and completely positive matrices
+Author: Shaked-Monderer, Naomi
+Publisher: Singapore: World Scientific Publishing, 2021
+Call No.: 512.9434 SHA
+Acc. No.: 037399
+
+GEOLOGY & PETROLOGY
+Title: Reading's sedimentary environments: processes, facies and stratigraphy, 4th
+ed.
+Author: Levell, Bruce (Ed.)
+Publisher: Hoboken: Wiley, 2026
+Call No.: 551.303 LEV
+Acc. No.: 037388
+Title: Handbook of siliciclastic facies: a guide to the interpretation of depositional
+environments
+Author: Feldman, Howard (Ed.)
+Publisher: Claremore: Society of Sedimentary Geology, 2024
+Call No.: 552.5 FEL
+Acc. No.: 037395
+
+Title: Understanding carbonate processes, deposition and preservation:
+breakthroughs and challenges
+Author: Rendall, Ben (Ed.)
+Publisher: Claremore: Society of Sedimentary Geology, 2025
+Call No.: 552.58 REN
+Acc. No.: 037396
+
+BIOLOGY
+Title: Molecular biology of the gene, 9th ed.
+Author: Watson, James D
+Publisher: New Delhi: CBS Publishers & Distributors, 2026
+Call No.: 572.8 WAT
+Acc. No.: 037394
+
+BOTANY
+Title: Trees of my country: a natural history of India in 50 trees
+Author: Raman, T. R. Shankar
+Publisher: New Delhi: Aleph Book Company, 2026
+Call No.: 582.16 RAM
+Acc. No.: 037390
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Metrology for engineers, 5th ed.
+Author: Galyer, J.F.W.
+Publisher: London: Cassell, 1996
+Call No.: 620.0044 GAL
+Acc. No.: 037398

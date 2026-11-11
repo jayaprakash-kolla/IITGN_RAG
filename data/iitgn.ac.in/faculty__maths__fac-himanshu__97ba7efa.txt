@@ -1,0 +1,43 @@
+Title: IIT Gandhinagar | Himanshu Gupta
+Source: https://iitgn.ac.in/faculty/maths/fac-himanshu
+
+# Himanshu Gupta
+
+-  Mathematics
+Himanshu Gupta
+
+## Himanshu Gupta
+
+Assistant Professor, Mathematics
+
+- BSc Math Hons: University of Delhi, 2015
+- MS Math: Indian Institute of Science, 2018
+- PhD Math: University of Delaware, 2023
+
+Email: himanshugupta -AT- iitgn.ac.in
+
+ Website :  https://himanshugupta23.github.io/
+
+Office:  5/348
+VOIP:  2476
+
+- Entrywise transforms preserving matrix positivity and non-positivity, D. Guillot, H. Gupta, P. K. Vishwakarma and C. H. Yip, Journal of the London Mathematical Society 113(5), e70560, 2026. https://doi.org/10.1112/jlms.70560
+- Inverse eigenvalue problem for Laplacian matrices of a graph, S. Fallat, H. Gupta and J. C.-H. Lin, SIAM Journal on Matrix Analysis and Applications 46(3), 1866-1886, 2025. https://doi.org/10.1137/24M1714472
+- Positivity preservers over finite fields, D. Guillot, H. Gupta, P. K. Vishwakarma and C. H. Yip, Journal of Algebra 684, 479-523, 2025. https://doi.org/10.1016/j.jalgebra.2025.07.016
+- Sufficient conditions for total positivity, compounds, and Dodgson condensations, S. Fallat, H. Gupta and C. R. Johnson, Linear Algebra and its Applications 709, 189-202, 2025. https://doi.org/10.1016/j.laa.2025.01.016
+- On the eigenvalues of the graphs D(5,q), H. Gupta and V. Taranchuk, Finite Fields and Their Applications 94, 102358, 2024. https://doi.org/10.1016/j.ffa.2023.102358
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Oct 2026 - Present)
+- Postdoctoral Fellow, University of Regina (Aug 2025 - Aug 2026)
+- PIMS Postdoctoral Fellow, University of Regina (Aug 2023 - Aug 2025)
+
+Awards
+
+- PIMS Postdoctoral Fellowship, 2023-2025
+- Baxter Sloyer Graduate Teaching Award, University of Delaware, 2022
+
+- ● Algebraic Graph Theory
+- ● Combinatorial Matrix Theory
+- ● Finite Fields
+
+Complete List of Publications

@@ -1,0 +1,207 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 11, 2026
+(Added during 09th March 2026– 13th March 2026)
+Available for the issue from 21st March 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Deep learning for computational imaging
+Author: Heckel, Reinhard
+Publisher: Oxford: Oxford University Press, 2025
+Call No.: 006.31 HEC
+Acc. No.: 036774
+
+SOCIAL SCIENCES
+Title: Memes for mummyji: making sense of post-smartphone India
+Author: Desai, Santosh
+Publisher: Gurugram: HarperCollins Publishers India, 2025
+Call No.: 302.231 DES
+Acc. No.: 036763
+Title: Scum of the Earth: a true story from the margins
+Author: Sonawane, Rakshit
+Publisher: Gurugram: Harper Non-Fiction, 2025
+Call No.: 305.5688092 SON
+Acc. No.: 036781
+Title: Nagas: the knowledge practitioners
+Author: Kanungo, Alok Kumar
+Publisher: Oxon: Routledge, 2026
+Call No.: 305.8954 KAN
+Acc. No.: 036761 & 036762
+Title: Hard realities: India, Pakistan, China in an emerging new world
+Author: Singh, Amarjit
+Publisher: New Delhi: Lancer Publishers and Distributions, 2020
+Call No.: 327.54 SIN
+Acc. No.: 036771
+
+ECONOMICS
+Title: Groundbreaker: risks, rewards, and lessons from a legendary entrepreneur
+Author: Rekhi, Kanwal
+Publisher: Gurugram: Harper Business, 2026
+Call No.: 338.04092 REK
+Acc. No.: 036773
+
+SOCIAL & OTHER PROBLEMS
+Title: Environmental studies from India: engaging with the planetary ecological
+crisis
+Author: Vasan, Sudha (Ed.)
+Publisher: Oxford: Oxford University Press, 2025
+Call No.: 363.700954 VAS
+Acc. No.: 036777
+
+Title: Backstage climate: the science and politics behind climate change
+Author: Mehta, Rajan
+Publisher: Chennai: Westland Non-fiction, 2024
+Call No.: 363.73874 MEH
+Acc. No.: 036783
+Title: Climate change 2100: survive or thrive?: global warming, sustainability &
+the future of humanity
+Author: Solanki, Chetan Singh
+Publisher: Gurugram: Vintage Books, 2025
+Call No.: 363.73874 SOL
+Acc. No.: 036772
+Title: Inside an academic scandal: a story of fraud and betrayal
+Author: Bazerman, Max H
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 378.198 BAZ
+Acc. No.: 036778
+SCIENCE
+Title: Heart of science: a philosophy of scientific inquiry
+Author: Stegenga, Jacob
+Publisher: London: University of Chicago Press, 2026
+Call No.: 501 STE
+Acc. No.: 036780
+MATHEMATICS
+Title: Galerkin finite element methods for parabolic problems, 2nd ed.
+Author: Thomée, Vidar
+Publisher: Berlin: Springer, 2006
+Call No.: 515.3534 THO
+Acc. No.: 036765
+PHYSICS
+Title: No time to be brief: a scientific biography of Wolfgang Pauli
+Author: Enz, Charles P.
+Publisher: Oxford: Oxford University Press, 2010
+Call No.: 530.092 ENZ
+Acc. No.: 036775
+
+EARTH SCIENCE
+Title: Microtectonics, 2nd ed.
+Author: Passchier, Cees W.
+Publisher: Berlin: Springer, 2005
+Call No.: 551.8 PAS
+Acc. No.: 036766
+
+Title: Physical properties of Rocks: a workbook
+Author: Schön, Juergen H
+Publisher: Oxford: Elsevier, 2011
+Call No.: 552.06 SCH
+Acc. No.: 036790
+Title: Atlas of mylonites and related microstructures
+Author: Trouw, Rudolph A. J.
+Publisher: Berlin: Springer, 2016
+Call No.: 552.4 TRO
+Acc. No.: 036764
+Title: Geochemistry of sedimentary carbonates
+Author: Morse, J.W.
+Publisher: Amsterdam: Elsevier, 1990
+Call No.: 552.58 MOR
+Acc. No.: 036791
+
+BIOLOGY
+Title: Pale blue data point: an Earth-based perspective on the search for alien life
+Author: Willis, Jon
+Publisher: London: University of Chicago Press, 2025
+Call No.: 576.83 WIL
+Acc. No.: 036779
+
+ZOOLOGY - BIRDS
+Title: Search for India's rarest birds
+Author: Dalvi, Shashank (Ed.)
+Publisher: New Delhi: Juggernaut, 2024
+Call No.: 598.0954 DAL
+Acc. No.: 036782
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Wave energy devices: design, development, and experimental studies
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2022
+Call No.: 621.312136 CHA
+Acc. No.: 036770
+Title: Durability of concrete structures: investigation, repair, protection
+Author: Mays, Geoff (Ed.)
+Publisher: Boca Raton: CRC Press, 2019
+Call No.: 624.18341 MAY
+Acc. No.: 036760
+
+Title: Ocean structures: construction, materials, and operations
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2017
+Call No.: 627.98 CHA
+Acc. No.: 036767
+Title: Offshore structural engineering: reliability and risk assessment
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2019
+Call No.: 627.98 CHA
+Acc. No.: 036768
+Title: Offshore semi-submersible platform engineering
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2021
+Call No.: 627.98 CHA
+Acc. No.: 036769
+Title: Dynamic analysis and design of offshore structures, 2nd ed.
+Author: Chandrasekaran, Srinivasan
+Publisher: Singapore: Springer, 2018
+Call No.: 627.98 CHA
+Acc. No.: 036785
+
+AGRICULTURE
+Title: M.S. Swaminathan: the man who fed India
+Author: Jayakumar, Priyambada
+Publisher: Gurugram: Harper Non-Fiction, 2025
+Call No.: 630.92 JAY
+Acc. No.: 036789
+
+CONSTRUCTION OF BUILDINGS
+Title: Construction quality management and control
+Author: Jha, Kumar Neeraj
+Publisher: Noida: Pearson, 2025
+Call No.: 690.068 JHA
+Acc. No.: 036776
+
+INDOOR GAMES - CHESS
+Title: Dark squares: a cult leader, a child prodigy and the chess revolution
+Author: Rensch, Danny
+Publisher: London: Wildfire, 2025
+Call No.: 794.1 REN
+Acc. No.: 036788
+
+LITERATURE
+Title: Ghost-Eye: a novel
+Author: Ghosh, Amitav
+Publisher: New Delhi: Fourth Estate, 2026
+Call No.: 823.914 GHO
+Acc. No.: 036787
+
+HISTORY OF INDIA
+Title: India and her futures: essays
+Author: Gandhi, Gopalkrishna
+Publisher: New Delhi; Bloomsbury India, 2025
+Call No.: 954 GAN
+Acc. No.: 036786
+
+Title: Peasants' resentments and resistance: a glimpse on rural past of Sikkim
+1914-1950
+Author: Upadhyay, Rajen
+Publisher: Delhi: Kalpaz Publications, 2017
+Call No.: 954.167 UPA
+Acc. No.: 036784

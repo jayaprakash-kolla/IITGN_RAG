@@ -1,0 +1,303 @@
+#flags:
+
+Medal Recipient/Awardee Details : Eleventh Convocation (2022)
+Sl.
+Name of Recipient/
+Medal Category
+Roll No. Branch
+No.
+Awardee
+1 President’s Gold Medal, BTech
+Kushagra Sharma
+18110091 Computer Science and Engineering
+2 President’s Gold Medal, MTech
+Solanki Hiren Rajeshbhai
+20250022 Earth System Science
+President’s Gold Medal, MSc and
+3
+Apoorva Sharma
+20510006 Cognitive Science
+MA
+Institute Gold Medal - Civil
+4
+Dave Hari Manish
+18110044 Civil Engineering
+Engineering, BTech
+Institute Gold Medal - Chemical
+5
+Baheti Sakshi Prabhulal
+18110032 Chemical Engineering
+Engineering, BTech
+Institute Gold Medal – Computer
+6
+Kushagra Sharma
+18110091 Computer Science and Engineering
+Science and Engineering, BTech
+Institute Gold Medal - Electrical
+7
+Praveen Venkatesh
+18110127 Electrical Engineering
+Engineering, BTech
+Institute Gold Medal - Mechanical
+8
+Abhiraj Bhasin
+18110007 Mechanical Engineering
+Engineering, BTech
+Institute Gold Medal - Materials
+9
+Dhruv Menon
+18110099 Materials Science and Engineering
+Science and Engineering, BTech
+Institute Gold Medal – Civil
+10
+Dipesh Singh Chuphal
+20250009 Civil Engineering
+Engineering, MTech
+Institute Gold Medal – Cognitive
+11
+Apoorva Sharma
+20510006 Cognitive Science
+Science, MSc
+Institute Gold Medal –
+12
+Nikki Mittal
+20510036 Chemistry
+Chemistry, MSc
+Institute Gold Medal – Mathematics,
+13
+Priyanka
+20510070 Mathematics
+MSc
+14 Institute Gold Medal – Physics, MSc Manik
+20510097 Physics
+15 Institute Gold Medal – MA
+Angel Maria Varghese
+20520002 Society & Culture
+Institute Silver Medal - Civil
+Trivedi Shubhang
+16
+18110175 Civil Engineering
+Engineering, BTech
+Krishnakant
+Institute Silver Medal - Chemical
+17
+Thakar Devanshu Nilesh
+18110174 Chemical Engineering
+Engineering, BTech
+Institute Silver Medal – Computer
+18
+Chris Francis
+18110041 Computer Science and Engineering
+Science and Engineering, BTech
+Institute Silver Medal – Electrical
+19
+Prankush Agarwal
+18110123 Electrical Engineering
+Engineering, BTech
+Institute Silver Medal - Mechanical
+20
+Rwik Rana
+18110146 Mechanical Engineering
+Engineering, BTech
+Institute Silver Medal - Materials
+21
+Dhananjay Singh
+18110047 Materials Science and Engineering
+Science and Engineering, BTech
+Institute Silver Medal – Cognitive
+22
+Abhinanda Dash
+20510003 Cognitive Science
+Science, MSc
+Institute Silver Medal –
+23
+Tarisha Gupta
+20510045 Chemistry
+Chemistry, MSc
+Institute Silver Medal –
+24
+Patel Khushbu Sureshbhai
+20570002 Mathematics
+Mathematics, MSc
+Institute Silver Medal – Physics,
+25
+Harshavardhan V
+20510089 Physics
+MSc
+26 Institute Silver Medal – MA
+Devanshi Saxena
+20520007 Society and Culture
+27 Director's Gold Medal, BTech
+Praveen Venkatesh
+18110127 Electrical Engineering
+28 Director's Gold Medal, MTech
+Director's Gold Medal, MSc and
+MA
+Director's Silver Medal - Civil
+30
+Engineering, BTech
+29
+
+Athulkumar R
+
+20250018 Computer Science and Engineering
+
+Abhinanda Dash
+
+20510003 Cognitive Science
+
+Dave Hari Manish
+
+18110044 Civil Engineering
+
+Sl.
+Medal Category
+No.
+Director's Silver Medal - Chemical
+31
+Engineering, BTech
+Director's Silver Medal – Computer
+32
+Science and Engineering, BTech
+Director's Silver Medal - Electrical
+33
+Engineering, BTech
+Director's Silver Medal 34
+Mechanical Engineering, BTech
+Director's Silver Medal - Materials
+35
+Science and Engineering, BTech
+Gold Medal for Outstanding
+36
+Innovation
+Gold Medal for Outstanding Social
+37
+Service
+Gold Medal for Integrity and
+38
+Exemplary Human Qualities
+Gold Medal for the Outstanding
+39
+Research (BTech)
+Gold Medal for the Outstanding
+40
+Research (PhD)
+Gold Medal for the Outstanding
+41
+Research (MSc and MA)
+Gold Medal for Outstanding
+42
+Performance in Athletics
+Gold Medal for Outstanding
+43
+Performance in indoor sports
+Gold Medal for Outstanding
+44
+Performance in Arts and Culture
+Pioneer Batch Gold Medal for
+45
+Outstanding Leadership
+Gold Medal for the best
+performance in the core courses of
+46 Engineering Graphics, and
+Manufacturing and Workshop
+Practice
+Gold Medal for the best
+47 performance in the core courses of
+Mathematics
+Gold Medal for the best
+performance in the core courses of
+48
+Physics, Chemistry and Life
+Sciences
+Gold Medal for the best overall
+49 performance in the core courses of
+Humanities and Social Sciences
+Gold Medal for outstanding
+50 performance in the courses of
+Humanities and Social Sciences
+
+Name of Recipient/
+Awardee
+
+Roll No. Branch
+
+Bhutada Dhanesh Jagdish
+
+18110048 Chemical Engineering
+
+Chris Francis
+
+18110041 Computer Science and Engineering
+
+Palak Purohit
+
+18110110 Electrical Engineering
+
+Rwik Rana
+
+18110146 Mechanical Engineering
+
+Dhruv Menon
+
+18110099 Materials Science and Engineering
+
+Gunda Harini
+
+13210003 Chemical Engineering
+
+Amar Deep Tiwari
+
+15310006 Civil Engineering
+
+Anas Ali
+
+18110021 Civil Engineering
+
+Dhruv Menon
+
+18110099 Materials Science and Engineering
+
+Akash Kumar Mishra
+
+14510035 Physics
+
+Tarun Bansal
+
+20510046 Chemistry
+
+Boddu Sai Gowri Jhansi
+
+18110038 Civil Engineering
+
+Praveen Venkatesh
+
+18110127 Electrical Engineering
+
+Janvi Vinodkumar Thakkar
+
+18110069 Computer Science and Engineering
+
+Shivanshu Sharma
+
+18110160 Electrical Engineering
+
+Chris Francis
+
+18110041 Computer Science and Engineering
+
+Kushagra Sharma
+
+18110091 Computer Science and Engineering
+
+Kushagra Sharma
+
+18110091 Computer Science and Engineering
+
+Chris Francis
+
+18110041 Computer Science and Engineering
+
+Chris Francis
+
+18110041 Computer Science and Engineering

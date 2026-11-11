@@ -1,0 +1,41 @@
+Title: IIT Gandhinagar | Jagmohan Tyagi
+Source: https://iitgn.ac.in/faculty/maths/fac-jagmohan
+
+# Jagmohan Tyagi
+
+-  Mathematics
+Jagmohan Tyagi
+
+## Jagmohan Tyagi
+
+Professor, Mathematics
+
+- BSc: C.C.S. University Meerut, 2000
+- MSc: C.C.S. University Campus Meerut, 2002
+- PhD: IIT Kanpur, 2008
+
+Email: jtyagi -AT- iitgn.ac.in
+
+Office:  AB 5/345
+VOIP:  2417
+
+(with Somnath Gandal) Asymptotic behaviour of the least energy solutions to fractional semilinear Neumann problems, Journal of the Australian Mathematical Society, 118, No. 2, 178–209, 2025.
+
+(with Poonam Rani) Finite-time blow-up in the higher dimensional parabolic-parabolic-ODE minimal chemotaxis-haptotaxis system, Journal of Differential Equations 423, 133–160, 2025.
+
+(with Poonam Rani) Global classical solutions to a chemotaxis consumption system with nonlinear sensitivity and signal consumption, Z. Angew. Math. Phys. (2025) 76:92, 2025.
+
+(with Claudianor O. Alves, Somnath Gandal and Annunziata Loiudice) A Brézis-Nirenberg type problem for a class of degenerate elliptic problems involving the Grushin operator, J. Geom. Anal. 34, no. 2, Paper No. 52, 41 pp., 2024.
+
+(with Poonam Rani) A quasilinear chemotaxis-haptotaxis system: existence and blow-up results, J. Differential Equations 402, 180–217, 2024.
+
+- Professor, Indian Institute of Technology, Gandhinagar, (Nov 2024 to present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar, (Feb 2019 - Nov 2024)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar, (Dec 2010 - Jan 2019)
+- NBHM Post-Doctoral Fellow, TIFR-CAM, Bangalore (April 2008 - Dec 2010)
+
+- ● Partial Differential Equations
+- ● Chemotaxis
+- ● Blow-up phenomena
+
+Complete List of Publications

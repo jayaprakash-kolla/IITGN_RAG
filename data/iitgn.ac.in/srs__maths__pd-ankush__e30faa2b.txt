@@ -1,0 +1,41 @@
+Title: IIT Gandhinagar | Ankush Goswami
+Source: https://iitgn.ac.in/srs/maths/pd-ankush
+
+# Ankush Goswami
+
+- Senior Research Staff
+Ankush Goswami
+
+## Ankush Goswami
+
+Post-Doctoral Fellow, Mathematics
+
+- Integrated MSc : National Institute of Science Education and Research (NISER), Bhubaneswar, 2013
+- PhD : University of Florida, Gainesville, 2019
+
+Email: agoswami -AT- iitgn.ac.in
+
+Website :  https://sites.google.com/view/ankushgoswami/
+
+Work experience
+
+- Post-Doctoral Fellow : Indian Institute of Technology, Gandhinagar (April 2021 to present)
+- Post-Doctoral Fellow : Research Institute for Symbolic Computation (RISC), Johannes Kepler University (JKU), Linz, Austria (June 2019-March 2021)
+
+Selected Publications
+
+Quantum modularity of partial theta series with periodic coefficients (with Robert Osburn), Forum Math., vol. 33, no. 2 (2021), pp. 451-463. DOI:
+
+Congruences for generalized Fishburn numbers at roots of unity, Acta Arith., accepted for publication.
+
+Some formulae for coefficients in restricted $q$-products (with Venkata Raghu Tej Pantangi), J. Number Theory, 219 (2021), pages 283-299.
+
+On sums of coefficients of polynomials related to the Borwein conjectures (with Venkata Raghu Tej Pantangi), Ramanujan J., accepted for publication.
+
+A $q$-analogue for Euler's $\zeta(6)=\pi^6/945$, Ann. Comb. 23 (2019), 801-806.
+
+A $q$-analogue for Euler’s evaluation of the Riemann zeta function, Res. Number Theory 5 (2019), no. 1, Paper No. 3, 11 pp.
+
+- ● Analytic Number Theory
+- ● q-Series and Integer Partitions
+- ● Quantum Modular Forms

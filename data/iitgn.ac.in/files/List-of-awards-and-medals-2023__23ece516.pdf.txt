@@ -1,0 +1,344 @@
+#flags:
+
+Medal Recipient/Awardee Details : 12th Convocation (2023)
+Sl.
+Name of Recipient/
+Medal
+Roll No. Branch
+No.
+Awardee
+1 President’s Gold Medal, BTech
+Shrreya Singh
+19110136 Computer Science and Engineering
+2
+
+President’s Gold Medal, MTech
+
+S Ankita Kumari Jain
+
+21250004 Computer Science and Engineering
+
+3
+
+President’s Gold Medal, MSc and MA
+Institute Gold Medal - Civil
+Engineering, BTech
+Institute Gold Medal - Chemical
+Engineering, BTech
+Institute Gold Medal – Computer
+Science and Engineering, BTech
+Institute Gold Medal - Electrical
+Engineering, BTech
+Institute Gold Medal - Mechanical
+Engineering, BTech
+Institute Gold Medal - Materials
+Science and Engineering, BTech
+Institute Gold Medal – Biological
+Engineering, MTech
+Institute Gold Medal – Civil
+Engineering, MTech
+Institute Gold Medal – Electrical
+Engineering, MTech
+Institute Gold Medal – Mechanical
+Engineering, MTech
+Institute Gold Medal – Cognitive
+Science, MSc
+
+Kaushik Khamari
+
+21510056 Mathematics
+
+Arushi Arnav
+
+19110041 Civil Engineering
+
+Bayad Isha Jairaj
+
+19110008 Chemical Engineering
+
+Shrreya Singh
+
+19110136 Computer Science and Engineering
+
+Eshika Pathak
+
+19110148 Electrical Engineering
+
+Dhvani Manish Shah
+
+19110046 Mechanical Engineering
+
+Juhi Parikh
+
+19110152 Materials Science and Engineering
+
+Aditi Lakshmi S
+
+21210002 Biological Engineering
+
+Amitesh Sabut
+
+21250003 Civil Engineering
+
+Siddesh Patnaik
+
+21250026
+
+Yash Vardhan Omar
+
+21250031
+
+Gourab Chakraborty
+
+21210010 Mechanical Engineering
+
+Vridhi Jatin Rohira
+
+21510020 Cognitive Science
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+Electrical Engineering
+
+Rajesh Kashyap
+15 Institute Gold Medal – Chemistry, MSc Patel Khantil
+Prakashbhai
+Institute Gold Medal – Mathematics,
+16
+Kaushik Khamari
+MSc
+17 Institute Gold Medal – Physics, MSc
+Koustubh Guha
+
+21510087
+
+18 Institute Gold Medal – MA
+Institute Silver Medal - Civil
+19
+Engineering, BTech
+Institute Silver Medal - Chemical
+20
+Engineering, BTech
+Institute Silver Medal – Computer
+21
+Science and Engineering, BTech
+Institute Silver Medal – Electrical
+22
+Engineering, BTech
+Institute Silver Medal - Mechanical
+23
+Engineering, BTech
+Institute Silver Medal - Materials
+24
+Science and Engineering, BTech
+Institute Silver Medal – Cognitive
+25
+Science, MSc
+Institute Silver Medal –
+26
+Mathematics, MSc
+27 Institute Silver Medal – Physics, MSc
+
+Afeef Ahmed
+
+21520003 Society and Culture
+
+Ashwani Sunil Rai
+
+19110043 Civil Engineering
+
+Pahuni Jain
+
+19110021 Chemical Engineering
+
+Nipun Mahajan
+
+19110127 Computer Science and Engineering
+
+Parikh Saagar Dhaval
+
+19110199 Electrical Engineering
+
+Mandalia Harsh
+Devendrabhai
+
+19110186 Mechanical Engineering
+
+Desai Rushik Jatin
+
+19110146 Materials Science and Engineering
+
+21570005
+
+Chemistry
+
+21510056 Mathematics
+21510058 Physics
+
+Rahi Mahadev Bhalekar 21510011 Cognitive Science
+Hitesh Kumar
+
+21510052 Mathematics
+
+Nilachal Chakrabarti
+
+21570007 Physics
+
+28 Institute Silver Medal – MA
+
+E P Sarfras
+
+21520011 Society and Culture
+
+29 Director's Gold Medal, BTech
+
+Bayad Isha Jairaj
+
+19110008 Chemical Engineering
+
+30 Director's Gold Medal, MTech
+
+Riddhi Johri
+
+21250019 Computer Science and Engineering
+
+Sl.
+Medal
+No.
+31 Director's Gold Medal, PhD
+
+Name of Recipient/
+Awardee
+Shanti Shwarup Mahto
+
+Roll No. Branch
+18310040 Earth Sciences
+
+32 Director's Gold Medal, MSc and MA Ramya Warrier
+21510012 Cognitive Science
+Director's Silver Medal - Civil
+33
+Ashwani Sunil Rai
+19110043 Civil Engineering
+Engineering, BTech
+Director's Silver Medal - Chemical
+34
+Shah Revant Nirav
+19110030 Chemical Engineering
+Engineering, BTech
+Director's Silver Medal – Computer
+Viramgami Gaurav
+35
+19110106 Computer Science and Engineering
+Science and Engineering, BTech
+Hiteshkumar
+Director's Silver Medal - Electrical
+36
+Sanjay Venkitesh
+19110200 Electrical Engineering
+Engineering, BTech
+Director's Silver Medal - Mechanical
+37
+Dave Deep Kant
+19110180 Mechanical Engineering
+Engineering, BTech
+Director's Silver Medal - Materials
+38
+Surawar Siddhi Pravin 19110170 Materials Science and Engineering
+Science and Engineering, BTech
+39 Gold Medal for Outstanding Innovation Aniket Rajnish
+19110178 Mechanical Engineering
+Gold Medal for Outstanding Social
+40
+Adarsh Golait
+19110175 Mechanical Engineering
+Service
+Gold Medal for Integrity and
+41
+Bayad Isha Jairaj
+19110008 Chemical Engineering
+Exemplary Human Qualities
+Gold Medal for the Outstanding
+42
+Pahuni Jain
+19110021 Chemical Engineering
+Research (BTech)
+Gold Medal for the Outstanding
+43
+S Ankita Kumari Jain
+21250004 Computer Science and Engineering
+Research (MTech)
+Gold Medal for the Outstanding
+44
+Krishna Kumar
+18210043 Electrical Engineering
+Research (PhD)
+Gold Medal for the Outstanding
+45
+Smriti Saini
+21510017 Cognitive Science
+Research (MSc and MA)
+Gold Medal for Overall Outstanding
+46
+Preet Sanketbhai Shah
+19110195 Mechanical Engineering
+Performance in Sports
+Gold Medal for Outstanding
+47
+Dave Deep Kant
+19110180 Mechanical Engineering
+Performance in Aquatics
+Gold Medal for Outstanding
+48
+Shirodkar Soham Rajesh 19110167 Materials Science and Engineering
+Performance in indoor sports
+Gold Medal for Outstanding
+49
+Paras Jain
+19110096 Computer Science and Engineering
+Performance in outdoor sports
+Gold Medal for Outstanding
+50
+Ankita Nair
+16310037 Humanities and Social Sciences
+Performance in Arts and Culture
+Gold Medal for the best performance in
+the core courses of Engineering
+51
+Nipun Mahajan
+19110127 Computer Science and Engineering
+Graphics, and Manufacturing and
+Workshop Practice
+Gold Medal for the best performance in
+52
+Manas Mulpuri
+19110093 Computer Science and Engineering
+the core courses of Mathematics
+Gold Medal for the best performance in
+53 the core courses of Physics, Chemistry Shrreya Singh
+19110136 Computer Science and Engineering
+and Life Sciences
+Gold Medal for the best overall
+54 performance in the core courses of
+Mahika Om Jaguste
+19110092 Computer Science and Engineering
+Humanities and Social Sciences
+Gold Medal for
+55 outstanding performance in the courses Achal Kanojia
+19110108 Electrical Engineering
+of Humanities and Social Sciences
+Pioneer Batch Gold Medal for
+56
+Nikharv Vipul Shah
+19110125 Electrical Engineering
+Outstanding Leadership

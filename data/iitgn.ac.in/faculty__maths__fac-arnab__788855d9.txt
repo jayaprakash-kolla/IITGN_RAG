@@ -1,0 +1,57 @@
+Title: IIT Gandhinagar | Arnab Saha
+Source: https://iitgn.ac.in/faculty/maths/fac-arnab
+
+# Arnab Saha
+
+-  Mathematics
+Arnab Saha
+
+## Arnab Saha
+
+Associate Professor, Mathematics
+
+- BSc: Chennai Mathematical Institute, 2004
+- MSc: Chennai Mathematical Institute, 2006
+- PhD: University of New Mexico, 2012
+
+ Website :  https://sites.google.com/view/arnab-saha
+
+Office:  AB 6/352
+VOIP:  2556
+
+Delta Characters and Crystalline Cohomology (with S. Pandit), (submitted)
+
+Delta Characters in Positive Characteristic and Galois Representations (with S. Pandit), (submitted).
+
+On de Rham Cohomology of Drinfeld Modules of Rank 2 (with S. Pandit).
+
+Canonical Witt Formal Scheme Extensions and p-torsion Groups (with A. Bertapelle and N. Mazzari), (submitted).
+
+On the refined Koblitz conjecture, (with S. Dey, J. Sivaraman and A. Vatwani), (submitted).
+
+Arithmetic Jet Spaces (with A. Bertapelle and E. Previato), arXiv:2003:12269 (submitted).
+
+Differential modular forms over totally real fields of non zero integral weights (with D. Banerjee), Research in Number Theory, 7(42), 2021, doi: 10.1007/s40993-021-00269-7.
+
+Isocrystals associated to arithmetic jet spaces of abelian schemes (with J. Borger), Advances in Mathematics, 351: 388-428, 2019.
+
+Differential characters of Drinfeld modules and de Rham cohomology (with J. Borger), Algebra and Number Theory, 13(4): 797–837, 2019
+
+Invariant rational forms for correspondences of curves, Journal of Number Theory 143:170-184, 2014.
+
+The first p-jet space of an elliptic curve: global functions and lifts of Frobenius (with A. Buium), Mathematical Research Letters, 21(4):677- 689, 2014.
+
+Hecke operators on differential modular forms mod p (with A. Buium), Journal of Number Theory 132(5):966-997, 2012.
+
+The ring of differential Fourier expansions (with A. Buium), Journal of Number Theory 132(5):896-937, 2012.
+
+Differential Overconvergence (with A. Buium), Algebraic methods in dynamical systems, volume 94 of Banach Center Publications, pages 99-129. Polish Acad. Sci. Inst. Math., Warsaw, 2011.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Sep 2023 to Present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Jul 2019 to Sep 2023)
+- Visiting Fellow, Max Planck Institute, Bonn, Germany (2018 - 2019)
+- Visiting Fellow, Indian Statistical Institute, Bangalore (2018 - 2018)
+- Postdoctoral Fellow, Australian National University, Australia (2012 - 2018)
+- Teaching Assistant, University of New Mexico, USA (2006 - 2012)
+
+- ● Arithmetic Geometry

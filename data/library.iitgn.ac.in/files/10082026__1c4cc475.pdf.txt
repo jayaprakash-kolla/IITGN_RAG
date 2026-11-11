@@ -1,0 +1,132 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 32, 2026
+(Added during 03rd August – 07th August 2026)
+Available for the issue from 15th August 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: In robots we trust
+Author: Vinanzi, Samuele
+Publisher: Oxford: Oxford University Press, 2025
+Call No.: 004.019 VIN
+Acc. No.: 037204
+Title: Formal methods for multi-agent feedback control systems
+Author: Lindemann, Lars
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 006.30285436 LIN
+Acc. No.: 037211
+Title: Reliable machine learning: applying SRE principles to ML in production
+Author: Chen, Cathy
+Publisher: Navi Mumbai: Shroff/O'Reilly, 2022
+Call No.: 006.31 CHE
+Acc. No.: 037179
+Title: Deep reinforcement learning hands-on: a practical and easy-to-follow guide
+to RL from Q-learning and DQNs to PPO and RLHF, 3rd ed.
+Author: Lapan, Maxim
+Publisher: Birmingham: Packt Publishing, 2024
+Call No.: 006.31 LAP
+Acc. No.: 037200
+Title: Engineering MLOps: rapidly build, test, and manage production-ready
+machine learning life cycles at scale
+Author: Raj, Emmanuel
+Publisher: Birmingham: Packt Publishing, 2021
+Call No.: 006.31 RAJ
+Acc. No.: 037201
+
+APPLIED PSYCHOLOGY
+Title: Theory of happiness
+Author: Seok, Kim Hyung
+Publisher: London: Bloomsbury Publishing, 2026
+Call No.: 158 SEO
+Acc. No.: 037208
+
+SOCIAL SCIENCES
+Title: Ethical assemblages of artificial intelligence: controversies, uncertainties,
+and networks
+Author: Machado, Helena
+Publisher: Singapore: Palgrave Macmillan, 2025
+Call No.: 303.483 MAC
+Acc. No.: 037210
+
+Title: Technology and the Raj: western technology and technical transfers to India
+1700-1947, 2nd ed.
+Author: MacLeod, Roy (ed.)
+Publisher: Delhi: Aakar Books, 2022
+Call No.: 303.4830954 MAC
+Acc. No.: 037205
+Title: Botany of desire: a plant's-eye view of the world
+Author: Pollan, Michael
+Publisher: Dublin: Bloomsbury Publishing, 2003
+Call No.: 306.45 POL
+Acc. No.: 037202
+
+PRIMARY EDUCATION
+Title: Language and literacy beyond decoding: evidence-based instruction in
+grades PreK-6
+Author: Silverman, Rebecca D. (Ed.)
+Publisher: Munchen: Guilford Press, 2026
+Call No.: 372.6 SIL
+Acc. No.: 037206
+
+ZOOLOGY
+Title: Globalizing wildlife
+Author: Bont, Raf De (Ed.)
+Publisher: Chapel Hill: University of North Carolina Press, 2026
+Call No.: 590 BON
+Acc. No.: 037213
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Computational modelling of robot personhood and relationality
+Author: Clocksin, William F.
+Publisher: Cham: Springer, 2024
+Call No.: 629.892 CLO
+Acc. No.: 037209
+
+LITERATURE
+Title: Interspecies negotiations: human-wildlife conflict in Indian literature
+Author: Haris, Susan (Ed.)
+Publisher: New Delhi: Bloomsbury Publishing, 2026
+Call No.: 809.9336 HAR
+Acc. No.: 037207
+
+Title: Time of the hero: a novel
+Author: Llosa, Mario Vargas
+Publisher: Great Britain: Faber and Faber, 2004
+Call No.: 863.64 LLO
+Acc. No.: 037203
+
+ANCIENT HISTORY -- INDIA
+Title: Did the Mahabharata really happen?: what history and science reveal
+Author: Chawla, Santa Acharya
+Publisher: New Delhi: Aryan Books International, 2026
+Call No.: 954 CHA
+Acc. No.: 037212
+
+CHILDREN COLLECTION
+Title: InvestiGators complete boxed set: Off the hook
+Author: Green, John Patrick
+Publisher: London: Macmillan Children's Books, 2022
+Call No.: 741.5973 GRE
+Acc. No.: CC2293
+Title: Complete moon base Alpha (boxed set): space case; spaced out; waste of
+space
+Author: Gibbs, Stuart
+Publisher: New York: Simon & Schuster Books for Young Readers, 2014
+Call No.: 823 GIB
+Acc. No.: CC2295 – CC2297
+Title: Hic-hicc-hiccups!
+Author: Gupta, Esha
+Publisher: New Delhi: Tota Books, 2026
+Call No.: 823.92 GUP
+Acc. No.: CC2294

@@ -1,0 +1,51 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 41, 2026
+(Added during 05th– 09th October 2026)
+Available for the issue from 17th October 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Art of multiprocessor programming, 2nd ed.
+Author: Herlihy, Maurice
+Publisher: Cambridge: Morgan Kaufmann, 2021
+Call No.: 005.434 HER
+Acc. No.: 037371
+
+APPLIED PSYCHOLOGY
+Title: Game changers: lessons on resilience and success from everyday heroes
+Author: Shankar, Uday
+Publisher: Mumbai: Jaico Publishing House, 2026
+Call No.: 158.1 SHA
+Acc. No.: 037367
+
+MILITARY SCIENCE
+Title: Yeh dil maange more: remembering Captain Vikram Batra, my brother
+Author: Batra, Vishal
+Publisher: Gurugram: Penguin Veer, 2026
+Call No.: 355.0092 BAT
+Acc. No.: 037368
+
+MANUFACTURING
+Title: Smart manufacturing: applications and case studies
+Author: Soroush, Masoud (Ed.)
+Publisher: Amsterdam: Elsevier, 2020
+Call No.: 670.427 SOR
+Acc. No.: 037372
+
+MUSIC
+Title: From perception to pleasure: the neuroscience of music and why we love it
+Author: Zatorre, Robert
+Publisher: New York: Oxford University Press, 2024
+Call No.: 781.11 ZAT
+Acc. No.: 037369

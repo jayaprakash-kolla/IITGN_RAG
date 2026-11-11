@@ -1,0 +1,29 @@
+#flags:
+
+Item
+Chicken Fried Rice
+Chicken Schezwan Fried Rice
+Chicken Biryani
+Chicken Noodles
+Chicken Schezwan Noodles
+Chicken Wrap
+Chicken Curry
+Chicken Masala
+Butter Chicken
+Chicken Handi
+Chicken Kadai
+Chicken Balti
+
+Price
+70
+80
+120
+80
+90
+70
+110
+120
+130
+120
+120
+120

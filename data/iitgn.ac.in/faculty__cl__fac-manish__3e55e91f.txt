@@ -1,0 +1,41 @@
+Title: IIT Gandhinagar | Manish Jain
+Source: https://iitgn.ac.in/faculty/cl/fac-manish
+
+# Manish Jain
+
+-  Centre for Creative Learning
+Manish Jain
+
+## Manish Jain
+
+Teaching Professor, Centre for Creative Learning
+ Director RnD, Synopsys Scientist
+
+- BTech: IIT Kanpur, 1993
+
+Email: manish.jain -AT- iitgn.ac.in
+
+Office:  AB 6/346
+VOIP:  2240
+
+System and method for enhancing the speed of dynamic timing simulation using delay assessment at compile time. Patent number: 7047175.
+
+Enhancing speed of simulation of an IC design while testing scan circuitry. Patent number: 7925940.
+
+Executing a hardware simulation and verification solution. Patent number: 8782580.
+
+Method and apparatus for executing a hardware simulation and verification solution. Patent number: 8341570.
+
+Method and apparatus for executing a hardware simulation and verification solution. Patent number: 812182.
+
+- Teaching Professor, Center for Creative Learning, IIT Gandhinagar (Nov 2018 to present)
+- Principal Coordinator, Center for Creative Learning, IIT Gandhinagar (2017 to present)
+- Senior Consultant, Science Center IUCAA Pune, MVS. (2013 to 2016)
+- Synopsys, Bangalore (2005-2013)
+- Synopsys, Mountain View California (1996 to 2013)
+
+- ● Hands-on & experiential pedagogy
+- ● STEM education and creative learning
+- ● 3D geometry, polyhedra, geodesics
+- ● Machines & mechanisms
+- ● Recreational math

@@ -1,0 +1,53 @@
+Title: IIT Gandhinagar | Manab Mukherjee
+Source: https://iitgn.ac.in/faculty/earths/fac-manab
+
+# Manab Mukherjee
+
+-  Earth Sciences
+Manab Mukherjee
+
+## Manab Mukherjee
+
+Assistant Professor, Earth Sciences
+
+- B.Sc.: Presidency University, Kolkata, (2013)
+- M.Sc.: Presidency University, Kolkata, (2015)
+- PhD: IIT Kanpur, (2021)
+
+Email: manab.mukherjee -AT- iitgn.ac.in
+
+ Website :  https://manabmukherjee.owlstown.net
+
+Office:  2644
+VOIP:  AB 12/406E
+
+Mukherjee, M., & Vishal, V., 2024. Reconstructing the changes in pore attributes of Permian Indian coals associated with induced heating and cryogenic liquid nitrogen treatment. Marine & Petroleum Geology. 167, 106994. https://doi.org/10.1016/j.marpetgeo.2024.106994
+
+Mukherjee, M., Méheust, Y., Charrier, P., Bésuelle, P., 2025. Full Field Strain Measurements Uncover the Influence of External Far-Field Stresses on Fracturing During Cavity Expansion in Anisotropic Sandstone. Rock Mechanics & Rock Engineering. https://doi.org/10.1007/s00603-025-04993-9
+
+Mukherjee, M., & Misra, S., 2018. A review of experimental research on Enhanced Coal Bed Methane (ECBM) recovery via CO2 sequestration. Earth-Science Rev. 179, 392–410. https://doi.org/10.1016/j.earscirev.2018.02.018
+
+Mukherjee, M., Misra, S., & Raja, E., 2020. Determination of dynamic elastic properties of dry, wet and partially CO2 saturated coals from laboratory scale ultrasonic response. International Journal of Green-House Gas Control. 96, 103000. https://doi.org/10.1016/j.ijggc.2020.103000
+
+Mukherjee, M., Misra, S., & Gupta, A., 2020. CO2 adsorption volume and kinetics considering corresponding pore size distribution in Gondwana coals: implications for shallow-depth CO2 sequestration potential.  Journal of Natural Gas Science and Engineering. 89, 103901. https://doi.org/10.1016/j.jngse.2021.103901
+
+Mukherjee, M., Bal, A., & Misra, S., 2021. Role of Pore-Size Distribution in Coals to Govern the Klinkenberg Coefficient and Intrinsic Permeability. Energy & Fuels. 35, 11, 9561–9569. https://doi.org/10.1021/acs.energyfuels.1c00480
+
+Mukherjee, M., & Vishal, V., 2023. Gas transport in shale: A critical review of experimental studies on shale permeability at a mesoscopic scale. Earth-Science Rev. 244, 104522. https://doi.org/10.1016/j.earscirev.2023.104522
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Joining Soon)
+- Senior Project Scientist,Institute of Technology, Madras (Aug 2024 - Ongoing)
+- Marie Curie Bienvenue Postdoctoral Fellow, University of Rennes & University of Grenoble, Alpes, France, (2022 - 2024)
+- Post-Doctoral Fellow, Indian Institute of Technology, Bombay (2021 - 2022)
+
+Awards
+
+- Best Earth Science Doctoral Thesis Award for the year 2020.
+- Excellence in innovation by IIT Kanpur & Schlumberger for paper presentation, 2019.
+- Inspire Scholarship by Department of Science & Technology (DST), India, 2010.
+
+- ● Experimental rock mechanics
+- ● Strain localization
+- ● Permeability enhancement
+- ● Fluid driven fractures
+- ● Permeability and flow laws in geomaterials Underground Gas Storage

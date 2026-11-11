@@ -1,0 +1,325 @@
+Title: IIT Gandhinagar | Electrical Engineering
+Source: https://iitgn.ac.in/faculty/ee
+
+# Electrical Engineering
+
+##### Back to Faculty
+
+#### Anand Kumar
+
+MBA (Lucknow University)
+Professor of Practice
+ Power Sector Regulation, Training and Capacity Building
+
+## Research Interests
+
+- Power Sector Regulation
+- Training and Capacity Building
+- Policy & Finance
+- Renewable Energy Policy & Regulation
+- Load Forecasting
+- Tariff design & working models
+- Power Purchase Agreements
+- Energy Pricing
+- Energy Access
+- Standard of Performance and Safety Standards
+
+#### Arup Lal Chakraborty
+
+PhD (University of Strathclyde)
+Professor
+ Tunable diode laser spectroscopy for gas parameter measurement, Optical physical and chemical sensing
+
+## Research Interests
+
+- Tunable diode laser spectroscopy for gas parameter measurement
+- Optical physical and chemical sensing
+
+#### Himanshu Shekhar
+
+PhD (University of Rochester)
+Associate Professor
+ Image-guided ultrasound therapy,Ultrasound contrast agents
+
+## Research Interests
+
+- Image-guided ultrasound therapy
+- Ultrasound contrast agents
+- Ultrasound-assisted therapeutic delivery
+- Ultrasound beamforming and metrology
+- Medical device development
+
+#### Joycee M. Mekie
+
+PhD (IIT Bombay)
+Professor
+(Affiliated to Computer Science and Engineering discipline)
+ Approximate computing, Low power SRAM
+
+## Research Interests
+
+- Approximate computing
+- Low power SRAM
+- Radiation hardened systems
+- Asynchronous design
+
+#### Kamla Prasan Ray
+
+PhD (IIT Bombay)
+Professor of Practice
+ Electromagnetics, Radiating Systems, RF/Microwaves, Radars, EMI/EMC/NEMP, EW, Industrial/Medical Applications
+
+## Research Interests
+
+- Electromagnetics
+- Radiating Systems
+- RF/Microwaves
+- Radars
+- EMI/EMC/NEMP
+- EW
+- Industrial/Medical Applications
+
+#### Kartik Patel
+
+Phd (The University of Texas at Austin)
+Assistant Professor
+ Full-stack Wireless System Design, Integrated Sensing and Communications, AI/ML for Wireless Networks
+
+## Research Interests
+
+- Wireless Communication Systems and Networks
+- Integrated Sensing and Communications
+- AI/ML for Wireless Networks
+- Hardware Prototyping
+
+#### Madhav K. Pathak
+
+PhD (Iowa State University)
+Assistant Professor
+ Power Management Integrated Circuits (PMIC), Ambient Micro-power Energy Harvesting, IoT Sensor System Design
+
+## Research Interests
+
+- Power Management Integrated Circuits (PMIC)
+- Ambient Micro-power Energy Harvesting
+- IoT Sensor System Design
+Recent News:
+
+- Call for Researchers
+
+#### Manuj Singh
+
+PhD (Boston University)
+Assistant Professor
+ Silicon Photonics, RF & Microwave Integrated Photonics, Integrated Photonics for Quantum Computing
+
+## Research Interests
+
+- Silicon Photonics
+- RF & Microwave Integrated Photonics
+- Integrated Photonics for Quantum Computing
+
+#### Mukul Chandorkar
+
+PhD (University of Wisconsin - Madison)
+Visiting Professor
+ Electric Machine Analysis, Microprocessor Applications in Power Electronics, Simulation of Power Electronic Circuits
+
+## Research Interests
+
+- Electric Machine Analysis
+- Microprocessor Applications in Power Electronics
+- Simulation of Power Electronic Circuits
+
+#### Naran M. Pindoriya
+
+PhD (IIT Kanpur)
+Professor
+ Restructured power systems - operation and management, Smart distribution grid and microgrids
+
+## Research Interests
+
+- Restructured power systems - operation and management
+- Smart distribution grid and microgrids
+- Grid integration of decentralized energy resources and energy management
+- Load demand and electricity price forecasting
+
+#### Nihar Ranjan Mohapatra
+
+PhD (IIT Bombay)
+Professor
+ Nano-scale devices physics, Device and circuit interaction in advanced devices, Reliability of semiconductor devices
+
+## Research Interests
+
+- Nano-scale devices physics
+- Device and circuit interaction in advanced devices
+- Reliability of semiconductor devices
+- Compact modeling
+- Computational lithography
+- Analog IC design
+
+#### Nithin V. George
+
+PhD (IIT Bhubaneswar)
+TEOCO Chair Professor
+ Active Noise Control, Acoustic Beamforming, Adaptive Signal Processing, Array Signal Processing, Assistive Listening Devices
+
+## Research Interests
+
+- Active Noise Control
+- Acoustic Beamforming
+- Adaptive Signal Processing
+- Array Signal Processing
+- Assistive Listening Devices
+
+#### Pallavi Bharadwaj
+
+PhD (Indian Institute of Science)
+Assistant Professor
+ Smart power electronics: design & development of hardware, AI, IoT; Photovoltaic power conversion
+
+## Research Interests
+
+- Smart power electronics: design & development of hardware, AI, IoT
+- Photovoltaic power conversion: faults & shade-tolerant control
+- Transportation electrification: fast EV chargers, battery lifetime extension
+- Green energy storage: data-driven modeling & system integration
+- Net zero transition: multi-energy optimization
+
+#### Latest News:
+
+New Patent Filed:
+Title: An Adaptive Battery Charging Optimization System
+Date of submission: 11.12.2024
+Application no.: 202421097809
+Inventors: Paarth Sachan and Pallavi Bharadwaj
+Institute: Indian Institute of Technology Gandhinagar
+
+#### Ragavan K.
+
+PhD (IISc Bangalore)
+Professor
+ Drives for electric vehicles, Diagnostic testing and condition monitoring of transformers, Active power filter
+
+## Research Interests
+
+- Drives for electric vehicles
+- Diagnostic testing and condition monitoring of transformers
+- Active power filter
+
+#### Raghunandan M. Rao
+
+PhD (Virginia Tech)
+Assistant Professor
+ 6G Wireless Networks, Localization, Radar Sensing, Wireless Security.
+
+## Research Interests
+
+- 6G Wireless Networks
+- Localization
+- Radar Sensing
+- Wireless Security
+
+#### S. Rajendran
+
+MTech (IIT Madras)
+Associate Teaching Professor
+ High speed packaging machines, Liquid packing machines - high speed applications, CO2 laser - metal processing applications
+
+## Research Interests
+
+- High speed packaging machines - VFFS and HFFS technologies
+- Liquid packing machines - high speed applications
+- CO2 laser - metal processing applications
+- Control strategies for robots moving a very flexible structure
+
+#### Ravi S. Hegde
+
+PhD (University of Michigan)
+Associate Professor
+ Computational photonics, Nanophotonics, Silicon photonics, Nanoelectronics, High performance computing
+
+## Research Interests
+
+- Computational photonics
+- Nanophotonics
+- Silicon photonics
+- Nanoelectronics
+- High performance computing
+- Deep learning for science and engineering
+
+#### Sameer Gundurao Kulkarni
+
+PhD (University of Göttingen)
+Assistant Professor
+(Jointly with Electrical Engineering department)
+ Network Function Virtualization, Software Defined Networking, Cloud Computing, Power & Performance Optimizations
+
+## Research Interests
+
+- Network Function Virtualization
+- Software Defined Networking
+- Cloud Computing
+- Power & Performance Optimizations
+- Network Security and Data Reliability
+- Green Computing
+- Virtual Machines & Virtualization
+- Embedded and Portable Devices
+- Distributed Systems
+
+#### Sandip Lashkare
+
+PhD (IIT Bombay)
+Assistant Professor
+ Semiconductor device physics, Emerging non-volatile memories (Resistive, Ferroelectric)
+
+## Research Interests
+
+- Semiconductor device physics
+- Emerging non-volatile memories (Resistive, Ferroelectric)
+- System integration of non-volatile memories with CMOS technology
+- Hardware platforms for Neuromorphic computing
+- ESD & Surge protection devices
+
+#### Shanmuganathan Raman
+
+PhD (IIT Bombay)
+Professor
+(Jointly with Computer Science & Engineering department)
+(Affiliated to Artificial Intelligence discipline)
+ Computer Vision, Deep Learning, Image & Video Processing, Computer Graphics, Artificial Intelligence
+
+## Research Interests
+
+- Computer Vision
+- Image & Video Processing
+- Computer Graphics
+- Deep Learning
+- Artificial Intelligence
+
+#### Tarun Kumar Agarwal
+
+PhD (KU Leuven)
+Assistant Professor
+ Benchmarking of beyond CMOS materials and devices using multi-scale approaches
+
+## Research Interests
+
+- Benchmarking of beyond CMOS materials and devices using multi-scale approaches.
+- Modeling and simulation of advanced nanoscale devices
+- Material-Device-Circuit co-design for alternative computing paradigms.
+
+#### Uttama Lahiri
+
+PhD (Vanderbilt University)
+Professor
+ Virtual reality based human computer interaction used in affective computing, Eye Tracking and Physiology based modeling
+
+## Research Interests
+
+- Virtual Reality based Human Computer Interaction used in affective computing.
+- Eye Tracking and Physiology based modeling techniques.
+- Human Robot Interaction used in cognitive studies.
+- Adaptive Intelligent techniques in cognitive research.
+- Robot assisted surgical techniques.

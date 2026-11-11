@@ -1,0 +1,33 @@
+Title: IIT Gandhinagar | pd-raju
+Source: https://iitgn.ac.in/srs/maths/pd-raju
+
+# Raju Nandi
+
+- Senior Research Staff
+Raju Nandi
+
+## Raju Nandi
+
+Post-Doctoral Fellow, Mathematics
+
+- B.Sc. : Ramakrishna Mission Vivekananda Centenary College
+- M.Sc. : Indian Institute of Technology Madras, 2016
+- Ph.D. : Indian Institute of Technology Madras (2022)
+
+Email: raju.n -AT- iitgn.ac.in
+
+Website :  https://scholar.google.com/citations?user=evLdfYoAAAAJ&hl=en&oi=sra
+
+Work experience
+
+Post Doctoral Fellow, Indian Institute of Technology Gandhinagar, Gujarat (January 2023 - Present)
+
+Selected Publications
+
+- Nandi, R. and Sivakumar, K. C., Group Inverses of Matrices of Directed Trees, Electron. J. Linear Algebra 38, 617-631 (2022).
+- Sivakumar, K. C. and Raju Nandi, Group Inverses of Adjacency Matrices of Cycles, Wheels and Brooms, Computational and Applied Mathematics 41(196), 2022.
+- McDonald, J. J., Nandi, R. and Sivakumar, K. C., Group inverses of matrices associated with certain graph classes, Electron. J. Linear Algebra 38, 204-220 (2022).
+- McDonald, J. J., Nandi, R., Sivakumar, K. C., Sushmitha, P., Tsatsomeros, M. J., Wendler, E., and Wendler, M., $M$-matrix and inverse $M$-matrix extensions, Special Matrices, 8(1), 186-203 (2020).
+
+- ● Combinatorial Matrix Theory
+- ● Spectral Graph Theory

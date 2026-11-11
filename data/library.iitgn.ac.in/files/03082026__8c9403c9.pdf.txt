@@ -1,0 +1,124 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 31, 2026
+(Added during 27th July – 31st July 2026)
+Available for the issue from 08th August 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Deep learning with Python, 3rd ed.
+Author: Chollet, François
+Publisher: New York: Manning Publications, 2026
+Call No.: 006.31 CHO
+Acc. No.: 037198
+
+Title: Reinforcement learning: state-of-the-art
+Author: Wiering, Marco (Ed.)
+Publisher: Heidelberg: Springer, 2012
+Call No.: 006.31 WIE
+Acc. No.: 037199
+Title: Build a large language model (from scratch)
+Author: Raschka, Sebastian
+Publisher: New York: Manning Publications, 2025
+Call No.: 006.35 RAS
+Acc. No.: 037197
+
+ECONOMICS
+Title: Traders, speculators, and captains of industry: how capitalist legitimacy
+shaped foreign investment policy in India
+Author: Jackson, Jason
+Publisher: Cambridge, Massachusetts: Harvard University Press, 2025
+Call No.: 332.6730954 JAC
+Acc. No.: 037190
+Title: India’s forests: revisiting nature and history
+Author: Saikia, Arupjyoti (Ed.)
+Publisher: Gurugram: Vintage Books, 2026
+Call No.: 333.750954 SAI
+Acc. No.: 037193
+Title: Roots & wings - building India's deep tech ecosystem
+Author: Malhotra, Saloni
+Publisher: Chennai: Oxygen Books, 2026
+Call No.: 338.0640954 MAL
+Acc. No.: 037184
+
+SOCIAL PROBLEMS
+Title: Under grey smoggy skies: living homeless on the streets of India's cities
+Author: Mander, Harsh
+Publisher: New Delhi: Yoda Press, 2026
+Call No.: 362.50954 MAN
+Acc. No.: 037182
+
+MATHEMATICS
+Title: Algebraic geometry
+Author: Bump, Daniel
+Publisher: Singapore: World Scientific Publishing, 2022
+Call No.: 516.35 BUM
+Acc. No.: 037188
+Title: Rational points on varieties
+Author: Poonen, Bjorn
+Publisher: Providence, Rhode Island: American Mathematical Society, 2019
+Call No.: 516.35 POO
+Acc. No.: 037189
+
+ASTRONOMY
+Title: Edge of space-time: particles, poetry, and the cosmic dream boogie
+Author: Prescod-Weinstein, Chanda
+Publisher: Great Britain: Canongate, 2026
+Call No.: 523.1 PRE
+Acc. No.: 037191
+
+CIVIL ENGINEERING
+Title: Techniques for construction network scheduling
+Author: Stevens, James D.
+Publisher: New York: McGraw-Hill Book, 1990
+Call No.: 624.068 STE
+Acc. No.: 037192
+
+SANITARY ENGINEERING
+Title: Handbook of solid waste management, 2nd ed.
+Author: Tchobanoglous, George
+Publisher: New York: McGraw-Hill, 2002
+Call No.: 628.44068 TCH
+Acc. No.: 037195
+
+LITERATURE
+Title: Bharat ki saraswat sadhana
+Author: Tripathi, Radhavallabh
+Publisher: New Delhi: Vani Prakashan, 2026
+Call No.: 891.2 TRI
+Acc. No.: 037186
+Title: Man who made plants write
+Author: Bose, Jagadish Chandra
+Publisher: New Haven: Yale University Press, 2026
+Call No.: 891.443 BOS
+Acc. No.: 037194
+
+HISTORY & GEOGRAPHY
+Title: Ghosts of Indian small towns: a journey through time
+Author: Bond, Ruskin
+Publisher: New Delhi: Aleph Book Company, 2026
+Call No.: 915.4 BON
+Acc. No.: 037185
+
+CHILDREN COLLECTION
+Title: I survived series graphic novel 7: the great Chicago fire, 1871
+Author: Tarshis, Lauren
+Publisher: New York: Scholastic, 2026
+Call No.: 741.5973 TAR
+Acc. No.: CC2291
+
+Title: I survived series graphic novel 8: the American Revolution, 1776
+Author: Tarshis, Lauren
+Publisher: New York: Scholastic, 2026,
+Call No.: 741.5973 TAR
+Acc. No.: CC2292

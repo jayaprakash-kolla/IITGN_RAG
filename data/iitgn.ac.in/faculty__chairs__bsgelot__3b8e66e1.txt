@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | B S Gelot Chair
+Source: https://iitgn.ac.in/faculty/chairs/bsgelot
+
+# Faculty Chairs
+
+- Faculty Chairs
+- B S Gelot Chair
+
+## B S Gelot Chair
+
+ IIT Gandhinagar has setup a faculty chair in honour of Late Shri Bakshirambhai S Gelot through a donation by his son Shri Gordhanbhai B Gelot.
+
+Shri B S Gelot
+Shri Bakshirambhai S Gelot was a self-made successful farmer who was extremely passionate for education, born to a humble family of farmers in Deesa, Mr Gelot was deprived of formal education in his childhood. Led by his passion for education and knowledge, Mr Gelot as he grew up, found himself in company of educated people from whom he learnt how to read and write in Gujarati, His admiration for education and knowledge, made him promise to himself to provide the best education to his children. backed by his perseverance, Mr Gelot gradually established himself from a wage earner to a successful entrepreneur dealing with farm products.
+
+ Shri Gordhanbhai B Gelot
+
+##### Endowment
+
+ Shri Gordhanbhai B Gelot, has a post graduate degree in Industrial Microbiology from Gujarat University. He has been running a Small Scale Industrial (SSI) unit for ready-to-use clinical microbial analytical tools at GIDC Industrial Estate in Umargam for the last 44 years. Prior to setting up the SSI, Shri Gordhanbhai B Gelot has also worked with American and French pharma multinational corporations.
+
+##### Current Occupant
+
+Dr. Anirban Mondal
+B S Gelot Chair
+Associate Professor of Chemistry
+
+ Read More →
+
+## Dr. Anirban Mondal
+
+Dr. Anirban Mondal is an Associate Professor of Chemistry at IIT Gandhinagar, where he leads the Computational Materials Discovery Group. His research relies heavily on machine learning—integrating machine-learned interatomic potentials, data-driven inverse design, and algorithmic screening alongside first-principles electronic structure theory and multiscale modeling. By anchoring physical simulations with data-driven models, his group accelerates the discovery and characterization of functional materials for next-generation energy and sustainability applications. His work spans organic semiconductors, halide perovskites, solid-state electrolytes, hybrid molecule–metal interfaces, and plasmonic materials for photocatalysis—exploring fundamental transport phenomena, including electron–phonon coupling, to advance technologies such as OLEDs, solar cells, solid-state batteries, and fuel cells.
+
+ He completed his BSc (Chemistry Honors) at Visva-Bharati University (2010), followed by an MS in Materials Science (2013) and a PhD (2016) at the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bangalore. He then held a series of postdoctoral positions: at the Max Planck Institute for Polymer Research, Mainz, Germany (2016–18); Princeton University (2019–20); and the University of Luxembourg (Jan–Aug 2021).
+
+ He joined IIT Gandhinagar as an Assistant Professor in August 2021 and was promoted to Associate Professor in December 2025. His early research at IIT Gandhinagar was supported by a Research Initiation Grant from IIT Gandhinagar and a SERB Start-up Research Grant from the Department of Science and Technology, India.
+
+ His group has grown steadily, with two PhD theses submitted to date (the most recent defended successfully in April 2026), student honors including a Best Poster Award at the Theoretical Chemistry Symposium (Dec 2025), and members going on to postdoctoral fellowships, including an ANRF National Postdoctoral Fellowship awarded to a group member in July 2026.
+
+Research Interests:
+ 1. Data-Driven Discovery: Machine learning, ML potentials, and inverse design for materials screening.
+ 2. Optoelectronics & Excited States: Charge transport, excited states, and electron–phonon coupling.
+ 3. Displays & Photovoltaics: Blue OLED host–guest systems, halide perovskites, and solar cell donor–acceptors.
+ 4. Energy Storage & Conductors: Proton and ion transport in solid-state electrolytes and plastic crystals.
+ 5. Photocatalysis & Interfaces: Plasmonic materials and hybrid molecule–metal interfaces.

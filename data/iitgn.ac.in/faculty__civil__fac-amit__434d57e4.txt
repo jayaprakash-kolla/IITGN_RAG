@@ -1,0 +1,43 @@
+Title: IIT Gandhinagar | Amit Prashant
+Source: https://iitgn.ac.in/faculty/civil/fac-amit
+
+# Amit Prashant
+
+-  Civil Engineering
+Amit Prashant
+
+## Amit Prashant
+
+BIS STANDARDIZATION CHAIR Professor, Civil Engineering
+
+- BE: IIT Roorkee, India,1997
+- PhD: University of Tennessee at Knoxville, USA, 2004
+
+Email: ap -AT- iitgn.ac.in
+
+Office:  AB 6/406
+VOIP:  2415
+
+Bhattacharya, Debayan & Prashant, Amit. (2020). Effect of Loading Boundary Conditions in Plane Strain Mechanical Response and Local Deformations in Sand Specimens. Journal of Geotechnical and Geoenvironmental Engineering. 146. 1-16.
+
+Mukherjee, Mousumi & Gupta, Anurag & Prashant, Amit. (2020). A rate-dependent model for sand to predict constitutive response and instability onset. Acta Geotechnica. 10.1007/s11440-020-00988-8.
+
+Bhattacharya, Debayan & Kawamoto, Reid & Karapiperis, Konstantinos & Andrade, José & Prashant, Amit. (2020). Mechanical behaviour of granular media in flexible boundary plane strain conditions: experiment and level-set discrete element modelling. Acta Geotechnica. 10.1007/s11440-020-00996-8.
+
+Bhattacharya, Debayan & Mukherjee, Mousumi & Prashant, Amit. (2020). Perturbation Intensity and Mesh Convergence in Coupled Undrained Instability Analysis in Sands under Biaxial Loading. International Journal of Geomechanics. 20. 1-14. 10.1061/(ASCE)GM.1943-5622.0001694.
+
+Jadhav, Prajakta & Prashant, Amit. (2019). Computation of seismic translational and rotational displacements of cantilever retaining wall with shear key. Soil Dynamics and Earthquake Engineering. 130. 10.1016/j.soildyn.2019.105966.
+
+Jadhav, Prajakta & Prashant, Amit. (2019). Reply of authors to: Discussion on “Double wedge model for computing seismic sliding displacements of cantilever retaining walls” by R. Conti and N.Cusano. Soil Dynamics and Earthquake Engineering. 121. 10.1016/j.soildyn.2019.02.004.
+
+- Officiating Director, Indian Institute of Technology, Gandhinagar (Jul 2019 to Aug 2019)
+- Professor, Indian Institute of Technology, Gandhinagar (Nov 2015 to present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar (2010 to 2015)
+- Assistant Professor, Indian Institute of Technology, Kanpur (2005 to 2010)
+- Post Doctoral Fellow, University of Tennessee at Knoxville, Tennessee (2004 to 2005)
+- Assistant Engineer, Consulting Engineering Services India (pvt.) Ltd., New Delhi (1997 to 1999)
+
+- ● Constitutive modeling for granular materials
+- ● Numerical modeling of geotechnical structures
+- ● Earthquake geotechnical engineering
+- ● Applications of geosynthetics

@@ -1,0 +1,36 @@
+Title: IIT Gandhinagar | Madhu Gupta
+Source: https://iitgn.ac.in/faculty/maths/fac-madhu
+
+# Madhu Gupta
+
+-  Mathematics
+Madhu Gupta
+
+## Madhu Gupta
+
+Assistant Teaching Professor, Mathematics
+
+- BSc: Kisan Post Graduate College, 2011
+- MSc: Indian Institute of Technoogy Bombay, 2015
+- PhD: University of Texas at Arlington (UTA), 2022
+
+Email: madhu.gupta -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/view/madhu-gupta/
+
+Office:  AB 6/3459
+VOIP:  2632
+
+- Assistant Teaching Professor, Indian Institute of Technology Gandhinagar (Jan 2025 - Present).
+- Assistant Professor, Flame University (Jan 2024 - Jan 2025).
+- Assistant Editor, Wiley Publishing (Sept 2023 - Dec 2023)
+
+Awards
+
+- AWM Research Symposium, NSF-funded, 2023
+- SLAM conference on Optimization, NSF-funded Early CAreer, 2023
+
+- ● PDE-constrained optimization
+- ● Inverse problems in medical imaging
+- ● Deep learning
+- ● Nonstandard finite difference methods

@@ -1,0 +1,13 @@
+Title: Campus | IIT Gandhinagar
+Source: https://campus.iitgn.ac.in/dinning.php
+
+### Hostel Dining Facility
+
+ Hostel Dining Timings & Price Details
+
+| Meal | Timing (Mon–Sun) | Bhopal (₹) | Rgouras (₹) | Jaiswal (₹) | Mohani (₹) |
+| Breakfast | 07:45 AM – 10:00 AM | 44 | 50 | 53 | 53 |
+| Lunch | 12:15 PM – 02:15 PM | 53 | 68 | 73 | 73 |
+| Snacks | 04:30 PM – 05:45 PM | 26 | 32 | 37 | 37 |
+| Dinner | 07:30 PM – 09:30 PM | 53 | 68 | 73 | 73 |
+ Mess Menu

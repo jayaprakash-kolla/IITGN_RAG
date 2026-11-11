@@ -1,0 +1,4849 @@
+#flags:
+
+National Institutional Ranking Framework
+Ministry of Education
+Government of India
+Welcome to Data Capturing System: INNOVATION
+Submitted Institute Data for NIRF'2024'
+Institute Name: Indian Institute of Technology Gandhinagar [IR-I-U-0139]
+Sanctioned (Approved) Intake
+Academic Year
+
+2022-23
+
+2021-22
+
+2020-21
+
+2019-20
+
+2018-19
+
+2017-18
+
+UG [4 Years Program(s)]
+
+225
+
+225
+
+225
+
+193
+
+-
+
+-
+
+UG [5 Years Program(s)]
+
+40
+
+0
+
+0
+
+0
+
+0
+
+-
+
+PG [2 Year Program(s)]
+
+250
+
+224
+
+-
+
+-
+
+-
+
+-
+
+Total Actual Student Strength (Program(s) Offered by Your Institution)
+(All programs
+of all years)
+
+No. of Male
+Students
+
+No. of Female
+Students
+
+Total Students
+
+Within State
+(Including male
+& female)
+
+Outside State
+(Including male
+& female)
+
+Outside
+Country
+(Including male
+& female)
+
+Economically
+Backward
+(Including male
+& female)
+
+Socially
+Challenged
+(SC+ST+OBC
+Including male
+& female)
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from the State
+and Central
+Government
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from Institution
+Funds
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from the Private
+Bodies
+
+No. of students
+who are not
+receiving full
+tuition fee
+reimbursement
+
+UG [4 Years
+Program(s)]
+
+750
+
+183
+
+933
+
+137
+
+792
+
+4
+
+53
+
+469
+
+222
+
+149
+
+8
+
+143
+
+UG [5 Years
+Program(s)]
+
+30
+
+9
+
+39
+
+8
+
+31
+
+0
+
+2
+
+18
+
+9
+
+2
+
+0
+
+9
+
+PG [2 Year
+Program(s)]
+
+279
+
+155
+
+434
+
+33
+
+382
+
+19
+
+44
+
+193
+
+82
+
+85
+
+0
+
+70
+
+Start up recognized by DPIIT/startup India
+Name of Venture
+
+Year of recognition by DPIIT/startup India
+
+DPIIT/Start up India Registration No.
+
+Spectragaze Systems Pvt. Ltd.
+
+2022-23
+
+DIPP150625
+
+Biomer Advanced Materials
+
+2022-23
+
+DIPP148562
+
+Cellegant Energy Sytems Pvt Ltd
+
+2021-22
+
+DIPP100009
+
+Aspiel Syringes Private Limited
+
+2022-23
+
+DIPP123817
+
+Kapidhwaj AI
+
+2022-23
+
+DIPPI52043
+
+Galanto Innovations Pvt Ltd
+
+2020-21
+
+DIPP91674
+
+Suzhiyam Industrial Machines pvt ltd
+
+2022-23
+
+DIPP108810
+
+Qnanosol Biotech Private Limited
+
+2022-23
+
+DIPP121019
+
+Kalam Indigenous Technologies LLP
+
+2021-22
+
+DIPP112025
+
+Airth Research Private Limited
+
+2020-21
+
+DIPP64644
+
+Regumedica PVT LTD
+
+2021-22
+
+DIPP119691
+
+Exposit Immerive Solution Pvt Ltd
+
+2020-21
+
+DIPP52762
+
+InfyU LABS Pvt Ltd.
+
+2020-21
+
+DIPP68822
+
+Meiro Mobility Private Limited
+
+2021-22
+
+DIPP90358
+
+Startups which have got VC investment in previous 3/5 years
+Name of startups
+
+Amount received
+
+Organisation Name
+
+Year of receiving VC investment
+
+MICOB PRIVATE LIMTED
+
+40000000
+
+Three Lines Venture Capital USA
+
+2021-22
+
+InfyU LABS Pvt Ltd.
+
+18000000
+
+Indian Angel Network
+
+2020-21
+
+FDI investment in previous 3/5 years
+Name of startups
+MICOB PRIVATE LIMTED
+
+FDI investment received
+40000000
+
+Year of receiving FDI investment
+2021-22
+
+Innovation grant received from govt. organization in previous 3/5 years
+Name of Government organisation from which grant is received
+
+Amount of Grant received
+
+Year of receiving grant
+
+DST, Nidhi Prayas
+
+1000000
+
+2022-23
+
+DST, Nidhi Prayas
+
+1000000
+
+2020-21
+
+DST, Nidhi Prayas
+
+700000
+
+2022-23
+
+DST, Nidhi Prayas
+
+800000
+
+2022-23
+
+DST, Nidhi Prayas
+
+600000
+
+2020-21
+
+DST, Nidhi Prayas
+
+700000
+
+2022-23
+
+DST, Nidhi Seed Support
+
+5000000
+
+2020-21
+
+DST, Nidhi Prayas
+
+700000
+
+2022-23
+
+DST, Nidhi Prayas
+
+600000
+
+2020-21
+
+DST, Nidhi Prayas
+
+500000
+
+2021-22
+
+DST, Nidhi Prayas
+
+500000
+
+2020-21
+
+DST, Nidhi Prayas
+
+600000
+
+2020-21
+
+DST, Nidhi Prayas
+
+200000
+
+2020-21
+
+DST, Nidhi Prayas
+
+800000
+
+2021-22
+
+DST, Nidhi Prayas
+
+300000
+
+2021-22
+
+DST, Nidhi Prayas
+
+500000
+
+2022-23
+
+DST, Nidhi Prayas
+
+700000
+
+2022-23
+
+DST, Nidhi Prayas
+
+700000
+
+2022-23
+
+DST, Nidhi Prayas
+
+900000
+
+2022-23
+
+DST, Nidhi Prayas
+
+500000
+
+2022-23
+
+DST, Nidhi Prayas
+
+600000
+
+2022-23
+
+DST, Nidhi Prayas
+
+700000
+
+2022-23
+
+DST, Nidhi Prayas
+
+250000
+
+2022-23
+
+Patents
+Calendar year
+
+2022
+
+2021
+
+2020
+
+No. of Patents Published
+
+7
+
+11
+
+5
+
+No. of Patents Granted
+
+4
+
+3
+
+1
+
+Innovations at various stages of Technology Readiness Level
+Number of innovations
+
+Stage of technology
+
+A portable device for food industry quality managers to instantly assess incoming fruit consignments.
+
+Level 9
+
+A VR rehabilitation system with gamified exercises to monitor stroke patient recovery.
+
+Level 7
+
+A urine treatment system through hydrolysis and ammonia recovery.
+
+Level 4
+
+A transit model to facilitate shared rides and smart hardware system which serves a smart pick up/drop off location for services
+active in the mobility platform
+
+Level 8
+
+An optical imaging instrument which can be deployed in space to observe, monitor, and gather information about Earth and the
+cosmos.
+
+Level 2
+
+Developing ways to quickly stop bleeding from serious injuries by changing how blood behaves
+
+Level 3
+
+Developing a system which would help submarines stay underwater for longer periods.
+
+Level 4
+
+Innovation for parental drug delivery.
+
+Level 4
+
+A self-reliant, smart surveillance system which improves crime prevention.
+
+Level 4
+
+Innovation in converting solid waste to industrial fuel thereby promoting sustainability.
+
+Level 7
+
+A precise cancer diagnostic device for improved drug delivery for therapeutic applications in Cancer
+
+Level 3
+
+A device which measures permeability of shell and viscosity of ceramic slurry.
+
+Level 8
+
+A potent MedTech Device to control bleeding without pain and Infection which promotes healing at an affordable price.
+
+Level 4
+
+To develop the METAEASE Product which is a No code AR/VR platform
+
+Level 7
+
+0
+
+Level 5
+
+Ventures/startups grown to turnover of 50 lacs
+Name of startups
+
+Company's Turnover
+
+Financial Year
+
+MICOB PRIVATE LIMTED
+
+8384180
+
+2021-22
+
+MICOB PRIVATE LIMTED
+
+40942292
+
+2022-23
+
+GeoCarte Radar Technology Pvt Ltd
+
+9000000
+
+2020-21
+
+GeoCarte Radar Technology Pvt Ltd
+
+12800000
+
+2021-22
+
+GeoCarte Radar Technology Pvt Ltd
+
+13500000
+
+2022-23
+
+Exposit Immerive Solution Pvt Ltd
+
+8000000
+
+2022-23
+
+InfyU LABS Pvt Ltd.
+
+47100000
+
+2022-23
+
+Exposit Immerive Solution Pvt Ltd
+
+8000000
+
+2022-23
+
+Whitepanda Media Pvt Ltd
+
+7384651
+
+2020-21
+
+Alumni that are Founders of Forbes/Fortune 500 companies
+Name of the Alumni
+
+Program passed from
+
+Nisarg Shah
+
+Year of passing
+
+B.Tech
+
+Founder of company
+
+2014
+
+affable.ai
+
+Pre-incubation:expenditure/income
+Financial Year
+
+2022-23
+
+2021-22
+
+2020-21
+
+Number of Pre-incubation units
+
+20
+
+15
+
+8
+
+Expenditure on pre-incubation activities
+
+7608752
+
+3244000
+
+1696000
+
+Income generated by institution through pre-incubation
+activities
+
+432000
+
+324000
+
+86400
+
+Incubation:expenditure/income
+Financial Year
+
+2022-23
+
+2021-22
+
+2020-21
+
+Number of Incubation units
+
+1
+
+1
+
+1
+
+Expenditure on Incubation activities
+
+15322000
+
+12898000
+
+8919353
+
+Income generated by institution through Incubation activities
+
+17584000
+
+14083000
+
+10515709
+
+FDP
+Academic year
+
+Title of Course
+
+FDP Sponsored /Supported by
+
+Certificate Program Offering
+Department/Centre/ Unit Name
+
+Program Start Date
+
+Program End Date
+
+2022-23
+
+Developing High Growth Ventures
+
+IIEC
+
+IIEC
+
+2023-03-13
+
+2023-03-17
+
+2021-22
+
+Bootcamp in Bangalore
+
+IIEC
+
+IIEC
+
+2021-12-25
+
+2022-01-12
+
+2022-23
+
+Build your startup with BV Jagdeesh
+
+IIEC
+
+IIEC
+
+2022-05-03
+
+2022-05-07
+
+2022-23
+
+Bootcamp in Bangalore
+
+IIEC
+
+IIEC
+
+2022-05-16
+
+2022-05-22
+
+2021-22
+
+Regulatory Economics & Rate making
+
+IIT Gandhinagar
+
+Electrical Engineering
+
+2022-01-28
+
+2022-02-28
+
+2021-22
+
+3D Scanning and Printing [Maker
+Bhavan IITGN]
+
+IIT Gandhinagar
+
+Maker Bhavan
+
+2022-02-21
+
+2022-02-25
+
+Academic Courses in Innovation, Entrepreneurship and IPR
+Academic year
+
+Title of Course
+
+Course Code
+
+Type of Course
+
+Level of Course(UG/PG/PhD)
+
+Course Offering
+Department/Centre/ UnitName
+
+Total Credit Score
+
+2020-21
+
+Organizational Behaviour &
+Human Resource Management
+
+MS 304
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2020-21
+
+Engineering Entrepreneurship
+
+MS 403
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2020-21
+
+Special topics in Management:
+Marketing Analytics
+
+MS 491
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2020-21
+
+Special Topics in Management:
+Product Management
+
+MS 491-I
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2020-21
+
+Special Topics in Management:
+Finance Management
+
+MS 492
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+2
+
+2020-21
+
+Project Course
+
+MS 499
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2020-21
+
+From Idea to Marketable Product
+
+DES 201
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2020-21
+
+Project Course
+
+DES 499
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2020-21
+
+Introduction to Design and
+Innovation
+
+ES 201
+
+Core Course
+
+Bachelor
+
+Basic Science Engineering
+
+4
+
+2020-21
+
+Business Communications
+
+MS 204
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+2
+
+2020-21
+
+Principles of Business
+Management
+
+MS 306
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2020-21
+
+Introduction to Marketing
+
+MS 401
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2020-21
+
+Business Skills for Entrepreneurs
+
+MS 406
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2020-21
+
+Special Topics in Management:
+Social Media Marketing
+
+MS 491-II
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2020-21
+
+Creativity, Design and Doing
+
+DES 302
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2020-21
+
+Project Course
+
+DES 499
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2020-21
+
+Introduction to Design and
+Innovation
+
+ES 201
+
+Core Course
+
+Bachelor
+
+Basic Science Engineering
+
+4
+
+2021-22
+
+Engineering Entrepreneurship
+
+MS 403
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2021-22
+
+Special topics in Management:
+Marketing Analytics
+
+MS 491
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2021-22
+
+Special Topics in Management:
+Product Management
+
+MS 491-I
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2021-22
+
+Special Topics in Management:
+Digital lnnovation and
+transformation for Enterprises
+
+MS 491-III
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2021-22
+
+Special Topics in Management:
+Finance Management
+
+MS 492
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+2
+
+2021-22
+
+Creativity, Design and Doing
+
+DES 302
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2021-22
+
+Special Topics in HSS:
+Development Economics
+
+HS 591-III
+
+Elective Course
+
+Master
+
+Humanities and Social Sciences
+
+4
+
+2021-22
+
+Introduction to Design and
+Innovation
+
+ES 201
+
+Core Course
+
+Bachelor
+
+Basic Science Engineering
+
+4
+
+2021-22
+
+Business Communications
+
+MS 204
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+2
+
+2021-22
+
+Principles of Business
+Management
+
+MS 306
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2021-22
+
+Business Skills for Entrepreneurs
+
+MS 406
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2021-22
+
+Special Topics in Management:
+Social Media Marketing
+
+MS 491-II
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2021-22
+
+Special Topics in Management:
+Business Risk Management
+
+MS 491-IV
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+4
+
+2021-22
+
+Special Topics in Management:
+Strategic Leadership
+
+MS 492-I
+
+Elective Course
+
+Bachelor
+
+Management Studies
+
+2
+
+2021-22
+
+Creativity, Design and Doing
+
+DES 302
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2021-22
+
+Special Topics in Design: From
+Idea to marketable product
+
+DES 391
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2021-22
+
+Special Topics in Design: Playing
+with possibilities: gaming new
+worlds
+
+DES 492-I
+
+Elective Course
+
+Bachelor
+
+Design
+
+2
+
+2021-22
+
+Economics
+
+HS 151
+
+Core Course
+
+Bachelor
+
+Humanities and Social Sciences
+
+4
+
+2022-23
+
+Special Topics in
+Design:Fundamentals of Graphic
+Design
+
+DES 291
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2022-23
+
+Special Topics in Design: On the
+Possibility of Board Games
+
+DES 391-I
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2022-23
+
+Project Course
+
+DES 499
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2022-23
+
+Special Topics in Design: Visual
+Design for Academia
+
+DES 692
+
+Elective Course
+
+Masters
+
+Design
+
+2
+
+2022-23
+
+Engineering Entrepreneurship
+
+MS 403
+
+Elective Course
+
+Bachelor
+
+Humanities and Social Sciences
+
+4
+
+2022-23
+
+Special topics in Management:
+Marketing Analytics
+
+MS 491
+
+Elective Course
+
+Bachelor
+
+Humanities and Social Sciences
+
+4
+
+2022-23
+
+Special Topics in Management:
+Digital lnnovation and
+transformation for Enterprises
+
+MS 491-III
+
+Elective Course
+
+Bachelor
+
+Humanities and Social Sciences
+
+4
+
+2022-23
+
+Special Topics in Management:
+Alternative Business Models for
+Sustainable Development
+
+MS 491-V
+
+Elective Course
+
+Bachelor
+
+Humanities and Social Sciences
+
+4
+
+2022-23
+
+Special Topics in Management:
+Entrepreneurship and New
+Ventures
+
+MS 491-VI
+
+Elective Course
+
+Bachelor
+
+Humanities and Social Sciences
+
+4
+
+2022-23
+
+Creativity, Design and Doing
+
+DES 302
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2022-23
+
+Special Topics in Design:
+Information Design for eLearning
+
+DES 391-II
+
+Elective Course
+
+Bachelor
+
+Design
+
+4
+
+2022-23
+
+Business Communications
+
+MS 204
+
+Elective Course
+
+Bachelor
+
+Humanities & Social Sciences
+
+2
+
+2022-23
+
+Principles of Business
+Management
+
+MS 306
+
+Elective Course
+
+Bachelor
+
+Humanities & Social Sciences
+
+4
+
+2022-23
+
+Business Skills for Entrepreneurs
+
+MS 406
+
+Elective Course
+
+Bachelor
+
+Humanities & Social Sciences
+
+4
+
+2022-23
+
+Special Topics in Management:
+Social Media Marketing
+
+MS 491-II
+
+Elective Course
+
+Bachelor
+
+Humanities & Social Sciences
+
+4
+
+2022-23
+
+Special Topics in Management:
+Strategic Leadership
+
+MS 492-I
+
+Elective Course
+
+Bachelor
+
+Humanities & Social Sciences
+
+2
+
+2022-23
+
+Special Topics in Management:
+Business Risk Management
+
+MS 492-II
+
+Elective Course
+
+Bachelor
+
+Humanities & Social Sciences
+
+2
+
+Faculty Details
+
+Srno
+
+Name
+
+Age
+
+Designation
+
+Gender
+
+Qualification
+
+Experience (In
+Months)
+
+Currently working
+with institution?
+
+Joining Date
+
+Leaving Date
+
+Association type
+
+1
+
+APPAYEE
+CHANDRAKUMAR
+
+47
+
+Associate Professor
+
+Male
+
+Ph.D
+
+182
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+2
+
+BHARADWAJ
+PALLAVI
+
+32
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+58
+
+Yes
+
+10-07-2023
+
+--
+
+Regular
+
+3
+
+CHAKRABORTY
+ARUP LAL
+
+48
+
+Associate Professor
+
+Male
+
+Ph.D
+
+231
+
+Yes
+
+26-05-2010
+
+--
+
+Regular
+
+4
+
+DALVI SAMEER
+VISHVANATH
+
+44
+
+Professor
+
+Male
+
+Ph.D
+
+194
+
+Yes
+
+29-12-2009
+
+--
+
+Regular
+
+5
+
+GAURAV
+
+38
+
+Associate Professor
+
+Male
+
+Ph.D
+
+138
+
+Yes
+
+29-05-2013
+
+--
+
+Regular
+
+6
+
+GUPTA
+DEVKINANDAN
+MANOJ
+
+40
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+109
+
+Yes
+
+31-01-2016
+
+--
+
+Regular
+
+7
+
+KALON
+GOPINADHAN
+
+47
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+175
+
+Yes
+
+16-07-2018
+
+--
+
+Regular
+
+8
+
+KIM JOOYOUNG
+
+43
+
+Other
+
+Female
+
+Ph.D
+
+63
+
+Yes
+
+01-01-2020
+
+--
+
+Adhoc / Contractual
+
+9
+
+KUMAR TARUN
+AGARWAL
+
+38
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+27
+
+Yes
+
+19-04-2021
+
+--
+
+Regular
+
+10
+
+MEENA YOGESH
+KUMAR
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+137
+
+Yes
+
+14-02-2023
+
+--
+
+Regular
+
+11
+
+MISRA GADADHAR
+
+67
+
+Other
+
+Male
+
+Ph.D
+
+504
+
+Yes
+
+11-11-2021
+
+--
+
+Adhoc / Contractual
+
+12
+
+MONDAL BISWAJIT
+
+34
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+57
+
+Yes
+
+21-09-2021
+
+--
+
+Regular
+
+13
+
+NARAYANAN
+VINOD
+
+50
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+208
+
+Yes
+
+28-05-2009
+
+--
+
+Regular
+
+14
+
+PATEL SAMEER
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+29
+
+Yes
+
+05-01-2021
+
+--
+
+Regular
+
+15
+
+RAMAN
+SHANMUGANATHA
+N
+
+43
+
+Associate Professor
+
+Male
+
+Ph.D
+
+238
+
+Yes
+
+20-05-2013
+
+--
+
+Regular
+
+16
+
+SACHAN AJANTA
+
+48
+
+Associate Professor
+
+Female
+
+Ph.D
+
+219
+
+Yes
+
+09-12-2010
+
+--
+
+Regular
+
+17
+
+SENGUPTA ANAND
+SANKAR
+
+50
+
+Associate Professor
+
+Male
+
+Ph.D
+
+136
+
+Yes
+
+07-02-2012
+
+--
+
+Regular
+
+18
+
+Sharmita Lahiri
+
+51
+
+Associate Professor
+
+Female
+
+Ph.D
+
+180
+
+Yes
+
+27-07-2009
+
+--
+
+Regular
+
+19
+
+SINGHANIA
+DEEPAK
+
+41
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+25
+
+Yes
+
+23-07-2021
+
+--
+
+Regular
+
+20
+
+TYAGI JAGMOHAN
+
+42
+
+Associate Professor
+
+Male
+
+Ph.D
+
+183
+
+Yes
+
+13-12-2010
+
+--
+
+Regular
+
+21
+
+Aashish Xaxa
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+23
+
+Yes
+
+06-04-2022
+
+--
+
+Regular
+
+22
+
+BARADHWAJ
+PANAYANCHERI
+COLEPPA
+
+43
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+167
+
+Yes
+
+16-12-2014
+
+--
+
+Regular
+
+23
+
+BHATIA UDIT
+
+34
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+79
+
+Yes
+
+17-01-2019
+
+--
+
+Regular
+
+24
+
+CHANNARAYAPAT
+NA V SHARADA
+
+42
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+103
+
+Yes
+
+01-02-2019
+
+--
+
+Regular
+
+25
+
+DATTA BHASKAR
+
+46
+
+Associate Professor
+
+Male
+
+Ph.D
+
+287
+
+Yes
+
+22-12-2011
+
+--
+
+Regular
+
+26
+
+GHOROI CHINMAY
+
+51
+
+Professor
+
+Male
+
+Ph.D
+
+219
+
+Yes
+
+15-06-2009
+
+--
+
+Regular
+
+27
+
+Iti Gupta
+
+48
+
+Associate Professor
+
+Female
+
+Ph.D
+
+216
+
+Yes
+
+03-07-2009
+
+--
+
+Regular
+
+28
+
+KANUNGO ALOK
+KUMAR
+
+52
+
+Other
+
+Male
+
+Ph.D
+
+276
+
+Yes
+
+29-09-2014
+
+--
+
+Adhoc / Contractual
+
+29
+
+Krishna Kanti Dey
+
+43
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+131
+
+Yes
+
+19-08-2016
+
+--
+
+Regular
+
+30
+
+MAJUMDAR
+SHARMISTHA
+
+49
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+175
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+31
+
+MEKIE JOYCEE
+MANILAL
+
+48
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+190
+
+Yes
+
+30-12-2009
+
+--
+
+Regular
+
+32
+
+MIYAPURAM
+KRISHNAPRASAD
+
+46
+
+Associate Professor
+
+Male
+
+Ph.D
+
+193
+
+Yes
+
+03-10-2012
+
+--
+
+Regular
+
+33
+
+MUBASHSHIR
+AHSAN MOHD
+
+43
+
+Lecturer
+
+Male
+
+Ph.D
+
+125
+
+Yes
+
+01-07-2019
+
+--
+
+Adhoc / Contractual
+
+34
+
+PAHALAJANI
+CHETAN
+DEVKISHIN
+
+49
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+186
+
+Yes
+
+14-07-2014
+
+--
+
+Regular
+
+35
+
+PRABHAKAR N V
+
+53
+
+Associate Professor
+
+Male
+
+Ph.D
+
+33
+
+Yes
+
+16-09-2020
+
+--
+
+Regular
+
+36
+
+RATH ARNAPURNA
+
+44
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+158
+
+Yes
+
+24-12-2010
+
+--
+
+Regular
+
+37
+
+SAIRAM
+MALLAJOSYULA
+SWAROOP
+
+42
+
+Associate Professor
+
+Male
+
+Ph.D
+
+115
+
+Yes
+
+12-12-2013
+
+--
+
+Regular
+
+38
+
+SETT SOUMYADIP
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+25
+
+Yes
+
+23-06-2021
+
+--
+
+Regular
+
+39
+
+SINGH HARMEET
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+77
+
+Yes
+
+16-12-2022
+
+--
+
+Regular
+
+40
+
+Sudipta Sarkar
+
+43
+
+Associate Professor
+
+Male
+
+Ph.D
+
+144
+
+Yes
+
+21-07-2014
+
+--
+
+Regular
+
+41
+
+VASHISTA VINEET
+
+39
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+93
+
+Yes
+
+26-11-2015
+
+--
+
+Regular
+
+42
+
+BANERJEE RUPAK
+
+43
+
+Associate Professor
+
+Male
+
+Ph.D
+
+241
+
+Yes
+
+01-07-2015
+
+--
+
+Regular
+
+43
+
+BHATIA DHIRAJ
+
+41
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+120
+
+Yes
+
+02-07-2018
+
+--
+
+Regular
+
+44
+
+CHANDRA VINOD
+
+42
+
+Associate Professor
+
+Male
+
+Ph.D
+
+184
+
+Yes
+
+01-07-2014
+
+--
+
+Regular
+
+45
+
+DASGUPTA
+ANIRBAN
+
+48
+
+Professor
+
+Male
+
+Ph.D
+
+199
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+46
+
+GEORGE NITHIN
+VARGHESE
+
+39
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+138
+
+Yes
+
+16-11-2012
+
+--
+
+Regular
+
+47
+
+HEGDE
+SADANANDA RAVI
+
+45
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+182
+
+Yes
+
+06-07-2015
+
+--
+
+Regular
+
+48
+
+KANETKAR
+MANASI
+
+44
+
+Other
+
+Female
+
+Ph.D
+
+199
+
+Yes
+
+17-12-2018
+
+--
+
+Adhoc / Contractual
+
+49
+
+KOMARATH
+BALAGOPAL
+
+38
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+30
+
+Yes
+
+21-12-2020
+
+--
+
+Regular
+
+50
+
+LAZAR LESLEE
+
+45
+
+Other
+
+Male
+
+Ph.D
+
+90
+
+Yes
+
+26-12-2016
+
+--
+
+Adhoc / Contractual
+
+51
+
+MEHROTRA
+SURYA PRATAP
+
+77
+
+Other
+
+Male
+
+Ph.D
+
+323
+
+Yes
+
+04-07-2012
+
+--
+
+Adhoc / Contractual
+
+52
+
+MITHUN
+RADHAKRISHNA
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+92
+
+Yes
+
+09-12-2016
+
+--
+
+Regular
+
+53
+
+MOONA RAJAT
+
+58
+
+Professor
+
+Male
+
+Ph.D
+
+118
+
+Yes
+
+03-11-2022
+
+--
+
+Regular
+
+54
+
+PADHIYAR NITIN
+UMEDLAL
+
+46
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+193
+
+Yes
+
+13-04-2009
+
+--
+
+Regular
+
+55
+
+PINDORIYA NARAN
+MANJI
+
+46
+
+Associate Professor
+
+Male
+
+Ph.D
+
+217
+
+Yes
+
+29-11-2010
+
+--
+
+Regular
+
+56
+
+RANGANATHAN
+RAGHAVAN
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+81
+
+Yes
+
+04-07-2019
+
+--
+
+Regular
+
+57
+
+SAHA JHUMA
+
+36
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+26
+
+Yes
+
+07-05-2021
+
+--
+
+Regular
+
+58
+
+SENGUPTA
+MADHUMITA
+
+51
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+283
+
+Yes
+
+22-04-2014
+
+--
+
+Regular
+
+59
+
+SHEKHAR KARLA
+PATRICIA
+
+37
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+103
+
+Yes
+
+15-04-2019
+
+--
+
+Regular
+
+60
+
+Subramanian
+Sankaranarayanan
+
+40
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+91
+
+Yes
+
+09-06-2022
+
+--
+
+Regular
+
+61
+
+Vadali Madhukanth
+Venkata
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+115
+
+Yes
+
+04-12-2017
+
+--
+
+Regular
+
+62
+
+AMBIKA
+AIYADURAI
+
+51
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+83
+
+Yes
+
+16-08-2016
+
+--
+
+Regular
+
+63
+
+BASU SUDIPTA
+
+44
+
+Associate Professor
+
+Male
+
+Ph.D
+
+197
+
+Yes
+
+12-07-2018
+
+--
+
+Regular
+
+64
+
+BICHHAWAT
+ABHISHEK
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+28
+
+Yes
+
+30-03-2021
+
+--
+
+Regular
+
+65
+
+CHOKSI NISHAANT
+
+42
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+60
+
+Yes
+
+16-07-2018
+
+--
+
+Regular
+
+66
+
+DIXIT ATUL ABHAY
+
+41
+
+Associate Professor
+
+Male
+
+Ph.D
+
+82
+
+Yes
+
+14-08-2015
+
+--
+
+Regular
+
+67
+
+GHOSH UDDIPTA
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+84
+
+Yes
+
+15-12-2017
+
+--
+
+Regular
+
+68
+
+JASUJA KABEER
+
+40
+
+Associate Professor
+
+Male
+
+Ph.D
+
+143
+
+Yes
+
+01-10-2012
+
+--
+
+Regular
+
+69
+
+KHATUA
+SAUMYAKANTI
+
+39
+
+Associate Professor
+
+Male
+
+Ph.D
+
+98
+
+Yes
+
+06-04-2015
+
+--
+
+Regular
+
+70
+
+KUMAR MANISH
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+99
+
+Yes
+
+15-06-2015
+
+--
+
+Regular
+
+71
+
+MANJALY JAISON
+ANTONY
+
+46
+
+Professor
+
+Male
+
+Ph.D
+
+202
+
+Yes
+
+16-10-2008
+
+--
+
+Regular
+
+72
+
+MISHRA SUPERB
+KUMAR
+
+42
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+194
+
+Yes
+
+03-03-2014
+
+--
+
+Regular
+
+73
+
+MOHAPATRA
+PRANAB KUMAR
+
+59
+
+Professor
+
+Male
+
+Ph.D
+
+320
+
+Yes
+
+24-11-2014
+
+--
+
+Regular
+
+74
+
+MUKHOPADHYAY
+JYOTI
+
+72
+
+Other
+
+Male
+
+Ph.D
+
+414
+
+Yes
+
+01-11-2012
+
+--
+
+Adhoc / Contractual
+
+75
+
+PANDA EMILA
+
+45
+
+Associate Professor
+
+Female
+
+Ph.D
+
+190
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+76
+
+PURI RAVINDER
+
+72
+
+Other
+
+Male
+
+Ph.D
+
+251
+
+Yes
+
+14-07-2014
+
+--
+
+Adhoc / Contractual
+
+77
+
+ROWTHU
+SRIHARITHA
+
+36
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+81
+
+Yes
+
+06-12-2019
+
+--
+
+Regular
+
+78
+
+SEETHARAMAN
+RAJENDRAN
+
+64
+
+Other
+
+Male
+
+M.Tech
+
+474
+
+Yes
+
+23-05-2011
+
+--
+
+Adhoc / Contractual
+
+79
+
+SHARMA
+SUDHANSHU
+
+44
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+168
+
+Yes
+
+09-07-2012
+
+--
+
+Regular
+
+80
+
+SINGH RISHI
+NARAIN
+
+81
+
+Other
+
+Male
+
+Ph.D
+
+703
+
+Yes
+
+29-12-2015
+
+--
+
+Adhoc / Contractual
+
+81
+
+Tanya Kaushal
+Srivastava
+
+32
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+56
+
+Yes
+
+24-08-2021
+
+--
+
+Regular
+
+82
+
+VENKATESH
+PRASANNA B
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+35
+
+Yes
+
+01-10-2018
+
+--
+
+Regular
+
+83
+
+Abinaya Sampath
+
+30
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+13
+
+Yes
+
+26-07-2022
+
+--
+
+Regular
+
+84
+
+BASU DHIMAN
+
+52
+
+Associate Professor
+
+Male
+
+Ph.D
+
+256
+
+Yes
+
+01-08-2012
+
+--
+
+Regular
+
+85
+
+BHATTACHARYYA
+ARPAN
+
+34
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+44
+
+Yes
+
+21-10-2019
+
+--
+
+Regular
+
+86
+
+CHATTOPADHYAY
+ARKA
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+83
+
+Yes
+
+08-11-2017
+
+--
+
+Regular
+
+87
+
+DAYAL PRATYUSH
+
+49
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+217
+
+Yes
+
+28-06-2012
+
+--
+
+Regular
+
+88
+
+GHOSH PRADIPTA
+
+40
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+108
+
+Yes
+
+04-07-2019
+
+--
+
+Regular
+
+89
+
+JAIN VIKRANT
+
+50
+
+Professor
+
+Male
+
+Ph.D
+
+276
+
+Yes
+
+14-06-2013
+
+--
+
+Regular
+
+90
+
+Karthik
+Subramaniam
+Pushpavanam
+
+34
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+40
+
+Yes
+
+22-09-2021
+
+--
+
+Regular
+
+91
+
+KULKARNI
+SAMEER
+
+42
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+169
+
+Yes
+
+03-04-2020
+
+--
+
+Regular
+
+92
+
+MANDAL RUSA
+
+34
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+59
+
+Yes
+
+30-06-2022
+
+--
+
+Regular
+
+93
+
+MISHRA ABHIJIT
+
+44
+
+Associate Professor
+
+Male
+
+Ph.D
+
+153
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+94
+
+MOHAPATRA
+NIHAR RANJAN
+
+47
+
+Professor
+
+Male
+
+Ph.D
+
+249
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+95
+
+MUKESH DHANKA
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+39
+
+Yes
+
+10-06-2022
+
+--
+
+Regular
+
+96
+
+PALANTHANDALA
+M MADAPUSI
+HARISH
+JAGANATHAN
+
+44
+
+Associate Professor
+
+Male
+
+Ph.D
+
+196
+
+Yes
+
+21-12-2011
+
+--
+
+Regular
+
+97
+
+PRASHANT AMIT
+
+48
+
+Professor
+
+Male
+
+Ph.D
+
+235
+
+Yes
+
+06-12-2010
+
+--
+
+Regular
+
+98
+
+RAVI SASTRI
+AYYAGARI
+
+41
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+137
+
+Yes
+
+14-12-2016
+
+--
+
+Regular
+
+99
+
+SAURABH BIPUL
+
+39
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+89
+
+Yes
+
+04-10-2018
+
+--
+
+Regular
+
+100
+
+SHAH MANA
+APPORVA
+
+34
+
+Lecturer
+
+Female
+
+Ph.D
+
+107
+
+Yes
+
+17-07-2017
+
+--
+
+Adhoc / Contractual
+
+101
+
+SINGH MAYANK
+
+34
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+73
+
+Yes
+
+06-02-2019
+
+--
+
+Regular
+
+102
+
+SUNDARAM DILIP
+SRINIVAS
+
+40
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+128
+
+Yes
+
+01-12-2015
+
+--
+
+Regular
+
+103
+
+VATWANI AKSHAA
+
+34
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+84
+
+Yes
+
+23-07-2018
+
+--
+
+Regular
+
+104
+
+ARORA AMIT
+
+42
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+154
+
+Yes
+
+31-10-2011
+
+--
+
+Regular
+
+105
+
+BHARGAV ATUL
+
+43
+
+Associate Professor
+
+Male
+
+Ph.D
+
+191
+
+Yes
+
+04-05-2011
+
+--
+
+Regular
+
+106
+
+CHANDAN KUMAR
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+71
+
+Yes
+
+28-01-2021
+
+--
+
+Regular
+
+107
+
+DAS BIRESWAR
+
+45
+
+Associate Professor
+
+Male
+
+Ph.D
+
+154
+
+Yes
+
+28-06-2010
+
+--
+
+Regular
+
+108
+
+GAUTAM ABHAY
+RAJ SINGH
+
+46
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+172
+
+Yes
+
+07-10-2014
+
+--
+
+Regular
+
+109
+
+GUPTA SHARAD
+
+45
+
+Associate Professor
+
+Male
+
+Ph.D
+
+167
+
+Yes
+
+11-07-2012
+
+--
+
+Regular
+
+110
+
+KANAGARAJ
+RAGAVAN
+
+48
+
+Associate Professor
+
+Male
+
+Ph.D
+
+193
+
+Yes
+
+05-05-2009
+
+--
+
+Regular
+
+111
+
+KIRUBAKARAN
+SIVAPRIYA
+
+44
+
+Associate Professor
+
+Female
+
+Ph.D
+
+207
+
+Yes
+
+23-01-2023
+
+--
+
+Regular
+
+112
+
+LAHIRI UTTAMA
+
+56
+
+Associate Professor
+
+Female
+
+Ph.D
+
+300
+
+Yes
+
+25-04-2012
+
+--
+
+Regular
+
+113
+
+MEERA MARY
+THOMPUNNAYIL
+SUNNY
+
+40
+
+Associate Professor
+
+Female
+
+Ph.D
+
+137
+
+Yes
+
+01-02-2012
+
+--
+
+Regular
+
+114
+
+MISRA
+NEELDHARA
+
+37
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+143
+
+Yes
+
+22-09-2015
+
+--
+
+Regular
+
+115
+
+MONDAL
+SHOUVICK
+
+32
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+27
+
+Yes
+
+01-02-2023
+
+--
+
+Regular
+
+116
+
+NETTEMADATHIL
+RAMAKRISHNAN
+
+80
+
+Other
+
+Male
+
+Ph.D
+
+162
+
+Yes
+
+04-01-2010
+
+--
+
+Adhoc / Contractual
+
+117
+
+PERES MARIA DE
+FIGUEIREDO
+ROSA
+
+70
+
+Other
+
+Female
+
+Ph.D
+
+480
+
+Yes
+
+02-08-2021
+
+--
+
+Adhoc / Contractual
+
+118
+
+RANE KAUSTUBH
+SUNIL
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+117
+
+Yes
+
+15-07-2016
+
+--
+
+Regular
+
+119
+
+SAHA ARNAB
+
+40
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+213
+
+Yes
+
+02-07-2019
+
+--
+
+Regular
+
+120
+
+SENGUPTA
+INDRANATH
+
+54
+
+Professor
+
+Male
+
+Ph.D
+
+110
+
+Yes
+
+22-04-2014
+
+--
+
+Regular
+
+121
+
+SHEKHAR
+HIMANSHU
+
+38
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+117
+
+Yes
+
+15-04-2019
+
+--
+
+Regular
+
+122
+
+SRIVASTAVA
+ASHUTOSH
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+30
+
+Yes
+
+29-12-2020
+
+--
+
+Regular
+
+123
+
+UTSAV MANNU
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+70
+
+Yes
+
+02-11-2021
+
+--
+
+Regular
+
+124
+
+AMRUTIYA
+SANJAYKUMAR
+HANSRAJ
+
+41
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+145
+
+Yes
+
+01-07-2014
+
+--
+
+Regular
+
+125
+
+BATRA NIPUN
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+72
+
+Yes
+
+09-07-2018
+
+--
+
+Regular
+
+126
+
+BISWAJIT SAHA
+
+40
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+134
+
+Yes
+
+18-07-2022
+
+--
+
+Regular
+
+127
+
+CHOUDHURY
+PROJESH NATH
+
+32
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+15
+
+Yes
+
+24-08-2022
+
+--
+
+Regular
+
+128
+
+GANESH SAI HARI
+
+34
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+29
+
+Yes
+
+27-01-2021
+
+--
+
+Regular
+
+129
+
+GUNDIMEDA
+VENKATA SRIRAM
+KANVAH
+
+50
+
+Associate Professor
+
+Male
+
+Ph.D
+
+266
+
+Yes
+
+31-12-2009
+
+--
+
+Regular
+
+130
+
+JAYAPRAKASH K R
+
+42
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+139
+
+Yes
+
+14-03-2017
+
+--
+
+Regular
+
+131
+
+KHIANGTE KRISTA
+ROLUAHPUIA
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+64
+
+Yes
+
+30-06-2022
+
+--
+
+Regular
+
+132
+
+KUMAR MISHRA
+ROHIT
+
+33
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+26
+
+Yes
+
+10-05-2021
+
+--
+
+Regular
+
+133
+
+MCBLANE ANGUS
+ALEXANDER
+JAMES
+
+38
+
+Other
+
+Male
+
+Ph.D
+
+102
+
+Yes
+
+29-06-2015
+
+--
+
+Adhoc / Contractual
+
+134
+
+MISHRA VIMAL
+
+45
+
+Associate Professor
+
+Male
+
+Ph.D
+
+157
+
+Yes
+
+31-05-2012
+
+--
+
+Regular
+
+135
+
+MONDAL ANIRBAN
+
+33
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+82
+
+Yes
+
+27-08-2021
+
+--
+
+Regular
+
+136
+
+MUTHA PRATIK
+KIRAN
+
+43
+
+Associate Professor
+
+Male
+
+Ph.D
+
+163
+
+Yes
+
+11-11-2013
+
+--
+
+Regular
+
+137
+
+PANKAJ KHANNA
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+61
+
+Yes
+
+01-12-2021
+
+--
+
+Regular
+
+138
+
+RAJKRISHNA
+DUTTA
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+26
+
+Yes
+
+25-05-2022
+
+--
+
+Regular
+
+139
+
+ROY SUTAPA
+
+39
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+30
+
+Yes
+
+01-12-2020
+
+--
+
+Regular
+
+140
+
+SEN SUSHOBHAN
+
+32
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+46
+
+Yes
+
+27-12-2022
+
+--
+
+Regular
+
+141
+
+SHARMA V D
+
+73
+
+Other
+
+Male
+
+Ph.D
+
+443
+
+Yes
+
+21-10-2019
+
+--
+
+Adhoc / Contractual
+
+142
+
+SINGH
+UMASHANKAR
+
+47
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+187
+
+Yes
+
+28-05-2015
+
+--
+
+Regular
+
+143
+
+THAREJA PRACHI
+
+42
+
+Associate Professor
+
+Female
+
+Ph.D
+
+187
+
+Yes
+
+22-12-2011
+
+--
+
+Regular

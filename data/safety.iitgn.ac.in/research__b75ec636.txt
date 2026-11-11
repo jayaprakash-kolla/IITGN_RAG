@@ -1,0 +1,38 @@
+Title: Research | Centre for Safety Engineering (CSE)
+Source: https://safety.iitgn.ac.in/research
+
+# Research
+
+Safety centre undertakes a vigorous program of safety research, consultation and project implementation in the formal and informal sector. Several research projects at PhD and Master’s level have been undertaken by Faculty, including the study of human factors in process control and alarm management directed towards preventing accidents in chemical plants and design of inherently safe chemical plants. A number of undergraduate projects have also been initiated including the development of an Indian Fire incident Database and development of an Android App for fire reporting.
+
+Enhancing Battery Fire Safety: A Multidisciplinary Approach for Reliable Electric Vehicle Systems
+
+Development of smart, environment-friendly, and low-cost fire detection and suppression system (Funded by MHRD and Vimal Fire Controls Ltd.)
+
+Glass Facade Building Fire behaviour in full-scale Building (Funded by UL and IIT Gandhinagar)
+
+Computational Modeling of the Condensed Phase Aerosol (Funded by Underwriters Laboratories)
+
+Cognitive Engineering for Process Safety (Funded by IIT Gandhinagar)
+
+Kitchen Fire Safety System (Funded by Underwriters Laboratories)
+
+# Other Research Projects
+
+Performance of glass-ACP façade system in a full-scale real fire test in a G+2 structure
+
+Effect of fire on in-plane and out-of-plane behaviour of reinforced concrete frames with and without masonry infills (Funded by IIT Gandhinagar)
+
+Eye tracking operator training to
+ evaluate operators’ expertise in the process plant
+
+Physio-chemical characterization of
+ cement mortar at high temperature
+
+Esoscale modelling of concrete at elevated temperature
+
+Topology optimization of steel girders subjected to thermal and mechanical loads
+
+Safety, performance and reliability of roof-top solar photovoltaic systems
+
+Experimental Evaluation of Dynamic Characteristics

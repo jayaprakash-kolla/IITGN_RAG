@@ -1,0 +1,46 @@
+Title: IIT Gandhinagar | Kiran Sasikumar
+Source: https://iitgn.ac.in/faculty/guestprof/kiran_sasikumar
+
+# Kiran Sasikumar
+
+-  Guest Professors
+Kiran Sasikumar
+
+## Kiran Sasikumar
+
+Guest Faculty, Electrical Engineering
+
+- BTech: National Institute of Technology, Calicut, India, 2009
+- PhD: Rensselaer Polytechnic Institute, Troy, NY, USA 2014
+
+Development of chemical kinetics models from atomistic reactive molecular dynamics simulations: Application to iso-octane combustion and rubber ablative degradation. K. Sasikumar  et al. J. Phys. Chem. A 126 (21), 3358-3372 (2022).
+
+Efficient crystal structure prediction for structurally related molecules with accurate and transferable tailor-made force fields. A. Mattei, R. S. Hong, H. Dietrich, D. Firaha, J. Helfferich, Y. M. Liu, K. Sasikumar , N. S. Abraham, R. M. Bhardwaj, M. A. Neumann, and A. Y. Sheikh. J. Chem. Theory Comput. 18 (9), 5725–5738 (2022).
+
+Machine learning applied to a variable charge atomistic model for Cu/Hf binary alloy oxide heterostructures.
+K. Sasikumar et al. Chem. Mater. 31 (9), 3089-3102 (2019).
+
+Active site localization of methane oxidation on Pt crystals. D. Kim, M. Chung,J. Carnis, S. Kim, K. Yun, J. Kang, W. Cha, M. J. Cherukara, E. Maxey, R. Harder, K. Sasikumar, S. K. R. S. Sankaranarayanan, A. Zozulya, M. Sprung, D. Riu, and H. Kim. Nat. Comm. 9 (1), 3422 (2018).
+
+Evolutionary optimization of a charge transfer ionic potential model for Ta/Ta-oxide heterointerafces. K. Sasikumar et al. Chem. Mater. 29 (8), 3603-3614 (2017).
+
+- Guest Faculty, Indian Institute of Technology, Gandhinagar (Dec 2023 to present)
+- Application Scientist and Scientific Software Developer, Merzhausen, Germany (Apr 2018 - Dec 2023 )
+- Postdoctoral Researcher, Lemont, IL, USA, (Feb 2015- Apr 2018)
+
+Awards
+
+- Argonne postdoctoral performance award in Basic Research Category 2017 – Honorable Mention.
+
+- Mentoring award – lighting the pathway for emerging scientist as an Argonne/ACT-SO Mentor.
+
+- ● Atomistic and continuum-scale simulation
+- ● Multiscale modeling
+- ● Development of scientific workflows
+- ● Machine learning
+- ● Pharmaceutical solid-form structure-based risk assessment
+- ● Crystal structure prediction
+- ● Crystallography
+- ● Nanoscale heat transfer, thermodynamics, and phase change
+- ● Production software development
+- ● Science communication

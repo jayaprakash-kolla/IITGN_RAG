@@ -1,0 +1,917 @@
+#flags:
+
+RESEARCH &
+DEVELOPMENT
+
+JUL - SEP 2025
+
+NEWS
+
+IIT GANDHINAGAR
+
+iitgn.ac.in/research/
+
+COVER STORY
+In the third quarter, IITGN hosted R&D events that bolstered industry-academia collaborations and networks. The Institute
+hosted Mr SASAKI Jun, Vice Governor of Iwate Prefecture, Japan, along with officials from Japan International Cooperation
+Agency, Iwate Industry Promotion Center, and Gujarat State Electronics Mission. The visit focused on collaborating in
+semiconductor research, skill development, and innovation, with plans for student exchanges, joint research, and industry
+partnerships.
+IITGN also conducted the Netherlands Hydrogen Innovation Mission Workshop to foster dialogue and
+collaboration in hydrogen technology. The event attracted domain experts, policymakers, and industry leaders
+from both India and the Netherlands, including representatives from key Dutch organisations like TNO and
+the Port of Rotterdam Authority. Mr Nabil Taouati, Consul General of the Kingdom of the Netherlands in
+Mumbai, highlighted the growing Indo-Dutch partnership across various sectors, including energy transition,
+healthcare, and innovation.
+Another flagship industry event conducted was ORBIT, IITGN’s Industry Meet, which focuses on building partnerships
+with stakeholders from MSMEs, startups, and multinational companies. The second edition’s themes centred on
+Electric Vehicle (EV) technologies, with the attendees addressing challenges in India’s EV sector and proposing use
+cases and collaborative pathways to facilitate clean mobility.
+
+PROJECT FUNDING
+PI/Mentor
+
+Department/Centre
+
+Project Title
+
+Agency Name
+
+Soumyadip Sett
+
+Mechanical
+Engineering
+
+Scalable and Durable Frost Inhibition Coatings on Aluminium Plate & Fin and
+Microchannel Heat Exchangers for Aircraft Environmental Control System
+
+Aeronautics R&D Board (ARDB)
+
+Dhiraj Devidas Bhatia
+
+Biological Engineering
+
+Innovation and Applied Research Ecosystem: Advancing Health care, Climate
+Resilient and Intelligent systems
+
+Anusandhan National Research
+Foundation (ANRF)
+
+Sushobhan Sen
+
+Civil Engineering
+
+An Advanced Numerical Technique for Predicting Transverse Cracking in Rigid
+Pavement Slabs
+
+Anusandhan National Research
+Foundation (ANRF)
+
+Madhav Kiritkumar
+Pathak
+
+Electrical Engineering
+
+Design and Prototyping of Universally Optimal Power Management for
+Triboelectric Vibrational Energy Harvesting
+
+Anusandhan National Research
+Foundation (ANRF)
+
+Pallavi Bharadwaj
+
+Electrical Engineering
+
+Project Shakti: ANRF ECRG
+
+Anusandhan National Research
+Foundation (ANRF)
+
+Pallavi Bharadwaj
+
+Electrical Engineering
+
+ANRF MAHA EV: ERIDES
+
+Anusandhan National Research
+Foundation (ANRF)
+
+Sandip Lashkare
+
+Electrical Engineering
+
+A Universal Multi-domain On-chip ESD Protection for Implantable Biomedical
+Devices on TSMC 65nm Technology
+
+Anusandhan National Research
+Foundation (ANRF)
+
+Naveen Sisodia
+
+Physics
+
+Reservoir Computing Using Spin Torque Diode Effect in Skyrmions Confined
+Inside Magnetic Nanodots
+
+Anusandhan National Research
+Foundation (ANRF)
+
+Karthik Pushpavanam
+Subramaniam
+
+Chemical Engineering
+
+NSF-DBT: Biomolecular Engineering for Critical Mineral Recovery
+
+Department of Biotechnology (DBT)
+
+Sonal Shyamsunder
+Khanolkar
+
+Earth Sciences
+
+Investigating the Cause for Changes in Benthic Foraminiferal Assemblage during
+the Eocene Oligocene Transition Across Latitudes and Bathymetries
+
+Department of Science & Technology
+(DST)
+
+Bipul Saurabh
+
+Mathematics
+
+Monads, Entwining Structures and their Modules
+
+Department of Science & Technology
+(DST)
+
+Arpan Bhattacharyya
+
+Physics
+
+Complexity as a Measure of Topological Phase Transitions and Quantum Chaos
+
+Department of Science & Technology
+(DST)
+
+Udit Bhatia
+
+Civil Engineering
+
+Spatiotemporal Flood Risk Management and Resilience Enhancement for Indian
+Urban Cities: FloodResQ
+
+IIT Kanpur
+
+Pallavi Bharadwaj
+
+Electrical Engineering
+
+AI Center of Excellence for Sustainable Cities: Vidyut AI
+
+Ministry of Education (MoE)
+
+Joycee M Mekie
+
+Electrical Engineering
+
+International Travel Grant for Conference under C2S
+
+Ministry of Electronics & Information
+Technology (MeitY)
+
+Vellore Nandagopal
+Prabhakar
+
+Humanities and
+Social Sciences
+
+Towards a National Cultural Landscape Information System: Mapping Heritage
+Sites for Inclusive Planning
+
+National Institute for Advanced Studies
+(NIAS)
+
+Krishna Kanti Dey
+
+Physics
+
+Dynamics and Biomedical Applications of Chemically Powered Active Matter
+Systems
+
+Science and Engineering Research
+Board (SERB)
+
+Deepak Singhani
+
+Humanities and
+Social Sciences
+
+Strengthening Adolescents’ Participation in Local Governance through Balika
+Panchayat model in Gujarat
+
+United Nations Children’s Fund
+(UNICEF) Gujarat State Office
+
+Pratyush Dayal
+
+Chemical Engineering
+
+Complex Self-induced Ordered Patterns in Acrylate-IL blends
+
+3M Company
+
+Sushobhan Sen
+
+Civil Engineering
+
+PCR Analysis for HDD of Taxiways B, G, and H
+
+ADANI Ahmedabad International
+Airport Limited
+
+Dhiman Basu
+
+Civil Engineering
+
+Review of the Demolition Methodology of Hatkeshwar Fly Over Bridge of
+Ahmedabad East Area, up to Bottom of Pile Cap Level
+
+Ahmedabad Municipal Corporation
+(AMC)
+
+Dhiman Basu
+
+Civil Engineering
+
+Structural Stability Assessment of S.P. Stadium, West Zone, Ahmedabad
+
+Ahmedabad Municipal Corporation
+(AMC)
+
+Dhiman Basu
+
+Civil Engineering
+
+Design of Civil Engineering Structures for the Enhancement of Seismic and Fire
+Safety--Executive Excellence Program (Round-2)
+
+Association of Infrastructure Industry
+(India)
+
+Himanshu Shekhar
+
+Electrical Engineering
+
+Consultancy for Project on Ultrasound-based Shear Wave Elastography for Liver
+Imaging Applications
+
+Cadila Healthcare Limited, Zydus
+Research Centre
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Structural Audit of ICAR-CIFE Buildings
+
+Central Public Works Department
+(CPWD)
+
+Amit Prashant
+
+Civil Engineering
+
+Third-Party Quality Inspection and Technical Assessment for Dholera
+International Airport Project
+
+Dholera International Airport
+Company Limited (DIACL)
+
+Krishna Siva Teja
+Chopperla
+
+Civil Engineering
+
+M70 mixtures validation for the Ahmedabad Railway Station Redevelopment
+Project
+
+Dineshchandra R Agrawal Infracon
+Private Limited
+
+Manish Kumar
+
+Civil Engineering
+
+Assessment and Retrofitting of Impact-affected Structural Members at the Vatva
+Site of the Mumbai Ahmedabad High Speed Rail Project
+
+Dineshchandra R Agrawal Infracon
+Private Limited
+
+Udit Bhatia
+
+Civil Engineering
+
+Technical Review of Mitigation Measures for Barada and Surathi
+
+Government of Gujarat (GoG)
+
+Udit Bhatia
+
+Civil Engineering
+
+Consultancy Exercise for Dam Break Analyses and preparing Emergency Action
+Plans (EAPs) for Specified Dams in Gujarat
+
+Government of Gujarat (GoG)
+
+Manish Kumar
+
+Civil Engineering
+
+Technical Audit of Structural Members at Pier 161 and Segments 120-124 in the
+Priority Reach of Ahmedabad Metro Rail Project, Phase-1 from Vastral Gam to
+Apparel Park
+
+Gujarat Metro Rail Corporation
+Limited (GMRC)
+
+Vimal Mishra
+
+Civil Engineering
+
+Hydrology and Flood risk study/assessment for GPCL's Solar/Wind Projects in
+Kutchh site
+
+Gujarat Power Corporation Limited
+(GPCL)
+
+Sameer Patel
+
+Civil Engineering
+
+Dispersion Modelling of Stack Emissions, Comprehensive Waste Management &
+Comprehensive Hydrological, Storm Drainage and Rainwater Harvesting
+
+Hindalco Industries Limited
+
+Krishna Siva Teja
+Chopperla
+
+Civil Engineering
+
+Site Visit & Visual Inspection of Zinc Sulphate Plant at IFFCO, Kandla
+
+Indian Farmers Fertiliser Cooperative
+(IFFCO)
+
+Sharad Kumar Jain
+
+Civil Engineering
+
+Evaluation of Reports of the Project Protection & Management of Flood
+Plain Zone, Assessment of Ground Water Recharging, and Regulation of
+Environmental Flows
+
+Innfra Consol Private Limited
+
+Sharad Kumar Jain
+
+Civil Engineering
+
+Evaluation of Studies for Flood Plain Zoning in Upper Wardha Dam Region
+
+Innfra Consol Private Limited
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Assessment of POWEReasy Smart Electrical Auditor
+
+Jhaveri Power Labs
+
+Amit Prashant
+
+Civil Engineering
+
+Proposal for Technical Assessment and Rectification Suggestions for RE Wall
+Distress of 12-PCL Project
+
+Larsen & Toubro (L&T) Limited,
+Construction
+
+Mayank Singh
+
+Computer Science &
+Engineering
+
+How Smart Roads are Different from Conventional City Roads and have Brought
+Ease of Mobility to Indian Cities?
+
+Ministry of Housing and Urban Affairs
+(MoHUA)
+
+Venkata Sriram Kanvah
+Gundimeda
+
+Chemistry
+
+Technical write up require for differentiating EVA and EPE – as an encapsulant
+to Solar
+
+Mundra Solar Energy Limited (MSEL)
+
+Venkata
+Madhukanth Vadali
+
+Mechanical
+Engineering
+
+Systems for Borewell Rescue
+
+National Disaster Response Force
+(NDRF)
+
+Manish Jain
+
+Center for Creative
+Learning
+
+Rajasthan School Shiksha Parishad
+
+Rajasthan School Shiksha Parishad
+
+Amit Prashant
+
+Civil Engineering
+
+Consultancy for Design Philosophy for Foundation Solutions – Solar Power Plant
+and Evacuation Network from Kutch to Jamnagar
+
+Reliance Industries Limited
+
+Amit Prashant
+
+Civil Engineering
+
+Structural Design of Left Side Flood Protection Embankment of Bhadbhut
+Barrage Project on Narmada River
+
+Sardar Sarovar Narmada Nigam
+Limited (SSNNL)
+
+Shailesh R Gandhi
+
+Civil Engineering
+
+Advise on Seepage Control in Land Outfall Channel at Tata Power Plant, Mundra
+
+Tata Power Company Limited Mundra
+
+Deepak Singhania
+
+Humanities & Social
+Sciences
+
+How can Tobacco Taxes be Made More Effective? The Role of Household
+Dynamics Under Different Taxation Regimes
+
+The Johns Hopkins University
+
+Pratik Kiran Mutha
+
+Cognitive and Brain
+Sciences
+
+Kinematic Deficits and Recovery in Stroke Patients
+
+UNM Foundation
+
+Jaison A Manjaly
+
+Humanities & Social
+Sciences
+
+Evaluating the Impact of a Digital Psychosocial Tool (Wysa) on Life Skills and
+Overall Well-being with English-speaking College Students
+
+Wysa
+
+Shanmuganathan
+Raman
+
+Electrical Engineering
+
+Under Vehicle Surveillance through Image Alignment and Object Detection
+
+Electronics Corporation of India
+Limited (ECIL), Hyderabad
+
+AWARDS AND FELLOWSHIPS
+Prof Vimal Mishra, Vikram Sarabhai Chair Professor, Civil Engineering
+(Jointly with the Earth Sciences Department), has been elected as a
+Fellow of the Indian National Science Academy - INSA at its Annual
+General Meeting on September 9, 2025. This prestigious recognition
+honours Prof Mishra’s outstanding contributions to research and scholarship.
+Prof Uttama Lahiri, Professor, Electrical Engineering Department, has
+been elected as a Fellow of the Indian National Academy of Engineering
+(INAE). The award recognises Prof Lahiri’s distinguished contributions
+to Engineering and Technology at national and international levels.
+
+Prof Udit Bhatia, Associate Professor, Civil Engineering, will serve
+as the India Chair for the Indo-German Frontiers of Engineering
+Symposium (INDOGFOE) 2026 on the theme ‘Building Climate-Resilient
+Infrastructure: Engineering for an Uncertain Future’ in Jülich, Germany.
+He will co-lead the dialogue to chart pathways for resilient infrastructure and climateready cities, helping shape the future of Indo-German collaboration in sustainable
+engineering solutions.
+Prof Prafull Pandey, Assistant Professor, Materials Engineering, was
+conferred the Excellence in Microscopy Award 2024 during the Annual
+Meeting of the Electron Microscope Society of India, held at IISc
+Bangalore on July 12, 2025.
+
+Prof Iti Gupta, Professor, Chemistry, was awarded the Bronze Medal
+
+of the Climate Change Award 2025-26 from the Climate Change Department,
+
+by the Chemical Research Society of India (CRSI) for the year 2026, to
+
+Government of Gujarat. He was honoured for his pioneering research on the impacts of
+
+honour her outstanding contributions to the field of chemical research.
+
+climate change on water resources and extreme weather events across India.
+
+Prof Himanshu Shekhar, Associate Professor, Electrical Engineering,
+
+Mr Himanshu Beniwal, PMRF and PhD student, Computer Science and
+
+was awarded the Frederick Lizzi Early Career Award from the
+
+Engineering, was awarded the prestigious Microsoft Research India
+
+International Society of Therapeutic Ultrasound at the International
+
+PhD Award 2025.
+
+Symposium on Therapeutic Ultrasound in Banff, Canada.
+We extend our hearty congratulations to Prof Manoj Gupta, Associate
+Ms Falguni Tailor, Assistant Scientific Officer, Dr Kiran C Patel Centre
+
+Professor, Computer Science & Engineering, on a recent foundational
+
+for Sustainable Development (KPCSD), received the Second Prize in the
+
+research result in computer science, which has been accepted in the
+
+Women Empowerment Category of the Climate Change Award 2025-26
+
+Foundation of Computer Science (FOCS 2025). An influential result
+
+from the Climate Change Department, Government of Gujarat. She was
+
+from the 1990s provided a way to estimate distances in large networks, but only when
+
+recognised for her impactful work on national and international climate initiatives.
+
+the points were far apart. More than 25 years later, Prof Gupta has improved on that
+result, making it work even when the points are much closer, while keeping the same
+
+Mr Dipesh Singh Chupal, PhD scholar in the Civil Engineering
+
+efficiency.
+
+Department, received the Third Prize in the Research Project Category
+
+CONTINUING EDUCATION PROGRAMME (IITGN-X)
+Event/Programme Name
+
+Event Date
+
+Discipline/Centre/Institute and Funding Agency
+
+Water and Climate Lab Symposium
+
+July 2, 2025
+
+Organised by IITGN with support from Dholera Industrial City Development Ltd
+
+Workshop on Application of GIS in Archaeology
+& Heritage
+
+July 7 - 11, 2025
+
+Organised by the Archaeological Sciences Centre, IITGN, with support from the Archaeological
+Survey of India (ASI) Chair
+
+Question Bank Database Generation
+
+July 22 - 24 2025
+
+Organised by IITGN with funding from the Government-funded GURUSETU project
+
+cNarmada workshop in Kevadia
+
+July 26, 2025
+
+Conducted by IITGN with funding from the cNarmada Project
+
+Device Characterisation using Probe Station
+
+July 29, 2025
+
+Jointly organised by IITGN and Inner Peace Solution Pvt Ltd, with financial support from the latter
+
+Maritime Engineering Workshop
+
+August 1, 2025
+
+Organised by IITGN with sponsorship from the Gujarat Maritime Board
+
+Urban Flooding Colloquium
+
+August 7, 2025
+
+Organised by IITGN with funding from the Institute’s Pandya Shivpuri Chair
+
+August 18 - 22, 2025
+
+Jointly organised by IITGN and Stone Artisan Park Training Institute (SAPTI), Ambaji
+
+Workshop on 3D Printed Concrete Structures
+
+August 20, 2025
+
+Jointly organised and funded by IITGN and the Central Public Works Department (CPWD)
+
+IIT Gandhinagar-ITRA Joint Symposium
+
+September 19, 2025
+
+Faculty Development Program: Digital Crafting
+Techniques using CNC Milling and Turning Tools
+
+Jointly organised by IITGN and the Institute for Teaching and Research in Ayurveda (ITRA),
+Jamnagar
+
+PATENTS
+Title
+
+Inventor
+
+Status
+
+Method Of Visibly-Transparent Heat-Insulation Coating And Coated Substrate Obtained
+Therefrom
+
+Dotiyal, Mayank; Panda, Emila
+
+Filed
+
+An Electronic Wearable Device For Biomechanical Monitoring Of A User
+
+Verma, Ravi Prakash; Saha, Biswajit
+
+Filed
+
+A Process For The Purification Of Biomolecules And A Purification System Thereof
+
+Pushpavanam, Karthik Subramaniam; Kumar, Yashwant; Agrawal,
+Krishna Radheshyam
+
+Filed
+
+Polymer Hydrogel Composite And A Process For Its Preparation
+
+Mondal, Himarati; Karmakar, Mrinmoy; Datta, Bhaskar
+
+Filed
+
+A Method Of Fabricating Metal-Organic Framework (MOF) Membranes On Substrates
+
+Goyal, Prateek; Misra, Superb; Behera, Rakesh; Dotiyal, Mayank
+
+Filed
+
+Azaindole-Based Derivatives And A Process For Their Preparation
+
+Kirubakaran, Sivapriya; Thiruvenkatam, Vijay; Chauhan, Shalini; Dilip,
+Haritha
+
+Filed
+
+Substituted 1,2,3-Triazole Compounds And A Process For Their Preparation
+
+Kirubakaran, Sivapriya; Khasa, Deepika; Seth, Kapileswar; Loddipalle,
+Sheeba; Nandurkar, Sandip Sopan
+
+Filed
+
+A System For The Inspection Of High-Voltage Transmission Lines
+
+Lal; Nikhil Kumar; Kalal, Manas; Kumar, Nikhil; Vadali, Venkata
+Madhukanth
+
+Filed
+
+Pyrazole-Based Derivatives And A Process For Their Preparation
+
+Kirubakaran, Sivapriya; Kumar, Somasundaram; Mukherjee, Arani
+
+Filed
+
+A Method For The Deposition Of Niobium Nitride Film On A Substrate
+
+Dabhi, Dushyant; Panda, Emila
+
+Filed
+
+A Microfluidic Device To Generate Microbubbles
+
+Dalvi, Sameer Vishvanath; Khan, Aaqib Haroon; Sheth, Jinious
+Kaushalbhai; Parakh, Pushkar Deepak
+
+Filed
+
+A Process For Coating A Substrate
+
+Pushpavanam, Karthik Subramaniam; Kumar, Yashwant; Tiwari, Tanu
+
+Filed
+
+A Fibre Optic System For Speech Detection In Noisy Environments And A Method
+Thereof
+
+Jana, Rituparna; Chakraborty, Arup Lal; George, Nithin Varghese
+
+Filed
+
+A Device For Mitigating Particulate Emissions From Indoor Combustion Sources
+
+Patel, Sameer; Thakur, Alok Kumar
+
+Filed
+
+MOUs
+
+KUMAMOTO UNIVERSITY, JAPAN
+
+INTERNATIONAL AUTOMOBILE CENTRE OF EXCELLENCE (IACE)
+
+knowledge sharing in various areas of education and research by facilitating student
+
+An agreement was signed between IITGN and Kumamoto University to promote
+
+IITGN has signed an MoU with iACE to establish a framework for collaboration for
+industrial research, technology and talent development. The agreement includes
+knowledge exchange involving experts from both parties through seminars, workshops,
+guest lectures and training programs, which will be facilitated by IITGN and iACE.
+Another priority would be establishing stable industry-academia collaboration through
+research projects, including industrial research with potential for commercialisation.
+
+MAEJO UNIVERSITY, THAILAND
+An MoU was signed between IITGN and Maejo University to develop academic,
+research and scientific cooperation on a reciprocal basis for the benefit of the two
+institutions and of the individual researchers and students concerned. The primary
+objective is to explore the possibilities of cooperation in student and faculty exchange,
+joint double-degree programs for students and faculty, joint organisation of workshops,
+conferences, online courses, and electives, as well as any other academic activity of
+mutual interest.
+
+exchanges. The signatories will also attempt to create avenues for exchange among
+professors, researchers, and administrative and professional personnel, as well as
+through research materials and publications. Students selected for the program can
+attend seminars, lectures, and tutorials, and engage in research projects, at their host
+institution.
+
+M/s EPP COMPOSITES PVT LTD, GUJARAT
+IITGN and EPP Composites Pvt Ltd signed an MoU to facilitate knowledge exchange
+through internships, Minor/Major project opportunities, expert talks, and educational
+tours/industrial visits for IITGN students. Both entities have committed to sharing
+laboratory facilities for R&D testing and innovation in the Composite field. The
+signatories aim to leverage their combined knowledge and resources to address realworld engineering challenges, with a focus on sustainability, innovation, and societal
+well-being.
+
+IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY (ISU), USA
+
+ANSYS SOFTWARE PRIVATE LIMITED (ANSYS)
+IITGN and Ansys Software Private Limited have signed a Corporate Social Responsibility
+(CSR) Contribution Agreement to promote education amongst the postgraduate
+students of the Indian Institute of Technology Gandhinagar. The CSR entity intends to
+utilise the Ansys contribution towards a one-time research grant & monthly fellowship
+for four postgraduate students annually.
+
+IITGN signed an agreement with ISU to launch a Dual Degree program, where
+qualifying Bachelor’s degree students from IITGN shall transfer to ISU for the Master’s
+degree. Students from IITGN, including those pursuing a Bachelor of Technology and
+its variants in the disciplines of Artificial Intelligence, Chemical Engineering, Civil
+Engineering, Computer Science and Engineering, Electrical Engineering, Integrated
+Circuit Design and Technology, Mechanical Engineering, and Materials Engineering,
+
+CENTRAL PUBLIC WORKS DEPARTMENT (CPWD), NEW DELHI
+
+will be eligible to apply for the program.
+
+IITGN has signed an MoU with CPWD to focus on collaborative R&D in construction
+
+OSAAT(R) EDUCATION CHARITABLE TRUST AND SAMAGRA SHIKSHA GUJARAT
+
+technology, materials, structural engineering, smart construction, and sustainability.
+The purpose is to explore innovative construction and retrofitting technologies
+and develop technical guidelines, standards, and best practices. Both institutions
+will promote emerging tools such as AI, IoT, BIM, and green construction methods.
+Capacity-building programs will be designed for engineers, architects, and technical
+staff through training, workshops, and national knowledge–exchange activities. The
+partnership will also support internships, joint work on live projects, and encourage
+
+A tripartite agreement was signed by OSAAT(R) Educational Charitable Trust, Samagra
+Shiksha Gujarat, and IITGN to provide quality education to rural communities
+of Gujarat. Through digital learning methods & technology, the initiative aims to
+improve the learning outcomes of approximately 1,200 students studying in eight
+rural government schools in Gandhinagar, thereby bridging the digital/technology gap
+between rural and urban communities.
+
+publications and patents arising from shared research efforts.
+
+ONE SCHOOL AT A TIME INC, USA
+
+JIBABEN PATEL FOUNDATION, USA
+
+to support activities and initiatives of NEEV pertaining to skill development and digital
+
+In collaboration with IITGNF and IITGN, One School At A Time Inc. has pledged a sum
+
+IITGN and Jibaben Patel Foundation have signed a Gift Agreement that includes a
+donation to IITGNF, a publicly supported charitable organisation with the charter to
+promote education and research among students and faculty at IITGN. This donation
+will be used to nurture and promote academic excellence at IITGN. In appreciation
+of this gift, IITGN shall name Room 201 in its Academic Building 10 as the “Jagdish
+
+literacy among schools in Gujarat.
+
+MR SAMEER PATEL, USA
+An MoU and Gift Agreement was signed between Mr Sameer Patel and IITGNF, where
+Mr Patel has pledged an amount to promote educational excellence and research
+
+Patel Learning Theatre”, and Room 202 in its Academic Building 10 as the “Harsha Patel
+
+outreach in the domain of Semiconductor Technology.
+
+Learning Theatre.”
+
+VNU UNIVERSITY OF ENGINEERING AND TECHNOLOGY, VIETNAM
+
+MINISTRY OF EDUCATION, FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+
+IITGN and VNU University of Engineering and Technology have signed an MoU to
+
+IITGN has signed an MoU with the Ministry of Education, Federal Democratic Republic
+of Ethiopia, to foster academic exchange through the “Multidisciplinary International
+Quality Improvement” (MIQI) programme at the PhD level. MIQI scholars will be
+selected by collaborating faculty from both partnering institutions, from among
+students registered in PhD programmes at institutes in Ethiopia. Students admitted to
+the MIQI programme will then be supervised by the collaborating faculty who selected
+
+develop and foster academic and scientific cooperation. The key highlights of the
+agreement include conducting joint research activities, online courses, conferences
+and symposia, etc. Additionally, the MoU aims to facilitate faculty and student
+exchanges, study abroad programs and immersion programs, and student internship
+opportunities. Both universities have also pledged to co-create academic courses and
+industry-academia programs.
+
+them.
+
+MAJOR FACILITIES
+ZEISS AXIOLAB-5 UNIVERSAL MICROSCOPE
+The Zeiss Axiolab-5 is an upright trinocular
+Universal
+
+microscope
+
+equipped
+
+with
+
+transmitive and reflective illumination
+modes
+
+for
+
+brightfield
+
+application.
+
+It
+
+features a trinocular phototube (30°/23,
+50:50) and a 5 MP Axiocam 105 colour
+camera for high-quality imaging. The
+system includes EC Epiplan objectives
+(10x/0.25, 40x/0.75, and 100x/0.85 dry) and PL 10x eyepieces with a
+23 mm field of view.
+The instrument is installed in the Smart Materials Lab (AB5/205). Please contact Prof
+Biswajit Saha (bsaha@iitgn.ac.in) for further details.
+
+INDIAN INSTITUTE OF TECHNOLOGY GANDHINAGAR
+PALAJ, GANDHINAGAR, GUJARAT - 382 055

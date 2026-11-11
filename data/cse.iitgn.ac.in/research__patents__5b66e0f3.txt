@@ -1,0 +1,250 @@
+Title: Patents
+Source: https://cse.iitgn.ac.in/research/patents
+
+Department of Computer Science & Engineering, IIT Gandhinagar
+
+# Patents
+
+ Publicly listed patents and patent applications involving CSE faculty.
+
+ Collaborators are not listed on this page.
+
+ 34 patents and applications
+
+ India
+
+## System for augmentative and alternative communication for people with severe speech and motor disabilities
+
+FacultyYogesh Kumar Meena
+StatusIndian Patent No. 340756, February 27, 2020
+
+ India
+
+## Prismatic Lens
+
+FacultyRajat Moona
+StatusDesign Patent, applied, Application No. 332180-001, August 2020
+
+ India
+
+## System and Method for Estimating Life and Health of a Battery
+
+FacultyRajat Moona
+StatusApplied, Application No. 201941035486, September 2019
+
+ India
+
+## Method and System for Detecting Troughs and Peaks in an Input Waveform
+
+FacultyRajat Moona
+StatusApplied, Application No. 201941035489, September 2019
+
+ India
+
+## System and Device to Detect Fall of Printed Paper Slip in an Electronic Voting Machine
+
+FacultyRajat Moona
+StatusApplied, Application No. 201941035492, September 2019
+
+ India
+
+## Optical Sensor for Detection of Movement of Media or Object
+
+FacultyRajat Moona
+StatusApplied, Application No. 201941033574, August 2019
+
+ India
+
+## Temperature Sensitive Laser-based Photo Reflective Sensor and Compensation Method thereof
+
+FacultyRajat Moona
+StatusApplied, Application No. 201941033570, August 2019
+
+ India
+
+## Unauthorized Access Detection Device, System and Method thereof
+
+FacultyRajat Moona
+StatusApplied, Application No. 201941033571, August 2019
+
+ India
+
+## Optical System for Contrast Estimation During Gray-scale printing
+
+FacultyRajat Moona
+StatusApplied, Application No. 201941033572, August 2019
+
+ India
+
+## Voter Verified Paper Audit Trail (VVPAT) System
+
+FacultyRajat Moona
+StatusApplied, Application No. 201841010850, March 2018
+
+ India
+
+## Electronic Voting Machine (EEVM)
+
+FacultyRajat Moona
+StatusGranted January 27, 2022, Application No. 201841002146
+
+ India
+
+## Repartitioning performance estimation in a hardware-software system
+
+FacultyRajat Moona
+StatusApplied for Indian Patent, Application No. 878/DELNP/2004, April 2004
+
+ India
+
+## Authentication using non-biometric and biometric information
+
+FacultyRajat Moona
+StatusIndian Patent, Application No. 1967/CHE/2005, December 2005
+
+ India
+
+## Using personal devices for authentication and service access at offline service outlets
+
+FacultyRajat Moona
+StatusApplied for Indian Patent, application no. 1018/DEL/2008, April 2008
+
+ US
+
+## Repartitioning performance estimation in a hardware-software system
+
+FacultyRajat Moona
+StatusUS Patent No. 6856951, February 2005
+
+ US
+
+## Area optimization of hardware for algorithms by optimizing sizes of variables of the algorithm
+
+FacultyRajat Moona
+StatusUS Patent pre-grant Publication 20060020574, January 2006
+
+ India
+
+## Portable computer printer
+
+FacultyRajat Moona
+StatusIndian Patent No. 212999, December 2007
+
+ US
+
+## Compiling memory dereferencing instructions from software to hardware in an electronic design
+
+FacultyRajat Moona
+StatusUS Patent No. 7203912, April 2007
+
+ India
+
+## Compiling memory dereferencing instructions from software to hardware in an electronic design
+
+FacultyRajat Moona
+StatusIndian Patent No. 242517, August 2010
+
+ US
+
+## Methods and Systems for secured access to devices and systems
+
+FacultyRajat Moona
+StatusUS Patent No. 7864987, January 2011
+
+ US
+
+## Method and System for using personal devices for authentication and service access at service outlets
+
+FacultyRajat Moona
+StatusUS Patent No. 8713655, April 2014
+
+ US
+
+## Mail compression scheme with individual message decompressability
+
+FacultyAnirban Dasgupta
+StatusUS Patent No. US7836099B2
+
+ US
+
+## Feature selection for text classification using subspace sampling
+
+FacultyAnirban Dasgupta
+StatusUS Patent No. US8046317
+
+ US
+
+## Data management scheme in virtualized hyperscale environments
+
+FacultyManu Awasthi
+StatusUS-10725663-B2, granted
+
+ US
+
+## Memory device having a translation layer with multiple associative sectors
+
+FacultyManu Awasthi
+StatusUS-9898200-B2, granted
+
+ US
+
+## Intelligent controller for containerized applications
+
+FacultyManu Awasthi
+StatusUS-10210024-B2, granted
+
+ US
+
+## Rack-level scheduling for reducing the long tail latency using high performance SSDs
+
+FacultyManu Awasthi
+StatusUS-10628233-B2, granted
+
+ US
+
+## High bandwidth peer-to-peer switched key-value caching
+
+FacultyManu Awasthi
+StatusUS-9723071-B2, granted
+
+ US
+
+## Online flash resource migration, allocation, retire and replacement manager based on a cost of ownership model
+
+FacultyManu Awasthi
+StatusUS-10248348-B2, granted
+
+ US
+
+## I/O workload scheduling manager for RAID/non-RAID flash based storage systems for TCO and WAF optimizations
+
+FacultyManu Awasthi
+StatusUS-10282140-B2, granted
+
+ US
+
+## Multi-bit data representation framework to enable dual program operation on solid-state flash devices
+
+FacultyManu Awasthi
+StatusUS-10474567-B2, granted
+
+ US
+
+## Address translation in memory
+
+FacultyManu Awasthi
+StatusUS-2016147667-A1, application
+
+ US
+
+## Block cleanup: page reclamation process to reduce garbage collection overhead in dual-programmable NAND flash devices
+
+FacultyManu Awasthi
+StatusUS-2020278805-A1, application
+
+ US
+
+## Computing system with parallel mechanism and method of operation thereof
+
+FacultyManu Awasthi
+StatusUS-2016188534-A1, application

@@ -1,0 +1,323 @@
+Title: IIT Gandhinagar | Computer Science & Engineering
+Source: https://iitgn.ac.in/faculty/cse
+
+# Computer Science & Engineering
+
+##### Back to Faculty
+
+#### Abhishek Bichhawat
+
+PhD (Saarland University)
+Associate Professor
+ Language-based security, Formal methods and verification for security, Information flow security
+
+## Research Interests
+
+- Language-based security
+- Formal methods and verification for security
+- Information flow security
+- End-to-end policy enforcement
+- Security of IoT platforms
+
+#### Adithya Kumar
+
+PhD (The Pennsylvania State University)
+Assistant Professor
+ Distributed Systems, AI/ML Infrastructure, Performance evaluation
+
+## Research Interests
+
+- Heterogeneous Systems, Distributed Systems, Storage systems
+- AI/ML Infrastructure, GPU Systems
+- Performance Evaluation, Tail latency awareness
+
+#### Ajay Singh
+
+PhD (University of Waterloo)
+Assistant Professor
+ concurrent software for emerging applications on emerging architectures
+
+## Research Interests
+
+- Data Structures and Algorithms on Emerging Memory Architectures
+- Data Structures and Algorithms for Emerging Applications
+- Memory Management in Concurrent Software
+- Software Performance Engineering
+
+#### Anirban Dasgupta
+
+PhD (Cornell University)
+Professor
+(Affiliated to Artificial Intelligence discipline)
+ Algorithms for large scale data, Social networks
+
+## Research Interests
+
+- Algorithms for large scale data
+- Social networks
+- Computational social science
+- Crowdsourcing
+- Machine learning
+
+#### Anup Kalbalia
+
+Associate Professor of Practice
+ education technology, secure assessment systems, CS pedagogy, equity in CS education
+
+## Research Interests
+
+- Systems for education: assessment infrastructure, hardened exam environments, and platforms for programming instruction and automated evaluation
+- Academic integrity in the age of AI: preventing misuse without surveillance-heavy or stressful exam conditions
+- Pedagogy of introductory CS: rethinking CS101 to teach problem-solving logic before language syntax
+- Equity and access in computer science education
+
+#### Balagopal Komarath
+
+PhD (IIT Madras)
+Assistant Professor
+ Circuit complexity and other low-level computational models
+
+## Research Interests
+
+- Circuit complexity and other low-level computational models
+
+#### Bireswar Das
+
+PhD (Institute of Mathematical Sciences)
+Professor
+ Computational complexity theory and algorithms, Algebra and computationy
+
+## Research Interests
+
+- Computational complexity theory and algorithms
+- Algebra and computationy
+
+#### Joycee M. Mekie
+
+PhD (IIT Bombay)
+Professor
+(Affiliated to Computer Science and Engineering discipline)
+ Approximate computing, Low power SRAM
+
+## Research Interests
+
+- Approximate computing
+- Low power SRAM
+- Radiation hardened systems
+- Asynchronous design
+
+#### Jyothi Krishnan
+
+PhD (UC Berkeley)
+Assistant Teaching Professor
+ mathematics, mathematical games, board games, game design and school mathematics through games.
+
+## Research Interests
+
+- Mathematics
+- Mathematical games
+- Board games
+- Game design and school mathematics through games
+
+#### Krishna Prasad Miyapuram
+
+PhD (University of Cambridge)
+Professor
+(Affiliated to Artificial Intelligence discipline)
+ Neuroeconomics & neuromarketing, Computational cognitive science
+
+## Research Interests
+
+- Neuroeconomics & neuromarketing
+- Computational cognitive science
+- Neuroimaging (EEG, fMRI) & brain computer interface
+- Machine learning & artificial intelligence
+
+#### Manisha Padala
+
+PhD (IIIT Hyderabad)
+Assistant Professor
+ Fairness in Machine Learning, Game Theory and Mechanism Design
+
+## Research Interests
+
+- Fairness in Machine Learning
+- Game Theory
+- Mechanism Design
+
+#### Manoj D Gupta
+
+PhD (IIT Delhi)
+Associate Professor
+ Dynamic graph algorithms, Streaming algorithms, Randomized algorithms, Data-structures
+
+## Research Interests
+
+- Dynamic graph algorithms
+- Streaming algorithms
+- Randomized algorithms
+- Data-structures
+
+#### Manu Awasthi
+
+PhD (University of Utah)
+Associate Professor of Practice
+ Computer Architecture and Systems, Embedded Systems, Performance Modeling and Optimization, Software Engineering, Cloud Computing, Cloud Economics
+
+## Research Interests
+
+- Computer Architecture and Systems
+- Embedded Systems
+- Performance Modeling and Optimization
+- Software Engineering
+- Cloud Computing
+- Cloud Economics
+
+#### Mayank Singh
+
+PhD (IIT Kharagpur)
+Jibaben Patel Chair (Artificial Intelligence) Associate Professor
+ Text mining, Natural language and processing, Machine learning, Network science, Information retrieval
+
+## Research Interests
+
+- Text mining
+- Natural language and processing
+- Machine learning
+- Network science
+- Information retrieval
+
+#### Neeldhara Misra
+
+PhD (Institute of Mathematical Sciences)
+Smt. Amba and Sri. V S Sastry Chair Associate Professor
+(Affiliated to Artificial Intelligence discipline)
+ Design and analysis of algorithms
+
+## Research Interests
+
+- Design and analysis of algorithms
+- Computational social choice
+- Extremal combinatorics
+- Combinatorial game theory
+- Combinatorial and computational Geometry
+- Satisfiability and constraint satisfaction
+
+#### Nipun Batra
+
+PhD (IIIT Delhi)
+Associate Professor
+(Affiliated to Artificial Intelligence discipline)
+ Sensor networks, Machine learning
+
+## Research Interests
+
+- Sensor networks
+- Machine learning
+- Computational sustainability
+
+#### Nirmal Kumar Sancheti
+
+PhD (IISc, Bangalore)
+Visiting Professor
+ Deep Learning, Machine Learning and Design Oriented Effective Programming
+
+## Research Interests
+
+- Deep Learning, Machine Learning and Design Oriented Effective Programming
+
+#### Rajat Moona
+
+PhD (IISc Bangalore)
+Professor
+ Computer Architecture, VLSI Design, Operating Systems, Embedded Systems, Security, Smart Cards and RFID
+
+## Research Interests
+
+- Computer Architecture
+- VLSI Design
+- Operating Systems
+- Embedded Systems
+- Security
+- Smart Cards and RFID
+
+#### Sameer Gundurao Kulkarni
+
+PhD (University of Göttingen)
+Assistant Professor
+(Jointly with Electrical Engineering department)
+ Network Function Virtualization, Software Defined Networking, Cloud Computing, Power & Performance Optimizations
+
+## Research Interests
+
+- Network Function Virtualization
+- Software Defined Networking
+- Cloud Computing
+- Power & Performance Optimizations
+- Network Security and Data Reliability
+- Green Computing
+- Virtual Machines & Virtualization
+- Embedded and Portable Devices
+- Distributed Systems
+
+#### Shanmuganathan Raman
+
+PhD (IIT Bombay)
+Professor
+(Jointly with Computer Science & Engineering department)
+(Affiliated to Artificial Intelligence discipline)
+ Computer Vision, Deep Learning, Image & Video Processing, Computer Graphics, Artificial Intelligence
+
+## Research Interests
+
+- Computer Vision
+- Image & Video Processing
+- Computer Graphics
+- Deep Learning
+- Artificial Intelligence
+
+#### Shouvick Mondal
+
+PhD (IIT Madras)
+Assistant Professor
+ Software Engineering using Generative AI, Empirical Software Engineering, Software Testing, Compiler Design
+
+## Research Interests
+
+- Software Engineering using Generative AI
+- Empirical Software Engineering
+- Software Testing
+- Compiler Design
+
+#### Udit Bhatia
+
+PhD (Northeastern University)
+Pandya-Shivpuri Chair Associate Professor
+(Jointly with Computer Science and Engineering department)
+(Affiliated to Artificial Intelligence, Earth Sciences discipline)
+ Physics Guided Machine Learning for Urban Flooding
+
+## Research Interests
+
+- Physics Guided Machine Learning for Urban Flooding
+- Food-Water Nexus
+- Resilience of Built and Natural Systems
+- Climate Variability and Change
+- Applied Networks
+
+#### Yogesh Kumar Meena
+
+PhD (Ulster University)
+Assistant Professor
+(Affiliated to Artificial Intelligence, Cognitive Science discipline)
+ Human-Computer Interaction, Brain-Computer Interface, Eye Tracking
+
+## Research Interests
+
+- Human-Computer Interaction
+- Brain-Computer Interface
+- Eye Tracking
+- Motor Control and Rehabilitation
+- Artificial Intelligence & Machine Learning
+- Internet of Things
+- User Experience and Usability

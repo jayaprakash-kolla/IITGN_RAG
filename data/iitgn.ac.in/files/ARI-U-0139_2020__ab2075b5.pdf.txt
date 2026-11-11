@@ -1,0 +1,7913 @@
+#flags:
+
+Verification Submitted Institute Data for Atal Ranking of Institutions on Innovation Achievements (ARIIA) - 2020-21
+Institute Name: Indian Institute of Technology Gandhinagar [ARI-U-0139]
+
+List all the departments / centers / units are part of innovation and startup ecosystem of the institite
+Srno
+
+Department / Center / Unit Name
+
+Type of Department /
+Center / Unit
+
+Mention the Stream /
+Discipline / Sector of
+focus
+
+Department / Center /
+Unit Level
+
+Student / Benificiary
+Strength (2019-20)
+
+Program Type
+
+Academic Staff
+Strength (2019-20)
+
+Non-academic Staff
+Strength (2019-20)
+
+1
+
+IIT Gandhinagar Research Park
+
+Research Unit / Park
+
+Industry focussed
+Technology and
+Research
+
+At all level
+
+Both
+
+12
+
+3
+
+5
+
+2
+
+IIT Gandhinagar Innovation and
+Entrepreneurship Center
+
+Incubation Unit
+
+Technology and
+entrepreneurship
+
+At all level
+
+Technical
+
+1200
+
+3
+
+2
+
+3
+
+Tinkerers Lab
+
+Pre-incubation unit
+
+Prototyping
+
+At all level
+
+Both
+
+2000
+
+1
+
+1
+
+4
+
+Common Research and Technology
+Development Hub
+
+Industry Institute
+Interface Unit
+
+Chemical processes
+for dye, pharma and
+related industries
+
+At all level
+
+Technical
+
+143
+
+6
+
+0
+
+5
+
+Maker Bhavan
+
+Centre of Excellence
+with Advance Tools &
+Equipment
+
+Learning by Doing,
+Manufacturing
+
+At all level
+
+Technical
+
+471
+
+3
+
+2
+
+6
+
+Design and Innovation Center
+
+Centre of Excellence
+with Advance Tools &
+Equipment
+
+Design, product
+development
+
+At all level
+
+Both
+
+385
+
+3
+
+2
+
+7
+
+Center for Creative Learning
+
+Centre of Excellence
+with Advance Tools &
+Equipment
+
+STEM Education
+
+At all level
+
+Both
+
+15000
+
+5
+
+10
+
+Participation of HEI in Innovation & Entrepreneurship Initiatives of Ministry of Education (Till Today)
+Programs/Initiatives
+
+Status
+
+Registration ID
+
+Adopted National Innovation and Start-up Policy at the HEI
+
+Yes
+
+Not Required
+
+Establishment of Institution's Innovation Council (IIC) at HEI
+
+YES
+
+IIC Registration ID : IC201811485
+
+Trained Innovation Ambassadors at HEI
+
+NO
+
+Not Required
+
+Participation in Smart India Hackathon (SIH)
+
+No
+
+Not Required
+
+Facilitated listing start-ups/ technologies in Young India combating COVID with Knowledge, Technology and Innovation (YUKTI 2.0) portal of MIC
+
+Yes
+
+Not Required
+
+Participation in National Education Alliance of Technology (NEAT)
+
+No
+
+Not Required
+
+Section 1 > i : Details of Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up Conducted by the HEI
+Srno
+
+Name of
+
+Program
+
+Program
+
+Program
+
+Organizin
+
+Program
+
+Program
+
+Program
+
+Program
+
+Internal
+
+Internal
+
+External
+
+External
+
+Total
+
+Had institute spent expenses
+
+Did any of the participants
+
+Section 1 > i : Details of Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up Conducted by the HEI
+Program
+(Full
+Name)
+
+1
+
+Boeing’s
+Universit
+y
+Innovatio
+n
+Leadersh
+ip
+Develop
+ment
+
+Theme
+
+Entrepre
+neurship/
+Startup,
+Innovatio
+n
+
+Type
+
+Category
+
+Hackatho
+n
+
+Institute
+Lead
+Activity
+
+g
+Departm
+ent /
+Centre /
+Student
+Body
+Name
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+Start
+Date
+
+End Date
+
+Duration(i
+n Days)
+
+Location
+
+Participa
+nts
+(Student)
+
+Participa
+nts
+(Faculty)
+
+Participa
+nts
+(Student)
+
+Participa
+nts
+(Faculty)
+
+Number
+of
+Participa
+nts
+
+02-08-20
+19
+00:00:00
+
+07-08-20
+19
+00:00:00
+
+6
+
+Within
+Campus
+
+1
+
+1
+
+24
+
+0
+
+26
+
+either from own
+resource/received fund to
+organise the
+program/activity/event?
+
+164301
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+received any awards/recognition
+for startup / innovation ideas /
+research?
+
+Award /
+Position /
+Recognition
+Secured
+
+BOEING
+BUILD Top
+4 USD
+10,000
+
+Title of
+Innovation /
+Start-up
+Secured the
+Award /
+Recognition
+
+Photom
+Technologi
+es
+
+Award/Recog
+nition/Achieve
+ment
+Received for
+2
+
+3
+
+4
+
+Summer
+Entrepre
+neurship
+Program
+
+Training
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+14-05-20
+19
+00:00:00
+
+05-07-20
+19
+00:00:00
+
+53
+
+Within
+Campus
+
+0
+
+0
+
+31
+
+1
+
+32
+
+Boot
+camp
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+09-03-20
+20
+00:00:00
+
+14-03-20
+20
+00:00:00
+
+6
+
+Outside
+Campus
+
+11
+
+1
+
+0
+
+0
+
+12
+
+Ideation
+
+Student
+Lead
+Activity
+
+EII
+Student
+Council
+IIT
+Gandhina
+gar
+
+01-11-20
+19
+00:00:00
+
+07-02-20
+20
+00:00:00
+
+99
+
+Within
+Campus
+
+55
+
+5
+
+0
+
+0
+
+60
+
+Entrepre
+neurship/
+Startup,
+Innovatio
+n
+
+Innovatio
+n Driven
+Entrepre
+neurship
+National
+Bootcam
+p
+
+Entrepre
+neurship/
+Startup,
+Innovatio
+n
+
+Innovatio
+n Driven
+Entrepre
+neurship
+2.0
+
+Entrepre
+neurship/
+Startup
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+64006
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+221902
+
+No
+
+No
+
+50000
+Award /
+Position /
+Recognition
+Secured
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+Title of
+Innovation /
+Start-up
+Secured the
+Award /
+Recognition
+Award/Recog
+nition/Achieve
+ment
+Received for
+
+Shortlisted
+Ideas
+Participated
+National
+Bootcamp
+at
+Bangalore
+5 teams
+
+Section 1 > i : Details of Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up Conducted by the HEI
+5
+
+Idea
+Pitching
+Session
+
+Entrepre
+neurship/
+Startup,
+Innovatio
+n
+
+B-Plan
+Competiti
+ons
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+and 3
+lines VC
+USA
+
+09-12-20
+19
+00:00:00
+
+10-12-20
+19
+00:00:00
+
+2
+
+Within
+Campus
+
+0
+
+0
+
+37
+
+0
+
+37
+
+11100
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+Award /
+Position /
+Recognition
+Secured
+
+Top Pitch
+
+Title of
+Innovation /
+Start-up
+Secured the
+Award /
+Recognition
+
+Tam
+Lymbadge
+received
+Rs. 50,000
+
+Award/Recog
+nition/Achieve
+ment
+Received for
+6
+
+Mentorin
+g
+Sessions
+by Mr
+Kamales
+h Dwivedi
+
+Entrepre
+neurship/
+Startup
+
+Mentorin
+g
+Session
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+03-01-20
+20
+00:00:00
+
+13-01-20
+20
+00:00:00
+
+11
+
+Within
+Campus
+
+35
+
+2
+
+25
+
+2
+
+64
+
+11117
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+Award /
+Position /
+Recognition
+Secured
+
+Innovative
+Startup
+
+Title of
+Innovation /
+Start-up
+Secured the
+Award /
+Recognition
+
+Snapper
+received
+Rs. 25,000
+
+Award/Recog
+nition/Achieve
+ment
+Received for
+7
+
+8
+
+9
+
+Short
+Course
+on
+Building
+Early
+Stage
+Startups
+and
+Valuation
+s by Mr B
+V
+Jagadees
+h
+Startup
+Pitching
+and
+Networki
+ng
+Program
+meConnecti
+ons 2019
+Round
+table on
+startup/e
+ntreprene
+urship at
+IITGN/IIM
+A/NID
+
+Training
+Entrepre
+neurship/
+Startup,
+Innovatio
+n
+
+Entrepre
+neurship/
+Startup
+
+Entrepre
+neurship/
+Startup,
+Innovatio
+n
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+20-01-20
+20
+00:00:00
+
+25-01-20
+20
+00:00:00
+
+6
+
+Within
+Campus
+
+13
+
+0
+
+30
+
+0
+
+43
+
+35000
+
+No
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+B-Plan
+Competiti
+ons
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+09-11-20
+19
+00:00:00
+
+09-11-20
+19
+00:00:00
+
+1
+
+Conferen
+ce
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+ENtrepre
+neurship
+Center
+
+14-10-20
+19
+00:00:00
+
+14-10-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+20
+
+Within
+Campus
+
+0
+
+5
+
+2
+
+80
+
+0
+
+5
+
+5
+
+110
+
+7
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+9820
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+3612
+
+No
+
+No
+
+Section 1 > i : Details of Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up Conducted by the HEI
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+Interactio
+n session
+with Mr.
+Amar
+Sawhney
+
+Innovatio
+n
+
+Founding
+the Team
+by Mr. K
+Thyagraj
+an
+
+Entrepre
+neurship/
+Startup
+
+My Story
+SessionMr. Preet
+Shah,
+Founders
+Think
+4Dea
+Interactio
+n session
+with Shri
+Uday
+Mehta
+Founder
+and
+Managin
+g
+Director,
+Sunrise
+Compute
+rs
+Session
+on Types
+of
+startups,
+business
+matrix
+and
+challenge
+s for
+early
+stage
+startups
+by U T
+Rao
+Entrepre
+neurial
+Finance,
+fund
+raising
+and basic
+economic
+s: Mihir
+Joshi
+GVFL
+
+Entrepre
+neurship/
+Startup
+
+Innovatio
+n
+
+Entrepre
+neurship/
+Startup
+
+Entrepre
+neurship/
+Startup
+
+Mentorin
+g
+Session
+
+Student
+Lead
+Activity
+
+EII
+Student
+Council,
+IIT
+Gandhina
+gar
+
+24-04-20
+19
+00:00:00
+
+24-04-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+14
+
+4
+
+0
+
+0
+
+18
+
+Worksho
+p
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+20-05-20
+19
+00:00:00
+
+20-05-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+0
+
+0
+
+25
+
+1
+
+26
+
+Motivatio
+nal speak
+
+Student
+Lead
+Activity
+
+EII
+Student
+Council,
+IIT
+Gandhina
+gar
+
+28-05-20
+19
+00:00:00
+
+28-05-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+0
+
+0
+
+25
+
+1
+
+26
+
+No
+
+No
+
+Mentorin
+g
+Session
+
+Student
+Lead
+Activity
+
+EII
+Student
+Council,
+IIT
+Gandhina
+gar
+
+11-06-20
+19
+00:00:00
+
+11-06-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+0
+
+0
+
+24
+
+1
+
+25
+
+No
+
+No
+
+Mentorin
+g
+Session
+
+Student
+Lead
+Activity
+
+EII
+Student
+Council,
+IIT
+Gandhina
+gar
+
+11-06-20
+19
+00:00:00
+
+11-06-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+0
+
+0
+
+24
+
+1
+
+25
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+24-06-20
+19
+00:00:00
+
+Mentorin
+g
+Session
+
+Institute
+Lead
+Activity
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+1000
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+8000
+
+1800
+
+No
+
+No
+
+No
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+24-06-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+0
+
+0
+
+24
+
+0
+
+24
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+1165
+
+No
+
+Section 1 > i : Details of Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up Conducted by the HEI
+16
+
+17
+
+Interactiv
+e session
+with
+Microsoft
+for
+Startups
+
+Entrepre
+neurship/
+Startup,
+Innovatio
+n
+
+Invent@II
+TGN
+
+IPR,
+Innovatio
+n
+
+Awarene
+ss
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+16-07-20
+19
+00:00:00
+
+16-07-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+10
+
+2
+
+73
+
+0
+
+85
+
+Innovatio
+n Contest
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+
+16-05-20
+19
+00:00:00
+
+28-06-20
+19
+00:00:00
+
+44
+
+Within
+Campus
+
+9
+
+0
+
+19
+
+0
+
+28
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+16552
+
+2348139
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+No
+
+Award /
+Position /
+Recognition
+Secured
+
+Award to
+top 3 teams
+
+Title of
+Innovation /
+Start-up
+Secured the
+Award /
+Recognition
+
+Award of
+Rs. 2 Lakh,
+1 Lakh and
+50
+Thousand
+to top 3
+teams
+
+Award/Recog
+nition/Achieve
+ment
+Received for
+18
+
+Amalthea
+2019
+
+IPR,
+Innovatio
+n
+
+Conferen
+ce
+
+Student
+Lead
+Activity
+
+Student
+Council,
+IIT
+Gandhina
+gar
+
+19-04-20
+19
+00:00:00
+
+20-04-20
+19
+00:00:00
+
+2
+
+Within
+Campus
+
+700
+
+50
+
+15000
+
+400
+
+16150
+
+19
+
+Mentor
+session
+with Mr.
+Manoj
+Goel, IIT
+Startups
+USA
+
+IPR,
+Entrepre
+neurship/
+Startup,
+Innovatio
+n
+
+Mentorin
+g
+Session
+
+Student
+Lead
+Activity
+
+Student
+Council
+IIT
+Gandhina
+gar
+
+15-10-20
+19
+00:00:00
+
+16-10-20
+19
+00:00:00
+
+2
+
+Within
+Campus
+
+15
+
+3
+
+5
+
+0
+
+23
+
+20
+
+Entrepre
+neurial
+Journey:
+Saurya
+Prakash
+Sinha,
+Founder
+Recko
+
+Motivatio
+nal speak
+
+Student
+Lead
+Activity
+
+Student
+Council
+IIT
+Gandihna
+gar
+
+04-08-20
+19
+00:00:00
+
+04-08-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+60
+
+0
+
+0
+
+0
+
+60
+
+Worksho
+p
+
+Institute
+Lead
+Activity
+
+Library
+Services
+IIT
+Gandhina
+gar
+
+06-09-20
+19
+00:00:00
+
+06-09-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+15
+
+5
+
+0
+
+0
+
+20
+
+21
+
+Innovatio
+ns and
+Patenting
+:
+Innovatio
+nQ Plusa tool for
+determini
+ng
+patentabil
+ity (IEEE)
+
+Entrepre
+neurship/
+Startup
+
+IPR
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+2151562
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+1400
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+9749
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Section 1 > i : Details of Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up Conducted by the HEI
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Ignite
+2020
+
+Connecti
+ons
+2019:
+Creating
+Opportun
+ity to
+Stimulate
+IndustryAcademi
+a
+Partnersh
+ips
+
+Innovatio
+n
+
+Entrepre
+neurship/
+Startup,
+Innovatio
+n
+
+Mentor
+Clinic
+with Mr.
+Anand
+Parekh
+
+Entrepre
+neurship/
+Startup
+
+Mentor
+Clinic
+with Mr.
+K
+Thyagraj
+an
+
+Entrepre
+neurship/
+Startup
+
+The Art
+of
+Storytelli
+ng
+
+WORKS
+HOP ON
+CONFLI
+CT
+MANAGE
+MENT
+
+TRANSF
+ORMATI
+ONAL
+LEADER
+SHIP
+:THE
+BOLD
+AND
+HUMBLE
+LEADER
+
+Entrepre
+neurship/
+Startup,
+Innovatio
+n
+
+Entrepre
+neurship/
+Startup
+
+Entrepre
+neurship/
+Startup
+
+Innovatio
+n Contest
+
+Student
+Lead
+Activity
+
+Student
+Council
+IIT
+Gandhina
+gar
+
+16-03-20
+20
+00:00:00
+
+17-03-20
+20
+00:00:00
+
+2
+
+Within
+Campus
+
+100
+
+15
+
+500
+
+0
+
+615
+
+Conferen
+ce
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Research
+Park
+
+09-11-20
+19
+00:00:00
+
+09-11-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+35
+
+40
+
+0
+
+50
+
+125
+
+Mentorin
+g
+Session
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+08-04-20
+19
+00:00:00
+
+09-04-20
+19
+00:00:00
+
+2
+
+Outside
+Campus
+
+1
+
+0
+
+0
+
+0
+
+1
+
+Mentorin
+g
+Session
+
+Institute
+Lead
+Activity
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+05-07-20
+19
+00:00:00
+
+05-07-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+5
+
+2
+
+5
+
+0
+
+12
+
+Motivatio
+nal speak
+
+Student
+Lead
+Activity
+
+Leadersh
+ip
+Develop
+ment
+Initiative
+IIT
+Gandhina
+gar
+
+02-11-20
+19
+00:00:00
+
+03-11-20
+19
+00:00:00
+
+2
+
+Within
+Campus
+
+9
+
+2
+
+0
+
+0
+
+11
+
+Worksho
+p
+
+Institute
+Lead
+Activity
+
+Leadersh
+ip
+Develop
+ment
+Initiative
+IIT
+Gandhina
+gar
+
+01-08-20
+19
+00:00:00
+
+01-08-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+190
+
+2
+
+0
+
+0
+
+192
+
+Motivatio
+nal speak
+
+Institute
+Lead
+Activity
+
+Leadersh
+ip
+Develop
+ment
+Initiative
+IIT
+Gandhina
+gar
+
+13-12-20
+19
+00:00:00
+
+13-12-20
+19
+00:00:00
+
+1
+
+Within
+Campus
+
+35
+
+4
+
+0
+
+0
+
+39
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+55747
+
+288876
+
+No
+
+No
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+16000
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+8000
+
+No
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+Total Expense
+Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+No
+
+No
+
+No
+
+25000
+
+25000
+
+No
+
+No
+
+Section 1 > ii : Details of Students, Faculties/Staff Participation/Representation in Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up
+at the State, National and (or) International Level (Organized by External Organizations) sent by the HEI
+
+Srno
+
+Name of
+Program
+(Full
+Name)
+
+Program
+Theme
+
+Program
+Type
+
+Organizin
+g Agency
+/ Institute
+Name
+
+Organizin
+g Agency
+Type
+
+Program
+Start
+Date
+
+Program
+End Date
+
+Program
+Duration(i
+n Days)
+
+Participa
+nts
+(Students
+)
+
+Participa
+nts
+(Faculty)
+
+Total
+Number
+of
+Participa
+nts
+
+Awards/R
+ecognitio
+ns/Achiev
+ements
+
+Award /
+Position /
+Recogniti
+on
+Secured
+
+Title of
+Innovatio
+n / Startup
+Secured
+the
+Award /
+Recogniti
+on
+
+Had institute spent expenses
+either from own resource/
+received fund towards sending
+delegation to participate /
+represent the activity /event?
+
+Did any of the participants
+received any awards/recognition
+for startup / innovation ideas /
+research
+
+No
+
+No
+
+1
+
+Academi
+a
+Industry
+Training
+Program
+by
+Swissnex
+
+IPR
+
+Innovatio
+n Contest
+
+Swissnex
+, DST,
+SINE
+IITB
+
+Internatio
+nal
+Agencies
+
+02-12-20
+19
+00:00:00
+
+07-12-20
+19
+00:00:00
+
+6
+
+1
+
+0
+
+1
+
+No
+
+---
+
+---
+
+2
+
+Studetn
+Startup
+team visit
+to
+American
+Universit
+y of
+Sharjah
+
+IPR
+
+Exposure
+visit
+
+IIT
+Gandhina
+gar
+Innovatio
+n and
+Entrepre
+neurship
+Center
+
+Educatio
+nal
+Institute
+
+04-12-20
+19
+00:00:00
+
+05-12-20
+19
+00:00:00
+
+2
+
+2
+
+0
+
+2
+
+No
+
+---
+
+---
+
+Invent for
+the
+Planet
+2019
+Texas A
+and M
+Universit
+y IITGN
+
+IPR
+
+Hackatho
+n
+
+Texas A
+and M
+Universit
+y with
+Industry
+and
+Academi
+c
+Partners
+including
+IITGN
+
+Educatio
+nal
+Institute
+
+15-02-20
+20
+00:00:00
+
+16-02-20
+20
+00:00:00
+
+2
+
+4
+
+Research
+Collabora
+tion
+Impact
+on
+Innovatio
+n and
+Economi
+c
+Develop
+ment
+
+IPR
+
+Conferen
+ce
+
+ELSEVIE
+R INDIA
+and IIT
+GANDHI
+NAGAR
+
+Corporat
+e/
+Industry
+Associati
+on
+
+17-10-20
+19
+00:00:00
+
+17-10-20
+19
+00:00:00
+
+1
+
+10
+
+25
+
+35
+
+No
+
+---
+
+---
+
+No
+
+No
+
+5
+
+Finding
+the
+Leader in
+You
+(FLY)
+program
+
+Training
+
+Competiti
+veness
+Mindset
+Institute
+(CMI)
+and IIT
+Gandhina
+gar
+
+Educatio
+nal
+Institute
+
+14-09-20
+19
+00:00:00
+
+15-09-20
+19
+00:00:00
+
+2
+
+52
+
+5
+
+57
+
+No
+
+---
+
+---
+
+No
+
+No
+
+3
+
+Entrepre
+neurship/
+Startup
+
+TotalTotal
+Expense
+Amount
+Incurred by
+Institute? (In
+Rupees)
+
+30
+
+0
+
+30
+
+No
+
+---
+
+---
+
+21654
+
+7244
+
+No
+
+No
+
+TotalTotal
+Expense
+Amount
+Incurred by
+Institute? (In
+Rupees)
+
+Section 2 > i : List the Academic Programs on Innovation, IPR and Entrepreneurship Development Offered During the Academic Period (2019-20)
+Srno
+
+1
+
+Title of Course/Subject
+Offered
+
+Program Theme
+
+Engineering
+Entrepreneurship (MS 403)
+
+Entrepreneurship/Startup
+
+Type of Course
+
+Course Offering
+Department/Centr
+e/Unit Name
+
+Elective/Core
+Credit Course
+
+Credit Course
+(Elective)
+
+Level of
+Course
+
+Program
+Start Date
+
+Program End
+Date
+
+Program
+Duration(in Days)
+
+Mode of Delivery
+
+Humanities
+and Social
+Sciences
+
+06-08-2019
+
+26-11-2019
+
+113
+
+Offline
+
+Total Numbers of
+Participants
+
+75
+
+Total Numbers of
+Contact Hours of Course
+( Minimum 30 Contact
+hours)
+40
+
+2
+
+Introduction to Design and
+Innovation
+
+Innovation
+
+Elective/Core
+Credit Course
+
+Credit Course
+(Elective)
+
+Engineering
+Sciences
+
+06-08-2019
+
+26-11-2019
+
+113
+
+Offline
+
+185
+
+40
+
+Section 2 > ii : List the Employment Generation Skill Development Programs Organized by the HEI on Innovation, IPR and Entrepreneurship Development During the
+Academic Period (2019-20)
+Srno
+
+1
+
+Title of the Training Program
+
+Entrepreneurship
+Development Workshop
+
+Program Theme
+
+Type of Course
+
+Entrepreneurship/Startup
+
+Employment
+Generation Training
+Programs
+
+Course Offering
+Department/Centre/
+Unit Name
+
+Program Start
+Date
+
+Program End
+Date
+
+NEEV IIT
+Gandhinagar
+
+08-07-2019
+
+12-07-2019
+
+Program
+Duration(in
+Days)
+5
+
+Mode of Delivery
+
+Total Numbers of
+Participants
+
+Offline
+
+26
+
+Total Numbers of Contact
+Hours of Course ( Minimum
+30 Contact hours)
+40
+
+Section 2 > iii : List the Full Time Faculties had with a Degree (UG/PG/PhD) in Innovation/IPR/Entrepreneurship and (or) Received Specialized Training program of I&E, IPR
+(MDP, EDP, FDP, Short-term Certificate Course, of minimum 30 hours Duration) conducted by various State, Central Govt. agencies, and Knowledge Agencies in the
+Academic Period (2019-20)
+Srno
+1
+
+Faculty Name
+
+Department/Centre/Unit Name
+
+Prof. Manasi Kanetkar
+
+Designation
+
+Design and Innovation Center
+
+Assistant Teaching Professor
+Design
+
+Do you have a degree in I&E & IPR?
+Yes
+
+Had the faculty received training on I&E &
+IPR during AY 2019-20
+No
+
+Section 3 > i : List Idea/Innovation Centric Student Clubs Are Functional at the HEI with Access to Co-working Space/Work-stations for Students with Facilities &
+Equipment Available to promote and Support Innovation, Entrepreneurship and IPR Activities in Campus
+
+Srno
+
+Name of Student Club
+
+Type of Club
+
+Year of Establishment
+
+Type of Facilities
+Available at the Club
+
+Student Club
+with Access to
+Other I&E
+Facilities at the
+HEI
+
+No of
+Programs/Activiti
+es Organized by
+the Student Club
+During the AY
+2019-20
+
+Student Club
+Team Lead
+Name
+
+Student Club Team
+Lead Email
+
+Student Club Team
+Lead Phone
+
+1
+
+Entrepreneurial Initiative of IITGN
+
+Startup Club
+
+2018
+
+Co-working Space
+
+Pre-Incubation
+Unit,Innovation
+Labs,IPR
+Cell/Technology
+Transfer Centre
+
+5
+
+Prakash R
+
+prakash.r@iitgn.ac.in
+
+9094866601
+
+2
+
+Tinkerers Lab
+
+Innovation Club
+
+2018
+
+3D Printing
+
+Pre-Incubation
+Unit,Incubation
+Unit,Innovation
+Labs,IPR
+Cell/Technology
+Transfer Centre
+
+5
+
+Bharg Mehta
+
+bharg.mehta@alumni.ii
+tgn.ac.in
+
+7023280787
+
+3
+
+Industry relations and project
+assistance council
+
+Innovation Club
+
+2015
+
+3D Printing
+
+Pre-Incubation
+Unit,Innovation
+Labs,IPR
+Cell/Technology
+Transfer Centre
+
+6
+
+Kavan Joshi
+
+joshi.kavan@alumni.iit
+gn.ac.in
+
+7069584094
+
+4
+
+Metis-Coding Club - IITGN
+
+Innovation Club
+
+2016
+
+None
+
+Pre-Incubation
+Unit,Incubation
+Unit,Innovation
+Park/Research
+Park
+
+4
+
+Manas
+Bedmutha
+
+coding@iitgn.ac.in
+
+8412874000
+
+5
+
+Mean Mechanics
+
+Idea Club
+
+2015
+
+Work Stations
+
+Pre-Incubation
+Unit,Innovation
+Labs
+
+5
+
+Aman
+
+meanmechanics@iitgn
+.ac.in
+
+0000000000
+
+6
+
+DigiS-digital sports development
+club
+
+Idea Club
+
+2016
+
+Work Stations
+
+Pre-Incubation
+Unit,Innovation
+Labs
+
+5
+
+Aniket Rajnish
+
+digis@iitgn.ac.in
+
+7765961770
+
+Section 3 > ii > a : List the Pre-Incubation Facility (Tinkering Lab/Makers’ Space/Design Centre/New Gen IEDC/IEDC/EDC/Innovation Centre/Startup Cell) (>= 600 Sq. Ft.
+Floor Area)
+
+Srno
+
+1
+
+Name of PreIncubation Centre
+
+Tinkerers Lab
+
+Type of
+Facility
+
+Tinkering
+Lab
+
+Name of the
+Funding
+Schemes
+Available
+with PreIncubation
+Unit, if any
+(Optional)
+
+Year of
+Establishme
+nt
+
+Type of
+Facilities
+Available at
+the Centre
+
+Pre-Incubation
+with Access to
+Other I&E
+Facilities at the
+HEI
+
+2018
+
+Co-working
+Space,3D
+Printing &
+Prototype
+Equipment,
+Work
+Stations
+
+Innovation
+Labs,Innovation
+Park/Research
+Park,Centre of
+Excellence with
+Advance
+Tools,IPR
+Cell/Technology
+Transfer
+Centre,Student
+Clubs
+
+Innovation
+Labs,Innova
+tion
+Park/Resear
+ch
+Park,Centre
+of
+Excellence
+with
+Advance
+Tools,IPR
+Cell/Technol
+ogy Transfer
+Centre,Stud
+ent Clubs
+
+Source of Grant / Fund
+
+Institute's Own Fund / Resource
+
+Facility Details
+
+Facility
+Incharge
+Name
+
+Prof.
+Leslee
+Lazar
+
+Facility
+Incharge
+Email
+
+leslee.l
+azar@i
+itgn.ac.
+in
+
+Facility
+Incharge
+Phone
+
+982119
+0889
+
+Agency Name
+
+IIEC IIT Gandhinagar
+
+Total Nos of Dedicated
+Executive/Management
+team Strength Engaged at
+the Facility
+
+Had the Pre-Incubation
+Unit Provided any
+Funding Support for
+Idea/Prototype/Innovati
+on Development and
+implementation during
+the Financial Year
+2019-20
+
+1
+
+Yes
+
+Had institute
+Generated Income
+either from Services
+Offered by PreIncubation
+Centre/Facilities?
+
+No
+
+Agency Type
+
+Educational Institute
+
+Had institute spent expenses either
+from own resource/received fund
+towards Establishment/Operation
+of Pre-Incubation Centre/Facilities?
+
+Yes
+
+Total Grants / Funds Received by PreIncubation & Incubation Centre / Facilities
+exists in Campus (In Rupees)
+2190289
+
+Section 3 > ii > a : List the Pre-Incubation Facility (Tinkering Lab/Makers’ Space/Design Centre/New Gen IEDC/IEDC/EDC/Innovation Centre/Startup Cell) (>= 600 Sq. Ft.
+Floor Area)
+2
+
+Center for
+Creative Learning
+
+Innovation
+Centre
+
+2017
+
+3D Printing
+& Prototype
+Equipment,
+Work
+Stations
+
+Innovation
+Labs,Student
+Clubs
+
+Innovation
+Labs,Studen
+t Clubs
+
+Facility
+Incharge
+Name
+
+Prof.
+Manish
+Jain
+
+Facility
+Incharge
+Email
+
+manish
+.jain@ii
+tgn.ac.i
+n
+
+15
+
+No
+
+988041
+3124
+
+Facility
+Incharge
+Phone
+
+Source of Grant / Fund
+
+Agency Name
+
+Yes
+
+Yes
+Total
+Annual
+Income
+from
+Training
+and Skill
+Develop
+ment
+Services
+(In
+Rupees)
+
+212124
+2
+
+Total
+Annual
+Income
+from
+(Technic
+al and
+Business
+)
+Mentorin
+g
+Services
+(In
+Rupees)
+
+0
+
+Total
+Annual
+Income
+from
+Office
+Space
+and
+Rental
+Services
+to Startups/Inno
+vators
+(In
+Rupees)
+
+0
+
+Agency Type
+
+Total Grants / Funds Received by PreIncubation & Incubation Centre / Facilities
+exists in Campus (In Rupees)
+
+Institute's Own Fund / Resource
+
+IIT Gandhinagar
+
+Educational Institute
+
+6663263
+
+Funding Agency
+
+Department of Science and Technology
+
+Govt. Agency (Central)
+
+58000
+
+Funding Agency
+
+Gujarat Council for Science and Technology
+
+Govt. Agency (State)
+
+1288800
+
+Funding Agency
+
+Sarva Siksha Abhiyan
+
+Govt. Agency (Central)
+
+1500000
+
+Funding Agency
+
+MP Tribal Welfare Residential and Ashram
+
+Govt. Agency (State)
+
+1289000
+
+Section 3 > ii > b : List the Centre of Excellence (CoE) Facilities with Advance Tools and Equipment at the HEI (>= 1000 Sq. Ft. Floor Area)
+
+Srno
+
+Name of CoE Facility
+
+Year of
+Establishment
+
+CoE with Access
+to Other I&E
+Facilities at the
+HEI
+
+Name of the
+Funding
+Schemes
+Available with
+CoE, if any
+(Optional)
+
+Facility Details
+
+Total Nos of
+Dedicated
+Executive/Manag
+ement team
+Strength
+Engaged at the
+Facility
+
+Had the CoE Provided any
+Funding Support for
+Idea/Prototype/Innovation
+Development and
+implementation during the
+Financial Year 2019-20?
+
+Had institute Generated Income
+either from Services Offered by CoE
+Centre/Facilities?
+
+Had institute spent expenses
+either from own
+resource/received fund towards
+Establishment/Operation of
+CoE Centre/Facilities?
+
+Section 3 > ii > b : List the Centre of Excellence (CoE) Facilities with Advance Tools and Equipment at the HEI (>= 1000 Sq. Ft. Floor Area)
+1
+
+Common Research and
+Technology
+Development Hub
+
+2017
+
+Innovation
+Labs,Innovation
+Park/Research
+Park,IPR
+Cell/Technology
+Transfer Centre
+
+Department of
+Scientific and
+Industrial
+Research
+
+Facility
+Incharge
+Name
+
+Prof.
+Chinm
+ay
+Ghoroi
+
+Facility
+Incharge
+Email
+
+chinma
+yg@iit
+gn.ac.i
+n
+
+6
+
+Yes
+
+99250
+29889
+
+Facility
+Incharge
+Phone
+
+Source of Grant / Fund
+Funding Agency
+
+Agency Name
+Department of Scientific and Industrial Research
+
+Yes
+
+Yes
+Total Annual
+Income from
+Training and
+Skill
+Development
+Services (In
+Rupees)
+
+0
+
+Total Annual
+Income from
+(Technical and
+Business)
+Mentoring
+Services (In
+Rupees)
+
+527767
+
+Total Annual
+Income from
+Office Space
+and Rental
+Services to
+Startups/Innovators
+(In Rupees)
+
+690026
+
+Agency Type
+Govt. Agency (Central)
+
+Total Grants / Funds Received by CoE
+Facility exists in Campus (In Rupees)
+4920200
+
+Section 3 > ii > c : List the Incubation Facilities at the HEI (>= 1500 Sq. Ft. Floor Area)
+
+Srno
+
+Name of Incubation
+Facility
+
+Year of
+Establishment
+
+Incubation with
+Access to Other
+I&E Facilities at
+the HEI
+
+Name of the
+Funding
+Schemes
+Available with
+Incubation Unit, if
+any (Optional)
+
+Facility Details
+
+Total Nos of
+Dedicated
+Executive/Manag
+ement team
+Strength
+Engaged at the
+Facility
+
+Had the Incubation Facility
+Provided any Funding Support
+for Idea/Prototype/Innovation
+Development and
+implementation during the
+Financial Year 2019-20?
+
+Had institute Generated Income
+either from Services Offered by
+Incubation Centre/Facilities?
+
+Had institute spent expenses
+either from own
+resource/received fund towards
+Establishment/Operation of
+Incubation Centre/Facilities?
+
+Section 3 > ii > c : List the Incubation Facilities at the HEI (>= 1500 Sq. Ft. Floor Area)
+1
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship Center
+
+2015
+
+PreIncubation,Innova
+tion
+Labs,Innovation
+Park/Research
+Park,Centre of
+Excellence with
+Advance
+Tools,IPR
+Cell/Technology
+Transfer
+Centre,Student
+Clubs
+
+Facility
+Incharge
+Name
+
+Prof. S
+P
+Mehrot
+ra
+
+Facility
+Incharge
+Email
+
+spm@i
+itgn.ac.
+in
+
+7
+
+Yes
+
+99980
+23817
+
+Facility
+Incharge
+Phone
+
+Source of Grant / Fund
+
+Agency Name
+
+Yes
+
+Yes
+Total Annual
+Income from
+Training and
+Skill
+Development
+Services (In
+Rupees)
+
+41500
+
+Total Annual
+Income from
+(Technical and
+Business)
+Mentoring
+Services (In
+Rupees)
+
+166180
+
+Total Annual
+Income from
+Office Space
+and Rental
+Services to
+Startups/Innovators
+(In Rupees)
+
+1066778
+
+Agency Type
+
+Total Grants / Funds Received by Incubation
+Facility exists in Campus (In Rupees)
+
+Funding Agency
+
+Department of Science and Technology
+
+Govt. Agency (Central)
+
+19113434
+
+Funding Agency
+
+Industries Department
+
+Govt. Agency (State)
+
+2250000
+
+Funding Agency
+
+Boeing India
+
+Corporate / Industry Association
+
+846376
+
+Section 3 > ii > d : List the Innovation Park/Research Park Facilities at the HEI (>= 5000 Sq. Ft. Floor Area)
+
+Srno
+
+Name of Innovation
+Park/Research Park
+Facility
+
+Year of
+Establishment
+
+Innovation Park /
+Research Park
+with Access to
+Other I & E
+Facilities at the
+HEI
+
+Name of the
+Funding
+Schemes
+Available with
+Research/Innovat
+ion Park, if any
+(Optional)
+
+Facility Details
+
+Total Nos of
+Dedicated
+Executive/Manag
+ement team
+Strength
+Engaged at the
+Facility
+
+Had the Research
+Park/Innovation Park Provided
+any Funding Support for
+Idea/Prototype/Innovation
+Development and
+implementation during the
+Financial Year 2019-20?
+
+Had institute Generated Income
+either from Services Offered by
+Research Park/Innovation Park?
+
+Had the Research
+Park/Innovation Park Provided
+any Funding Support for
+Idea/Prototype/Innovation/Start
+up/Venture Development and
+implementation during the
+Financial Year 2019-20?
+
+Section 3 > ii > d : List the Innovation Park/Research Park Facilities at the HEI (>= 5000 Sq. Ft. Floor Area)
+1
+
+IIT Gandhinagar
+Research Park
+
+2017
+
+Incubation
+Unit,Innovation
+Labs,Centre of
+Excellence with
+Advance
+Tools,IPR
+Cell/Technology
+Transfer Centre
+
+Facility
+Incharge
+Name
+
+Prof. S
+P
+Mehrot
+ra
+
+Facility
+Incharge
+Email
+
+spm@i
+itgn.ac.
+in
+
+8
+
+Yes
+
+99980
+23817
+
+Facility
+Incharge
+Phone
+
+Source of Grant / Fund
+
+Agency Name
+
+Funding Agency
+
+Total Annual
+Income from
+Training and
+Skill
+Development
+Services (In
+Rupees)
+
+0
+
+Total Annual
+Income from
+(Technical and
+Business)
+Mentoring
+Services (In
+Rupees)
+
+0
+
+Total Annual
+Income from
+Office Space
+and Rental
+Services to
+Startups/Innovators
+(In Rupees)
+
+3994536
+
+Agency Type
+
+Department of Science and Technology
+
+Yes
+
+Yes
+
+Govt. Agency (Central)
+
+Total Grants / Funds Received by Incubation
+Facility exists in Campus (In Rupees)
+153000000
+
+Section 3 > ii > e : List the IPR Cell/Technology Transfer Centre Facilities at the HEI
+
+Srno
+
+1
+
+Name of IPR
+Cell/Technology
+Transfer Centre Facility
+
+IIT Gandhinagar
+Innovation and
+Entrepreneurship Center
+
+Year of
+Establishment
+
+2015
+
+IPR
+Cell/Technology
+Transfer Centre
+with Access to
+Other I&E
+Facilities at the
+HEI
+PreIncubation,Incuba
+tion
+Unit,Innovation
+Labs,Innovation
+Park/Research
+Park,Centre of
+Excellence with
+Advance
+Tools,Student
+Clubs
+
+Name of the
+Funding
+Schemes
+Available with
+IPR
+Cell/Technology
+Transfer Centre,
+if any (Optional)
+
+Facility Details
+
+Facility
+Incharge
+Name
+
+Prof.
+Amit
+Prasha
+nt
+
+Facility
+Incharge
+Email
+
+ap@iit
+gn.ac.i
+n
+
+Facility
+Incharge
+Phone
+
+85113
+60509
+
+Total Nos of
+Dedicated
+Executive/Manag
+ement team
+Strength
+Engaged at the
+Facility
+
+Had the IPR Cell/Technology
+Transfer Centre Provided any
+Funding Support for
+Idea/Prototype/Innovation
+Development and
+implementation during the
+Financial Year 2019-20?
+
+Had institute Generated Income
+either from Services Offered by IPR
+Cell/Technology Transfer Centre?
+
+Had the IPR Cell/Technology
+Transfer Centre Provided any
+Funding Support for
+Idea/Prototype/Innovation/Start
+up/Venture Development and
+implementation during the
+Financial Year 2019-20?
+
+2
+
+Yes
+
+No
+
+No
+
+Section 3 > iii > a : Provide detail list of Faculties as Mentor to help Ideas/Innovations/Startups
+Srno
+1
+
+Name of the Faculty
+Prof. Manasi Kanetkar
+
+Designation of the Faculty
+Assistant Teaching Professor Design
+
+Mentor Expert Area
+Idea/Innovation Development
+
+Years of Experience in Mentorship (In
+Years)
+10
+
+Section 3 > iii > a : Provide detail list of Faculties as Mentor to help Ideas/Innovations/Startups
+Name of Idea/Innovation/ Startup Mentored
+
+Mentoring Setup [Within (or) Outside] HEI
+
+Necesario Innovations Private Limited
+2
+
+Prof. Manasi Kanetkar
+
+CIN (in case it is Startup)
+
+Within
+Assistant Teaching Professor Design
+
+Idea/Innovation Development
+
+Name of Idea/Innovation/ Startup Mentored
+
+10
+
+Mentoring Setup [Within (or) Outside] HEI
+
+MiCob Pvt Ltd
+
+CIN (in case it is Startup)
+
+Within
+
+Section 3 > iii > b : Provide detail list of External Experts/Agencies engaged as Mentor to help Ideas/Innovations/Startups
+Srno
+
+Name of the External Expert/Agency as Mentor
+
+Mentor Expert Area
+
+Type of Mentorship
+
+1
+
+Sh Kamalesh Dwevedi
+
+Idea/Innovation Development,Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+2
+
+Dr Madhu Mehta
+
+Idea/Innovation Development,Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+3
+
+Sh. K Thyagrajan
+
+Idea/Innovation Development,Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+4
+
+Sh. B V Jagadeesh
+
+Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+5
+
+Sh. R A Venkitachalam
+
+Idea/Innovation Development,Entrepreneurship/Startup Development
+
+Structured Mentorship
+
+Structured Mentorship Program Name
+In house Mentoring
+
+Start Date
+01-04-2019
+
+End Date
+31-03-2020
+
+Total No of Days of
+Mentorship Program
+366
+
+Mentorship Cohort Size
+(No. of Mentee)
+
+No of Mentors Involved
+100
+
+1
+
+Type of Mentee
+Innovation/Prototype
+
+6
+
+Prof. Raj Jaswa
+
+Idea/Innovation Development,Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+7
+
+Sh. Sanjay Randhar
+
+Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+8
+
+Sh. Vijay Kumar Ivaturi
+
+Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+9
+
+Sh. Hemant Kumar
+
+Idea/Innovation Development,Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+10
+
+Sh Paresh Vora
+
+Idea/Innovation Development
+
+Unstructured Mentorship
+
+11
+
+Sh. Ashok Karania
+
+Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+12
+
+Dr. Mohan Dewan
+
+IPR Protection & Commercialization
+
+Unstructured Mentorship
+
+13
+
+Sh. Kushal Sacheti
+
+Idea/Innovation Development
+
+Unstructured Mentorship
+
+14
+
+Sh. Kunal Upadhyay
+
+Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+15
+
+Sh. Gaurav Ranjan
+
+Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+16
+
+Sh. Ravi Arora
+
+Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+17
+
+Sh. Amar Sawhney
+
+Entrepreneurship/Startup Development,IPR Protection & Commercialization
+
+Unstructured Mentorship
+
+18
+
+Sh. Anand Parekh
+
+Entrepreneurship/Startup Development
+
+Unstructured Mentorship
+
+Section 4 : List all the Innovations Generated Developed, Completed and Implemented in Ground with Support of Pre-incubation & Incubation facilities at the HEI and
+Recognitions Received
+
+Srn
+o
+
+1
+
+Name of the
+Innovation Generated
+with the Support of
+HEI
+
+AN APPARATUS AND
+METHOD FOR 3D
+PRINTING OF
+CONCRETE
+STRUCTURES
+
+Type of
+Innovation
+
+Product
+Innovation
+
+Nature
+of
+Innovati
+on
+
+Technol
+ogical
+
+Name of
+the HEI
+Support
+ed
+Innovati
+on
+Develop
+ment
+
+Innov
+ation
+Devel
+oped
+by
+
+Stude
+ntFacul
+ty
+
+Name
+Prof. Manish Kumar
+
+Stage
+of
+Innov
+ation/
+Stage
+of
+TRL
+it
+starte
+d
+recei
+ving
+the
+Supp
+ort
+durin
+g the
+FY
+201920
+
+Stage
+of
+Innov
+ation/
+Stage
+of
+TRL
+reach
+ed as
+on
+31st
+Marc
+h
+2020
+
+TRL
+2:
+Tech
+nolog
+y
+formu
+lation
+.
+Conc
+ept
+and
+applic
+ation
+have
+been
+formu
+lated.
+
+TRL
+8:
+First
+of a
+kind
+com
+merci
+al
+syste
+m.
+Manu
+factur
+ing
+issue
+s
+solve
+d.
+
+Status
+PreIncubati
+on/Incu
+bation
+Support
+to
+Innovati
+on as
+on 31st
+March
+2020
+
+Innovati
+on
+Develop
+ment
+Complet
+ed
+
+Had the
+Innovation
+Received any
+Recognition at
+State, National,
+International
+Level Programs
+during the
+financial period
+2019-20
+
+Agen
+cy
+Nam
+e
+
+Glo
+bal
+Hou
+sing
+Tec
+hnol
+ogy
+Cha
+llen
+ge Indi
+a
+
+Agen
+cy
+Type
+
+Gov
+t.
+Age
+ncy
+(Sta
+te)
+
+Awar
+d/
+Positi
+on /
+Reco
+gnitio
+n
+Secu
+red
+
+Rec
+ogni
+tion
+as
+Imp
+act
+tech
+nolo
+gy
+
+Type
+Faculty
+
+Name
+
+Had the
+Innovati
+on
+Convert
+ed into
+Venture/
+Startup/
+SME
+Unit
+during
+the
+financial
+period
+2019-20
+
+Had Centre/institute provided any
+Financial support (either own
+resource or fund received from
+agencies) in terms of Seed
+Grant/Fund Support to Idea /
+Prototype / Innovations
+Development during the financial
+period 2019-20
+
+Yes
+
+15345
+
+No
+
+1000000
+
+Grant Amount
+in Rs
+
+Gender
+Male
+
+Type
+
+Had the Pre-incubation/Incubation
+Centre/HEI received any
+income/revenue from
+Idea/Prototype/Innovations for the
+pre-incubation/incubation support
+and the services offered by Preincubation/incubation or institute
+during the financial period 2019
+
+Had the Innovations raised any
+Seed fund/Angel Investment/VC
+during the period of receiving preincubation/incubation support at
+your Pre-incubation/incubation or
+HEI during the financial period
+2019-20
+
+Amount
+Received in Rs.
+
+Email
+mkumar@iitgn.ac.in
+
+Gender
+
+Contact
+8603773002
+
+Email
+
+Contact
+
+Shashank Shekhar
+
+Student
+
+Male
+
+shashank.shekhar@iitgn.ac.in
+
+-
+
+Shashank Shekhar
+
+Student
+
+Male
+
+shashank.shekhar@iitgn.ac.in
+
+-
+
+2
+
+Vacuum Storage
+Device
+
+Product
+Innovation
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+Name
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+No
+
+No
+
+Gender
+
+Innovator/Entrepreneur External to Institute
+
+Name
+
+20000
+
+No
+
+Grant Amount
+in Rs
+
+Type
+
+Ritesh Ranjan
+
+3
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Male
+
+Email
+riteshranjan1620@gmail.com
+
+Type
+
+Gender
+
+Contact
+9097246557
+
+Email
+
+Contact
+
+Saptarshi Sadhu
+
+Innovator/Entrepreneur External to Institute
+
+Male
+
+saptarshisadhu21@gmail.com
+
+7362923611
+
+Saptarshi Sadhu
+
+Innovator/Entrepreneur External to Institute
+
+Male
+
+saptarshisadhu21@gmail.com
+
+7362923611
+
+Device to monitor
+glucose level and
+ensure proper dosage
+of insulin
+
+Product
+Innovation
+
+Name
+Govind V B
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+20000
+
+No
+
+No
+
+Grant Amount
+in Rs
+
+Type
+Innovator/Entrepreneur External to Institute
+
+Name
+
+No
+
+Gender
+Male
+
+Type
+
+Email
+ch17b047@smail.iitm.ac.in
+
+Gender
+
+Contact
+8136907685
+
+Email
+
+Contact
+
+Yash Raj
+
+Innovator/Entrepreneur External to Institute
+
+Male
+
+yashr2192@gmail.com
+
+7488420275
+
+Yash Raj
+
+Innovator/Entrepreneur External to Institute
+
+Male
+
+yashr2192@gmail.com
+
+7488420275
+
+4
+
+HOUSEHOLD
+MECHANICAL
+SOLAR TRACKER
+
+Product
+Innovation
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+Name
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+Agen
+cy
+Nam
+e
+
+IIT
+Gan
+dhin
+aga
+r
+
+Agen
+cy
+Type
+
+Edu
+cati
+onal
+Insti
+tute
+
+Awar
+d/
+Positi
+on /
+Reco
+gnitio
+n
+Secu
+red
+
+Rs.
+1
+Lak
+h to
+eac
+h
+tea
+m
+me
+mbe
+r as
+First
+Priz
+e at
+Inve
+nt at
+IITG
+N
+
+No
+
+No
+
+Gender
+
+Innovator/Entrepreneur External to Institute
+
+Name
+
+20000
+
+No
+
+Grant Amount
+in Rs
+
+Type
+
+Parul Sangwan
+
+5
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Female
+
+Email
+parulpsps@gmail.com
+
+Type
+
+Contact
+9417656236
+
+Gender
+
+Email
+
+Contact
+
+Prabal Vashisht
+
+Innovator/Entrepreneur External to Institute
+
+Male
+
+prabalv04@gmail.com
+
+9497126320
+
+Prabal Vashisht
+
+Innovator/Entrepreneur External to Institute
+
+Male
+
+prabalv04@gmail.com
+
+9497126320
+
+Patient transfer device
+
+Product
+Innovation
+
+Name
+Aman Singal
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+20000
+
+No
+
+No
+
+Grant Amount
+in Rs
+
+Type
+Innovator/Entrepreneur External to Institute
+
+Name
+
+No
+
+Gender
+Male
+
+Type
+
+Email
+180030004@iitdh.ac.in
+
+Gender
+
+Contact
+9050540897
+
+Email
+
+Contact
+
+Dinesh Jangid
+
+Innovator/Entrepreneur External to Institute
+
+Male
+
+dj8998@gmail.com
+
+-
+
+Dinesh Jangid
+
+Innovator/Entrepreneur External to Institute
+
+Male
+
+dj8998@gmail.com
+
+-
+
+6
+
+Self Regulating
+Movable Sun Visor
+
+Product
+Innovation
+
+Technol
+ogical
+
+Stude
+nt
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+Name
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+No
+
+20000
+
+Gender
+
+Student
+
+Male
+
+Name
+
+No
+
+No
+
+Grant Amount
+in Rs
+
+Type
+
+Jay shah
+
+7
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Email
+jay.shah@iitgn.ac.in
+
+Type
+
+Contact
+7506854288
+
+Gender
+
+Email
+
+Contact
+
+Souritra Garai
+
+Student
+
+Male
+
+souritra.garai@iitgn.ac.in
+
+-
+
+Souritra Garai
+
+Student
+
+Male
+
+souritra.garai@iitgn.ac.in
+
+-
+
+AUTOMATIC PILL
+DISPENSER AND
+COGNITIVE
+MONITORING
+APPARATUS
+
+Product
+Innovation
+
+Technol
+ogical
+
+Stude
+nt
+
+Name
+Arpita Kabra
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+20000
+
+No
+
+No
+
+Grant Amount
+in Rs
+
+Type
+Student
+
+Name
+
+No
+
+Gender
+Female
+
+Type
+
+Email
+arpita.kabra@iitgn.ac.in
+
+Gender
+
+Contact
+7016391153
+
+Email
+
+Contact
+
+Lipika Gupta
+
+Innovator/Entrepreneur External to Institute
+
+Female
+
+lipikagupta9@gmail.com
+
+-
+
+Lipika Gupta
+
+Innovator/Entrepreneur External to Institute
+
+Female
+
+lipikagupta9@gmail.com
+
+-
+
+8
+
+LIQUID PACKET
+POURING DEVICE
+
+Product
+Innovation
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+Name
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+Agen
+cy
+Nam
+e
+
+IIT
+Gan
+dhin
+aga
+r
+
+Agen
+cy
+Type
+
+Edu
+cati
+onal
+Insti
+tute
+
+Awar
+d/
+Positi
+on /
+Reco
+gnitio
+n
+Secu
+red
+
+Rs.
+25,0
+0 to
+eac
+h
+tea
+m
+me
+mbe
+r for
+Thir
+d
+posi
+tion
+at
+Inve
+nt at
+IITG
+N
+
+No
+
+No
+
+Gender
+
+Innovator/Entrepreneur External to Institute
+
+Name
+
+20000
+
+No
+
+Grant Amount
+in Rs
+
+Type
+
+Kalash Nibjiya
+
+9
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Male
+
+Email
+kpnibjiya@gmail.com
+
+Type
+
+Contact
+7030052040
+
+Gender
+
+Email
+
+Contact
+
+Samruddhi Pataskar
+
+Innovator/Entrepreneur External to Institute
+
+Female
+
+samruddhipataskar.pune@gmail.com
+
+-
+
+Samruddhi Pataskar
+
+Innovator/Entrepreneur External to Institute
+
+Female
+
+samruddhipataskar.pune@gmail.com
+
+-
+
+Hydration monitoring
+device
+
+Product
+Innovation
+
+Name
+Gitika Sonker
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+No
+
+No
+
+No
+
+Grant Amount
+in Rs
+
+Type
+Innovator/Entrepreneur External to Institute
+
+20000
+
+Gender
+Female
+
+Email
+gitikasonker@gmail.com
+
+Contact
+8402032993
+
+Name
+
+10
+
+Type
+
+Email
+
+Contact
+
+Priyanka Arora
+
+Innovator/Entrepreneur External to Institute
+
+Female
+
+priyanka.arora.17002@iitgoa.ac.in
+
+-
+
+Priyanka Arora
+
+Innovator/Entrepreneur External to Institute
+
+Female
+
+priyanka.arora.17002@iitgoa.ac.in
+
+-
+
+FOLDABLE AND
+DETACHABLE
+BICYCLE BASKET
+
+Product
+Innovation
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+Name
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+No
+
+No
+
+Gender
+
+Innovator/Entrepreneur External to Institute
+
+Name
+
+20000
+
+No
+
+Grant Amount
+in Rs
+
+Type
+
+Anuj Sindgi
+
+11
+
+Gender
+
+Male
+
+Email
+sindgi.anuj@gmail.com
+
+Type
+
+Contact
+8806005500
+
+Gender
+
+Email
+
+Contact
+
+Jainam Shah
+
+Student
+
+Male
+
+shah.jainam@iitgn.ac.in
+
+-
+
+Jainam Shah
+
+Student
+
+Male
+
+shah.jainam@iitgn.ac.in
+
+-
+
+Washing Apparatus for
+Reusable Menstrual
+Pads
+
+Product
+Innovation
+
+Name
+Aishwarya Agarwal
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+20000
+
+No
+
+No
+
+Grant Amount
+in Rs
+
+Type
+Innovator/Entrepreneur External to Institute
+
+Name
+
+No
+
+Gender
+Female
+
+Type
+
+Email
+agarwal.aishwarya2013@gmail.com
+
+Gender
+
+Contact
+8077729866
+
+Email
+
+Contact
+
+Devyani Maladkar
+
+Innovator/Entrepreneur External to Institute
+
+Female
+
+devyani.maladkar@gmail.com
+
+-
+
+Devyani Maladkar
+
+Innovator/Entrepreneur External to Institute
+
+Female
+
+devyani.maladkar@gmail.com
+
+-
+
+12
+
+LEAK-PROOF ECOFRIENDLY
+TAKEAWAY
+CONTAINER
+
+Product
+Innovation
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+Name
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+Agen
+cy
+Nam
+e
+
+IIT
+Gan
+dhin
+aga
+r
+
+Agen
+cy
+Type
+
+Edu
+cati
+onal
+Insti
+tute
+
+Awar
+d/
+Positi
+on /
+Reco
+gnitio
+n
+Secu
+red
+
+Rs.
+50,0
+00
+to
+eac
+h
+tea
+m
+me
+mbe
+r as
+sec
+onf
+posi
+tion
+at
+Inve
+nt at
+IITG
+N
+
+No
+
+No
+
+Gender
+
+Innovator/Entrepreneur External to Institute
+
+Name
+
+20000
+
+No
+
+Grant Amount
+in Rs
+
+Type
+
+Prathmesh Deshmukh
+
+13
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Male
+
+Email
+deshmukhprathmesh73@gmail.com
+
+Type
+
+Gender
+
+Contact
+9655411276
+
+Email
+
+Contact
+
+R. Nambilakshmi
+
+Innovator/Entrepreneur External to Institute
+
+Female
+
+nambilakshmi.nellai@gmail.com
+
+-
+
+R. Nambilakshmi
+
+Innovator/Entrepreneur External to Institute
+
+Female
+
+nambilakshmi.nellai@gmail.com
+
+-
+
+A Wound Care Device
+
+Product
+Innovation
+
+Name
+Mann Goel
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+No
+
+No
+
+No
+
+Grant Amount
+in Rs
+
+Type
+Innovator/Entrepreneur External to Institute
+
+20000
+
+Gender
+Male
+
+Email
+manngoel99@gmail.com
+
+Contact
+9920471065
+
+Name
+
+14
+
+Type
+
+Email
+
+Contact
+
+Neha Priolkar
+
+Student
+
+Female
+
+priolkar.neha@iitgn.ac.in
+
+-
+
+Neha Priolkar
+
+Student
+
+Female
+
+priolkar.neha@iitgn.ac.in
+
+-
+
+Emergency food for
+disaster relief
+
+Product
+Innovation
+
+Technol
+ogical
+
+Exter
+nal to
+the
+Instit
+ute/In
+cubat
+ee
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+Name
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+No
+
+No
+
+Gender
+
+Innovator/Entrepreneur External to Institute
+
+Name
+
+20000
+
+No
+
+Grant Amount
+in Rs
+
+Type
+
+Megha Agrawal
+
+15
+
+Gender
+
+Female
+
+Email
+mini.1409@gmail.com
+
+Type
+
+Contact
+9039941138
+
+Gender
+
+Email
+
+Contact
+
+Shikhar Prakash
+
+Innovator/Entrepreneur External to Institute
+
+Male
+
+shikharprakash21@gmail.com
+
+-
+
+Shikhar Prakash
+
+Innovator/Entrepreneur External to Institute
+
+Male
+
+shikharprakash21@gmail.com
+
+-
+
+ASSISTIVE DINING
+DEVICE
+
+Product
+Innovation
+
+Technol
+ogical
+
+Stude
+nt
+
+Name
+Chris Francis
+
+TRL
+0:
+Idea.
+Unpr
+oven
+conc
+ept,
+no
+testin
+g has
+been
+perfor
+med.
+
+TRL
+4:
+Small
+scale
+protot
+ype
+built
+in a
+labor
+atory
+envir
+onme
+nt
+("ugly
+"
+protot
+ype).
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+No
+
+Name
+
+No
+
+No
+
+Grant Amount
+in Rs
+
+Type
+Student
+
+20000
+
+Gender
+Male
+
+Type
+
+Email
+chris.francis@iitgn.ac.in
+
+Gender
+
+Contact
+6355332971
+
+Email
+
+Contact
+
+Praveen Venkatesh
+
+Student
+
+Male
+
+praveen.venkatesh@iitgn.ac.in
+
+-
+
+Praveen Venkatesh
+
+Student
+
+Male
+
+praveen.venkatesh@iitgn.ac.in
+
+-
+
+16
+
+Advance Tool for
+Analyzing GPR signals
+for Underground Utility
+Mapping
+
+Product
+Innovation,Se
+rvice
+Innovation
+
+Technol
+ogical
+
+Stude
+ntFacul
+ty
+
+Name
+
+TRL
+3:
+Appli
+ed
+resea
+rch.
+First
+labor
+atory
+tests
+comp
+leted;
+proof
+of
+conc
+ept.
+
+TRL
+9:
+Full
+com
+merci
+al
+applic
+ation,
+techn
+ology
+availa
+ble
+for
+cons
+umer
+s.
+
+Innovati
+on
+Develop
+ment
+Ongoing
+
+No
+
+Yes
+
+Female
+
+Type
+
+Prof. Amit Prashant
+
+709605
+
+Amount
+Received in Rs.
+
+Gender
+
+Student
+
+Name
+
+No
+
+Grant Amount
+in Rs
+
+Type
+
+Silky Agrawal
+
+1000000
+
+Email
+silky.agrawal@iitgn.ac.in
+
+Gender
+
+Faculty
+
+Male
+
+Contact
+9586855930
+
+Email
+ap@iitgn.ac.in
+
+Contact
+-
+
+Section 5 : List all the Ventures/Startups/SME Units Established with Support of Pre-incubation & Incubation facilities at the HEI
+
+Srn
+o
+
+Name of the
+Venture/Sta
+rtup/SME
+Unit
+Established
+with the
+Support of
+HEI
+
+Type of
+Innovation
+of
+Venture/Sta
+rtup/SME
+Unit
+
+Nature
+of
+Innovat
+ion
+
+Name
+of the
+PreIncubat
+ion/Inc
+ubation
+Unit of
+HEI
+Suppor
+ted
+Innovat
+ion
+Develo
+pment
+
+Vent
+ure
+Foun
+ded
+by
+
+Venture Registerd as
+
+Year
+of
+Regi
+strati
+on
+
+What is the
+current status
+of PreIncubation/Inc
+ubation
+Support to
+Venture/
+Startup/ SME
+Unit as on
+31st March
+2020?
+
+Had the Venture Received any
+Recognition at State, National,
+International Level Programs
+during the financial period 201920?
+
+Had Centre/institute provided
+any Financial support (either
+own resource or fund received
+from agencies) in terms of Seed
+Grant/Fund Support to Venture
+establishment during the
+financial period 2019-20
+
+Had the venture/startup raised
+any Seed fund/Angel
+Investment/VC during the period
+of receiving preincubation/incubation support at
+your Pre-incubation/incubation or
+HEI during the financial period
+2019-20
+
+Had
+the
+Preincubat
+ion/Inc
+ubation
+Centre/
+HEI
+receive
+d any
+income
+/revenu
+e from
+venture
+/startup
+for the
+preincubat
+ion/inc
+ubation
+support
+and the
+service
+s
+offered
+by Preincubat
+ion/inc
+ubation
+or
+institut
+e
+during
+the
+financi
+al
+period
+201920
+
+Has
+the
+Startup
+Grown
+to a
+stage
+of
+Employ
+ment
+Genera
+tion to
+10
+Numbe
+rs or an
+annual
+Turnov
+er to
+Rs. 50
+Lakhs
+during
+the
+financi
+al year
+201920
+
+1
+
+MICOB
+PRIVATE
+LIMITED
+
+Product
+Innovation
+
+Techno
+logical
+
+482
+
+Stud
+ent
+
+U74999HR
+2018PTC07
+4716
+
+2018
+-19
+
+Received
+Incubation
+Support from
+Incubation
+Unit
+
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Agency Name
+
+Global
+Housing
+Technology
+Challenge
+
+Agency Type
+
+Govt.
+Agency
+(Central)
+
+Award /
+Position /
+Recognition
+Secured
+
+Name
+
+2
+
+DIN number
+
+Type
+
+1000000
+
+No
+
+A
+m
+o
+u
+n
+t
+R
+e
+c
+e
+i
+v
+e
+d
+i
+n
+R
+s
+.
+
+Grant Amount
+in Rs
+
+Supported
+for Post
+Prototype
+Support
+
+Gender
+
+Email
+
+08164521
+
+Student
+
+Male
+
+shashank.shekhar@iitgn.ac.i
+n
+
+8980701991
+
+Rishabh Mathur
+
+08164523
+
+Student
+
+Male
+
+rishabh.mathur@iitgn.ac.in
+
+-
+
+Rishabh Mathur
+
+08164523
+
+Student
+
+Male
+
+rishabh.mathur@iitgn.ac.in
+
+-
+
+DHARMIT ASHWIN NAKRANI
+
+08256522
+
+Student
+
+Male
+
+nakrani.dharmit@iitgn.ac.in
+
+-
+
+DHARMIT ASHWIN NAKRANI
+
+08256522
+
+Student
+
+Male
+
+nakrani.dharmit@iitgn.ac.in
+
+-
+
+Product
+Innovation,S
+ervice
+Innovation
+
+Techno
+logical
+
+482
+
+Alum
+ni
+
+U93000MP
+2015PTC03
+5073
+
+2015
+-16
+
+Received
+Incubation
+Support from
+Incubation
+Unit
+
+No
+
+1000000
+
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Name
+SILKY AGRAWAL
+
+DIN number
+07342626
+
+No
+
+A
+m
+o
+u
+n
+t
+R
+e
+c
+e
+i
+v
+e
+d
+i
+n
+R
+s
+.
+
+Grant Amount
+in Rs
+
+Type
+Alumni Entrepreneur
+
+Gender
+Female
+
+Email
+silky.agrawal@iitgn.ac.in
+
+No
+
+Contact
+
+Shashank Shekhar
+
+GEOCART
+E RADAR
+TECHNOLO
+GY
+PRIVATE
+LIMITED
+
+1
+5
+3
+4
+5
+
+7
+0
+9
+6
+0
+5
+
+Contact
+9586855903
+
+Yes
+
+3
+
+WHITEPAN
+DA MEDIA
+PRIVATE
+LIMITED
+
+Service
+Innovation,
+Marketplace
+Innovation
+
+Techno
+logical
+
+482
+
+Alum
+ni
+
+U74999WB
+2016PTC21
+6630
+
+2016
+-17
+
+Received
+Incubation
+Support from
+Incubation
+Unit
+
+No
+
+750000
+
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Name
+
+DIN number
+
+ROSHAN AGARWAL
+4
+
+THINK
+4DEA
+TECHNOLO
+GIES
+PRIVATE
+LIMITED
+
+Grant Amount
+in Rs
+
+07519936
+
+Product
+Innovation,S
+ervice
+Innovation
+
+Techno
+logical
+
+482
+
+Alumni Entrepreneur
+
+Alum
+ni
+
+U72900GJ2
+015PTC084
+523
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Name
+
+Type
+
+DIN number
+
+2015
+-16
+
+Received
+Incubation
+Support from
+Incubation
+Unit
+
+Gender
+Male
+
+Adhip
+Sacheti
+and
+Others
+
+Agency Type
+
+Adhip
+Sacheti
+and
+Others
+
+Total Loan/Angel
+Investment/VC
+Fund raised by
+Start-up during
+the period of preincubation/incuba
+tion support at
+your Preincubation/incuba
+tion or institute
+financial period
+2019-20 (in
+Rupees)
+
+Adhip
+Sacheti
+and
+Others
+
+Date of
+Investment
+Raised
+
+Adhip
+Sacheti
+and
+Others
+
+Email
+roshan@whitepanda.in
+
+No
+
+Agency Name
+
+Govt of
+Gujarat
+
+Agency Type
+
+Govt.
+Agency
+(State)
+
+Award /
+Position /
+Recognition
+Secured
+
+Featured in
+top 24
+startups of
+the state
+
+Type
+
+Loan/Investment
+Agency Name
+
+Gender
+
+No
+
+No
+
+Contact
+7600953553
+
+No
+
+No
+
+Email
+
+Contact
+
+PREET DEVANGBHAI SHAH
+
+07223794
+
+Alumni Entrepreneur
+
+Male
+
+preet@4dea.com
+
+9408022082
+
+DHYEY MAYANK KUMAR SHAH
+
+07223774
+
+Alumni Entrepreneur
+
+Male
+
+dhyey@4dea.com
+
+-
+
+DHYEY MAYANK KUMAR SHAH
+
+07223774
+
+Alumni Entrepreneur
+
+Male
+
+dhyey@4dea.com
+
+-
+
+EEPSIT TIWARI
+
+07223801
+
+Alumni Entrepreneur
+
+Male
+
+eepsit_tiwari@btech2011.iitg
+n.ac.in
+
+8485973839
+
+EEPSIT TIWARI
+
+07223801
+
+Alumni Entrepreneur
+
+Male
+
+eepsit_tiwari@btech2011.iitg
+n.ac.in
+
+8485973839
+
+Yes
+
+5
+
+NECESARI
+O
+INNOVATIO
+NS
+PRIVATE
+LIMITED
+
+Product
+Innovation,P
+rocess
+Innovation
+
+Techno
+logical
+
+482
+
+Exter
+nal
+to
+the
+Instit
+ute/I
+ncub
+atee
+
+U31904GJ2
+018PTC103
+239
+
+2018
+-19
+
+Received
+Incubation
+Support from
+Incubation
+Unit
+
+No
+
+No
+
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Name
+
+DIN number
+
+Imtiyaz Ilyasbhai Ansari
+
+6
+
+POWENCY
+CIRCUIT
+PRIVATE
+LIMITED
+
+Product
+Innovation
+
+08177947
+
+Techno
+logical
+
+482
+
+Exter
+nal
+to
+the
+Instit
+ute/I
+ncub
+atee
+
+Innovator/Entrepreneur
+External to Institute
+
+U72900GJ2
+016PTC092
+921
+
+2016
+-17
+
+Graduated
+from the
+Incubation unit
+
+DIN number
+07497515
+
+Gender
+Male
+
+Sh.
+Kamale
+sh
+Dwivedi
+
+Agency Type
+
+Sh.
+Kamale
+sh
+Dwivedi
+
+Total Loan/Angel
+Investment/VC
+Fund raised by
+Start-up during
+the period of preincubation/incuba
+tion support at
+your Preincubation/incuba
+tion or institute
+financial period
+2019-20 (in
+Rupees)
+
+Sh.
+Kamale
+sh
+Dwivedi
+
+Date of
+Investment
+Raised
+
+Sh.
+Kamale
+sh
+Dwivedi
+
+Email
+ansariimtiyaz888@gmail.com
+
+Agency Name
+
+IIM
+Ahmedabad
+
+Agency Type
+
+Educational
+Institute
+
+No
+
+4
+1
+4
+0
+0
+
+Contact
+7878098198
+
+No
+
+A
+m
+o
+u
+n
+t
+R
+e
+c
+e
+i
+v
+e
+d
+i
+n
+R
+s
+.
+
+Award /
+Position /
+Recognition
+Secured
+
+Type
+Innovator/Entrepreneur
+External to Institute
+
+Gender
+Male
+
+Email
+sunil.ue@gmail.com
+
+No
+
+A
+m
+o
+u
+n
+t
+R
+e
+c
+e
+i
+v
+e
+d
+i
+n
+R
+s
+.
+
+Finalist at
+Power of
+Ideas
+
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Name
+SUNIL RAMANLAL PARMAR
+
+Type
+
+Loan/Investment
+Agency Name
+
+5
+5
+7
+5
+5
+
+Contact
+7874577842
+
+No
+
+7
+
+SVAKATHA
+PRIVATE
+LIMITED
+
+Product
+Innovation,S
+ervice
+Innovation
+
+Techno
+logical
+
+482
+
+Exter
+nal
+to
+the
+Instit
+ute/I
+ncub
+atee
+
+U51909GJ2
+020PTC113
+396
+
+DIN number
+
+VIVEK PUJARI
+
+MOTION
+MATTERS
+FITNESS
+LLP
+
+08733905
+
+Product
+Innovation,P
+rocess
+Innovation
+
+Techno
+logical
+
+482
+
+Exter
+nal
+to
+the
+Instit
+ute/I
+ncub
+atee
+
+No
+
+No
+
+Type
+
+Gender
+
+Innovator/Entrepreneur
+External to Institute
+
+AAR-3312
+
+No
+
+A
+m
+o
+u
+n
+t
+R
+e
+c
+e
+i
+v
+e
+d
+i
+n
+R
+s
+.
+
+2019
+-20
+
+Graduated
+from the
+Incubation unit
+
+Male
+
+No
+
+Email
+vivekpujari.info@gmail.com
+
+No
+
+DIN number
+08640737
+
+Type
+Innovator/Entrepreneur
+External to Institute
+
+Gender
+Female
+
+aashna@motionmatters.in
+
+No
+
+7600637978
+
+No
+
+Email
+
+2
+6
+8
+2
+0
+
+Contact
+
+A
+m
+o
+u
+n
+t
+R
+e
+c
+e
+i
+v
+e
+d
+i
+n
+R
+s
+.
+
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Name
+AASHNA JAGDISH KOTHARI
+
+Venture
+Development
+Dropped
+
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Name
+
+8
+
+2019
+-20
+
+6
+3
+0
+0
+
+Contact
+9099919251
+
+No
+
+9
+
+INFYU
+LABS
+PRIVATE
+LIMITED
+
+Product
+Innovation
+
+Techno
+logical
+
+482
+
+Exter
+nal
+to
+the
+Instit
+ute/I
+ncub
+atee
+
+U93000DL2
+019PTC354
+588
+
+2019
+-20
+
+Received
+Incubation
+Support from
+Incubation
+Unit
+
+No
+
+Agency Name
+
+Boeing
+BUILD
+
+Agency Type
+
+Corporate /
+Industry
+Association
+BUILD
+finalist
+
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Name
+
+10
+
+Award /
+Position /
+Recognition
+Secured
+
+DIN number
+
+Type
+
+Gender
+
+Loan/Investment
+Agency Name
+
+RA
+Venkitac
+halam
+
+Agency Type
+
+RA
+Venkitac
+halam
+
+Total Loan/Angel
+Investment/VC
+Fund raised by
+Start-up during
+the period of preincubation/incuba
+tion support at
+your Preincubation/incuba
+tion or institute
+financial period
+2019-20 (in
+Rupees)
+
+RA
+Venkitac
+halam
+
+Date of
+Investment
+Raised
+
+RA
+Venkitac
+halam
+
+Email
+
+A
+m
+o
+u
+n
+t
+R
+e
+c
+e
+i
+v
+e
+d
+i
+n
+R
+s
+.
+
+08552610
+
+Incubatee Entrepreneur
+
+Male
+
+amit@infyulabs.com
+
+7397374201
+
+ANKIT CHAUHAN
+
+08552611
+
+Incubatee Entrepreneur
+
+Male
+
+ankit961@gmail.com
+
+9625586803
+
+ANKIT CHAUHAN
+
+08552611
+
+Incubatee Entrepreneur
+
+Male
+
+ankit961@gmail.com
+
+9625586803
+
+Service
+Innovation
+
+Techno
+logical
+
+482
+
+Exter
+nal
+to
+the
+Instit
+ute/I
+ncub
+atee
+
+U74999GJ2
+020PTC112
+041
+
+Received
+Incubation
+Support from
+Incubation
+Unit
+
+No
+
+No
+
+No
+
+A
+m
+o
+u
+n
+t
+R
+e
+c
+e
+i
+v
+e
+d
+i
+n
+R
+s
+.
+
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Name
+MITHIL MAHESH CHAUHAN
+
+2019
+-20
+
+DIN number
+08697216
+
+Type
+Innovator/Entrepreneur
+External to Institute
+
+Gender
+Male
+
+Email
+mithilchauhan@gmail.com
+
+No
+
+Contact
+
+AMIT SRIVASTAVA
+
+WORKER
+NAKA
+PRIVATE
+LIMITED
+
+5
+4
+0
+0
+
+1
+0
+8
+0
+0
+
+Contact
+9601965456
+
+No
+
+11
+
+BOOKSHO
+RT:
+PENFOM
+TECHMEDI
+A PRIVATE
+LIMITED
+
+Process
+Innovation,
+Marketplace
+Innovation
+
+Techno
+logical
+
+482
+
+Exter
+nal
+to
+the
+Instit
+ute/I
+ncub
+atee
+
+U74999GJ2
+017PTC099
+857
+
+Graduated
+from the
+Incubation unit
+
+No
+
+No
+
+No
+
+A
+m
+o
+u
+n
+t
+R
+e
+c
+e
+i
+v
+e
+d
+i
+n
+R
+s
+.
+
+Venture with
+Corporate
+Identification
+Number (CIN)
+Registration
+
+Name
+CHIRAG BRAHMBHATT
+
+2017
+-18
+
+DIN number
+00000000
+
+Type
+Innovator/Entrepreneur
+External to Institute
+
+Gender
+Male
+
+Email
+
+3
+6
+0
+0
+
+No
+
+Contact
+
+chiragcb17@gmail.com
+
+8826496800
+
+Section 7 > i : List all the Collaborations with External Agencies and Co-Creation of I&E Activities by the HEI
+
+Srno
+
+1
+
+Collaborated Agency Name
+
+Boeing India
+
+Collaborated Agency Type
+
+Corporate / Industry Association
+
+Purpose of Collaboration
+
+Type of Support Offered
+
+Collaboration with Startups/Industry Associations/Knowledge
+Agencies to Promote I&E Activities and/or Internship Opportunities
+
+Mentoring,Networking,Seed
+fund
+
+No. of Student
+Projects/ Ideas /
+Innovation / Startups
+from the HEI get
+benefitted through
+this partnership
+
+Date of MOU /
+Agreement Signed
+on
+
+22
+
+14-12-2019
+
+Section 8 > ii : List the IPs Filed/Published/Granted (Copyright & Designs Only) by the HEI as an Applicant / Co-applicant / Co-owner
+No Data Flled!
+
+Section 8 > iii : List the IP (Patents only) Filed by the HEI as Applicant / Co-applicant / Co-owner
+Srno
+
+Title/Name of Patent
+
+IP Registration Number
+
+Date of Filed/Published (Year, Month)
+
+Application Level
+
+Copy of receipt / application
+screenshot [PDF or Image]
+
+1
+
+A LATERAL DMOS TRANSISTOR AND
+METHOD OF FABRICATING THEREOF
+
+201921014956
+
+National
+
+2019 - 04
+
+Uploaded
+
+2
+
+POLYMER REINFORCED METAL MATRIX
+COMPOSITES AND A PROCESS FOR
+FABRICATING THE SAME
+
+201921032326
+
+National
+
+2019 - 08
+
+Uploaded
+
+3
+
+CARRIER FOR ANTI-CANCER DRUGS
+AND A PROCESS FOR PREPARING THE
+SAME
+
+201921033177
+
+National
+
+2019 - 08
+
+Uploaded
+
+4
+
+A FILTER FOR WATER PURIFICATION
+AND A PROCESS FOR ITS
+MANUFACTURE
+
+201921034896
+
+National
+
+2019 - 08
+
+Uploaded
+
+5
+
+COMPOSITE PROPELLANTE
+
+201921035182
+
+National
+
+2019 - 08
+
+Uploaded
+
+6
+
+A PHYSIOLOGY-SENSITIVE SYSTEM FOR
+MANAGING PHYSICAL BEHAVIOR AND A
+METHOD THEREOF
+
+201921035452
+
+National
+
+2019 - 09
+
+Uploaded
+
+7
+
+AN APPARATUS AND METHOD FOR 3D
+PRINTING OF CONCRETE STRUCTURES
+
+201921036413
+
+National
+
+2019 - 09
+
+Uploaded
+
+8
+
+FLUOROPHORE BASED PROBES FOR
+CELLULAR IMAGING
+
+201921044149
+
+National
+
+2019 - 10
+
+Uploaded
+
+9
+
+A SYSTEM AND A PROCESS FOR
+WASTEWATER PURIFICATION
+
+201921045779
+
+National
+
+2019 - 11
+
+Uploaded
+
+10
+
+PROCESS FOR THE PREPARATION OF NSUBSTITUTED PHENOTHIAZINE
+DERIVATIVES
+
+201921054699
+
+National
+
+2019 - 12
+
+Uploaded
+
+11
+
+PHOTOCHROMIC ORGANIC COMPOUNDS
+AND A PROCESS FOR PREPARATION
+THEREOF
+
+202021012829
+
+National
+
+2020 - 03
+
+Uploaded
+
+12
+
+PHOTOCHROMIC ORGANIC COMPOUNDS
+AND A PROCESS FOR PREPARATION
+THEREOF
+
+202021012831
+
+National
+
+2020 - 03
+
+Uploaded
+
+13
+
+A COOL FLAME REACTOR FOR DIESEL
+REFORMER
+
+202021014014
+
+National
+
+2020 - 03
+
+Uploaded

@@ -1,0 +1,35 @@
+Title: IIT Gandhinagar | Ravi Banavar
+Source: https://iitgn.ac.in/faculty/guestprof/ravi-banavar
+
+# Ravi Banavar
+
+-  Guest Professors
+Ravi Banavar
+
+## Ravi Banavar
+
+Guest Professor, Mechanical Engineering
+
+- BTech: IIT Madras, 1986
+- MS: Clemson University, Clemson, 1988
+- PhD: University of Texas, Austin, 1992
+
+Email: ravi.banavar -AT- iitgn.ac.in
+
+- Sneha Gajbhiye and R. N. Banavar Geometric Modeling and Local Controllability of a Spherical Robot Actuated by a Pendulum, DOI:10.1002/RNC, International Journal of Robust and Nonlinear Control (2015).
+- K. S. Phogat, D. Chatterjee and R. N. Banavar Multiple Shooting Technique for Optimal Attitude Control of a Spacecraft with Momentum and Actuator Constraints, submitted to the International Journal of Robust and Nonlinear Control.
+- S. R. Sahoo and R. N. Banavar Attitude synchronization of satellites with internal actuation, European Journal of Control (20), 2014 152-161. (Elsevier).
+- R. Bayadi and R. N. Banavar Almost global attitude stabilization of a rigid body for both internal and external actuation schemes, European Journal of Control (20), 2014 45-54. (Elsevier).
+- R. Bayadi, R. N. Banavar and D. E. Chang Characterizing the Reachable Sets of a Spacecraft with Two Rotors, Systems and Control Letters (62) 2013, 453-460.
+
+- Faculty, currently Professor, Indian Institute of Technology, Bombay (Jan 1993 to present)
+- Visiting Professor, Indian Institute of Technology, Gandhinagar (Dec 2016 to Apr 2017)
+- Pratt and Whitney Visiting Chair Professor, Indian Institute of Science (July 2015 to Dec 2015)
+- Visiting Faculty Member, Laboratory for Signals and Systems (LSS), France (May 2005 to Jun 2005)
+- Visiting Faculty Member, Indian Institute of Science, Bangalore (May 2004)
+- Visiting Faculty Member, University of California, Los Angeles (Jun 1999 to Jun 2000)
+- Lecturer, University of California, Los Angeles (Dec 1991 - July 1992)
+
+- ● Optimal control, nonlinear control
+- ● Geometric mechanics
+- ● Application areas - mechanical (robotics), aerospace (launch vehicles, spacecrafts) and electrical power system networks

@@ -1,0 +1,47 @@
+Title: IIT Gandhinagar | Indranath Sengupta
+Source: https://iitgn.ac.in/faculty/maths/fac-indranath
+
+# Indranath Sengupta
+
+-  Mathematics
+Indranath Sengupta
+
+## Indranath Sengupta
+
+Professor, Mathematics
+
+- BSc: Jadavpur University, 1991
+- MSc: Jadavpur University, 1993
+- PhD: Indian Institute of Science, Bangalore, 2001
+
+Email: indranathsg -AT- iitgn.ac.in
+
+Office:  AB 6/345
+VOIP:  2469
+
+- (With Joydip Saha and Gaurab Tripathi) Ideals of the form $I_{1}(XY)$. Journal of Symbolic Computation 91(2019), pages 17—29; https://doi.org/10.1016/j.jsc.2018.06.011.
+- (With Ranjana Mehta & Joydip Saha) Betti numbers of Bresinsky’s curves in $\mathbb{A}^{4}$; to appear in Journal of Algebra and its Applications 18(8), August 2019; https://doi.org/10.1142/S0219498819501433.
+- (With Ranjana Mehta & Joydip Saha) Unboundedness of Betti numbers of curves. ACM Communications of Computer Algebra 52(3), Issue 205, September 2018.
+- (With Joydip Saha and Gaurab Tripathi) Transversal Intersection of Monomial Ideals. arXiv:1705.00488; to appear in the Proceedings - Mathematical Sciences, 2019.
+- (With Joydip Saha and Gaurab Tripathi) Primary decomposition and normality of certain Determinantal ideals. arXiv:1610.00926; to appear in the Proceedings - Mathematical Sciences, 2019.
+- (With Achintya Kumar Roy and Gaurab Tripathi) Minimal graded free resolutions for monomial curves defined by almost arithmetic sequences. Communications in Algebra 45(2), 2017, pp. 521-551.
+- (With Joydip Saha and Gaurab Tripathi) Gröbner bases for $I_{1}(XY)$. XV Encuentro de Álgebra Computacional y Applications, EACA 2016. Edited by Jónathan Heras & Ana Romero, Univ. Rioja, SPAIN, pp. 149 - 152 (2016). ISBN 978-84-608-9024-9; https://dialnet.unirioja.es/servlet/libro?codigo=655785.
+
+- Professor, Indian Institute of Technology, Gandhinagar, (Jun 2021 to present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar, (Apr 2014 - Jun 2021)
+- Associate Professor, Jadavpur University, Kolkata, (Feb 2013 - Apr 2014)
+- Reader, Jadavpur University, Kolkata, (2010 - 2013)
+- Reader, RKM Vivekananda University, Howrah (2008 - 2010)
+- Visiting Professor, University of Missouri, Columbia, USA (Fall 2007)
+- BOYSCAST Post-doctoral fellow, University of Utah, USA (2003 - 2004)
+- Lecturer & Senior Lecturer, Jadavpur University, Kolkata (2001 - 2008)
+
+Awards
+
+- Ayudas Para La Estancia de Investigadores de Otras, University of Valladolid, SPAIN (2009)
+- BOYSCAST Fellowship for post-doctoral research, 2003
+
+- ● Commutative algebra
+- ● Algebraic geometry
+
+Complete List of Publications

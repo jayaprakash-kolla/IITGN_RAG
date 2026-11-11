@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Naveen Sisodia
+Source: https://iitgn.ac.in/faculty/phy/fac-naveen
+
+# Naveen Sisodia
+
+-  Physics
+Naveen Sisodia
+
+## Naveen Sisodia
+
+Assistant Professor, Physics
+
+- BTech: Indian Institute of Technology Delhi, 2014
+- PhD: Indian Institute of Technology Delhi, 2020
+
+Email: naveen.sisodia -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/view/spindev
+
+Office:  AB 6/312
+VOIP:  2612
+
+R. Juge, N. Sisodia et al., “Skyrmions in synthetic antiferromagnets and their nucleation via electrical current and ultrafast laser illumination" Nat. Commun. 13, 4807 (2022) (*equal contribution)
+
+N. Sisodia, J. Pelloux-Prayer, L. D. Buda-Prejbeanu, L. Anghel, G. Gaudin and O. Boulle, “Robust and programmable logic-in-memory devices exploiting skyrmion confinement and channeling using local energy barriers” Phys. Rev. Applied 18, 014025 (2022)
+
+N. Sisodia, J. Pelloux-Prayer, L. D. Buda-Prejbeanu, L. Anghel, G. Gaudin and O. Boulle, Programmable skyrmion demultiplexer based on skyrmion tunnelling, “Phys. Rev. Applied 17, 064035 (2022)
+
+N. Sisodia, P. K. Muduli, N. Papanicolaou and S. Komineas, “Chiral droplets and current-driven motion in ferromagnets” Phys. Rev. B 103, 024431 (2021)
+
+N. Sisodia and P. K. Muduli, “Simultaneous enhancement of spin-torque diode sensitivity and detection frequency by using voltage controlled magnetic anisotropy” Appl. Phys. Lett. 115, 102401 (2019)
+
+N. Sisodia, S. Komineas, and P. K. Muduli, “Chiral skyrmion auto-oscillations in a ferromagnet under spin-transfer torque” Phys. Rev. B 99, 184441 (2019)
+
+Assistant Professor, Indian Institute of Technology Gandhinagar (June 2023 to present)
+
+Postdoctoral Researcher, CNRS/Thales, France (Sep 2022 to May 2023)
+
+Postdoctoral Researcher, SPINTEC (CEA), France (Nov 2020 to July 2022)
+
+Principal Project Scientist, IIT Delhi (Mar 2020 to Aug 2020)
+
+- ● Modelling of spintronics-based logic-in-memory devices and hardware for neuromorphic computing
+- ● Modelling skyrmion dynamics in magnetic thin films and exploring their applications in data storage and computation
+- ● Development of radio frequency sensors and oscillators

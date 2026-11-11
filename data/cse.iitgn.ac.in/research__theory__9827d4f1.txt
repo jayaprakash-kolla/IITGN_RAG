@@ -1,0 +1,96 @@
+Title: Theoretical CS
+Source: https://cse.iitgn.ac.in/research/theory
+
+Research / Area
+
+# Theory
+
+ Algorithms, complexity, combinatorics, and the mathematical foundations of computation.
+
+ Featured Video
+
+## Theoretical computer science at IIT Gandhinagar
+
+ Watch on YouTube
+
+ Research Themes
+
+## Research topics
+
+ Parameterized and exact algorithms  Graph algorithms and dynamic graph problems  Computational complexity and algebraic computation  Quantum algorithms and algebraic/combinatorial problems  Computational social choice and games
+
+Faculty
+
+## Faculty
+
+### Anup Kalbalia
+
+ Associate Professor of Practice
+
+ Systems for education: assessment infrastructure, hardened exam environments, and platforms for programming instruction and automated evaluation; Academic integrity in the age of AI: preventing misuse without surveillance-heavy or stressful exam conditions; Pedagogy of introductory CS: rethinking CS101 to teach problem-solving logic before language syntax
+
+### Balagopal Komarath
+
+ Assistant Professor
+
+ Circuit complexity and other low-level computational models
+
+### Bireswar Das
+
+ Professor
+
+ Computational complexity theory and algorithms; Algebra and computationy
+
+### Jyothi Krishnan
+
+ Assistant Teaching Professor
+
+ Mathematics; Mathematical games; Board games
+
+### Manoj D Gupta
+
+ Associate Professor
+
+ Dynamic graph algorithms; Streaming algorithms; Randomized algorithms
+
+### Neeldhara Misra
+
+ Associate Professor
+
+ Design and analysis of algorithms; Computational social choice; Extremal combinatorics
+
+ Selected Publications
+
+## Recent Publications
+
+### Finding and counting patterns in sparse graphs
+
+ JCSS 2026 - graph algorithms and sparse graph structure.
+
+### On the Parameterized Complexity of Diverse SAT
+
+ Theoretical Computer Science 2026 - parameterized complexity.
+
+### VP, VNP and Algebraic Branching Programs over Min-Plus Semirings
+
+ 2026 preprint - algebraic complexity over semirings.
+
+### Ferry Cover with Connectivity Constraints
+
+ FUN 2026 - algorithmic graph covering constraints.
+
+ Projects & Outputs
+
+## Representative Projects
+
+### Approximate Shortest Paths in Graphs
+
+ ANRF ARG MATRICS project led by Manoj D Gupta.
+
+### Quantum Algorithms for Group Theoretic Problems
+
+ ANRF ARG MATRICS project led by Bireswar Das.
+
+### On the Role of Multilinearity and Monotonicity in Algebraic Computation
+
+ ANRF ARG MATRICS project led by Balagopal Komarath.

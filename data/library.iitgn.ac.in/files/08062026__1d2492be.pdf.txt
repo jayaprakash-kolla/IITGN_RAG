@@ -1,0 +1,124 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 23, 2026
+(Added during 01st– 05th June 2026)
+Available for the issue from 13th June 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+ENVIRONMENTAL - ECONOMICS
+Title: Markets and the environment
+Author: Keohane, Nathaniel O.
+Publisher: Washington: Island Press, 2016
+Call No.: 333.7 KEO
+Acc. No.: 037056, 037057
+
+MATHEMATICS
+Title: Chasing a conjecture: inside the mind of a mathematician
+Author: Khare, Chandrashekhar B.
+Publisher: New Delhi: Juggernaut, 2025
+Call No.: 510.92 KHA
+Acc. No.: 037063
+
+Title: Completeness and reduction in algebraic complexity theory
+Author: Burgisser, Peter
+Publisher: Berlin: Springer, 2000
+Call No.: 511.3 BUR
+Acc. No.: 037065
+
+PHYSICS
+Title: Statistical physics: statics, dynamics and renormalization
+Author: Kadanoff, Leo P
+Publisher: Singapore: World Scientific, 2000
+Call No.: 530.12 KAB
+Acc. No.: 037059
+
+Title: Introduction to error analysis: the study of uncertainties in physical
+measurements
+Author: Taylor, John R
+Publisher: New York: University Science Books, 2022
+Call No.: 530.801 TAY
+Acc. No.: 037052
+
+CHEMISTRY
+Title: Nanocomposites in electrochemical sensors
+Author: Bagheri, Samira
+Publisher: Florida: CRC Press, 2019
+Call No.: 681.2 BAG
+Acc. No.: 037064
+
+Title: Microbial carbonates in space and time: implications for global exploration
+and production
+Author: Bosence, D. W. J.
+Publisher: London: The Geological Society, 2015
+Call No.: 551.304 BOS
+Acc. No.: 037058
+
+BIOLOGY
+Title: Deep learning for biology: harness AI to solve real-world biology problems
+Author: Ravarani, Charles
+Publisher: California: O'Reilly Media, 2025
+Call No.: 570.285 RAV
+Acc. No.: 037062
+
+Title: EEG signal processing with Python: machine learning techniques for braincomputer interface development
+Author: Rakhmatulin, Ildar
+Publisher: Singapore: Springer, 2026
+Call No.: 616.804754 RAK
+Acc. No.: 037060
+
+EARTH SCIENCE
+Title: Fluvial hydrodynamics: hydrodynamic and sediment transport phenomena
+Author: Dey, Subhasish
+Publisher: Cham: Springer, 2024
+Call No.: 627.122 DEY
+Acc. No.: 037061
+
+Title: Fluvial hydrodynamics - solutions manual
+Author: Dey, Subhasish
+Publisher: Cham: Springer, 2024
+Call No.: 627.122 DEY
+Acc. No.: 037066
+
+MANAGEMENT
+Title: There’s got to be a better way: how to deliver results and get rid of the stuff
+that gets in the way of real work
+Author: Repenning, Nelson P.
+Publisher: New York: Basic Venture, 2025
+Call No.: 658.53 REP
+Acc. No.: 037067
+
+ARTS & DESIGN
+Title: Early to medieval Chinese pottery: the MacLean Collection
+Author: Yin, Tongyun
+Publisher: California: Weldon Owen, 2023
+Call No.: 738.0951 YIN
+Acc. No.: 037054
+
+Title: Sign is . . .
+Author: Ludlow, Jeffrey
+Publisher: London: ORO Editions, 2025
+Call No.: 741.6 LUD
+Acc. No.: 037051
+
+LITERATURE
+Title: Comeback: a novel
+Author: Zaidi, Annie
+Publisher: New Delhi: Aleph Book Company, 2025
+Call No.: 823.92 ZAI
+Acc. No.: 037053
+
+Title: Man beyond the Earth
+Author: Mahapatra, Gokulananda
+Publisher: New Delhi: Abhishek Publications, 2025
+Call No.: 891.4437 MAH
+Acc. No.: 037055

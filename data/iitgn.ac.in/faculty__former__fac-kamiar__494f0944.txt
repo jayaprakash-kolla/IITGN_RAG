@@ -1,0 +1,40 @@
+Title: IIT Gandhinagar | Kamiar Aminian
+Source: https://iitgn.ac.in/faculty/former/fac-kamiar
+
+# Kamiar Aminian
+
+-  Former Faculty Members
+Kamiar Aminian
+
+## Kamiar Aminian
+
+Scholar-in-Residence (Cognitive Science), Humanities and Social Sciences
+
+- MSc: EPFL, Switzerland, 1982
+- PhD: EPFL, Switzerland, 1989
+
+Email: kamiar.aminian -AT- iitgn.ac.in
+
+- Mylius V, Maes L, Negele K, Schmid C, Sylvester R, Sharon Brook C, Brugger F, Perez-Lloret S, Bansi J, Aminian K, Paraschiv-Ionescu A, Gonzenbach R, Brugger P, (2022). Dual-Task Treadmill Training for the Prevention of Falls in Parkinson's Disease: Rationale and Study Design, Frontiers in Rehabilitation Sciences. doi: 10.3389/fresc.2021.774658
+- Prigent G, Apte S, Paraschiv-Ionescu A, Besson C, Gremeaux V, Aminian K.. (2022). Concurrent Evolution of Biomechanical and Physiological Parameters With Running-Induced Acute Fatigue. Front Physiol. doi: 10.3389/fphys.2022.814172.
+- Pagnamenta, S., Grønvik, K.B., Aminian K., Vereijken, B. and Paraschiv-Ionescu, A., (2022). Putting Temperature into the Equation: Development and Validation of Algorithms to Distinguish Non-Wearing from Inactivity and Sleep in Wearable Sensors. Sensors, 22(3), p.1117.
+- Hamidi Rad, M., Gremeaux, V., Massé, F., Dadashi, F. and Aminian K., (2022). SmartSwim, a Novel IMU-Based Coaching Assistance. Sensors, 22(9), p.3356.
+- Falbriard, M., Huot, G., Janier, M., Chandran, R., Rechsteiner, M., Michaud, V., Cugnoni, J., Botsis, J., Schönenberger, K. and Aminian K., (2022). A functional approach towards the design, development, and test of an affordable dynamic prosthetic foot. PloS one, 17(5), p.e0266656.
+
+- Scholar-in-Residence, Indian Institute of Technology, Gandhinagar (Oct 2022 to Present)
+- Professor Titular, Adjunct Professor, Institute of Bioengineering, EPFL, Switzerland (2007 to Present)
+- Senior Scientist (MER), Director of the LMAM, EPFL (2002 - 2007)
+- Group Leader and Lecturer, Metrology Laboratory, EPFL (1996 - 2001)
+- Assistant Professor, Sharif University of Technology, Tehran, Iran (1994 - 1996)
+
+- ● Sensors and Instrumentation
+- ● Ambulatory monitoring
+- ● Gait Analysis
+- ● Physical Activity Monitoring
+- ● Balance assessment
+- ● Sport and rehabilitation
+- ● Arthroplasty
+- ● Outcome
+- ● Fall Risk in the Elderly
+- ● Quality of life
+- ● Parkinson

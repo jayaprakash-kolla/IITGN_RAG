@@ -1,0 +1,144 @@
+Title: Systems & Architecture
+Source: https://cse.iitgn.ac.in/research/systems
+
+Research / Area
+
+# Systems
+
+ Computer architecture, networks, distributed systems, software engineering, security, and privacy.
+
+ Featured Video
+
+## Systems and Security Research at IIT Gandhinagar
+
+ Watch on YouTube
+
+ Research Themes
+
+## Research topics
+
+ Computer architecture, memory, storage, and accelerators  Network function virtualization, SDN, edge, and cloud systems  Software testing, evolution, maintenance, and repositories  Sensing systems and deployed computing for sustainability  Embedded systems, VLSI, operating systems, and public-scale infrastructure  Formal methods and protocol verification  Language-based security and information flow  Web privacy and browser consent management  Privacy-preserving and fair machine learning  Secure embedded and public-interest computing systems
+
+Faculty
+
+## Faculty
+
+### Abhishek Bichhawat
+
+ Associate Professor
+
+ Language-based security; Formal methods and verification for security; Information flow security
+
+### Adithya Kumar
+
+ Assistant Professor
+
+ Distributed systems; AI/ML infrastructure; Performance evaluation
+
+### Ajay Singh
+
+ Assistant Professor
+
+ Data Structures and Algorithms on Emerging Memory Architectures; Data Structures and Algorithms for Emerging Applications; Memory Management in Concurrent Software
+
+### Joycee M. Mekie
+
+ Professor
+
+ Approximate computing; Low power SRAM; Radiation hardened systems
+
+### Manu Awasthi
+
+ Associate Professor of Practice
+
+ Computer Architecture and Systems; Embedded Systems; Performance Modeling and Optimization
+
+### Rajat Moona
+
+ Professor & Director
+
+ Computer Architecture; VLSI Design; Operating Systems
+
+### Sameer G Kulkarni
+
+ Assistant Professor
+
+ Network Function Virtualization; Software Defined Networking; Cloud Computing
+
+### Shouvick Mondal
+
+ Assistant Professor
+
+ Software Engineering using Generative AI; Empirical Software Engineering; Software Testing
+
+ Selected Publications
+
+## Recent Publications
+
+### MCP-Diag: A Deterministic, Protocol-Driven Architecture for AI-Native Network Diagnostics
+
+ COMSNETS 2026 - AI-native network diagnostics.
+
+### Memory Bottlenecks in Quantum Simulation: Cache Contention and Adaptive Allocation Policy
+
+ COMSNETS 2026 - memory and cache behavior in simulation.
+
+### Hardware-Software Co-Design of a Collaborative DNN Accelerator for 3D Stacked Memories with Multi-Channel Data
+
+ ASP-DAC 2024 - accelerator architecture and memory systems.
+
+### VulNet: Towards Improving Vulnerability Management in the Maven Ecosystem
+
+ EMSE 2024 - software engineering and vulnerability management.
+
+### Johnny Can't Revoke Consent Either: Measuring Compliance of Consent Revocation on the Web
+
+ PETS 2025 - web privacy and consent revocation compliance.
+
+### Least Privilege Access for Persistent Storage Mechanisms in Web Browsers
+
+ WWW 2025 - browser storage and least-privilege web security.
+
+### Fall-Through Semantics for Mitigating Timing-Based Side Channel Leaks
+
+ FSTTCS 2025 - semantics and side-channel mitigation.
+
+### DY*: A Modular Symbolic Verification Framework for Executable Cryptographic Protocol Code
+
+ IEEE EuroS&P 2021 - verified cryptographic protocol code.
+
+ Projects & Outputs
+
+## Representative Projects
+
+### Development of Quantum Machine Learning Use Cases and Applications
+
+ MeitY-sponsored project led by Sameer G Kulkarni.
+
+### Specialized language models deployable on endpoints with low compute resources
+
+ ISRO-sponsored project led by Anirban Dasgupta with systems relevance.
+
+### Project Madhava
+
+ Hands-on computer systems pedagogy and RISC-V based microcontroller development led by Manu Awasthi.
+
+### Department compute infrastructure
+
+ GPU-based department servers and HPC resources supporting systems and AI experiments.
+
+### Understanding and Ensuring the Privacy of User Data
+
+ SERB project led by Abhishek Bichhawat.
+
+### Verifying Security Properties of Group Messaging Protocols
+
+ CEFIPRA international project led by Abhishek Bichhawat.
+
+### Towards a Private yet Functional Web: Designing a Usable and Privacy-compliant Consent Management Framework for Online Browsing
+
+ ANRF Advanced Research Grant led by Abhishek Bichhawat.
+
+### Fair Federated Learning Framework in the Presence of Heterogeneous, Strategic, and Malicious Clients
+
+ ANRF early-career project led by Manisha Padala.

@@ -1,0 +1,109 @@
+#flags:ocr
+
+Organizations
+
+The Batch of 2008 B. Tech. Students
+
+Roll No. Name of Student Branch [s00228 |. Tejeswara Rao Electrical
+0800103 [Akshay Bishnoi [Chemical Jos00229 _[Nitish Bhaje [Electrical
+0800106 feenam Jindal |Chemical 0800230 |Kawadkar Rahul Prabhakar [Electrical
+0800107 [Datla Surya Vikranth Varma [Chemical Jos00231_[Bhuma Raja Sekhar [Electrical
+0800108 [Puneeth Bhat Paniyadi Chemical los00232__[Bhargav Kumar Thadem [Electrical
+losooi09 [Luv Gupta Chemical joso0233_[Gurrapu Naveen [Electrical
+lo800110 _[Pratyul Kapoor [Chemical jos00234 [Amerla Giridhar [Electrical
+0800115 [Gaurav Garg [Chemical jos00235__[Kajori Das [Electrical
+losoo1i6 — |Sahil Garg [Chemical Joso0236 [Gaurav Kumar [Electrical
+lo00117 [Yash Marda [Chemical Jos00238__[Parichita Kapoor [Electrical
+0800118 [Dasaraju Vineeth [Chemical Jo800239  |Gunturu Anusha Electrical
+0800119 [Yogesh Goyal [Chemical josoo240_—_ [Ankit Agarwal [Electrical
+0800121 [Abhishek Umrao [Chemical 0800241 |Nitesh Gupta [Electrical
+0800122 [Rakesh Kumar Chaudhary [Chemical jos00242 | Vishal Maheshwari [Electrical
+0800123 |Nitish Choudhary [Chemical josoo243__ [Arava Pavan Kishore [Electrical
+0800125 |Seerla Veerendra Nath Chemical josoo244 —[Sarthak Jain [Electrical
+lo800126 [Akash Kumar [Chemical joso0245 [Mani Shankar Sahi [Electrical
+[0800127 _|Kanchan Patel Chemical joso0246 _|V. Naveen Deepak Electrical
+0800128 |Gourav Kumar Chemical josoo301__ [Kulkarni Ajinkya Mukund [Mechanical
+0800130 [Vivek Yadav Chemical Josco304 [Saurabh Gangwal [Mechanical
+0800131 |G. Prakash [Chemical Jos00305 [Swati Verma Mechanical
+0800201 [Joshi Nishant Shirish [Electrical Jo800306 _[Maisum Ali Dairkee [Mechanical
+lo800202__|K. Pranav Kumar [Electrical josco308__|N. C. Puneeth [Mechanical
+lo800204_|Gadiparthi Nithin Kumar [Electrical jos00310[Balwa Tanmay Hiralal Mechanical
+loso0205 [Sai Theja Lolla [Electrical losoo311__[Tembhekar Ishan Deodatta Mechanical
+lo800206 [Vivek Maheshwary [Electrical Josoo313_[Swetava Ganguli [Mechanical
+[0800207 _[Nigil George [Electrical Josco314 —_[A. Nitish Ratan [Mechanical
+0800208 __|V. R. D. Santhosh Kumar [Electrical oso0315 [Abhishek Kandoi Mechanical
+lo800209 _|Gandham Mahen Ranadh| [Electrical Jo800316 [Nikhil Haridas [Mechanical
+lo800210 [Asher Amit Deepak [Electrical jos00318 [Nadkarni Neel Prashant Devika _ [Mechanical
+loso0211 [Manu Bansal [Electrical joso0319_— [Anchit Gaurav Mechanical
+loso0212 [Suguru Kundan [Electrical josoo321__ [Pankaj Kumar Yadav Mechanical
+0800214 Saurabh Hiten Nagrecha [Electrical Jos00322 | Vishwam Rathore [Mechanical
+log00215 [Kishore R. [Electrical los00323 [Hare Lal Mahato [Mechanical
+0800216 [Lalitha Anusha [Electrical Jos00324 [Ram Prakash Mechanical
+0800217 _|Endla Naveenkumar [Electrical 0800325 [Kapure Kaustubh Ashokrao Mechanical
+0800218 [Harsh Paliwal [Electrical 0800326 {Patel Abhik Jitendra [Mechanical
+loso0219 [Yala Sushmitha Electrical l0800327__[Bhavsar Rohit Rajeev Mechanical
+0800220 [Borde Prashant Ashok [Electrical jos00329__ [Adnan Ahmad Ansari Mechanical
+lo800222 _|Shaik Siddhikh Hussain [Electrical jos00330 [Prakash Kumar Uwam [Mechanical
+[0800223 [Prerit Terwa [Electrical 0800331 [Dasari Sumateja Mechanical
+0800224 |Kshirsagar Vivek Suryakant [Electrical Jo800332 [Bharat Shara Mechanical
+lo800225 [Arun Yadav [Electrical los00334 [Keshav G. [Mechanical
+[0800226 [Juvatkar Prathamesh Arvind [Electrical joso0335 [Kommu Omkaram. [Mechanical
+
+(0800227 [Rajpal Kumar [Electrical 0800336 |Sujay Yadav [Mechanical
+
+[Roll No. [Name of Student Branch fo9002033 [Jyoti Pranami Electrical
+loso01001 [Arth Patel Chemical lo9002034 Abhinav Borkar [Electrical
+los001004 [Shruti Jain Chemical lo9002035 [Suraj Sonker Electrical
+lo9001005 [Divya Bansal Chemical lo9002036 [Piyush Meshram [Electrical
+lo9001006 |Garima Raghuwanshi Chemical lo9002037 [Subhash Kunche [Electrical
+09001010 [Sushmita Purnima Chemical jo9002038 [Ankita Gupta Electrical
+lo9001011 |Shalinee Kavadiya Chemical lo9002039 [Narendranath Balasubramani [Electrical
+09001012 [Rahul Pancholi Chemical lo9002040 [Lalitha Pragna Nasina [Electrical
+09001017 |Vishvendra Joshi Chemical lo9002041 [Chetas Joshi Electrical
+los001019 [Adit Gupta Chemical lo9002042 |Shubham Ranka [Electrical
+09001020 [Mohit Verma Chemical lo9002043 [Jainil Parekh [Electrical
+lo9001021 [Gaurav Rathore Chemical lo9002044 [Sayed Ayesha Electrical
+09001023 [Neerav Gadhvi Chemical lo9003001 [Yash Shah [Mechanical
+09001024 |Shriprakash Gupta Chemical lo9003002 |Ajinkya Dahale [Mechanical
+09001025 |Ved Prakash Sahu Chemical lo9003003 [Suresh Ramasamy [Mechanical
+09001026 [Monica Yadav Chemical [09003004 |Vishnu Vijay [Mechanical
+lo9001027 [Ravi Teja Chemical [09003005 [Rajat Jain [Mechanical
+09001028 [Sanjay Meena Chemical lo9003006 [Vinay Karanam [Mechanical
+09001030 [Hima Teja Chemical lo9003007 |Abhijith Rajiv [Mechanical
+09001031 [Pooja Athawal Chemical lo9003008 |Gourav Dubey [Mechanical
+lo9001032_|Nagender Singh Chemical [09003010 [Shashank Pandey [Mechanical
+09001033 [Tarun Verma Chemical lo9003011 Abhishek Sharma [Mechanical
+09001034 [Ravi Kumar Chemical lo9003013 [Pratham Shah [Mechanical
+09001035 [Sushant Suman Chemical jo9003014 [Siddhartha Cheruvu [Mechanical
+09001037 [Divyank Singh Chemical lo9003015 [Tarun Rai [Mechanical
+09001038 |Shrankhla Narya Chemical lo9003017 [Ravi Agarwal [Mechanical
+los002001 [Aditi Dighe Electrical [09003018 [Himanshu Dewangan [Mechanical
+lo9002002 _|Niral Parikh Electrical [09003019 |Shyamal Kishore [Mechanical
+lo9002004 [Rahul Jeshnani Electrical [09003020 |Sunil Patidar [Mechanical
+lo9002005 |B. Abhilash Chaudhary Electrical lo9003021 [Chetan Dhande [Mechanical
+lo9002006 [Mohit Malu Electrical [09003022 [Anil Chejara [Mechanical
+lo9002007 [Ankit Grover Electrical lo9003023 |Harikrishnan Cb [Mechanical
+los002008 |Tarkeshwar Singh Electrical lo9003024 |Shubham Chauhan [Mechanical
+lo9002009 [Ekta Prashnani Electrical [09003025 |Chaitanya Rajeev Mahadasyam [Mechanical
+09002010 |Shubham Gupta Electrical [09003026 [Babulal Choudhary [Mechanical
+lo9002011 [Pratik Thacker Electrical lo9003027 [Rudra Prasad Maisur Mechanical]
+09002012 |Shubham Agarwal [Electrical lo9003028 [Suresh Choudhary [Mechanical
+lo9002014 [Akshay Dilip Navalakha Electrical j09003029 [Prashant Patel [Mechanical
+09002015 [Pritish Jain [Electrical 09003030 |Jashuva Vaddeswaram Mechanical]
+lo9002016 [Dhruv Chokshi [Electrical lo9003031 [Deep Kumar [Mechanical
+09002018 |Satyendrasingh Jadaun Electrical lo9003032 [Dipesh Dayama [Mechanical
+09002019 [Vipul Goyal [Electrical [09003033 [Dinesh Kumar Gangapatnam [Mechanical
+09002020 [Parth Shah [Electrical [09003034 [Bhavin Chauhan [Mechanical
+09002021 [Pritesh Sankhe Electrical jo9003035 |Ajish R. [Mechanical
+09002022 |Gauarv Saini Electrical [09003036 [Sunny Patel Mechanical]
+lo9002023 |Saurya Prakash Sinha [Electrical [09003037 |Kaustubh Tirpude [Mechanical
+09002024 [Shashank Naphade Electrical lo9003038 [Krishna Teja Sripada [Mechanical
+09002025 |Kislay Pankaj Electrical [09003039 [Rohit Chouksey Mechanical]
+lo9002026 [Revanth Sandeep [Electrical lo9003040 [Varun Gupta [Mechanical
+lo9002027 [Shashank Sheohare Electrical jo9003041 |Anirudh Singal [Mechanical
+09002028 [Bajrank Choudhary Electrical lo003042 [Shreyas Vaidya [Mechanical
+09002029 [Kishan Suthar [Electrical jo9003043 Abhilash Patel [Mechanical
+lo9002030 |Siddharth Gora Electrical jo9003044 |Vrushiket Patil [Mechanical
+09002031 [Karthik Jadala Electrical [09003045 [Mohak Patel [Mechanical
+09002032 [Nitesh Meshram [Electrical
+

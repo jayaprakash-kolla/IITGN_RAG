@@ -1,0 +1,10 @@
+Title: CCL IITGN App | CCL, IIT Gandhinagar
+Source: https://ccl.iitgn.ac.in/ccl-app
+
+# The CCL App
+
+Designed to extend the Center for Creative Learning’s workshop experience into classrooms, the app provides easy access to essential resources, enabling teachers to bring creative STEM education to life.
+
+Features include detailed resource libraries, progress tracking, photo-sharing for showcasing classroom engagement, and timely CCL updates via an announcement channel, all crafted to inspire and empower educators.
+
+Download

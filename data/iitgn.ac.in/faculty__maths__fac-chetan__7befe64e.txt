@@ -1,0 +1,37 @@
+Title: IIT Gandhinagar | Chetan Pahlajani
+Source: https://iitgn.ac.in/faculty/maths/fac-chetan
+
+# Chetan Pahlajani
+
+-  Mathematics
+Chetan Pahlajani
+
+## Chetan Pahlajani
+
+Associate Professor, Mathematics
+
+- BSE: University of Michigan at Ann Arbor, 1999
+- MS: University of Illinois at Urbana Champaign, 2003
+- PhD: University of Illinois at Urbana Champaign, 2007
+
+Email: cdpahlajani -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/a/iitgn.ac.in/cdpahlajani/
+
+Office:  AB 5/341
+VOIP:  2475
+
+- Chetan D. Pahlajani. Randomly perturbed switching dynamics of a DC/DC converter. Discrete and Continuous Dynamical Systems Series B, vol. 22, no. 2, pp. 569-584, March 2017.
+- Stochastic averaging for a Hamiltonian system with skew random perturbations. Chetan D. Pahlajani. Journal of Theoretical Probability, vol. 28, issue 3, September 2015, pp. 1165-1226.
+- Performance bounds for mismatched decision schemes with Poisson process observations. Chetan D. Pahlajani, Jianxin Sun, Ioannis Poulakakis, and Herbert G. Tanner. Systems and Control Letters, 75 (2015), pp. 69-76.
+- Performance bounds for mismatched decision schemes with Poisson process observations. Chetan D. Pahlajani, Jianxin Sun, Ioannis Poulakakis, and Herbert G. Tanner. Systems and Control Letters, 75 (2015), pp. 69-76.
+- Stochastic averaging for a Hamiltonian system with skew random perturbations. Chetan D. Pahlajani. Journal of Theoretical Probability, vol. 28, issue 3, September 2015, pp. 1165-1226.
+- Error probability bounds for nuclear detection: Improving accuracy through controlled mobility. Chetan D. Pahlajani, Jianxin Sun, Ioannis Poulakakis and Herbert G. Tanner. Automatica, vol. 50, issue 10 (2014), pp. 2470-2481.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Sep 2023 to Present)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar, (July 2014 - Sep 2023)
+- Visiting Assistant Professor/Postdoctoral Researcher, University of Delaware, (Sep 2010 - Apr 2014)
+- Visiting Assistant Professor, University of California Santa Barbara (July 2007 - Jun 2010)
+
+- ● Probability theory and stochastic processes
+- ● Dynamical systems

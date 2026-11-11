@@ -1,0 +1,89 @@
+#flags:
+
+## Sheet: 2014-15
+2 | 2014-15 | 1 | Indo-German Tool Room | IGTR- RP Machine products | 0.5 |
+ |  | 2 | Indo-German Tool Room | IGTR- RP Product : MMS SWIR MAGNET HOLDING CAGE | 0.15 |
+ |  | 3 | Institute of Rural Management | Providing Hydrologic model output, IRM Anand | 2.3281 |
+ |  | 4 | Rakesh Narula & Company | Failure Investigation Analysis of steel Chimney at Sanghi Industries Ltd. Vadodara, Gujarat. (Rakesh Narula & Co., Vadodara, Gujarat) | 2.809 |
+ |  | 5 | INTEL | Intel (R) Galileo course work development | 4.2135 |
+ |  | 6 | Konark Group of Companies | Low Cost Automation System | 0.5 |
+ |  | 7 | Technocare | Vetting of design and drawings of 10 nos. drainage siphons | 3.7 |
+ |  | 8 | Wockhardt Ltd. | Understanding surface properties of fine powders for DPI Application | 17.3994 |
+ |  | 9 | Gujarat Social Infrastructure Div. Society | District Human Development Report - Ahmedabad | 6 |
+ |  | 10 | UNEO DTU Partnership | Development of downscaled and bias corrected projection for columns and Nicaragua and Colombia | 5.3088 |
+ |  | 11 | Srinivasa Resort Ltd. | Applicability of clause 7.9 of Is : 1893-2002 | 1.01124 |
+ |  | 12 | State Knowledge Management Centre on Climate Change | Climate Change impact assesssment for the state of Madhya Pradesh | 12 |
+## Sheet: 2013-14
+3 | 2013-14 | 1 | Institute of Infrastructure, Technology, Research and Management | Technical Support to IITRAM | 10136000 |
+ |  | 2 | Piramal Water Private Limited | Tectant for the preservation of RO purified water | 0.9 |
+ |  | 3 | Border Security Force | Construction of permanent posts in Sir Creak area | 2 |
+ |  | 4 | UNPF | Household context and health care utilization among older adults in India: a multi method analysis | 2 |
+ |  | 5 | Dedicated Freight Corridor Corporation of India Ltd. | Peer view of design basis report for construction of bridges on freight corridor between Kanpur and Khurja. | 16.854 |
+ |  | 6 | Acme Air Equipments Co. Pvt. Ltd. | Productivity Assessment & Enhancement
+Six Months
+ACME Air Equipments Pvt Ltd,GIDC,Vatva, | 6.7416 |
+ |  | 7 | UNDP | Flood and Waterlogging Hazard Risk and Vulnerability Analysis of Mahanadi Delta, Puri District, Odisha | 1.5 |
+ |  | 8 | Essel Infra Projects Limited | Discharge estimation in the flood affected area | 6.78 |
+ |  | 9 | INTEL | Applicability of Intel Atom processor for low-power computing systems and Embedded applications- Intel Higher education program | 5 |
+ |  | 10 | Raksha Shakti University | Design of Barricades with improved efficiency, Raksha Shakti University | 2.66855 |
+ |  | 11 | Xylem Water Solutions India Pvt. Ltd. | CFD Simulation of Pump Sump Model, Hydraulic Transient Analysis and Vetting of Physical Model | 13.5 |
+ |  | 12 | ABB | Cost-Benefit Analysis of Intergarated Scheduling and Production Control | 23.72 |
+ |  | 13 | Pratham Education Foundation | Evaluation of Pratham Open School Education (POSE) & Pratham Supported School in Guarat & Rajasthan | 0.86181 |
+ |  | 14 | PEASS Industries Pvt. Ltd | Improving the Hydrolic System | 2 |
+## Sheet: Sheet1
+ | Consultancy Projects |  |  |  |  |  |
+ | S.No. | Financial Year | Name of faculty (Chief Consultant) | Client Organization | Title of Consultancy of project | Amount received (in Rupees) | Amount received (in words)
+ | 1 | 2015-16 | Prof. Amit Prashant | Archaeology Survey of India | GPR study of two locationsat Vadnagar | 337080 | Rupees Three Lakh ThirtySeven Thousand Eighty Only Only
+ |  |  | Prof. Dhiman Basu | Sabarmati River Front Development Project | Bridge and Nehru Bridge on West bank of River Sabarmati for Sabarmati River Front Development Project | 671894 | Rupees Six Lakh SeventyOne Thousand Eight Hundred NinetyFour Only Only
+ |  |  | Prof Vimal Mishra | Practical Action Consulting | To assess the Fluvial flood risk to communities along Ghaghra river from Chisapani Station | 1000947 | Rupees Ten Lakh Nine Hundred FourtySeven Only Only
+ |  |  | Prof Vimal Mishra | International Water Management Institute | Towards a Regional Drought Monitoring and Forecasting Capability for the South Asia | 984988 | Rupees Nine Lakh EightyFour Thousand Nine Hundred EightyEight Only Only
+ |  |  | Prof Vimal Mishra | Meghalaya Basin Development Authority | Identification of climate vulnerability hot-spots in Meghalaya using high resolution climate projections | 328320 | Rupees Three Lakh TwentyEight Thousand Three Hundred Twenty Only Only
+ |  |  | Prof Vimal Mishra | International Water Management Institute | Development of flood hazard model to design flood insurance product in Bihar | 247013 | Rupees Two Lakh FourtySeven Thousand Thirteen Only Only
+ |  |  | Prof. Jaison A. Manjaly | Wuji Tech Inc. | Validation of Wujibrainwave application | 81963 | Rupees EightyOne Thousand Nine Hundred SixtyThree Only Only
+ |  |  | Prof. Sriram Kanvah Gundimeda | Environmental Resources Management | Fluorimetric Analysis of Aqueous Samples | 34200 | Rupees ThirtyFour Thousand Two Hundred  Only Only
+ |  |  | Prof. Amit Prashant | Gammon India Ltd. | Consultancy regarding channelization of Gomti river-Proof checking of designs and drawings | 1685400 | Rupees Sixteen Lakh EightyFive Thousand Four Hundred  Only Only
+ |  |  | Dr. Naran M. Pindoriya | IITRAM | Development of Electrical Engineeing and Electronics Laboratory at IITRAM | 561800 | Rupees Five Lakh SixtyOne Thousand Eight Hundred  Only Only
+ |  |  | Prof. N. Ramakrishnan | IITRAM | Workshop Development at IITRAM | 561800 | Rupees Five Lakh SixtyOne Thousand Eight Hundred  Only Only
+ |  |  | Prof. Sudhir K Jain | Institute of Infrastructure, Technology, Research and Management | Technical Support to IITRAM | 8157960 | Rupees EightyOne Lakh FiftySeven Thousand Nine Hundred Sixty Only Only
+ |  |  | Prof. Malavika Subramanayam | Sam Houston State University | Survey of Unrecorded Alcohol (SURA-India) | 84000 | Rupees EightyFour Thousand  Only Only
+ |  |  | Prof. Vimal Mishra | Taru | Taru Edge | 200000 | Rupees Two Lakh  Only Only
+ |  |  | Prof. Rajagopalan Srinivas | ABB Global | Cost-Benefit Analysis of Intergarated Scheduling and Production Control | 1002308 | Rupees Ten Lakh Two Thousand Three Hundred Eight Only Only
+ |  |  | Prof. Joycee Mekie | Intel Ltd. | Intel (R) Galileo course work development | 200000 | Rupees Two Lakh  Only Only
+ |  |  | Prof. Tannistha Samanta | Gujarat Social Infrastructure Div. Society | District Human Development Report - Ahmedabad | 180000 | Rupees One Lakh Eighty Thousand  Only Only
+ |  |  | Prof. Pranab Mohapatra | Technocare | Vetting of design and drawings of 10 nos. drainage siphons | 18000 | Rupees Eighteen Thousand  Only Only
+ |  |  | Prof. Vimal Mishra | UNEO DTU Partnership | Development of downscaled and bias corrected projection for columns and Nicaragua and Colombia | 379171 | Rupees Three Lakh SeventyNine Thousand One Hundred SeventyOne Only Only
+ |  |  | Prof. Vimal Mishra | State Knowledge Management Centre on Climate Change | Climate Change impact assesssment for the state of Madhya Pradesh | 761160 | Rupees Seven Lakh SixtyOne Thousand One Hundred Sixty Only Only
+ | 2 | 2014-15 | Prof. N. Ramakrishnan | Indo-German Tool Room | IGTR- RP Machine products | 56180 | Rupees FiftySix Thousand One Hundred Eighty Only Only
+ |  |  | Prof. N. Ramakrishnan | Indo-German Tool Room | IGTR- RP Product : MMS SWIR MAGNET HOLDING CAGE | 16854 | Rupees Sixteen Thousand Eight Hundred FiftyFour Only Only
+ |  |  | Prof. Vimal Mishra | Institute of Rural Management | Providing Hydrologic model output, IRM Anand | 232810 | Rupees Two Lakh ThirtyTwo Thousand Eight Hundred Ten Only Only
+ |  |  | Prof. Gaurav S | Rakesh Narula & Company | Failure Investigation Analysis of steel Chimney at Sanghi Industries Ltd. Vadodara, Gujarat. (Rakesh Narula & Co., Vadodara, Gujarat) | 280900 | Rupees Two Lakh Eighty Thousand Nine Hundred  Only Only
+ |  |  | Prof. Joycee Mekie | INTEL | Intel (R) Galileo course work development | 225000 | Rupees Two Lakh TwentyFive Thousand  Only Only
+ |  |  | Prof. N. Ramakrishnan | Konark Group of Companies | Low Cost Automation System | 56180 | Rupees FiftySix Thousand One Hundred Eighty Only Only
+ |  |  | Prof. Pranab Mohapatra | Technocare | Vetting of design and drawings of 10 nos. drainage siphons | 370835 | Rupees Three Lakh Seventy Thousand Eight Hundred ThirtyFive Only Only
+ |  |  | Prof. Chinmay Ghoroi | Wockhardt Ltd. | Understanding surface properties of fine powders for DPI Application | 1739940 | Rupees Seventeen Lakh ThirtyNine Thousand Nine Hundred Fourty Only Only
+ |  |  | Prof. Tannistha Samanta | Gujarat Social Infrastructure Div. Society | District Human Development Report - Ahmedabad | 300000 | Rupees Three Lakh  Only Only
+ |  |  | Prof Vimal Mishra | UNEO DTU Partnership | Development of downscaled and bias corrected projection for columns and Nicaragua and Colombia | 124037 | Rupees One Lakh TwentyFour Thousand ThirtySeven Only Only
+ |  |  | Prof. Sudhir K Jain | Srinivasa Resort Ltd. | Applicability of clause 7.9 of Is : 1893-2002 | 101124 | Rupees One Lakh One Thousand One Hundred TwentyFour Only Only
+ |  |  | Prof Vimal Mishra | State Knowledge Management Centre on Climate Change | Climate Change impact assesssment for the state of Madhya Pradesh | 600000 | Rupees Six Lakh  Only Only
+ |  |  | Prof. Sudhir K Jain | Institute of Infrastructure, Technology, Research and Management | Technical Support to IITRAM | 2022480 | Rupees Twenty Lakh TwentyTwo Thousand Four Hundred Eighty Only Only
+ |  |  | Prof. N. Ramakrishnan |  | CED Course | 20700 | Rupees Twenty Thousand Seven Hundred  Only Only
+ |  |  | Prof. Vikrant Jain | Essel Infra Projects Limited | Discharge estimation in the flood affected area | 23640 | Rupees TwentyThree Thousand Six Hundred Fourty Only Only
+ |  |  | Prof. Tannistha Samanta | UNPF | United Nations Population | 150000 | Rupees One Lakh Fifty Thousand  Only Only
+ |  |  | Prof. N. Ramakrishnan | PEASS Industries Pvt. Ltd | Improving the Hydrolic System | 90000 | Rupees Ninety Thousand  Only Only
+ |  |  | Prof. Rajagopalan Srinivas | ABB | Cost-Benefit Analysis of Intergarated Scheduling and Production Control | 2372032 | Rupees TwentyThree Lakh SeventyTwo Thousand ThirtyTwo Only Only
+ |  |  | Prof. Shiv Kumar Jolad | Pratham Education Foundation | Evaluation of Pratham Open School Education (POSE) & Pratham Supported School in Guarat & Rajasthan | 78947 | Rupees SeventyEight Thousand Nine Hundred FourtySeven Only Only
+ |  |  | Prof. Malavika Subramanayam | DIALLC | School climate and health and behaviours | 62314 | Rupees SixtyTwo Thousand Three Hundred Fourteen Only Only
+ | 3 | 2013-14 | Prof. Sudhir K Jain | Institute of Infrastructure, Technology, Research and Management | Technical Support to IITRAM | 8113643 | Rupees EightyOne Lakh Thirteen Thousand Six Hundred FourtyThree Only Only
+ |  |  | Prof. Sharad Gupta | Piramal Water Private Limited | Tectant for the preservation of RO purified water | 100000 | Rupees One Lakh  Only Only
+ |  |  | Prof. Amit Prashant | Border Security Force | Construction of permanent posts in Sir Creak area | 200000 | Rupees Two Lakh  Only Only
+ |  |  | Prof. Tannistha Samanta | UNPF | Household context and health care utilization among older adults in India: a multi method analysis | 50000 | Rupees Fifty Thousand  Only Only
+ |  |  | Prof. Sudhir K Jain | Dedicated Freight Corridor Corporation of India Ltd. | Peer view of design basis report for construction of bridges on freight corridor between Kanpur and Khurja. | 1685400 | Rupees Sixteen Lakh EightyFive Thousand Four Hundred  Only Only
+ |  |  | Prof. N. Ramakrishnan | Acme Air Equipments Co. Pvt. Ltd. | Productivity Assessment & Enhancement
+Six Months
+ACME Air Equipments Pvt Ltd,GIDC,Vatva, | 374160 | Rupees Three Lakh SeventyFour Thousand One Hundred Sixty Only Only
+ |  |  | Prof. Vikrant Jain | Essel Infra Projects Limited | Discharge estimation in the flood affected area | 678000 | Rupees Six Lakh SeventyEight Thousand  Only Only
+ |  |  | Prof. Joycee Mekie | INTEL | Applicability of Intel Atom processor for low-power computing systems and Embedded applications- Intel Higher education program | 500000 | Rupees Five Lakh  Only Only
+ |  |  | Prof. Amit Prashant | Raksha Shakti University | Design of Barricades with improved efficiency, Raksha Shakti University | 266855 | Rupees Two Lakh SixtySix Thousand Eight Hundred FiftyFive Only Only
+ |  |  | Prof. N. Ramakrishnan | PEASS Industries Pvt. Ltd | Improving the Hydrolic System | 134720 | Rupees One Lakh ThirtyFour Thousand Seven Hundred Twenty Only Only
+ |  |  | Prof Vedant Kadambi | Institute of Plasma Research | Helium Gas | 460000 | Rupees Four Lakh Sixty Thousand  Only Only
+ |  |  | Prof Abhijeet Mukharjee |  | Design of Rehabilitation of Articulations of Naini Bridge | 91012 | Rupees NinetyOne Thousand Twelve Only Only

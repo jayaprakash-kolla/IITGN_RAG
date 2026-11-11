@@ -1,0 +1,40 @@
+Title: IIT Gandhinagar | pd-shivashankar
+Source: https://iitgn.ac.in/srs/ee/pd-shivashankar
+
+# Shivashankar Sukumar
+
+- Senior Research Staff
+Shivashankar Sukumar
+
+## Shivashankar Sukumar
+
+Post-Doctoral Fellow, Electrical Engineering
+
+- BE: Anna University, Chennai, Tamil Nadu, 2007
+- MTech: SASTRA University, Thanjavur, Tamil Nadu, 2011
+- PhD: University of Malaya, Kuala Lumpur, 2017
+
+Email: ajit.singh -AT- iitgn.ac.in
+
+Work experience
+
+- Post-Doctoral Fellow, Indian Institute of Technology, Gandhinagar (Oct 2018 to present)
+- Post-Doctoral Fellow, University Tenaga National (UNITEN) Kuala Lumpur, (Aug 2017 to July 2018)
+- Research Assistant, University of Malaya, Kuala Lumpur (Jun 2014 to July 2016)
+- Assistant Professor, Saveetha University, Chennai, (July 2011 to Apr 2014)
+- Software Engineer, Mahindra Satyam, Chennai (Nov 2007 to Mar 2010)
+
+Selected Publications
+
+- M.Norshahrani, H.Mokhlis, A.H.A.Bakar, J.J.Jamain, Shivashankar.S, "Progress on protection strategies to mitigate the impact of renewable DG on distribution system", Energies, 2017.
+- Shivashankar.S, H.Mokhlis, Saad Mekhilef, M.Karimi and S.Raza, "Ramp-rate control approach based on dynamic smoothing parameter to mitigate solar PV output fluctuations", Int. J. of Electrical Power & Energy Systems-Elsevier, 2018.
+- Shivashankar.S, M.Marsadek, A. Ramasamy, Hazlie Mokhlis and Saad Mekhilef, "A fuzzy based PI controller for power management of a grid connected PV-SOFC hybrid system", Energies, vol. 10, pp.1720, 2017.
+- Shivashankar.S, Hazlie Mokhlis, Saad Mekhilef, K.Naidu, M.Karimi, "Mix-Mode Energy Management Strategy and Battery Sizing for Economic Operation of Grid-Tied Microgrid", Energy-Elsevier, 2017.
+- Shivashankar.S, Saad Mekhilef, Hazlie Mokhlis and M.Karimi, "Mitigating methods of power fluctuation of photovoltaic (PV) sources-A review", Renewable and Sustainable Energy Reviews-Elsevier, vol. 59, pp.1170-1184, 2016.
+- Shivashankar.S, M.Marsadek, A.Ramasamy, H.Mokhlis, "Ramp-rate control smoothing methods to control output power fluctuations from solar photovoltaic (PV) sources-A Review", J. of Energy Storage.
+- Yew Weng Kean, Agileswari Ramasamy, Shivashankar.S, Marayati Marsadek, "Adaptive controllers for enhancement of stand-alone hybrid system performance", Int. J. of Power Electronics and Drive Systems, vol. 9, pp. 31-38, 2018.
+
+- ● Smart distribution system
+- ● Microgrids
+- ● Renewable Energy Integration
+- ● Energy management

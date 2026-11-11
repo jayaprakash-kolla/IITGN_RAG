@@ -1,0 +1,3361 @@
+#flags:
+
+THE WONDERS OF
+MATHEMATICS
+
+Instructions to your own STEM BOX
+
+1
+
+2
+
+3
+
+4
+
+SUM OF INTERIOR ANGLES
+OF A TRIANGLE
+LEARNINGS
+Angles of a Triangle
+Types of Triangles
+Interior Angles
+Angle in a
+Semicircle
+
+What is the sum of all the angles of a triangle? This activity
+lets us explore these abstract properties of a triangle and
+makes them hands-on and exciting.
+
+W H AT T O D O ?
+1. Take out the angles of triangle 1 (marked as A1, B1and
+C1) and try to fit it in the semicircle given below.
+2. Try with all the four triangles.
+3. All the four triangles you see in the sheet look different.
+But you will see that the angles of all the triangles fit
+inside the semicircle.
+
+5
+
+1
+
+2
+
+Remove the shown pieces from the
+she et and ke ep the semicircle
+aside.
+
+Fit the piece marked as A1 from
+Triangle 1 in the semicircle, as
+shown.
+
+4
+
+3
+
+Also fit the pieces marked as B1
+and C1 inside the semicircle.
+
+Repeat step 1 to 3 for all the
+triangles.
+
+5
+
+You will se e that the parts A, B, C
+of all the triangles fit inside the
+semicircle.
+6
+
+NOTES
+
+O B S E RVAT I O N
+1. The angles cut from the triangles are the arcs of the circle
+whose radius is equal to the radius of the semicircle given
+below.
+2. There are 360 degrees in a complete circle. The semicircle
+is half part of a circle. Therefore, the angle in a semicircle
+is 360 = 180°.
+2
+3. The three angles of the triangle completely fit inside the
+semicircle. This shows that the sum of interior angles of
+the triangles is 180°
+4. You can also make your own triangles using cardboard or
+paper. The angles would always fit in the semicircle, no
+matter the kind of triangle you make.
+
+EXPLORE
+The four triangles given are different types of triangles.Let’s
+see the different ways in which the triangles are classified.
+The first way to classify triangles is based on the length of
+their sides.
+•
+
+All the three sides of triangle 1 of are unequal in length.
+Such triangles are called Scalene triangles.
+
+•
+
+In triangle 2, the length of two sides is same (find out
+which ones!) and the third side is of different length.
+Such triangles are called Isosceles triangles.
+
+•
+
+In triangle 3, the length of all the three sides is same.
+Such triangles are called Equilateral triangles. All the
+angles of these type of triangles are also equal.
+
+•
+
+The fourth triangle is also an Isosceles triangle but a
+special one. One of the angles (angle B) of this triangle is
+equal to 90°. Such triangles are called Right triangles.
+Such triangles have really special properties which are
+studied in Trigonometry.
+7
+
+NOTES
+
+Another way to classify the triangles is based on their
+angles.
+•
+
+If all the angles of a triangle are less than 90�, the triangle
+is called an Acute triangle. Triangles 2 and 4 in the sheet
+are Acute triangles.
+
+•
+
+If one of the angles is 90�, the triangle is called a Right
+triangle (Triangle 4). Using the information we have
+discussed so far, can you prove why two angles in a
+triangle can’t be 90�?
+
+•
+
+If one of the angels in a triangle is more than 90�, the
+triangle is called Obtuse triangle (triangle 1). We can
+never have more than one angle in a triangle more than
+90�(convince yourself!).
+
+•
+
+If all the angles of a triangle are equal, the three sides are
+also equal.
+
+8
+
+SUM OF INTERIOR ANGLES OF A
+TRIANGLE (VERSION 2)
+LEARNINGS
+Angles of a Triangle
+Types of Triangles
+Interior Angles
+Exterior Angles
+Vertically Opposite
+Angles
+
+Investigate the relationship between the interior and exterior
+angles of a triangle in this activity.
+
+W H AT T O D O ?
+1. Insert bolts in any three holes provided in the sheet and
+secure them using the nut.
+2. Cut a rubber band and join two rounded rectangles with
+each other by tying rubber band in the holes. Make three
+such pairs using 6 pointers.
+3. Insert the end of these pairs inside the bolts.
+4. This would make a triangle with rubber bands as the
+sides and the bolts as the vertices of the triangle. Instead
+of rubber bands and pointers, you can also use thread to
+make the triangle.
+5. Using the protractor given with the sheet, measure all the
+angles of the triangle and add them.
+6. Find one of the exterior angles of the triangle (the angle
+made by the side outside the triangle).
+7. Now find the interior angles of the triangle that are
+opposite to the exterior angle you measured earlier. The
+sum of these interior angles would always be equal to the
+exterior angle of the triangle.
+9
+
+1
+
+2
+
+You require the activity she et, nutbolts and rubber bands.
+
+3
+
+Insert bolts and secure them using
+the nut as shown.
+
+4
+
+Cut the rubber bands with scissors.
+Join two pointers with each other
+by tying rubber bands in the holes.
+
+5
+
+Use two pointers to make one side
+of the triangle.
+
+6
+
+Complete the triangle with the
+help of another pair.
+10
+
+Using the protractor, measure all
+the interior and exterior angles of
+the triangle.
+
+NOTES
+
+O B S E RVAT I O N
+1. The sum of interior angles always comes out be 180�, no
+matter the kind of triangle you make.
+2. Exterior angle of a triangle is always equal to the sum of
+two interior opposite angles.
+
+EXPLORE
+1. Try and experiment with different types of triangle
+(acute, obtuse, right angled triangle, equilateral, isosceles,
+scalene).
+2. How many exterior angles are there in a triangle? Try
+this activity with all the possible combinations of exterior
+and interior angles.
+
+Six external angles of a triangle. The two exterior angles at
+any vertex are vertically opposite angles and hence equal.
+
+11
+
+SUM OF INTERIOR ANGLES OF A
+QUADRILATERAL
+LEARNINGS
+Angles of a
+Quadrilateral
+Types of
+Quadrilaterals
+Interior Angles of a
+Quadrilateral
+Angle in a Circle
+
+The angles of a quadrilateral can be anything from 0° to
+360°. But if you add all the four angles, the answer always
+comes out same.
+You can check this for four different types of quadrilaterals
+in this activity and see if their sum is really same!
+
+W H AT T O D O ?
+1. Take out the angles of quadrilateral 1 (marked as A1, B1,
+C1 and D1) and try to fit it in the circle given below.
+2. Try with all the four quadrilaterals.
+3. All the four quadrilaterals you see in the sheet look
+different. But you will see that the angles of all the
+quadrilaterals fit inside the circle.
+
+12
+
+1
+
+2
+
+Take out the angles of quadrilateral
+1 (marked as A1 , B1 , C1 and D1 )
+
+3
+
+Fit A1 , B1 , C1 and D1 inside the circle.
+You will notice that the parts fit
+exactly inside the circle.
+
+4
+
+Take out the angles of quadrilateral
+2 as well.
+
+5
+
+Fit the pieces inside the circle.
+
+6
+
+Do this for other quadrilaterals
+also.
+13
+
+You will find that the pieces of all
+the quadrilaterals fit exactly inside
+the circle.
+
+NOTES
+
+O B S E RVAT I O N
+1. The angles cut from the quadrilaterals are the arcs of the
+circle whose radius is equal to the radius of the circle
+given below.
+2. There are 360° in a complete circle. And the four angles
+of the quadrilateral completely fit inside the circle.
+3. This shows that the sum of interior angles of the
+quadrilateral is 360°.
+4. You can also make your own quadrilaterals using
+cardboard or paper. The angles would always fit in the
+circle, no matter the kind of quadrilateral you make.
+
+EXPLORE
+The four quadrilaterals given are different types of
+quadrilaterals.
+Let’s see the different ways in which the quadrilaterals
+are classified.
+•
+
+In quadrilateral 1, all the four sides and angles are
+different. Such quadrilaterals are called Scalene
+quadrilaterals.
+
+•
+
+In quadrilateral 2, there is one pair of opposite sides
+which are parallel (find out which ones!). Such
+quadrilaterals are called Trapeziums. Sides that are
+parallel are called bases of the trapezium, and ones that
+are not parallel are called legs. In fact, quadrilateral 2 is
+a special kind of trapezium - Isosceles trapezium
+because the two legs are of equal length.
+
+•
+
+All the four sides of quadrilateral 3 are equal and it is
+called a Rhombus or an Equilateral quadrilateral.
+
+•
+
+Quadrilateral 4 is a Rectangle in which all the four angles
+are right angles (90°).
+14
+
+NOTES
+
+The quadrilaterals can also be classified as concave and
+convex.
+•
+
+If all the angles are less than 180�, it is called a convex
+quadrilateral. But if any angle is more than 180�, the
+quadrilateral is called concave.
+
+•
+
+If you take any two points on the perimeter of a convex
+quadrilateral, the line joining the two points lie inside the
+quadrilateral. For a concave quadrilateral, this is not the
+case. the line joining the points on the circumference can
+also lie outside the quadrilateral.
+
+•
+
+While triangles are always convex, other polygons can
+be both concave and convex.
+
+•
+
+Can you make a quadrilateral in which two angles are
+more than 180�?
+
+•
+
+In case of a triangle, you can always make a circle inside
+such that it touches all the sides of the triangle. Is this
+also possible in case of quadrilaterals?
+
+Convex
+Concave
+
+15
+
+SUM OF INTERIOR ANGLES
+OF A POLYGON
+LEARNINGS
+Polygons
+Regular Polygon
+Irregular Polygon
+Interior Angles of a
+Polygon
+Exterior Angles
+
+How do you make a regular polygon without using a scale?
+In this activity, you can build regular (as well as irregular)
+polygons (triangles, quadrilaterals, pentagons, hexagons etc)
+and then measure their interior angles.
+
+W H AT T O D O ?
+1. There are 36 holes in the sheet forming a circle.
+2. For making a triangle, insert bolts in any three holes
+provided in the sheet and secure them using the nut.
+3. Join the bolts using the pointers and rubber bands. Instead
+of rubber bands and pointers, you can also use thread to
+join the bolts.
+4. For making an equilateral triangle, you have to insert the
+bolts after every 12 holes.
+5. Similarly, for making a square, insert bolts at every 9th
+hole.
+6. You can also make irregular polygons using the sheet.
+7. Measure the interior angles of the polygons using the
+protractors and add them.
+
+16
+
+1
+
+2
+
+Take out the pieces from the she et
+as shown in the picture.
+
+3
+
+For making a pentagon, insert bolts
+in any five holes and secure them
+using the nut.
+
+4
+
+Join two pointers with each other
+by tying rubber band in the holes.
+Make five pairs using 10 pointers.
+
+5
+
+Measure the angles of the
+pentagon using the protractor.
+17
+
+Make the polygon by joining the
+bolts with rubber bands.
+
+NOTES
+
+O B S E RVAT I O N
+1. For any polygon, sum of interior angles is (n-2)×180°
+where n is the number of sides of the polygon.
+2. For a triangle, n = 3, because it has 3 sides. Therefore,
+sum of interior angles = (3 - 2) × 180° = 180°.
+3. For a quadrilateral, n=4. Sum of interior angles= (4 - 2 )
+× 180° = 360°.
+4. For a pentagon, the sum would be (5 - 2 ) × 180° = 540°.
+
+W H AT ’ S G O I N G O N ?
+1. For any triangle, the sum of the interior angles is 180°.
+2. In any polygon, if you connect any one vertex to all other
+vertices's, you would get various triangles from the
+polygon.
+3. If you add all the angles of the triangle, it would be
+(n - 2) × 180°. And if you look closely, all the interior
+angles of the polygon would also be equal to (n - 2) ×
+180°.
+A
+
+F
+
+Sum of Interior angles = (n-2)×180°
+Where n = Number of sides.
+E
+
+B
+
+Selected vertex
+C
+
+D
+
+EXPLORE
+1. Try making a regular pentagon using this sheet.
+2. Sum of all the exterior angles of any polygon is always
+360°. Verify this for different polygons and then try to
+prove it!
+
+18
+
+NOTES
+
+3. A regular polygon is a polygon whose sides as well as
+angles are equal. Even if the sides are equal in length, the
+polygon can be irregular.
+4. In this activity, to construct the regular polygons, we
+only made sure that the sides are equal by inserting bolts
+at equal intervals. You got regular polygons because the
+holes were lying on a circle.
+5. Can you make an irregular polygon of equal sides having
+vertices on a circle? For example, a rhombus which is not
+a square.
+
+19
+
+PROPERTIES OF A CIRCLE
+LEARNINGS
+Circle
+Chords
+Inscribed Angle
+Central Angle
+Thales’s Theorem
+Distance of a Point
+From a Line
+Perpendicular from
+a Line Segment
+
+The angle subtended by an arc at the center is always double
+the angle subtended at any point on the major arc of the
+circle. The relation holds true for all the points on the circle.
+You can see this and other properties of a circle by youself in
+this activity.
+
+INSCRIBED ANGLE AND CENTRAL ANGLE
+
+1. Insert bolts in any two holes provided at the circumference
+of the circle and secure them using the nut.
+2. Make four pairs of pointers by joining them using rubber
+bands.
+3. Join the points at the circumference to the center of the
+circle using the rubber bands and pointers. Instead of
+rubber bands and pointers, you can also use thread to join
+the points.
+4. Take a third point on the major arc and also join this point
+with the first two points using rubber bands.
+5. Now measure the angle at the center of the circle and the
+angle at the third point using the given protractor.
+20
+
+6. Change the third point and again measure all the three angles.
+7. You will find that the angle at the center (called the Central angle) is always
+double that of the angle at the third point (called the Inscribed angle).
+8. Inscribed angle would be the same irrespective of the location of the third
+point.
+
+1
+
+2
+
+Insert bolts in the four holes as
+shown in the pictures.
+
+3
+
+Make four pairs of pointers by
+joining them using rubber bands.
+
+4
+
+Join the points using rubber bands.
+
+21
+
+Measure the angles using the
+protractor.
+
+ANGLE IN A SEMICIRCLE
+1. Make a triangle in a semicircle and take diameter BC as the base of the
+triangle. Take third vertex A on the circumference of the semi circle to make
+∆ ABC using pointers and rubber bands.
+2. Measure ∠BAC. It would always be 90° irrespective of where you choose
+the point A.
+3. Now connect point A to the diameter at point D such that AD is perpendicular
+to BC.
+4. Measure the lengths AD,BC and BD.
+A
+5. AD2 = BD × DC
+Proof of AD2 = BD × DC
+In ∆ABD and ∆ACD,
+AB2 = AD2 + BD2 ----(1)
+AC2 = AD2 + DC2 ----- (2)
+
+B
+
+D
+
+In ∆ABC,
+BC2 = AB2 + AC2
+As BC = BD + DC,
+(BD + DC)2 = AB2 + AC2
+BD2 + DC2 + 2BD × BC = (AD2 + BD2) + (AD2 + DC2)
+2BD × BC = 2 AD2
+Therefore,
+AD2 = BD × DC
+
+11
+1
+
+12
+2
+
+22
+
+C
+
+C Y C L I C Q U A D R I L AT E R A L
+1. Make a quadrilateral inside the circle using the pointers and rubber bands.
+This quadrilateral inside a circle is called a Cyclic Quadrilateral.
+2. Measure the angles of the quadrilateral using the given protractor.
+3. You will find that the sum of opposite angles of the quadrilateral is always
+180°. Try this with different types of quadrilateral inside the circle.
+4. This is only true for cyclic quadrilaterals, not all the quadrilaterals. Make a
+random quadrilateral on your notebook and see if the sum of opposite angles
+is still 180°. You will find that it is not 180°.
+
+2
+
+1
+
+A
+r
+B
+
+s
+
+q
+
+C
+
+∠p + ∠r = 180°
+∠q + ∠s = 180°
+
+p
+D
+
+23
+
+NOTES
+
+PERPENDICULAR BISECTOR OF A CHORD
+1. Make a chord of the circle by joining two points on the
+circumference using pointers and rubber bands.
+2. Place the T along the chord such that markings on both
+the points of circumference are same. The perpendicular
+part of the T would pass through the center, regardless of
+the chord chosen.
+3. The T becomes the perpendicular bisector of the chord
+and the perpendicular bisector of a chord always passes
+through the center of the circle.
+
+P
+
+O
+
+24
+
+Q
+
+TANGENT FROM AN EXTERNAL
+POINT
+LEARNINGS
+Circle
+Tangent From a
+Point to a Circle
+Radius
+
+You can draw two tangents to any circle from a point outside
+the circle. How are these tangents related? Find and compare
+the lengths of these two tangents in this activity.
+
+W H AT T O D O ?
+
+1. Select any outside point from the grid of holes provided
+in the middle of the sheet.
+2. Take the scale given in the sheet and place one end the
+selected outside point.
+3. Now adjust the scale such that it touches the circle at
+only one point. The scale would be called tangent to the
+circle in this position.
+4. Find the lengths this tangent from the outside point to the
+point of contact.Similarly, find one more tangent at the
+other side of the circle andmeasure its lenght. You would
+find that both the lengths are equal.
+5. Place the L piece at the points of intersection of tangents
+and the circles. The other end of the L would pass through
+the center of the circle.
+6. Now take the scale and place it such that it is tangent to
+both the circles at the same time.
+25
+
+1
+
+2
+
+The she et will contain the following
+.
+
+This is what you will ne ed to take
+from the given material.
+
+4
+
+3
+
+Insert 2 screws to make a point on
+the circle( opposite ends) and
+fasten it with a screw.
+
+5
+
+Use two more screws in the smaller
+circle as well
+
+6
+
+Use the scale given to make the
+tangent.
+26
+
+Use the screw to attach the scale.
+
+7
+
+8
+
+Place the scale such that it is
+tangent to both the circles at the
+same time.
+
+9
+
+Add the L shaped piece given
+along with the she et. This L will
+pass through the center of the
+circle.
+
+27
+
+This is the second way in which a
+line can be tangent to both circle.
+
+NOTES
+
+W H AT ’ S G O I N G O N ?
+1. A line segment touching the circle at a single point is
+called tangent to the circle. This tangent line is always
+perpendicular to the radius of the circle (radius at the
+point of tangent).
+2. You can draw two tangents to a circle from any external
+point. The lenght of these two tangents is always same.
+3. For a set of two circles, you can draw four lines which
+would be tangents to both the circles at the same time.
+
+EXPLORE
+A line segment which cuts the circle at two points is called
+secant to the circle.
+Let’s assume that P is the exterior point. From P, the circle
+has the tangent at points S. If a secant is also drawn such that
+it intersects the circle at points Q and R.
+The length of the tangents and secants are related as follows:
+PS2 = PQ.PR
+Try this for different tangents and secants in this activity.
+
+28
+
+CORRESPONDING AND ALTERNATE
+ANGLES
+LEARNINGS
+Transversal and
+Parallel Lines
+Corresponding
+Angles
+Alternate Angles
+Consecutive
+Interior Angles
+Opposite angles
+Complementary
+Angles
+
+If a line cuts two lines at two different points, it is called a
+transversal line. If the two lines are parallel, there are some
+interesting relations between the angles formed between
+parallel and transversal lines. In this activity, you can measure
+these angles and see the relation between them for yourself.
+
+W H AT T O D O ?
+1. Insert bolts in any two holes provided at the top and
+bottom of the sheet and secure them using the nut.
+2. Hold the bolt still by pressing it with your finger (from
+the back side of the sheet) and rotate the nut in clockwise
+direction to tighten it.
+3. Cut a rubber band and join two pointers (rounded
+rectangles) with each other by tying rubber band in the
+holes.
+4. Join the two points using the rubber bands and pointers.
+Instead of rubber bands and pointers, you can also use
+thread to join the two points.
+5. Measure the angles analogous to those marked as 1, 2 ,
+3 .....8 in the sheet.
+29
+
+1
+
+2
+
+Insert bolts in any two holes
+provided at the top and bottom of
+the she et.
+
+3
+
+Join
+two
+pointers
+(rounded
+rectangles) with each other by
+tying rubber band in the holes.
+
+4
+
+Fix the pointer to the top and
+bottom bolt to make the transversal
+line.
+
+30
+
+Measure the angles analogous to
+those marked as 1,2,3.....8 in the
+she et.
+
+NOTES
+
+O B S E RVAT I O N
+1. You would find that ∠1 = ∠5, ∠2 = ∠ 6, ∠3 = ∠7 and ∠4
+= ∠ 8. These four pairs of angles are called Corresponding
+Angles and are always equal.
+2. Corresponding Angles lie on the same side of the
+transversal line and one angle is interior and the other is
+exterior.
+3. ∠3 = ∠6, ∠2 = ∠7, ∠4 = ∠5, ∠1 = ∠8. These four pairs
+of angles are called Alternate Angles and are always
+equal.
+4. Alternate Angles lie on opposite sides of the transversal
+line and both angles are either interior or exterior.
+5. ∠4 + ∠6 = 180°, ∠3 + ∠5 = 180°. These two pairs of
+angles are called Consecutive Interior Angles and always
+add up to 180°.
+6. Consecutive Interior Angles lie on the same side of the
+transversal line.
+
+EXPLORE
+1. ∠2 + ∠4 = 180° and
+∠1 + ∠2 = 180°, as they make a straight line when
+combined.
+2. ∠1 + ∠2 + ∠3 + ∠4 = 360° and
+∠5 + ∠6 + ∠7 + ∠8 = 360°, as they make a full circle
+when combined.
+
+31
+
+FRACTIONS
+LEARNINGS
+Introduction to
+Fractions
+
+In this sheet, you have rectangular pieces which represent
+different fractions. The pieces can be used to understand and
+compare fractions in an engaging way.
+
+W H AT T O D O ?
+1. Take out different pieces and compare the lengths with
+each other. Which one is the biggest?
+2. Neeraj had Rs. 125. He spent 2/5th of the money and
+saved the rest. How much money did he save?
+3. Pankaj had Rs. 500. He spent 1/5th of the money on a
+storybook and 3/10th on a calendar. How much total
+money did he spend?
+4. Gaurav had Rs 360. He spent 1/3rd of them on Monday
+and 3/4th of the remainder on Tuesday. How much money
+did he spend on Tuesday?
+5. Use the strips to test your predictions and find out if it's
+true.
+32
+
+NOTES
+
+O B S E RVAT I O N
+1. Different fractions are represented by different length of
+strips. 1> 1/2 > 1/3 > 1/4 > 1/5 > 1/6 > 1/7 > 1/8 > 1/9 >
+1/10. The piece marked as 1 is the biggest. All the other
+pieces are some fraction of this whole.
+2. Divide Rs 125 on all the five pieces of 1/5 fraction. Each
+piece would have Rs 25 on it after this. As Neeraj spent
+2/5th of the amount, remove two pieces from this. This
+means that he spent Rs 50. The remaining amount is
+corresponding to that present on the three pieces that are
+left. Therefore, Neeraj saved Rs 75 (do the exercise using
+the strips and verify this).
+3. Divide Rs 500 on all the five pieces of 1/5 fraction. Each
+piece would have Rs 100 on it after this. As Pankaj spent
+1/5th of the amount on a storybook, remove one piece
+from this. This means that he spent Rs 100 on the
+storybook. Next, for the calendar, take 3 pieces from the
+1/10 fraction. Put these pieces on the 1/5 fraction. This is
+the amount he spent on the calendar. How much is this
+amount. You can also see that two 1/10 pieces are
+covering one piece of 1/5. Therefore, the amount spent
+on calendar is equal to one complete piece of 1/5 (Rs
+100) and one half piece (Rs 50). So the total amount
+spent on calendar is Rs 150. The total money spent on
+storybook and calendar combined is Rs 100 + 150 = Rs
+250.
+4. Divide Rs 360 on all three pieces of 1/3 fraction. Each
+piece would have Rs 120 on it after this. As Gaurav spent
+1/3rd of the amount on Monday, remove one piece from
+this. This means that he spent Rs 120. The remaining
+amount is Rs 240. Now you can move ahead in two ways.
+Either take the remaining amount and divide it equally
+on all four pieces of 1/4. Each piece would have Rs 60 on
+it after this. As he spent 3/4th of this on Tuesday, remove
+three pieces from it. Therefore, the amount spent by
+Gaurav on Tuesday is Rs 180. (60 + 60 + 60).
+5. Or you can keep the remaining money on 1/3 pieces. As
+one part is out, divide the remaining two parts in four
+33
+
+NOTES
+
+equal parts. Use 1/6 pieces for this. After that, divide Rs
+240 on these four parts and proceed as above.
+6. Note that the same amount was first represented with 1/4
+pieces and then with 1/6 pieces. This was because the
+whole was different for these two cases. In the first case,
+the whole was taken as Rs 240, which was the remaining
+amount. Therefore, 1/4th of this amount was Rs 60. In
+the second case, the whole was Rs 360 which was the
+amount he had in the start. Therefore, 1/6th of this amount
+was also Rs 60.
+
+W H AT ’ S G O I N G O N ?
+1. A fraction is a number that represents a part of a whole.
+It is written as a numerator displayed above a line (or
+before a slash), and a denominator, displayed below (or
+after) that line.
+2. For example 2/3 (above and below) or 2/3 (before and
+after).
+3. The numerator represents a number of equal parts, and
+the denominator indicates how many of those parts make
+up a unit or a whole.
+4. For example, in the fraction 3/4, the numerator, 3, tells us
+that the fraction represents 3 equal parts, and the
+denominator, 4, tells us that 4 parts make up a whole.
+5. By this definition, we can see that 2/3 would be bigger
+than 2/4 because in both the fractions, we have 2 equal
+parts but in 2/3 the whole is divided into 3 equal parts
+while in 2/4, it is divided into 4 equal parts.
+
+EXPLORE
+1. In a village, 2/3rd of males are married to 2/5th of the
+females. And one male marries one female and vice
+versa. What fraction of the total population is unmarried
+in this village?
+2. In another village, 2/3rd of males are married to 3/4th of
+the females. And one male marries one female and vice
+versa. What fraction of the total population is unmarried
+in this village?
+34
+
+AREA OF A TRIANGLE (ACUTE)
+LEARNINGS
+Mensuration
+Area of a Triangle
+Area of a
+Rectangle
+Spatial Thinking
+
+The area of a triangle with base b and height h is
+(1/2 × b × h). And the area of a rectangle with sides b and h
+is b × h. This means that the area of a triangle is half of the
+area of a rectangle, having same base and height.
+In this activity, you can check the relationship between the
+area of a triangle and rectangle with some puzzle pieces. In
+this sheet, the triangle is an acute triangle.
+
+W H AT T O D O ?
+1. The triangle PQR also has base b and height h.
+2. The rectangle PQTS also has length and breadth equal to
+b and h respectively. Thus the area of the rectangle is
+equal to b × h.
+3. Rectangle 1 is divided in half by the line UV along the
+length. Thus, the area of the rectangle PQVU is equal to
+1/2 × (bh).
+4. Take out the pieces of triangle PQR and try to fit all of
+them inside the rectangle PQVU.
+5. You will find that the triangle would fit exactly inside the
+rectangle PQVU and hence has same area as the rectangle.
+6. Do this exercise for Rectangle 2. This time, the rectangle
+is divided in half by the line UV along the breadth. Fit all
+the pieces of the triangle PQR in the area UTQV.
+35
+
+1
+
+∆ PQR and rectangle PQTS both
+have length and breadth equal to
+b and h respectively.
+
+3
+
+You will find that the triangle fits
+exactly inside the rectangle PQVU
+and hence has same area as the
+rectangle.
+
+5
+
+2
+
+Take out all the pieces of ∆PQR
+and try to fit all of them inside the
+rectangle PQVU.
+
+4
+
+Rectangle 1 is divided in half by
+the line UV along the length. Thus,
+the area of the rectangle PQVU is
+half of rectangle PQTS = 1/2x(bh).
+
+6
+
+Do this exercise for Rectangle 2.
+The pieces of ∆PQR fit inside the
+This time, the rectangle is divided in
+rectangle QTUV.
+half by the line UV along the
+breadth.
+36
+
+NOTES
+
+O B S E RVAT I O N
+1. You can see that the pieces of the triangle PQR fit exactly
+into half of the rectangle PQTS in both the cases.
+2. This means that the area of the triangle is half of the
+rectangle PQTS = 1/2 × (bh).
+3. The rectangle is divided in half in two different ways,
+along the length (Rectangle 1) and along the breadth
+(Rectangle 2)
+
+EXPLORE
+1. Make your own triangles acute angled, right angled and
+obtuse angled triangles using cardboard or paper and try
+to fit them inside the rectangles
+2. Make sure that the base and height of the triangle and the
+rectangle is same, otherwise they won’t fit.
+S
+
+T
+
+U
+
+V
+
+P
+
+Q
+
+S
+
+T
+
+P
+
+Q
+
+Two ways of dividing a rectangle in half.
+
+37
+
+AREA OF A TRIANGLE
+(OBTUSE)
+LEARNINGS
+Mensuration
+Area of a Triangle
+Area of a
+Rectangle
+Spatial Thinking
+
+The area of a triangle with base b and height h is 1/2 × (bh).
+And the area of a rectangle with sides b and h is b × h. This
+means that the area of a triangle is half of the area of a
+rectangle. In this activity, you can check the relationship
+between the area of a triangle and rectangle with some puzzle
+pieces. In this sheet, the triangle is an Obtuse triangle.
+
+W H AT T O D O ?
+1. The triangle PQR also has base b and height h.
+2. The rectangle PQTS has length and breadth equal to b
+and h respectively. Therefore the area of the rectangle is
+equal to b × h. Note that we have taken rectangle PQTS
+and not the whole rectangle PWRS. Because the length
+and breadth of the rectangle should be equal to the base
+and height of the triangle.
+3. The rectangle is divided in half by the line UV. Therefore,
+the area of the rectangle PQVU is equal to 1/2 × (bh).
+4. Take out the pieces of triangle PQR and try to fit all of
+them inside the rectangle PQVU.
+5. You will find that the triangle would fit exactly inside the
+rectangle PQVU and hence has same area as the rectangle.
+38
+
+1
+
+2
+
+The triangle PQR & rectangle PQTS
+have base b and height h
+
+3
+
+Take out the pieces of ∆PQR and
+try to fit all of them inside the
+rectangle PQVU.
+
+4
+
+The image shows the placement of
+pieces into the rectangle PQVU.
+
+5
+
+All the triangle pieces would fit
+exactly inside the rectangle PQVU
+39
+
+Rectangle PQTS is divided in half
+by the line UV. Thus, the area of the
+rectangle PQVU is equal to (bh).
+
+NOTES
+
+O B S E RVAT I O N
+1. You can see that the pieces of the triangle PQR fit exactly
+into half of the rectangle PQTS
+2. This means that the area of the triangle is half of the
+rectangle PQTS - 1/2 × (bh).
+
+EXPLORE
+1. Make your own triangles acute angled, right angled and
+obtuse angled triangles using cardboard or paper and try
+to fit them inside the rectangles
+2. Make sure that the base and height of the triangle and the
+rectangle is same, otherwise they won’t fit.
+
+40
+
+AREA OF A TRIANGLE (SLICE)
+LEARNINGS
+Mensuration
+Area of a Triangle
+
+The area of a triangle is  (base x height). This means that the
+area of all the triangles having same base and height should
+be same, no matter the shape of the triangle.
+In this activity, you can verify that the area of two triangles
+having same base and height is same, even though they look
+very different.
+
+W H AT T O D O ?
+1. One of the triangles (triangle 1) has been sliced into thin
+strips. Take the strips of the triangle out of the sheet.
+2. Remove the triangle from the bottom of the sheet (triangle
+2).
+3. Try to fit the slices of triangle 1 into triangle 2.
+4. Even though the shape of the triangles is different, the
+strips of one triangle would fit exactly inside the other
+triangle
+41
+
+1
+
+Remove the triangle
+bottom of the she et.
+
+2
+
+from
+
+the
+
+3
+
+Try to fit the slices of triangle 1 into
+triangle 2.
+
+5
+
+Even though the shape of the
+triangles is different, the strips of
+one triangle fit exactly inside the
+other triangle.
+42
+
+Take the strips of the triangle out
+of the she et.
+
+4
+
+You may have to turn over the
+strips in order to put them in the
+triangle below.
+
+NOTES
+
+W H AT ’ S G O I N G O N ?
+1. As the base and height of both the triangles are same,
+their areas should also be same (as area = 1/2 × b × h).
+2. The triangle at the top (triangle 1) is divided into strips.
+All the strips taken together represent the area of the
+triangle.
+3. As the area of the triangles is equal, the strips of one fit
+exactly inside the other.
+
+EXPLORE
+1. You can also put the strips on the floor and push them
+with a scale to make a different triangle. The base and
+height of any triangle you make like this would be same.
+2. One more way to verify that the area of triangles is same
+is to fill the space with seeds (or daal) and then see if the
+same amount of seeds can cover the other triangle. Make
+sure that the seeds are not stacked on top of each other
+while doing this.
+3. You can also use kebab sticks for this activity.
+
+43
+
+AREA OF A PARALLELOGRAM
+LEARNINGS
+Mensuration
+Area of a
+Parallelogram
+
+All the parallelograms of same base and same height have
+equal areas (equal to b × h) .The two parallelograms in this
+activity don’t look the same. However, they have equal base,
+height and hence equal area. The strips of the first
+parallelogram fit exactly in the other one.
+
+W H AT T O D O ?
+1. One of the parallelograms (parallelogram 1) has been
+sliced into thin strips. Take the strips of the parallelogram
+out of the sheet.
+2. Remove the parallelogram from the bottom of the sheet
+(parallelogram 2).
+3. Try to fit the slices of parallelogram 1 in parallelogram 2.
+4. Even though the shape of the parallelograms is different,
+the strips of one parallelogram would fit exactly inside
+the other parallelogram.
+44
+
+1
+
+2
+
+Remove the strips from the top and
+the parallelogram from the bottom
+of the she et (parallelogram 2).
+
+3
+
+Separate
+all
+the
+parallelogram 1.
+
+strips
+
+of
+
+4
+
+Fit the slices of parallelogram 1 in
+parallelogram 2. You may have to
+flip the strips to fit.
+
+45
+
+Even though the shape of the
+parallelograms is different, the
+strips of one parallelogram fit
+exactly
+inside
+the
+other
+parallelogram.
+
+NOTES
+
+W H AT ’ S G O I N G O N ?
+1. As the base and height of both the parallelograms are
+same, their areas should also be same (as area = b × h).
+2. The parallelogram at the top (parallelogram 1) is divided
+into strips. All the strips taken together represent the area
+of the parallelogram.
+3. As the area of parallelograms is equal, the strips of one fit
+exactly inside the other.
+
+EXPLORE
+1. You can also put the strips on the floor and push them
+with a scale to make a different parallelogram. The base
+and height of any parallelogram you make like this would
+be same.
+2. One more way to verify that the area of parallelograms is
+same is to fill the space with seeds (or daal) and then see
+if the same amount of seeds can cover the other
+parallelogram. Make sure that the seeds are not stacked
+on top of each other while doing this.
+3. You can also use kebab sticks for this activity.
+
+46
+
+AREA OF A TRAPEZIUM
+LEARNINGS
+Mensuration
+Area of a
+Trapezium
+Area of a Triangle
+
+Area of a trapezium is 1/2 × (sum of parallel sides) × height.
+But how do you arrive at it? In this activity, you can derive
+this formula, starting from the area of a triangle.
+
+W H AT T O D O ?
+1. Remove the trapezium from the right side of the sheet.
+2. Take out the pieces from the triangle, at the left side of
+the sheet.
+3. Fit these pieces of the triangle inside the trapezium (you
+may need to invert some pieces).
+4. You will find that the pieces of the triangle fit exactly
+inside the trapezium.
+
+47
+
+1
+
+2
+
+Remove the trapezium and triangle
+from the she et.
+
+3
+
+Fit the pieces of the triangle inside
+the trapezium.
+
+4
+
+You may ne ed to invert some
+pieces.
+
+48
+
+You will find that the pieces of the
+triangle fit exactly inside the
+trapezium.
+
+NOTES
+
+W H AT ’ S G O I N G O N ?
+1. The area of a triangle is equal to 1/2 × base ×height. The
+bases of the small triangles that make triangle PQR are a,
+b, and c respectively and height is equal to r.
+2. Therefore, the areas of the small triangles would be
+(1/2 × a × r), (1/2 × b × r) and (1/2 × c × r).
+3. The area of triangle PQR is therefore (1/2 × a × r) + (1/2
+× b × r) + (1/2 × c × r) = 1/2 (a+b+c) × r
+4. As the pieces of triangle PQR completely fit inside the
+trapezium, it means that their areas are equal.
+5. Area of the trapezium = Area of triangle = 1/2 × (a+b+c)
+×r
+= 1/2 × (a+c + b) × r
+= 1/2 × (sum of parallel side of trapezium)× height
+
+EXPLORE
+Can you calculate the value of r in terms of a, b and c ? This
+is called Heron’s formula.
+r = √[(s-a)(s-b)(s-c)/s], where s = (a+b+c)/2
+
+49
+
+AREA OF A POLYGON
+(PICK'S THEOREM)
+LEARNINGS
+Mensuration
+Area of a Triangle
+Area of a Polygon
+
+Given a simple polygon constructed on a grid of equaldistanced points such that all the polygon’s vertices are grid
+points, this activity provides a simple formula for calculating
+the area of the polygon based on the number of points it
+encloses/touches. Make any polygon with this sheet and find
+out the area using the wonderful Pick’s Theorem!
+
+W H AT T O D O ?
+1. Insert bolts in the holes provided in the sheet and secure
+them using the nut. Hold the bolt still by pressing it with
+your finger (from the back side of the sheet) and rotate
+the nut in clockwise direction to tighten it.
+2. Cut a rubber band and join two pointers (rounded
+rectangles) with each other by tying rubber band in the
+holes. Make a polygon by inserting such pairs of pointers
+in the bolts. Instead of rubber bands and pointers, you
+can also use thread to join the bolts.
+3. If i is the number of holes inside the polygon and b is the
+number of holes touched by the rubber bands (points on
+the polygon’s perimeter), the area of the polygon is
+A= i + b/2 - 1
+50
+
+1
+
+2
+
+Insert bolts in the holes provided in
+the she et and secure them using
+the nut.
+
+4
+
+3
+
+Make multiple
+pointers.
+
+Join
+two
+pointers
+(rounded
+rectangles) with each other by
+tying rubber band in the holes.
+
+such
+
+pairs
+
+of
+
+51
+
+Make a polygon by inserting such
+pairs of pointers in the bolts. At
+each bolt, you should have two
+pointers.
+
+NOTES
+
+O B S E RVAT I O N
+Let's verify pick's theorem for simple shapes such as a
+rectangle.
+
+Area of this rectangle = 5 × 4
+= 20 square units
+Using Pick's Theorem, Area = i + b/2 - 1
+= 12 + 18/2 - 1
+= 20 square units
+You can also verify this for a combination of rectangles .
+Then for other shapes (for example, a triangle) for which you
+already know the formula for area. Interestingly, this works
+for all the polygons, given that the vertices lie on the grid.
+
+EXPLORE
+Pick’s Theorem gives the area of a 2D polygon. So a natural
+extension should be some theorem which gives volume of
+polyhedron. But sadly, there is no analogue of Pick’s theorem
+in three dimensions that expresses the volume of a polyhedron
+by counting its interior and boundary points.
+
+52
+
+(a + b)2 = a2 + b2 + 2ab
+LEARNINGS
+Algebra
+Pythagoras
+Theorem
+Area of a Square
+Area of a
+Rectangle
+
+In this activity, you can visually and geometrically see the
+algebraic formula. (a + b)2 = a2 + b2 + 2ab.
+
+W H AT T O D O ?
+1. Take out all the pieces from the sheet - two squares and
+two rectangles.
+2. Now try to arrange them again inside the square.
+
+W H AT ’ S G O I N G O N ?
+1. The area of a square is equal to side2.
+2. The sides of the big square (made using all the pieces) is
+a+b, making its area (a+b)2.
+3. Inside the big square, you have 2 rectangles of sides a
+and b, and two squares - one of side a and another of side
+b.
+4. The area of the rectangles of sides a and b is ab.
+5. Area of square with sides a is a2 and that with sides b is
+b 2.
+53
+
+NOTES
+
+6. Now, since the bigger square is made of two smaller
+squares and two rectangles, area of bigger square = area
+of two small squares + area of two rectangles
+(a+b)2 = a2 + b2 + ab + ab
+(a+b)2 = a2 + b2 + 2ab
+
+54
+
+(a - b)2 = a2 + b2 - 2ab
+LEARNINGS
+Algebra
+Pythagoras
+Theorem
+Area of a Square
+Area of Right
+Angled Triangle
+
+In this activity, you can visually and geometrically see the
+algebraic formula.
+(a - b)2 = a2 + b2 - 2ab.
+
+W H AT T O D O ?
+1. Take out all the pieces from the sheet- the four triangles
+and a square.
+2. Now try to arrange them again inside the square, without
+looking at the answer (this is surprisingly challenging to
+do!)
+
+55
+
+NOTES
+
+W H AT ’ S G O I N G O N ?
+1. The area of a square is equal to side2.
+2. So the area of the big square with sides c is equal to c2.
+Similarly, the area of the smaller square with sides (a-b)
+is equal to (a-b)2.
+3. The area of a triangle is 1/2 x base x height. So the area
+of each of four right-angled triangles is 1/2 x a x b.
+4. The total area of four such triangles is 4 x 1/2 x a x b =
+2ab (you can also join two of these triangles and form a
+rectangle with sides a and b. The area of two such
+rectangles would again be 2ab).
+5. As the triangles are right angled, you can also write using
+Pythagoras rule that c2 = a2 + b2.
+6. Now as the bigger square is made of one smaller square
+and the 4 triangles, area of bigger square = area of smaller
+square + area of 4 triangles
+c2 = (a-b)2 + 2ab
+a2 + b2 = (a-b)2 + 2ab
+(a-b)2 = a2+b2 - 2ab
+
+56
+
+SUM OF FIRST N NUMBERS
+LEARNINGS
+Arithmetic
+Progression
+Area of a
+Rectangle
+
+What is the sum of all numbers from 1 to 100, i.e.,
+1 + 2 + 3 + 4 + ........ + 100 ? This same question was given
+to Carl Friedrich Gauss (a famous mathematician) by his
+teacher and he came up with an ingenious answer. You can
+also find the sum of natural numbers in this activity in a
+geometrical way!
+
+W H AT T O D O ?
+1. Remove all the unmarked pieces (where grid is not
+marked) from the right side of the sheet.
+2. Take out the pieces from the left side and place them
+inside the hollow space at the right so that they form a
+rectangle.
+3. Calculate the area of the rectangle formed by these two
+pieces.
+4. Divide the area obtained by 2. This is equal to the sum of
+first N natural numbers.
+57
+
+1
+
+2
+
+Remove all the pieces from the
+she et.
+
+3
+
+You will only ne ed the pieces shown
+above.
+
+4
+
+Place the pieces inside the hollow
+spaces on the right. Calculate the area
+of the rectangle formed after this.
+
+58
+
+Do this for all the pieces.
+
+NOTES
+
+O B S E RVAT I O N
+1. All the numbers are represented by small squares. Note
+that all these small squares are of equal size. We would
+call them unit squares.
+2. For example, the number 2 is represented by 2 unit
+squares, number 3 by 3 unit squares and so on.
+3. If the area of the unit squares is assumed to be 1, the total
+area of the piece would be equal to the sum we want to
+calculate.
+4. Two of these pieces always form a rectangle whose area
+can be easily calculated (area of rectangle = length ×
+breadth)
+5. And as the rectangle is made of two identical pieces, the
+area of one piece would be half of the area of the rectangle.
+6. This would give us the sum of first N natural numbers.
+
+W H AT ’ S G O I N G O N ?
+1. For the first two numbers (1 and 2), the rectangle formed
+would have the dimensions 2 × 3 and area would be 2 ×
+3 = 6 square units. The area of the individual pieces
+forming the rectangle would be half of the rectangle as
+they are identical. Therefore, we can say that the sum
+1+2 = 3.
+2. For the first three numbers (1, 2 and 3), the rectangle
+formed would have the dimensions 3 × 4 and its area
+would be 3 × 4 = 12 square units. As before, the sum
+1+2+3 = 6.
+3. You can also say that we can manually count the number
+of squares to find the sum, but that would be difficult to
+do for large numbers. Imagine counting total number of
+squares for 1 + 2 + 3 +........................ 100!
+4. For first N numbers, the sides of the rectangle formed
+would be n and n+1. Area of this rectangle would
+therefore be n(n+1). as both pieces are same in area, the
+area of one of the pieces is n × (n+1)/2.
+Sum of first N natural numbers = n(n+1)/2.
+5. Therefore the sum of numbers from 1 to 100 is (100 ×
+100 + 1)/2 = 5050.
+59
+
+NOTES
+
+EXPLORE
+1. The sequence 1, 2, 3, 4, 5 ,... is an example of Arithmetic
+sequence. It’s a sequence where difference between two
+consecutive terms is same.
+2. In this case, the difference is 1 for any two consecutive
+terms. You can have another sequence where the
+difference is some other number. For example, in 1, 4, 7,
+10,...(and so on), the difference between consecutive
+terms is 3.
+Story of Gauss
+One day, a teacher wrote numbers from 1 to 100 and
+asked his students to calculate the sum of all the numbers.
+All the students started adding the numbers. Initially, the
+process was fast like an express train, but when they
+reached the middle numbers, it became a passenger train.
+One boy was sitting at the back, starting at the board and
+doing nothing. The teacher got angry, and asked him why
+isn’t is adding the numbers.The students remained quiet
+for some time, and then suddenly, said 5050.
+He recognized that the first and last number added
+together give 101. The second and second last added
+together also give 101 and so on. And there are 50 such
+pairs with sum equal to 101. Therefore, the total sum is
+equal to 50 × 101 = 5050
+This child, later became the most famous mathematician,
+Carl Friedrich Gauss. This story depicts that math is
+not just about formulas, but interesting patterns!
+
+1 + 2 + 3 + 4 + ................. ................. + 97 + 98 + 99 + 100
+= 50 ×101 = 5050
+60
+
+SUM OF ODD NUMBERS
+LEARNINGS
+Arithmetic
+Progression
+Area of a Square
+
+What is 1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 ? You’d probably
+start adding the numbers one by one, but you can find a faster
+way if you play with the puzzle pieces for a while.
+This activity does just that - showcasing an algebraic equation
+using a jigsaw puzzle!
+
+W H AT T O D O ?
+1. Remove all the squares from the sheet given at the right
+side.
+2. Remove the pieces at the left and try to fit them into the
+corresponding squares at their right.
+3. You would find that all the pieces fit exactly inside the
+squares.
+
+61
+
+1
+
+2
+
+Remove the shown pieces from the
+she et, and ke ep the squares aside.
+
+The pieces on the left are the
+pieces that you will ne ed.
+
+4
+
+3
+
+Fit these pieces in the corresponding
+squares on the right.
+
+You would find that all the pieces
+fit exactly inside the squares.
+
+Even
+Odd
+
+3
+7
+
+1
+
+1
+5
+
+5
+
+and so on...
+
+and so on...
+
+62
+
+3
+
+NOTES
+
+O B S E RVAT I O N
+1. All the numbers are represented by small squares. Note
+that all these small squares are of equal size. We would
+call them unit squares.
+2. For example, the number 3 is represented by 3 unit
+squares, number 5 by 5 unit squares and so on.
+3. Only the odd numbers are shown - numbers which are
+indivisible by 2 (1, 3, 5, 7, 9 ,.. and so on).
+4. The pieces representing the numbers fit in the respective
+squares at the right side of the sheet.
+5. This means that the sum of the sequence 1, 3, 5, 7, 9,... is
+always a perfect square. You can add more numbers in
+the sequence and try for yourself.
+
+W H AT ’ S G O I N G O N ?
+1. Let’s add some odd numbers and see how this puzzle
+helps us find the sum.
+2. For the first two odd numbers (1 and 3), you have 1
+square on the top and 3 more beneath it. Now rearrange
+these pieces in a square of side 2 (at the right side of the
+sheet). You’ll see that they fit perfectly in this square.
+3. For the first three odd numbers (1, 3 and 5), you can fit
+them in a square of side 3 having area equal to 9 square
+units.
+4. Try this with the next two cases in the sheet and you
+would find that the pieces fit exactly in the squares at the
+right.
+5. If you are adding 1 + 3 + 5 + 7 + 9 (number of terms: 5),
+the sum comes out to be 25 (52).
+6. This can be generalized for any number of terms. If the
+number of terms is 6 (which means you have to calculate1
++3 + 5+ 7 + 9 +11), their sum would come out to be 36
+(62).
+7. Therefore for n number of terms, the sum would be n2.
+
+EXPLORE
+Try to find the sum of numbers 1 + 3 + 5 + 7 + 9 + 11 + 13 +
+15 + 17 + 19 using this information.
+63
+
+SUM OF CUBES
+LEARNINGS
+Area of a Square
+Relation Between
+Cube and Square
+Progressions
+
+The sum of cubes of first n natural numbers is equal to square
+of their sum. With this interesting puzzle game, you can see
+this relation of cubes and squares in a geometrical way.
+13 + 23 + 33 + 43 = ( 1 + 2 + 3 + 4 )2
+100 = 100
+
+W H AT T O D O ?
+1. Remove the big 10 × 10 square given at the right side of
+the sheet.
+2. Remove the 1 × 1 square and two 2 × 2 squares from the
+sheet. Fit all these pieces inside a square of 3 (1 + 2 )
+units in the empty square at the right.
+3. Now remove the three 3 × 3 squares also and fit them
+(along with the pieces already placed ) inside a square of
+6 ( 1 + 2 + 3 ) units.
+4. Finally, remove the four 4 × 4 squares and fit them inside
+the square of 10 ( 1 + 2 + 3 + 4 ) units.
+64
+
+1
+
+2
+
+Put the 1x1 square from the she et in
+10 x10 square.
+
+3
+
+Remove the two 2x2 squares from
+the she et and fit all these pieces
+inside a square of 3 (=1+2) units.
+
+4
+
+Now remove the thre e 3x3 squares
+from the she et.
+
+5
+
+Fit them (along with the pieces
+already placed inside) inside a
+square of 6 (= 1+2+3) units.
+
+6
+
+Finally, remove the four 4 x 4
+squares and fit them inside the
+square of 10 (=1+2+3+4) units.
+65
+
+All 12 , 2 2 , 32 and 42 pieces are
+empty and fitted in 10x10 square.
+
+NOTES
+
+O B S E RVAT I O N
+1. All the numbers are represented by small squares. Note
+that all these small squares are of equal size. We would
+call them unit squares.
+2. For example, the number 3 is represented by 3 unit
+squares, number 5 by 5 unit squares and so on.
+3. The squares of 1 × 1 and 2 × 2 completely fit inside a
+square of 3 square units. You will notice something
+similar when you try to fit 3 × 3 squares (they would fit
+inside the a square of 6 units: 1 + 2 + 3) and so on.
+4. All the smaller squares would eventually fit inside the
+bigger 10 × 10 square (1 + 2 + 3 + 4 = 10).
+
+W H AT ’ S G O I N G O N ?
+1. First, we have to understand how to geometrically
+represent the cube of any number.
+2. Consider 23 i.e.2× 2 × 2. Now consider a square of side
+2. Its area will be 2 × 2. Now if you have two such squares
+the total area would be 2 × (2 × 2) i.e. 23.
+3. Similarly 33 means area of three squares of dimension
+3 × 3 and so on.
+4. There is one square of side 1, two of side 2, three of side
+3, and four of side 4 in the sheet. This way, we have
+geometrically represented the cubes of 1, 2, 3 and 4.
+5. The sum of these numbers (1 + 2 + 3 + 4) is 10 and all the
+smaller squares fit inside the square of side 10 .
+Sum of cubes = square of sum
+
+EXPLORE
+1. The sum of first N natural numbers is n(n+1)/2.
+Therefore, we can also write the formula as:
+13 + 23 + 33 +....+ n3 = (1 + 2 + 3 +......n)2 = (n(n+1)/2)2
+2. In this activity, the cubes of numbers were represented in
+terms of the area of squares. 23 was written as 2 × 22,
+which means that the total area of two 2 × 2 squares
+would be equal to 23.
+3. This can also be extended to 3D and volumes. For
+example, 24 can be written as 2 × 23 which means that the
+total volume of two 2 × 2 × 2 cubes would be equal to 24.
+66
+
+SUM OF SQUARE OF
+
+HEMCHANDRA NUMBERS
+LEARNINGS
+Hemachandra
+Series
+Fibonacci Series
+Area of a Rectangle
+
+Hemachandra Series (or Fibonacci Series) is obtained by
+adding the last two terms to get the next term. So the series
+goes like - 1, 1, 2, 3, 5, 8, 13, 21, 34,.... and so on. Now can
+you calculate the sum of square of these terms?
+One method is to just square the numbers and then add all of
+them. This activity provides a faster, geometric alternative to
+do this.
+
+W H AT T O D O ?
+1. Take out all the square pieces from the sheet marked as 1,
+1, 2, 3, 5, 8 and 13.
+2. Now rearrange them again inside the square, (without
+looking at the answer).
+
+67
+
+NOTES
+
+O B S E RVAT I O N
+1. The Fibonacci series is such that each term is the sum of
+two preceding terms. Fn = Fn-1 + Fn-2.
+2. F1 = F2 = 1; F3 = F1+ F2 = 2; F4 = F2 + F3 = 3 and so on.
+The series is therefore 1, 1, 2, 3, 5, 8, 13, 21, 34 and so
+on.
+3. The sides of the square are 1 cm, 2 cm, 3 cm, 5 cm, 8 cm
+and 13 cm.
+4. The length of the sides are such that they are in Fibonacci
+series.
+5. The area of the square pieces represent the squares of the
+Fibonacci numbers.
+6. The total area of all the squares is equal to the sum of
+squares of Fibonacci numbers.
+7. The total area is equal to the area of rectangle with
+breadth 13 cm and length 13 + 8 = 21 cm. Area = 13 x 21
+= 273 cm2
+
+W H AT ’ S G O I N G O N ?
+1. We can find the sum of squares Fibonacci numbers by
+multiplying the last number (not the square of the last
+number, but the last number itself) and the addition of
+last and second last number. In other words,
+2. Sum of squares of Fibonacci numbers = Fn × (Fn + Fn-1)
+3. Therefore, Sum of squares of Fibonacci numbers
+= ∑Fn2 = Fn × (Fn + Fn-1)
+4. For example, the series is 1, 1, 2, 3, 5, 8, 13. The square
+of terms are 1, 1, 4, 9, 25 ,64, 169. Sum of all these
+numbers is 1 + 1 + 4 + 9 + 25 + 64 + 169 = 273 which can
+also be calculated as 13 x (13+8) = 273.
+
+EXPLORE
+1. The ratio between two consecutive Fibonacci numbers
+converges (or tends) to Golden Ratio which is
+approximately equal to 1.618.
+2. There is another sequence called the Tribonacci numbers,
+where each term is equal to the sum of three preceding
+terms. Fn = Fn-1 + Fn-2 + Fn-3
+68
+
+SUM OF GP (SUM = 1)
+LEARNINGS
+Geometric Series
+Area of a
+Rectangle
+Convergent Series
+Divergent Series
+
+Can you add a series that has infinite number of terms?
+Would the answer still be a finite number? Let’s find out in
+this activity.
+
+W H AT T O D O ?
+1. Take out all the pieces from the square marked as 1/2,
+1/4, 1/8, and so on.
+2. Now rearrange them again inside the square (without
+looking at the picture).
+
+69
+
+NOTES
+
+O B S E RVAT I O N
+1. The side of the big square is taken as 1 unit. Therefore
+the area of the square is 1 square units.
+2. If you divide the square in half, the area of that piece
+would be 1/2.
+3. If you further divide that part in two equal parts, the area
+would be 1/4 and so on. The area of the smaller pieces
+eventually becomes smaller and smaller and converges
+to 0.
+4. All the pieces together make up the big square.
+5. Therefore, 1/2 + 1/4 + 1/8 + 1/16 + 1/32 + ....... = 1
+
+W H AT ’ S G O I N G O N ?
+1. The sequence 1/2 ,1/4, 1/8,..... is an example of Geometric
+series. It’s a series where ratio of two consecutive terms
+is same.
+2. In this case, the ratio is 1/2 for any two consecutive terms.
+You can have another sequence where the difference is
+some other number.
+3. For example, in 1, 4, 16, 64,...(and so on), the difference
+between consecutive terms is 4.
+4. If this common ratio is less than1, the terms keep getting
+smaller and smaller eventually become zero. This is an
+example of convergent series.
+5. If this ratio is more than 1, the sum of infinite terms won’t
+be a finite number. This is an example of divergent series.
+
+70
+
+SUM OF GENERAL INFINITE GP
+LEARNINGS
+Geometric
+Progression
+Basic
+Proportionality
+Theorem
+Convergent Series
+
+Can you add a series that has infinite number of terms?
+Would the answer still be a finite number? Let’s find out with
+this sheet.
+
+W H AT T O D O ?
+To construct the given triangle:
+1. Make a square PSAQ of unit length (length = 1).
+2. Mark length AR = r, which is the common ratio of the
+geometric progression. The remaining length RQ = 1 - r
+3. Extend the line segments SA and PR. Mark the point of
+intersection at T.
+4. Mark the length AB = r and draw a perpendicular line
+segment such that Bb = r2 (the point b would automatically
+lie on PT. Why?)
+5. In the same way, mark the lengths BC, CD and so on.
+The successive lengths would be r3, r4, r5 and so on.
+71
+
+NOTES
+
+W H AT ’ S G O I N G O N ?
+1. As r is less than 1, as you increase the powers of r, you
+will get smaller and smaller numbers and eventually, you
+will reach 0 (after infinite terms).
+2. Thus, the line segments PS, RA, Bb, Cc, Dd, Ee... will
+eventually become smaller and smaller and will converge
+to a point.
+3. ∠PQR =∠TSP (right angles), ∠QPR = ∠STP (alternate
+angles). The third angles are also equal (as the total angle
+of a triangle is 180° and if two angles are equal, the third
+have to be equal). Therefore, ∆PQR ~ ∆TSP (AAA
+similarity).
+TS/PQ = PS/QR.
+(1 + r + r2 + ......) / 1 = 1/1-r
+1 + r + r2+....... = 1/(1-r)
+
+EXPLORE
+What if you had chosen SA = 1, BA = r and say CB = r3
+instead of r2? Will the method also work in that case? Why or
+Why not?
+
+72
+
+MISSING AREA PUZZLE
+LEARNINGS
+Straight line
+Slope
+Area of a Triangle
+Area of Rectangle
+Right Angle
+Triangle
+
+The puzzle pieces leave a square block in the above triangle
+but fit exactly inside the triangle below, even thought both
+the triangles are same. Try out this activity involving shapes
+and test your detective skills. Figure out where did the area
+go missing from one shape to the other!
+
+W H AT T O D O ?
+1. Take out the pieces of the triangle (marked as 1, 2, 3, and
+4) at the top of the sheet.
+Remove the triangle from the bottom of the sheet. Both
+the triangles look exactly the same - both of them are in
+13 × 5 cm grid.
+2. Fit the pieces of the triangle (marked as 1, 2, 3, 4) in the
+hollow triangle.
+3. You will find that the pieces completely fill the triangle,
+whereas in earlier configuration, one unit square was left
+with the same pieces!
+73
+
+1
+
+2
+
+Remove the triangle at the bottom
+
+Take out the pieces of the triangle
+(marked as 1, 2, 3, and 4) at the
+top of the she et.
+
+3
+
+4
+
+Fit the pieces of the triangle
+marked as 2 in the triangle below,
+as shown.
+
+Fit these pieces of the triangle in
+the hollow triangle below. You will
+find that the pieces completely fill
+the triangle.
+
+6
+5
+4
+
+A
+
+3
+
+B
+2
+1
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+74
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+NOTES
+
+O B S E RVAT I O N
+
+1. If you look carefully, you would find that the hypotenuse
+of the triangles is not really a straight line.
+2. The slopes of pieces 1 and 2 are different but isn't easily
+recognized by our eyes. The slope of the piece marked as
+1 is 8/3 (≈2.667) and that of piece 2 is 5/2 (2.5).
+3. Overlaying the hypotenuses from both figures results in a
+very thin parallelogram with an area of exactly one grid
+square, hence the “missing” area.
+Eureka! We have solved the missing area case.
+
+EXPLORE
+This missing area puzzle, and many other optical illusions
+depict that it is important to also look at textual descriptions
+rather than just at figures shapes. Sometimes the human eye
+is susceptible to errors which can be avoided if we also
+process other information about the situation.
+
+75
+
+MAGICAL RATIO OF A4
+LEARNINGS
+Aspect Ratio
+A4 sheet
+Slope
+Magnification
+
+We see and use A4 sheets almost daily. We can see that it is a
+rectangle, but is there something special about this rectangle?
+What is the ratio of its length and breadth? Let’s find out in
+this activity.
+
+W H AT T O D O ?
+1. Take out the parts marked as A5, A6, A7 and A8 from
+the sheet.
+2. Put all the parts - A5, A6, A7, A8 on top of each other,
+with A5 sheet at the bottom.
+3. You will see that the diagonals of all the parts will
+coincide with each other.
+76
+
+1
+
+2
+
+The initial she et will lo ok like this
+
+Break up the pieces marked as A5,
+A6, A7 and A8 from the she et
+
+3
+
+4
+
+Place the piece marked A6 on the
+piece marked A5, such that the
+diagonal line matches.
+
+5
+
+Next place the piece marked A7
+on the piece marked A6, such that
+the diagonal line matches
+
+6
+
+Place the piece marked A8 on the
+piece marked A7, such that the
+diagonal line matches.
+77
+
+You will se e that the diagonals of
+all the parts will coincide with each
+other.
+
+NOTES
+
+O B S E RVAT I O N
+1. If the diagonals are coinciding with each other, it means
+that the ratio of length and breadth of all these rectangles
+is same (why?).
+2. Let’s assume that the length and bredth of A4 sheet is r
+and 1 respectively.
+3. When the length is halved, the longer side becomes 1
+and the smaller side is r/2. So the ratio is 1/(r/2). And we
+are claiming that these two ratios are equal.
+So r/1= 1/(r/2)
+Solving it gives, r = √2
+4. Therefore the ratio of length and breadth of A4, A5,
+A6,... is √2.
+
+W H AT ' S G O I N G O N ?
+1. When you keep two A4 sheets side by side, You get an
+A3 sheet. With two A3 sheets, you get A2 and so on.
+2. Similarly, if you go in other direction and halve the A4
+sheet, you get an A5 sheet. The specialty of this A-series
+is that the ratio or proportion of all the sheets (A0, A1,
+A2, A3, A4,...) is exactly the same.
+3. This same ratio implies that the photo or the text to be
+printed on the paper doesn’t get stretched or squeezed, no
+matter the paper we choose for printing (A3, A4, A5,...).
+4. So if you want to change the type of sheet,you don’t have
+to adjust the aspect ratio. It is as if the same sheet has
+been zoomed or magnified!
+
+78
+
+RECTANGLE TO SQUARE
+(SLIDING METHOD)
+LEARNINGS
+Mensuration
+Area of a
+Rectangle
+Area of a Square
+
+Can you make a square out of a rectangle, having the same
+area as the starting rectangle? This means that you can’t
+throw any piece! Learn how to convert a rectangle to a square
+in this activity!
+
+W H AT T O D O ?
+1. Remove the square at the bottom of the sheet.
+2. Now take out the pieces of the rectangle and fit them
+inside the square
+
+79
+
+1
+
+2
+
+Take out the pieces from the
+module, ke ep the square aside.
+
+3
+
+Start placing the pieces from the
+rectangle into the square below as
+shown.
+
+4
+
+Add the next piece in the square.
+
+Complete the entire square, make
+a note of the sides of the square.
+
+80
+
+NOTES
+
+O B S E RVAT I O N
+1. The sides of the rectangle are 16 cm × 9 cm. Therefore,
+the area of the rectangle is 16 x 9 = 144 cm2.
+2. As you have to make the square using all the rectangle
+(we can’t throw any piece), the area of rectangle and
+square has to be equal.
+3. So the area of the required square is 144 cm2 and the side
+should be √144 = 12 cm.
+
+W H AT ’ S G O I N G O N ?
+1. Let’s see how to cut the rectangle and convert it into a
+square. Use a paper of the same dimensions (16cm ×
+9cm) to understand the cuts.
+2. The side of the required square is 12 cm. Mark this length
+on the rectangle (ST) and make the first cut PT.
+3. Slide the piece A such that point T is in line with the side
+RQ of the rectangle.
+4. Cut the triangle B and place it in the empty space below
+point T.
+5. The square obtained after this would have the dimensions
+12 cm × 12 cm.
+
+EXPLORE
+1. Make another rectangle using cardboard or paper having
+dimensions 25 cm × 9 cm and convert it into a square.
+The sides of the square would be 15 cm (convince
+yourself!)
+2. Can you use this method to convert any rectangle to a
+square? What is the maximum ratio of length and bredth
+of the rectangle for which it would work?
+
+81
+
+RECTANGLE TO SQUARE
+(PARALLELOGRAM METHOD)
+LEARNINGS
+Mensuration
+Area of a
+Rectangle
+Area of Square
+
+Can you make a square out of a rectangle, having the same
+area as the starting rectangle? This means that you can’t
+throw any piece! Learn how to convert a rectangle to a square
+in this activity!
+
+W H AT T O D O ?
+1. Remove the square at the bottom of the sheet.
+2. Now take out the pieces of the rectangle and fit them
+inside the square.
+
+82
+
+1
+
+2
+
+Take out the pieces from the
+module, ke ep the square aside.
+
+Start placing the pieces from the
+rectangle into the square below as
+shown.
+
+4
+
+3
+
+Add the next piece in the square.
+
+Attach the piece shown next.
+
+5
+
+Complete the entire square, make
+a note of the sides of the square.
+83
+
+NOTES
+
+O B S E RVAT I O N
+1. The sides of the rectangle are 16 cm × 9 cm. Therefore,
+the area of the rectangle is 16 × 9 = 144 cm2.
+2. As you have to make the square using all the rectangle
+(you can’t throw any piece), the area of rectangle and
+square has to be equal.
+3. So the area of the required square is 144 cm2 and the side
+should be √(144) = 12 cm.
+
+W H AT ’ S G O I N G O N ?
+1. Let’s see how to cut the rectangle and convert it into a
+square.
+2. The side of the required square is 12 cm. Mark this length
+of 12 cm on the rectangle (PT) and make the first cut PT.
+3. Slide the piece A towards the side RQ. You now have a
+parallelogram whose two sides are equal to the sides of
+the required square.
+4. From point Q, again measure 12 cm and make the cut
+QU.
+5. Transfer this piece (marked as B) to the opposite side.
+6. The square obtained after this would have the dimensions
+12 cm × 12 cm.
+
+EXPLORE
+1. Using this method, you can convert other rectangles into
+squares. Make another rectangle using cardboard or
+paper having dimensions 25 cm × 9 cm and convert it
+into a square. The sides of the square would be 15 cm
+(convince yourself!)
+2. Not just rectangles and squares, this method can actually
+be used to convert any parallelogram into any other
+parallelogram of same area!
+3. Can you use this method to convert any rectangle to a
+square? What is the maximum ratio of length and bredth
+of the rectangle for which it would work?
+
+84
+
+EQUILATERAL TRIANGLE
+FROM RECTANGLE
+LEARNINGS
+Mensuration
+Equilateral
+Triangle
+Perpendicular
+Bisector
+Trisecting an Angle
+
+An equilateral triangle is a triangle in which all three sides
+are equal. But how do you make an equilateral triangle from
+a rectangle without measurement?
+In this activity you can convert the given rectangle into an
+equilateral triangle by using an interesting property of
+perpendicular bisectors.
+
+W H AT T O D O ?
+1. Put a small sticky tape in the middle of the line segment
+AD and fold the triangle ABD around AD.
+2. The point B would intersect the line PQ at point C.
+3. ∆ABC is the required triangle.
+85
+
+1
+
+2
+
+Separate the triangle from the
+she et as shown.
+
+Put a small sticky tape on the line
+segment AD and fold the triangle
+ABD around AD.
+Q
+
+3
+C1
+
+C
+The point B would intersect the line
+PQ at point C. Triangle ABC is the
+required triangle
+
+C2
+C3
+
+A
+
+P
+
+Various triangles where the two sides are equal.
+
+86
+
+B
+
+NOTES
+
+W H AT ’ S G O I N G O N ?
+1. The line PQ shown in the middle of the rectangle is the
+perpendicular bisector of side AB.
+2. An interesting property of perpendicular bisector is that
+all the points on it are equidistant from the ends of the
+line segment bisected. In this case, any point on PQ is
+equidistant from A and B.
+3. In fact, all the triangles you get with these three pointsA, B and one point on the perpendicular bisector- are at
+least isosceles.
+4. Now all you have to do is to find a point C on the
+perpendicular bisector line so that the two lines drawn
+from it are equal to the base. Then our isosceles triangle
+would become equilateral.
+5. When you lift the base AB and put it on the perpendicular
+bisector, this ensures that CA = AB. And CA = CB as the
+point lies on the perpendicular bisector.
+6. Therefore all the sides are equal in length. Hence, this
+triangle ABC is an equilateral triangle!
+
+EXPLORE
+1. One more way is to use the fact that all angles of an
+equilateral triangle are 60°.
+2. But how can you fold an angle of 60°? One way is to
+divide 90° angle in 3 equal parts and then taking two of
+those parts. This requires a little trial and error as you
+can’t exactly trisect an angle.
+3. As the angles of a rectangle are 90°, trisecting them
+would give angles of 60°.
+4. Therefore, if you make angles of 60° at A and B, they
+would intersect at C and the third angle would also be
+60° (if the two angles of a triangle are 60°, the third one
+has to be 60° as the sum of all angles of a triangle is
+always 180°).
+5. The triangle ABC would therefore have all angles equal
+to 60° and would be an equilateral triangle.
+6. Find all the lengths and angles marked in the sheet.
+Assume that the sides of the rectangle are 1 and √2 units.
+87
+
+LARGEST EQUILATERAL TRIANGLE
+FROM RECTANGLE
+LEARNINGS
+Mensuration
+Area of a triangle
+Equilateral
+Triangle
+
+What is the largest equilateral triangle you can make from a
+rectangle? Can it be equal to the length of the rectangle?
+In this activity you would find the largest equilateral triangle
+in a rectangle.
+
+W H AT T O D O ?
+1. ∆ ABC is an equilateral triangle whose sides are equal to
+the breadth of the rectangle.
+2. Imagine rotating the ∆ABC about point A and extending
+the sides. You would see that the sides of the equilateral
+triangle would be more than AB.
+3. If you rotate the original triangle by 30°, the edge of the
+triangle would coincide with that of the rectangle. This
+means that any more rotation would cause the third
+vertex to lie outside the rectangle.
+4. Therefore, ∆AB′C′ is the largest equilateral triangle you
+can make in the rectangle.
+
+88
+
+NOTES
+
+O B S E RVAT I O N
+1. To fold this largest equilateral triangle from an A4 sheet,
+First fold the sheet in half along the length. Name this
+fold line as PQ.
+2. Take one of the edges of the A4 sheet and put it on PQ
+such that the fold line passes through the other vertex.
+3. Fold the remaining paper and the resulting triangle would
+be the largest equilateral triangle in an A4 sheet.
+
+EXPLORE
+1. Can you try to find out the side length and area of this
+biggest equilateral triangle.
+Hint: Cos 30° =√(3)/2 = 0.87
+2. Find all the lengths and angles marked in the sheet.
+Assume that the sides of the rectangle are 1 and √2 units.
+
+89
+
+EQUILATERAL TRIANGLE FROM A
+SQUARE
+LEARNINGS
+Geometry
+Equilateral
+Triangle
+
+How do you convert a square into an equilateral triangle? In
+this activity you can convert the given square into an
+equilateral triangle without any measurement.
+
+W H AT T O D O ?
+1. Put a small sticky tape in the middle of the line segments
+AP and BQ. Fold the triangles APD and BQE.
+2. After folding, points D and E would intersect at point C
+which lies on perpendicular bisector of side AB.
+3. ∆ABC is the required triangle.
+
+90
+
+1
+
+2
+
+Separate the shown triangles from
+the she et.
+
+3
+
+Use tape to join the triangle with
+segment AP.
+
+4
+
+Do the same for the triangle at
+segment BQ.
+
+91
+
+Fold the triangles APD and BQE.
+
+NOTES
+
+W H AT ’ S G O I N G O N ?
+1. All the four sides of a square are equal. Therefore, you
+can take any three sides and bring them together to form
+a triangle.
+2. The triangle thus formed would surely be an equilateral
+triangle. Try this again with a square sheet of paper and
+fold it into an equilateral triangle!
+
+EXPLORE
+1. Find out:
+• Altitude and area of the equilateral triangle.
+• Length of DP and QE. (Hint: tan 15° = 0.27)
+2. Find the other lengths and angles marked in this sheet.
+Assume that length of the sides of the square is 1 unit.
+3. You can also cinvert the square to an equilateral triangle
+using the rectangle process given in the previous activity
+(involving perpendicular bisector)
+
+92
+
+LARGEST EQUILATERAL TRIANGLE
+FROM A SQUARE
+LEARNINGS
+Mensuration
+Area of a triangle
+Equilateral
+Triangle
+
+What is the largest equilateral triangle you can make from a
+square? Can you make an equilateral triangle whose sides
+are bigger than the square? This activity shows the largest
+equilateral triangle possible in a square.
+
+W H AT T O D O ?
+1. Take out the equilateral triangle ABC from the left square
+and put this along AB on the right square.
+2. If you rotate this triangle about point A and extendthe
+sides, you can get a bigger equilateral triangle in the
+square.
+3. ∆AB′C′ is the biggest equilateral triangle you can make
+in the square.
+93
+
+1
+
+2
+
+Take out the equilateral triangle
+ABC from the left square and put
+this along AB on the right square.
+
+Rotate this triangle about point A.
+
+4
+
+3
+
+On rotating ∆ABC, you would se e
+that you can get a bigger
+equilateral triangle in the square.
+
+94
+
+You can also compare the sizes of
+the two triangles.
+
+NOTES
+
+O B S E RVAT I O N
+1. When you rotate the triangle about the vertex A and
+extend all its sides equally, you get an equilateral triangle.
+2. How much can you rotate in this manner so that the
+triangle still remains inside the square? It turns out to be
+15°.
+3. If we rotate the triangle further, vertex C goes out of the
+square. Therefore, ∆AB’C’ is the largest equilateral
+triangle in this square.
+
+EXPLORE
+1. Try to find out the side length and area of this biggest
+equilateral triangle.
+Hint: Cos 15° = 0.97
+2. Find the other lengths and angles marked in this sheet.
+Assume that the sides of the square are 1 unit.
+
+95
+
+GOLDEN PENTAGON
+LEARNINGS
+Geometry
+Golden ratio
+Diagonals of a
+Pentagon
+Basic
+Proportionality
+Theorem
+
+The golden ratio makes frequent and often unexpected
+appearance in geometry. Regular pentagon is one of the
+places where the golden ratio appears in abundance. The five
+diagonals of a regular pentagon define a star-shaped figure
+called a Pentagram . It has five sides and five vertices.
+In this activity, we will discuss about the various golden
+ratios present in a pentagram.
+
+W H AT T O D O ?
+1. Remove the sticks marked as a, b, c and d from the sheet.
+2. Measure the length a and b with the help of the scale
+given with the sheet and calculate the ratio a/b.
+3. Similarly measure the length of c and d and calculate the
+ratio b/c and c/d.
+96
+
+1
+
+2
+
+Take out the strips at the bottom of
+the she et and ke ep them aside.
+
+3
+
+Remove the sticks marked as a, b, c and d
+from the pentagon. Measure their lengths
+and calculate the ratio a/b, b/c and c/d.
+
+4
+
+Insert these sticks in the empty
+spaces below.
+
+97
+
+All the sticks from the pentagon
+would fit inside the slits below.
+
+NOTES
+
+O B S E RVAT I O N
+1. You will find that all these three ratio are approximately
+equal to 1.6.
+2. This ratio is called the Golden ratio, whose value is
+1.618.
+3. The ratio of the diagonals and sides of a pentagon is
+equal to golden ratio.
+4. The isosceles triangles formed in the pentagon are also
+called golden triangles because the ratio of the length of
+their sides is also golden.
+5. Another special property of these triangles is that they
+can be divided into two triangles, which are again
+isosceles.
+
+W H AT ’ S G O I N G O N ?
+1. Suppose you have a stick and you break it such that the
+ratio of length of original stick to the larger part is equal
+to the ratio of length of larger part and smaller part. That
+ratio is called the Golden Ratio.
+2. Can you find out that ratio using the information above?
+If a and b are in golden ratio (and a is the larger number),
+you can say, a/b = (a+b)/a. If you solve this equation, you
+would see that a/b is equal to 1.618.
+3. By measuring the sticks a, b, c and d given in the sheet,
+you can see that (a+b)/a = a/b or (b+c)/b = b/c and so on.
+
+EXPLORE
+Some of the greatest mathematical minds of all ages, from
+Pythagoras and Euclid in ancient Greece through astronomer
+Johannes Kepler, to present-day scientific figures have spent
+endless hours over this simple ratio and its properties. But
+the fascination with the Golden Ratio is not confined just to
+mathematicians. Biologists, artists, musicians, historians,
+architects and even psychologists have pondered and debated
+the basis of its ubiquity and appeal. In fact, it is probably fair
+to say that the Golden Ratio has inspired thinkers of all
+disciplines like no other number in the history of mathematics.
+98
+
+LUNE OF HIPPOCRATES
+LEARNINGS
+Pythagoras
+Theorem
+Area of a Circle
+Area of Rightangled Triangle
+
+Can you make a square having same area as a given circle,
+without any measurements? This problem was first
+formulated by Hippocrates around 400 BC who wanted to
+square a circle.
+Lune is derived from the latin word Luna for moon. As this
+shape is surrounded by only circles, Hippocrates hoped to
+square the circle by solving this problem.
+
+W H AT T O D O ?
+1. Take out the lune (marked as A1) from the sheet.
+2. Cover the lune completely using rice (or wheat or other
+small identical objects). Make sure that the seeds don’t
+overlap with each other.
+3. Take out the triangle A2 from the sheet. Cover the area of
+the triangle using the same seeds.
+4. You will find that the same number of seeds cover the
+lune as well as the triangle. This shows that both the
+shapes have the same area.
+99
+
+1
+
+2
+
+Take out the lune and the triangle
+(marked as A1 and A 2 ) from the
+she et.
+
+3
+
+Along with the she et, you would
+require rice (approximately 150 g).
+
+4
+
+Cover the lune completely using
+rice. Make sure that the se eds
+don’t overlap with each other.
+
+5
+
+Lift the she et and shift it to the side
+so that the rice comes out of the
+lune.
+
+6
+
+Cover the area of the triangle
+using the same rice.
+100
+
+You will find that the same number
+of se eds cover the lune as well as
+the triangle.
+
+W H AT ’ S G O I N G O N ?
+1. ∆ ACM is an isosceles right triangle (AM = CM).
+2. By Pythagoras Theorem,
+AC2 = AM2 + CM2
+= 2AM2 ( as AM = CM)
+Therefore, AC = √2.AM
+C
+
+√2
+a
+
+NOTES
+
+A
+
+a
+M
+
+a
+
+Area of the Ice- Cream = Quarter Circle + Lune = Triangle + Semi Circle
+
+=
+
++
+
+=
+
++
+
+1 × � a2 + Lune = Triangle + 1 × � (√2a)2
+4
+2
+4
+Area of Lune = Area of Triangle
+
+EXPLORE
+While this problem may seem routine for a geometry student
+today, Hippocrates was trying to solve this problem in 400
+BC! At the time the Greeks did not even know the formula
+for the area of a circle! The Lune of Hippocrates is said to be
+one of the first mathematical calculations of an area between
+curved lines.
+
+101
+
+LUNES OF ALHAZEN
+LEARNINGS
+Pythagoras
+theorem
+Area of a Circle
+Area of Right
+Angle Triangle
+
+The Arab mathematician Alhazen showed, around 1000 AD,
+that the areas of two lunes (moon-like shapes) added together
+is equal to the area of a triangle. The lunes formed this way
+are called Lunes of Alhazen.
+
+W H AT T O D O ?
+1. Take out the lunes (marked as A1 and A2) from the sheet.
+2. Cover the lunes completely using rice (or wheat or other
+small identical objects). Make sure that the seeds don’t
+overlap with each other.
+3. Cover the area of the triangle (marked as A3) using the
+same seeds.
+4. You will find that the same number of seeds cover the
+lunes as well as the triangle. This shows that the total
+area of two lunes is equal to the area of the triangle
+102
+
+1
+
+2
+
+Take out the lunes (marked as A1
+and A 2 ) and triangle marked as A3
+from the she et.
+
+3
+
+Cover the lunes A1
+completely using rice.
+
+and
+
+A2
+
+4
+
+Lift the she et and shift it to the side
+so that the rice comes out of the
+lune.
+
+5
+
+Use the same rice to fill the triangle
+A3 .
+
+6
+
+You will find that the same number
+of se eds cover the lunes as well as
+the triangle.
+103
+
+This shows that the total area of
+two lunes is equal to the area of
+the triangle
+
+NOTES
+
+W H AT ' S G O I N G O N
+A2
+A1
+
+b
+
+a
+
+Total Area of Lunes = A1 + A2
+
++
+A1 + A2 =
+
+a
+
+=
+
+b
+
++
+
++
+
+1 � a2 +
+2 4
+
+1 �b2 +
+2 4
+
+a2
+
+b2
+
++
+
+1 �a2
+2 4
+
++
+
+=>
+
+A1+A2 =
+
+104
+
+1 �c2
+2 4
+
+= c2 [Pythagoras Theorem]
+
+1 �b2
+2 4
+
+=
+
+1 �c2
+2 4
+
+ARITHMETIC MEAN ≥ GEOMETRIC
+MEAN ≥ HARMONIC MEAN
+LEARNINGS
+Algebra
+Geometry
+Pythagoras
+Theorem
+Similar Triangles
+Arithmetic
+Progression
+Geometric
+Progression
+Harmonic
+Progression
+
+The arithmetic mean of two numbers a and b is the average
+of two numbers, a+b/2. Geometric mean is √ab and the
+harmonic mean is 2ab/a+b. For any two numbers, we have
+the relation between these means: Arithmetic Mean ≥
+Geometric Mean ≥ Harmonic Mean
+You can show this algebraic identity geometrically in this
+activity.
+
+O B S E RVAT I O N
+1. The two numbers a and b are marked as XT and TZ on
+the sheet.
+2. Therefore, XZ = a + b. O is the midpoint of line XZ, so
+OX = OZ = OV = OY = (a+b)/2
+3. Therefore OV is the Arithmetic mean of a and b.
+4. OT = OZ - TZ = (a+b)/2 - b = (a-b)/2
+5. In the right ∆ OTY, using Pythagoras Theorem, OY2 =
+YT2 + OT2
+Therefore, YT2 = OY2 - OT2 = [(a+b)/2]2 - [(a-b)/2]2 = ab
+YT = √ab
+105
+
+NOTES
+
+6. YT is therefore the Geometric mean of a and b.
+7. WY/ YT = YT / OY (because ∆ TWY and ∆ OTY are
+similar: 90 degree and one common angle)
+8. WY = YT2/OY = (√ab)2/ [(a+b)/2] = 2ab/a+b
+9. WY is therefore the Harmonic mean of a and b.
+10. If we look at the sheet, AM≥ GM because AM is the
+radius of the semicircle and GM is clearly smaller than
+the radius.
+11. GM ≥ HM because in ∆ TWY, GM is the hypotenuse
+which is larger than other two sides.
+12. Therefore, AM ≥ GM ≥HM.
+
+106
+
+LAW OF COSINES
+LEARNINGS
+Trigonometry
+Area of a Triangle
+
+The law of Cosines relates the length of the sides of a triangle
+to the cosine of its angles. But how do we arrive at the law?
+This sheet proves the Law of Cosines using basic trigonometry
+and similarity of triangles.
+
+W H AT T O D O ?
+1. Draw a triangle ABC on paper as shown on the top right
+of the sheet.
+2. Taking B as center and BC as radius, draw a circle.
+Extend the sides AC, BC and AB such that they intersect
+the circle at points E, F, G and D respectively.
+
+O B S E RVAT I O N
+1. FB = BC = BG = BD = a (all are radii of the circle).
+2. AD = BD - AB = a - c
+3. ∠FEC = 90° (angle in a semicircle is always a right angle)
+4. In the right triangle FEC, Cos C = EC/FC = EC/2a
+Therefore, EC = 2aCos C
+107
+
+NOTES
+
+5. AE = EC - AC = 2aCos C - b
+6. Now, according to Intersecting Chord Theorem at point
+A, AE × AC = AG ×AD
+(2aCos C - b) × b = (a+c) × (a-c) = a2 - c2
+Therefore, Cos C = (a2 + b2 - c2) / 2ab
+
+W H AT ’ S G O I N G O N ?
+The Intersecting Chords Theorem can also be proved using
+similar triangles as follows:
+∠GEC =∠GDC (angles subtended by same chord GC)
+∠EGD = ∠ECD (angles subtended by same chord ED)
+∠EAG = ∠DAC (opposite angles)
+Therefore, ∆AEG and ∆ADC are similar.
+Hence, AE/ AD = AG / AC
+Therefore, AE × AC = AG × AD
+
+D
+
+E
+
+A
+
+C
+
+G
+
+EXPLORE
+The Law of Cosines can be used in conjunction with the Law
+of Sines to find all sides and angles of a triangle.
+Law of Sines
+
+B
+
+a/Sin A = b/Sin B = c/ Sin C
+
+C
+
+108
+
+c
+
+a
+b
+
+A
+
+ANGLE TRISECTOR
+LEARNINGS
+Trisection of Angle
+Congruency of
+Triangles
+
+This trisector looks like a tomahawk, a Native American axe.
+Instead of splitting wooden logs, it is a tool for splitting an
+angle into three equal parts!
+
+W H AT T O D O ?
+1. Take any angle you want to trisect (∠ABC ). The trisector
+has to touch this angle in following three places:
+• One ray of the angle passes through the first hole.
+• The other ray touches the semicircle tangentially
+• The angle vertex lies inside the slit.
+2. With the tomahawk in this position, the angle is trisected
+by the handle (segment BS), and the line connecting the
+angle vertex to the center of the semicircle (Segment
+BT).
+3. Do this exercise for any different angles and verify if it
+trisects them.
+
+109
+
+11
+
+2
+
+Place the trisector such that: (i)
+One ray of the angle passes
+through the first hole.
+
+(ii)The other ray touches the
+semicircle tangentially
+(iii)The vertex lies inside the slit.
+
+4
+
+3
+
+Mark the two points using pen.
+
+Join these marked points to the
+vertex of the angle.
+
+55
+
+6
+6
+
+These segments divide the angle
+into thre e parts as shown.
+110
+
+Measure the thre e angles and
+verify that they are equal.
+
+NOTES
+
+W H AT ’ S G O I N G O N ?
+1. Tomahawk consists of a segment RU, divided into three
+equal parts - RS, ST, and TU.
+2. A semicircle with radius TS is drawn, with T as its center.
+SV is a line segment perpendicular to RU.
+3. After placing the trisector as shown in the figure, ∆ BSR
+and ∆ BST become congruent triangles. Both triangles
+have right angles ( ∠BSR & ∠BST ) with a common base
+(SB) and equal height (SR = ST).
+4. As the sides BD and TD of ∆ BDT are respectively the
+tangent and radius of the semicircle, they are at right
+angles to each other.
+5. Therefor, ∆ BDT and ∆ BST are also congruent. Both
+triangles have right angles ( ∠BTD & ∠BST ) with a
+common base (TB) and equal height (TD = TS).
+6. This means that the three triangles are congruent to each
+other.
+7. This means that ∠RBS, ∠SBT, and ∠TBD are equal,
+trisecting the original ∠ABC
+
+R
+S
+T
+U
+
+D
+B
+
+V
+
+111
+
+SUM OF GP (SUM = 1/3)
+LEARNINGS
+Geometric
+Progression
+Area of a Square
+
+Can you add a series that has infinite number of terms?
+Would the answer still be a finite number? Let's find out in
+this activity.
+
+W H AT T O D O ?
+1. Take out the pieces marked as 1/4, 1/16, 1/64,...from the
+square and the triangle
+2. Observe that these pieces make 1/3rd of the whole square
+and triangle.
+
+112
+
+NOTES
+
+O B S E RVAT I O N
+1. The side of the big square is taken as 1 unit. Therefore
+the area of the square is 1 square units.
+2. If you divide the square in four equal parts, the area of
+that piece would be 1/4.
+3. If you further divide that part in four equal parts, the area
+would be 1/4 × 1/4 = 1/16 and so on. So the area of all the
+three pieces is equal to 1/4 + 1/16 + 1/64 + 1/256 + ......
+4. The square is divided in three equal parts by these pieces.
+So the area of one piece is equal to 1/3rd of the area of
+whole square = 1/3
+5. Therefore, 1/4 + 1/16 + 1/64 + 1/256 + ....... = 1/3
+
+W H AT ’ S G O I N G O N ?
+The sequence 1/4, 1/16, 1/64,..... is an example of Geometric
+series. It's a series where ratio of two consecutive terms is
+same.
+In this case, the ratio is 1/4 for any two consecutive terms.
+You can have another sequence where the difference is some
+other number. For example, in 1, 4, 16, 64,...(and so on), the
+difference between consecutive terms is 4. If this ratio is
+more than 1, the sum of infinite terms won't be a finite
+number.
+
+113
+
+ANGLE TRISECTOR
+LEARNINGS
+Trisection of Angle
+Congruency of
+Triangles
+
+Angle trisection is the division of an angle into three equal
+parts. The mechanism in this module automatically trisects
+any angle and is called Laisant's mechanism. Explore the
+geometry in the mechanism.
+
+W H AT T O D O ?
+1. Connect the four arms and connecting rods as shown in
+the images using nuts and bolts.
+2. Connect the mechanism at the hole in the center of the
+sheet.
+3. Put the first arm at the zero angle and the last arm at 180°.
+The two middle arms would point to 60° and 120°,
+dividing the angle 180° into three equal parts.
+4. Move the first and last arm at any position and you would
+observe that the middle arms would automatically trisect
+the angle.
+
+114
+
+1
+
+2
+
+You will require the she et, nuts and
+bolts.
+
+Use a nut and bolt to attach the
+two parts as shown.
+
+4
+
+3
+
+Attach the second arm and the
+connecting rod.
+
+5
+
+Fix the arms to the middle of the
+she et with the help of a screw.
+115
+
+Attach the remaining parts. The
+final structure would lo ok like this.
+
+NOTES
+
+W H AT ’ S G O I N G O N ?
+1. This mechanism for trisecting an agnle is called the
+Laisant's Compass, proposed by M. Laisant in 1875.
+2. The lengths are chosen so that OB = OC = OD = OA and
+CS' = BS' = AS = DS, with S and S' as joints permitted to
+slide in straight grooves along the two trisecting bars.
+3. Therefore, ∆OBS', ∆ODS and ∆OAS are congruent.
+Hence, ∠BOS’ = ∠DOS = ∠SOA, dividing ∠BOA in
+three equal parts.
+
+S'
+
+S
+
+D
+
+C
+A
+
+B
+O
+
+116

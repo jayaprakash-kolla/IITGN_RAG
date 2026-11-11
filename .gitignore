@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Python environment
+.venv/
+__pycache__/
+
+# Generated files
+output/
+qdrant_db/

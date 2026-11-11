@@ -1,0 +1,49 @@
+Title: IIT Gandhinagar | Krishna Prasad Miyapuram
+Source: https://iitgn.ac.in/faculty/cse/fac-krishna
+
+# Krishna Prasad Miyapuram
+
+-  Computer Science & Engineering
+Krishna Prasad Miyapuram
+
+## Krishna Prasad Miyapuram
+
+Professor, Cognitive and Brain Sciences (Affiliated to Discipline of Artificial Intelligence)
+
+- BSc: Osmania University, 1998
+- MSc: University of Hyderabad, 2000
+- MTech: University of Hyderabad, 2004
+- PhD: University of Cambridge, U.K., 2008
+
+Email: kprasad -AT- iitgn.ac.in
+
+ Website :  http://cogs.iitgn.ac.in/member/krishna-prasad-miyapuram/
+
+Office:  AB 5/315B
+VOIP:  2446
+
+Dhananjay Sonawane, Krishna Miyapuram, Derek Lomas, Bharatesh Rs, GuessTheMusic: Song Identification from Electroencephalography response, CODS-COMAD 2021
+
+Raunak Swarnkar, Krishna Miyapuram. EEG Correlates of Effector-Specific Representation during Visuo-Motor Sequence Learning, ICONIP 2020
+
+Pandey, P., & Miyapuram, K. P. (2020, July). Classifying Oscillatory Signatures of Expert vs NonExpert Meditators. In 2020 International Joint Conference on Neural Networks (IJCNN) (pp. 1-7). IEEE. https://ieeexplore.ieee.org/document/9207340
+
+Tripathi, R., Mukhopadhyay, D., Singh, C. K., Miyapuram, K. P., & Jolad, S. (2019, December). Characterization of functional brain networks and emotional centers using the complex networks techniques. In International Conference on Complex Networks and Their Applications (pp. 854-867). Springer, Cham.
+
+Goyal, S., & Miyapuram, K. P. (2019). Feedback influences discriminability and attractiveness components of probability weighting in descriptive choice under risk. Frontiers in psychology, 10, 962. https://doi.org/10.3389/fpsyg.2019.00962
+
+Chawla, M., & Miyapuram, K. P. (2018). Context-Sensitive Computational Mechanisms of Decision Making. Journal of Experimental Neuroscience. https://doi.org/10.1177/1179069518809057
+
+- Professor, Indian Institute of Technology, Gandhinagar, (Jun 2026 to Present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar, (Feb 2020 to Jun 2026)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar, (Oct 2012 to Feb 2020)
+- Postdoctoral Fellow, Center for Mind/Brain Sciences, University of Trento, Italy (July 2011 - Sept 2012)
+- Cognitive Psychologist, Unilever R&D, The Netherlands (Aug 2008 - Jan 2011)
+- Visiting Researcher, Core Research for Evolutionary Science & Technology, Kyoto, Japan (July - Sept 2003)
+- Visiting Researcher, Exploratory Research for Advanced Technology, Kyoto, Japan (Dec 2000 - Feb 2001)
+- Research Assistant, Indo-Japanese project, University of Hyderabad (Aug 2000 - July 2002)
+
+- ● Neuroeconomics & neuromarketing
+- ● Computational cognitive science
+- ● Neuroimaging (EEG, fMRI) & brain computer interface
+- ● Machine learning & artificial intelligence

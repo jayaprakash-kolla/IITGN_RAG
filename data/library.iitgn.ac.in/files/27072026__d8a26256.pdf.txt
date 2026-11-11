@@ -1,0 +1,83 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 30, 2026
+(Added during 20th July – 24th July 2026)
+Available for the issue from 01st August 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Practical deep learning for cloud, mobile, and edge: real-world AI and
+computer-vision projects using Python, Keras and TensorFlow
+Author: Koul, Anirudh
+Publisher: Navi Mumbai: Shroff/O'Reilly, 2023
+Call No.: 005.6 KOU
+Acc. No.: 037178
+Title: Designing data-intensive applications: the big ideas behind reliable,
+scalable, and maintainable systems, 2nd ed.
+Author: Kleppmann, Martin
+Publisher: Navi Mumbai: Shroff/O'Reilly, 2026
+Call No.: 005.7 KLE
+Acc. No.: 037176
+Title: Building machine learning-powered applications: going from idea to
+product
+Author: Ameisen, Emmanuel
+Publisher: Navi Mumbai: Shroff/O'Reilly, 2024
+Call No.: 006.31 AME
+Acc. No.: 037174
+Title: Data science and machine learning: mathematical and statistical methods,
+2nd ed.
+Author: Botev, Zdravko
+Publisher: Boca Raton: CRC Press, 2020
+Call No.: 006.31 BOT
+Acc. No.: 037171
+Title: Building machine learning pipelines: automating model life cycles with
+TensorFlow
+Author: Hapke, Hannes
+Publisher: Navi Mumbai: Shroff/O'Reilly, 2021
+Call No.: 006.31 HAP
+Acc. No.: 037175
+Title: Introducing MLOps: how to scale machine learning in the enterprise
+Author: Treveil, Mark
+Publisher: Navi Mumbai: Shroff/O'Reilly, 2021
+Call No.: 006.31 TRE
+Acc. No.: 037177
+
+SOCIAL SCIENCES
+
+Title: Power and progress: our thousand-year struggle over technology and
+prosperity
+Author: Acemoglu, Daron
+Publisher: Great Britain: Basic Books, 2024
+Call No.: 303.4833 ACE
+Acc. No.: 037180
+
+PHYSICS
+Title: Fundamentals: ten keys to reality
+Author: Wilczek, Frank
+Publisher: USA: Penguin Books, 2022
+Call No.: 530 WIL
+Acc. No.: 037173
+
+APPLIED PHYSICS
+Title: Design of power management integrated circuits
+Author: Wicht, Bernhard
+Publisher: New Jersey: Wiley-IEEE Press, 2024
+Call No.: 621.3815 WIC
+Acc. No.: 037172
+
+OUTDOOR GAMES
+Title: Chasing like Dhoni: exploring the underbelly of Indian cricket
+Author: Puthran, Aayush
+Publisher: Gurugram: Penguin Play, 2026
+Call No.: 796.3580954 PUT
+Acc. No.: 037181

@@ -1,0 +1,74 @@
+Title: IIT Gandhinagar | Dilip Srinivas Sundaram
+Source: https://iitgn.ac.in/faculty/me/fac-dilip
+
+# Dilip Srinivas Sundaram
+
+-  Mechanical Engineering
+Dilip Srinivas Sundaram
+
+## Dilip Srinivas Sundaram
+
+Associate Professor, Mechanical Engineering
+
+- BE: PSG College of Technology, 2007
+- MS: The Pennsylvania State University, 2009
+- PhD: Georgia Institute of Technology, 2013
+
+Email: dilip.sundaram -AT- iitgn.ac.in
+
+ Website :  http://dilip.people.iitgn.ac.in/
+
+Office:  AB 4/312
+VOIP:  2492
+
+Propulsion
+
+- G. Venukumar and D.S. Sundaram, “Computational Study of Propulsive Performance of Frozen Nano-Aluminum and Water (ALICE) Mixtures”, Journal of Propulsion and Power, pp. 1-17, 2025.
+
+Combustion
+
+- P. Kulkarni, G. Venukumar, D.S. Sundaram, “A Computational Fluid Dynamics Model of Combustion of Nanoaluminum-Water Propellant Strands”, Combustion and Flame, Accepted.
+- S.H. Ali and D.S. Sundaram, “A Computational Fluid Dynamics Model of Combustion of Nitromethane Propellant in a Strand Burner”, Combustion Science and Technology, pp. 1-32, 2025.
+- N. Kamaraj, C. Ghoroi, and D.S. Sundaram, “Influence of Particle Size and Packing Density on Combustion of Compacted Nickel-Aluminum Powder Mixtures”, Combustion Science and Technology, pp. 1-28, 2024.
+- Souritra Garai and Dilip Sundaram, “A quasi-implicit and coupled multiscale scheme for simulating combustion of pellets of core-shell structured intermetallic particles”, Combustion and Flame, 2023, 250, pp.112650.
+
+Computational Fluid Dynamics
+
+- Roshith Mittakolu, Sarma Rani, Dilip Sundaram, “Higher-order implicit shock capturing scheme based on linearization of implicit fluxes for the Euler Equations”, International Journal of Numerical Methods for Heat and Fluid Flow, 2023, Available online.
+
+Nano-Scale Heat Transfer
+
+- J. Thoudam, I.J. Bayad, and D.S. Sundaram, “Dynamics of Energy Transfer between Nanoscale Aluminum/Aluminum Oxide Particles and Nitrogen Gas in the Noncontinuum Regime”, Journal of Physical Chemistry C, Vol. 128, pp. 3497–3513, 2024.
+- Jyotishraj Thoudam, Prasanna Kulkarni, Dilip Sundaram, "A hierarchical multiscale model of heat transfer between nano-alumina powder and noble gases", International Journal of Thermal Sciences, 2022, 179, pp. 107663.
+- Jyotishraj Thoudam, Tejas Mane, Dilip Sundaram, "Effect of Melting on Energy Accommodation Coefficients of Aluminum–Noble Gas Systems", The Journal of Physical Chemistry C, 2020, 124(40), pp. 22105-22116.
+- Prasanna Kulkarni, Jyotishraj Thoudam, Milind Doiphode, Dilip Sundaram, "Multiscale modeling and simulation of heat transfer between alumina nanoparticles and Helium gas", International Journal of Heat and Mass Transfer, 2020, 156, pp. 119806.
+- Pinki, Prasanna Kulkarni, and Dilip Sundaram, "First-Principles Informed Atomistic-Scale Calculations of Equilibrium Energy Accommodation Coefficients for Aluminum-Noble Gas Systems", The Journal of Physical Chemistry C, 2020, 124(13), pp. 7182-7195.
+- Tejas Mane, Pooja Bhat, Vigor Yang, Dilip Srinivas Sundaram, "Energy accommodation under non-equilibrium conditions for aluminum-inert gas systems", Surface Science, 2018, 677, pp. 135 – 148.
+
+Nano-Energetic Materials
+
+- Nilkumar Mathur, Tejas Mane, Dilip Sundaram, "Atomistically informed melting models for aluminum nanocrystals", Chemical Physics, 2019, 522, pp. 188 – 198.
+- Nikhil Joshi, Nilkumar Mathur, Tejas Mane, Dilip Sundaram, "Size effect on melting temperatures of alumina nanocrystals: Molecular dynamics simulations and thermodynamic modeling", Computational Materials Science, 2018, 145, pp. 140 - 153.
+
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Oct 2021 to present)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (Dec 2015 - Oct 2021)
+- Postdoctoral Fellow, Georgia Institute of Technology (Oct 2013 - Nov 2015)
+- Research Engineer, Georgia Institute of Technology (Aug 2013 - Sep 2013)
+- Graduate Research Assistant, Georgia Institute of Technology (Jan 2009 - Aug 2013)
+- Graduate Research Assistant, The Pennsylvania State University (May 2008 - Dec 2008)
+- Graduate Teaching Assistant, The Pennsylvania State University (Aug 2007 - May 2008)
+
+Awards
+
+- Excellence in Teaching Award, IIT Gandhinagar, 2022
+- David Weaver Best Paper Award, American Institute of Aeronautics and Astronautics, 2016
+- Excellence in Research Fellowship, IIT Gandhinagar, 2015-2018
+- Graduate Teaching Assistantship, The Pennsylvania State University, 2007-2008
+- Academic Proficiency Award, PSG College of Technology, 2005-2007
+
+- ● Propulsion and Combustion
+- ● Energetic Nanomaterials
+- ● Nanoscale Transport Processes
+- ● Multiphase and Chemically Reacting Systems
+
+Complete List of Publications

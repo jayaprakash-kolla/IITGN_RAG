@@ -1,0 +1,546 @@
+Title: IIT Gandhinagar | Research
+Source: https://iitgn.ac.in/research
+
+# Research & Development
+
+ As a hub for cutting-edge research, IITGN is fostering interdisciplinary collaborations to address critical challenges in science, technology, design, and society. Through partnerships with leading global institutions and industries, the institute drives advancements in energy, healthcare, artificial intelligence, sustainability, and materials science. With world-class research facilities, a strong emphasis on translational impact, and a flexible academic structure, IITGN provides an environment that supports innovation, industry collaboration, and international research engagement.
+ Research Spectra
+
+ Publications
+ Grantopedia
+ Projects
+
+ IIT Gandhinagar aspires to promote world-class research that will make a positive impact on society today and groom the leaders and creators of tomorrow’s technologies.
+
+The Institute is also fostering ties with various institutes in India and abroad, which enables IITGN undergraduate students pursue short term research stints during the summer. Our Summer Research Internship Programme (SRIP) has become flagship program among students with a selectivity of about 1 in 100 applications.
+
+ View Research Facilities  Library
+
+#### Liberal Support
+
+IITGN provides liberal research support to faculty to initiate their research. The seed funding has no specified upper limit, and there is a separate budget for procuring high-end infrastructure.
+
+#### Travel & Conferences
+
+ IITGN liberally supports travel by faculty and students — both undergraduate and postgraduate — to international conferences. We also support organizing workshops, schools, and conferences at IITGN.
+
+#### Making A Difference
+
+ At IITGN, we emphasize research inspired by both real-world challenges and issues of fundamental importance which also have a longer-term impact on society.
+
+#### Undergraduate Research
+
+ At IITGN, active engagement and participation of undergraduate students in research is greatly encouraged, and various opportunities are built into the the curriculum.
+
+## Highlights
+
+#### Indo-Thailand Workshop on AI-Driven Innovations (AIDI)
+
+More
+flip_to_front
+
+### Indo-Thailand Workshop on AI-Driven Innovations (AIDI)
+
+##### Find Out More
+
+Read Blog
+
+#### Strengthening Academic and Industrial Collaborations with Taiwan
+
+More
+flip_to_front
+
+### Strengthening Academic and Industrial Collaborations with Taiwan
+
+##### Find Out More
+
+Read Blog
+
+#### Towards A New Era: Launch of GIFT International Fintech Institute
+
+More
+flip_to_front
+
+### Towards A New Era: Launch of GIFT International Fintech Institute
+
+##### Find Out More
+
+Read Blog
+
+#### Japan Meets India’ Summit to Foster Collaboration in Research and Education
+
+More
+flip_to_front
+
+### Japan Meets India’ Summit to Foster Collaboration in Research and Education
+
+##### Find Out More
+
+Read Blog
+
+#### Secretary Hillary Rodham Clinton, former First Lady and Secretary of State of the US, visits IIT Gandhinagar
+
+More
+flip_to_front
+
+### Secretary Hillary Rodham Clinton, former First Lady and Secretary of State of the US, visits IIT Gandhinagar
+
+##### Find Out More
+
+Read Blog
+
+View All
+
+## Research@IITGN
+
+#### VayuBuddy: Empowering Communities to Breathe Cleaner Air
+
+Linklink
+
+#### Engineering Novel Solutions: Using Hydrogel Cushions to Transform Cancer Therapeutics
+
+Linklink
+
+#### A Portable Solution to Urban Heat and Climate Challenges
+
+Linklink
+
+#### IIT Gandhinagar Study Reveals Insights on Pollutants, Exposure, and Mitigation
+
+Linklink
+
+#### Unusual Rainfall in Gujarat Sparks Concerns Over Urban Flooding and Infrastructure Resilience
+
+Linklink
+
+View All
+
+## Research Capsules
+
+#### The Paper Trail to Cancer Detection
+
+More
+flip_to_front
+
+### The Paper Trail to Cancer Detection
+
+ A strip of paper can hold a shopping list, a train ticket, or a child’s drawing. Researchers from IITGN and IIT Jammu are asking it to do something far harder: spot cancer.
+
+ Finding cancer cells can be challenging, especially when abnormal cells are vastly outnumbered by healthy ones. A few even break away from a tumour and drift into the bloodstream, scattered so thinly they are almost impossible to find. The earlier these cells can be identified, the greater the potential for timely intervention. Yet many existing diagnostic approaches can be expensive, time-consuming or dependent on specialised equipment and trained personnel.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### When Pollution Powers Clean Hydrogen
+
+More
+flip_to_front
+
+### When Pollution Powers Clean Hydrogen
+
+ Ever smelled the rotten-egg odour near an industrial zone? It can signal toxic sulphide pollutants in industrial wastewater: waste that is costly to treat and rarely generates value. Meanwhile, hydrogen production relies on the four-electron Oxygen Evolution Reaction (OER), which adds significant energy demand to water electrolysis. What if both challenges could be addressed together? Researchers at IIT Gandhinagar have developed a new catalyst that could potentially facilitate these dual targets.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### From Mountains to the Sea
+
+More
+flip_to_front
+
+### From Mountains to the Sea
+
+ As rivers flow from mountains to the landscapes surrounding the sea, they carry sediment, ranging from large rocks and clay, to sand and fine silt, that helps build fertile floodplains, shape river channels and sustain deltas. Yet, very little is known about how far sediment travels and how natural events or human activity can alter its path. Two recent studies involving researchers from IITGN explore these questions revealing how sediment can reshape river systems in very different ways...
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Breaking Bonds. Not the Planet
+
+More
+flip_to_front
+
+### Breaking Bonds. Not the Planet
+
+ As plastic use continues to grow, managing plastic waste through recycling, burning, or disposal in landfills can harm the environment. Even biodegradable plastics such as polylactic acid, which can break down under suitable conditions in soil, can persist in seawater, contributing to their accumulation. Scientists are therefore exploring electrochemical oxidation, which uses electricity to transform plastics into simpler compounds. However, devising efficient approaches for electrochemical plastic breakdown remains a challenge...
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Bringing Clarity Through a Different Lens
+
+More
+flip_to_front
+
+### Bringing Clarity Through a Different Lens
+
+ It can be difficult to recognise a face in a blurry, noisy, or damaged photograph. Restoring such images becomes even more challenging when the cause of the damage is unknown or a clean version of the same photograph is unavailable as a reference.
+
+ Addressing this issue, researchers at IIT Gandhinagar and IIT Banaras Hindu University have developed GenR, an AI framework that uses a pretrained face-generating model, StyleGAN3, as a guide for what a realistic human face should look like. Instead of simply sharpening the damaged image, GenR works backward by creating a candidate face, applying an approximation of the damage to it, and then adjusting the generated face until its degraded version resembles the original photograph.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+View All
+
+## Research Snips
+
+#### Shared Landscapes: Living with Tigers and Snakes in the Sundarbans
+
+More
+flip_to_front
+
+### Shared Landscapes: Living with Tigers and Snakes in the Sundarbans
+
+ Herbal cigarettes are often sold as a safer, nicotine-free alternative to tobacco cigarettes. But are they really safer? A recent joint study by IITGN and the University of Illinois Urbana-Champaign, funded by SPARC, challenges this belief. The researchers found that the health impacts of the smoke from herbal cigarettes can be potentially as high as, and in some cases even higher than, those from tobacco cigarettes.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Consistency in Complexity: New Insights into Quiver Bundles
+
+More
+flip_to_front
+
+### Consistency in Complexity: New Insights into Quiver Bundles
+
+ 𝐂𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐲 𝐢𝐧 𝐂𝐨𝐦𝐩𝐥𝐞𝐱𝐢𝐭𝐲: 𝐍𝐞𝐰 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐢𝐧𝐭𝐨 𝐐𝐮𝐢𝐯𝐞𝐫 𝐁𝐮𝐧𝐝𝐥𝐞𝐬
+
+ From quantum field theory to string theory, vector bundles and connections provide an important mathematical framework to describe how physical quantities change across space. Researchers at IIT Gandhinagar studied connections, which are rules for describing how vectors change from one point to another, on several vector bundles linked by maps. These structures are called quiver bundles. The researchers studied when connections can be chosen so that they work consistently with all the maps. For tree-shaped quiver bundles, they found that this is possible when the maps maintain the same rank along each path. They also studied what can prevent such connections from existing and how they relate to flat connections and topology. By extending familiar ideas from individual vector bundles to linked systems, this work develops a broader geometric framework that can be useful in theoretical physics.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### When the Monsoon Stops Bringing Relief
+
+More
+flip_to_front
+
+### When the Monsoon Stops Bringing Relief
+
+ India’s monsoon may no longer bring relief from extreme heat. A new study led by IIT Gandhinagar finds that uncompensable heat stress, which occurs when the body can no longer cool itself well enough, has already increased across India. Today, it is mostly a summer danger. But at 2°C of global warming, it could affect 53% of India during the monsoon, nearly matching the 60% affected by summer. Using realistic human heat limits instead of a simple wet-bulb measure, the study shows how humidity could turn the rainy season into a major health risk. These results highlight that the monsoon is becoming a period of dangerous, unbearable heat for hundreds of millions, providing insights to improve heat alerts, worker safety, and climate policy.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Caste in Social Media: A Sentiment and Emotion Analysis Study
+
+More
+flip_to_front
+
+### Caste in Social Media: A Sentiment and Emotion Analysis Study
+
+ A news post appears on Facebook. In the comment section, people react, understand, debate, mourn, rage, and remember. In a study, IITGN researchers analysed 17,601 caste-related posts and over 254,000 comments from Indian newspaper pages between 2012 and 2024. What makes the work stand out is the layered approach they followed. They compared these discussions with an equal number of non-caste ones from the same sources and mapped topics, engagement, sentiment, and 28 emotions together. Caste-related posts drew comments with stronger sentiments and affects such as anger, sadness, disgust, and disapproval, etc., especially around everyday discrimination and local violence. By mapping these emotions, the study offers a way to better understand where caste-based exclusion surfaces online and how digital spaces can also become sites of awareness, resistance, and change.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Lights, Heat, Action, The Cancer Edition
+
+More
+flip_to_front
+
+### Lights, Heat, Action, The Cancer Edition
+
+ What if cancer therapy could locate a cell’s powerhouse and activate only under light? At IIT Gandhinagar, researchers have developed a smart molecule, ‘7a’, that forms tiny nanoparticles, slips into the mitochondria of cancer cells, and emits a glow useful for imaging. When near-infrared light is shone on it, 7a heats up as well as creates reactive oxygen species that harm mitochondria from within. This disruption triggers programmed cell death and autophagy, a stress-response cleanup process inside cancer cells. It also carries an indomethacin drug unit that helps suppress Cox-2, a cancer-linked enzyme. Together, these actions push cancer cells toward death, while causing the least damage to normal cells in the lab. This work may help lead to a future where cancer therapy becomes more precise, less harsh, and guided by light.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+View All
+
+## Postdoc Times
+
+#### Battling Superbugs by Breathing New Life into Old Drugs
+
+More
+flip_to_front
+
+### Battling Superbugs by Breathing New Life into Old Drugs
+
+ In the battle against bacteria, scientists are constantly searching for new weapons. However, developing brand-new drugs is time-consuming and expensive. Taking a different approach, Dr Rinku Choubey and Dr Moumita Chatterjee, have enhanced an existing medication by pairing it with a specialised molecule.⁠ This tag-team approach involves acetazolamide (AZM) and octaarginine (R8). By adjusting the ratio of these molecules and testing them against E. coli, the researchers found the combo to be an effective antibacterial!
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Blink and Miss: A Dilemma of Nanoscale Light Emitters
+
+More
+flip_to_front
+
+### Blink and Miss: A Dilemma of Nanoscale Light Emitters
+
+ Perovskite Nanocrystals (PNCs) hold immense promise for next-gen technology, from ultra-efficient displays to quantum computing. However, a persistent challenge—Photoluminescence blinking—disrupts their performance by causing intermittent light emission. At IITGN’s NanoPlasmonics Research Lab, Dr NVS Praneeth, a Research Associate, is tackling this issue by developing protective coatings for Perovskite and QDs. The cross-institute research study aims to enhance the reliability of advanced QD and PNC-based technologies, paving the way for brighter displays, high-precision bioimaging, quantum encryption, and efficient solar cells.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Nature’s QR Code: How DNA Barcoding Deciphers Plant Identity
+
+More
+flip_to_front
+
+### Nature’s QR Code: How DNA Barcoding Deciphers Plant Identity
+
+ Nature is full of lookalikes—plants that appear nearly identical but may belong to entirely different species. This similarity can lead to major challenges for scientists, especially in medicine, agriculture, and conservation. Dr Nilesh Gawande, a postdoctoral fellow at IITGN, is part of a project that is using DNA barcoding for species identification with genetic precision. In a research study with multi-institute contributions, researchers analysed the matK gene and found it to be a robust marker that can differentiate even the most minor variations within closely related plant species.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Time Travel Through Teeth?
+
+More
+flip_to_front
+
+### Time Travel Through Teeth?
+
+ How did the Harappan civilisation sustain their cities, feed their livestock, and adapt to environmental challenges? Dr Manisha Kesarwani from the Interspecies Research Network (IRN-IITGN) of IITGN is part of a multi-institute, interdisciplinary study that is attempting to answer these questions by analysing the teeth of ancient domesticated animals. Using isotopic techniques, the team aims to uncover how Harappan communities residing in the ancient city of Dholavira, responded to climate shifts and seasonal changes.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Infinite Sums, Precise Outcomes: Exploring New Arithmetic Terrai
+
+More
+flip_to_front
+
+### Infinite Sums, Precise Outcomes: Exploring New Arithmetic Terrai
+
+ Mathematics can feel like solving a giant puzzle, where numbers hide fascinating secrets. At IITGN, Dr Shashank Ashok Chorge is uncovering some of these secrets using a tool called the Voronoi summation formula. Mathematicians use this formula to improve the “error terms,” which are minor inaccuracies that appear whilst estimating complex problems. The research also assessed how certain sums (called Riesz-type weighted sums) change their "sign" over time—shifting from positive to negative. These shifts are connected to a famous mathematics puzzle about the zeta function's zeros.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+View All
+
+## R&D Horizons
+
+#### TotalEnergies Energy Outlook Summit and Ideathon 2026
+
+More
+flip_to_front
+
+### TotalEnergies Energy Outlook Summit and Ideathon 2026
+
+ The TotalEnergies Energy Outlook Summit 2026 brought together industry, finance, and academia to examine one central question: how does India grow its energy system without locking in emissions? Dr Sangkaran Ratnam set the tone during the inaugural speech. Electrification and renewables are coming, he said, whether we’re ready or not. “The debate isn’t about if anymore. It’s about how fast, and who’s prepared to put in the capital and the work.” And if recent events in the Middle East have shown anything, the cost of moving too slowly is no longer theoretical.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Advancing Development Dialogue and Academic Community Building
+
+More
+flip_to_front
+
+### Advancing Development Dialogue and Academic Community Building
+
+ IITGN hosted the ‘Sabarmati Economists’ Meet 2026’ on January 30 and 31, bringing together academic researchers from central Gujarat for thoughtful conversations on topics of national importance, from gender and education to water and public policy. Organised by the Humanities and Social Sciences Department, the event featured keynote sessions and seminars by academics from IIM Ahmedabad, Indraprastha Institute of Information Technology Delhi, Ahmedabad University, and the Institute of Rural Management Anand. Insightful talks by Prof Namrata Chindarkar on last-mile health services delivery using drones and Prof Abhinandan Sinha on investments and democracy added depth to the programme and were appreciated by participants.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### IITGN at IWMI-Tata Partners' Meet 2025: Co-Creating Pathways for Sustainable Water Futures
+
+More
+flip_to_front
+
+### IITGN at IWMI-Tata Partners' Meet 2025: Co-Creating Pathways for Sustainable Water Futures
+
+ IITGN was invited to the IWMI-Tata Partners’ Meet 2025, held at the National Dairy Development Board (NDDB) Campus in Anand from December 4 to 6, 2025. This flagship event is an initiative of the IWMI-Tata Water Policy Program, created by the International Water Management Institute and Tata Trusts, to share ongoing work, receive feedback, and identify promising opportunities for collaborative application oriented water policy research.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Advancing Data Science Through Immersive Learning
+
+More
+flip_to_front
+
+### Advancing Data Science Through Immersive Learning
+
+ IITGN-X, the Education Outreach Program of IITGN, held an enriching seven-day on-campus residency for its Data Science for Decision Making (DSDM) Batch 1 cohort. With a vision to facilitate professional development, the residency was designed to blend academics with industry engagement, providing exposure for DSDM Executive Masters students to cutting-edge technologies.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+#### Innovate, Pitch, Transform: IITGN Hosts Boeing BUILD Bootcamp
+
+More
+flip_to_front
+
+### Innovate, Pitch, Transform: IITGN Hosts Boeing BUILD Bootcamp
+
+ Entrepreneurship thrives when innovation is nurtured, and at IIEC, we empower changemakers to bring their visions to life,” says Mr Anand Pandey, Manager at the IITGN Innovation and Entrepreneurship Center.
+
+##### Find Out More
+
+Facebook
+Instagram
+LinkedIn
+X
+
+Sharefavorite_border
+
+View All
+
+## International Collaborations
+
+#### IIT Gandhinagar and Deakin University, Australia, joined hands for academic and research collaboration
+
+Linklink
+
+#### IIT Gandhinagar and L&T Semiconductor Technologies Forge Strategic Partnership to Drive Innovation in India’s Semiconductor Sector
+
+Linklink
+
+#### IIT Gandhinagar and the University of San Diego joined hands for academic and research collaboration
+
+Linklink
+
+#### IIT Gandhinagar Strengthens International Ties with Taiwan Universities
+
+Linklink
+
+#### IIT Gandhinagar and the Asian Institute of Technology launch a Double Degree Master’s Program
+
+Linklink
+
+View All
+
+## R&D Newsletters
+
+#### January - March 2026
+
+Linklink
+
+#### October - December 2025
+
+Linklink
+
+#### July - September 2025
+
+Linklink
+
+#### January - March 2025
+
+Linklink
+
+#### October - December 2024
+
+Linklink
+
+View All

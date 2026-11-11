@@ -1,0 +1,37 @@
+Title: IIT Gandhinagar | Sushobhan Sen
+Source: https://iitgn.ac.in/faculty/civil/fac-sushobhan
+
+# Sushobhan Sen
+
+-  Civil Engineering
+Sushobhan Sen
+
+## Sushobhan Sen
+
+Assistant Professor, Civil Engineering
+
+- BTech: Indian Institute of Technology Roorkee, 2013
+- MS: University of Illinois at Urbana-Champaign, 2015
+- PhD: University of Illinois at Urbana-Champaign, 2019
+
+Email: sushobhan.sen -AT- iitgn.ac.in
+
+ Website :  https://sushobhansen.github.io/
+
+Office:  AB 6/329A
+VOIP:  2606
+
+- Sen, S., and Khazanovich, L. (2021) Limited application of reflective surfaces can mitigate urban heat pollution. Nature Communications, Vol 12, No. 3491, pp. 1-8, doi: 10.1038/s41467-021-23634-7, Impact factor: 14.92
+- Sen, S., and Khazanovich, L. (2021) A self-contained element for modeling crack propagation in beams. Engineering Fracture Mechanics, Vol. 242, pp. 107460, doi: 10.1016/j.engfracmech.2020.107460, Impact factor: 4.406
+- Sen, S., and Roesler, J. (2020) Wind direction and cool surface strategies on microscale urban heat island. Urban Climate, Vol. 31, p. 100548, doi: 10.1016/j.uclim.2019.100548, Impact factor: 5.731
+
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (Dec 2022 to present)
+- Postdoctoral Associate, University of Pittsburgh, (Jan 2020 to Dec 2022)
+- Technical Intern, ePave LLC, (Jun 2018 - Aug 2028)
+
+- ● Laboratory and computational characterization of pavements
+- ● Collection of in-situ climate data to incorporate local climatic effects into design
+- ● Assessment of the effect of climate change and extreme events on infrastructure performance, sustainability, and
+ resilience
+
+Complete List of Publications

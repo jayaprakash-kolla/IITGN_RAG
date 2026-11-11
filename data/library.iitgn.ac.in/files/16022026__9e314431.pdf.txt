@@ -1,0 +1,127 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 07, 2026
+(Added during 9th February 2026 – 13th February 2026)
+Available for the issue from 21st February 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+SOCIAL SCIENCE
+Title: Lifeways of hunter-gatherers: the foraging spectrum. 2nd ed.
+Author: Kelly, Robert L.
+Publisher: Cambridge: Cambridge University Press, 2013
+Call No.: 306.364 KEL
+Acc. No.: 036687
+Title: Homo Ludens: a study of the play-element in culture, 2nd ed.
+Author: Huizinga, Johan
+Publisher: New Delhi: Gyan Publishing House, 2024
+Call No.: 306.481 HUI
+Acc. No.: 036689
+Title: Environmental studies
+Author: Asha, Hage
+Publisher: Papum Pore: Forever Shinings Publication, 2025
+Call No.: 363.7 ASH
+Acc. No.: 036688
+
+MATHEMATICS
+Title: Anderson acceleration for numerical PDEs
+Author: Pollock, Sara
+Publisher: Philadelphia: Society for Industrial and Applied Mathematics (SIAM), 2025
+Call No.: 515.353 POL
+Acc. No.: 036690
+Title: Introduction to statistical learning: with applications in Python
+Author: James, Gareth
+Publisher: Switzerland: Springer, 2023
+Call No.: 519.5 JAM
+Acc. No.: 036698
+Title: Conditional gradient methods: from core principles to AI applications
+Author: Braun, Gabor
+Publisher: Philadelphia: Society for Industrial and Applied Mathematics (SIAM), 2025
+Call No.: 519.6 BRA
+Acc. No.: 036691
+
+PHYSICS
+Title: Free creations of the human mind: the worlds of Albert Einstein
+Author: Buchwald, Diana Kormos
+Publisher: New York: Oxford University Press, 2025
+Call No.: 530.092 BUC
+Acc. No.: 036692
+
+Title: Computational methods for plasticity: theory and applications
+Author: Neto, Eduardo A de Souza
+Publisher: West Sussex: Wiley, 2008
+Call No.: 531.385 NET
+Acc. No.: 036693
+
+PHYSICAL CHEMISTRY
+Title: Physical chemistry of ionic materials: ions and electrons in solids, 2nd ed.
+Author: Maier, Joachim
+Publisher: Hoboken, New Jersey: Wiley, 2023
+Call No.: 541.042 MAI
+Acc. No.: 036694
+
+PALEONTOLOGY
+Title: Reefs of time: what fossils reveal about coral survival
+Author: Gardiner, Lisa S.
+Publisher: Princeton, New Jersey: Princeton University Press, 2025
+Call No.: 563.6 GAR
+Acc. No.: 036696
+
+MEDICINE & HEALTH
+Title: Theoretical neuroscience: understanding cognition
+Author: Wang, Xiao-Jing
+Publisher: Boca Raton: CRC Press, 2025
+Call No.: 612.8 WAN
+Acc. No.: 036700
+Title: Advances in nucleic acid therapeutics
+Author: Agrawal, Sudhir (Ed.)
+Publisher: London: Royal Society of Chemistry, 2019
+Call No.: 615.19 AGR
+Acc. No.: 036697
+
+CHEMICAL ENGINEERING
+Title: Separation process engineering: includes mass transfer analysis, 5th ed.
+Author: Wankat, Phillip C.
+Publisher: Boston: Pearson, 2023
+Call No.: 660.2842 WAN
+Acc. No.: 036702
+
+LITERATURE
+Title: Cambridge companion to world literature
+Author: Etherington, Ben (Ed.)
+Publisher: New York: Cambridge University Press, 2018
+Call No.: 809 ETH
+Acc. No.: 036685
+
+BIOGRAPHY
+Title: Blue potter: the creative genius of Punjab
+Author: Cour, Ajeet
+Publisher: New Delhi: Aleph Book Company, 2025
+Call No.: 920.05455 COU
+Acc. No.: 036701
+
+ARCHAEOLOGY – HISTORY OF ANCIENT WORLD
+Title: Ethnoarchaeology in action
+Author: David, Nicholas
+Publisher: Cambridge: Cambridge University Press, 2001
+Call No.: 930.1 DAV
+Acc. No.: 036686
+Title: Handbook of Harappan civilisation: recent insights and discoveries
+Author: Prabhakar, V. N.
+Publisher: Switzerland: Springer, 2025
+Call No.: 930.10954 PRA
+Acc. No.: 036699
+Title: Exploring South Asian past: Prof. K. Paddayya Festschrift
+Author: V. Selvakumar (Ed.)
+Publisher: New Delhi: Aryan Books, 2025
+Call No.: 930.10954 SEL
+Acc. No.: 036695

@@ -1,0 +1,40 @@
+Title: Academics
+Source: https://cse.iitgn.ac.in/academics
+
+Computer Science & Engineering
+
+# Academics
+
+Compare degree programmes, find courses, or learn about research visits and student openings. Current admissions requirements and application dates are published by IIT Gandhinagar.
+
+## BTech
+
+Undergraduate programs in CSE, AI, and ICDT
+
+## MTech
+
+Masters and dual-degree programs in CSE, AI, and ICDT
+
+## EMasters
+
+Executive masters programs in data analytics
+
+## PhD
+
+Graduate programs in CSE and AI
+
+## SRIP
+
+Flagship summer internship program
+
+## VSRP
+
+Visiting students semester program
+
+## Student Openings
+
+Internship, JRF and SRF positions
+
+## Courses
+
+Course catalogue and schedules

@@ -1,0 +1,74 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 36, 2026
+(Added during 31st August 2026 – 04th September 2026)
+Available for the issue from 12th September 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+SOCIAL SCIENCES
+Title: Prophecy: prediction, power, and the fight for the future, from ancient
+oracles to AI
+Author: Veliz, Carissa
+Publisher: Great Britain: Swift Press, 2026
+Call No.: 303.49 VEL
+Acc. No.: 037268
+Title: Dalit women and the fullness of life
+Author: Dhanuja, Christina
+Publisher: Gurugram: Viking, 2026
+Call No.: 305.48896 DHA
+Acc. No.: 037274
+
+JAPANESE LANGUAGE
+Title: Fifty sounds
+Author: Barton, Polly
+Publisher: London: Fitzcarraldo Editions, 2025
+Call No.: 495.6 BAR
+Acc. No.: 037267
+
+ECOLOGY
+Title: Wild capital: discovering nature in Delhi
+Author: Sinha, Neha
+Publisher: Gurugram: HarperCollins, 2026
+Call No.: 577.095456 SIN
+Acc. No.: 037273
+
+ELECTRONICS AND MARITIME ENGINEERING
+Title: Developments in renewable energies offshore
+Author: Carlos, Guedes Soares (Ed.)
+Publisher: Leiden: CRC Press, 2020
+Call No.: 621.312134 SOA
+Acc. No.: 037269
+
+Title: Software-defined radio for engineers
+Author: Collins, Travis F.
+Publisher: Norwood: Artech House, 2018
+Call No.: 621.384 COL
+Acc. No.: 037275
+
+Title: Trends in maritime technology and engineering, Vol. 2
+Author: Soares, C. Guedes (Ed.)
+Publisher: Leiden: CRC Press, 2022
+Call No.: 623.87 SOA
+Acc. No.: 037272
+
+Title: Marine navigation and safety of sea transportation: maritime transport &
+shipping
+Author: Weintrit, Adam (Ed.)
+Publisher: Leiden: CRC Press, 2020
+Call No.: 623.893 WEI
+Acc. No.: 037271
+Title: Handbook of oil and gas piping: a practical and comprehensive guide
+Author: Sambasivan, Murali
+Publisher: Leiden: CRC Press, 2020
+Call No.: 665.544 SAM
+Acc. No.: 037270

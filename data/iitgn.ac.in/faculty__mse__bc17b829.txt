@@ -1,0 +1,205 @@
+Title: IIT Gandhinagar | Materials Engineering
+Source: https://iitgn.ac.in/faculty/mse
+
+# Materials Engineering
+
+##### Back to Faculty
+
+#### Abhay Raj Singh Gautam
+
+PhD (University of Virginia)
+Associate Professor
+ Interface structure and dynamics
+
+## Research Interests
+
+- Interface structure and dynamics
+
+#### Abhijit Mishra
+
+PhD (University of Illinois at Urbana Champaign)
+Professor
+ Peptide-lipid interactions, Design of antimicrobial peptides
+
+## Research Interests
+
+- Peptide-lipid interactions
+- Design of antimicrobial peptides
+- Antibacterial coatings
+- Cell-penetrating peptides
+
+#### Amit Arora
+
+PhD (The Pennsylvania State University)
+Associate Professor
+ Numerical Modeling of Additive Manufacturing
+
+## Research Interests
+
+- Numerical Modeling of Additive Manufacturing
+- Modeling of Joining Processes
+- Friction Stir Welding and Processing
+- Corrosion Studies of Surface Composites
+- Aluminum Metal Matrix Composites
+
+#### Anagh Bhaumik
+
+PhD (North Carolina State University)
+Assistant Professor
+ Structure-property correlations of doped carbon-based and 2D materials
+
+## Research Interests
+
+- Synthesizing and characterizing carbon-based nanomaterials and 2D thin films by using highly non-equilibrium techniques and utilizing these novel materials to manufacture multifunctional electronic devices ranging from solar cells, ferroelectrics, nano-bio sensors to qubits for quantum computing.
+
+#### Avinash Hariharan
+
+PhD (Max Planck Institute for Iron Research and Ruhr University Bochum)
+Assistant Professor
+ Sustainable Manufacturing and Circular Metallurgy, Additive Manufacturing (3D printing)
+
+## Research Interests
+
+- Sustainable Manufacturing and Circular Metallurgy
+- Additive Manufacturing (3D printing)
+- Microstructure and Metal Physics
+- Alloy design (Superalloys, Steels, Ti-, Cu-, Al-based alloy systems)
+- Advanced Microscopy
+
+#### Emila Panda
+
+PhD (Max Planck Institute for Metals Research and University of Stuttgart)
+Professor
+ Transparent conducting oxides
+
+## Research Interests
+
+- Transparent conducting oxides
+- Thin film solar cells
+- Interface thermodynamics
+
+#### Gopinadhan Kalon
+
+PhD (IIT Delhi)
+Kanchan and Harilal Doshi Chair Associate Professor
+(Jointly with Materials Engineering department)
+ Experimental (soft) condensed matter physics
+
+## Research Interests
+
+- Experimental (soft) condensed matter physics
+- Graphene based nanofluidics/desalination techniques
+- Ion/Proton transport through confined structures
+- Device functionalities utilizing surface and interface physics
+- Two-dimensional heterostructures
+
+#### Pradipta Ghosh
+
+PhD (IISc Bangalore)
+Assistant Professor
+ Microstructure characterization of nanocrystalline materials
+
+## Research Interests
+
+- Synthesis of nanocrystalline metals alloys and composites by severe plastic deformation techniques such as high pressure torsion, rolling and rotary swaging
+- Microstructure characterization of nanocrystalline materials with SEM, TEM, EBSD, X-ray diffraction techniques
+- Characterization of deformation mechanisms in nanocrystalline materials with in-situ synchrotron experiments
+- Characterization of thermal and deformation induced instabilities in nanocrystalline materials
+
+#### Prafull Pandey
+
+PhD (IISC Bangalore)
+Assistant Professor
+ Physical Metallurgy, Phase Transformations, Alloy Design, High Temperature Alloys, Superalloys , Al alloys, Cu alloys, Superelastic Alloys
+
+## Research Interests
+
+- Physical Metallurgy
+- Phase Transformations
+- Alloy Design
+- High Temperature Alloys,
+- Superalloys
+- Al alloys
+- Cu alloys
+- Superelastic Alloys
+- Transmission Electron Microscopy
+- Deformation Mechanism
+
+#### Raghavan Ranganathan
+
+PhD (Rensselaer Polytechnic Institute)
+Associate Professor
+ Atomistic/Molecular simulations of structure-property relations
+
+## Research Interests
+
+- Atomistic/Molecular simulations of structure-property relations (mechanical, thermal and dynamic properties)
+- Dynamics of soft matter including polymer blends and nanocomposites
+- Viscoelasticity of hard inorganic materials and composites
+- Thermodynamics and kinetics of phase transformations in materials
+- Modeling reactive processes in materials subjected to extreme conditions
+
+#### Satyakam Kar
+
+PhD (Leibniz IFW Dresden and Dresden University of Technology)
+Assistant Professor
+ Ferroic Materials,Multiferroics,Thermoelectrics,Caloric Materials,Catalysis
+
+## Research Interests
+
+- Ferroic Materials
+- Multiferroics
+- Thermoelectrics
+- Caloric Materials
+- Catalysis
+
+#### Sesha Sai Behara
+
+PhD (University of California Santa Barbara)
+Assistant Professor
+ Energy and Magnetic Materials, First-Principles based Thermodynamic and Kinetic Modeling, Computational Method Development and Machine Learning
+
+## Research Interests
+
+- Energy and Magnetic Materials
+- First-Principles based Thermodynamic and Kinetic Modeling
+- Computational Method Development and Machine Learning
+
+#### S.P. Mehrotra
+
+PhD (IIT Kanpur)
+Visiting Professor
+ Mineral processing and process metallurgy, Transport phenomena
+
+## Research Interests
+
+- Mineral processing and process metallurgy
+- Transport phenomena
+- Mathematical modelling & simulation
+- Process design and development
+- Process control in mineral processing and extractive metallurgy
+
+#### Sriharitha Rowthu
+
+PhD (École polytechnique fédérale de Lausanne)
+Assistant Professor
+ Wetting and dewetting phenomena
+
+## Research Interests
+
+- Wetting and dewetting phenomena
+- Soft lithography
+- Colloidal processing
+- Tribology
+- Catalysis for corrosion protection
+
+#### Superb Kumar Misra
+
+PhD (Imperial College London)
+Jibaben Patel Chair Professor
+ Biomaterials and tissue engineering, Nanomaterials
+
+## Research Interests
+
+- Biomaterials and tissue engineering
+- Nanomaterials

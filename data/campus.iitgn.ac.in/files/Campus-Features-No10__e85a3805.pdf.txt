@@ -1,0 +1,12 @@
+#flags:
+
+Campus Features – Fibre Optic Backbone
+
+IIT Gandhinagar
+
+Date: 20-03-2017
+
+The entire campus IT services and ELV services are built upon a fibre-optic cable system referred to as the fibre-optic backbone. The fibreoptic backbone not only ensures blazing fast internet access, but also serves as a single network onto which all other services such as IP
+Telephony, CCTV and Security System, Fire Alarm System, Access Control System, a state-of-art Building Management System can plug
+into. The fibre-optic backbone thus forms the foundation of a Smart Campus and future IT services can plug into the same framework.
+No. 10

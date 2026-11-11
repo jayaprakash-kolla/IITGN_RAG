@@ -1,0 +1,199 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 20, 2026
+(Added during 11th May – 15th May 2026)
+Available for the issue from 22nd May 2026
+Where are these books?
+New Addition Books are displayed near the Library Infromation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+Computer Science
+Title: Turning points in the analog and digital world
+Author: Bruderer, Herbert
+Publisher: London: Association for Computing Machinery, 2025
+Call No.: 004.09 BRU
+Acc. No.: 036971
+
+Psychology
+Title: Laws of thought: the quest for a mathematical theory of the
+mind
+Author: Griffiths, Tom
+Publisher: London: William Collins, 2026
+Call No.: 153 GRI
+Acc. No.: 036972
+
+Economics
+Title: Woods, mines and minds: politics of survival in Jalpaiguri and
+the jungle Mahals, 1860-1970
+Author: Ahmed, Sahara
+Publisher: Delhi: Primus Books, 2019
+Call No.: 333.750954 AHM
+Acc. No.: 036967
+Title: Environmental economics for tree huggers and other skeptics
+Author: Jaeger, William K.
+Publisher: Washington: Island Press, 2005
+Call No.: 338.927 JAE
+Acc. No.: 036982
+
+Social Problem & Services
+Title: Slow burn: the hidden costs of a warming world
+Author: Park, R. Jisung
+Publisher: New Jersey: Princeton University Press, 2025
+Call No.: 363.7 PAR
+Acc. No.: 036963
+
+Japanese Language
+Title: Japanese kanji mnemonics JLPT N5: 103 Kanji used in the
+Japanese language exam N5
+Author: Jimenez, Lindsay Tatiana
+Publisher: USA: Japanese Kanji Mnemonics JLPT N5, 2019
+Call No.: 495.6 JIM
+Acc. No.: 036976
+
+Science
+Title: ‘Culture’ of science and the making of modern India
+Author: Kumar, Deepak
+Publisher: Delhi: Primus Books, 2023
+Call No.: 509.54 KUM
+Acc. No.: 036965
+
+Mathematics
+Title: Proof and the art of mathematics
+Author: Hamkins, Joel David
+Publisher: Cambridge: MIT Press, 2020
+Call No.: 511.3 HAM
+Acc. No.: 036968
+
+Title: Beyond weird: why everything you thought you knew about
+quantum physics is different
+Author: Ball, Philip
+Publisher: Chicago: University of Chicago Press, 2020
+Call No.: 530.12 BAL
+Acc. No.: 036964
+
+Biology
+Title: Evolutionary biology: genome evolution, speciation,
+coevolution and origin of life
+Author: Pontarotti, Pierre (Ed.)
+Publisher: Cham: Springer, 2014
+Call No.: 576.8 PON
+Acc. No.: 036980
+
+Medicine & Health
+
+Title: Human genome in health and disease: a story of four letters
+Author: Samuelsson, Tore
+Publisher: Boca Raton: Garland Science, 2019
+Call No.: 611.0181663 SAM
+Acc. No.: 036979
+
+Title: Pharmaceutical process validation: an international
+Author: Nash, Robert A. (Ed.)
+Publisher: New York: CRC Press, 2025
+Call No.: 615.10685 NAS
+Acc. No.: 036970
+
+Agriculture
+Title: Tilling the land: agricultural knowledge and practices in colonial
+India
+Author: Kumar, Deepak (Ed.)
+Publisher: Delhi: Primus Books, 2016
+Call No.: 630.954 KUM
+Acc. No.: 036966
+
+Management
+Title: Ideaflow: why creative businesses win
+Author: Utley, Jeremy
+Publisher: London: Ebury Publishing, 2022
+Call No.: 658.4063 UTL
+Acc. No.: 036981
+
+Arts & Recreations
+Title: Visual language
+Author: Cohen, David
+Publisher: London: Bloomsbury Visual Arts, 2021
+Call No.: 701.8 COH
+Acc. No.: 036969
+
+Comics
+Title: Batman: the killing joke
+Author: Moore, Alan
+Publisher: Beauceville: DC Comics, 2019
+Call No.: 741.5973 MOO
+Acc. No.: 036975
+
+Literature
+Title: Pretenders
+Author: Singh, Avtar
+Publisher: New Delhi: Simon & Schuster India, 2025
+Call No.: 823.92 SIN
+Acc. No.: 036977
+
+Title: Anxious people: a novel
+Author: Backman, Fredrik
+Publisher: London: Atria Books, 2021
+Call No.: 839.738 BAC
+Acc. No.: 036974
+
+Title: Things my son needs to know about the world
+Author: Backman, Fredrik
+Publisher: Dublin: Penguin Books, 2021
+Call No.: 839.738 BAC
+Acc. No.: 036978
+
+History
+Title: Brief history of Japan
+Author: Clements, Jonathan
+Publisher: Tokyo: Tuttle Publishing, 2017
+Call No.: 952 CLE
+Acc. No.: 036973
+
+Children’s Collection
+Title: Ganesh Haloi: colours of home
+Author: Lall, Likla
+Publisher: Navi Mumbai: art1st Enterprises, 2025
+Call No.: 759.954 LAL
+Acc. No.: CC2269
+Title: La Belle sauvage: the book of dust, vol.1
+Author: Pullman, Philip
+Publisher: London: Penguin and David Fickling Books, 2017
+Call No.: 823.92 PUL
+Acc. No.: CC2277
+
+Title: Secret commonwealth: the book of dust, vol. 2
+Author: Pullman, Philip
+Publisher: London: Penguin and David Fickling Books, 2020
+Call No.: 823.92 PUL
+Acc. No.: CC2278
+
+Title: Rose field: the book of dust, vol. 3
+Author: Pullman, Philip
+Publisher: London: Penguin and David Fickling Books, 2025
+Call No.: 823.92 PUL
+Acc. No.: CC2279
+
+Title: Impossible creatures: the poisoned king
+Author: Rundell, Katherine
+Publisher: London: Bloomsbury Children's Books, 2025
+Call No.: 823.92 RUN
+Acc. No.: CC2273
+
+Title: Song of the Asunam
+Author: Salamander, C.G.
+Publisher: Gurugram: HarperCollins, 2025
+Call No.: 823.92 SAL
+Acc. No.: CC2276
+
+Title: Giants
+Author: Sumi, Huthuka
+Publisher: Gurugram: HarperCollins Publishers, 2025
+Call No.: 823.92 SUM
+Acc. No.: CC2271

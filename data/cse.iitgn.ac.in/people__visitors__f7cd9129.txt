@@ -1,0 +1,466 @@
+Title: Visitors
+Source: https://cse.iitgn.ac.in/people/visitors
+
+People
+
+# Visitors
+
+ Seminar speakers and research visitors, including online talks.
+
+ 39 visits and talks
+
+Date
+Visitor
+Talk
+
+10 Sep 2026
+
+### Dr. Vineeth Chintala
+
+Forbidden Structures; Two Landmarks in Graph Colouring
+
+9 Sep 2026
+
+### Mr. Ambarish Ojha
+
+Data Centers: The Factories of the Digital Age
+
+27 Aug 2026
+
+### Dr. Ranjani Krishnan
+
+ Vikram Sarabhai Space Centre, ISRO
+
+Invited talk: verification of safety-critical software
+
+20 Aug 2026
+
+### Mr. Arnav Gupta
+
+ Meta
+
+From Inside-Out to Outside-In Learning in the age of LLMs and AGI
+
+30 Jul 2026
+
+### Dr. Mainack Mondal
+
+ IIT Kharagpur
+
+Trust: Built, Broken, Repaired
+
+10 Jun 2026
+
+### Prof. L. Sunil Chandran
+
+ Indian Institute of Science, Bangalore
+
+Graph Theory in Quantum Physics!
+
+25 May 2026
+
+### Prateek Verma
+
+ Stanford
+
+Full Stack LLM Improvements - From Input Representations to Internal Circuits to Test-Time Scaling
+
+13 May 2026
+
+### Dr. Rijoy Mukherjee
+
+ Synopsys
+
+Intelligent Electronic Design Automation for Hardware Security
+
+11 May 2026
+
+### Dr. Ishaan Batta
+
+ Georgia State University TReNDS
+
+Learning Assessment-Aware Brain Representations from Multimodal Neuroimaging Data
+
+24 Apr 2026
+
+### Prof. Nishad Kothari
+
+ IIT Madras
+
+Investigating Solitude in 2-Connected 3-Regular Graphs, and in R-Graphs, Through the Lens of CLM's Dependence Relation
+
+14 Apr 2026Online talk
+
+### Dr. Anindita Maiti
+
+ Perimeter Institute for Theoretical Physics
+
+Physics for AI/ML Robustness, Interpretability, and Uncertainty Quantification
+
+7 Apr 2026Online talk
+
+### Aditya Subramanian
+
+ IISc Bangalore
+
+Online Connectivity Augmentation
+
+1 Apr 2026
+
+### Prof. Devashree Tripathy
+
+ IIT Bhubaneswar
+
+AI Infrastructure: Optimizing LLM for Efficiency and Scalability
+
+27 Mar 2026
+
+### Dr. S. VenkataKeerthy
+
+ Microsoft Research India / IIT Hyderabad
+
+ML4Code: Learning to Represent, Optimize, and Understand Programs
+
+25 Mar 2026
+
+### Dr. Anik Paul
+
+ IISc Bangalore
+
+Almost Sure Convergence Analysis of Stochastic First and Zeroth-Order Mirror Descent Algorithm: A Projected Dynamical Systems Viewpoint
+
+24 Mar 2026
+
+### Aditya Anand
+
+ IIT Bombay
+
+Precision without Regret: Sound and Efficient Memory Optimization in Managed Runtimes
+
+23 Mar 2026
+
+### Dr. Utsav Singh
+
+ IIT Kanpur / University of Central Florida
+
+Learning Hierarchical Control via Feasible Subgoal Prediction
+
+19 Mar 2026Online talk
+
+### Lakshay Saggi
+
+ IIT Delhi
+
+Efficient Algorithms for the Disjoint Shortest Paths Problem and Its Extensions
+
+13 Mar 2026
+
+### Dr. Janki Bhimani
+
+ Florida International University
+
+Advancing System Design: Classical and Quantum
+
+13 Mar 2026
+
+### Prof. Venkatesh Raman
+
+ Institute of Mathematical Sciences, Chennai
+
+(N)SETH and Fine-Grained Lower Bounds
+
+12 Mar 2026
+
+### Prof. Rajeev Shorey
+
+ IIIT Surat / IIT Delhi / IIT Gandhinagar
+
+Recent Investigations in the Intersection of ML and Edge Computing
+
+2 Mar 2026
+
+### Dr. Ashwin Verma
+
+ Purdue University
+
+Distributed Learning under Adaptive Information Constraints
+
+23 Feb 2026
+
+### Dr. Parth Paritosh
+
+ DEVCOM Army Research Laboratory
+
+Scalable & Trustworthy Inference in Networked Mission Critical Systems
+
+20 Feb 2026
+
+### Dr. Tameesh Suri
+
+ NVIDIA
+
+Enabling the Next 1000x in AI: Co-Design from Materials to Systems
+
+19 Feb 2026
+
+### Dr. Biswabandan Panda
+
+ IIT Bombay
+
+Architecture Security: The Good, the Bad, and the Ugly
+
+19 Feb 2026
+
+### Dr. Vaibhav Krishan
+
+ Institute of Mathematical Sciences, Chennai
+
+Frontiers in Boolean Circuit Lower Bounds
+
+19 Feb 2026Online talk
+
+### Sneha Mohanty
+
+ University of Freiburg
+
+How Pinball Wizards Simulate a Turing Machine
+
+18 Feb 2026
+
+### Dr. Biswabandan Panda
+
+ IIT Bombay
+
+Microarchitecture Mysteries in Datacenter Processors
+
+18 Feb 2026
+
+### Dr. Niket Tandon
+
+ Microsoft Research
+
+ Building language models that learn, remember and reason
+
+12 Feb 2026
+
+### Dr. Samarth Brahmabhatt
+
+ Overland AI
+
+Robotic Manipulation for Advanced Manufacturing
+
+11 Feb 2026Online talk
+
+### Akhil S.
+
+ IIT Kanpur
+
+Algorithmic Information Theory: Some History and Some Recent Developments
+
+9 Feb 2026
+
+### Dr. Ajay Singh
+
+ ICS FORTH / University of Waterloo
+
+High Performance Memory Reclamation in Concurrent Data Structures
+
+6 Feb 2026
+
+### Dr. Utkarsh Mall
+
+ MBZUAI
+
+Visual Discovery for Science
+
+2 Feb 2026
+
+### Dr. Lakshmi Mandal
+
+ IBM Research
+
+Multi-Timescale and Multi-Agent Reinforcement Learning Algorithms
+
+29 Jan 2026
+
+### Dr. Nisarg Shah
+
+ University of Toronto
+
+Democratic Foundations of Fair AI via Social Choice
+
+19 Jan 2026Online talk
+
+### Dr. Adithya Kumar
+
+ Meta FAIR
+
+Designing System Software in the Era of Heterogeneity
+
+9 Jan 2026
+
+### Ambarish Ojha
+
+ Actyv.ai
+
+AI in Regulated Worlds: How to Build Systems That Banks and Boards Can Trust
+
+8 Jan 2026
+
+### Prof. Harsh Parikh
+
+ Yale University
+
+Regularizing Extrapolation in Causal Inference
+
+5 Jan 2026
+
+### Dr. Soumyajit Chatterjee
+
+ Brave Software Research / University of Cambridge
+
+Bringing Intelligence to the Edge: Resolving Challenges of Labeling and Collecting Information at the Edge
+
+## 2025
+
+ 17 visits and talks
+
+Date
+Visitor
+Talk
+
+1 Dec 2025
+
+### Dr. Naresh Manwani
+
+ IIIT Hyderabad
+
+ Trustworthy Graph Learning: Integrating Abstention in Static and Dynamic GNNs
+
+1 Dec 2025
+
+### Dr. Sujit Gujar
+
+ IIIT Hyderabad
+
+ Fair distribution of MEV in blockchains through Shapley Value
+
+27 Nov 2025
+
+### Dr. Arkaprava Basu
+
+ IISc
+
+ Improving the Quality of GPU-accelerated Software
+
+25 Nov 2025
+
+### Dr. Dagash Mehta
+
+ Blackrock Inc.
+
+ Similarity Learning in Finance
+
+21 Aug 2025
+
+### Mr. Anup Kalbalia
+
+ Justuju
+
+ Rethinking CS101 with Flowcharts in the age of AI
+
+13 Aug 2025
+
+### Mr. Sushim Shrivastava
+
+ Qualcomm
+
+ Challenges of Deploying AI at the Edge
+
+12 Aug 2025
+
+### Mr. Shreyas Gupta
+
+ IISc
+
+ Secure Vickrey Auctions with Rational Parties
+
+4 Jul 2025
+
+### Mr. Aditya Subramaniam
+
+ IISc
+
+ Online and Dynamic Geometric Set Cover
+
+21 Apr 2025
+
+### Prof. John Augustine
+
+ IIT Madras
+
+ Foundations of Distributed Trust and Blockchain Oracle Networks
+
+11 Apr 2025
+
+### Dr. Indrajit Bhattacharya
+
+ KnowDis.AI
+
+ Knowledge Base Question Answering in the Age of LLMs
+
+2 Apr 2025
+
+### Dr. Mythili Vutukuru
+
+ IIT Bombay
+
+ Understanding the internals of the Linux network stack
+
+21 Mar 2025
+
+### Dr. Pankaj Thorat
+
+ IBM Research
+
+ Code Data Profiler - A Customizable Concept-Driven Data Analysis Tool For Multi-Lingual Code Data Sets
+
+21 Mar 2025
+
+### Prof. Arpita Patra
+
+ IISc
+
+ Secure Multi-party Computation: The holy grail of Cryptography
+
+4 Mar 2025
+
+### Dr. K. C. Sivaramakrishnan
+
+ IIT Madras
+
+ Concurrent and Parallel Programming with OCaml 5
+
+13 Feb 2025
+
+### Mr. Pratheek B
+
+ IISc
+
+ Improving Memory Management in GPGPUs
+
+5 Feb 2025
+
+### Dr. Sri AravindaKrishnan Thyagarajan
+
+ University of Sydney
+
+ Cryptography Meets Game Theory: A Match For Fair Exchange
+
+21 Jan 2025
+
+### Dr. Biswabandan Panda
+
+ IIT Bombay
+
+ Pushing the Limits of Hardware Prefetchers for Performance, Energy, Scalability, and Security; One Step at a Time

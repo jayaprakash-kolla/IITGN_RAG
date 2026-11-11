@@ -1,0 +1,572 @@
+#flags:
+
+Medal/Award(s) Recipients Details: Ninth Convocation (2020)
+Sr.
+No.
+
+Award Category
+
+Name of Awardee
+
+Roll No.
+
+1.
+
+President’s Gold Medal, B.Tech
+
+Atishay Jain
+
+16110024
+
+2.
+
+President’s Gold Medal, M.Tech
+
+18210015
+
+3.
+
+President’s Gold Medal, MSc and MA
+
+18510073
+
+Cognitive Science
+
+4.
+
+16110043
+
+Civil Engineering
+
+Khili Khamesra
+
+16110077
+
+Chemical Engineering
+
+Atishay Jain
+
+16110024
+
+Computer Science and
+Engineering
+
+Shubhranshu Singh
+
+16110154
+
+Electrical Engineering
+
+Rahil Sanwla
+
+16110124
+
+Mechanical Engineering
+
+Ayan Rakshit
+
+16110025
+
+Materials Science and
+Engineering
+
+Chinmaya Panda
+
+18210023
+
+Biological Engineering
+
+Shalinee Bharat
+
+18250030
+
+Civil Engineering
+
+Vishesh Sharma
+
+18210096
+
+Chemical Engineering
+
+Sonawane Dhananjay
+Kishor Varsha
+
+18210030
+
+Computer Science and
+Engineering
+
+Ashish Tiwari
+
+18210015
+
+Electrical Engineering
+
+Jadhav Sayali Nitin
+
+18210077
+
+Mechanical Engineering
+
+Ankit Jaiswal
+
+18210008
+
+Materials Science and
+Engineering
+
+18510073
+
+Cognitive Science
+
+18.
+19.
+
+Institute Gold Medal - Civil Engineering,
+B.Tech
+Institute Gold Medal - Chemical Engineering,
+B.Tech
+Institute Gold Medal – Computer Science and
+Engineering, B.Tech
+Institute Gold Medal - Electrical Engineering,
+B.Tech
+Institute Gold Medal - Mechanical
+Engineering, B.Tech
+Institute Gold Medal - Materials Science and
+Engineering, B.Tech
+Institute Gold Medal – Biological Engineering,
+M.Tech
+Institute Gold Medal – Civil Engineering,
+M.Tech
+Institute Gold Medal – Chemical Engineering,
+M.Tech
+Institute Gold Medal – Computer Science and
+Engineering, M.Tech
+Institute Gold Medal – Electrical Engineering,
+M.Tech
+Institute Gold Medal – Mechanical
+Engineering, M.Tech
+Institute Gold Medal – Materials Science and
+Engineering, M.Tech
+Institute Gold Medal – Cognitive Science,
+MSc
+Institute Gold Medal – Chemistry, MSc
+Institute Gold Medal – Mathematics, MSc
+
+Ashish Tiwari
+Samruddhi Rajesh
+Damle
+Chinmay Girish
+Kulkarni
+
+Computer Science and
+Engineering
+Electrical Engineering
+
+18510041
+18510036
+
+Chemistry
+Mathematics
+
+20.
+
+Institute Gold Medal – Physics, MSc
+
+Adesh Kushwaha
+
+18510003
+
+Physics
+
+21.
+
+Institute Gold Medal – MA
+Institute Silver Medal - Civil Engineering,
+B.Tech
+Institute Silver Medal - Chemical Engineering,
+B.Tech
+Institute Silver Medal – Computer Science and
+Engineering, B.Tech
+Institute Silver Medal - Electrical Engineering,
+B.Tech
+Institute Silver Medal - Mechanical
+Engineering, B.Tech
+Institute Silver Medal - Materials Science and
+Engineering, B.Tech
+Institute Silver Medal – Computer Science and
+Engineering, M. Tech
+Institute Silver Medal – Electrical Engineering,
+M.Tech
+
+Zaphya Jena
+
+18520025
+
+Society & Culture
+
+Animesh Rastogi
+
+16110012
+
+Civil Engineering
+
+Raman
+
+16110131
+
+Chemical Engineering
+
+Ayush Garg
+
+16110026
+
+Computer Science and
+Engineering
+
+Abhinav Narayan
+Harish
+
+16110002
+
+Electrical Engineering
+
+Ashar Akhil Parag
+
+16110023
+
+Mechanical Engineering
+
+Varri Venkata Sai
+Akhil
+
+16110172
+
+Roop Choudhuri
+
+18210071
+
+Deepesh Agarwal
+
+18250010
+
+Electrical Engineering
+
+Institute Silver Medal – Mathematics, MSc
+
+Mihir Vilas Deo
+
+18510021
+
+Mathematics
+
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+
+Samruddhi Rajesh
+Damle
+Mansi Porwal
+Kuntal Banerjee
+
+Branch
+
+Materials Science and
+Engineering
+Computer Science and
+Engineering
+
+Page 1 of 2
+
+Sr.
+No.
+
+Award Category
+
+Name of Awardee
+
+Roll No.
+
+Branch
+
+31.
+
+Institute Silver Medal – Physics, MSc
+
+Sneha Yadav
+
+18510081
+
+Physics
+
+32.
+
+Institute Silver Medal – MA
+
+Punya Lokesh Suri
+
+18520015
+
+Society & Culture
+
+33.
+
+Director's Gold Medal, B.Tech
+
+Animesh Rastogi
+
+16110012
+
+Civil Engineering
+
+34.
+35.
+36.
+
+Director's Gold Medal, M.Tech
+Director's Gold Medal, PhD
+Director's Gold Medal, MSc and MA
+Director's Silver Medal - Civil Engineering,
+B.Tech
+Director's Silver Medal - Chemical
+Engineering, B.Tech
+Director's Silver Medal – Computer Science
+and Engineering, B.Tech
+Director's Silver Medal - Electrical
+Engineering, B.Tech
+Director's Silver Medal - Mechanical
+Engineering, B.Tech
+
+Ashish Tiwari
+Dwaipayan Ray
+Vasundhara Krishnan
+
+18210015
+14350004
+18520024
+
+Electrical Engineering
+Electrical Engineering
+Society & Culture
+
+Sahil Jain
+
+16110144
+
+Civil Engineering
+
+Ritik Jain
+
+16110139
+
+Chemical Engineering
+
+S Vinu Sankar
+
+16110143
+
+Computer Science and
+Engineering
+
+16110011
+
+Electrical Engineering
+
+16110164
+
+Mechanical Engineering
+
+Anushikha
+
+16110019
+
+Materials Science and
+Engineering
+
+37.
+38.
+39.
+40.
+41.
+
+Amit Kumar Singh
+Yadav
+Surve Sushrut
+Sudarshan
+
+42.
+
+Director's Silver Medal - Materials Science
+and Engineering, B.Tech
+
+43.
+44.
+
+Award for Outstanding Innovation
+Award for Outstanding Social Service
+Award for Integrity and Exemplary Human
+Qualities
+
+Sanjay Kumar
+Mayank Kumar
+
+14310001
+16110090
+
+Biological Engineering
+Civil Engineering
+
+Bhumika Sandilya
+
+16110033
+
+Chemical Engineering
+
+46.
+
+Award for the Outstanding Research (B.Tech)
+
+Naman Jain
+
+16110100
+
+47.
+48.
+
+Award for the Outstanding Research (M.Tech)
+Award for the Outstanding Research (PhD)
+Award for the Outstanding Research (MSc and
+MA)
+Award for Outstanding Performance in
+Athletics
+Award for Outstanding Performance in
+aquatics
+Awards for Outstanding Performance in Arts
+and Culture
+Pioneer Batch Award for Outstanding
+Leadership
+Award for the best performance in the core
+courses of Engineering Graphics, and
+Manufacturing and Workshop Practice
+Award for the best performance in the core
+courses of Mathematics
+Award for the best performance in the core
+courses of Physics, Chemistry and Life
+Sciences
+Award for the best overall performance in the
+core courses of Humanities and Social
+Sciences
+Award for outstanding performance in the
+courses of Humanities and Social Sciences
+
+Krishna Kumar
+Bhoir Mandar Suresh
+
+18210043
+13210024
+
+Computer Science and
+Engineering
+Electrical Engineering
+Electrical Engineering
+
+Monika
+
+18510044
+
+Chemistry
+
+Julianna Rex
+
+16510001
+
+Earth System Science
+
+Dwaipayan Ray
+
+14350004
+
+Electrical Engineering
+
+Akshat Bansal
+
+16110008
+
+Mechanical Engineering
+
+Kshitij Sendre
+
+16110082
+
+Mechanical Engineering
+
+Ayush Garg
+
+16110026
+
+Computer Science and
+Engineering
+
+Ayush Garg
+
+16110026
+
+Computer Science and
+Engineering
+
+S Deepak Narayanan
+
+16110142
+
+Computer Science and
+Engineering
+
+Ayan Rakshit
+
+16110025
+
+Materials Science and
+Engineering
+
+Nitiksha
+
+16110103
+
+Computer Science and
+Engineering
+
+45.
+
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+
+57.
+58.
+
+Page 2 of 2

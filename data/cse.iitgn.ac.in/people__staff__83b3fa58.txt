@@ -1,0 +1,21 @@
+Title: Staff
+Source: https://cse.iitgn.ac.in/people/staff
+
+People
+
+# Staff
+
+ Technical staff supporting the CSE department labs and operations.
+
+## Dr. Supin Gopi
+
+ Assistant Manager (Technical)
+
+Email: [email protected]
+
+## Mr. Dinesh B. Desai
+
+ Junior Laboratory Assistant
+
+Email: [email protected]
+Office: 4/307

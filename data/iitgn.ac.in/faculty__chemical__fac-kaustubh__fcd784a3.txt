@@ -1,0 +1,40 @@
+Title: IIT Gandhinagar | Kaustubh Sunil Rane
+Source: https://iitgn.ac.in/faculty/chemical/fac-kaustubh
+
+# Kaustubh Sunil Rane
+
+-  Chemical Engineering
+Kaustubh Sunil Rane
+
+## Kaustubh Sunil Rane
+
+Associate Professor, Chemical Engineering
+
+- BTech: Institute of Chemical Technology, Mumbai, 2009
+- PhD: University at Buffalo, 2014
+
+Email: kaustubhrane -AT- iitgn.ac.in
+
+ Website :  http://kaustubhrane.people.iitgn.ac.in/wp
+
+Office:  AB 5/321
+VOIP:  2524
+
+- Spontaneous translation of nanodroplet over a heterogeneous surface due to thermal cycles: role of solid–liquid interfacial fluctuations, doi: 10.1080/00268976.2019.1657191
+- Using isothermal-isobaric Monte Carlo simulation to study the wetting behavior of model systems, doi: 10.1063/1.5089416
+- Transverse correlations near solid-liquid interface: Influence of the crystal structure of solid, doi: 10.1016/j.chemphys.2018.10.017
+- Fluctuations and adsorption at liquid--vapor interfaces, doi: 10.1016/B978-0-12-813641-6.00003-0
+- Using Grand Canonical Monte Carlo Simulations to Understand the Role of Interfacial Fluctuations on Solvation at the Water–Vapor Interface, doi: 10.1021/acs.jpcb.6b05237
+- Understanding the influence of capillary waves on solvation at the liquid-vapor interface, doi: 10.1063/1.4943781
+- Evaluation of the performance of GAFF and CGenFF in the prediction of liquid-vapor saturation properties of naphthalene derivatives, doi: 10.1021/ie503346m
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Sep 2023 to Present)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (July 2016 to Sep 2023)
+- Alexander von Humboldt Fellow, Technical University of Darmstadt (2015 - 2016)
+- Post-doctoral research associate, Technical University of Darmstadt (2014 - 2015)
+
+- ● Interfacial phenomena at solid-fluid and fluid-fluid interfaces
+- ● Thermodynamics and statistical mechanics
+- ● Molecular simulations
+
+Complete List of Publications

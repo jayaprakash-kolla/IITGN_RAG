@@ -1,0 +1,62 @@
+Title: IIT Gandhinagar | Shouvick Mondal
+Source: https://iitgn.ac.in/faculty/cse/fac-shouvick
+
+# Shouvick Mondal
+
+-  Computer Science & Engineering
+Shouvick Mondal
+
+## Shouvick Mondal
+
+Assistant Professor, Computer Science and Engineering
+
+- B.Tech.: West Bengal University of Technology, 2014
+- M.Tech.: Indian Institute of Engineering Science and Technology, Shibpur, 2016
+- Ph.D.: Indian Institute of Technology Madras, 2021
+
+Email: shouvick.mondal -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/view/shouvick
+
+Office:  AB 13/402A
+VOIP:  2608
+
+Zeyang Ma, Shouvick Mondal, Tse Hsun Chen, Haoxiang Zhang, Ahmed E. Hassan, VulNet: Towards Improving Vulnerability Management in the Maven Ecosystem, Empirical Software Engineering (EMSE) Journal (CORE Rank: A, IF: 4.457), January 2024 (2024).
+
+Sai Krishna Avula, Venkatesh Vobbilisetti, Shouvick Mondal, Minecraft: Automated Mining of Software Bug Fixes with Precise Code Context, 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), (CORE Rank: A*), 11 pages, September 2023.
+ DOI: https://doi.org/10.1109/ASE56229.2023.00116
+
+Shouvick Mondal, Denini Silva and Marcelo d’Amorim, Soundy Automated Parallelization of Test Execution, IEEE International Conference on Software Maintenance and Evolution (ICSME), (CORE Rank: A), p. 309-319, Luxembourg City, Luxembourg, September 2021.
+ DOI: https://doi.org/10.1109/ICSME52107.2021.00034
+
+Shouvick Mondal, and Rupesh Nasre, Colosseum: Regression Test Prioritization by Delta Displacement in Test Coverage, IEEE Transactions on Software Engineering (TSE), (CORE Rank: A*, Impact Factor: 9.322), p. 1–1, (Early Access), September 2021.
+ DOI: https://doi.org/10.1109/TSE.2021.3111169
+
+Shouvick Mondal, and Rupesh Nasre, Hansie: Hybrid and consensus regression test prioritization, Journal of Systems and Software, (CORE Rank: A, Impact Factor: 3.514), p. 110850, vol. 172, February 2021.
+ DOI: https://doi.org/10.1016/j.jss.2020.110850
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Feb 2023 to present)
+- Post-doctoral Researcher, Concordia University, Montreal, Canada (Aug 2021 - Jan 2023)
+- Post-doctoral Researcher (Voluntary), Universidade Federal de Pernambuco, Recife, Brazil (Mar 2021 - Jun 2021)
+
+Awards
+
+- Excellence-in-Research Fellowship at IIT Gandhinagar (February 2023)
+- New Faculty Start-up Grant at IIT Gandhinagar (February 2023)
+- Horizon Post-Doctoral Fellowship (2 years) (CSSE) from Concordia University, Montreal (since 02/11/2021)
+- IBM Best Ph.D. Thesis Honorable Mention (declared on 15/07/2021)
+- Institute Research Award (on recognition of quality and quantity of research work done during July-Nov 2020) at IIT Madras (awarded on 10/06/2021)
+- ISOFT Member (since 04/07/2020)
+- ACM Member (since 04/07/2020)
+- IEEE Member (since 06/02/2020)
+- Erdős number: 4 (Paul Erdős --> David M. Avis --> Binay Kumar Bhattacharya --> Arindam Biswas --> Shouvick Mondal)
+- Silver medal for securing 1st rank in M.Tech. (CSE) at IIEST Shibpur (awarded on 04/03/2017)
+
+Patents
+
+- Shouvick Mondal, and Rupesh Nasre, A method for consensus prioritization of regression test-cases supported by parallel execution windows. Appliant(s)/assignee(s): IIT Madras. (Indian Patent 386511) (2021).
+
+- ● Software Engineering using Generative AI
+- ● Empirical Software Engineering
+- ● Software Testing
+- ● Compiler Design

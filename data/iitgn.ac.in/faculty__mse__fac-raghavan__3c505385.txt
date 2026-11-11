@@ -1,0 +1,47 @@
+Title: IIT Gandhinagar | Raghavan Ranganathan
+Source: https://iitgn.ac.in/faculty/mse/fac-raghavan
+
+# Raghavan Ranganathan
+
+-  Materials Engineering
+Raghavan Ranganathan
+
+## Raghavan Ranganathan
+
+Associate Professor, Materials Engineering
+
+- BTech: Indian Institute of Technology, Madras, 2011
+- PhD: Rensselaer Polytechnic Institute, 2016
+
+Email: rraghav -AT- iitgn.ac.in
+
+ Website :  https://raghavan.people.iitgn.ac.in
+
+Office:  AB 11/308A
+VOIP:  2557
+
+- P. P. Singh, R. Ranganathan, Superior impact resistance conferred by hierarchical nacre-inspired nanocomposites: A molecular dynamics study", Carbon, 233, 119885, 2025.
+- A. Deshmukh, R. Ranganathan, "Recent advances in modelling structure-property correlations in high-entropyalloys." Journal of Materials Science & Technology, 204, 127, 2025.
+
+- P. P. Singh, R. Ranganathan, "Mechanical and Viscoelastic Properties of Stacked and Grafted Graphene/Graphene Oxide–Polyethylene Nanocomposites: A Coarse-Grained Molecular Dynamics Study." ACS Omega 9, 9063, 2024.
+
+- S. Lahkar, R. Ranganathan, "Competing mechanisms govern the thermal rectification behavior in semi-stochastic
+ polycrystalline graphene with graded grain-size distribution." Carbon 218, 118638, 2024.
+
+- P. P. Singh, R. Ranganathan, "Superior Protection Conferred by Multi-Layered Graphene–Polyethylene Nanocomposites under Shock Loading." ACS Applied Engineering Materials 2, 286, 2023.
+
+-  R. Ranganathan, V. Kumar, A. L. Brayton, M. Kroger, and G. C. Rutledge, "Atomistic modeling of plastic deformation in semicrystalline polyethylene: role of interphase topology, entanglements, and chain dynamics", Macromolecules, 53, 4605, 2020.
+
+-  R. Ranganathan, Y. Shi, P. Keblinski, “Commonalities in frequency-dependent viscoelastic damping in glasses in the MHz to THz regime", J. Appl. Phys., 122, 145103, 2017.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Nov 2024 to present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Jul 2019 - Nov 2024)
+- Postdoctoral Associate, Massachusetts Institute of Technology (Sep 2016 – Apr 2019)
+
+- ● Atomistic/Molecular simulations of structure-property relations (mechanical, thermal and dynamic properties)
+- ● Dynamics of soft matter including polymer blends and nanocomposites
+- ● Viscoelasticity of hard inorganic materials and composites
+- ● Thermodynamics and kinetics of phase transformations in materials
+- ● Modeling reactive processes in materials subjected to extreme conditions
+
+Complete List of Publications

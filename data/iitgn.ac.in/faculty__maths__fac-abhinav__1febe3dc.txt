@@ -1,0 +1,44 @@
+Title: IIT Gandhinagar | Abhinav Jha
+Source: https://iitgn.ac.in/faculty/maths/fac-abhinav
+
+# Abhinav Jha
+
+-  Mathematics
+Abhinav Jha
+
+## Abhinav Jha
+
+Assistant Professor, Mathematics
+
+- BSc: St. Stephen's College, Delhi University, 2015
+- MSc: IIT Roorkee, 2017
+- PhD: Freie Universitaet Berlin, 2020
+
+Email: abhinav.jha -AT- iitgn.ac.in
+
+ Website :  https://abhinav0207.github.io/abhinav_webpage
+
+Office:  AB 5/348
+VOIP:  2628
+
+Petr Knobloch, Dmitri Kuzmin, Abhinav Jha: Well-balanced convex limiting for finite element discretizations of steady convection-diffusion-reaction equations. In: Journal of Computational Physics, 518, (July 2024), DOI: 10.1016/j.jcp.2024.113305
+
+Michele Nottoli, Michael F. Herbst, Aleksandr Mikhalev, Abhinav Jha, Filippo Lipparini, Benjamin Stamm: ddX: Polarizable Continuum Solvation from Small Molecules to Proteins. In: WIREs Computational Molecular Science, 14(4), (July 2024), DOI: 10.1002/wcms.1726
+
+Abhinav Jha, Volker John, Petr Knobloch: Adaptive Grids in the Context of Algebraic Stabilizations 1. for Convection-Diffusion-Reaction Equations. In: SIAM Journal on Scientific Computing, (April 2023), DOI: 10.1137/21M1466360
+
+Abhinav Jha, Michele Nottoli, Aleksandr Mikhalev, Chaoyu Quan, Benjamin Stamm: Linear scaling computation of forces for the domain-decomposition linear Poisson--Boltzmann method. In: The Journal of Chemical Physics, (February 2023), DOI: 10.1063/5.0141025
+
+Abhinav Jha, Ondrej Partl, Naveed Ahmed, Dmitri Kuzmin: An Assessment of Solvers for Algebraically Stabilized Discretizations of Convection-Diffusion-Reaction Equations. In: Journal of Numerical Mathematics, (April 2022), DOI: 10.1515/jnma-2021-0123
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Oct 2024 to present)
+- Research Scientist, University of Stuttgart (Sep 2022 - August 2024)
+- Research Scientist, RWTH Aachen Universtiy (Jan 2021 - Aug 2022)
+
+- ● Numerical Analysis of Partial Differential Equations
+- ● Stabilization Methods for Convection Dominated Problems
+- ● A Posteriori Error Estimates
+- ● Domain Decomposition Methods in Computational Chemistry
+- ● Scientific Computing, including writing scientific software
+
+Complete List of Publications

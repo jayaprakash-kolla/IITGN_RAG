@@ -1,0 +1,97 @@
+Title: IIT Gandhinagar | Rajat Moona
+Source: https://iitgn.ac.in/faculty/cse/fac-rajat-moona
+
+# Rajat Moona
+
+-  Computer Science & Engineering
+Rajat Moona
+
+## Rajat Moona
+
+Professor, Computer Science and Engineering
+
+- BTech: IIT Kanpur, 1985
+- PhD: IISc Bangalore, 1989
+
+Email: moona -AT- iitgn.ac.in
+
+Office:  2400
+VOIP:  AB 3/301
+
+Subramanian Neelakantan, Rajat Moona, Anomaly prevention for access to critical information, International Conference – Statistics-2013, Hyderabad, December 2013, pp 63-66.
+
+Rohit Agrawalla, Dharmendra Modi, Rajat Moona, TransCryptDFS: A Secure Distributed Encrypting File System, International Conference on Ultra Modern Telecommunication, ICUMT-2010, Oct 2010, Moscow Russia.
+
+Nitin Munjal, Rajat Moona, Secure and Cost Effective Transaction Model for Financial Services, International Conference on Ultra Modern Telecommunication, ICUMT-OPNDTS Oct 2009, St. Petersburg Russia.
+
+Nitin Munjal, Ashish Paliwal, Rajat Moona, Low cost secure transaction model for Financial Services, Conf on Security and Identity Management (SIM 2009), Ahmadabad, May 2009.
+
+Abhay Khoje, Salih K A, Rajat Moona, Accessing Files from Public Computers in a Trusted Manner, Hack.in 2009, workshop on Computer and Internet Security, March 2009.
+
+- Director, Indian Institute of Technology Gandhinagar (Oct 2022 to Present)
+- Director, Indian Institute of Technology Bhilai (Mar 2017 - Sep 2022)
+- Sr. Professor, Indian Institute of Technology Kanpur (Mar 2017 - Present)
+- Professor, Indian Institute of Technology Kanpur (Sep 2001 - Mar 2017)
+- Associate Professor, Indian Institute of Technology Kanpur (Dec 1995 - Sep 2001)
+- Visiting Scientist, MIT Massachusetts, USA (Apr 1994 - Mar 1995)
+- Assistant Professor, Indian Institute of Technology Kanpur (July 1992 - Dec 1995)
+- Visiting Faculty, Indian Institute of Technology Kanpur (Apr 1991 - Jul 1992)
+
+Awards
+
+- Indo US Science and Technology Fellowship, DST GoI, 1994
+- Prabhu Goel Chair Professorship, IIT Kanpur, 2008
+- VASVIK Award for contributions to the advancement of Information and Communication Technologies, Vividhlaxi Audyogik Samshodhan Vikas Kendra, 2010
+- Techno visionary award: IESA Technovation award, IESA (India Electronics and Semiconductor Association), 2014
+- Fellow of Maharashtra Academy of Sciences, Maharashtra Academy of Sciences, 2015
+- National Award for best electoral practices, Election Commission of India, 2016
+- National Award for best electoral practices 2021-22 for IT initiatives, Election Commission of India, 2022
+
+Patents
+
+As Designer (Design Patent), “Prismatic Lens”, Applied, Application No. 332180-001, Aug 2020
+
+Prof. Shahani DT, Prof. Dinesh Sharma, Prof. Rajat Moona, Prof. A K Agarwala, Indira Devi K, Hiran M K, Nilabh Gaurav, Praveen Prasad, P Rajendra Yadav, Gounda Ilas, “System and Method for Estimating Life and Health of a Battery”, Applied, Application No. 201941035486, Sep 2019
+
+Prof. Shahani DT, Prof. Dinesh Sharma, Prof. Rajat Moona, Prof. A K Agarwala, Rekha Ashok Baradol, Sivakamasundari G, Praveen Prasad, Sukanta Kumar Bhola, K Suresh Babu, “Method and System for Detecting Troughs and Peaks in an Input Waveform”, Applied, Application No. 201941035489, Sep 2019
+
+Prof. Shahani DT, Prof. Dinesh Sharma, Prof. Rajat Moona, Prof. A K Agarwala, Noor Ahmed, Vinay, Ranjeetha Kr, Bhupendra Nath Singh, Sukanta Kumar Bhola, Sanjiv Kumar Mishra, Vivek Bhat, “System and Device to Detect Fall of Printed Paper Slip in an Electronic Voting Machine”, Applied, Application No. 201941035492, Sep 2019
+
+Prof. Shahani DT, Prof. Dinesh Sharma, Prof. Rajat Moona, Prof. A K Agarwala, Parimalam G, Nilabh Gaurav, Noor Ahmed, Chethan KC, Bhupendranath Singh, Sukanta Kumar Bhola, Gounda Ilas, MM Suresh, “Optical Sensor for Detection of Movement of Media or Object”, Applied, Application No. 201941033574, Aug 2019
+
+Prof. Shahani DT, Prof. Dinesh Sharma, Prof. Rajat Moona, Prof. A K Agarwala, Dr. Ramesh Chaveli, Rekha Ashok Baradol, Sivakamasundari G, Chethan KC, Sukanta Kumar Bhola, K Suresh Babu, A Sunil, “Temperature Sensitive Laser-based Photo Reflective Sensor and Compensation Method thereof”, Applied, Application No. 201941033570, Aug 2019
+
+Shahani DT, Dinesh Sharma, Rajat Moona, A K Agarwala, Ramadevi P, Narayan Ashok Kumar, Ramavtar Verma, Indira Devi K, G Anandbabu, Sapavat Jagan, Ram Sagar, “Unauthorized Access Detection Device, System and Method thereof”, Applied, Application No. 201941033571, Aug 2019
+
+Shahani DT, Dinesh Sharma, Rajat Moona, A K Agarwala, Ramadevi P, Parimalam G, Nilabh Gaurav, Chethan K C, G Anandbabu, K Suresh Babu, Sukanta Kumar Bhola, Ram Sagar, “Optical System for Contrast Estimation During Gray-scale printing” Applied. Application No 201941033572, Aug 2019
+
+Ramadevi P, Kumar Narayan Ashok, K Indira Devi, G Parimalam, Rekha Ashok Baradol, G Sivakamasundari, Nilabh Gaurav, Noor Ahmad, Shahani DT, Agarwala AK, Sharma Dinesh, Moona Rajat, “Voter Verified Paper Audit Trail (VVPAT) System”, Applied. Application No. 201841010850, March 2018
+
+Ramadevi P, Kumar Narayan Ashok, K Indira Devi, K C Chethan, Shahani DT, Agarwala AK, Sharma Dinesh, Moona Rajat, “Electronic Voting Machine (EEVM)”, Granted 27.01.2022. Applicaton No. 201841002146, Jan 2022
+
+Rajat Moona, Russell Klein, "Repartitioning performance estimation in a hardware-software system."Applied for Indian Patent. Application no. 878/DELNP/2004., Apr. 2004
+
+Kumar B V, Rajat Moona, Subrahmanya V, "Authentication using non-biometric and biometric information". Indian Patent. Application no. 1967/CHE/2005., Dec. 2005
+
+Vikas Galera, Ankit Sharma, Abhishek Gaurav, Rajat Moona, "Using personal devices for authentication and service access at offline service outlets"; Applied for Indian Patent. Application no. 1018/DEL/2008., Apr. 2008
+
+Rajat Moona, Russell Klein, "Repartitioning performance estimation in a hardware-software system." US Patent no. 6856951., Feb. 2005
+
+Rajat Moona, R Gopalakrishnan, Russell Klein, "Area optimization of hardware for algorithms by optimizing sizes of variables of the algorithm." US Patent, pre-grant Publication 20060020574., Jan. 2006
+
+K A Padmanabhan, Rajat Moona, Rohit Toshniwal, Bipul Parua, "Portable computer printer". Indian Patent no. 212999., Dec. 2007
+
+Rajat Moona, Russell Klein, "Compiling memory dereferencing instructions from software to hardware in an electronic design" US Patent no. 7203912., Apr. 2007
+
+Rajat Moona, Russell Klein, "Compiling memory dereferencing instructions from software to hardware in an electronic design". Indian Patent no. 242517., Aug. 2010
+
+Rajat Moona, B V Kumar, S V Subramanya, "Methods and Systems for secured access to devices and systems” US Patent no. 7864987., Jan. 2011
+
+Vikas Galera, Ankit Sharma, Abhishek Gaurav, Rajat Moona, "Method and System for using personal devices for authentication and service access at service outlets” US patent no. 8713655., Apr. 2014
+
+- ● Computer Architecture
+- ● VLSI Design
+- ● Operating Systems
+- ● Embedded Systems
+- ● Security
+- ● Smart Cards and RFID

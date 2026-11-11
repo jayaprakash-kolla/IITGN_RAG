@@ -1,0 +1,124 @@
+#flags:
+
+SAFETY LAUNDRY
+LAUNDRY SERVICE CHARGES FOR IITGN COMMUNITY
+Sl. #
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+
+Particulars
+Shirt Pant
+Kurti top
+Blazer
+Tie
+Suit 2 Pcs
+Cotty
+Kurta + Pajama
+Jacket Normal
+Jacket Poly
+Jacket Woolen
+Jacket Leather
+Shawl
+Sweater Normal
+Sweater Woolen
+Single Blanket
+Double Blanket
+Shoes
+School Bag
+Salwar
+Dupatta
+Saree Cotton
+Saree Silk
+Saree Jorjat
+Saree Work
+Saree HV Work
+Blouse
+Single Comforter
+Double Comforter
+Windows Curtain
+Door Curtain
+Top to Bottom
+Sofa Cover
+Only Steam Press
+
+Wash &
+Press (Rs.)
+20
+20
+
+50
+60
+60
+
+40
+100
+150
+
+****
+
+Dry Clean &
+Press (Rs.)
+40
+40
+150
+30
+200
+60
+120
+100
+150
+200
+300
+100
+100
+150
+150
+250
+40
+60
+50
+35
+100
+120
+200
+250
+350
+35
+200
+350
+100
+150
+200
+40
+6.50

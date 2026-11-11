@@ -1,0 +1,197 @@
+Title: IIT Gandhinagar | Chemistry
+Source: https://iitgn.ac.in/faculty/chemistry
+
+# Chemistry
+
+##### Back to Faculty
+
+#### Anirban Mondal
+
+PhD (Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore)
+Associate Professor
+ Multiscale Computational Modeling, Organic Electronics, Fuel Cells
+
+## Research Interests
+
+- Charge transport in organic semiconductors, excited states, and optoelectronics
+- Machine learning techniques to explore the chemical space of organic semiconductors
+- Design of efficient host/guest systems for blue organic light-emitting diodes (OLEDs)
+- Donor-acceptor materials for organic solar cells
+- Machine learning potentials for atomistic modeling of materials
+- Proton/ion transport in solid electrolytes
+
+#### Bhaskar Datta
+
+PhD (Carnegie Mellon University)
+Professor
+(Jointly with Biological Sciences and Engineering department)
+ Food biochemistry, applied nutrition, food product development; Synthetic and composite adsorbent materials for environmental mitigation
+
+## Research Interests
+
+- Food biochemistry, applied nutrition, food product development
+- Synthetic and composite adsorbent materials for environmental mitigation
+- Discovery, characterization and targeting of DNA and RNA G-quadruplexes
+- Long non-coding RNA informatics
+- Small molecule-peptide hybrid antimicrobials
+- Capture and recycle of rare earth elements, and recycling of ammonium
+
+#### Biswajit Mondal
+
+PhD (Jadavpur University)
+Associate Professor
+ Photo-electrochemistry, Electrochemical conversion of value added chemicals
+
+## Research Interests
+
+- Photo-electrochemistry
+- Electrochemical conversion of value added chemicals
+- Renewable energy
+- Spectroscopy (UV-Vis kinetics, FTIR, resonance Raman, cryogenic intermediate trapping and elucidation of reaction mechanism)
+
+#### Chandrakumar Appayee
+
+PhD (IISc Bangalore)
+Professor
+ Asymmetric organocatalysis, Development of novel organocatalysts, Asymmetric synthesis of bio-active molecules
+
+## Research Interests
+
+- Asymmetric organocatalysis
+- Development of novel organocatalysts
+- Asymmetric synthesis of bio-active molecules
+- Total synthesis of natural products
+
+#### Iti Gupta
+
+PhD (IIT Bombay)
+Professor
+ Boron based NIR dyes and their conjugates, Derivatives of corroles and N-confused porphyrins with novel properties
+
+## Research Interests
+
+- Boron based NIR dyes and their conjugates
+- Derivatives of corroles and N-confused porphyrins with novel properties
+- Metal complexes of dipyrrins
+
+#### Kuljeet Kaur
+
+PhD (Virginia Tech)
+Assistant Professor
+ Polymer chemistry, peptide chemistry, organic chemistry, and material science
+
+## Research Interests
+
+- Polymer chemistry
+- Peptide chemistry
+- Organic chemistry
+- Material science
+
+#### Manisha Samanta
+
+PhD (JNCASR)
+Assistant Professor
+ Topological Quantum Materials for Sustainable Energy Conversion, Solid State Chemistry of Metal Chalcogenides of Varied Dimensionality
+
+## Research Interests
+
+- Topological Quantum Materials for Sustainable Energy Conversion
+- Solid State Chemistry of Metal Chalcogenides of Varied Dimensionality
+- Heterogeneous Catalysis: Hydrogen Evolution, CO2 Reduction
+- Electrical and Thermal Transport Properties of Inorganic Solids and Understanding their Structure–Property Correlations
+
+#### Partha Pratim Roy
+
+PhD (Heidelberg University)
+Assistant Professor
+ Ultrafast dynamics of natural and bio-inspired light harvesting complex
+
+## Research Interests
+
+- Ultrafast dynamics of natural and bio-inspired light harvesting complex: excitation energy transfer, charge transfer, quantum coherence, coupled electron-nuclear dynamics.
+- Coherent multidimensional spectroscopy: Two-dimensional electronic-vibrational Spectroscopy (2DEVS), Two-dimensional electronic Spectroscopy (2DES), Coherent Raman Spectroscopy (pump-DFWM, impulsive vibrational spectroscopy)
+
+#### Priyabrata Ghana
+
+PhD (University of Bonn)
+Assistant Professor
+ The chemistry of low-valent main group compounds, Application of main group compounds in catalysis
+
+## Research Interests
+
+- The chemistry of low-valent main group compounds
+- Application of main group compounds in catalysis
+- Complexes with transition metal-main group element multiple bonds
+- Small molecule activation with 3d transition metal complexes
+- Dinitrogen fixation with heterobimetallic complexes
+
+#### Sairam Swaroop Mallajosyula
+
+PhD (Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore)
+Professor
+ Carbohydrate-protein interactions, Novel DNA constructs
+
+## Research Interests
+
+- Carbohydrate-protein interactions
+- Novel DNA constructs
+- Molecular mechanics force field development
+
+#### Saumyakanti Khatua
+
+PhD (Rice University)
+Professor
+ Plasmonics, Nano-optics
+
+## Research Interests
+
+- Plasmonics
+- Nano-optics
+
+#### Sivapriya Kirubakaran
+
+PhD (IISc Bangalore)
+Kankuben Bakshirambhai Gelot Chair Professor
+ Drug discovery and cancer chemical biology
+
+## Research Interests
+
+- Drug discovery and cancer chemical biology
+- Use of small molecules to study cancer related proteins
+- Basic synthetic organic chemistry
+
+#### Venkata Sriram Kanvah Gundimeda
+
+PhD (IIT Bombay)
+Professor
+ Synthesis of photosensitive π-conjugated materials for a variety of optical and biological applications
+
+## Research Interests
+
+- Synthesis of photosensitive π-conjugated materials for a variety of optical and biological applications
+
+#### Sudhanshu Sharma
+
+PhD (IISc Bangalore)
+Professor
+ Materials, Electrochemistry, Catalysis
+
+## Research Interests
+
+- Materials
+- Electrochemistry
+- Catalysis
+
+#### Sudipta Basu
+
+PhD (Max Planck Institute for Molecular Physiology Dortmund)
+Professor
+ Chemical biology of mitochondria and endoplasmic reticulum (ER)
+
+## Research Interests
+
+- Chemical biology of mitochondria and endoplasmic reticulum (ER)
+- Development of self-assembled novel nano-scale materials
+- Design and synthesis of small molecules for understanding cancer biology
+- Organic synthesis
+- Nanobiotechnology

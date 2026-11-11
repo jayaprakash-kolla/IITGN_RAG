@@ -1,0 +1,36 @@
+Title: IIT Gandhinagar | Shubhangi Shamsundar Bansude
+Source: https://iitgn.ac.in/faculty/me/fac-shubhangi
+
+# Shubhangi Shamsundar Bansude
+
+-  Mechanical Engineering
+Shubhangi Shamsundar Bansude
+
+## Shubhangi Shamsundar Bansude
+
+Assistant Professor, Mechanical Engineering
+
+- BTech: Indian Institute of Technology Gandhinagar, 2014
+- PhD: University of Connecticut, Storrs, CT, USA, 2023
+
+Email: shubhangi.bansude -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/view/ccml-lab
+
+Office:  AB 11/311 B
+VOIP:  2636
+
+- Bansude, S. and Sheikhi, R. “Investigations of Deep Learning-1. based Filtered Density Function Models for Scalar Mixing in Turbulent Flows” Physics of Fluids 36, 015156 (2024) doi: https://doi.org/10.1063/5.0177454 (Impact Factor 4.6)
+- Bansude, S., Imani, F., and Sheikhi, R. “A Data-Driven Framework for Computationally Efficient Integration of Chemical Kinetics Using Neural Ordinary Differential Equations” ASME Open Journal of Engineering ASME. January 2023 2 021022 doi: https://doi.org/10.1115/1.4062105 (paper citations until July 2024: 4)
+- Bansude, S., Imani, F., and Sheikhi, R. “Performance Assessment of Chemical Kinetics Neural Ordinary Differential Equations in Pairwise Mixing Stirred Reactor” ASME Open Journal of Engineering ASME. January 2023 2 021008 doi: https://doi.org/10.1115/1.4056476 (paper citations until July 2024: 4)
+- Doan, N. A. K., Bansude, S., Osawa, K., Minamoto, Y., Lu, T., Chen, J. H., & Swaminathan, N. “Identification of combustion mode under MILD conditions using Chemical Explosive Mode Analysis” Proceedings of the Combustion Institute 38, no. 4 (2021): 5415-5422 doi: https://doi.org/10.1016/j.proci.2020.06.293 (Impact Factor 5.3)
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Mar 2025 - Present)
+- Postdoctoral Appointee, Argonne National Laboratory, USA (Jan 2024 - Mar 2025)
+- Application Engineer, Siemens PLM Software / CD-adapco, India (2014 - 2017)
+
+- ● Turbulent reacting flows
+- ● Large eddy simulations (LES)
+- ● Probability/filtered density function (PDF/FDF) methods
+- ● Data-driven approaches for modeling turbulent combustion
+- ● Combustion chemical kinetics

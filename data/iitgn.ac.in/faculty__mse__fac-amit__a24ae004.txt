@@ -1,0 +1,63 @@
+Title: IIT Gandhinagar | Amit Arora
+Source: https://iitgn.ac.in/faculty/mse/fac-amit
+
+# Amit Arora
+
+-  Materials Engineering
+Amit Arora
+
+## Amit Arora
+
+Associate Professor, Materials Engineering
+
+- Dual Degree: Indian Institute of Technology, Kharagpur, 2005
+- PhD: The Pennsylvania State University, 2011
+
+Email: amitarora -AT- iitgn.ac.in
+
+ Website :  https://amit.people.iitgn.ac.in/
+
+Office:  AB 11/308B
+VOIP:  2424
+
+- V.P. Mahesh, A. Gumaste, N. Meena, J. Alphonsa, A. Arora, (2020). ‘Corrosion behavior of aluminium surface composites with metallic, ceramic and hybrid reinforcements using friction stir processing’, Metallurgical and Materials Transactions B, https://doi.org/10.1007/s11663-020-01932-7
+- A.K. Singh, B. Kumar, K. Jha, A. Astarita, A. Squillace, S. Franchitti, A. Arora. “Friction stir welding of additively manufactured Ti-6Al-4V: microstructure and mechanical properties”. Journal of Materials Processing Technology 277 (2020), 116433
+- S. Pandya, R. S. Mishra, A. Arora. “Channel formation during friction stir channeling process—A material flow study using X-Ray micro-computed tomography and optical microscopy”. Journal of Manufacturing Processes 41 (2019), 48-55.
+- P. Sahlot, and A. Arora. "Numerical model for prediction of tool wear and worn-out pin profile during friction stir welding." Wear 408(2018): 96-107.
+- P Sahlot, K Jha, GK Dey, A. Arora. “Quantitative wear analysis of H13 steel tool during friction stir welding of Cu-0.8% Cr-0.1% Zr alloy.” Wear 378(2017): 82-89.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Jun 2021 to present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Oct 2011 - Jun 2021)
+- Visiting Scholar, University of North Texas, Denton, TX USA (Mar 2014 – Sep 2014)
+- Graduate Research Assistant, The Pennsylvania State University, Department of Material Science and Engineering (Aug 2006 - Sep 2011)
+- Associate System Engineer, IBM India Pvt. Ltd, Pune (Jun 2005 - Jun 2006)
+
+Awards
+
+• First prize in the Metallography Contest (SEM category), National Metallurgist Day - 73rd Annual Technical Meeting of The Indian Institute of Metals, Kovalam. November 16th 2019.
+
+• Second Prize for Masters’ Thesis of Anurag Gumaste by ASM International India National Council, ASM 2019, 3rd Materials Day, 19th October 2019.
+
+• Best Research Poster Award at the Zhi-Hong International summer school of advanced materials (ISS-AM, 2017 SJTU) organized by Shanghai Jiao Tong University, Shanghai China (July 09 - 22, 2017).
+
+• Best Poster, Indo-UK Workshop on Modelling and Simulation of Safety and Materials for Nuclear Application, December 16-17, 2015.
+
+• DAE Young Scientist Research Award, 2014
+
+• Excellence-in-Research, Indian Institute of Technology Gandhinagar, 2011
+
+• Graduate Assistantship, The Pennsylvania State University, 2006
+
+• National Merit Scholarship, MHRD, India, 1997
+
+Patents
+
+Amit Arora, C. S. Tiwary, A. Rout, A. Gumaste, Mahesh VP. “Polymer reinforced metal matrix composites and a process for fabricating the same”. Patent Application No. 201921032326.
+
+- ● Numerical Modeling of Additive Manufacturing
+- ● Modeling of Joining Processes
+- ● Friction Stir Welding and Processing
+- ● Corrosion Studies of Surface Composites
+- ● Aluminum Metal Matrix Composites
+
+Complete List of Publications

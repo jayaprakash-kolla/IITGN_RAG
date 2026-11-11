@@ -1,0 +1,184 @@
+Title: Projects
+Source: https://cse.iitgn.ac.in/research/projects
+
+Department of Computer Science & Engineering, IIT Gandhinagar
+
+# Projects and consultancies
+
+ Selected publicly listed sponsored projects, international collaborations, industry engagements, and consultancies involving CSE faculty and affiliated faculty.
+
+Recent ANRF grants
+
+## CSE faculty members have secured multiple recent ANRF grants in the latest cycle
+
+Prime Minister Early Career Research Grant (PMECRG)
+
+### Fair Federated Learning Framework in the Presence of Heterogeneous, Strategic, and Malicious Clients
+
+PI: Manisha Padala
+
+Prime Minister Early Career Research Grant (PMECRG)
+
+### Testing of Pre-trained Large Language Models for Zero-shot Software Engineering Tasks
+
+PI: Shouvick Mondal
+
+Advanced Research Grant (ARG)
+
+### Chitrabhasha: Developing India's Largest Dataset and Foundation Models for Multimodal AI
+
+PI: Mayank Singh
+
+Prime Minister Early Career Research Grant (PMECRG)
+
+### iGazeBuddy: Multimodal Gaze-Controlled On-Screen Assisted Learning System for Dyslexia Detection and Intervention in Regional Indian Languages
+
+PI: Yogesh Kumar Meena
+
+Advanced Research Grant (ARG)
+
+### Scalable Detection of Brick Kilns from Low-Resolution Satellite Imagery for Environmental Compliance
+
+PI: Nipun Batra
+
+Advanced Research Grant (ARG) MATRICS
+
+### Quantum Algorithms for Group Theoretic Problems
+
+PI: Bireswar Das
+
+Advanced Research Grant (ARG) MATRICS
+
+### On the Role of Multilinearity and Monotonicity in Algebraic Computation
+
+PI: Balagopal Komarath
+
+Advanced Research Grant (ARG)
+
+### Towards a Private yet Functional Web: Designing a Usable and Privacy-compliant Consent Management Framework for Online Browsing
+
+PI: Abhishek Bichhawat
+
+Co-PI: Mainak Mondal, IIT Kharagpur
+
+Advanced Research Grant (ARG) MATRICS
+
+### Approximate Shortest Paths in Graphs
+
+PI: Manoj Gupta
+
+## Selected project listings
+
+ 16 selected projects
+
+ ANRF/SERB July-September 2026
+
+## Approximate Shortest Paths in Graphs
+
+FacultyManoj D Gupta
+Agency / partnerAnusandhan National Research Foundation
+
+ ANRF/SERB July-September 2026
+
+## Chitrabhasha: Developing India's Largest Dataset and Foundation Models for Multimodal AI
+
+FacultyMayank Singh
+Agency / partnerAnusandhan National Research Foundation
+
+ ANRF/SERB Announced in 2026
+
+## Scalable Detection of Brick Kilns from Low-Resolution Satellite Imagery for Environmental Compliance
+
+FacultyNipun Batra
+Agency / partnerAnusandhan National Research Foundation
+
+ ANRF/SERB Announced in 2026
+
+## iGazeBuddy: Multimodal gaze-controlled learning system for dyslexia support
+
+FacultyYogesh Kumar Meena
+Agency / partnerAnusandhan National Research Foundation (PMECRG)
+
+ ANRF/SERB April-June 2026
+
+## Fair Federated Learning Framework in the Presence of Heterogeneous, Strategic, and Malicious Clients
+
+FacultyManisha Padala
+Agency / partnerAnusandhan National Research Foundation (ECRG)
+
+ ANRF/SERB October-December 2023
+
+## Understanding and Ensuring the Privacy of User Data
+
+FacultyAbhishek Bichhawat
+Agency / partnerScience & Engineering Research Board
+
+ ANRF/SERB January-March 2023
+
+## Curating and constructing benchmarks and development of ML models for low-level NLP tasks in Hindi-English code-mixing
+
+FacultyMayank Singh
+Agency / partnerScience & Engineering Research Board (Core Research Grant)
+
+ International October-December 2023
+
+## Verifying Security Properties of Group Messaging Protocols
+
+FacultyAbhishek Bichhawat
+Agency / partnerCentre Franco-Indien pour la Promotion de la Recherche Avancee
+
+ International October-December 2024
+
+## A Brain-Computer Interface Driven Mental Fatigue Monitoring System to Improve Stroke Rehabilitation Therapy
+
+FacultyYogesh Kumar Meena
+Agency / partnerDepartment for the Economy, Northern Ireland
+
+ Industry/Research Lab July-September 2024
+
+## Microsoft Research PhD Fellowship for Zeel B Patel
+
+FacultyNipun Batra
+Agency / partnerMicrosoft Research Lab India Private Ltd
+
+ Sponsored April-June 2026
+
+## Automated Crop mapping using time-series satellite and ancillary data
+
+FacultyNipun Batra
+Agency / partnerIndian Space Research Organisation
+
+ Sponsored July-September 2026
+
+## Specialized language models deployable on end points with low compute resources
+
+FacultyAnirban Dasgupta
+Agency / partnerIndian Space Research Organisation
+
+ Sponsored October-December 2024
+
+## Development of Quantum Machine Learning Use Cases and Applications
+
+FacultySameer G Kulkarni
+Agency / partnerMinistry of Electronics and Information Technology (MeitY)
+
+ Sponsored October-December 2024
+
+## exploreCSR: Bridging Digital Divides Through Computing
+
+FacultyNipun Batra
+Agency / partnerGoogle
+
+ Consultancy January-March 2026
+
+## How smart roads are different from conventional city roads and have brought ease of mobility to Indian cities?
+
+FacultyMayank Singh
+Agency / partnerMinistry of Housing and Urban Affairs
+
+ Consultancy July-September 2023
+
+## Development of Large Language Models based Chat plugin for Answering Website-specific Queries
+
+FacultyMayank Singh
+Agency / partnerSilver Touch Technologies Limited

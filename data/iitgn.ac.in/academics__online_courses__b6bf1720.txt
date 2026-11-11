@@ -1,0 +1,554 @@
+Title: IIT Gandhinagar | Approved Online Courses
+Source: https://iitgn.ac.in/academics/online_courses
+
+## Approved Online Courses
+
+- Academic
+- Online Courses
+ The norms for earning credits via online courses can be accessed here.
+
+ FAQs on online courses
+
+Course Recommendations for UG students
+
+Annexure I : Final List of Course Recommendations for UG students |
+| S.No. | Name of the Online Course | Equivalent credits at IITGN | Link to the course webpage | Type of Elective
+[BS: Basic Science
+ HSS: Humanities and Social Science
+M: Management] |
+Biological Sciences and Engineering |
+1 | Industrial Biotechnology |
+2 | https://www.edx.org/course/industrial-biotechnology-2 |
+2 | The Science and Business of Biotechnology |
+4 | https://www.edx.org/course/the-science-and-business-of-biotechnology |
+M |
+3 | Introduction to Genetics and Evolution |
+1 | https://www.coursera.org/learn/genetics-evolution#syllabus |
+BS |
+4 | Introductory Human Physiology |
+1 | https://www.coursera.org/learn/physiology#syllabus |
+BS |
+Chemical Engineering |
+1 | Science & Cooking: From Haute Cuisine to Soft Matter Science |
+1 | https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter |
+BS |
+2 | Dynamics and Control |
+1 | https://www.edx.org/course/dynamics-and-control |
+3 | The Basics of Transport Phenomena |
+2 | https://www.edx.org/course/the-basics-of-transport-phenomena |
+4 | Advanced Transport Phenomena |
+2 | https://www.edx.org/course/advanced-transport-phenomena-2 |
+5 | Statistical Molecular Thermodynamics |
+1 | https://www.coursera.org/learn/statistical-thermodynamics |
+BS |
+Chemistry |
+1 | Our Energy Future |
+1 | https://www.coursera.org/learn/future-of-energy#syllabus |
+2 | Introduction to sustainability |
+1 | https://www.coursera.org/learn/sustainability |
+BS |
+Civil Engineering |
+1 | The Engineering of Structures Around Us |
+1 | https://www.edx.org/course/the-engineering-of-structures-around-us-2 |
+Cognitive Science |
+1 | Anatomy: Musculoskeletal and Integumentary Systems |
+1 | https://www.coursera.org/learn/anatomy403-1x |
+BS |
+Computer Science and Engineering |
+1 | Cryptography-1 |
+1 | https://www.coursera.org/learn/crypto |
+2 | Bitcoin and Cryptocurrencies |
+1 | https://www.edx.org/course/bitcoin-and-cryptocurrencies |
+3 | Blockchain Technology |
+1 | https://www.edx.org/course/blockchain-technology |
+4 | Agile Development Specialization (5 course sequence) |
+3 | https://www.coursera.org/specializations/agile-development? |
+5 | Interaction Design Specialization |
+4 | https://www.coursera.org/specializations/interaction-design#courses |
+6 | Computer Communications |
+2 | https://www.coursera.org/specializations/computer-communications |
+7 | Cloud Computing Concepts, Part 1 |
+1 | https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing |
+8 | Introduction to Linux |
+3 | https://www.edx.org/course/introduction-to-linux |
+9 | Android app development |
+3 | https://www.coursera.org/specializations/android-app-development |
+10 | Game design and development |
+3 | https://www.coursera.org/specializations/game-development |
+11 | Responsive website development |
+4 | https://www.coursera.org/specializations/website-development |
+12 | Supervised Machine Learning: Regression and Classification |
+1 | https://www.coursera.org/learn/machine-learning |
+13 | Unsupervised Learning, Recommenders, Reinforcement Learning  |
+1 | https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning |
+Electrical Engineering |
+1 | Differential Equations for Engineers |
+1 | https://www.coursera.org/learn/differential-equations-engineers |
+2 | Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python |
+1 | https://www.coursera.org/learn/computers-waves-simulations |
+3 | Sensors and Sensor Circuit Design |
+1 | https://www.coursera.org/learn/sensors-circuit-interface |
+4 | Fundamentals of Audio and Music Engineering: Part 1 Musical Sound & Electronics |
+1 | https://www.coursera.org/learn/audio-engineering |
+5 | Power Electronics |
+3 | https://www.coursera.org/specializations/power-electronics |
+Humanities and Social Sciences |
+1 | Miracles of human language: an introduction to linguistics |
+1 | https://www.coursera.org/learn/human-language?#about |
+HSS |
+2 | Masterpieces of World Literature |
+2 | https://www.edx.org/course/masterpieces-of-world-literature |
+HSS |
+3 | Communication Skills for Engineers Specialization |
+3 | https://www.coursera.org/specializations/leadership-communication-engineers |
+HSS |
+4 | Leadership Development for Engineers |
+2 | https://www.coursera.org/specializations/leadership-development-engineers |
+HSS as well as M |
+5 | Strategic Leadership & Management |
+4 | https://www.coursera.org/specializations/strategic-leadership |
+HSS as well as M |
+6 | Leadership in 21st Century Organizations |
+1 | https://www.coursera.org/learn/leadership-21st-century |
+HSS as well as M |
+7 | The Entreprenurial Mindset |
+1 | https://www.edx.org/course/the-entrepreneurial-mindset |
+HSS as well as M |
+8 | How to write an essay  |
+1 | https://www.edx.org/course/how-to-write-an-essay |
+HSS |
+9 | Ethics in Action |
+1 | https://www.edx.org/course/ethics-in-action |
+HSS |
+10 | Hinduism Through Its Scriptures |
+1 | https://www.edx.org/course/hinduism-through-its-scriptures |
+HSS |
+11 | Anthropology of Current World Issues |
+1 | https://www.edx.org/course/anthropology-of-current-world-issues |
+HSS |
+12 | Tangibe things: discovering history through artworks,
+ artifacts, scientific specimens and the stuffs around you |
+1 | https://www.edx.org/course/tangible-things-discovering-history-through-artwor |
+HSS |
+13 | Managerial Economics and Business Analysis Specialization |
+4 | https://www.coursera.org/specializations/managerial-economics-business-analysis? |
+HSS as well as M |
+14 | Entrepreneurship Specialization |
+4 |  https://www.coursera.org/specializations/wharton-entrepreneurship? |
+HSS as well as M |
+15 | Engineering Project Management Specialization |
+4 | https://www.coursera.org/specializations/engineering-project-management#outcomes |
+HSS as well as M |
+16 | Business Foundations Specialization |
+4 | https://www.coursera.org/specializations/wharton-business-foundations |
+HSS as well as M |
+17 | Leadership Skills |
+4 | https://www.coursera.org/learn/leadershipskills#about |
+HSS as well as M |
+18 | Pre-MBA Statistics |
+2 | https://www.coursera.org/learn/pre-mbastatistics |
+HSS as well as M |
+19 | Pre MBA Accounting |
+2 | https://lms-online.iima.ac.in/courses/coursev1:IIMA+FAPMBA101x+2024_08/course/ |
+HSS as well as M |
+20 | Introduction to Managerial Economics |
+2 | https://www.edx.org/learn/economics/indian-institute-of-management-bangalore-introduction-to-managerial-economics |
+HSS as well as M |
+21 | Quantitative Marketing Research |
+2 | https://www.edx.org/learn/marketing/indian-institute-of-management-bangalore-quantitative-marketing-research |
+HSS as well as M |
+22 | Introduction to Investments |
+2 | https://www.edx.org/learn/investing/indian-institute-of-management-bangalore-introduction-to-investments |
+HSS as well as M |
+23 | Brand Management |
+2 | https://www.edx.org/learn/branding/indian-institute-of-management-bangalore-brand-management |
+HSS as well as M |
+24 | HRM Strategy Execution |
+2 | https://onlinecourses.swayam2.ac.in/imb25_mg57/preview |
+HSS as well as M |
+25 | Operations Management |
+2 | https://www.edx.org/learn/operationsmanagement/indian-institute-of-management-bangalore-operations-management |
+HSS as well as M |
+Material Science and Engineering |
+1 | Structure of Materials |
+4 | https://courses.edx.org/courses/course-v1:MITx+3.012Sx+3T2019/course/ |
+2 | Introduction to Computational Thinking and Data Science |
+4 | https://www.edx.org/course/introduction-to-computational-thinking-and-data-4 |
+3 | From Atoms to Materials: Predictive Theory and Simulations |
+2 | https://www.edx.org/course/from-atoms-to-materials-predictive-theory-and-simu |
+4 | Question Everything: Scientific Thinking in Real Life |
+1 | https://www.edx.org/course/question-everything-scientific-thinking-in-real-li |
+5 | Machine Learning with Python: A Practical Introduction |
+1 | https://www.edx.org/course/machine-learning-with-python-a-practical-introduct |
+Mathematics |
+1 | Linear Algebra - Foundations to Frontiers |
+4 | https://www.edx.org/course/linear-algebra-foundations-to-frontiers |
+BS |
+2 | DelftX: Modelling with Differential Equations  |
+2 | https://www.edx.org/course/mathematical-modelling-basics |
+BS |
+3 | Calculus Applied! |
+2 | https://www.edx.org/course/calculus-applied |
+BS |
+4 | Mathematical Methods for Quantitative Finance |
+4 | https://www.edx.org/course/mathematical-methods-for-quantitative-finance |
+BS |
+Mechanical Engineering |
+1 | A Hands-on Introduction to Engineering Simulations |
+1 | https://www.edx.org/course/a-hands-on-introduction-to-engineering-simulations |
+2 | The Conquest of Space: Space Exploration and Rocket Science |
+1 | https://www.edx.org/course/the-conquest-of-space-space-exploration-and-rocket |
+3 | Urban Sewage Treatment |
+2 | https://www.edx.org/course/urban-sewage-treatment |
+4 | Machine Design Part 1 |
+1 | https://www.coursera.org/learn/machine-design1 |
+5 | Robotics: Capstone |
+1 | https://www.coursera.org/learn/robotics-capstone? |
+6 | Motors and Motor Control Circuits |
+1 | https://www.coursera.org/learn/motors-circuits-design |
+7 | The Science of Well-Being |
+1 | https://www.coursera.org/learn/the-science-of-well-being |
+HSS as well as BS |
+Physics |
+1 | Astronomy: Exploring Time and Space |
+2 | https://www.coursera.org/learn/astro |
+BS |
+2 | Quantum Mechanics of Molecular Structures |
+1 | https://www.edx.org/course/quantum-mechanics-of-molecular-structures |
+BS |
+Earth Sciences |
+1 | Geoscience: the Earth and its resources |
+2 | https://www.edx.org/course/geoscience-the-earth-and-its-resources |  |
+2 | Planet Earth and you |
+1 | https://www.coursera.org/learn/planet-earth#syllabus |  |
+Course Recommendations for PG students
+
+Annexure II : Final List of Course Recommendations for PG students |
+| S.No. | Name of the Online Course | Equivalent credits at IITGN | Link to the course webpage | Type of Elective
+[BS: Basic Science
+ ES: Engineering Science
+ HSS: Humanities and Social Science
+ M: Management] |
+Biological Sciences and Engineering |
+1 | Genomic Data Science  |
+3 | https://www.coursera.org/specializations/genomic-data-science |
+ES |
+2 | Bioinformatics |
+4 | https://www.coursera.org/specializations/bioinformatics#about |
+ES |
+3 | Systems Biology and Biotechnology  |
+3 | https://www.coursera.org/specializations/systems-biology? |
+BS |
+4 | Vaccines: from smallpox to technologies of the future |
+1 | https://www.edx.org/course/vaccines-from-smallpox-to-technologies-of-future |
+BS |
+5 | Computational Neuroscience |
+2 | https://academy.neuromatch.io/ |
+BS |
+Chemical Engineering |
+1 | Catalytic Conversions for Biobased Chemicals and Products |
+3 | https://www.edx.org/course/catalytic-conversions-for-biobased-chemicals-and-p |
+ES |
+Chemistry |
+1 | Biochemistry: Biomolecules, Methods, and Mechanisms |
+2 | https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms |
+BS |
+2 | Introduction to Solid State Chemistry |
+4 | https://www.edx.org/course/introduction-to-solid-state-chemistry |
+BS |
+Cognitive Science |
+1 | Medical Neuroscience |
+2 | https://www.coursera.org/learn/medical-neuroscience |
+BS |
+2 | Robot Development |
+2 | https://www.edx.org/course/developmental-robotics |
+ES |
+Computer Science and Engineering |
+1 | Deep Learning |
+3 | https://www.coursera.org/specializations/deep-learning |
+ES |
+2 | Probabilistic Graphical Models |
+4 | https://coursera.org/specialization/probabilistic-graphical-models |
+ES |
+3 | Software Defined Networking |
+1 | https://www.coursera.org/learn/sdn |
+4 | Introduction to Kubernetes |
+1 | https://www.edx.org/course/introduction-to-kubernetes |
+5 | Advanced Learning Algorithms |
+1 | https://www.coursera.org/learn/advanced-learning-algorithms |
+Electrical Engineering |
+1 | Introduction to Self-Driving Cars |
+1 | https://www.coursera.org/learn/intro-self-driving-cars#syllabus |
+2 | State Estimation and Localization for Self-Driving Cars |
+1 | https://www.coursera.org/learn/state-estimation-localization-self-driving-cars#syllabus |
+3 | Visual Perception for Self-Driving Cars |
+1 | https://www.coursera.org/learn/visual-perception-self-driving-cars#syllabus |
+4 | Motion Planning for Self-Driving Cars |
+1 | https://www.coursera.org/learn/motion-planning-self-driving-cars#syllabus |
+5 | Sensor Manufacturing and Process Control |
+2 | https://www.coursera.org/learn/sensor-manufacturing-process-control#syllabus |
+6 | Sensor Fusion and Non-linear Filtering for Automotive Systems |
+3 | https://www.edx.org/course/sensor-fusion-and-non-linear-filtering-for-automot |
+7 | VLSI CAD Part 1: Logic |
+1 | https://www.coursera.org/learn/vlsi-cad-logic#about |
+8 | VLSI CAD Part 2: Layout |
+1 | https://www.coursera.org/learn/vlsi-cad-layout#about |
+9 | Build a modern computer from first principles: Nand to Tetris Part II |
+3 | https://www.coursera.org/learn/nand2tetris2#about |
+10 | Fundamentals of Digital Image and Video Processing |
+1 | https://www.coursera.org/learn/digital#syllabus |
+ES |
+11 | Active Optical Devices Specialization |
+3 | https://www.coursera.org/specializations/active-optical-devices#courses |
+12 | Semiconductor Devices Specialization |
+2 | https://www.coursera.org/specializations/semiconductor-devices |
+13 | Optical Engineering Specialization |
+3 | https://www.coursera.org/specializations/optical-engineering |
+14 | Audio Signal Processing for Music Applications |
+2 | https://www.coursera.org/learn/audio-signal-processing |
+15 | Advanced Machine Learning and Signal Processing |
+1 | https://www.coursera.org/learn/advanced-machine-learning-signal-processing |
+16 | Applied AI with Deep Learning |
+1 | https://www.coursera.org/learn/ai |
+17 | Mathematics for Machine Learning - Specialization |
+2 | https://www.coursera.org/specializations/mathematics-machine-learning |
+Humanities and Social Sciences |
+1 | Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences |
+1 | https://www.coursera.org/learn/transmedia-storytelling#reviews |
+HSS |
+2 | Writing in the Sciences |
+1 | https://www.coursera.org/learn/sciwrite |
+HSS |
+3 | Social Psychology |
+1 | https://www.coursera.org/learn/social-psychology#syllabus |
+HSS |
+4 | Understanding the Brain: The Neurobiology of Everyday Life |
+2 | https://www.coursera.org/learn/neurobiology#syllabus |
+BS |
+5 | Modern Masterpieces of World Literature |
+1 | https://www.edx.org/course/modern-masterpieces-of-world-literature |
+HSS |
+6 | Biostatistics in Public Health Specialization |
+3 | https://www.coursera.org/specializations/biostatistics-public-health#courses |
+BS as well as HSS |
+7 | A Global History of Architecture |
+3 | https://www.edx.org/course/a-global-history-of-architecture-2 |
+HSS |
+8 | Qualitative Research Methods |
+2 | https://www.coursera.org/learn/qualitative-methods#about |
+HSS |
+9 | Macroeconomics for a sustainable planet |
+1 | https://www.edx.org/course/macroeconomics-for-a-sustainable-planet |
+HSS |
+10 | Visualizing Japan: Westernization, Protest, Modernity |
+1 | https://www.edx.org/course/visualizing-japan-1850s-1930s-westernization-prote |
+HSS |
+11 | The Modern World, Part II |
+1 | https://www.coursera.org/learn/modern-world-2#about |
+HSS |
+12 | Hypotheses Testing in Econometrics |
+2 | https://in.coursera.org/learn/hypotheses-testing-in-econometric#syllabus |
+HSS |
+13 | Topics in Applied Econometrics |
+1 | https://in.coursera.org/learn/topics-in-applied-econometrics |
+HSS |
+14 | Game Theory |
+2 | https://in.coursera.org/learn/game-theory-1 |
+HSS |
+15 | Inequality and Democracy |
+2 | https://in.coursera.org/learn/inequality-and-democracy |
+HSS |
+16 | Political Economy of Institutions and Development |
+2 | https://in.coursera.org/learn/political-economy#syllabus |
+HSS |
+17 | Local Economic Development |
+2 | https://in.coursera.org/learn/local-economic-development#syllabus |
+HSS |
+18 | From Poverty to Prosperity: Understanding Economic Development |
+2 | https://www.edx.org/course/from-poverty-to-prosperity-understanding-economic?index=product |
+HSS |
+19 | Understanding Poverty and Inequality |
+2 | https://www.edx.org/course/understanding-poverty-and-inequality?index=product |
+HSS |
+20 | Behavioral Economics and Public Policy |
+2 | https://www.edx.org/learn/behavioral-economics ...  |
+HSS |
+21 | Evaluating Impact in Low- and Middle-Income Countries |
+4 | https://www.edx.org/learn/economics/world-bank-group-evaluating-impact-in-low-and-middle-income-countries? ..  |
+HSS |
+22 | Data Analysis for Social Scientists |
+4 | https://mitxonline.mit.edu/courses/course-v1:MITxT+14.310x/  |
+HSS |
+23 | Designing and Running Randomized Evaluations |
+4 | https://mitxonline.mit.edu/courses/course-v1:MITxT+JPAL102x/ |
+HSS |
+24 | Good Economics for Hard Times |
+4 | https://mitxonline.mit.edu/courses/course-v1:MITxT+14.009x/  |
+HSS |
+25 | The Challenges of Global Poverty |
+4 | https://mitxonline.mit.edu/courses/course-v1:MITxT+14.73x/ |
+HSS |
+26 | Political Economy and Economic Development |
+4 | https://mitxonline.mit.edu/courses/course-v1:MITxT+14.750x/ |
+HSS |
+27 | Foundations of Development Policy |
+4 | https://mitxonline.mit.edu/courses/course-v1:MITxT+14.740x/  |
+HSS |
+28 | Tools for Academic Engagement in Public Policy |
+1 | https://www.edx.org/course/from-poverty-to-prosperity-understanding-economic?index=product |
+HSS |
+29 | Game Theory |
+2 | https://in.coursera.org/learn/game-theory-1 |
+HSS |
+30 | Inequality and Democracy |
+2 | https://in.coursera.org/learn/inequality-and-democracy |
+HSS |
+31 | Political Economy of Institutions and Development |
+2 | https://in.coursera.org/learn/political-economy#syllabus |
+HSS |
+32 | Local Economic Development |
+2 | https://in.coursera.org/learn/local-economic-development#syllabus |
+HSS |
+33 | From Poverty to Prosperity: Understanding Economic Development |
+1 | https://www.edx.org/course/from-poverty-to-prosperity-understanding-economic?index=product |
+HSS |
+34 | Understanding Poverty and Inequality |
+1 | https://www.edx.org/course/understanding-poverty-and-inequality?index=product |
+HSS |
+35 | Behavioral Economics and Public Policy |
+2 | https://www.edx.org/learn/behavioral-economics/indian-institute-of-management-bangalore-behavioral-economics-and-public-policy?  |
+HSS |
+36 | Macroeconomics of Climate Change: Science, Economics, and Policies |
+1 | https://www.edx.org/learn/climate-change/the-international-monetary-fund-macroeconomics-of-climate-change-science-economics-and-policies?  |
+HSS |
+37 | The History of Economic Thought |
+4 | https://www.conted.ox.ac.uk/courses/history-of-economic-thought-online?code=O24P538SOV |
+HSS |
+38 | Introduction to Economic Theories |
+2 | https://www.coursera.org/learn/intro-economic-theories |
+HSS |
+39 | Managerial Economics and Business Analysis Specialization |
+4 | https://www.coursera.org/specializations/managerial-economics-business-analysis? |
+HSS as well as M |
+40 | Entrepreneurship Specialization |
+4 | https://www.coursera.org/specializations/wharton-entrepreneurship? |
+HSS as well as M |
+41 | Engineering Project Management Specialization |
+4 | https://www.coursera.org/specializations/engineering-project-management#outcomes |
+HSS as well as M |
+42 | Business Foundations Specialization |
+4 | https://www.coursera.org/specializations/wharton-business-foundations |
+HSS as well as M |
+43 | Introduction to Managerial Economics |
+2 | https://www.edx.org/learn/economics/indian-institute-of-management-bangalore-introduction-to-managerial-economics |
+HSS as well as M |
+44 | Quantitative Marketing Research |
+2 | https://www.edx.org/learn/marketing/indian-institute-of-management-bangalore-quantitative-marketing-research |
+HSS as well as M |
+45 | Introduction to Investments |
+2 | https://www.edx.org/learn/investing/indian-institute-of-management-bangalore-introduction-to-investments |
+HSS as well as M |
+46 | Platform Business Models |
+2 | https://www.edx.org/learn/business-model/indian-institute-of-management-bangalore-platform-business-models#what-youll-learn |
+HSS as well as M |
+47 | Brand Management |
+2 | https://www.edx.org/learn/branding/indian-institute-of-management-bangalore-brand-management |
+HSS as well as M |
+48 | HRM Strategy Execution |
+2 | https://onlinecourses.swayam2.ac.in/imb25_mg57/preview |
+HSS as well as M |
+49 | Operations Management |
+2 | https://www.edx.org/learn/operationsmanagement/indian-institute-of-management-bangalore-operations-management |
+HSS as well as M |
+Material Science and Engineering |
+1 | Introduction to advanced tomography |
+1 | https://www.coursera.org/learn/cinemaxe#syllabus |
+2 | Synchrotrons and x-ray free electron lasers |
+1 | https://www.edx.org/course/synchrotrons-and-x-ray-free-electron-lasers |
+3 | Micro and Nanofabrication (MEMS) |
+1 | https://courses.edx.org/courses/course-v1:EPFLx+memsX+3T2018/course/ |
+Mathematics |
+1 | Game Theory |
+1 | https://www.coursera.org/learn/game-theory-1 |
+BS |
+2 | Introduction to Probability and Data |
+1 | https://www.coursera.org/learn/probability-intro |
+BS |
+3 | Inferential Statistics |
+1 | https://www.coursera.org/learn/inferential-statistics-intro |
+BS |
+4 | Fundamentals of Statistics |
+4 | https://www.edx.org/course/fundamentals-of-statistics |
+BS |
+Mechanical Engineering |
+1 | Sensors and Sensor Circuit Design |
+1 | https://www.coursera.org/learn/sensors-circuit-interface |
+2 | Pressure, Force, Motion, and Humidity sensors |
+1 | https://www.coursera.org/learn/pressure-force-motion-humidity-sensors |
+3 | Statistical Learning |
+1 | https://www.edx.org/course/statistical-learning |
+BS |
+4 | Fundamentals of Fluid Power |
+1 | https://www.coursera.org/learn/fluid-power |
+5 | Fundamentals of Fluid-Solid Interactions |
+1 | https://www.coursera.org/learn/fluid-solid-interaction? |
+6 | Introduction to Solar Cells |
+1 | https://www.coursera.org/learn/solar-cells? |
+7 | Wind Energy |
+1 | https://www.coursera.org/learn/wind-energy |
+8 | Understanding Nuclear Energy |
+1 | https://www.edx.org/course/understanding-nuclear-energy |
+9 | Fundamentals of Waves and Vibrations |
+1 | https://www.coursera.org/learn/fundamentals-waves-vibrations |
+10 | Model-Based Automotive Systems Engineering |
+4 | https://www.edx.org/course/model-based-automotive-systems-engineering |
+11 | Robotics: Aerial Robotics |
+1 | https://www.coursera.org/learn/robotics-flight?specialization=robotics |
+12 | Robotics: Computational Motion Planning |
+1 | https://www.coursera.org/learn/robotics-motion-planning?specialization=robotics |
+13 | Robotics: Mobility |
+1 | https://www.coursera.org/learn/robotics-mobility?specialization=robotics |
+14 | Robotics: Perception |
+1 | https://www.coursera.org/learn/robotics-perception?specialization=robotics |
+15 | Robotics: Estimation and Learning |
+1 | https://www.coursera.org/learn/robotics-learning |
+16 | Introduction to Self-Driving Cars |
+1 | https://www.coursera.org/learn/intro-self-driving-cars#syllabus |
+17 | State Estimation and Localization for Self-Driving Cars |
+1 | https://www.coursera.org/learn/intro-self-driving-cars? |
+18 | Visual Perception for Self-Driving Cars |
+1 | https://www.coursera.org/learn/visual-perception-self-driving-cars? |
+19 | Motion Planning for Self-Driving Cars |
+1 | https://www.coursera.org/learn/motion-planning-self-driving-cars? |
+20 | Sensor Manufacturing and Process Control |
+2 | https://www.coursera.org/learn/sensor-manufacturing-process-control? |
+21 | Manufacturing Systems I |
+3 | https://www.edx.org/course/manufacturing-systems-i |
+22 | Manufacturing Systems II |
+3 | https://www.edx.org/course/manufacturing-systems-ii |
+23 | Manufacturing Process Control I |
+3 | https://www.edx.org/course/manufacturing-process-control-i |
+24 | Manufacturing Process Control II |
+3 | https://www.edx.org/course/manufacturing-process-control-ii |
+Physics |
+1 | Fundamentals of Biomedical Imaging |
+1 | https://www.edx.org/course/fundamentals-of-biomedical-imaging-magnetic-resona |
+BS as well as ES |
+2 | Intro to Machine Learning with TensorFlow |
+4 | https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230 |
+3 | Solar Energy: Photovoltaic (PV) Energy Conversion |
+4 | https://www.edx.org/course/solar-energy-photovoltaic-pv-energy-conversion |
+4 | Statistical Thermodynamics |
+1 | https://www.coursera.org/specializations/statistical-thermodynamics-engineering |
+BS |
+Earth Sciences |
+1 | Natural Attenuation of groundwater contaminants: New Paradigms, Technologies and Applications. |
+1 | https://www.coursera.org/learn/natural-attenuation-of-groundwater-contaminants |
+2 | Planetary Boundaries |
+1 | https://www.edx.org/course/planetary-boundaries |
+3 | emergence of life |
+1 | https://www.coursera.org/learn/oceanography#reviews |
+4 | Global Warming I: The Science and Modelling of Climate Change |
+2 | https://www.coursera.org/learn/global-warming#syllabus |
+5 | Global Warming II: Create your own models in Python |
+1 | https://www.coursera.org/learn/global-warming-model#syllabus |

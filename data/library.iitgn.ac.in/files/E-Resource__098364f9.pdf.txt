@@ -1,0 +1,91 @@
+#flags:
+
+E-RESOURCES
+
+@
+
+LIBRARY
+IIT Gandhinagar
+Palaj
+Gandhinagar 382055 Gujarat
+Email: librarian@iitgn.ac.in
+Phone: 079 2395 1127 / 1129
+https://library.iitgn.ac.in/
+
+List of E-Resources Subcribed by
+Library at IIT Gandhinagar
+Full Text Journals
+AAAI Digital Library
+ACM Digital Library
+American Chemical Society (ACS) Journals
+American Concrete Institute (ACI)
+American Institute of Physics (AIP) Journals
+American Mathematical Society Journals
+American Meteorological Society
+American Physical Society (APS) Journals
+American Society for Microbiology(ASM) Journals
+Annual Reviews Collection
+ASCE Library
+ASME Digital Collection
+ASTM Standards + Digital Library
+Cambridge University Press Journals (Cambridge Journals
+Online)
+Canadian Science Publishing (Formerly NRC Press)
+Directory of Open Access Journals
+ECS Digital Library
+Earthquake Engineering Online Archive - (NISEE E-Library)
+Elsevier's ScienceDirect
+EOLSS - Encyclopedia Life Support Systems (UNESCO)
+Eurographics Digital Library
+IEEE Xplore (IEEE/IET)
+IOP Science
+IAHR Library
+Indiastat.com
+Indian Standards (BIS)
+JoVE, the Journal of Visualized Experiments
+JSTOR Archives
+Mathematical Association of America
+MIT CogNet
+Nature Journals
+OpticsInfoBase- OSA's Digital Library
+Oxford University Press Journal Collection
+PressReader: Digital Newspapers & Magazines
+Proceedings of the National Academy of Sciences
+Project EUCLID
+Project MUSE
+Royal Society of Chemistry (RSC) Journals
+Sage Journals
+Seismological Society of America
+Science (online) Magazine
+SIAM Journals Online
+South Asia Archive
+Springer Journals (Springer Link)
+Taylor & Francis Journal Collection
+World eBook Library
+
+...and more titles from other publishers!
+
+Bibliographic Databases
+ASCE's Civil Engineering Database (CEDB)
+ACM Computing Reviews
+EBSCO MLA International Bibliography
+Indian Science Abstracts
+ISID Database- Institute for Studies in Industrial
+Development (ICSSR)
+J-Gate Custom Content for Consortium (JCCC)
+MathSciNet (Mathematical Reviews)
+SciFindern
+Scopus
+The Library, Information Science & Technology Abstracts
+(LISTA)
+Web of Science
+
+E-Books
+
+ACM Classic Books
+e-Book Engineering Core (EBSCO)
+EOLSS - Encyclopedia Life Support Systems (UNESCO)
+McGraw Hill Access Engineering
+MITCognet
+South Asia Archive
+World eBook Library

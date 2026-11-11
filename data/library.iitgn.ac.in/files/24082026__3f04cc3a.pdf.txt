@@ -1,0 +1,153 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 34, 2026
+(Added during 17th August 2026 – 21st August 2026)
+Available for the issue from 29th August 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Brain-computer interfaces: revolutionizing human-computer interaction
+Author: Graimann, Bernhard (Ed.)
+Publisher: New York: Springer, 2011
+Call No.: 005.437 GRA
+Acc. No.: 037257
+
+Title: Brain-computer interfaces: current trends and applications
+Author: Hassanein, Aboul Ella (Ed.)
+Publisher: New York: Springer, 2016
+Call No.: 005.437 HAS
+Acc. No.: 037256
+
+PSYCHOLOGY
+Title: Temptation of biology: Freud's theories of sexuality
+Author: Laplanche, Jean
+Publisher: New York: Unconscious in Translation, 2014
+Call No.: 150.195 LAP
+Acc. No.: 037249
+
+LAW
+Title: Incomplete justice? : the Supreme Court at 75
+Author: Murlidhar, S. (Ed.)
+Publisher: New Delhi: Juggernaut, 2025
+Call No.: 347.54015 MUR
+Acc. No.: 037233
+
+JAPANESE LANGUAGE
+Title: Genki: an integrated course in elementary Japanese I workbook, 3rd ed.
+Author: Banno, Eri
+Publisher: Tokyo: Japan Times Publishing, 2025
+Call No.: 495.682121 BAN
+Acc. No.: 037246
+
+Title: Try! Japanese language proficiency Test N5 revised edition
+Author: Asian Students Cultural Association, Public Interest Incorporated
+Foundation (ABK)
+Publisher: New York: Ask Publishers, 2025
+Call No.: 495.682421 ABK
+Acc. No.: 037244
+
+Title: Learning kanji for beginners - textbook and integrated workbook for
+remembering kanji learn how to read, write and speak Japanese
+Author: Akiyama, Dan
+Publisher: New Delhi: Affordable Publications, 2022
+Call No.: 495.682421 AKI
+Acc. No.: 037243
+Title: Genki: an integrated course in elementary Japanese: workbook, 3rd ed.
+Author: Banno, Eri
+Publisher: Tokyo: Japan Times Publishing, 2025
+Call No.: 495.682421 BAN
+Acc. No.: 037245
+Title: Shin Nihongo 500 mon: JLPT N4-N5 500 quizzes
+Author: Matsumoto, Noriko
+Publisher: New York: ASK Publishing, 2025
+Call No.: 495.682421 MAT
+Acc. No.: 037247
+
+MATHEMATICS
+Title: Advanced engineering mathematics, 11th ed., an Indian adaptation
+Author: Kreyszig, Erwin
+Publisher: Delhi: Wiley, 2026
+Call No.: 510.2462 KRE
+Acc. No.: 037240- 037242
+Title: Teichmüller theory and applications to geometry, topology, and dynamics
+(3 vol. set)
+Author: Hubbard, John H.
+Publisher: New York: Matrix Editions, 2006
+Call No.: 515.9 HUB
+Acc. No.: 037250- 037252
+Title: Algebraic curves
+Author: Walker, Robert J.
+Publisher: New York: Springer, 1978
+Call No.: 516.352 WAL
+Acc. No.: 037258
+
+PHYSICS
+Title: Fantastic realities: 49 mind journeys and a trip to Stockholm
+Author: Wilczek, Frank
+Publisher: Singapore: World Scientific Publishing, 2007
+Call No.: 530 WIL
+Acc. No.: 037237
+
+GEOLOGY
+Title: Deep-time perspectives on climate change: marrying the signal from
+computer models and biological proxies
+Author: Williams, M. (Ed.)
+Publisher: London: Geological Society, 2007
+Call No.: 551.609 WIL
+Acc. No.: 037234
+
+ENGINEERING
+Title: Materials data science: introduction to data mining, machine learning, and
+data-driven predictions for materials science and engineering
+Author: Sandfeld, Stefan
+Publisher: New York: Springer, 2025
+Call No.: 620.11 SAN
+Acc. No.: 037253- 037254
+Title: Materials characterization techniques
+Author: Zhang, Sam
+Publisher: London: CRC Press, 2026
+Call No.: 620.110287 ZHA
+Acc. No.: 037238- 037239
+
+ELECTRONICS & COMMUNICATION ENGINEERING
+Title: Imaging sensors, power management, PLLs and frequency synthesizers
+Author: Makinwa, Kofi A. A. (Ed.)
+Publisher: Switzerland: Springer, 2025
+Call No.: 621.3815 MAK
+Acc. No.: 037236
+
+Title: Chip-scale power supplies for DC-link and grid applications
+Author: Rindfleisch, Christoph
+Publisher: Switzerland: Springer, 2024
+Call No.: 621.3815 RIN
+Acc. No.: 037235
+
+Title: ESD in silicon integrated circuits
+Author: Amerasekera, Ajith
+Publisher: England: John Wiley & Sons, 2002
+Call No.: 621.38152 AME
+Acc. No.: 037232
+
+Title: Microstrip antenna design handbook
+Author: Garg, Ramesh
+Publisher: Boston: Artech House, 2001
+Call No.: 621.3824 GAR
+Acc. No.: 037248
+
+MANAGEMENT
+Title: People-powered startups: building a culture of collaboration, innovation
+and high performance
+Author: Nigam, Saurabh
+Publisher: Gurugram: Penguin Business, 2025
+Call No.: 658.3 NIG
+Acc. No.: 037255

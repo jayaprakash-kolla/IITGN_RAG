@@ -1,0 +1,323 @@
+#flags:
+
+## Sheet: Sheet1
+Details of Top Universities from where students have  enrolled in your institution to pursue higher studies |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+S.No. | Name of student | Name of top University/Institution from where student graduated | Graduating year | Program enrolled in your institution(PG/PhD) | Year of admission |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1 | Aakrati Gupta | Bharati Vidyapeeth Deemed University College Of Engineering-Pune | 2012 | MASC | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+2 | Ab Qayoom Mir |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+3 | Abhigna Sandipkumar Bhatt | Sardar Vallabhbhai National Institute Of Technology |  | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+4 | Abhishek Kumar Pandey |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+5 | Abhishek Sahai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+6 | Abhishek Upadhyay | Thapar University-Patiala | 2009 | Ph.D | 2010 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+7 | Adarsh Kumar | National Institute Of Technology, Raipur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+8 | Adarsh M | Cochin University Of Science And Technology-Cochin | 2013 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+9 | Afsar Ali |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+10 | Althaf A. | National Institute Of Technology, Tiruchirappalli |  | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+11 | Amalnath M | National Institute Of Technology, Calicut | 2014 | M. Tech | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+12 | Amar Deep Tiwari | National Institute Of Technology, Raipur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+13 | Amarjyoti Das Mahapatra | Indian Institute Of Technology, Gandhinagar |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+14 | Amit Kumar Singh |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+15 | Anirban Roy | National Institute Of Technology, Durgapur | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+16 | Ankita Verma | National Institute Of Technology, Raipur | 2014 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+17 | Anuji K V |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+18 | Anusmita Devi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+19 | Anvita Gopal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+20 | Apoorva Ojha | Sardar Vallabhbhai National Institute Of Technology |  | Ph.D | 2012 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+21 | Archini Paruthi | Vellore Institute Of Technology |  | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+22 | Ashish Kar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+23 | Asim Bashir | Malaviya National Institute Of Technology, Jaipur | 2013 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+24 | Bala Sai Kiran Patnam | Indian Institute Of Technology, Hyderabad |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+25 | Balaganesh B | National Institute Of Technology, Tiruchirappalli | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+26 | Batchu Raja Sekhar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+27 | Bhanu Pratap Singh Gangwar | Indian Institute Of Technology, Roorkee | 2012 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+28 | Bharatesh Rayappa Shiraguppi | M. S. Ramaiah Institute Of Technology-Bangalore | 2013 | M.Sc. | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+29 | Bhatt Abhigna Sandipkumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+30 | Bhavsar Punitkumar Kanubhai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+31 | Bhoir Mandar Suresh Smita | Indian Institute Of Technology, Gandhinagar |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+32 | Bikash Sarma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+33 | Chaithra Mayya |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+34 | Chakresh Singh | Indian Institute Of Technology, Kanpur | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+35 | Chandan Kumar Jha | National Institute Of Technology, Meghalaya |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+36 | Chandan Kumar Jha | National Institute Of Technology, Raipur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+37 | Chhaya Rachit Chandravadan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+38 | Chirag Harendrabhai Trivedi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+39 | Choudhari Jayesh Tulsidas | Indian Institute Of Technology, Kanpur | 2013 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+40 | Deepak Kumar Sharma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+41 | Deepesh Kumar | National Institute Of Technology, Rourkela-Rourkela |  | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+42 | Deepjit Paul | National Institute Of Technology, Agartala | 2014 | M. Tech | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+43 | Dharmendra Kumar | Indian Institute Of Technology, North Guwahati | 2012 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+44 | Dhaval Shashikantbhai Solanki | Indian Institute Of Technology, Gandhinagar |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+45 | Dineshkumar S. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+46 | Diptiben Patel | Sardar Vallabhbhai National Institute Of Technology | 2011 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+47 | Divita Singh | Indian Institute Of Technology (Banaras Hindu University), Varanasi |  | Ph.D | 2012 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+48 | Dushyant Kumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+49 | Dwaipayan Ray | National Institute Of Technology, Agartala |  | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+50 | Ekta Sharma | Malaviya National Institute Of Technology, Jaipur | 2014 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+51 | Fairoos C | Indian Institute Of Technology, Bombay |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+52 | Gadhvi Joshna Dharmendrabhai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+53 | Gagan Kanojia | Indian Institute Of Technology, Gandhinagar |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+54 | Ganeriwala Mohit Dineshkumar | Indian Institute Of Technology, Gandhinagar |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+55 | Gaurav Dwivedi | Indian Institute Of Technology, Delhi | 2010 | Ph.D | 2012 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+56 | Gayathri P | Indian Institute Of Technology, Kharagpur | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+57 | Geethanjali Savithri Dhakshinamurthy |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+58 | Ghatage Swapnil Vilasrao |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+59 | Goldy Yadav | Indian Institute Of Technology, Gandhinagar |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+60 | Gopala Krishna Rodda | Indian Institute Of Technology, Madras | 2013 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+61 | Gunda Harini | Indian Institute Of Technology, Gandhinagar |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+62 | Gupta Vikas Rajkumar | Yeshwantrao Chavan College Of Engineering-Nagpur | 2012 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+63 | Guru Krishnakumar Viswanathan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+64 | Haider Ali |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+65 | Hariharan P | Psg College Of Technology-Coimbatore |  | Ph.D | 2009 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+66 | Hrishabh Tiwari | Indian Institute Of Technology (Banaras Hindu University), Varanasi | 2014 | M.Sc. | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+67 | I. Vinod Kumar Reddy |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+68 | Indra Deep Mastan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+69 | Indumathi S |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+70 | Ingole Prashant Ramprasad |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+71 | J Ram Prabhakar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+72 | Jagini Kishore Kumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+73 | Jagriti Gangopadhyay | Indian Institute Of Technology, Bombay | 2013 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+74 | Jahnu Bharadwaj |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+75 | Javeena |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+76 | Jerene George |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+77 | Kalaga S Dinesh Kumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+78 | Kaling Taki | Indian Institute Of Technology, Kharagpur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+79 | Kalpeshkumar Arvindbhai Joshi | Indian Institute Of Technology, Delhi | 2008 | Ph.D | 2011 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+80 | Komal Upendra Pandey |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+81 | Krittika Ralhan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+82 | Kulkarni Siddharth Vijay |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+83 | Laya | Indian Institute Of Technology, Gandhinagar | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+84 | Laya Das (change in name approved by the Chairman, Senate on 9th March 2016) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+85 | Madhu Gupta | Indian Institute Of Technology, Bombay |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+86 | Madhu K | Indian Institute Of Technology, Kharagpur | 2002 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+87 | Mahesh V.P. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+88 | Majid Hussain | National Institute Of Technology, Srinagar |  | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+89 | Manas Chandan Mishra | Malaviya National Institute Of Technology, Jaipur | 2011 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+90 | Manish Kumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+91 | Manju Bhashini V |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+92 | Manu Kurian |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+93 | Marapu Reddy Sai Geetha |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+94 | Mehta Krishnesh Shantilal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+95 | Midhula Chandran | Cochin University Of Science And Technology-Cochin |  | M.Sc. | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+96 | Milan Rathod | Institute Of Technology, Nirma University | 2013 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+97 | Mohammad Yousuf Jamal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+98 | Mohd Umair Iqbal | Malaviya National Institute Of Technology, Jaipur | 2012 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+99 | Mohmad Thakur | Malaviya National Institute Of Technology, Jaipur | 2014 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+100 | Nagireddy Neelakanteswar Reddy |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+101 | Nakka Suryasatyasanjeevi | Amrita School Of Engineering | 2014 | M. Tech | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+102 | Nalini Natarajan | Shanmugha Arts Science Technology & Research Academy (Sastra) | 2013 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+103 | Narendra Bandaru | Indian Institute Of Technology, Madras | 2012 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+104 | Nasar Ahmad Khan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+105 | Naveen Deepak V. | Indian Institute Of Technology, Gandhinagar | 2012 | Ph.D | 2012 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+106 | Naveen Kumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+107 | Naveen Kumar Endla | Indian Institute Of Technology, Gandhinagar | 2012 | Ph.D | 2012 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+108 | Neelam Surana | Indian Institute Of Technology, Kanpur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+109 | Neha Kumari | University Institute Of Chemical Technology, North Maharashtra University, Jalgaon | 2013 | M. Tech | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+110 | Nemani Kameswari Mani Priyanka |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+111 | Nishant Kumar | Indian Institute Of Technology, Ropar-Rupnagar | 2014 | M. Tech | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+112 | Nithin George |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+113 | Nitish Choudhary
+(w.e.f. Semester-II of 2014-15) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+114 | P. Praveenkumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+115 | Palakollu Veera Bhadraiah | National Institute Of Technology, Warangal | 2011 | Ph.D | 2011 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+116 | Palash Jana | Indian Institute Of Technology, Gandhinagar |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+117 | Pallavi Chilka | National Institute Of Technology, Warangal |  | Ph.D | 2012 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+118 | Pandya Saloni Prashant |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+119 | Pankaj | Indian Institute Of Technology, Hyderabad | 2012 | Ph.D | 2012 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+120 | Pardeep Kumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+121 | Parth Upadhyay |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+122 | Patel Deptiben Navinchandra |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+123 | Patel Manthan Maheshbhai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+124 | Patel Narendra Madhavlal | Indian Institute Of Technology, Bombay | 2000 | Ph.D | 2009 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+125 | Patel Nikita Bharatbhai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+126 | Pavan Kumar Chamling | National Institute Of Technology, Rourkela-Rourkela |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+127 | Poonam Pandey | Indian Institute Of Technology (Banaras Hindu University), Varanasi |  | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+128 | Poonam Ratrey | National Institute Of Technology, Raipur |  | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+129 | Prabhat Kumar | Indian Institute Of Technology, Kanpur | 2006 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+130 | Pradeep Raj K.B. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+131 | Prakash Gupta | Indian Institute Of Technology, North Guwahati | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+132 | Pramod Bharti |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+133 | Praseetha E.K |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+134 | Prashant Kumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+135 | Prasoon Kumar Singh |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+136 | Prathap Reddy P |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+137 | Pritha Chakravarti |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+138 | Priyanka Kameswari Mani Nemani | National Institute Of Technology, Rourkela-Rourkela |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+139 | Punitkumar Kanubhai
+  Bhavsar | Indian Institute Of Technology, Roorkee | 2012 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+140 | Rachita Agrawal | Birla Institute Of Technology | 2014 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+141 | Rahul Kumar | Indian Institute Of Technology, Kanpur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+142 | Rahul Kumar Kaushal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+143 | Rajendra Nagar | Indian Institute Of Technology, Jodhpur |  | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+144 | Rajkumari Kaurav | National Institute Of Technology, Warangal |  | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+145 | Rajput Vandana |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+146 | Ramendra Sahoo | Indian Institute Of Technology, Roorkee | 2013 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+147 | Ranjit Kumar Dehury |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+148 | Ranjita Dash | Indian Institute Of Technology, Kharagpur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+149 | Rashmi Bhakuni |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+150 | Ravi Kant | Indian Institute Of Technology, Kharagpur | 2012 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+151 | Ravi Kant Prasad | Indian Institute Of Technology, Roorkee | 2013 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+152 | Reepal Dinesh Shah |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+153 | Renika Baruah |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+154 | Reshma Arable | Malaviya National Institute Of Technology, Jaipur | 2014 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+155 | Richa Tripathi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+156 | Rishabh Abhinav | Motilal Nehru National Institute Of Technology |  | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+157 | Rishabh Mishra | National Institute Of Technology, Srinagar | 2014 | M. Tech | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+158 | Rishi Kumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+159 | Ritam Chatterjee | Vellore Institute Of Technology |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+160 | Rohit Mishra | Indian Institute Of Technology, Gandhinagar | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+161 | Roshan Anandrao Chavan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+162 | Rujuta Avinash Bhat |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+163 | Saket Kumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+164 | Sanat Chandra Maiti | Indian Institute Of Technology, Kanpur | 2011 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+165 | Sanghavi Hiral Manojkumar | Indian Institute Of Technology (Banaras Hindu University), Varanasi | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+166 | Sankha Subhra Bhattacharjee | National Institute Of Technology, Agartala |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+167 | Saran Aadhar | National Institute Of Technology, Raipur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+168 | Sarkale Abhijeet Madhukar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+169 | Sarode Ajinkya Ashok | Sardar Vallabhbhai National Institute Of Technology | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+170 | Saroj Kumar Das | Indian Institute Of Technology, Kharagpur | 2013 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+171 | Sasmita Majhi | National Institute Of Technology, Rourkela-Rourkela |  | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+172 | Satyajit Mohapatra | Indian Institute Of Technology, Gandhinagar | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+173 | Selvia Kuriakose |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+174 | Shah Vrutangkumar Vinodkumar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+175 | Shaik Althaf |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+176 | Sharad Joshi | Sardar Vallabhbhai National Institute Of Technology |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+177 | Shashank Shekhar | Indian Institute Of Technology, Roorkee |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+178 | Sheetal Rameshchandra Pandya |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+179 | Shiv Dutt Sharma | National Institute Of Technology, Hamirpur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+180 | Shiv Prakash Singh |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+181 | Shivam Dhama |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+182 | Shruti Goyal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+183 | Siddharth Vijay Kulkarni | Indian Institute Of Technology, Madras | 2013 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+184 | Singh Chetan Chandan | Indian Institute Of Technology, Bombay | 2012 | Ph.D | 2012 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+185 | Singh Chetan
+Chandan |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+186 | Sneha Nitin Ved | Indian Institute Of Technology, Madras | 2013 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+187 | Snehal Shukla |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+188 | Sonam |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+189 | Sophia Varghese |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+190 | Sreejith K P |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+191 | Srimadhavi R |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+192 | Sudhakar Kumawat | Indian Institute Of Technology (Banaras Hindu University), Varanasi |  | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+193 | Sudipta Das |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+194 | Sujata Sinha | National Institute Of Technology, Agartala |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+195 | Sunnda | Indian Institute Of Technology (Banaras Hindu University), Varanasi |  | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+196 | Sunny Verma | National Institute Of Technology, Hamirpur | 2013 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+197 | Supratim Shit | Indian Institute Of Technology, Jodhpur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+198 | Sushanta Kumar Sethi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+199 | Suyash Kandele | National Institute Of Technology, Raipur |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+200 | Swaroop Chakraborty |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+201 | Syed Khateeb Ahmad |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+202 | Tarushyam Mukherjee |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+203 | Tony Thomas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+204 | Toral Gupta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+205 | Tvarit Ashokbhai Patel | Indian Institute Of Technology, Kharagpur | 2012 | Ph.D | 2012 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+206 | Utsav |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+207 | V Naveen Deepak |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+208 | Vaibhav Kumar
+(withdrew on 04.06.2015) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+209 | Varsha Thambi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+210 | Vasudha Sharma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+211 | Veli Milind Mehta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+212 | Venkata Mani Padmaja Duppalapudi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+213 | Vighnesh Prasad | Indian Institute Of Technology, Gandhinagar |  | Ph.D | 2015 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+214 | Vijay Ramkaran Tripathi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+215 | Vikalp Kamal | Malaviya National Institute Of Technology, Jaipur | 2014 | M. Tech | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+216 | Vinal Patel | Indian Institute Of Technology, North Guwahati | 2013 | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+217 | Vinay Verma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+218 | Vipul Nair | National Institute Of Technology, Silchar |  | M.Sc. | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+219 | Vishal Vashistha | Indian Institute Of Technology, Roorkee | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+220 | Vishav Jyoti |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+221 | Vivek Digamberrao Farkade |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+222 | Zarin A S | Cochin University Of Science And Technology-Cochin |  | Ph.D | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+223 | Zeeshan Ahmed | Indian Institute Of Technology, Jodhpur | 2014 | Ph.D | 2014 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## Sheet: Sheet2
+## Sheet: Sheet3
+## Sheet: Sheet4
+Details of Top Universities from where students have  enrolled in your institution to pursue higher studies |  |  |  |  |  |  |
+Sr. No | Name of student | Name of top University/Institution from where student graduated | Graduating year | Program enrolled in your institution(PG/PhD) | Year of admission |  |
+1 | Gagan Kanojia | Indian Institute Of Technology, Gandhinagar | 2014 | Ph.D | 2015 |  |
+2 | Gunda Harini | Indian Institute Of Technology, Gandhinagar | 2015 | Ph.D | 2015 |  |
+3 | Dhaval Shashikantbhai Solanki | Indian Institute Of Technology, Gandhinagar | 2015 | Ph.D | 2015 |  |
+4 | Bhoir Mandar Suresh Smita | Indian Institute Of Technology, Gandhinagar | 2015 | Ph.D | 2015 |  |
+5 | Ganeriwala Mohit Dineshkumar | Indian Institute Of Technology, Gandhinagar | 2015 | Ph.D | 2015 |  |
+6 | Vighnesh Prasad | Indian Institute Of Technology, Gandhinagar | 2015 | Ph.D | 2015 |  |
+7 | Amarjyoti Das Mahapatra | Indian Institute Of Technology, Gandhinagar | 2015 | Ph.D | 2015 |  |
+8 | Palash Jana | Indian Institute Of Technology, Gandhinagar | 2015 | Ph.D | 2015 |  |
+9 | Goldy Yadav | Indian Institute Of Technology, Gandhinagar | 2015 | Ph.D | 2015 |  |
+10 | Amar Deep Tiwari | NIT Raipur | 2015 | Ph.D | 2015 |  |
+11 | Pavan Kumar Chamling | National Institute Of Technology, Rourkela-Rourkela | 2015 | Ph.D | 2015 |  |
+12 | Saran Aadhar | NIT Raipur | 2015 | Ph.D | 2015 |  |
+13 | Anvita Gopal | Delhi University | 2015 | Ph.D | 2015 |  |
+14 | Indra Deep Mastan | IISc., Bangalore | 2015 | Ph.D | 2015 |  |
+15 | Supratim Shit | Indian Institute Of Technology, Jodhpur | 2015 | Ph.D | 2015 |  |
+16 | Neelam Surana | Indian Institute Of Technology, Kanpur | 2015 | Ph.D | 2015 |  |
+17 | Ranjita Dash | Indian Institute Of Technology, Kharagpur | 2015 | Ph.D | 2015 |  |
+18 | Fairoos C | Indian Institute Of Technology, Bombay | 2015 | Ph.D | 2015 |  |
+19 | Richa Tripathi | University of Delhi | 2015 | Ph.D | 2015 |  |
+20 | Patel Manthan Maheshbhai | Nirma University | 2015 | Ph.D | 2015 |  |
+21 | Srimadhavi R | University of Madaras | 2015 | Ph.D | 2015 |  |
+22 | Varsha Thambi | Delhi University | 2015 | Ph.D | 2015 |  |
+23 | Kaling Taki | Indian Institute Of Technology, Kharagpur | 2015 | Ph.D | 2015 |  |
+24 | Madhu Gupta | Indian Institute Of Technology, Bombay | 2015 | Ph.D | 2015 |  |
+25 | Joshna Dharmendrabhai Gadhavi | Nirma University | 2015 | Ph.D | 2015 |  |
+26 | Vasudha Sharma | Punjab Technical University | 2015 | Ph.D | 2015 |  |
+27 | Priyanka Kameswari Mani Nemani | National Institute Of Technology, Rourkela-Rourkela | 2015 | Ph.D | 2015 |  |
+28 | Afsar Ali | Aligarh Muslim University | 2015 | Ph.D | 2015 |  |
+29 | Venkata Mani Padmaja Duppalapudi | Ln.G.V Rao Modern Degree College | 2015 | Ph.D | 2015 |  |
+30 | Rahul Kumar | Sardar Vallabhbhai National Institute Of Technology | 2015 | Ph.D | 2015 |  |
+31 | Shashank Shekhar | Indian Institute Of Technology, Roorkee | 2015 | Ph.D | 2015 |  |
+32 | Vishav Jyoti | Guru Nanak Dev University | 2015 | Ph.D | 2015 |  |
+33 | Rachit Chhaya | Nirma Institute of Technology | 2015 | Ph.D | 2015 |  |
+34 | Bala Sai Kiran Patnam | Indian Institute Of Technology, Hyderabad | 2015 | Ph.D | 2015 |  |
+35 | Sharad Joshi | Sardar Vallabhbhai National Institute Of Technology, Surat | 2015 | Ph.D | 2015 |  |
+36 | Rahul Kumar | Indian Institute Of Technology, Kanpur | 2015 | Ph.D | 2015 |  |
+37 | Suyash Kandele | NIT Raipur | 2015 | Ph.D | 2015 |  |
+38 | Chandan Kumar Jha | NIT Raipur | 2015 | Ph.D | 2015 |  |
+39 | Shiv Dutt Sharma | National Institute Of Technology, Hamirpur | 2015 | Ph.D | 2015 |  |
+40 | Sujata Sinha | NIT Agartala | 2015 | Ph.D | 2015 |  |
+41 | Chandan Kumar Jha | NIT Meghalaya | 2015 | Ph.D | 2015 |  |
+42 | Sankha Subhra Bhattacharjee | NIT Agartala | 2015 | Ph.D | 2015 |  |
+43 | Adarsh Kumar | NIT Raipur | 2015 | Ph.D | 2015 |  |
+44 | Amalnath M | National Institute Of Technology, Calicut | 2014 | M. Tech | 2015 |  |
+45 | Deepjit Paul | National Institute Of Technology, Agartala | 2014 | M. Tech | 2015 |  |
+46 | Nakka Suryasatyasanjeevi | Amrita School Of Engineering | 2014 | M. Tech | 2015 |  |
+47 | Neha Kumari | University Institute Of Chemical Technology, North Maharashtra University, Jalgaon | 2013 | M. Tech | 2015 |  |
+48 | Nishant Kumar | Indian Institute Of Technology, Ropar-Rupnagar | 2014 | M. Tech | 2015 |  |
+49 | Rishabh Mishra | National Institute Of Technology, Srinagar | 2014 | M. Tech | 2015 |  |
+50 | Dhuri Sagar Suresh | Shivaji University Kolhapur | 2014 | M. Tech | 2015 |  |
+51 | Luxmi | Guru Gobind Singh Indraprastha University, Delhi | 2015 | M. Tech | 2015 |  |
+52 | K Shravan Kumar | JNTU | 2014 | M. Tech | 2015 |  |
+53 | Prateek Goyal | SRM University | 2015 | M. Tech | 2015 |  |
+54 | Chinmane Pratik Tulsiram | University of Pune | 2013 | M. Tech | 2015 |  |
+55 | Mayuri Madhukar Kushhare | University of Pune | 2014 | M. Tech | 2015 |  |
+56 | Pinjari Nehakausar Shaikh Ramjan | University of Pune | 2014 | M. Tech | 2015 |  |
+57 | Davinder | Punjab Technical University | 2014 | M. Tech | 2015 |  |
+58 | Bharatesh Rayappa Shiraguppi | M. S. Ramaiah Institute Of Technology-Bangalore | 2013 | M.Sc. | 2015 |  |
+59 | Hrishabh Tiwari | Indian Institute Of Technology (Banaras Hindu University), Varanasi | 2014 | M.Sc. | 2015 |  |
+60 | Manasi Wali | BSc (Biomedical Sciences), University of Delhi | 2015 | M.Sc. | 2015 |  |
+61 | Pastakia Taronish Astad | St. Xavier's College Ahmedabad, Gujarat University | 2014 | M.Sc. | 2015 |  |
+62 | Richard Shallam | St. Stephen's College, Delhi University | 2015 | M.Sc. | 2015 |  |
+63 | Sandhya Singh | Delhi University | 2015 | M.Sc. | 2015 |  |
+64 | Vamakshi Yadav | Delhi University | 2015 | M.Sc. | 2015 |  |
+65 | Ayushi Tyagi | Delhi University | 2015 | M.Sc. | 2015 |  |
+66 | Vivek Nagayach | Delhi University | 2015 | M.Sc. | 2015 |  |
+67 | Sachin | Maharishi Dayanad University Rohtak | 2012 | M.Sc. | 2015 |  |
+68 | Jyotsna Saini | Delhi University | 2015 | M.Sc. | 2015 |  |
+69 | Vani Verma | Delhi University | 2014 | M.Sc. | 2015 |  |
+70 | Mohammad Hassan | Aligarh Muslim University | 2015 | M.Sc. | 2015 |  |
+71 | Himanshu Kumar Singh | Aligarh Muslim University | 2015 | M.Sc. | 2015 |  |
+72 | Umesh Kumar | Delhi University |  | M.Sc. | 2015 |  |
+73 | Mridupavan Sonowal | Dibrugarh University | 2014 | M.Sc. | 2015 |  |
+74 | Sanjeet | Pt. NRS Govt College,Maharishi Dayanad University Rohtak | 2015 | M.Sc. | 2015 |  |
+75 | Prathu Bajpai | Delhi University | 2015 | M.Sc. | 2015 |  |
+76 | Tripti Gupta | SGTB Khalsa College, Delhi University | 2014 | M.Sc. | 2015 |  |
+77 | Priyanka Rana | Delhi University | 2014 | M.Sc. | 2015 |  |
+78 | Charu Gupta | Kirorimal College, Delhi University | 2015 | M.Sc. | 2015 |  |
+79 | Vikash Patel | Allahabad University | 2015 | M.Sc. | 2015 |  |
+80 | Abhishek Kumar | Deendayal Upadhyaya College, Delhi University | 2015 | M.Sc. | 2015 |  |
+81 | Babita | Desh Bandhu College, Delhi University | 2015 | M.Sc. | 2015 |  |
+82 | Rahul | Delhi University | 2015 | M.Sc. | 2015 |  |
+83 | Harvinder Singh | Delhi University | 2015 | M.Sc. | 2015 |  |
+84 | Leema Saikia | DHSK College, Dibrugarh University | 2015 | M.Sc. | 2015 |  |
+Note: 1. Please enter data for students who  got admitted in the year 2015-16 in your institute PG/PhD program from top institution |  |  |  |  |  |  |
+2. Institutions ranked as top institutions in the following ranking bodies namely India Ranking 2016, QS World Ranking 2016, THE World University Ranking 2016. |  |  |  |  |  |  |

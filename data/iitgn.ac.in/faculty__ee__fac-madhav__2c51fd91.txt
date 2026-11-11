@@ -1,0 +1,49 @@
+Title: IIT Gandhinagar | Madhav K. Pathak
+Source: https://iitgn.ac.in/faculty/ee/fac-madhav
+
+# Madhav K. Pathak
+
+-  Electrical Engineering
+Madhav K. Pathak
+
+## Madhav K. Pathak
+
+Assistant Professor, Electrical Engineering
+
+- BTech (Electrical Engineering): IIT Roorkee, 2016
+- PhD (Microelectronics): Iowa State University, 2022
+
+Email: madhav.pathak -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/iitgn.ac.in/madhav-pathak
+
+Office:  AB 13/324B
+VOIP:  2618
+
+M. Pathak & R. Kumar, "Self-propelled Pre-biased Synchronous Charge Extraction Circuit for Triboelectric Nanogenerator", IEEE Journal of Emerging and Selected Topics in Power Electronics, Vol. 11, Issue 1, pp. 615-626, February 2023.
+ DOI: 10.1109/JESTPE.2022.3158347
+
+M. Pathak & R. Kumar, "Synchronous Pre-biasing of Triboelectric Nanogenerator for Enhanced Energy Extraction", IEEE Transactions on Power Electronics, Vol. 37, Issue 10, pp. 11552-11566, October 2022.
+ DOI: 10.1109/TPEL.2022.3169733
+
+M. Pathak, S. Xie, C. Huang, & R. Kumar, "High-Voltage Triboelectric Energy Harvesting using Multi-Shot Energy Extraction in 70V BCD Process", IEEE Transactions on Circuits and Systems II: Express Briefs, Vol. 69, Issue 5, pp. 2513-2517, May 2022.
+ DOI: 10.1109/TCSII.2022.3160676
+
+M. Pathak & R. Kumar, "Synchronous Inductor Switched Energy Extraction Circuits for Triboelectric Nanogenerator", IEEE Access, Vol. 9, pp. 76938-76954, May 2021.
+ DOI: 10.1109/ACCESS.2021. 3082499
+
+K. A. Singh, M. Pathak, R. J. Weber, & R. Kumar, "A Self-propelled Mechanism to Increase Range of Bistable Operation of a Piezoelectric Cantilever-based Vibration Energy Harvester", IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, Vol. 65, Issue 11, pp. 2184-2194, November 2018.
+ DOI: 10.1109/TUFFC.2018.2864998
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Dec 2023 - present)
+- Postdoctoral Research Associate, Iowa State University, Ames, IA (Dec 2022-Aug 2023)
+- Co-op, Skyworks Solutions, Cedar Rapids, IA (June 2019 - Dec 2019)
+
+- ● Power Management Integrated Circuits (PMIC)
+- ● Ambient Micro-power Energy Harvesting
+- ● IoT Sensor System Design
+Recent News:
+
+- ● Call for Researchers
+
+Complete List of Publications

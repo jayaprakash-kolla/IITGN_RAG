@@ -1,0 +1,124 @@
+#flags:
+
+Making and Maker-Spaces: The Secret Sauce of
+Future-Proof Learning
+Neeldhara Misra
+Department of Computer Science
+IIT Gandhinagar
+Gandhinagar, India
+neeldhara.m@iitgn.ac.in
+
+Manish Jain
+Center for Creative Learning
+IIT Gandhinagar
+Gandhinagar, India
+manish.jain@iitgn.ac.in
+
+Gaurav Kumar
+Center for Creative Leraning
+IIT Gandhinagar
+Gandhinagar, India
+gaurav.y@iitgn.ac.in
+
+Pankaj Godara
+Center for Creative Learning
+IIT Gandhinagar
+Gandhinagar, India
+pankaj.godara@iitgn.ac.in
+
+Neeraj Kumar
+Center for Creative Learning
+IIT Gandhinagar
+Gandhinagar, India
+neeraj.sharma@iitgn.ac.in
+
+Abstract— We propose that hands-on, experiential education is
+the most important ingredient for innovation, and that we need to
+start from very early years. In a few years, when the specifics of
+what is typically taught in the school classrooms will inevitably
+become redundant, it is the creativity resulting from a hands-on
+approach to learning that will remain relevant in times to come.
+
+clicks away. We need to think really hard what we teach and
+how we teach [3]. Computers are already on the verge of
+making teachers redundant in their current state. Our teachers
+need to quickly re-engineer their style to remain relevant in
+the upcoming future.
+
+In this contribution, we demonstrate several examples of
+future-proof and timeless approaches to teaching, which are simple
+and inexpensive. We build on the idea that learning also happens in
+the muscle, and this principle manifests itself in all our
+demonstrations and activities designed to supplement and enhance
+the knowledge intended to be imparted in the curriculum.
+
+The issue with most changes to education that are
+implemented in our systems presently is that they are shortsighted to the point where they treat the symptoms rather
+than addressing the heart of the issue at hand. For example,
+banning the use of mobile phones on school premises may
+keep students from texting during lectures, but it will not
+change the fact that they are disinterested in the lecture itself.
+
+Based on experiences gathered over several workshops
+conducted with students and teachers alike, the anecdotal evidence
+in favor of the efficacy of these methods is overwhelming. These
+methods lead to greater engagement in real-time and to higher
+retention rates, even of non-trivial and counter-intuitive concepts.
+There is a great need to foster creativity and innovation in young
+minds. We firmly believe that experiential STEM education is the
+key to driving innovation in India.
+Keywords— Education, STEM, Hands-on Learning, Teacher
+Training, Creativity in Education, Tinkering
+
+I. INTRODUCTION
+“If you don’t let anybody build a box around you, then
+you will never have to think outside of the box.”
+- Richard Branson
+We all learn best when we make, explore, pull things
+apart, and put them back together. Our current competitive
+and fast-paced system, however, seldom provides space for
+such learning. We are so focused on covering the curriculum
+in the schools that we forget to enliven the classrooms.
+A. The Problem
+The present system of school education is wellacknowledged as being plagued by several issues, including,
+but not limited to: growing disinterest in the classroom,
+distraction by modern technology, increasing concern about
+the relevance of the material taught and the danger that it
+becomes quickly dated, and so on.
+There is a great need to restructure our schools in this era
+of information overload. Having less information about
+something is no longer a problem. We are generating 2.5
+quintillion bytes of data per day and all of it is just some
+
+XXX-X-XXXX-XXXX-X/XX/$XX.00 ©20XX IEEE
+
+More of the same thing is sometimes not useful, and we
+feel it is doing more bad than good in education. Children
+spend countless hours in tuition classes replicating exactly
+what they do in their schools. This time can be invested to
+ignite the passion and nurture the inherent creativity of
+children.
+B. Our Background and Contributions
+The Center for Creative Learning (CCL) was established
+in 2017 at Indian Institute of Technology, Gandhinagar. The
+goal of the center is to create and foster makers in India who
+can take innovation to next level and realize the dream of
+“Make in India”.
+In this contribution, we demonstrate several examples of
+future-proof and timeless approaches to teaching, which are
+simple and inexpensive, cutting across themes in science,
+mathematics, engineering, and allied disciplines.
+C. Related Work
+As the field of education is relevant to everybody, there
+have been numerous attempts towards its betterment. But
+most solutions are either out of the reach of people or not
+suitable for Indian context.
+LittleBits and Osmo provides great kits for children to
+first assemble themselves and then code. Osmo even goes to
+bridge the gap between digital and real world. We feel they
+are great tools but pricing makes it unaffordable for Indian
+markets.
+Hour of Code is a free platform but is limited only to the
+software. It is an entirely virtual platform with no physical
+dimension, so while useful in serving the intended purpose, it
+has limited scope.

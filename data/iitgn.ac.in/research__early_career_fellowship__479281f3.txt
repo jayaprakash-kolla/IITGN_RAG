@@ -1,0 +1,91 @@
+Title: IIT Gandhinagar | Early Career Fellowship
+Source: https://iitgn.ac.in/research/early_career_fellowship
+
+# IIT Gandhinagar Early-Career Fellowship
+
+ The IIT Gandhinagar Early-Career Fellowship (IITGN-ECF) offers young scholars the opportunity to work on exciting challenges or research problems in a creative and interdisciplinary ecosystem. Fellows in the program will have access not only to their assigned department, but to the entire research infrastructure and facility of the Institute, which prizes interdisciplinarity.
+
+ Meet the IITGN-ECFs
+
+Notification Call for ECF-2023
+
+### Publications from ECFs
+
+Mishra, Chinmayee, “Cooling a thermal cloud to a supersolid”, Physics, DOI: 10.1103/Physics.14.85, vol. 14, no. 85, Jun. 2021.
+
+ Agrawal, Anuj and Kulkarni, Sameer G., “Backbone optical network densification (BOND): towards the realization of high-capacity next-generation optical fiber backbone networks”, in the 44th OSI Symposium on Frontiers in Optics and Photonics (FOP21), New Delhi, IN, Sep. 24-27, 2021.
+
+Madathil, Jayakrishnan; Sharma, Roohani and Zehavi, Meirav, “A sub-exponential FPT algorithm and a polynomial kernel for minimum directed bisection on semicomplete digraphs”, Algorithmica, DOI: 10.1007/s00453-021-00806-x, Feb. 2021.
+
+ Ahlawat, Monika; Roy, Abhijit and Govind Rao, Vishal, “Efficient extraction of energetic charge carriers from engineered plasmonic nanocomposite to perform cascade reaction”, ChemNanoMat: Chemistry of Nanomaterials for Energy, Biology and More, DOI: 10.1002/cnma.202100416, Nov. 2021.
+
+Roy, Abhijit; Paital, Diptiranjan and Khatua, Saumyakanti, “Pd-coated Au triangular nanoprisms as catalysts for hot-carrier-driven photochemistry”, ACS Applied Nano Materials, DOI: 10.1021/acsanm.2c00534, Feb. 2022
+
+ Rahman, Mostafizur and Bhattacharyya, Arpan, “Ringdown of charged compact objects using membrane paradigm”, Physical Review D, DOI: 10.1103/PhysRevD.104.044045, vol. 104, no. 4, Aug. 2021.
+
+Rahman, Mostafizur and Bhattacharyya, Arpan, “The prospect of distinguishing astrophysical objects with LISA”, arXiv, Cornell University Library, DOI: arXiv:2112.13869, Dec. 2021.
+
+Naeem, Sumayyah; Naeem, Farah; Mujtaba, Jawayria; Shukla, Ashish Kumar; Mitra, Shirsendu; Huang, Gaoshan; Gulina, Larisa; Rudakovskaya, Polina; Cui, Cui; Tolstoy, Valeri; Gorin, Dmitry; Mei, Yongfeng; Solovev, Solovev and Dey, Krishna Kanti, “Oxygen generation using catalytic nano/micromotors”, Micromachines, DOI: 10.3390/mi12101251, vol. 12, no. 10, Oct. 2021.
+
+Singh, Sunil Kumar; Srinivasan, Aishwarya; Mitra, Shirsendu and Gooh Pattader, Partho Sarathi, “Carbon dots and methylene blue facilitated photometric quantification of hemoglobin”, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, DOI: 10.1016/j.saa.2022.120906, vol. 27, Apr. 2022.
+
+Basak, Mitali; Mitra, Shirsendu and Gooh Pattader, Partho Sarathi, “Proton exchange membrane and bio-Fenton micro fuel cells for energy harvesting, gas leakage detection, and dye degradation”, RSC Advances, DOI: 10.1039/D1RA01378E, vol. 11, no. 21, pp. 12720-12728, Apr. 2021.
+
+Sharma, Meenu and Gaur, Anurag, “Electrochemical performance of rGO@ZnCo2O4 microspheres: rationally designed asymmetric constructed wide-potential energy storage device”, Journal of The Electrochemical Society, DOI: 10.1149/1945-7111/ac15b8, vol. 168, no. 7, Jul. 2021.
+
+Sharma, Meenu and Bhargav, Atul, “Development of graphitic carbon nitrides (g-C3N4) as multifunctional bridges in ZnCo2O4 for the anode of lithium-ion battery”, ECS Meeting Abstracts, DOI: 10.1149/MA2021-023409mtgabs, vol. MA2021-02, no. 3, pp. 409, Oct. 2021.
+
+Sharma, Meenu and Gaur, Anurag, “Emerging materials for high-performance supercapacitors”, in Energy storage and conversion devices, DOI: 10.1201/9781003141761-4, Boca Raton: CRC Press, pp. 71-97, Oct. 2021, ISBN: 9780367694258.
+
+Sharma, Meenu and Bhargav, Atul, “Iron tungsten nanorods electrode with high capacitance: an extraordinary cycling stability for durable aqueous supercapacitors”, Energy & Fuels, DOI: 10.1021/acs.energyfuels.1c03102, vol. 36, no. 1, pp. 618-625, Jan. 2022.
+
+Chakraborty, Swaroop; Prakash, Prabhat; Shah, Juhi; Mayya, Chaithra; Singh, Sanjay; Ranganathan, Raghavan; Soppina, Virupakshi; Jones, Eugenia Valsami and Misra, Superb K., “CuO nanoparticles as Copper-Ion reservoirs for elesclomol-mediated intracellular oxidative stress: implications for anticancer therapies”, ACS Applied Nano Materials, DOI: 10.1021/acsanm.1c04350, Jan. 2022.
+
+Prakash, Prabhat; Shylendran, Ardhra; Fall, Birane; Zdilla, Michael John; Wunder, Stephanie Louisa and Venkatnathan, Arun, “The solvate sponge crystal (DMF))3NaClO4: thermal stability and mechanism of reversible, pressure- or temperature-controlled juicing in a melt- and press-castable sodium-ion conductor”, Chemical Science, DOI: 10.1039/D0SC06455F, vol. 12, no. 15, pp. 5574-5581, Mar. 2021.
+
+Singh, Rashmi; Bhatia, Harshita; Prakash, Prabhat; Debroye, Elke; Dey, Swapan and Dehaen, Wim, “Tandem Nenitzescu reaction/nucleophilic aromatic substitution to form novel pyrido fused indole frameworks”, European Journal of Organic Chemistry, DOI: 10.1002/ejoc.202100827, vol. 2021, no. 34, pp. 4865-4875, Sep. 2021.
+
+Zybin, Sergey V.; Morozov, Sergey I.; Prakash, Prabhat; Zdilla, Michael J. and Goddard, William A., “Reaction mechanism and energetics of decomposition of tetrakis(1,3-dimethyltetrazol-5-imidoperchloratomanganese(II)) from quantum-mechanics-based reactive dynamics”, Journal of the American Chemical Society, DOI: 10.1021/jacs.1c04847, vol. 143, no. 41, pp. 16960-16975, Oct. 2021.
+
+ The opportunity to work on an exciting challenge or a research problem is the dream of a scholar, especially when possible within a creative and innovative ecosystem. IITGN-ECF is designed to offer these possibilities and support young scholars in their pursuit of excellence. With the possibility of extraordinary personal and professional growth, IITGN-ECF would prepare you for an independent futuristic academic career. The opportunities presented to you through IITGN-ECF offers access not only to a department but to the entire research infrastructure and facility of the Institute. The non-existent boundaries of disciplines at IITGN allow you to unlock the potential to experiment and contribute to the interdisciplinary ecosystem, which was carefully built over the years.
+
+ The Early-Career Fellowship Programme demands outstanding academic track record with limited opportunities for the year 2023. While the expectation from the candidates is very high, the Institute is committed to providing necessary support along with a conducive environment to achieve the goals. Fellows are expected to reach higher scales in their research outcome with significant impact, and that will be supported through exposure to networking for collaborative research, student mentoring, external grant writing, engaging in transformative projects and missions, pursuing entrepreneurial endeavours, etc.
+
+ Brochure
+
+ The selected candidates will work with an IITGN faculty member on a well-identified research problem that could lead to a significant scholarly contribution through academic publications. The expectation also includes involvement in guiding student projects, conducting scholarly activities and attending international workshops. Fellows will prepare themselves to be a fine scholar and an academic leader for tomorrow and aspire to join the top academic institutions in the country.
+
+## Who Should Apply?
+
+The fellowship is for applicants with aspirations for an academic career. The applicants should have successfully defended the doctoral thesis from an institution in India or abroad on or after 1st January 2023 and their research work should be rated highly with supporting scholarly publications. The candidates who have already submitted their doctoral thesis or are planning to submit their thesis in the next couple of months are also welcome to apply. Indian Citizens or Overseas Citizens of India (OCI) cardholders are eligible.
+
+## Fellowship
+
+-  ✦ Fellows will receive Rs. 1,00,000 per month (Rs. 90,000/- and Rs 10,000/-HRA). HRA is to be provided only if the fellow is not availing of any on-campus accommodation.
+- ✦ A professional development grant of up to Rs. 2.00 Lakh per year will be made available that also supports international travel to attend conferences, workshops, training programmes, etc.
+- ✦ In case relocating from abroad, travel reimbursement for self, spouse and dependents if any plus cost of transportation of household goods up to a combined maximum limit of Rs. 1,00,000/- subject to the production of necessary bills towards travel. The air travel is limited to economy class and the reimbursement is subject to the undertaking that the Fellows will be associated with IITGN for at least six months.
+- ✦ Fellows can submit individual proposals for financial support to conduct seminars, workshops and other scholarly activities.
+- ✦ The Fellowship will be awarded initially for one year. In case of outstanding performance, the Fellowship may be extended for another one year (that is, a total Fellowship duration of two years).
+
+## Expectations
+
+-  ✦ Fellows are expected to dedicate themselves to work full-time towards their research goals in collaboration with a faculty member, and they should aspire to join another top academic institution after completing their tenure.
+-  ✦ Fellow will work on a specific research project in collaboration with a faculty member besides engaging in other scholarly activities.
+-  ✦ Fellows may be permitted to engage in teaching a course or guiding undergraduate & postgraduate students after assessing their research outcome.
+-  ✦ One of the aims of the project should be to timely disseminate the created knowledge through high-impact scholarly publications.
+- ✦ The faculty collaborator undertakes to suitably involve, direct, supervise and evaluate the Fellow's work, and share quarterly assessments and at the conclusion of the Fellowship with the office of the Dean R&D.
+-  ✦ Fellows are expected to submit quarterly reports of their work and engagement in other scholarly activities to the faculty collaborator. The faculty collaborator will provide an objective assessment on the performance of the Fellow before forwarding the report to the office of the Dean R&D.
+-  ✦ Fellows are expected to follow the ethos of the Institute and be proactive towards their performance. We have zero tolerance policy towards poor performance and misconduct and any such instances would trigger one month's notice or immediate discontinuation with pay of one-month fellowship.
+
+## Selection
+
+-  ✦ As part of the application process, the applicants will develop a research proposal in a prescribed format in collaboration with a faculty member at IITGN. The plan will outline their research and professional objectives and must be endorsed by the proposed faculty collaborator. The applicants are strongly encouraged to directly contact the faculty collaborator.
+- ✦ The applicant will also submit a personal statement describing their aspirations and the expectations from themselves during this Fellowship.
+- ✦ The candidates from IIT Gandhinagar can apply to work with a faculty collaborator other than their PhD supervisor on a topic of their mutual interest.
+- ✦ The applicant will provide names and contact information of THREE referees who can objectively assess the candidate's potential towards this Fellowship.
+- ✦ Applicants are free to apply to ANY discipline and can submit only ONE application.
+- ✦ Faculty members may endorse more than one proposal.
+
+ Apply Online Here
+
+Contact: [email protected]

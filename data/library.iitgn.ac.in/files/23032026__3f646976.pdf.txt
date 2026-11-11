@@ -1,0 +1,105 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 12, 2026
+(Added during 16th March 2026– 20th March 2026)
+Available for the issue from 28th March 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+ARTIFICIAL INTELLIGENCE
+Title: Multi-LLM agent collaborative intelligence: the path to artificial general
+intelligence
+Author: Chang, Edward Y.
+Publisher: UK: Association for Computing Machinery, 2026
+Call No.: 006.32 CHA
+Acc. No.: 036800
+
+POLITICAL SCIENCE
+Title: Citizen under siege: essays (2014-2025)
+Author: Devy, G. N.
+Publisher: Chennai: Westland Non-Fiction, 2025
+Call No.: 320.954 DEV
+Acc. No.: 036797
+
+ENGLISH STUDIES
+Title: Contextualizing Indianness in English studies: a literary and pedagogical
+perspective
+Author: Dutte, Mahendra Jagannath (Ed.)
+Publisher: New Delhi: Adhyayan Publishers and Distributors, 2025
+Call No.: 428.0071 DUT
+Acc. No.: 036798
+
+NUMERICAL ANALYSIS
+Title: Algorithms from the book, 2nd ed.
+Author: Lange, Kenneth
+Publisher: Philadelphia: Society for Industrial and Applied Mathematics (SIAM),
+2025
+Call No.: 518.1 LAN
+Acc. No.: 036796
+
+MINERALOGY
+Title: X-Ray diffraction and the identification and analysis of clay minerals, 2nd ed.
+Author: Moore, Duane M.
+Publisher: New York: Oxford University Press, 1997
+Call No.: 549.6 MOO
+Acc. No.: 036802
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Distribution system planning: evolution of methodologies and digital tools
+for energy transition
+Author: Alvarez-Herault, Marie-Cecile
+Publisher: New Jersey: Wiley-ISTE, 2023
+Call No.: 621.319 ALV
+Acc. No.: 036795
+Title: CMOS: circuit design, layout, and simulation, 4th ed.
+Author: Baker, R. Jacob
+Publisher: New Jersey : Wiley-IEEE Press, 2019
+Call No.: 621.39732 BAK
+Acc. No.: 036794
+
+Title: Health, safety, and environmental management in offshore and petroleum
+engineering
+Author: Chandrasekaran, Srinivasan
+Publisher: West Sussex: Wiley, 2016
+Call No.: 622.8 CHA
+Acc. No.: 036803
+Title: Bio-inspired structures
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2026
+Call No.: 624.0157 CHA
+Acc. No.: 036792
+
+OFFSHORE ENGINEERING
+Title: Design aids for offshore topside platforms under special loads
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2022
+Call No.: 627.98 CHA
+Acc. No.: 036793
+
+Title: Advanced marine structures
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2026
+Call No.: 627.98 CHA
+Acc. No.: 036801
+
+Title: Offshore compliant platforms: analysis, design, and experimental studies
+Author: Chandrasekaran, Srinivasan
+Publisher: Hoboken, New Jersey: John Wiley & Sons, 2020
+Call No.: 627.98 CHA
+Acc. No.: 036804
+
+BUSINESS — BIOGRAPHY
+Title: Legendary diamantaire: the life of Kirtilal K. Doshi
+Author: Dadabhoy, Bakhtiar K.
+Publisher: New Delhi: Rupa Publication, 2025
+Call No.: 920.054 DAD
+Acc. No.: 036799

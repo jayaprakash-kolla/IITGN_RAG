@@ -1,0 +1,15 @@
+Title: Library | IIT Gandhinagar
+Source: https://library.iitgn.ac.in/grammarly.php
+
+## Grammarly
+
+ Library subscribes to a premium version of Grammarly - an automated grammar tutor and revision tool for writing. You can utilize this service on Firefox, Chrome and in MS Word. You can upload draft writing assignments to receive immediate instructional feedback on over 250+ points of grammar, punctuation and styles.
+Steps to create and activate your Grammarly account:
+
+- Go to https://www.grammarly.com/edu/signup
+- Enter your name, IITGN email, and preferred password. Click "sign up".
+- Check your email (Inbox and spam) for an activation email.
+- Grammarly help: Click here to download the Grammarly user guide.
+In case you have a Basic account already, you will have to delete that for accessing Premium account.
+
+For further assistance and guidance, please contact us on: [email protected]

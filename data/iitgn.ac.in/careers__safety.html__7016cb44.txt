@@ -1,0 +1,25 @@
+Title: IIT Gandhinagar | Centre for Safety Engineering
+Source: https://iitgn.ac.in/careers/safety.html
+
+# Centre for Safety Engineering
+
+- Careers
+Centre for Safety Engineering
+
+IIT Gandhinagar has recently established a Safety Centre with an objective to promote safety in public and private spheres, industry and the informal sector. The Safety Centre advances these objectives with activities to:
+
+Discover – Research projects, consultancy and project implementation. Promoting awareness and undertaking public advocacy around safety:
+ The IITGN Safety Centre undertakes a vigorous program of safety research, consultation and project implementation in the formal and informal sector. Some of the major consultancy projects currently in progress include Seismic design criteria for metro structures for MEGA, Identification of an Optimal Disinfectant for the Preservation of RO Purified Water and Safe Cities. Several research projects at the PhD and Master's levels have been undertaken by faculty. These include computational modeling of condensed phase aerosols, cognitive engineering for process safety, study of human factors in process control and alarm management directed towards preventing accidents in chemical plants and design of inherently safe chemical plants. A number of undergraduate projects have also been initiated including development of an Indian Fire Incident Database and development of an Android App for fire reporting. The Safety Centre recently incorporated ‘sustainability’ into its research themes and has also undertaken a project to evaluate safety practices among small and medium scale enterprises in Gujarat Chemical Industries.
+
+Teach
+ The Safety Centre endeavors to develop and integrate safety related courses into its graduate and undergraduate curriculum. Safety related elective courses currently being offered include Introduction to Fire Engineering, Fundamentals of Chemical Process Safety and Design of structures under fire. IIT Gandhinagar has also become a member of Safety and Chemical Engineering Education SACHE program of the American Institute of Chemical Engineers (AIChE), which provides teaching material and programs that bring elements of process safety into the student curriculum and also access to a wide range of educational materials prepared by AIChE’s Centre for Chemical Process Safety. Regular Industry visits and field trips are arranged for a first-hand view of how the concepts covered in classes translate to industrial practice. The Safety Centre is also exploring the potential of developing minor and certificate courses as well as graduate programs in industrial safety in the coming years.
+
+Outreach
+ The Safety Centre conducts conferences, workshops, seminars and training for researchers, academicians, safety professionals and policy makers around the world to advance their expertise, professional knowledge and skills and to introduce them to the state-of-the-art. Several workshops, training programs and short courses have been organized that cover topics such as Disaster Mitigation, Confined Masonry, Profess Safety Management, Seismic Retrofitting, Seismic Design of Reinforced Concrete Buildings and Earth and Rockfilled Dams, Fire Safety, geotechnical Aspects of Earthquake Engineering, Soil Structure Interaction, Fire Investigation, Enclosure Fire Dynamics, Industrial Hazard Identification and Process Safety. In addition, the Centre organizes a biennial International Conference on Safety (ICS) covering all areas of Safety (Design and Operations, Regulations and Standards, Planning and Economics, Risk management, Testing, Behavioral and occupational safety) spread across various sectors such as buildings and structures, consumer, fire, industrial, process, construction and transportation and informal sectors. A symposium with a special focus on process safety is also organized every year.
+
+Practice
+ The Safety Centre oversees and monitors safety at IITGN and ensures a safe working environment in all laboratories and all aspects of Institute operations. The Safety committee has formulated policies, developed safety manuals and conducts regular training programs for staff and students. The safety management system also undertakes regular checks, audits, inspections, incident investigations and proper follow up.
+
+The Safety Centre, in the relentless pursuit of its objectives as a premier entity dedicated to Safety in India and beyond, endeavors to induct the best talent in all capacities. Potential applicants come from various science and engineering disciplines with a research background related to one or more research themes of the Center, as evidenced by scientific publications.
+
+Queries related to recruitment and Center activities may be directed to Prof. Chinmay Ghoroi [[email protected]] while those related to faculty recruitment at IITGN may be addressed to [email protected]

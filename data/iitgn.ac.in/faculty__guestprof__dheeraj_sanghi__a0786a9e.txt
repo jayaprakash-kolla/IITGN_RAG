@@ -1,0 +1,83 @@
+Title: IIT Gandhinagar | Dheeraj Sanghi
+Source: https://iitgn.ac.in/faculty/guestprof/dheeraj_sanghi
+
+# Dheeraj Sanghi
+
+-  Guest Professors
+Dheeraj Sanghi
+
+## Dheeraj Sanghi
+
+Guest Professor, Computer Science & Engineering
+Professor, IIT Kanpur
+
+- BTech: Indian Institute of Technology, Kanpur, 1986
+- MS: University of Maryland, College Park, 1989
+- PhD: University of Maryland, College Park, 1993
+
+Email: [email protected] -AT- iitgn.ac.in
+
+ Website :  https://www.cse.iitk.ac.in/users/dheeraj/
+
+S Gulwani, A Tarachandani, D Gupta, D Sanghi, L P Barreto, C Consel, and G Muller. WebCaL: A Domain Specific Language for Web Caching. In Proc. of Fifth Int'l Web caching and Content Delivery Workshop, Lisbon, Portugal, May, 2000.
+
+Sandeep Jain, Vinod Sharma, and Dheeraj Sanghi. FAFS: A New MAC Protocol for Wireless ATM. In Proc. of IEEE Int'l Conf. on Personal Wireless Communications, Jaipur, India, February, 1999.
+
+Dheeraj Sanghi. Numbering Plan for Internet Telephony. In Proc. of National Communications Conference (NCC '99), Kharagpur, India, January, 1999.
+
+Dheeraj Sanghi and Manu Thambi. A Scheme for Transfer and Execution of Architecture Independent Procedures. In Proc. of 6th Int'l Conf. on Advanced Computing (ADCOMP) '98, Pune, India, December, 1998.
+
+Dheeraj Sanghi. Issues in Designing the Next Generation Transport Protocol. In Proceedings of Int'l Conf. on Information Technology, Bhubaneshwar, India, December, 1998.
+
+Samir Goel and Dheeraj Sanghi. Improving the Performance of TCP over Wireless Links. In Proceedings of IEEE TENCON '98, New Delhi, India, December, 1998.
+
+Vihari V Komaragiri and Dheeraj Sanghi. Designing a Virtual Lecture Hall Software. In Proc. of South-East Asian Regional Computer Conf. (SEARCC) '98, Darwin, Australia, July, 1998.
+
+Vihari V Komaragiri and Dheeraj Sanghi. Designing a Virtual Learning Environment for Situated Learning. In Proc. of Int'l Conf. on Collaborative Networked Learning, New Delhi, India, February, 1998.
+
+Sameer Shah and Dheeraj Sanghi. Host Anycast Support in IPv6. In Proc. of 5th Int'l Conf. on Advanced Computing (ADCOMP) '97, Chennai, India, December, 1997.
+
+Dheeraj Sanghi. IPv6: Recent Advances and Issues. In Proc. of South-East Asian Regional Computer Conf. (SEARCC) '97, New Delhi, India, December, 1997. Invited Paper.
+
+Dheeraj Sanghi, Somanchi B. Vinod, and Uzzal Baruah. ATMSIM: A Simulator for ATM Networks. In Proceedings of Networks '96, Bombay, India, January, 1996.
+
+Ashok K. Agrawala, Dheeraj Sanghi, and Leyuan Shi. An End-to-End Send-time-based Flow Control Scheme. Journal of Internetworking: Research & Experience, Vol. 6, pages 41-58, 1995.
+
+N. Srin Kumar, and Dheeraj Sanghi. A Reliable Multicast Transport Protocol. In Proc. of 1st National Conf. on Communications (NCC '95), Kanpur, India, March, 1995.
+
+Ashok K. Agrawala, Dheeraj Sanghi, and Leyuan Shi. Flow Control of a Virtual Circuit. In Proceedings of 11th International Conference on Analysis and Optimization of Systems Discrete Event Systems, Ecole des Mines, Sophia-Antipolis, France, June 1994.
+
+B. N. Jain, Ashok K. Agrawala, and Dheeraj Sanghi. Model and Analysis of a Virtual Circuit with Cross Traffic. Journal of Internetworking: Research & Experience, 4(2), December 1993.
+
+Dheeraj Sanghi, 'O. Gudmundsson, and Ashok K. Agrawala. Study of Network Dynamics. Computer Networks & ISDN Systems, 26(3):371-378, November 1993.
+
+Sonia Baldia, and Dheeraj Sanghi. Intellectual Property Rights for Software: Proposal for a Modified Copyright Protection. In Proc. of Int'l Conf. on Intellectual Property Rights in Computer Software and their Impact on Developing Countries, Bangalore, India, August, 1993.
+
+Dheeraj Sanghi, 'O. Gudmundsson, and Ashok K. Agrawala. Study of Network Dynamics. In Proceedings of 4th Joint European Networking Conference, Trondheim, Norway, May 1993.
+
+Dheeraj Sanghi, Ashok K. Agrawala, 'O. Gudmundsson, and B. N. Jain. Experimental Assessment Of End-to-end Behavior On Internet. In Proceedings of IEEE INFOCOM '93, pages 867-874, San Francisco, California, March 1993.
+
+Ashok K. Agrawala and Dheeraj Sanghi. Network Dynamics: An Experimental Study Of The Internet. In Proceedings of Globecom '92, Orlando, Florida, December 1992.
+
+Dheeraj Sanghi and Ashok K. Agrawala. DTP: An Efficient Transport Protocol. In Proceedings of the IFIP TC6 Int'l Conf. on Computer Networks, Architecture and Applications (Networks '92), Trivandrum, India, October 1992. Elsevier North-Holland.
+
+Partho P. Mishra, D. Sanghi, and Satish K. Tripathi. TCP Flow Control In Lossy Networks: Analysis And Enhancement. In Proceedings of the IFIP TC6 Int'l Conf. on Computer Networks, Architecture and Applications (Networks '92), Trivandrum, India, October 1992. Elsevier North-Holland.
+
+Ashok K. Agrawala and Dheeraj Sanghi. Design And Evaluation Of An Adaptive Flow Control Scheme. In Proceedings of IEEE INFOCOM '92, Florence, Italy, May 1992.
+
+Dheeraj Sanghi, M. C. V. Subramaniam, A. U. Shankar, 'O. Gudmundsson, and Pankaj Jalote. A TCP Instrumentation And Its Use In Evaluating Roundtrip-time Estimators. Journal of Internetworking: Research & Experience, 1(2):77-99, December 1990.
+
+- Professor, CSE Department, IIT Kanpur (Since Nov 2003)
+- Director, LNM Institute of Information Technology, Jaipur (Sep 2008 to May 2010)
+- Associate Professor, CSE Department, IIT Kanpur (Sep 2001 to Nov 2003)
+- Assistant Professor, CSE Department, IIT Kanpur (Sep 1993 to Sep 2001)
+- Visiting Faculty, KR School of Information Technology, IIT Bombay (July 2000 to Nov 2000)
+- Member, Technical Staff, Bell Laboratories, Lucent Technologies, Holmdel, NJ (Dec 1996 to July 1997)
+- Visiting Research Faculty, CS Department, University of Maryland, College Park, MD (May 1995 to July 1995)
+
+- ● Computer networks
+- ● Protocols
+- ● TCP/IP
+- ● IPv6
+- ● Network security
+- ● Telecom regulation

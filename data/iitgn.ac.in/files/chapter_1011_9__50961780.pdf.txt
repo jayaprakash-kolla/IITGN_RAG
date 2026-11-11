@@ -1,0 +1,154 @@
+#flags:ocr
+
+The Batch of 2009 B. Tech. Students
+
+Roll No. Name of Student Branch Roll No. Name of Student Branch
+[9001001 |Arth Patel |Chemical {9002036 [Piyush A. Meshram [Electrical
+{9001004 Shruti Jain \Chemical [9002037 Subhash Kunche Electrical
+{9001005 [Divya Bansal \Chemical [9002038 [Ankita Gupta [Electrical
+[9001006 |Garima Raghuwanshi [Chemical (9002039 |Narendranath Balasubramoni [Electrical
+[9001010 |Kotu Susmitha Purnima (Chemical (9002040 |Nasina Lalitha Pragna Electrical
+(9001011, Shalinee Kavadiya [Chemical (9002041 |Chetas Joshi [Electrical
+{9001012 [Rahul Pancholi [Chemical (9002042 Shubham Ranka Electrical
+[9001017 |Vishvendra Joshi \Chemical [9002043 jainil Parekh Electrical
+[9001019 [Adit Gupta [Chemical (9002044 Sayed Ayesha Electrical
+{9001020 [Mohit Verma \Chemical (9003001 [Yash Shah [Mechanical
+{9001021 (Gaurav Rathore [Chemical (9003002 |Ajinkya P. Dahale \Mechanical
+{9001023 [Neerav Indrajit Gadhvi \Chemical [9003003 Suresh Ramasamy [Mechanical
+[9001024 [Shri Prakash Gupta |\Chemical [9003004 [Vishnu Vijay [Mechanical
+9001025, [Ved Prakash Sahu \Chemical {9003005 Rajat Jain [Mechanical
+[9001026 Monica Yadav (Chemical {9003006 IK. Vinay [Mechanical
+[9001027 Ravi Teja [Chemical {9003007 |Abhijith Rajiv [Mechanical
+[9001028 [Sanjay Meena \Chemical {9003008 (Gourav Dubey [Mechanical
+[9001030 \Hima Teja \Chemical {9003010 Shashank Pande: Mechanical
+[9001031 [Pooja Athawal [Chemical (9003011 IB. Abhishek Sharma [Mechanical
+9001032, [Nagender Singh \Chemical (9003013 [Pratham Shah [Mechanical
+[9001033 [Tarun Verma \Chemical (9003014 Siddhartha Cheruvu [Mechanical
+{9001034 [Ravi Kumar \Chemical [9003015 Tarun Rai [Mechanical
+9001035, Sushant Kumar Suman [Chemical (9003017, [Ravi Agarwal [Mechanical
+9001037, [Divyank Singh \Chemical (9003018 [Himanshu M. Dewangan [Mechanical
+9001038, Shrankhla Narya [Chemical (9003019 Shyamal Kishore [Mechanical
+{9002001 |Aditi Dighe [Electrical (9003020 Sunil Patidar [Mechanical
+[9002002 |Niral Pankaj Parikh [Electrical (9003021 [Chetan Dhande [Mechanical
+(9002004. [Rahul Jeshnani [Electrical (9003022 |Anil Kumar Chejara [Mechanical
+[9002005 [Bobbur A. Chowdary [Electrical {9003023 |Harikrishnan C. B [Mechanical
+[9002006 [Mohit Malu [Electrical 9003024 Shubham Chauhan. [Mechanical
+[9002007 [Ankit Grover [Electrical (9003025 |Chaitanya R. Mahadasyam__ [Mechanical
+{9002008 [Tarkeshwar Singh Electrical (9003026 [Babulal Choudhary [Mechanical
+[9002009 Ekta Prashnani [Electrical (9003027 IM.Rudra Prasad [Mechanical
+{9002010 [Shubham Gupta (Electrical (9003028 Suresh Kumar Choudhary [Mechanical
+[9002011 [Pratik Thacker [Electrical [9003029 [Prashant Patel \Mechanical
+[9002012 [Shubham Agarwal \Electrical [9003030 jashuva Vaddeswaram [Mechanical
+[9002014 \Akshay Navalakha Electrical (9003031 [Deep Kumar [Mechanical
+9002015, |[Pritish Jain \Electrical (9003032 [Dipesh Dayama [Mechanical
+[9002016 [Dhruv Chokshi [Electrical (9003033 [Dinesh K. Gangapatnam [Mechanical
+[9002018 [Satyendra Singh Jadaun [Electrical (9003034 [Bhavin Chauhan [Mechanical
+[9002019 [Vipul Goyal Electrical [9003035 |Ajish R. [Mechanical
+{9002020 [Parth Shah [Electrical [9003036 Sunny Patel [Mechanical
+(9002021 [Pritesh Sankhe [Electrical 9003037, |Kaustubh Tirpude [Mechanical
+[9002022 (Gourav Kumar Saini [Electrical (9003038 S.R.G.Krishna Teja [Mechanical
+[9002023 [Saurya Prakash Sinha [Electrical 9003039 [Rohit Chouksey [Mechanical
+[9002024 Shashank Naphade [Electrical {9003040 [Varun Gupta [Mechanical
+9002025, IKislay Pankaj [Electrical 9003041 |Anirudh Singal Mechanical
+[9002026 |U. Revanth V. Sandeep Electrical (9003042 Shreyas Vaidya [Mechanical
+[9002027 [Shashank Sheohare [Electrical (9003043 [Abhilash Patel [Mechanical
+{9002028 [Bajrang Choudhary [Electrical (9003044 \Vrushiket Patil [Mechanical
+{9002029 [Kishan Suthar [Electrical (9003045, IMohak Patel IMechanical
+{9002030 Siddharth Gora Electrical
+
+[9002031 jadala Karthik [Electrical
+
+9002032, |Nitesh Meshram Electrical
+
+{9002033 [Pravinbhai Pranami Jyoti Electrical
+
+[9002034 |Abhinav Borkar [Electrical
+
+(9002035. Suraj Sonker [Electrical
+
+IIT Gandhinagar | Annual Report | 2010 - 2011 | Page 85
+The Batch of 2010 B. Tech. Students
+
+Roll No. Name of Student Branch Roll No. Name of Student Branch
+(10001001 [Prashant Patel [Chemical (10002019 \Vibhav Vikas Katre Electrical
+(10001002 [Pranav Bagaria [Chemical (10002020 [Anuj Topiwala [Electrical
+(10001003 [Smit Shah [Chemical {10002021 [Rajesh Kumar Jangid Electrical
+(10001004 [Akshay Jain. [Chemical 110002022, [Nitya Pawar Electrical
+{10001005 [Saurabh Garg [Chemical {10002023 [Sanjay Kumar Gill Electrical
+{10001006 IM. Sashankchowdary [Chemical {10002024 [Devendra Singh Yadav [Electrical
+{10001007 [Mayank Jhalaria [Chemical {10002025 [Prem Shankar [Electrical
+{10001008 |Vakkantula Harika {Chemical (10002026 [Sandesh Achari [Electrical
+(10001009 Aishwarya Agrawal \Chemical (10002027 (Gagan Kanojia [Electrical
+(10001010 [Rajat Sharma \Chemical (10002028 Akshay Pingale Electrical
+(10001011 [Avinash N. Tumkur [Chemical (10002029 [Pavanagundla R. Chary [Electrical
+(10001012 [Prateek Nyati [Chemical {10002030 IK. Sirisha Electrical
+{10001013 [Rutuparna Karandikar [Chemical (10002031 [Deepak Sagar Electrical
+(10001014 INitai Bajaj [Chemical {10002032 Sushrut Pramod Meshram _[Electrical
+(10001015, Sumit H. Deshmukh {Chemical (10002033, [Kiran Parmar [Electrical
+(10001016 Spandan Jyoti Das {Chemical (10002034 {Arun Kumar Singh Electrical
+(10001017, [Sanket Mahajan [Chemical (10002035 [Mrityunjaya Kumar [Electrical
+(10001018 |Nuthalapati Sriharsha [Chemical (10002036 [Dharm Ratna Baudh Electrical
+(10001020 [Wasim Khan Pathan [Chemical (10002037 [Kailash Chand Meena [Electrical
+(10001022 [Pamulapati Sushma Sri [Chemical (10002038 [Patel Tanay Somnath [Electrical
+(10001023 \Pratyush Shastri \Chemical {10002039 [Sanjay Meena Electrical
+(10001024 [Rajat Sharma [Chemical {10002040 [Sumpi Riningam Electrical
+(10001025, [Dasari Yashwanth Kumar [Chemical (10002041 [Ravindra Kumar Meena Electrical
+(10001026 [Deep Karpe [Chemical {10002042 |Ashish Kumar Sehra [Electrical
+(10001027 [Rohan Kokane {Chemical (10002043 [Ankur Meena [Electrical
+(10001028 [Prashant Bhatewara [Chemical (10002044. [Brijesh_ Kumar Meena \Electrical
+{10001029 |Anirudha Vishvakarma (Chemical (10003001 |Ankita Sharma [Mechanical
+(10001030 [Patil Chetan Chandrakant [Chemical (10003002 |Atharva Patil [Mechanical
+(10001031 [Prashant Kumar Singh [Chemical (10003003 [Manne Sri S. Krishna Mechanical
+(10001032 [Pritam F. Bhaladhare (Chemical (10003004. [Akshay Mall [Mechanical
+{10001033 Jitender Kumar \Chemical {10003005 [Saksham D. Kohli [Mechanical
+(10001034. [Priya Jalutharia [Chemical {10003006 Shaliwahan Singh Rathore [Mechanical
+(10001035, |Amandeep Kaur [Chemical {10003007 [Hariom Bhargava [Mechanical
+(10001036 [Rinku Meena [Chemical (10003008 |Akash Abhijit Bapat [Mechanical
+(10001037 [Akshya Kumar [Chemical (L0003009 |Arjita Sharma [Mechanical
+(10001038 Sanjay Saroj [Chemical (10003010 Jinesh Shah [Mechanical
+10001039 [Bhaskarjyoti Das [Chemical (10003011 [Dhwanil P Shukla Mechanical
+(10001040 [Rajat Inderiya {Chemical (10003013 [Ankit Suchanti [Mechanical
+(10001042, [Durgesh Bagri [Chemical {10003014 INakul Nuwal [Mechanical
+(10001043 [Punit Rawat [Chemical (10003015, [Shubham Bhargav [Mechanical
+(10002001 [Deepti Chopra [Electrical (10003016 [Shashank Agarwal [Mechanical
+(10002002 Mohit Sharma [Electrical (10003017 [Shashank Tyagi [Mechanical
+10002004 Adit Bhardwaj [Electrical (10003018 |Nihar K. Kotak [Mechanical
+(10002005, 'Yash Kotak [Electrical (10003019 \Akanksha Jagwani [Mechanical
+(10002006 Sunil Nair [Electrical (10003020 [Ritu Milind Gavasane [Mechanical
+(10002007 [Ameya Joshi Electrical (10003021 Suyash Patkar [Mechanical
+(10002008 [Hoosein Safdari Electrical (10003022 [Mangesh P. Gangarde [Mechanical
+(10002009 IM. J. Balaji Venkatesh Electrical (10003023 (Vikram Vishnoi [Mechanical
+(10002010 ivanshu Arora Electrical {10003024 [Bhavya Madasu [Mechanical
+(10002011 |Nisarg Shah Electrical (10003025, [Shubhangi Bansude [Mechanical
+(10002012 INitesh Udhani [Electrical (10003026 |Geddada S. Sivaganesh [Mechanical
+(10002013 [Kartik Saxena Electrical (10003027 [Kamarapu T. Chander [Mechanical
+(10002014 [Mohit Bajaj Electrical
+
+(10002015 Soni Smit Dilipbhai [Electrical
+
+{10002016 |Nishank Jain [Electrical
+
+(10002017 [Yash Goyal [Electrical
+
+(10002018 [P. Snigdha Manogyna [Electrical
+
+IIT Gandhinagar | Annual Report | 2010
+
+- 2011 | Page 86
+Roll No. Name of Student Branch Roll No. Name of Student Branch
+
+[10003028 [Pradeep P. Nikhade [Mechanical (10003037, [Poonam Chand Meena [Mechanical
+(10003029 [Amit Sahu [Mechanical (10003038 [Dhruvishkumar Chaudhari [Mechanical
+(10003030 [Abhishek Kumar [Mechanical (10003039 [Sapavath Vivek Chowhan Mechanical
+(10003031 [Ajay Chandubhai Vora [Mechanical (10003040 [Navneet Meena [Mechanical
+(10003032 [Kaushalkumar M. Chavda___|Mechanical (10003042 [Rakesh Pargi [Mechanical
+(10003033, [Amit Jharbade [Mechanical {10003043 [Pankaj Gadewad [Mechanical
+{10003034 [Purushottam Lal Suman [Mechanical (10003044. [Pankaj Kumar Meena [Mechanical
+{10003035 [fongbram Kehbruce Singh _ [Mechanical (10003045, (Gaurav Kumar Meena [Mechanical
+(10003036. [Anu Vivek [Mechanical {10003046 [Tushar Kodap [Mechanical
+
+IIT Gandhinagar | Annual Report | 2010 - 2011 | Page 87
+
+Indian Institute of Technology Gandhinagar
+VGEC Campus, Chandkheda
+Ahmedabad - 382424

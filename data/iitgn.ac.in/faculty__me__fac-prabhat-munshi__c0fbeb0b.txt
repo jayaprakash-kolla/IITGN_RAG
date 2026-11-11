@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Prabhat Munshi
+Source: https://iitgn.ac.in/faculty/me/fac-prabhat-munshi
+
+# Prabhat Munshi
+
+-  Mechanical Engineering
+Prabhat Munshi
+
+## Prabhat Munshi
+
+Visiting Professor, Mechanical Engineering
+
+- BS: Indian Institute of Technology Kanpur, 1977
+- MS: Ohio State University Columbus, Ohio, USA, 1979
+- PhD: Indian Institute of Technology Kanpur, 1989
+
+Email: prabhat.munshi -AT- iitgn.ac.in
+
+Office:  AB 5/318
+VOIP:  2733
+
+Amit Kumar, Mayuri Razdan, Prabhat Munshi, "KT-1 signature of human liver” Proc. National Conference on Signal Processing, Communication and Control, Pune, India (2005), pp 348-350.
+
+Saurabh Khare, B.V. Somasekhar, Krishnan Balasubramaniam, Prabhat Munshi, “Computer simulation studies of multiplicative algebraic reconstruction technique algorithm for ultrasonic tomographic imaging” Proc. National Conference on Image Processing, Bangalore, India (2005), pp 29-32.
+
+Rajat Saksena, P. Satyamurthy, Ashok Khanna, Prabhat Munshi, “Performance of Tomographic reconstruction algorithms for limited view Tomography” Proc. National Conference on Image Processing, Bangalore, India (2005), 21-24.
+
+Nitin Jain, C.V.S. Rao, V.S. Venu Madhav Vedula, Prabhat Munshi, “Medical imaging using chord-segment-inversion algorithm” Proc. National Conference on Image Processing, Bangalore, India (2005), 13-16.
+
+Mayuri Razdan, Amit Kumar, Ramesh Tripathi, Avanish Ojha, Sanjay Ghosh, P. Munshi, “KT-1 Signature of Medical images” Proc. National Conference on Image Processing Bangalore, India (2005), 9-12.
+
+- Visiting Professor, Indian Institute of Technology Gandhinagar (Dec 2024 to present)
+
+Awards
+
+- National Merit Scholarship (High School), 1970-72
+- Silver Medal by Indian Association for Radiation Protection for BEST PAPER for the year 1990
+- JACOB WOLFOWITZ PRIZE by American Journal for Mathematical and Management Sciences for BEST THEORETICAL ADVANCES PAPER OF THE YEAR 1995
+- BEST PAPER (R&D CATEGORY) in NDE2000 hosted by Indian Society for Non-destructive Testing in the year 2000.
+- OUTSTANDING PAPER 2012, American Society for Nondestructive Testing
+
+- ● Computerized Tomography
+- ● Nondestructive Testing and Evaluation
+- ● Nuclear Reactor Safety Analysis
+- ● Multi-phase Flow Measurements

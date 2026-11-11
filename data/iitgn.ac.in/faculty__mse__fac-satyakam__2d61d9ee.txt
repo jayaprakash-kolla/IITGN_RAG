@@ -1,0 +1,36 @@
+Title: IIT Gandhinagar | Satyakam Kar
+Source: https://iitgn.ac.in/faculty/mse/fac-satyakam
+
+# Satyakam Kar
+
+-  Materials Engineering
+Satyakam Kar
+
+## Satyakam Kar
+
+Assistant Professor, Materials Engineering
+
+- BTech: National Institute of Technology Rourkela, India (2018)
+- M.Sc.: Delft University of Technology, Netherlands (2020)
+- PhD: Leibniz IFW Dresden and Dresden University of Technology, Germany (2024)
+
+Email: satyakam.kar -AT- iitgn.ac.in
+
+Office:  AB 11/305C
+VOIP:  2528
+
+- S. Kar, A. Singh, K. Nielsch, H. Reith, and S. Fähler, Finite Size‐Effects in Martensite Microstructure of Magnetic Shape Memory Films, Small 22, e12162 (2026).
+- Y. Ge, F. Ganss, K. Lünser, S. Kar, R. Hübner, S. Zhou, L. Rebohle, and S. Fähler, Formation of martensitic microstructure in epitaxial Ni-Mn-Ga films after fast cooling, Materials Today Advances 25, 100567 (2025).
+- S. Kar, Y. Ikeda, K. Nielsch, H. Reith, R. Maaß, and S. Fähler, Multiferroic Microstructure Created from Invariant Line Constraint, Advanced Functional Materials 35, 2416638 (2025).
+- A. Fareed, J. M. Rosalie, S. Kar, S. Fähler, and R. Maaß, Small-scale functional fatigue of a Ni-Mn-Ga Heusler alloy, Acta Materialia 274, 119988 (2024).
+- S. Kar, K. Nielsch, S. Fähler, and H. Reith, Microfabrication Approaches on Magnetic Shape Memory Films, Advanced Engineering Materials 25, 2301133 (2023).
+- L. Fink, S. Kar, K. Lünser, K. Nielsch, H. Reith, and S. Fähler, Integration of Multifunctional Epitaxial (Magnetic) Shape Memory Films in Silicon Microtechnology, Advanced Functional Materials 33, 2305273 (2023).
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (March 2026 - Present)
+- Postdoctoral researcher, Ruhr University Bochum, Germany (Jan 2025 – Feb 2026)
+
+- ● Ferroic Materials
+- ● Multiferroics
+- ● Thermoelectrics
+- ● Caloric Materials
+- ● Catalysis

@@ -1,0 +1,137 @@
+#flags:ocr
+
+Organizations
+
+Roll No. [Name of Student Branch 10002020 [Anuj Topiwala Electrical
+{10001001 [Prashant Patel Chemical _| [10002021 [Rajesh Kumar Jangid Electrical
+{10001002 [Pranav Bagaria Chemical _| {10002022 [Nitya Pawar Electrical
+{10001003 [Smit Shah Chemical | {10002023 [Sanjay K Gill Electrical
+10001004 [Akshay Jain Chemical _| [10002024 [Devendra Singh Yadav Electrical
+ft0001007 [Mayank Jhalaria Chemical | [10002026 [Sandesh Achari Electrical
+10001008 [Vakkantula Harika Chemical _| {10002027 [Gagan Kanojia Electrical
+{10001010 [Rajat Sharma Chemical _| {10002028 [Akshay Pingale Electrical
+{10001013 [Rutuparna Karandikar Chemical | {10002029 [Raghavendra Chary Electrical
+{10001014 _[Nitai Bajaj Chemical | [10002030 _[K. Sirisha Electrical
+10001017 _|Sanket Mahajan Chemical | {10002031 [Deepak Sagar Electrical
+{10001018 [Nuthalapati Sri Harsha Chemical | {10002032 _[Sushrut Meshram Electrical
+10001020 [Wasim Khan Pathan Chemical_| [10002033 [Kiran Parmar Electrical
+{10001022 _[Pamulapati Sushma Sri Chemical _| {10002034 [Arun Kumar Singh Electrical
+{10001023 [Pratyush Shastri Chemical _| {10002035 [Mrityunjaya Kumar Electrical
+fto001024 [Aryan Kumar Chemical _| [10002036 [Dharm Ratna Baudh Electrical
+{10001025 [Dasari Yashwanth Kumar Chemical | {10002037 [Kailash Chand Meena Electrical
+{10001027 [Rohan Kokane Chemical | {10002038 [Patel Tanay Somnath Electrical
+{10001029 [Anirudha Vishvakarma Chemical _| [10002039 [Sanjay Meena Electrical
+{10001030_[Chetan Patil Chemical | [10002040 [Sumpi Riningam Electrical
+{10001031 [Prashant Kumar Singh Chemical _| [10002041 [Ravindrakumar Meena Electrical
+{10001033 [Jitender Kumar Chemical _| {10002042 [Ashish Kumar Sehra Electrical
+{10001034 [Priya Jalutharia Chemical _| [10002043 [Ankur Meena Electrical
+{10001035 [Amandeep Kaur Chemical | {10002044 [Brijesh Kumar Meena Electrical
+{10001036 [Rinku Meena Chemical _| [10003008 [Akash Bapat Electrical
+10001037 |Akshya Kumar Chemical _| [10003009 [Arjita Sharma Electrical
+{10001038 [Sanjay Saroj Chemical _| {10003017 [Shashank Tyagi Electrical
+{10001039 [Bhaskarjyoti Das Chemical _| [10001005 [Saurabh Garg Mechanical
+{10001040 [Rajat Inderiya Chemical _| {10001011 [Avinash N Tumkur Mechanical
+{10001042 [Durgesh Bagri Chemical | [10001012 [Prateek Nyati Mechanical
+{10001043 [Puneet Rawat Chemical | [10001015 [Sumit H. Deshmukh Mechanical
+{10001009 [Aishwarya Agrawal Electrical | {10001016 [Spandan J Das Mechanical
+{10002001 [Deepti Chopra Electrical | {10001026 [Deep Karpe Mechanical
+{10002002 [Mohit Sharma Electrical _| [10001028 [Prashant Bhatewara Mechanical
+{10002004 [Adit Bhardwaj Electrical _| [10003001 [Ankita Sharma Mechanical
+{10002005 [Yash Kotak Electrical | {10003002 [Atharva Abhay Patil Mechanical
+{10002006 [Sunil Nair Electrical | {10003003 [Manne Sri Sudhamsu Krishna | Mechanical
+{10002007 [Ameya Joshi Electrical _| [10003004 [Akshay Mall Mechanical
+{10002008 [Hoosein Safdari Electrical | [10003005 [Saksham Kohli Mechanical
+{10002009 [Mj Balaji Venkatesh Electrical | [10003006 |Shaliwahan Singh Rathore Mechanical
+{10002010 _|Shivanshu Arora Electrical | {10003007 [Hariom Bhargava Mechanical
+{10002011 [Nisarg Shah Electrical | {10003010 [Jinesh Shah Mechanical
+{10002012 [Nitesh Udhani Electrical_| [10003011 [Dhwanil P Shukla Mechanical
+[10002013 [Kartik Saxena Electrical_| [10003013 [Ankit Suchanti Mechanical
+{10002014 [Mohit Bajaj Electrical | [10003014 _|Nakul Nuwal Mechanical
+{10002015 [Smit Soni Electrical_| [10003015 [Shubham Bhargav Mechanical
+{10002016 _[Nishank Jain Electrical _| [10003016 [Shashank Agarwal Mechanical
+{10002017 [Yash Goyal Electrical | {10003018 _[Nihar Kotak Mechanical
+{10002018 _[P. Snigdha Manogyna Electrical _| [10003019 [Akanksha Jagwani Mechanical
+{10002019 _|Vibhav Vikas Katre Electrical _| [10003020 _|Gavasane Ritu Milind Mechanical
+
+f10003021_[Suyash Patkar Mechanical {10003033 [Amit Jharbade Mechanical
+[10003022 _[Mangesh Gangarde Mechanical | [10003034 [Purushottam Lal Suman Mechanical
+10003023 [Vikram Vishnoi Mechanical | {10003035 [Tongbram Kehbruce Singh _| Mechanical
+[10003024 [Bhavya Madasu Mechanical | {10003036 [Anu Vivek Mechanical
+[10003025 |Shubhangi Bansude Mechanical | [10003037 [Poonam Chand Meena Mechanical
+[10003026 |G. Sri. Siva Ganesh Mechanical | {10003038 [Chaudhari Dhruvishkumar _| Mechanical
+[10003027 [Kamarapu Thrinath Chander _|Mechanical| {10003040 [Navneet Meena Mechanical
+[10003028 [Pradeep Nikhade Mechanical | {10003042 Rakesh Pargi Mechanical
+[10003029 [Amit Sahu Mechanical | [10003043 [Pankaj Gadewad Mechanical
+10003030 [Abhishek Kumar Mechanical | [10003044 [Pankaj Kumar Meena Mechanical
+{10003031 [Ajay Chandubhai Vora Mechanical | [10003045 [Gaurav Kumar Meena Mechanical
+{10003032 _[Kaushalkumar M Chavda Mechanical] {10003046 [Tushar Kodap Mechanical
+
+[Roll No. [Name of Student Branch 11110038 [shan Upadhyaya [Electrical
+11110004 _|Abhishek Sancheti Chemical 11110045 _|K. R. B. Lokeswar Naik [Electrical
+11110008 [Aditya Amol Samant Chemical] [11110048 [Mahish Yadav [Electrical
+11110015 |Ankit Pandole Chemical] 11110051 [Manoj Kumar Electrical
+11110016 [Pinjala Anoop Chemical] [11110055 [Mishita Jaiswal [Electrical
+11110022 _|Ayushi Patel Chemical] [11110057 [Mukesh Singh Rawat [Electrical
+11110028 _|Dhruy Pancholi Chemical] 11110060 [Pankaj Gautam Electrical
+11110029 [Shah Dhyey Mayankkumar Chemical] [11110062 [Parth Gudhka [Electrical
+11110030 [Dilip Kumar Badgurjar Chemical] [11110063 [Sane Parth Vishwas [Electrical
+11110032 [Reddy Dwaraka Nath Chemical] [11110065 [Mahajan Piyush Jeevan [Electrical
+11110033 _[Eepsit Tiwari Chemical] [11110067 [Prashant Verma [Electrical
+11110043 |G. N. Lakshmi Narasimhan Chemical] [11110069 [Prateek Baldwa [Electrical
+11110046 [Taldevkar Madan Janardan Chemical 11110072 _|Shah Preet Devang [Electrical
+11110050 |Manasa Jangala Chemical] [11110074 [Kondagorri Pridhvi Raj [Electrical
+11110053 [Shah Mihika Nitin Chemical] [11110079 [Rajneesh Kumar Mishra [Electrical
+11110056 [Bhangale Monish Sunil Chemical] [11110081 _ [Ravi Kumar [Electrical
+11110058 [Nandan Paresh Vora Chemical] [11110082 _Rizu Khanwilkar [Electrical
+11110061 [Parag Pradeep Kumar Ramteke Chemical] 11110083 [Rohan Patidar [Electrical
+11110064 |Gubbala Pawan Kumar Chemical] [11110089 Panuganti Sandeep Reddy [Electrical
+11110073 [Prem Prakash Meena Chemical] [11110090 [Sanjay Kumar Meena [Electrical
+11110076 [Rahul Prabhakar Khandait Chemical 11110094 [Heda Shashank Kamlesh [Electrical
+11110077 |Shah Raj Manish Chemical] [11110105 _[Shisode Sushilkumar Rajendra [Electrical
+11110085 |Rounak Mehta Chemical] [11110106 [Lingala Thrinath Redd; [Electrical
+11110087 [Mehta Sahil Ramesh Chemical] [11110107 [Pathe Tilak Narendra [Electrical
+11110091 _|Chowhan Santhosh Chemical] [11110109 [Dave Ujash Rameshwar [Electrical
+11110093 [Bhumireddy Shanmukha Manoj [Chemical [11110113 _|Vaibhav Mathur [Electrical
+11110095 |Shaurya Seth Chemical] [11110114 [Joshi Vinit Sanjay [Electrical
+11110097 |Shreyans Nahar Chemical] [11110002 _[Saraswathibhatla A. Koundinya __ [Mechanical
+11110098 _|Harshe Soham Ravindra Chemical 11110003 |Abhay C. A. [Mechanical
+11110099 [Turibilli Sravan Kumar Chemical] [11110007 [Navarkar Abhishek Chandrakant [Mechanical
+11110100 _|Sudiksha Sridhar Chemical) [11110009 [Ajay Devedwal [Mechanical
+11110103 [Sukriti Chemical] [11110010 [Akash [Mechanical
+11110104 [Banoth Surya Kiran Chemical] [11110011 [Akash Keshav Singh [Mechanical
+11110108 [Tushti Shah Chemical 11110014 |Randad Akshay Puroshottamji [Mechanical
+11110111 [Utsav Y. Mistry Chemical] [11110017 [Anshul Gupta [Mechanical
+11110115 [Vinod Kumar Rangi Chemical] 11110019 |Aryan [Mechanical
+11110118 _|Yashodeep Prabhu Chavhan Chemical| 11110021_|Ayush Choudhary [Mechanical
+11110001 _|Gangopadhyay Aalok Ashok Electrical 11110023 [Bajrang Lal Kudi [Mechanical
+11110005 |Abhishek Singh Electrical 11110034 |Mahamuni Gaurav Shivhar [Mechanical
+11110006 [Abhishek Soni Electrical 11110035 |Gupta Harsh Sanjay [Mechanical
+11110013 [Akshay Electrical 11110037 [Hira Lal [Mechanical
+11110018 |Patwardhan Apoorv Prakash Electrical 11110039 [Joy Narang [Mechanical
+11110020 [Dalvi Ashwin Dinesh Electrical 11110040 [Kale Kimaya Uday [Mechanical
+11110024 [Pamarthi Chandra Kanth Electrical 11110042 _|Krishan Kumar Meena Mechanical
+11110025 _|Chetan Kumar Choudhary Electrical 11110044 [Lalit Prajapat [Mechanical
+11110026 [Deep Rahul Electrical 11110047 [Mahesh Kumar [Mechanical
+11110027 |Thakkar Dhaval Ashwin Electrical 11110049 |B. Manasa Mechanical
+11110031 _|Shinde Durvesh Pravin Electrical 11110052 _|Mayank Shekhar [Mechanical
+11110036 [Himanshu Yadav Electrical 11110054 [Milan Singh [Mechanical
+
+11110059 [Rao Nishant Nanubhai [Mechanical 11110088 |Pachipulusu Sai Teja [Mechanical
+11110066 [Pradeep Kumar [Mechanical 111110092 [Saurabh Singhal [Mechanical
+11110068 [Prasit Pal [Mechanical 11110096 _|Shivam Mani Tripathi [Mechanical
+11110070 [Bhat Prathamesh Ganesh [Mechanical 11110102 |Dunga Sujit [Mechanical
+11110075 |Rahul Harnotia [Mechanical 11110110 [Utkarsh Prakash Panchbhai [Mechanical
+11110078 [Rajesh Patidar [Mechanical 11110112 _|Gandhi Vaibhav Rajesh Mechanical
+11110080 {Ramesh Kumar [Mechanical 11110116 [Vishal Yadav [Mechanical
+11110084 |Ronak Khandelwal [Mechanical 11110117 |Vivek Prakash [Mechanical
+11110086 |Vekaria Sachchit Kalyan [Mechanical
+
+= Nyasa
+
+In a small effort toward the welfare of campus construction workers and their families,
+the IITGN community has started an initiative called 'Nyasa’.
+
+Indian Institute of Technology Gandhinagar
+
+VGEC Campus, Chandkheda, Ahmedabad 382 424
+

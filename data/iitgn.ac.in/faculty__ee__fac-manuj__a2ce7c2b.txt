@@ -1,0 +1,50 @@
+Title: IIT Gandhinagar | Manuj Singh
+Source: https://iitgn.ac.in/faculty/ee/fac-manuj
+
+# Manuj Singh
+
+-  Electrical Engineering
+Manuj Singh
+
+## Manuj Singh
+
+Assistant Professor, Electrical Engineering
+
+- PhD in Electrical Engineering: Boston University, 2024
+- Integrated M.Tech. (5-year) in Engineering Physics: Indian Institute of Technology (BHU) Varanasi, 2018
+
+Email: manuj.singh -AT- iitgn.ac.in
+
+ Website :  https://www.linkedin.com/in/manuj-singh-4a1607106/
+
+Office:  AB12-306D
+VOIP:  2465
+
+- M. Zhao, M. Singh, et. al. "An Integrated Photonics Platform for high-speed Ultrahigh extinction many-channel quantum control," arXiv, 2025.
+- X. Zhang, H. S. Oh, M. Singh*, et.al., "Efficient wideband RF/mmwave-to-optical signal transduction by a monolithic CMOS LNA and photonic molecule modulator," CLEO 2025, postdeadline paper PD104_6.
+- M. Singh, et.al., "Efficient wideband tunable radio frequency-optical conversion via triply resonant photonic molecules," Optics Letters, 49(14), 3930-3933, 2024.
+- X. Zhang, M. Singh, et.al., "Engineering the passband shape of coupled-cavity filters for low loss and/or narrow bandwidth," Optics Letters, 49(13), 3678-3681, 2024.
+- QuEra team, "Experimental demonstration of logical magic state distillation," Nature, 645, 620-625, 2025.
+- M. Singh, et.al. "Electronic-photonic millimeter-wave sensing element based on monolithically integrated LNA and triple-cavity ring modulator," 49th European Conference on Optical Communications (ECOC 2023), 2023, pp. 1445-1448.
+- R. Wang, M. Singh, et.al. ,"A Monolithically Integrated Electronic-Photonic Front-end Utilizing Micro-ring Modulators for Large-Scale mm-wave Sensing," ESSCIRC 2023 - IEEE 49th European Solid State Circuits Conference, 2023, pp. 489-492.
+- M. Singh, et.al., "Demonstration of an Integrated Photonic Magic T - a Robust Beam Splitter and Novel Polarization Diversity Building Block," Optical Fiber Communication Conference (OFC 2021), paper Tu1C.3.
+- A. Singh, M. Singh, et.al., "Scalable Photonic Integrated Circuits for Multi-Wavelength, High-Extinction Control of Neutral-Atom Quantum Computing," CLEO 2026, invited talk.
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar, India. (Sep 2026 - Present)
+- Photonics Engineer, QuEra Computing Inc., Boston, USA. (Aug 2024 - Sep 2026)
+- Graduate Research Assistant, Boston University, USA. (Sep 2018 - Aug 2024)
+- Bell Labs Integrated Photonics Intern, Nokia Bell Labs, NJ, USA. (Jun 2023 - Aug 2023)
+- Photonics Summer Intern, Ayar Labs, USA. (Jun 2022 - Aug 2022)
+- Summer Intern, Institut Fresnel, France. (May 2017 - Jul 2017)
+- Summer Intern, The Hong Kong Polytechnic University, Hong Kong. (May 2016 - Jul 2016)
+
+Awards
+
+- IIT (BHU) Varanasi Medalist.
+- Charpak Scholar, 2017, DAAD Scholar, 2017.
+
+- ● Silicon Photonics
+- ● RF & Microwave Integrated Photonics
+- ● Integrated Photonics for Quantum Computing
+
+Complete List of Publications

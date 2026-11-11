@@ -1,0 +1,53 @@
+Title: Few-Shot Bone Marrow Cell Classification at Hackrush 2026
+Source: https://cse.iitgn.ac.in/blog/hackrush-2026-nihar-bone-marrow-classification
+
+NI
+
+Nihar
+3 May 2026· 3 min read
+
+For Hackrush 2026, I worked on few-shot bone marrow cell classification. The task was to classify bone marrow microscopy images under severely limited labeled data conditions.
+
+This is difficult because bone marrow cell categories can differ in very subtle morphological ways. The dataset also brings the usual problems of real medical imaging: class imbalance, limited examples, high intra-class variation, visually similar classes, and staining or illumination differences.
+
+Standard supervised CNN approaches tend to overfit in this setting. My focus was therefore on learning transferable and discriminative feature representations rather than relying only on a conventional classifier.
+
+## Pipeline 1: Vision-Language Representation Learning
+
+The first approach used pretrained vision-language encoders to extract rich semantic embeddings. Instead of training from scratch, the pipeline reused a pretrained vision encoder, extracted feature embeddings, adapted them for few-shot use, and performed prototype-based inference with cosine similarity classification.
+
+The idea was that pretrained embeddings can capture useful structure and texture information even when labeled medical samples are limited.
+
+The main challenge was the domain gap between natural-image pretraining and microscopy images. I addressed this with domain-specific augmentations, embedding normalization, and feature calibration. These steps helped bridge the shift in appearance.
+
+Class imbalance required balanced episodic sampling, weighted objectives, and prototype regularization. Morphological similarity between classes was handled through similarity-margin objectives, hard negative sampling, and embedding consistency techniques.
+
+The outcome was reduced overfitting, better feature separability, and more stable few-shot inference.
+
+## Pipeline 2: Metric Learning and Adaptive Few-Shot Classification
+
+The second approach framed the problem as metric learning. Instead of predicting labels directly, the model learned an embedding space where similar cell types cluster together and different classes are pushed apart.
+
+This formulation is naturally suited to few-shot classification. The architecture used a deep feature encoder, a metric embedding head, prototype-based inference, distance-aware classification, and episodic training.
+
+The main risk was feature collapse, where embeddings stop separating the classes meaningfully. Strong augmentations, margin-based losses, and embedding normalization helped prevent this. Training instability was handled with learning-rate scheduling, gradient clipping, and episode balancing. Overfitting was reduced with heavy augmentation, dropout regularization, and validation-driven checkpointing.
+
+The result was better generalization to sparse classes, more consistent embeddings, and improved robustness to imbalance.
+
+## What I Learned
+
+The biggest takeaway was that in low-data medical imaging, robust representation learning often matters more than adding increasingly complex classification heads.
+
+The challenge reinforced several ideas:
+
+- Few-shot learning needs careful validation, not just a clever architecture.
+- Balanced sampling can matter as much as the model choice.
+- Domain-aware preprocessing is essential in medical imaging.
+- Generalization should drive the design from the beginning.
+Hackrush was a useful opportunity to apply modern machine-learning techniques to a clinically relevant problem and to experiment with scalable few-shot strategies where labeled data is scarce and expensive to obtain.
+
+## Related Articles
+
+01 MayBuilding a Rule-Aware Snake Bot for Hackrush 2026#hackrush2026Game AI
+02 MayBazaar@IITGN: A Campus Marketplace for Hackrush 2026#hackrush2026Web Development
+04 MayHardware-Friendly Activation Functions at Hackrush 2026#hackrush2026Computer Architecture

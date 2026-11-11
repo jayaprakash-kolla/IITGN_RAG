@@ -1,0 +1,84 @@
+#flags:
+
+Student
+Support
+Service
+(SSS)
+
+IIT Gandhinagar
+
+The IIT Gandhinagar Student Support Service is driven
+by a dedicated team of faculty members who offer
+assistance to students with a broad range of concerns.
+We look forward to working with you directly, and we
+will either help connect you with the right group of
+advisors or brainstorm our way to a solution. Please
+don’t hesitate to reach out! This is for every single
+student of IIT Gandhinagar. You are doing well and you
+can still come to us for any advice.
+We are here for you!
+
+Coordinator
+Prof Indranath Sengupta
+indranathsg@iitgn.ac.in
+
+Advisor
+Prof Jhuma Saha
+jhuma.saha@iitgn.ac.in
+
+Advisor
+Prof Arka Chattopadhyay
+arka.chattopadhyay@iitgn.ac.in
+
+Discipline wise Advisors
+Biological Engineering
+Prof Subramanian Sankaranarayanan
+s.sankar@iitgn.ac.in
+
+Electrical Engineering
+Prof Jhuma Saha
+jhuma.saha@iitgn.ac.in
+
+Chemistry
+Prof Sriram Kanvah
+sriram@iitgn.ac.in
+
+Chemical Engineering
+Prof Kabeer Jasuja
+kabeer@iitgn.ac.in
+
+Materials Engineering
+Prof Amit Arora
+amitarora@iitgn.ac.in
+
+Earth Sciences
+Prof Rajkrishna Dutta
+raj.dutta@iitgn.ac.in
+
+Civil Engineering
+Prof Pranab Kumar Mohapatra
+pranabm@iitgn.ac.in
+
+Mechanical Engineering
+Prof Madhu Vadali
+madhu.vadali@iitgn.ac.in
+
+Mathematics
+Prof Indranath Sengupta
+indranathsg@iitgn.ac.in
+
+Computer Science Engineering
+Prof Anirban Dasgupta
+anirbandg@iitgn.ac.in
+
+Humanities & Social Sciences
+Prof Arka Chattopadhyay
+arka.chattopadhyay@iitgn.ac.in
+
+Physics
+Prof Anand Sengupta
+asengupta@iitgn.ac.in
+
+support.students@iitgn.ac.in
+
+https://iitgn.ac.in/students/sss

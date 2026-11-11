@@ -1,0 +1,711 @@
+#flags:
+
+Role of Advanced Materials
+in Transforming India into a
+Global Leader
+
+B.S. Murty
+
+Department of Metallurgical and Materials Engineering
+Indian Institute of Technology Madras
+murty@iitm.ac.in
+
+Use of Materials over ages
+
+Indian Materials Heritage
+•
+•
+•
+•
+•
+•
+
+Dancing Girl, Mohenjadaro
+Wootz Steel
+Delhi Iron Pillar
+Zinc Extraction
+Chola Bronze Icons
+Kerala Bronze Mirrors
+
+2500 BC
+300 BC
+AD 400
+AD 1200
+AD 1200
+AD 1600
+
+3
+
+Indian Heritage: Nano Technology
+
+Berne Historical Museum, Switzerland (produced by the
+famous blacksmith Assad Ullah in the 17th century)
+
+Rustless
+Wonder
+
+M. Reibold, P. Paufler, A.A. Levin, W. Kochmann,
+N. Pätzke, D.C. Meyer, Nature, 444, 2006, 286.
+"Many of the advances in the sciences that we consider
+today to have been made in Europe were in fact made in
+India centuries ago."
+- Grant Duff, British Historian of India
+
+Demascus
+Sword
+(Wootz Steel)
+
+Materials-Processing Pyramid
+
+The Air Craft Alloy - The Accidental Discovery:
+The need for Higher Resolution
+• Wilm in 1903
+• First Aerospace Aluminum Alloy - Duraluminum
+• The Wright Brothers Aircraft Crankcase
+
+Microscopy: urge to see Inner World
+
+Can We See Small Things ?
+
+Titan
+at
+IITM
+
+Quasicrystals: Nobel Prize (2011)
+
+D. Shechtman
+
+10 fold ! ! !
+“Eyn chaya kazo”
+"There can be no such creature."
+
+D. Shechtman, I. Blech, D. Gratias, and J.W. Cahn
+Physical Review Letters, 1984, 53, 1951.
+
+Al-14%Mn
+
+High Strength Light Alloys through Grain Refinement
+& Modification for Automotive Applications
+Without Grain
+Refinement/Modification
+8000X
+
+200X
+
+Kori & Prasad
+
+8000X
+
+With Grain Refinement
+and Modification
+(1M13+ 0.02Sr) (5min)
+
+200X
+
+High Strength In-Situ Al-4Cu-TiB2 Composites
+for High Load Bearing Automotive Applications
+
+As Cast
+
+Alloy/Composite
+
+Peak Aged
+
+UTS,
+MPa
+
+0.2%
+YS,
+MPa
+
+% El.
+
+UTS,
+MPa
+
+0.2%
+YS,
+MPa
+
+% El.
+
+Al-4Cu
+
+117
+
+108
+
+11
+
+276
+
+216
+
+21
+
+Al-4Cu-2.5TiB2
+
+196
+
+171
+
+23
+
+284
+
+230
+
+23
+
+Al-4Cu-5TiB2
+
+232
+
+208
+
+20
+
+297
+
+252
+
+22
+
+Al-4Cu-7.5TiB2
+
+260
+
+220
+
+18
+
+334
+
+270
+
+18
+
+Al-4Cu-10TiB2
+
+290
+
+230
+
+15
+
+383
+
+280
+
+19
+
+Animesh
+
+Functionally Graded Al based in-situ Composites
+for High Wear Resistant Automotive Pistons
+A356 – TiB2
+
+Al-4Cu – TiB2
+
+Kumar
+
+Al Foams for Light Weighting
+and Energy Absorption
+
+Vinod & Harsha
+
+TiB2
+
+TiC
+
+Various Nano Products
+Car Wash
+
+Nano Ag
+Tooth Paste
+Cosmetics
+
+Hair Dryer
+
+Self Cleaning windowLeather Protection
+
+Nano Fluids
+
+Mirror
+
+Car Body
+
+Nano Ag Ionic
+Swim Suits
+
+Wood Protection Textile Protection
+
+Ancient Nanotechnologists
+
+Nano Aerogels: The super materials
+
+Prof. A.R. Kulkarni
+IIT Bombay
+
+15 mgs of CNT-silica aerogel
+Supporting 7.5 Kg load
+
+Routes for the Preparation
+of Nano Materials
+
+High Strength Al based Nanocomposites
+Al94V4Fe2 Alloy
+
+Nano Steel with Exceptional Toughness
+Krishna Murthy, CVRDE, Avadi
+
+Nano Coatings
+
+Prakash
+
+Sample
+condition
+Uncoated
+Nano Coated
+
+Nanocoating
+on Ladle
+refractories,
+Vizag Steel
+Plant
+
+Hardness
+VHN
+48
+781
+
+Nanocoating for
+self cleaning glasses, ARCI
+Un
+coated
+
+Un coated
+TiO2 Coated
+
+TiO2 Coated
+
+Number fraction
+
+Murugan, ARCI
+
+Grain size (nm)
+
+Mechanical Alloying
+
+ Deformation
+ Fracture
+ Cold Welding
+
+Nanocrystalline Phases by High Energy Ball Milling
+Ni50Al50 - NiAl
+
+Joydip
+Jatin
+
+Bulk Metallic Glass
+
+Ni75Si25 - Phase
+
+Monikanchan
+Barua
+
+Nano Quasicrystal
+
+Nano in Extractive Metallurgy
+
+Sintering of Nano Tungsten
+
+%Cr recovery
+
+Recovery from conventional ore: 9%Cr
+Recovery from 10h milled ore : 98%Cr
+
+Alamelu
+
+Breakthrough
+Ajeet 99% densification at 16000C
+
+Exceptionally Strong In-situ Nanocomposites
+14
+
+100nm
+Al100-XFeX- 20h MA
+
+12
+
+Ageing time, 2hrs
+green compact
+473K
+573K
+673K
+
+Hardness, GPa
+
+10
+8
+6
+4
+2
+0
+0
+
+5
+
+10
+
+15
+
+20
+110 (S)
+
+Composition (at % Fe)
+
+111 200 210 (S)
+211 (S)
+
+220
+
+NanoQC phase
+311
+
+Sashank
+
+HR ratio normalized with OFHC Cu
+
+High Strength Conducting Cu Based Nanocomposites
+Nanocomposite
+Microcomposite
+
+3
+
+Venu
+Cu-W
+
+2
+
+1
+
+0
+5
+
+10
+
+15
+20
+25
+wt.% Tungsten
+
+30
+
+Compressive strength (MPa)
+
+1200
+Nanocomposite
+HP
+Microcomposite
+
+900
+
+60nm
+
+600
+
+30nm
+
+Cu-20%Ta at
+500oC
+
+117nm
+
+300
+
+0
+5
+
+20
+Wt. % Tungsten
+
+30
+
+Crompton
+Greaves
+
+NiAl and FeAl – 10 Al2O3 Nanocomposites
+Udhayabanu
+
+0. 5 µm
+
+ODS Steels for Fast Breeder Nuclear Reactors
+
+As-received Y2O3 ~40 nm
+
+500 nm
+Fe-9Cr-1Mo-0.5Y2O3
+
+IGCAR, Kalpakkam
+
+Karthikeyan
+
+Local Electrode Atom Probe
+
+5000X XR (Reflectron system)
+
+Atom Probe Tomography Principle
+Reflector
+R  50 nm
+T 20 to 100 K
+
+Ion sequence:
+X1, Y1, ToF1
+
+VDC
+
+X2, Y2, ToF2
+X3, Y3, ToF3
+
+Position
+sensitive
+detector
+
+Pradeep
+
+Detector impact position  X-Y coordinates
+Evaporation sequence  Z coordinate
+Time-of-flight
+ chemical identity
+
+Time of flight
+
+
+
+X4, Y4, ToF4
+X5, Y5, ToF5
+
+……..
+
+APT of Bulk Nanostructured Ferritic ODS Alloys
+
+Ti2Y2O7(220)-0.357 nm
+
+9CWYT
+
+Krishna Rajan, Iowa State Univ.
+
+5 nm
+
+Karthikeyan
+
+High Entropy Alloys
+Sconf = kB lnw = -R ∑ Xi ln Xi
+Configurational Entropy (J/mol.K)
+
+9
+
+No. of
+S = -R Σ Xi ln Xi
+Xi
+-1 -1
+Component
+J mol K
+2
+0.500
+5.822
+3
+0.330
+9.220
+4
+0.250
+11.645
+5
+0.200
+13.519
+6
+0.167
+15.064
+mole fraction of B XB
+ J.W. Yeh et al. Adv. Eng. Mater., 6 (2004) 299.
+ S. Varalakshmi et al. J. Alloys Compd., 460 (2008) 253.
+
+Sconf max = R ln N
+
+Binary alloy A-B
+
+8
+7
+
+Sconf= - R [XAlnXA + (1-XA) ln (1-XA)]
+
+6
+5
+4
+3
+2
+1
+0
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+(
+
+1.0
+
+) 
+
+Tang et al. JOM, 2013
+Element
+AlK
+TiK
+CrK
+FeK
+CuK
+ZnK
+
+Vara
+
+At%
+17.98
+15.72
+16.24
+17.09
+16.55
+16.42
+
+Uniform elemental distribution in CoCrFeMnNi HEA
+Pradeep
+
+AlCoCrCuFeNi Cast HEA
+Sheela &
+John Banhart
+Helmoltz
+Zentrum, Berlin
+
+CoCrFeNi: MASPS vs. Casting
+
+Rahul, Dan Fabijanic,
+Deakin University
+
+CoCrFeNi – MA+SPS
+
+CoCrFeNi - Cast
+
+AlCoCrFeNi - Cast
+
+AlCoCrFeNi - Cast
+
+Thermal stability of CoCrFeNi: SPS & Annealing
+
+B
+
+A
+C
+
+40 nm
+
+Praveen & Ravi Sankar
+
+Mechanical Properties
+Praveen &
+Ravi Sankar
+
+Oxidation behvaiour of
+AlCoCrFeNi HEA vs. IN718
+
+Rahul,
+Dan Fabijanic
+Peter Hodgeson,
+Deakin University
+
+Plasma Spraying of HEAs on Steel
+• HV0.3kgf of AlCoCrFeNi
+Coating: 4.13 ± 0.43 GPa
+• HV0.3kgf MnCoCrFeNi
+Coating: 4.42 ± 0.60 GPa
+• HV0.3kgf of conventional
+plasma sprayed
+NiCrAlCoY2O3 bond coat is
+2.45 GPa
+
+Ameey Anupam,
+Ravi Sankar, IITM &
+Andrew Aang,
+Chris Berndt
+Swinburne Univ.,
+Melbourne
+
+Can a binary intermetallic destabilise due to
+high entropy by multicomponent substitution
+Ranganathan
+IISc, Bangalore
+Takeuchi &
+Yokoyama
+IMR, Sendai
+
+TiNi2
+
+Ti2Ni
+
+TiNi
+
+Sanjay
+
+Functional Nanocomposites with Exceptional properties
+
+Magnetisation, M (emu/g)
+
+150
+
+Sm2Co17 - 5% FeCo
+
+(a)
+
+2
+
+100
+
+3
+
+50
+
+1
+
+0
+-50
+-100
+-150
+-3
+
+1) as cast Sm2Co17
+2) as milled FeCo
+3) composite
+
+-2
+-1
+0
+1
+Magnetic field (T)
+
+Sreenivasulu
+
+2
+
+3
+
+Parashar
+
+Sreenivasulu
+
+Thank
+
+You

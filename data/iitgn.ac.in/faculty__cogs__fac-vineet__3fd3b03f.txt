@@ -1,0 +1,65 @@
+Title: IIT Gandhinagar | Vineet Vashista
+Source: https://iitgn.ac.in/faculty/cogs/fac-vineet
+
+# Vineet Vashista
+
+-  Cognitive and Brain Sciences
+Vineet Vashista
+
+## Vineet Vashista
+
+Associate Professor, Mechanical Engineering (Affiliated to Discipline of Cognitive and Brain Sciences)
+
+- BE: Maharashi Dayanand University Rohtak, 2006
+- MTech: Indian Institute of Technology Delhi, 2008
+- PhD: Columbia University, 2015
+
+Email: vineet.vashista -AT- iitgn.ac.in
+
+ Website :  https://labs.iitgn.ac.in/hcr-lab/
+
+Office:  AB 4/313
+VOIP:  2491
+
+Singh, Yogesh, Sunil K. Agrawal, and Vineet Vashista. "Throwing Strategy in a Dual-Motor-Task of Aiming at the Bullseye while Walking in Virtual Reality." IEEE Robotics and Automation Letters 7, no. 4 (2022): 9091-9098.
+
+Jategaonkar, Chinmay, Yogesh Singh, and Vineet Vashista. "Effect of external damping on ankle motion during the swing phase of walking." IEEE Robotics and Automation Letters 7, no. 3 (2022): 7612 - 7619.
+
+Bhardwaj, Siddharth, Akshayraj B. Shinde, Randheer Singh, and Vineet Vashista. "Passive exosuit emulator for material handling applications." IEEE Robotics and Automation Letters 7, no. 3 (2022): 7605 - 7611.
+
+Sanjeevi, N. S. S., and Vineet Vashista. "Stiffness modulation of a cable-driven serial-chain manipulator via cable routing alteration." Journal of Mechanisms and Robotics 15, no. 2 (2022): 021009.
+
+Singh, Yogesh, and Vineet Vashista. "Gait Classification With Gait Inherent Attribute Identification From Ankle’s Kinematics." IEEE Transactions on Neural Systems and Rehabilitation Engineering 30 (2022): 833-842.
+
+Bhardwaj, Siddharth, Vikram Negi, and Vineet Vashista. "Vibratory cue training elicits anticipatory postural responses to an external perturbation." Experimental Brain Research 240, no. 4 (2022): 1105-1116.
+
+Prajapati, Pratik, Sagar Parekh, and Vineet Vashista. "On-board cable attitude measurement and controller for outdoor aerial transportation." Robotica 40, no. 5 (2022): 1650-1664.
+
+Sanjeevi, N. S. S., Yogesh Singh, and Vineet Vashista. "Recent advances in lower-extremity exoskeletons in promoting performance restoration." Current Opinion in Biomedical Engineering 20 (2021): 100338.
+
+Sanjeevi, N. S. S., and Vineet Vashista. "Stiffness modulation of a cable-driven leg exoskeleton for effective human-robot interaction." Robotica 39, no. 12 (2021): 2172-2192.
+
+Singh, Yogesh, Antonio Prado, Dario Martelli, Fitsum E. Petros, Xupeng Ai, Sudipto Mukherjee, Anil K. Lalwani, Vineet Vashista, and Sunil K. Agrawal. "Dual-motor-task of catching and throwing a ball during overground walking in virtual reality." IEEE Transactions on Neural Systems and Rehabilitation Engineering 28, no. 7 (2020): 1661-1667.
+
+Singh, Yogesh, Vinayvivian Rodrigues, Antonio Prado, Sunil K. Agrawal, and Vineet Vashista. "Lower-limb strategy assessment during a virtual reality based dual-motor-task." In 2020 8th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics (BioRob), pp. 252-257. IEEE, 2020.
+
+Prajapati, Pratik, Sagar Parekh, and Vineet Vashista. "On the human control of a multiple quadcopters with a cable-suspended payload system." In 2020 IEEE International Conference on Robotics and Automation (ICRA), pp. 2253-2258. IEEE, 2020. Core 2021 ratings: 4.6.
+
+Iyer, S. Srikesh, Joel V. Joseph, and Vineet Vashista. "Evolving toward subject-specific gait rehabilitation through single-joint resistive force interventions." Frontiers in neurorobotics 14 (2020): 15.
+
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Sep 2023 to present)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (Nov 2015 to Sep 2023)
+- Postdoctoral Fellow, Columbia University, USA (Jun – Jul, 2016)
+- Project Scientist, Indian Institute of Technology Delhi (2008 - 2009)
+
+Patents
+
+- Agrawal, Sunil K., Vineet Vashista , K. A. N. G. Jiyeon, and Xin Jin. "Human Movement Research, Therapeutic, and Diagnostic Devices, Methods, and Systems." U.S. Patent Application 15/304,147, filed February 2, 2017.
+- Agrawal, Sunil K., Mustafa Shabbir Kurbanhusen, and Vineet Vashista. "Pelvic orthosis systems and methods." U.S. Patent Application 13/358,959, filed August 2, 2012.
+
+- ● Wearable & Rehabilitation Robotics
+- ● Human-robot Interaction
+- ● Cable-driven Robotics
+- ● Human Movement Adaption
+
+Complete List of Publications

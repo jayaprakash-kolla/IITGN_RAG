@@ -1,0 +1,118 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 44, 2026
+(Added during 26th– 30th October 2026)
+Available for the issue from 9th November 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER GRAPHICS
+Title: Usable security: history, themes, and challenges
+Author: Garfinkel, Simson
+Publisher: Switzerland: Springer Nature, 2022
+Call No.: 005.8 GAR
+Acc. No.: 037408
+
+Title: Build a reasoning model (from scratch)
+Author: Raschka, Sebastian
+Publisher: New York: Manning Publications, 2026
+Call No.: 006.33 RAS
+Acc. No.: 037411
+
+LIBRARY AND INFORMATION SCIENCE
+Title: Essentials of STEM Librarianship
+Author: Carroll, Alexander J.
+Publisher: Chicago: ALA Neal-Schuman, 2026
+Call No.: 026.5 CAR
+Acc. No.: 037404
+
+PHILOSOPHY & PSYCHOLOGY
+Title: India’s most haunted: tales of terrifying places
+Author: Kumar, K. Hari
+Publisher: Gurugram: HarperCollins Publishers, 2019
+Call No.: 133.10954 KUM
+Acc. No.: 037400
+
+Title: Gardener and the carpenter: what the new science of child development
+tells us about the relationship between parents and children
+Author: Gopnik, Alison
+Publisher: London: Vintage, 2017
+Call No.: 155.4 GOP
+Acc. No.: 037420
+
+Title: You are the Placebo: making your mind matter
+Author: Dispenza, Joe
+Publisher: New Delhi: Hay House India, 2026
+Call No.: 158.1 DIS
+Acc. No.: 037422
+
+SOCIAL SCIENCE
+Title: Ten arguments for deleting your social media accounts right now
+Author: Lanier, Jaron
+Publisher: New York: Henry Holt and Co., 2022
+Call No.: 302.231 LAN
+Acc. No.: 037417
+
+Title: Brewing resistance: Indian coffee house and the emergency in postcolonial
+India
+Author: Plys, Kristin Victoria Magistrelli
+Publisher: Cambridge: Cambridge University Press, 2020
+Call No.: 303.4840954 PLY
+Acc. No.: 037407
+Title: We are not machines: the fight for the future of work
+Author: O'Connor, Sarah
+Publisher: London: Allen Lane, 2026
+Call No.: 338.064 OCO
+Acc. No.: 037401
+
+MILITARY SCIENCE
+Title: General Brasstacks: the Sundarji story
+Author: Dasgupta, Probal
+Publisher: Gurugram: Viking, 2026
+Call No.: 355.0092 DAS
+Acc. No.: 037418
+
+Title: Hiroshima men: the quest to build the atomic bomb, and the fateful decision
+to use it
+Author: MacGregor, Iain
+Publisher: London: Constable, 2026
+Call No.: 355.825119 MAC
+Acc. No.: 037421
+
+SCIENCE
+Title: It could be otherwise: science in the age of uncertainty
+Author: Firestein, Stuart
+Publisher: New York: Basic Books, 2026
+Call No.: 501 FIR
+Acc. No.: 037412
+
+PHYSICS
+Title: No wisdom without folly: extraordinary life of Francois Englert, Nobel
+Laureate
+Author: Losman, Danielle
+Publisher: Singapore: World Scientific Publishing, 2024
+Call No.: 530.092 LOS
+Acc. No.: 037413
+
+MANAGEMENT
+Title: Genius at scale: how great leaders drive innovation
+Author: Hill, Linda A.
+Publisher: Massachusetts: Harvard Business Review, 2026
+Call No.: 658.4092 HIL
+Acc. No.: 037419
+
+LITERATURE
+Title: Education of a wandering man: a memoir
+Author: L’Amour, Louis
+Publisher: New York: Bantam, 1990
+Call No.: 813.52 LAM
+Acc. No.: 037416

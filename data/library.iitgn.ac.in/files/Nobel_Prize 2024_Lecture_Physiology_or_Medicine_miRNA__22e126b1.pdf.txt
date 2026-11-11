@@ -1,0 +1,226 @@
+#flags:
+
+https://www.nobelprize.org/prizes/medicine/2024/summary,
+
+How Tiny Molecules and a Worm Helped Us
+Understand how Genes are Controlled
+
+Google Images
+
+“Central Dogma” of Molecular Biology
+
+https://www.lgmd2ifund.org/science-basics/from-gene-to-protein
+https://www.linkedin.com/posts/hanaa-fayed-1275a065_the-triplet-code-for-each-gene-one-dna-activity-7044227270495854592-y0te
+
+There is a dogma….
+
+But there are exceptions!
+
+“Junk” DNA: “Dark matter” of genome!
+
+Deviation from central dogma
+some RNAs (i.e. noncoding RNA) are
+never translated
+
+https://www.researchgate.net/figure/Non-coding-RNA-Non-coding-RNA-comprise-amuch-larger-portion-of-the-human-genome-than_fig1_299381675
+
+Different cell types (muscle vs nerve cells) have distinct
+characteristics & perform specialized functions
+How do these differences arise if DNA code is same?!
+
+Why copy the entire cookbook, when all you
+want is a cupcake!
+• Genome (DNA): instruction manual for all cells in our body; every cell
+contains same set of instructions (DNA, in the form of genes)
+• In a particular cell, a fraction of DNA is transcribed to RNA (recipe) & a
+fraction of transcribed RNA is translated to protein (functional product)
+
+https://www.ccdatalab.org/blog/how-does-big-data-help-us-tackle-childhood-cancer
+
+Different cells in multicellular organism have
+different functions
+• In each cell type, only required set of genes expressed i.e. selectively
+transcribed to RNA, even though they contain all DNA
+• Differences in gene expression between different cells of same species &
+same cell types in different species
+
+• How?
+
+Regulation of Gene expression
+How do cells "decide" which genes to turn on?
+Regulation/Control
+• Temporal: when does
+expression start/ stop?
+• Spatial: where expressed?
+• Amount: how much of
+RNA/protein expressed?
+• X Diseases like cancer
+
+Molecular Biology of the Cell (© Garland Science 2008)
+
+Does “Junk” DNA play a role in gene regulation?
+
+A short detour…
+
+https://www.nobelprize.org/
+
+Model organisms
+
+non-human species representing different classes, extensively studied to uncover
+fundamental biological and human disease processes
+https://bionomous.ch/articles/small-model-organisms/
+
+•
+•
+•
+•
+•
+
+Caenorhabditis elegans nematode, roundworm
+small size (1mm), short life cycle (~3.5 days), small genome, transparent body
+several organ systems akin to those found in humans
+useful model for investigating how tissues develop & mature in multicellular organisms
+Fundamental discoveries: cell death, RNA interference, aging, olfaction!
+
+https://www.nobelprize.org/
+
+“Without doubt, the 4th winner of the Nobel prize this year is Caenohabditis elegans; it deserves all
+of the honour but, of course, it will not be able to share the monetary award.
+..converting Caenorhabditis elegans from what was once regarded as a joke organism into the
+powerful experimental system it has become today”
+Brenner, 2002
+https://www.nobelprize.org/
+
+How would you study a gene of unknown function?
+Create a mutant!
+(make it defective)
+
+Google Images
+
+Heterochronic worm mutants
+developmental timing defects, “peculiar” looking worms!
+
+lin-4 mutant: stuck as big larva, never matures to adult
+lin-14 mutant: small, precocious (lack larval development &
+prematurely enter later developmental stages)
+Normal versions of mutated genes: regulators of developmental
+timing?
+1980s, Victor Ambros & Gary Ruvkun, postdoctoral fellows with H. Robert Horvitz, Harvard
+
+Horvitz 1980, 1981, 1987
+
+So what do peculiar worms have to do with the
+“Central Dogma” ?
+
+https://www.lgmd2ifund.org/science-basics/from-gene-to-protein
+
+What do peculiar worms have to do with the “Central Dogma”
+…& “junk” DNA?
+
+Ambros: lin-4 maybe noncoding RNA
+due to its short open reading frame
+
+Ruvkun: lin-14 is a protein with stagespecific expression in development
+
+Both observed that lin-4 negatively regulates LIN-14
+https://www.nobelprize.org/
+
+Ambros calls Ruvkun..
+
+June 11, 1992: Ambros & Ruvkun exchanged sequence data for lin-4 & lin-14 genes
+Both noticed conspicuous partial complementarity between lin-4 noncoding RNA &
+multiple elements (3’UTR) in lin14 mRNA (codes for protein)
+https://www.nobelprize.org/
+
+What is complementarity?
+
+Chargaff’s rules:DNA Base pairing rules
+
+https://en.wikipedia.org/wiki/Erwin_Chargaff
+
+Discovery of microRNAs
+previously unknown method of gene regulation mediated by
+small non-coding RNAs (junk ?!)
+antisense miRNA (lin-4) “zips up”
+complementary mRNA (lin-14)
+
+June 11, 1992: Ambros & Ruvkun exchanged sequence data for lin-4 & lin-14 genes
+Both noticed conspicuous partial complementarity between lin-4 noncoding RNA &
+multiple elements (3’UTR) in lin14 mRNA (codes for protein)
+https://www.nobelprize.org/
+
+idiosyncrasy in roundworms?
+
+microRNA-based gene regulation universal among
+multicellular organisms as well as viruses!
+evolutionarily conserved, critical roles in animal development & function
+
+In 2000, Ruvkun discovered let-7 miRNA;
+conserved in evolution; not idiosyncrasy in
+roundworms!
+https://www.nobelprize.org/
+
+How do miRNAs work?
+Post-transcriptional gene regulation (PTGS)
+
+•
+•
+•
+•
+•
+
+21–23 nucleotides long
+Regulate ~60% human genes!
+~500-1900 human miRNAs
+single miRNA can regulate 10-100 protein-coding mRNAs
+single mRNA can be regulated by multiple miRNAs
+
+So what do miRNAs do?
+Multitude of functions…
+
+~50000 mature miRNA
+in 271 organisms
+https://www.nobelprize.org/
+
+Roles in human disease…
+
+…and therapeutics
+
+Summarizing..
+
+https://heimbiotek.com/technology/mirna/ /
+
+“They were looking at two worms that looked a bit funny & decided to understand why ”
+Prof. O. Kämpe, The Nobel Committee for Physiology or Medicine
+
+“No. No, no, no, at that moment it was just the quirky,
+what we were working on, it was really interesting. ….
+We weren’t thinking that this is going to win a Nobel
+Prize, we were thinking this is really interesting”
+-Gary Ruvkun
+
+https://www.nobelprize.org
+
+“…celebration not really of the particular scientist, but
+of the way of doing science... Curiosity driven…what
+you hope is you’ll learn a little bit more about how the
+phenomenon works – and it’s always amazing when
+the findings are new enough to be of interest broadly”
+- Victor Ambros
+
+Stay curious!
+Be persistent…& practical
+Share knowledge!
+Share resources!
+
+Gary Ruvkun celebrating the Nobel
+announcement by hopping on board his
+local ice cream truck to serve sundaes to
+his colleagues (Oct 2024)
+
+Resources:
+https://www.nobelprize.org/prizes/medicine/2024/summary/
+https://www.science.org/content/article/drifter
+https://theconversation.com/microrna-is-the-nobel-winning-master-regulator-of-the-genome-researchersare-learning-to-treat-disease-by-harnessing-how-it-controls-genes-240741
+https://www.ibiology.org/genetics-and-gene-regulation/small-non-coding-rnas/
+https://www.thehindu.com/sci-tech/science/curiosity-driven-research-caenorhabditis-elegans-won-fournobel-prizes/article69069396.ece

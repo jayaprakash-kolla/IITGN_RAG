@@ -1,0 +1,34 @@
+Title: IIT Gandhinagar | Arivazhagan Anbu
+Source: https://iitgn.ac.in/srs/maths/pd-arivazhagan
+
+# Arivazhagan Anbu
+
+- Senior Research Staff
+Arivazhagan Anbu
+
+## Arivazhagan Anbu
+
+Post-Doctoral Fellow, Mathematics
+
+- M.Sc. (Five Year Integrated) : Central University of Tamil Nadu, Thiruvarur, Tamil Nadu, 2015
+- Ph.D. : Central University of Tamil Nadu, Thiruvarur, Tamil Nadu, 2021
+
+Email: arivazhagan.a -AT- iitgn.ac.in
+
+Website :  https://scholar.google.com/citations?user=nJ2TaQoAAAAJ&hl=en
+
+Work experience
+
+- Post-Doctoral Fellow : Indian Institute of Technology, Gandhinagar (May 2022 to present)
+
+Selected Publications
+
+- Sakthivel, K., Arivazhagan, A., Barani Balan, N. 2022. Inverse Problem for a Cahn-Hilliard Type System Modelling Tumor Growth.Applicable Analysis. 101 (3), 858-890. https://doi.org/10.1080/00036811.2020.1761016
+- Arivazhagan, A., Sakthivel, K., Barani Balan, N. 2021. Inverse Source Problem for a Generalized Korteweg-de Vries Equation.Journal of Inverse and Ill-posed Problems.  29 (6), 823-848. https://doi.org/10.1515/jiip-2020-0008
+- Arivazhagan, A., Sakthivel, K., Barani Balan, N. 2020. Lipschitz Stability of an Inverse Problem for the Kawahara Equation with Damping. AIMS Mathematics. 5 (5), 4529-4545.  doi:10.3934/math.2020291
+
+- ● Partial Differential Equation
+- ● Inverse Problem
+- ● Control Theory
+
+Complete List of Publications

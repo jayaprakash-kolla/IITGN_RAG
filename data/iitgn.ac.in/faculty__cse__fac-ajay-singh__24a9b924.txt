@@ -1,0 +1,56 @@
+Title: IIT Gandhinagar | Ajay Singh
+Source: https://iitgn.ac.in/faculty/cse/fac-ajay-singh
+
+# Ajay Singh
+
+-  Computer Science & Engineering
+Ajay Singh
+
+## Ajay Singh
+
+Assistant Professor, Computer Science and Engineering
+
+- PhD: University of Waterloo, 2024
+- M.Tech: Indian Institute of Technology Hyderabad, 2017
+- B.Tech: Dr. A.P.J. Abdul Kalam Technical University, 2012
+
+Email: ajsingh -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/view/aajayssingh
+
+Office:  AB 13/401-I
+VOIP:  2441
+
+[PPoPP 2026] Evan Wrench, Ajay Singh, Younghun Roh, Panagiota Fatourou, Siddhartha Jayanti, Eric Ruppert and Yuanhao Wei, "Concurrent Balanced Augmented Trees"
+
+[PPoPP 2026] Ajay Singh, Nikos Metaxakis and Panagiota Fatourou, "Sharded Elimination and Combining for Highly-Efficient Concurrent Stacks"
+
+[PPoPP 2025] Ajay Singh, Trevor Brown, "Publish on Ping: A Better Way to Publish Reservations in Memory Reclamation for Concurrent Data Structures"
+
+[PPoPP 2024] Trevor Brown, Daewoo Kim and Ajay Singh, "Are Your Epochs Too Epic? Batch Free Can Be Harmful"
+
+[TPDS 2024] Ajay Singh, Trevor Brown and Ali Mashtizadeh, "Simple, Fast and Widely Applicable Concurrent Memory Reclamation via Neutralization"
+
+Assistant Professor, Indian Institute of Technology Gandhinagar (Jun 2026 – Present)
+
+Postdoctoral Researcher, ICS-FORTH (Mar 2025 – Apr 2026)
+
+Researcher, TRDDC Pune (April 2018 – Aug 2019)
+
+Engineer, Samsung Research Institute Noida (Jul 2012 – Dec 2014)
+
+Awards
+
+- Distinguished Paper Award PPoPP 2025
+- David R Cheriton Graduate Scholarship 2023-2024
+- Best Research Artifact Award PPoPP 2021
+- Certificate of Research Excellence Indian Institute of Technology Hyderabad 2018
+- Charpak Research Internship Scholarship 2017
+- 1st rank in CSE deptt. with ~80 students and Top 3 across different engineering departments with ~500 students in B.Tech.
+
+- ● Data Structures and Algorithms on Emerging Memory Architectures
+- ● Data Structures and Algorithms for Emerging Applications
+- ● Memory Management in Concurrent Software
+- ● Software Performance Engineering
+
+Complete List of Publications

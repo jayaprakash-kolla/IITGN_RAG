@@ -1,0 +1,289 @@
+#flags:
+
+DEWEY
+DECIMAL
+CLASSIFICATION
+(DDC)
+How Library at IITGN Arranges Books
+
+LIBRARY
+IIT Gandhinagar
+Palaj
+Gandhinagar 382055 Gujarat
+Email: librarian@iitgn.ac.in
+Phone: 079 2395 1127 / 1129
+https://library.iitgn.ac.in/
+
+FIND IT HERE
+ALL BOOKS ARE BROADLY ARRANGED USING FOLLOWING CLASS NUMBERS
+
+Computer Science,
+Information & General
+Works
+000
+
+Science
+
+060
+
+Computer science, knowledge &
+systems
+Bibliographies
+Library & information sciences
+Encyclopedias & books of facts
+Magazines, journals & serials
+Associations, organizations &
+museums
+
+500
+510
+520
+530
+540
+550
+560
+570
+
+Science
+Mathematics
+Astronomy
+Physics
+Chemistry
+Earth sciences & geology
+Fossils & prehistoric life
+Life sciences; biology
+
+070
+080
+090
+
+News media, journalism &
+publishing
+Quotations
+Manuscripts & rare books
+
+580
+590
+
+Plants (Botany)
+Animals (Zoology)
+
+010
+020
+030
+050
+
+Philosophy
+
+Technology
+600
+610
+620
+630
+640
+
+Technology
+Medicine & health
+Engineering
+Agriculture
+Home & family management
+
+650
+
+Management & public
+relations
+Chemical engineering
+Manufacturing
+Manufacture for specific uses
+Building & construction
+
+100
+110
+120
+130
+140
+
+Philosophy
+Metaphysics
+Epistemology
+Parapsychology & occultism
+Philosophical schools of thought
+
+150
+160
+170
+180
+
+Psychology
+Logic
+Ethics
+Ancient, medieval & eastern
+philosophy
+Modern western philosophy
+
+660
+670
+680
+690
+
+Religion
+
+700
+710
+720
+730
+
+190
+
+200
+210
+220
+230
+240
+
+Religion
+Philosophy & theory of religion
+The Bible
+Christianity & Christian theology
+Christian practice & observance
+
+250
+
+Christian pastoral practice &
+religious orders
+Christian organization, social
+work & worship
+History of Christianity
+Christian denominations
+Other religions
+
+260
+270
+280
+290
+
+Social Sciences
+300
+310
+320
+330
+340
+350
+360
+370
+380
+390
+
+Social sciences, sociology &
+anthropology
+Statistics
+Political science
+Economics
+Law
+Public administration & military
+science
+Social problems & social services
+Education
+Commerce, communications &
+transportation
+Customs, etiquette & folklore
+
+Arts & Recreation
+
+740
+750
+760
+770
+780
+790
+
+460
+470
+480
+490
+
+Language
+Linguistics
+English & Old English languages
+German & related languages
+French & related languages
+Italian, Romanian & related
+languages
+Spanish & Portuguese languages
+Latin & Italic languages
+Classical & modern Greek
+languages
+Other languages
+
+Photography & computer art
+Music
+Sports, games &
+entertainment
+
+Literature
+800
+810
+820
+830
+840
+850
+860
+870
+880
+890
+
+Language
+400
+410
+420
+430
+440
+450
+
+Arts
+Landscaping & area planning
+Architecture
+Sculpture, ceramics &
+metalwork
+Drawing & decorative arts
+Painting
+Graphic arts
+
+Literature, rhetoric & criticism
+American literature in English
+English & Old English
+literatures
+German & related literatures
+French & related literatures
+Italian, Romanian & related
+literatures
+Spanish & Portuguese
+literatures
+Latin & Italic literatures
+Classical & modern Greek
+literatures
+Other literatures
+
+History & Geography
+900
+910
+920
+930
+940
+950
+960
+970
+980
+990
+
+History
+Geography & travel
+Biography & genealogy
+History of ancient world
+(to ca. 499)
+History of Europe
+History of Asia
+History of Africa
+History of North America
+History of South America
+History of other areas

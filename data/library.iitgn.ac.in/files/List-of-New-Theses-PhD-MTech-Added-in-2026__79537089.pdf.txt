@@ -1,0 +1,3491 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+List of Ph.D. & M. Tech Theses
+Accession No.: T01539 – T01801
+(New Additions in 2026)
+To see this collection in Institutional Repository please visit this link:
+http://repository.iitgn.ac.in/handle/IITG2025/29429
+
+1
+
+Table of Content
+
+Contents
+Theses 2026 Facts........................................................................................................................................... 3
+
+List of Ph.D. Theses ................................................................................. 4
+Biological Sciences and Engineering .............................................................................................................. 5
+Chemical Engineering ..................................................................................................................................... 6
+Chemistry ........................................................................................................................................................ 6
+Civil Engineering ............................................................................................................................................. 8
+Cognitive and Brain Sciences .......................................................................................................................... 9
+Computer Science and Engineering ................................................................................................................ 9
+Earth Sciences ............................................................................................................................................... 10
+Electrical Engineering ................................................................................................................................... 11
+Humanities and Social Sciences.................................................................................................................... 12
+Materials Engineering .................................................................................................................................. 14
+Mathematics ................................................................................................................................................ 15
+Mechanical Engineering ............................................................................................................................... 16
+Physics .......................................................................................................................................................... 17
+
+List of M. Tech. Theses ......................................................................... 21
+Artificial Intelligence..................................................................................................................................... 22
+Biological Sciences and Engineering ............................................................................................................ 24
+Chemical Engineering ................................................................................................................................... 27
+Civil Engineering ........................................................................................................................................... 29
+Computer Science and Engineering .............................................................................................................. 32
+Earth Sciences ............................................................................................................................................... 35
+Electrical Engineering ................................................................................................................................... 35
+Integrated Circuit Design and Technology ................................................................................................... 38
+Materials Engineering .................................................................................................................................. 40
+Mechanical Engineering ............................................................................................................................... 41
+
+2
+
+Theses 2026 Facts
+•
+
+Theses at a glance
+Program
+Ph.D.
+M. Tech.
+Total
+
+•
+
+No. of Theses
+107
+156
+263
+
+Department wise Ph. D & M. Tech Theses
+Department
+Artificial Intelligence
+Biological Sciences and
+Engineering
+Chemical Engineering
+Chemistry
+Civil Engineering
+Cognitive and Brain Sciences
+Computer Science and Engineering
+Earth Sciences
+Electrical Engineering
+Humanities and Social Sciences
+Integrated Circuit Design and
+Technology
+Materials Engineering
+Mathematics
+Mechanical Engineering
+Physics
+Total
+
+Ph. D
+
+M. Tech
+16
+
+9
+
+21
+
+1
+11
+6
+1
+7
+8
+11
+9
+
+14
+25
+15
+4
+22
+15
+
+6
+8
+9
+21
+107
+
+7
+17
+156
+
+3
+
+List of Ph.D. Theses
+
+4
+
+Biological Sciences and Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Trinucleotide symmetry elements and small molecule targeting of G-quadruplexes in MTOR
+: Arya, Arjun
+: 17310024
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01545
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Therapeutic targeting of aggregating alpha-synuclein by oxazolones and azines
+: Hadiya, Rajeshkumar Karasanbhai
+: 18310065
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01551
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Cellular investigation of acrylamide mitigation in food
+: Patel, Axita
+: 19210006
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01555
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Molecular insights into the aggregation mechanisms of human γD-crystallin protein
+: Ghosh, Deepshikha
+: 19310001
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01558
+
+Title
+
+: Mechanistic insights into α-synuclein aggregation through peptide screening and sitespecific acetylation: towards rational inhibitor discovery
+: Sumedha Shah
+: 19310002
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01559
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Co-regulation of gene expression and cytosine methylation genome-wide by Human
+CGGBP1
+: Morbia, Ishani
+: 20310002
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01586
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Elucidating the role of THAP9-AS1 lncRNA
+: Balaram, Nair Sreejith
+: 20310004
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01587
+
+5
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Characterizing the viscoelastic properties of anisotropic tissues using ultrasound shear
+wave elastography
+: Chandra, Akash
+: 20310059
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01600
+: Restricted genetic stabilization of cytosine methylation by CGGBP1 drives evolution of
+genome structure and function in higher vertebrates
+: Kumar, Praveen
+: 21310084
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01642
+
+Chemical Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Designing nano-compatibilized light-activated polymer blends via morphology-mechanics
+coupling
+: Khewle, Shurbhi
+: 17210111
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01543
+
+Chemistry
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Targeting ATR kinase in ATM-deficient and -proficient tumours: a strategy for targeted
+cancer therapy
+: Bhagwat, Pranav Umesh
+: 19310062
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01566
+: Harnessing photothermal and hot-carrier effects of gold triangular nanoparticles for
+plasmon-driven chemical transformations
+: Sharma, Akanksha
+: 20310009
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01588
+: Multifunctional hydrogels and porous microspheres for remediation of environmental
+hazards
+: Patel, Hitarth
+: 20310011
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01589
+
+6
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Synthesis and application of Chiral cis-2,5-disubstituted pyrrolidine organocatalysts
+: Singh, Suraj
+: 20310014
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01590
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Design and synthesis of D-π-A fluorophores for organelle-specific live-cell imaging
+: Ghorpade, Mohini Shahaji
+: 20310064
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01601
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Small molecule probes for imaging and impairing golgi apparatus in cancer
+: Kotha Jyothi Sai Phanindra Kumar
+: 21310016
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01630
+
+Title
+
+: Development of asymmetric synthetic methodologies via iminium ion and enamine
+catalysis
+: Mehta, Ronak
+: 21310029
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01636
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Small molecule nsaid derivatives for impairing and imaging of mitochondria and
+endoplasmic reticulum in cancer cells
+: Mishra, Tripti
+: 21310036
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01637
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Lighting up cells with multi-functional organic fluorophores
+: Dubey, Yogesh Brijendramani
+: 21310038
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01638
+
+Title
+
+: Computational insights into the design of thermally activated delayed fluorescence
+molecules for OLED applications
+: Sanyam
+: 21310053
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01639
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+7
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: From electronic structure to evolution: data- driven discovery of high-performance nonfullerene acceptors for organic solar cells
+: Das, Bibhas
+: 21310074
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01641
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Characterisation of instability and post-instability response of granular materials
+: Sukrit Sharma
+: 17210109
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01542
+
+Civil Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Toward climate-resilient cities with green infrastructure, for context-aware flood
+management benefits, heat-mitigation, and system-level decision support
+: Borah, Angana
+: 19310055
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01565
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Modelling instability and post-instability response of granular materials
+: Yadav, Pavan
+: 19350004
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01582
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Identification, prediction, and projections of compound hot and dry extremes in india
+: Malik, Iqura
+: 20310043
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01598
+
+Title
+
+: Intelligent embedded system to Manage Indoor Environment and energy for healthier
+sustainable buildings
+: Mishra, Nishchaya Kumar
+: 21310020
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01631
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Precision flavour physics: hadronic estimates and new physics searches in rare B-meson
+decays
+: Patil, Praveen S
+: 22310066
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01644
+
+8
+
+Cognitive and Brain Sciences
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Sensory prediction error, task performance error, and reward in human motor adaptation
+: Panthi, Gaurav
+: 16210114
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01540
+
+Computer Science and Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Scalable generative vision and neural decoding: connecting machine and human perception
+: Singh, Prajwal Kumar
+: 19210048
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01556
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: On graph Isomorphism for power graphs and subgraph counting in sparse graphs
+: Kumar, Anant
+: 19310022
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01560
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Subset selection for scalable machine learning: coresets, sketching, and statistical
+guarantees
+: Malaviya, Jayesh
+: 19310067
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01567
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: AI for air quality: modeling, sensor placement and source detection
+: Patel, Zeel Bharatkumar
+: 19310068
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01568
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Graphs defined on groups: complexity theoretic and algorithmic aspects
+: Ghosh, Jinia
+: 20310018
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01591
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Assessing factuality and toxicity in large language models
+: Beniwal, Himanshu
+: 21310012
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01628
+
+9
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Budget-aware decision making for NLP: annotation, training and data
+: Kadasi, Pritam S.
+: 21310024
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01635
+
+Earth Sciences
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Spatio-temporal dynamics of indoor particulate matter: measurement, modeling, and
+mitigation approaches
+: Thakur, Alok Kumar
+: 18210007
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01546
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Integrated urban water drainage for water-sensitive Indian cities
+: Tripathi, Indra Mani
+: 18210038
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01549
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Development of regionally adaptable Ground Motion Prediction Equation (GMPE) for the
+Himalayan region
+: Sharma, Shikha
+: 19310028
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01561
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Hydro-geomorphic dynamics of Dryland River and its role in watershed management
+: Raj, Anukritikiia
+: 19310069
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01569
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Sediment dynamics under hydroclimatic extremes and their response to future climate
+change in the Tapi River Basin, India
+: Bind, Vivek Kumar
+: 19310071
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01570
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Sedimentology, architecture and geochemistry of the atolls of Lakshadweep Archipelago
+: Menon, Shradha
+: 20310072
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01602
+
+10
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Insights into the sources and processes influencing atmospheric particulate reactive
+nitrogen species using stable isotopes
+: Shaw, Chandrima
+: 20330006
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01617
+: Aqueous alteration of martian crust: constraints from terrestrial analogue sites and martian
+meteorites
+: Das, Aditya
+: 20330019
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01624
+
+Electrical Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Towards realistic 3D digital humans and multi-species motion understanding
+: Verma, Shashikant
+: 17210095
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01541
+
+Title
+
+: Neural 3D reconstruction and understanding via photometric cues: shading, polarization,
+and shadows
+: Tiwari, Ashish
+: 18210015
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01547
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Bottom-up compact modeling of gate electrostatics and transport in GAA nanosheet FETs
+for circuit simulations
+: Singh, Aishwarya
+: 19310030
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01562
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Chemical synthesis and characterisation of plasmonic nanoparticles of different shapes for
+sensing applications
+: Ghosh, Payel
+: 19310074
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01571
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Restoration and analysis of 3D point clouds: algorithms and applications
+: Kumari, Seema
+: 19310075
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01572
+
+11
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Integrated analog cryocooler driver System on Chip (SoC) using high-Vol LDMOS and CMOS
+devices
+: Kumar, Nishant
+: 19320001
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01579
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Advancing passive cavitation imaging for histotripsy applications
+: Singh, Abhinav Kumar
+: 20310022
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01592
+
+Title
+
+: Adaptive DOA sstimation and region-of-interest beamforming using Microphone array
+systems
+: S, Joel
+: 20310074
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01603
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Deep learning-assisted fiber Bragg grating-based throat microphone for speech
+enhancement and recognition
+: Jana, Rituparna
+: 20310076
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01604
+: Engineered carbon nanoparticles for high-performance environmental sensing and
+photonic applications
+: Parul
+: 21310022
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01633
+: Wearable solution for gait quantification and predictive intervention to address freezing of
+gait of individuals with Parkinson’s disease
+: Raghuvanshi, Ankita
+: 21350001
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01643
+
+Humanities and Social Sciences
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Process and content of science communication: an investigation using psychology
+: Srivastava, Apeksha
+: 16210113
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01539
+
+12
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: The future is near: a blended reading of tethered worlds in selected near-future science
+fiction
+: Rana, Manoj Singh
+: 19310079
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01573
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Drinking water challenges in rural maharashtra: role of social groups and gender
+: Thube, Nilesh Vilas
+: 19310080
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01574
+
+Title
+
+: Textures of the Earth: a comparative approach to aesthetics of the rural in short stories of
+Tarasankar Bandyopadhyay
+: Gayen, Sohini
+: 19310082
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01575
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Beyond hearths and pots: exploring food processing and vessel functions in the harappan
+culture through lipid residue analysis
+: Ghosh, Ahana
+: 20310026
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01593
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Study of select post-2000 Indian English and Bengali travel narratives
+: Goswami, Arindam
+: 20310078
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01605
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: People, politics and institutions: a study of the bauri community of RARH Bengal
+: Patra, Manas
+: 20310080
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01606
+
+Title
+
+: Mapping the nature of icons: iconometric and iconographic analysis of the Bbdami
+Chalukyan and Hoysala sculptural art
+: Salvi, Poorva
+: 20310081
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01607
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+13
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Marked by the ancestors: sacred stone traditions of the Apatani in the Ziro Valley
+: Ungka, Padi
+: 21310021
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01632
+
+Materials Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Scanning strategies for tailoring process–structure–property relationship in additive
+manufacturing
+: Srivastava, Nishkarsh
+: 18410001
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01552
+: Sustainable nanocomposites and MOF systems for environmental remediation and
+resource recovery
+: Bhadane, Prathmesh Kiran
+: 19210124
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01557
+: Gaussian curvature driven uptake and in-vivo fate of gold nanoparticles: free energy
+analysis, internalization kinetics, and biodistribution assessment
+: Pandey, Pramina Kumari Awadh Bihari
+: 19310039
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01563
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Chemical strain- introduced structural and semiconductor-to-metal transition in VO2 thin
+film
+: Dotiyal, Mayank
+: 20310027
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01594
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Strain hardening characteristics of Fe-Mn-C alloys
+: Singhm, Vivek Kumar
+: 20310045
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01599
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Droplet interactions and lubricant management in microtextured liquid-infused surfaces
+: Samanta, Ratnadeep
+: 20310085
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01608
+
+14
+
+Mathematics
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Associated primes of monomial ideals and the V-number of binomial edge ideals
+: Manjula, Ambhora Siddhi Balu
+: 18510005
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01553
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Invertibility questions for integral transforms in tensor tomography
+: Thakkar, Chadni Rajeshkumar
+: 19510046
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01583
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: K-stability and the classification of C∗-algebras gen-erated by twisted isometries
+: Bhatt, Shreema Subhash
+: 20310031
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01595
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Inverse problems on convection-diffusion and bi-harmonic Schrodinger equations
+: Purohit, Anamika
+: 20310087
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01609
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Modular relations, mordell-tornheim zeta functions and functional equations for herglotzzagier type functions
+: Sharan, Guru N.
+: 20310088
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01610
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Sign regularity: variation diminishing property and preserver problems
+: Yadav, Shivangi
+: 20310089
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01611
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Study of generalized V-line transforms on tensor fields
+: Zamindar, Indrani
+: 21310013
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01629
+
+15
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Blow up and existence results to quasilinear chemotaxis systems
+: Rani, Poonam
+: 21310023
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01634
+
+Mechanical Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Reverse osmosis system design through model based optimization: a general framework
+for desalination energy and cost reduction
+: Axaykumar, Joshi Mrugesh
+: 17310014
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01544
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Linear dynamics of pulsating taylor-couette flows: instabilities and transition
+: Dandelia, Harvansh
+: 18210034
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01548
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Droplet dynamics driven by interfacial phenomena
+: Jadhav, Sayali N.
+: 18210077
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01550
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Modeling and simulation of combustion of nitromethane at subcritical and supercritical
+pressures
+: Ali, SK Hossen
+: 19310048
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01564
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Enhancing air-fuel mixing in scramjet combustor through passive strategies
+: Nair, Prasanth P
+: 19310089
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01576
+
+Title
+
+: Extrusion-based additive manufacturing for sustainable polymer recycling: development,
+characterisation, and monitoring
+: Devra, Rajdeep Singh
+: 19310090
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01577
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+16
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Computational study of propulsive performance of metal-based refrigerated and gelled
+composite propellants
+: V, Ganeshkumar
+: 20250036
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01585
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Design of energy-efficient multi -effect thermal separation systems
+: Srivastava, Rishabh
+: 20310036
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01596
+
+Title
+
+: Predictive numerical modelling of surface and thermal evolution in pulsed and
+countinuous-wave laser surface melting
+: Hijam, Justin
+: 20310092
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01612
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+Physics
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Engineering 2D vermiculite membrane architectures: harnessing ion (de)hydration and
+reaction-diffusion instabilities for high-flux filtration and osmotic power generation
+: Rathi , Aparna
+: 18510010
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01554
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Enzyme-driven active fluctuations: effects on colloidal dynamics and protein stability in
+crowded environments
+: Maiti, Arnab
+: 19310091
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01578
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Applications of Artificial Intelligence for quantum systems Quantum Systems
+: Rithvik, Sreekantham Kumar
+: 19330011
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01580
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Exploring quartz luminescence: application in provenance analysis and sediment transport
+: Panda, Santunu Kumar
+: 19330015
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01581
+
+17
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Theory and phenomenology of the three higgs doublet model
+: Khanna, Akshat
+: 19510067
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01584
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Exploring charged higgs boson prospects at current and future colliders
+: B, Gokul Krishna
+: 20310038
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01597
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Advancing gravitational-wave data analysis for terrestrial and space-based observatories
+: Sharma, Abhishek
+: 20310094
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01613
+
+Title
+
+: Relativistic dissipative hydrodynamics with momentum-dependent relaxation time:
+magnetic feild effects and quarkonia phenomenology
+: Singh, Sunny Kumar
+: 20310096
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01614
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Transition metal dichalcogenide and perovskite-based composites for
+photoelectrochemical and sensing applications
+: Takhar, Vishakha
+: 20310097
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01615
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: MHD wave dynamics and seismological applications along umbral fan loops
+: Rawat, Ananya
+: 20330002
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01616
+
+Title
+
+: Investigation of atmospheric clouds and boundary layer characteristics over the western
+Indian region
+: Kamat, Dharmendra Kumar
+: 20330007
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01618
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+18
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Aerosol characteristics and radiative effects over asia
+: Ansari, Kamran
+: 20330010
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01619
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: High radiation dosimetry: methodology development
+: Singhal, Malika
+: 20330011
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01620
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Sources and ocean-atmosphere processes controlling the distributions of dimethylsulfide
+and isoprene over the Northern Indian Ocean
+: Gupta, Mansi
+: 20330012
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01621
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Heliospheric propagation of solar wind and coronal mass ejections
+: Kumar, Sandeep
+: 20330016
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01622
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Plasma sheath formation around moon and its implications
+: Sana, Trinesh
+: 20330018
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01623
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Exploring new frontier beyond the standard model through particle and astro physics
+: Pachhar, Debashis
+: 20330020
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01625
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Detection and characterization of sub-Saturn exoplanets in close orbits
+: Baliwal, Sanjay
+: 20330022
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01626
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Physico - chemical behaviour of astrochemical ices
+: Khan, Wafikul
+: 20330024
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01627
+
+19
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Beyond Einstein: in search of new gravitational physics.
+: Nair, Sreejith A.
+: 21310061
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01640
+
+Title
+
+: Sectioning and multiplexing of spatial distribution of pair photons for quantum random
+number generation and quantum key distribution network
+: Nai, Aryan Kumar
+: 23330006
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01645
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+20
+
+List of M. Tech. Theses
+
+21
+
+Artificial Intelligence
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Towards a novel feature-predictive pretraining task for time-series self-supervised learning
+: Nair, Abhyudaya
+: 24210005
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01665
+
+Title
+
+: Hints, architectures, and approximation: a methodological study of neural algorithmic
+reasoning for minimum vertex cover
+: Sehra, Balkrishna
+: 24210022
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01679
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Optimizing EEG and EMG channel selection through multi-objective frameworks in hybrid
+brain-computer interfaces
+: Kumar, Dekka Muni
+: 24210028
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01682
+: Large language models for air pollution estimation in India: reliability, biases, and equity
+implications
+: Thakor, Diya
+: 24210032
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01684
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Deep learning approaches for motion analysis, brain signal classification, and person
+identification
+: Teja, Koppolu Charan
+: 24210056
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01694
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Towards efficient and unified vision systems for image and video enhancement
+: Singla, Mithlesh
+: 24210063
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01699
+
+Title
+
+: When LLMs stop following steps: a diagnostic study of procedural execution in language
+models
+: Panda, Sailesh
+: 24210086
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01711
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+22
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Urban flood forecasting with improved peak flow capture through a drainage-aware and
+tiled inference neural operator
+: Kumar, Shivam
+: 24210094
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01716
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Towards scalable and policy-compliant sensor placement for large-scale air quality
+monitoring
+: Rana, Vinayak
+: 24210114
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01726
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Fairness and robustness in in-context learning via multi-armed bandits
+: Chintalapudi, Abhiroop
+: 24250007
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01735
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Scaling low-latency speech synthesis for indic languages via direct reference injection
+: Bharati, Gautham
+: 24250036
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01750
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Design and evaluation of a gaze-driven predictive multilingual text entry system for speechimpaired users in virtual reality
+: K, Madhusudhanan
+: 24250051
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01762
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Differentiable packing of irregular 3D objects with adaptive container estimation
+: Gupta, Palak
+: 24250063
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01768
+
+Title
+
+: Foundational linguistic backbones and unified evaluation frameworks for indic speech
+synthesis
+: Shanbhag, Prathamesh Premanand
+: 24250067
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01769
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+23
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Depression detection from speech via machine learning
+: Gupta, Shivansh
+: 24250086
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01781
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Low-rank fairness poisoning and adaptive spectral aggregation in federated learning
+: Bhamidi, Sai Naga Venugopal
+: 24250106
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01799
+
+Biological Sciences and Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Protective effect of serotonin functionalized carbon quantum dot ligand against sum159
+cancer cell line
+: Daby, Thakur Prasad Mishra
+: 23210125
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01655
+: Investigating the effect of tradescantia pallida-derived carbon nanoparticles on plant
+growth
+: Kumar, Aaditya
+: 24210001
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01663
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Understanding functional mechanisms of membrane associated proteins using molecular
+simulations
+: Moharana, Aditi
+: 24210006
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01666
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Characterization of gatekeeper mutation in human tousled like kinase 1
+: P, Aparna
+: 24210016
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01674
+
+Title
+
+: Dissecting the site-specific and cooperative effects of N-terminal domain lysine acetylation
+in α-synuclein aggregation
+: Sharma, Darshana Tarachand
+: 24210027
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01681
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+24
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Curcumin-magnesium complex loaded dna hydrogels: concentration dependent swelling
+kinetics and selective cytotoxicity via oxidative stress induced apoptosis
+: Patil, Jugal
+: 24210049
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01689
+: Biochemical and structural insights into tuberous sclerosis complex (tsc2)-heat shock
+protein (hsp70) protein complex formation
+: Nishad, Namesh Naman
+: 24210067
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01701
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Engineered electrochemical sensing platform based on aptamer switch conducting
+hydrogel for interleukin-6 detection
+: Agarwal, Pranjal
+: 24210073
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01703
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Mucus penetration study of sunitinib-loaded green teabased nanocomplex
+: Gopal, Pushkar
+: 24210077
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01706
+
+Title
+
+: Surfactant-directed anisotropic growth of elemental selenium into multi-layered two
+dimensional nanosheets
+: Pujeri, Sachin Sudhakar
+: 24210084
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01709
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Engineered fluorescent carbon dots: surface chemistry, optical behaviour, and biological
+performance of green-synthesised nanomaterials from two botanical sources
+: Bhalerao, Satyam Sudhakar
+: 24210092
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01715
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Integrated multi-omics identification of G-quadruplex-associated lncRNAS across cancers
+: Mathur, Shruti
+: 24210098
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01719
+
+25
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Application of charm to vertebrate genomes shows discrete origins of open chromatin in
+repeat classes
+: Bajgain, Janak
+: 24210118
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01727
+: Development and characterisation of the ultrasound properties of a steatotic livermimicking phantom
+: Rattan, Aman Kumar
+: 24250012
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01738
+: Interaction of RNA G-quadruplexes in circulating cancer lncRNAs with human serum
+albumin and charge-engineered GFP variants
+: Ghosh, Arkadeep
+: 24250022
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01743
+: Effects of Al 2O3 and cryoprotectants on the acoustic and mechanical properties of the
+polyvinyl alcohol-based tissue-mimicking
+: Gupta, Devyani
+: 24250031
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01749
+: Engineering multifunctional metal-phenolic-polymer coatings on urinary catheters for longterm prevention of catheter-associated infections
+: Chauhan, Kanika
+: 24250042
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01755
+: Transcriptomic analysis of oral squamous cell carcinoma (oscc) to identify biomarkers:
+Gujarat cohort study
+: Das, Nabendu
+: 24250059
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01765
+: Investigating the DNA binding potential of the N-terminal THAP domain of the human
+thanatos-associated protein domain containing 9 (THAP9)
+: Das, Priyanshu
+: 24250071
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01772
+
+26
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Fabrication of multifunctional nano-polymeric bioactive cotton gauze for advanced wound
+care
+: Paliwal, Sejal
+: 24250083
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01778
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Characterizing FSHD-specific co-expression networks at single-nucleus resolution
+: Tiwari, Vaishnavi
+: 24250103
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01796
+
+Chemical Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Enhanced dark fermentative biohydrogen production using immobilized mixed microbial
+consortia: optimization of pH and temperature
+: Kumar, Sanjay
+: 24210089
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01712
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Enhanced slurry-phase CO₂ hydrogenation to methanol over MgO-ZrO2 Co-promoted
+Cu/ZnO/Al2O3 catalysts
+: Shinde, Amar Balkrishna
+: 24210010
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01669
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Synthetic biology–driven melanin production for functional wood coatings
+: Das, Asish
+: 24210019
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01677
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Sequence-driven coarse-grained modeling of FG-nucleoporins linking charge patterning to
+nuclear pore complex transport
+: Kushwaha, Shubham
+: 24210099
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01720
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Simulation and optimization of reverse flow reactor for lean methane oxidation
+: Mishra, Soumya
+: 24210104
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01722
+
+27
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Predictive framework for LNP manufacturing: integrating maximum entropy and population
+balance models
+: Pokhrel, Ayush
+: 24210120
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01729
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Indian traditional food cooking: scientific analysis and energy-focused optimization
+: Aavani, K S
+: 24250003
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01731
+
+Title
+
+: Study of composition and processing variables on the rheology and printability of κ
+carrageenan–soy protein emulsion-filled hydrogels via a two-stage response surface
+methodolog
+: Alam, Hatif
+: 24250040
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01753
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Bio-adsorptive recovery of silica nanoparticles using supercharged green fluorescent
+proteins
+: Das, Tridib
+: 24250101
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01794
+: Self-assembled film comprising of TiB₂-derived nanostructures as a platform for
+chemiresistive sensing
+: Ramteke, Aryan Abhay
+: 24210018
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01676
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Model predictive control with state and parameter estimation using extended kalman filter
+of a nonlinear system with experimental validation
+: Suthar, Divyang Rasikbhai
+: 24210030
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01683
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Selective hydrogen production from methanol partial oxidation using PdAu-CeO2 catalysts
+: Kanzariya, Jay Savjibhai
+: 24210044
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01687
+
+28
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Wastewater treatment and reuse using micro-nanobubble technology
+: Girase, Tejas Komalsingh
+: 24210106
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01723
+
+Title
+
+: Evaluating ability of oxalic acid dihydrate to form cocrystals with active pharmaceutical
+ingredients
+: Thumu, Venkata Vasudeva Reddy
+: 24210112
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01725
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+Civil Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Extending the c −f based mix design framework to ternary SCM blends for M80 and M90
+concretes
+: Rithvik, Madipalli
+: 23210053
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01649
+: Machine learning-based surrogate modelling for the prediction of seismic response of
+plasterboard suspended ceiling systems
+: Patel, Priya Ben
+: 23210078
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01651
+: Generation of statistically consistent demand vectors by inducing artificial acceleration and
+its impact on the underlying distribution
+: Mandwariya, Yash
+: 23210120
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01654
+: Experimental and numerical investigation of 3D printed concrete layers with intralayer
+mesh reinforcement
+: C, Anagha
+: 23250006
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01656
+
+29
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Influence of seismic isolation on stresses in fluid-shell systems subjected to earthquakeinduced shaking
+: Raghavan, Krishnaveni K
+: 23250022
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01658
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Developing design recommendations for accidental eccentricity to account for torsional
+ground motion
+: Sood, Saksham
+: 23250036
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01659
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Topographic amplification of ground motions and design recommendations
+: Raval, Virat
+: 23250042
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01661
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Development of flood fragility curves for low-rise buildings under extreme flood loading
+: Anand, Abhishek
+: 24210004
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01664
+
+Title
+
+: Quantifying the effectiveness of groundwater flooding protection strategies for urban
+underpasses
+: Kumar, Amitesh
+: 24210011
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01670
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Thermal performance and building-scale energy simulation of textile-waste cement blocks
+and panels
+: Lahare, Keshar
+: 24210053
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01692
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Insights on paddy farmers in rural Bihar
+: Khan, Md Asad Imam
+: 24210061
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01697
+
+Title
+Author
+Roll No.
+
+: Effect of strain rate on undrained monotonic compression response of Kutch cohesive soils
+: Pradhan, N D A Achintya
+: 24210065
+
+30
+
+Publisher
+Acc. No.
+
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01700
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Predicting leak localization and leak size using machine learning under transient conditions
+: Singh, Priyadarshan
+: 24210076
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01705
+
+Title
+
+: Impact of climate change-induced temperature changes on the performance of flexible
+pavements on Indian highways
+: Timilsina, Aashish
+: 24210119
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01728
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Evaluating the potential of biochar as a sustainable internal curing agent for cementitious
+systems
+: Ananya A B
+: 24250015
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01739
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Assessment of CO2 levels in public transportation and its potential impacts on cognition
+: Rajkumar, Bintoo
+: 24250028
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01747
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Structural response and failure patterns in geometrically varying concrete block pavements
+: Devi, Khundongbam Preety
+: 24250044
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01757
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Effect of stress history on shear strength behavior of cl-ml soil under monotonic undrained
+and drained loading conditions
+: Das, Kusumika
+: 24250049
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01760
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Road accident reporting using LLMS
+: Shukla, Neelam
+: 24250061
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01766
+
+31
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Cyclic behaviour of compacted unsaturated clayey soil under variable dynamic compression
+loading-unloading conditions
+: Deka, Pratyasa
+: 24250069
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01771
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Electrical resistivity for quality and durability assessment of 3D-printed concrete
+: Chanekar, Shaivi Sargam
+: 24250084
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01779
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Development of carbon-negative building blocks by valorisation of steel slag and biochar
+through enforced carbonation
+: C S, Sreerag
+: 24250094
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01788
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Assessment of particulate matter exposure across urban microenvironments
+: Swain, Swadhin Kumar
+: 24250098
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01791
+
+Title
+
+: Temporal evolution of scour depth and scour location under submerged offset jets over
+mobile sediment beds
+: Iftikhar, Uzma
+: 24250102
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01795
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Hydrological regimes and runoff source dynamics of the kashmir jhelum basin under
+present and future climate
+: Rahim, Sheikh Aadil
+: 24250085
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01780
+
+Computer Science and Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Eye gaze estimation using deep learning
+: Saini, Divyansh
+: 23210037
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01647
+
+32
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Implementation of nearly optimal fault tolerant distance oracle
+: Bairwa, Manish Kumar
+: 23210055
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01650
+
+Title
+
+: Algorithmic approaches to minimisation of hydrological flow disruption in road network
+planning
+: Shah, Khush
+: 23310020
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01662
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Design and performance evaluation of a distributed mapreduce system for matrix
+multiplication on raspberry pi clusters
+: Asati, Aniket
+: 24210012
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01671
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Sub-cubic pattern counting in degenerate host graphs
+: Miral Vaghasiya
+: 24210062
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01698
+
+Title
+
+: Computing Logarithmic Size Generating Sets for a Class of Non-Abelian Groups in Linear
+Time
+: Kumar, Pankaj
+: 24210071
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01702
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Pushing deep learning to the extreme edge: a two-pass mixed-precision framework for
+localized telemetry analysis
+: Soni, Shivansh
+: 24210096
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01717
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Graph sharing game on structured graph classes
+: Chamua, Bikash
+: 24250027
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01746
+
+33
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Transformer-mamba architecture for scalable text-to-motion generation
+: Dubey, Chetana
+: 24250030
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01748
+
+Title
+
+: Framework for localised dataset curation and edge-based multi-speaker speech separation
+in low-resource languages
+: Prasad, Kaloori Shiva
+: 24250041
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01754
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: QuantaBurst: a hierarchical transformer with physics-grounded temporal attention for
+single-photon image reconstruction
+: Dutta, Sayak
+: 24250082
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01777
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Tracking information flow throug indexedDB in web browsers
+: Dubey, Shruti
+: 24250089
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01784
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Multi-script typeface design and predictive oculomotor modelling for Dyslexia-aware web
+accessibility
+: Sreejan
+: 24250093
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01787
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: On coresets for strategic classification
+: Kanukollu, Sri Sai Karthik
+: 24250095
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01789
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Closing the gap in emission compliance: lifecycle-aware satellite monitoring of brick kilns
+: Hardaha, Suruchi
+: 24250097
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01790
+
+34
+
+Earth Sciences
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Evidence of slab tearing in the andaman nicobar region: a 3D geodynamic and forward
+gravity modelling approach
+: Singh, Jagroop
+: 23210044
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01648
+: Numerical investigation of the effect of convergence velocity on the structural evolution of
+accretionary wedges using the SiStER code
+: Jana, Anindita
+: 24210013
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01672
+: Role of diagenetic cements in buffering the reactivity of injected CO2 in siliciclastic
+reservoirs
+: Patel, Kartik
+: 24210052
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01691
+: Seismic stratigraphy of deepwater siliciclastics: insights from Middle Andaman offshore,
+Eastern Middle Andaman
+: Mishra, Saharsh
+: 24210085
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01710
+
+Electrical Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Comparative analysis of deep learning models for lithium-ion battery remaining useful life
+prediction
+: Mirza, Tahseen
+: 23210110
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01653
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Low-rank AEFLANN-based multichannel nonlinear active noise control
+: Debnath, Bishnu
+: 24210023
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01680
+
+Title
+Author
+Roll No.
+Publisher
+
+: Grid connected power electronic conversion systems
+: Mesariya, Jaydeep Rasikbhai
+: 24210045
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+
+35
+
+Acc. No.
+
+: T01688
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Cost-effective wearable system for fall prediction and fall detection
+: Chavhan, Kiran Ramesh
+: 24210055
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01693
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Trajectory-aware mixed-precision quantization of stable diffusion XL: from sensitivity atlas
+to realised memory savings
+: Patel, Maharshi
+: 24210059
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01696
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Monocular 3D reconstruction of human faces using gaussian splatting
+: S, Saravanan
+: 24210090
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01713
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Stress estimation in a virtual reality-based space environment using physiology based
+markers
+: Anand, Satvik
+: 24210091
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01714
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Six-step commutation control for BLDC motor: simulation study and hardware validation
+: Prajapati, Shmbhu
+: 24210097
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01718
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Hardware implementation of total focusing method for non-destructive testing applications
+: Sahoo, Abhilipsa
+: 24250004
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01732
+
+Title
+
+: Dynamic characterization of GaN HEMTs and their application in high-frequency boost DCDC converter for fuel cell systems
+: Kant, Aditya
+: 24250009
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01736
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+36
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Modified hybrid droop technique for active power management in a PV-integrated islanded
+DC microgrid with composite energy storage devices
+: Ghritlahare, Akansha
+: 24250010
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01737
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Nearest kronecker product based censored regression non linear filter for audio
+applications
+: Porwal, Ayush
+: 24250026
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01745
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Linear regression based short-term wind power generation forecasting
+: Agarwalla, Gunjan
+: 24250037
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01751
+
+Title
+
+: Development and initial evaluation of a portable hypothermic system for organ transport
+application
+: Thokchom, Gyanendrajit
+: 24250038
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01752
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Development of a portable thermoelectric organ preservation system and its evaluation ex
+vivo using ultrasound tissue characterisation
+: Sahu, Khomendra
+: 24250043
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01756
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Study of performance analysis of induction motor drive using various PWM schemes
+: Dihingia, Lopamudra
+: 24250050
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01761
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: RoomDesigner: training-free 3D indoor scene generation using LLM-guided spatial layouts
+: Jain, Rachit
+: 24250072
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01773
+
+37
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Renewable consumption obligation compliance strategies for designated industrial
+consumers
+: Singh, Ragini
+: 24250073
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01774
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Design of a digitized hindi aphasia screening platform (DHASP): Its potential to screen poststroke aphasic, nonaphasic, and healthy individuals
+: Dessai, Sambhav Prabhu
+: 24250079
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01775
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Economic viability assessment of solar PV-BESS in distribution network
+: Chithung, Shokhayui
+: 24250087
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01782
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Robust and sparsity-aware distributed estimation over streaming graph signals
+: Saikia, Tanmay
+: 24250100
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01793
+
+Title
+
+: Trigger-agnostic thermal runaway classification: a unified machine learning framework for
+battery safety
+: Desai, Yash Nileshkumar
+: 24250109
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01801
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+Integrated Circuit Design and Technology
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+
+: Design of NAND FLASH system with digitally programmable delay line (DPDL) enabled HV
+generator
+: Narayan, Aditya
+: 24210007
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01667
+: Circuit-aware high-frequency sub-circuit modelling of emerging Si MOSFETs and GaN
+HEMTs
+: Arunteja, Palutla
+: 24210017
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+
+38
+
+Acc. No.
+
+: T01675
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Resonant gate driver with charge recycling for power MOSFET
+: Tiwari, Ayush
+: 24210021
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01678
+
+Title
+
+: Circuit-level implementation of spiking neural networks using lif neurons and RRAM
+synapses
+: Pandey, Harsh
+: 24210038
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01685
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Electro-thermal analysis of depletion mode & enhance mode AlGaN/GaN high eelectron
+mobility transistor
+: Naveen, Jatothu
+: 24210043
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01686
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Performance analysis and spacer optimization of trilayered s-Si/s-SiGe/s-Si gate all around
+field effect transistors
+: Vinod, Kunsoth
+: 24210058
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01695
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Pattern-aware selection of cm1 model forms using geometry-driven machine learning
+: Kumar, Pirangi Raj
+: 24210079
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01707
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Custom design of ESD protection devices for HBM and CDM in CMOS technologies
+: Kadam, Siddhesh
+: 24210101
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01721
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Hybrid software-FPGA RRAM-cross bar array platform for in-memory computing with bit
+slicing architecture
+: Singh, Udisha
+: 24210109
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01724
+
+Title
+
+: Comparison of different analog to digital converters for analog compute-in memory
+
+39
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+architectures
+: Sreeram, Anirudh
+: 24250016
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01740
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Design and optimization of 60 Volt STI based LDMOS transistor
+: Saxena, Apoorv
+: 24250018
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01741
+
+Title
+
+: NMOS pass transistor based LDO supporting extended input voltage and load current range
+with fast transient response
+: Arnav
+: 24250023
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01744
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Understanding fault tolerance in digital hardware implementation of oscillator neural
+network
+: Jain, Khushi
+: 24250046
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01758
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Design and analysis of RRAM-Basedlogic gates and post-silicon testing of in-memory
+computing ICs
+: Sivanarayana, Prathipati Teja
+: 24250068
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01770
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Single-stage high-voltage piezoelectric
+: Rawat, Shrishti
+: 24250088
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01783
+
+Materials Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Synthesis, defect engineering and optoelectronic characterization of hexagonal boron
+nitride nanostructures for UV photonics
+: Tony, Albin
+: 24210009
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01668
+
+40
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Graphene-polymer nacre mimetic coatings for increasing strength of materials
+: Pal, Anuj
+: 24210015
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01673
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Role of solute immiscibility on microstructural evolution and mechanical properties in
+aluminium-based eutectic alloys
+: Vardhrajan, K
+: 24210050
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01690
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Precipitation kinetics in Al-Er and Al-Yb binary alloys
+: N, Pravinraja
+: 24210074
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01704
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Designing a smart window for energy-efficient building applications
+: Anil, Neha Catherine
+: 24250062
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01767
+
+Title
+
+: Development of corrosion resistant tantalum oxide thin films for SS 316L used in
+semiconductor manufacturing
+: Swinkle Rose
+: 24250099
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01792
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Effects of micropatterning and nano-hydroxyapatite in plga scaffolds for bone tissue
+engineering
+: Suryavanshi, Vedsagar Rajesh
+: 24250105
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01798
+
+Mechanical Engineering
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Effective elastic properties of anisotropic hierarchical honeycombs–departure from selfsimilarity
+: Hooda, Tarun
+: 22210052
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01646
+
+41
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Krichhoff rod model of helical springs
+: Mehta, Priyanshu
+: 23210079
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01652
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Experimental investigation of radiators for thermal management of fuel cells in aerospace
+applications
+: Reddy, K. V. Shashank
+: 23250019
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01657
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Vibration analysis of elastic beam in contact with a flat surface
+: Bais, Satyam Singh
+: 23250039
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2025
+: T01660
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Mechanics of a tendon-driven compliant manipulator
+: Rathod, Meet
+: 24210081
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01708
+
+Title
+
+: Development and kinematic validation of the hand cable-driven assistive rehabilitation
+exoskeleton (HCARE)
+: Nimkar, Aaditya Paresh
+: 24250002
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01730
+
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Analytical modeling and tip force estimatio of a hybrid tendon-pneumatic soft robotic
+finger
+: Sharma, Abhinab
+: 24250005
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01733
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Effect of multiphase flow dynamics on the combustion of metal-water propellant mixtures
+: Ramachandran, Abhiram
+: 24250006
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01734
+
+42
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+
+: Novel resistance-capacitance model for thermal analysis of PCM-integrated structures by
+assimilating natural convection
+: Pandey, Apratim
+: 24250019
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01742
+
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Parametric CFD investigation of cavity-based scramjet combustion with detailed chemical
+kinetics
+: Dalal, Krutarth
+: 24250048
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01759
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Thermo-chemo-viscoelastic modelling of LI-ION electrode particles
+: Awasthi, Mayank
+: 24250054
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01763
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Electro–thermal modeling of lithium-ion battery systems for electric vehicles
+: Gohain, Mondeep
+: 24250057
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01764
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Velocity-based admittance-impedance control with contact compliance modeling for
+robust dual-arm robotic manipulation
+: Dubey, Samriddhi
+: 24250080
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01776
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Equilibria of a heavy elastica in partial contact with a flat surface
+: Behera, Sivam
+: 24250090
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01785
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Higher-order meshless method for Taylor–Couette flow with slip boundary conditions
+: Pradhan, Sohan Kumar
+: 24250091
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01786
+
+43
+
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+Title
+Author
+Roll No.
+Publisher
+Acc. No.
+
+: Design, control, and biomechanical evaluation of the targeted reconfigurable emulator for
+the knee (T-REK)
+: Mittal, Vardan
+: 24250104
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01797
+: Learning, perception, and contact modeling for robust robot manipulation in unstructured
+and uncertain industrial settings
+: Kashiv, Yash
+: 24250108
+: Gandhinagar: Indian Institute of Technology Gandhinagar, 2026
+: T01800
+
+*****
+
+44

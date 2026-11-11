@@ -1,0 +1,2822 @@
+#flags:
+
+Architecture, process, and materials for
+efficient inorganic-organic hybrid solar cells
+April 13, 2015
+
+Sang Il Seok
+ Center for Solar Energy Materials Research,
+Korea
+Research
+Institute
+of
+Chemical
+Technology, Korea
+(seoksi@krict.re.kr)
+ Future Solar cells Lab., Department of Energy
+Science, Sungkyunkwan University, Korea.
+(seoksi@skku.edu)
+1
+
+Global Solar Market Outlook
+•
+
+2013 Total Installation: 37 GW
+• 11.3GW/China, 10.3GW/EU, 7.5GW/Japan, 4.8GW/USA, 4.1GW/ROW
+
+•
+
+2014 Global Demand Forecast : 47GW
+• 14GW/China, 10GW/ EU (3GW/UK, 2.5GW/Germany..), 8GW/Japan,
+7GW/USA, 8GW/ROW (India, MEA, South America, South Africa, ..)
+• Supply capacity~63GW; effective capacity~45GW
+• Transition to supply-driven market in 2014
+
+~60GW in 2015
+
+Sources: RPIA (European PV industry association)
+
+2
+
+1
+
+KRICT hybrid solar cells
+Adv. Mater. 26, 1622–1628 (2014)
+
+ >20%
+
+ > 8%
+
+3
+
+KRICT hybrid solar cells
+
+4
+
+2
+
+Outline
+ State-of-art of solar cells
+ Research scheme: Why inorganic-organic
+heterojunction hybrid solar cells?
+ Inorganic-organic hybrid solar cells
+ Sb2S(e)3-based systems
+ APbX3 perovskite-based systems
+ A =CH3NH3, HN=CHNH2; x=I, Br. Cl
+ Summary
+
+5
+
+State-of-the- Art of Solar cells
+I
+
+silicon
+II-VI compounds (CdTe)
+III-V compounds (GaAs)
+
+free electron –
+hole pair
+II
+Solar cells
+
+Polycrystalline (CIGS)
+
+Dye-sensitized solar cell
+(Solid-state DSSC)
+
+bound electronhole pair
+III
+
+Main issues in solar cells are
+ Conversion Efficiency
+ Long-term stability
+ Fabrication cost
+
+Quantum dots solar cells
+(Nano-oxide and polymer)
+Organic solar cells
+(Tandem cells)
+
+Inorganic-organic
+Hybrid solar cells
+
+Our research
+area
+
+6
+
+3
+
+Inorganic-organic hybrid solar cells
+eV
+-3
+-4
+
+e
+
+FTO
+
+-5
+
+TiO2
+
+-6
+
+5.2
+
+h
+
+-7
+
+5.3
+
+5.2
+
+5.5
+
+HTMs: P3HT PCPDTBT PCDTBT
+
+eV
+-3
+-4
+
+e
+
+FTO
+
+-5
+
+5.1
+Au
+
+Sb2S(e)3
+
+TiO2
+
+-6
+
+HTMs
+
+APbX3
+
+Au
+
+h
+
+-7
+
+PTAA
+
+P3HT: poly(3-hexylthiophene)
+PCPDTBT: poly(2,6-(4,4-bis-(2ethylhexyl)-4H-cyclopenta[2,1-b;3,4b’]dithiophene)-alt-4,7(2,1,3benzothiadiazole)
+PCPTBT: poly (N-9′′-heptadecanyl-2,7carbazole-alt-5,5-(4′,7′-di-2-thienyl2′,1′,3′-benzothiadiazole)
+PTAA: poly(triarylamine)
+
+7
+
+Sb-CHs-based inorganic-organic hybrid solar cells
+Architecture
+Compact TiO2
+blocking layer
+
+Conjugated polymer
+Ie
+
+Transparent conduct
+ive oxide (F-doped S
+nO2, FTO)
+
+LUMO
+e-
+
+T
+CB
+
+CB
+
+Mesoporous
+TiO2 (mp-TiO2)
+
+HOMO
+
+T
+
+VB
+h
++
+
+VB
+mp-TiO
+
+Sb-Chs
+QDs or extremely
+thin layer
+
+Sb-Chs
+
+Ih
+
+Ih
+Polymer
+
+Au
+
+2
+
+Au
+PC60(or 70)BM
+
+PEDOT:PSS
+
+1.
+2.
+3.
+
+Ie: Electron injection
+Ie: Hole injection
+T: Transfer
+
+- PC60BM / phenyl-C60-butyric acid methyl ester
+- PEDOT:PSS / poly(3.4-ethylenedioxythiophene) poly(sty
+renesulfonate)
+
+8
+
+4
+
+Nanostructured Sb2S3/P3HT heterojunction solar cells
+
+Precursors: SbCl3 and Sodium thiosulfate
+
+600
+
+Intensity (arb. unit)
+
+Sb2S3: a high absorption
+coefficient (1.8 × 105 cm–1 at
+450 nm) and optimum
+bandgap (Eg = 1.7 eV)
+
+Sb 2S 3 CBD on Glass
+PDF 042-1393 Stibnite
+
+500
+400
+300
+200
+100
+0
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+2 theta (deg)
+
+XRD pattern of Sb2S3 annealed at ~300 oC after CBD
+FTO coated
+substrate
+
+Sb2S3
+
+CBD Process
+
+TiO2
+
+9
+
+mp-TiO2/Sb2S3/P3HT hybrid solar cells
+
+eV
+-3
+-4
+-5
+-6
+
+e
+FTO
+
+5.1
+
+Sb2S3
+TiO2
+
+h
+
+-7
+
+5.2
+
+Au
+
+P3HT
+
+P3HT: poly(3-hexylthiophene)
+
+10
+
+5
+
+Nanostructured Sb2S3/P3HT heterojunction solar cells
+Incident-photon-to-current
+conversion efficiency (IPCE)
+
+Current density-voltage (J-V) curves
+1h
+2h
+3h
+4h
+
+-2
+
+Current density (mA cm )
+
+15
+
+IPCE(%)
+
+10
+
+1h
+2h
+3h
+4h
+
+80
+60
+40
+
+5
+20
+
+mp-TiO2/P3HT/Au
+
+mp-TiO2/P3HT/Au
+x2
+
+0
+
+0
+0.0
+
+0.2
+
+0.4
+
+400
+
+0.6
+
+500
+
+600
+
+700
+
+800
+
+Wavelength(nm)
+
+Potential (V)
+CBD time (h) for Sb2S3
+
+Jsc[mA cm-2]
+
+Voc[mV]
+
+FF[%]
+
+Eff.[%]
+
+0
+
+0.63
+
+475
+
+29.2
+
+0.092
+
+1
+
+5.3
+
+424
+
+64.1
+
+1.48
+
+2
+
+9.1
+
+465
+
+65.5
+
+2.92
+
+3
+
+12.3
+
+556
+
+69.9
+
+5.06
+
+4
+
+11.0
+
+535
+
+63.8
+
+3.97
+
+Nano Letters, 10,
+2609 (2010)
+
+11
+
+Nanostructured Sb2S3/P3HT heterojunction solar cells
+Reproducibility: OK !
+Photocurrent density(mA/cm2)
+
+Eff. (%)
+
+Stability with time
+6
+5
+
+FF (%)
+
+4
+80
+70
+
+Voc (mV)
+
+14
+
+-2
+
+700
+
+Jsc (mAcm )
+
+60
+
+600
+
+0 day
+30 days
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+0.0
+
+0.2
+
+500
+
+12
+10
+
+0
+
+200
+
+400
+
+600
+
+Time (hours)
+
+800
+
+0.4
+Voltage(V)
+
+0.6
+
+Ff
+
+Eff.
+
+Time
+[hours]
+
+Jsc
+[mA/ cm2]
+
+Voc
+[mV]
+
+[%]
+
+[%]
+
+0
+72
+216
+360
+576
+720
+
+12.3
+12.3
+12.1
+12.2
+12.1
+11.8
+
+556
+556
+566
+556
+566
+576
+
+69.7
+69.9
+69.4
+68.1
+64.1
+66.5
+
+5.09
+5.09
+5.09
+4.88
+4.66
+4.77
+
+12
+
+6
+
+Inorganic-organic hybrid solar cells
+mp-TiO2/Sb2S3/HTMs
+
+13
+
+Nanostructured Sb2S3/various CPs heterojunction solar cells
+Optical and electrical properties of P3HT, PCPDTBT, PCDTBT, and PTAA
+Conducting
+
+Band
+
+LUMO
+
+HOMO
+
+Hole mobility
+
+polymers
+
+gap(eV)
+
+(eV)
+
+(eV)
+
+(cm2V-1s-1)
+
+P3HT
+
+2.0
+
+-3.2
+
+-5.2
+
+4.0 x 10-4 (a)
+
+PCPDTBT
+
+1.45
+
+-3.55
+
+-5.3
+
+4.5 x 10-4 (a)
+
+PCDTBT
+
+1.9
+
+-3.6
+
+-5.5
+
+1.0 x 10-4 (a)
+
+PTAA
+
+3.0
+
+-2.2
+
+-5.2
+
+~4 x 10-3 (b)
+
+a: Space charge limited current (SCLC) hole mobility
+b: Hole mobility from field effect transistor
+P3HT: poly(3-hexylthiophene)
+PCPDTBT: poly(2,6-(4,4-bis-(2-ethylhexyl)-4H-cyclopenta[2,1-b;3,4-b’]dithiophene)-alt-4,7(2,1,3benzothiadiazole)
+PCPTBT: poly (N-9′′-heptadecanyl-2,7-carbazole-alt-5,5-(4′,7′-di-2-thienyl-2′,1′,3′-benzothiadiazole)
+PTAA: poly(triarylamine)
+
+J. AM. CHEM. SOC. 2009, 131, 10814–10815
+
+14
+
+7
+
+Binding energy (eV)
+
+Nanostructured Sb2S3/various CPs heterojunction solar cells
+3.0
+4.0
+5.0
+
+FTO
+4.4
+TiO2
+
+5.1
+
+Sb2S
+3
+
+5.2
+
+5.3
+
+P3HT
+
+PCPDTBT
+
+5.2
+
+5.5
+
+6.0
+
+PCDTBT
+
+Au
+
+PTAA
+
+2
+
+Current density (mA/cm )
+
+12
+
+P
+ = max= FFIV
+EAc
+EAc
+
+10
+8
+6
+P3HT
+PCPDTBT
+PCDTBT
+PTAA
+
+4
+2
+0
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+Potential (V)
+
+15
+
+Efficient hole extraction
+Toward bi-thiophene moiety in a CP
+Speculation: Bi-thiophen break the long Sb-S bond and
+form bidentate chelating bond to Sb
+
+Long Sb-S bond
+
+S
+
+100
+
+Sb
+
+S
+
+S
+S
+
+S
+
+010
+001
+
+=S
+= Sb
+
+Short Sb-S bond
+Nano Lett. 2011, 11, 4789–4793
+
+16
+
+8
+
+Efficient hole extraction
+Toward bi-thiophene moiety in a CP
+
+17
+
+Nano Lett. 2011, 11, 4789–4793
+
+Sb2S3/PCPDTBT heterojunction solar cells
+J-V curves over a range of intensities
+18
+
+2
+
+Current density (mA/cm )
+
+16
+
+2
+
+Jsc=15.3 mA/cm , Voc=616 mV, FF=65.7%, =6.18%
+
+14
+
+1 sun
+0.5 sun
+0.1 sun
+Dark
+
+PCPDTBT
+
+12
+10
+8
+
+2
+
+Jsc=8.3 mA/cm , Voc=585 mV, FF=68.0%, =6.57%
+
+6
+4
+2
+
+2
+
+Jsc=1.7 mA/cm , Voc=535 mV, FF=70.5%, =6.53%
+
+0
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+Voltage (V)
+Nano Lett. 2011, 11, 4789–4793
+
+18
+
+9
+
+Nanostructured Sb2S3/P3HT heterojunction solar cells
+(1)
+
+X
+
+(3) e
+
+UV-visible absorption spectra
+(wavelength of excitation light = 530 nm)
+
+•
+•
+
+Sb2S3
+
+FTO
+TiO2
+
+P3HT
+PCPDTBT
+
+EQE (%)
+
+80
+60
+40
+20
+0
+
+400
+
+500
+600
+700
+Wavelength (nm)
+
+Photoluminescence (a.u)
+
+100
+
+(2)
+P3HT
+
+Au
+
+h
+
+(1)
+
+40
+
+P3HT/TiO2
+
+30
+P3HT/Sb2S3/TiO2
+
+20
+
+(2)
+10
+
+Sb2S3/TiO2
+
+(3)
+
+0
+600
+
+800
+
+650
+
+700
+
+750
+
+800
+
+Wavelength (nm)
+
+19
+
+Nanostructured Sb2S3/P3HT(PCBM) heterojunction solar cells
+Panchromatic Photon-Harvesting by Hole-Conducting Materials
+80
+
+EQE (%)
+
+60
+40
+
+T/S/P
+T/S/P-P
+
+20
+0
+300
+
+400
+
+500
+600
+700
+Wavelength (nm)
+
+800
+
+PCBM : [6,6]-phenyl-C61-butyric acid methyl ester
+
+20
+
+10
+
+Nanostructured Sb2S3/PCPDTBT(PCBM) heterojunction solar cells
+
+T/S/PCPDTBT-PCBM
+T/S/PCPDTBT
+
+EQE (%)
+
+80
+60
+40
+20
+0
+300
+
+400
+
+500 600 700 800
+Wavelength (nm)
+
+20
+
+2
+
+100
+
+Current density (mA/cm )
+
+Panchromatic Photon-Harvesting by Hole-Conducting Materials
+1 sun
+dark
+
+15
+2
+
+10
+5
+
+Jsc=16.0 mA/cm ,
+Voc=595 mV,
+F.F=65.5%,
+ = 6.3%
+
+0
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7
+Voltage (V)
+
+900
+
+Nano Lett. 12, 1863 (2012)
+
+TiO2
+Sb2S3
+
+PCPDTBT
+
+21
+
+Sb2S3-based inorganic-organic hybrid solar cells
+Passivation after CDD
+
+0.001
+
+DLTS Spectra (C/C0)
+
+S
+C
+H3C
+
+NH2
+
+18
+2
+
+Current density (mA/cm )
+
+Rate Winodws : 0.9242 Hz
+
+0.000
+
+-0.001
+
+-0.002
+
+-0.003
+
+-0.004
+200
+
+NoTA sample
+Measure voltage
+-1.0 V
+-2.0 V
+TA sample
+Measure voltage
+-1.0 V
+-2.0 V
+220
+
+240
+
+0
+0.0
+
+280
+
+300
+
+320
+
+340
+
+Temperature (K)
+
+12
+
+6
+
+260
+
+A
+
+Champion device
+
+Thioacetamide
+post-surfacetreatment
+
+0.2
+
+0.4
+Voltage (V)
+
+0.6
+
+Adv. Func. Mater. 24, 3587 (2014)
+
+Light power
+
+JSC
+
+VOC
+
+FF
+
+(mW cm-2)
+
+(mA cm-2)
+
+(mV)
+
+(%) (%)
+
+PCE
+
+100
+
+16.1
+
+711.0
+
+65.0 7.5
+
+50
+
+9.6
+
+672.7
+
+67.0 8.7
+
+10
+
+2.0
+
+600.1
+
+70.0 8.4
+
+22
+
+11
+
+mp-TiO2/CuSb2S2/PCPDTBT hybrid solar cells
+Cu-Sb-TU complex sol
+
+e-
+
+3.85
+
+eCuSbS2
+(Eg: 1.5 eV)
+TiO2
+
+-5
+
+5.35
+
+-6
+
+Photoelectrode
+
+h+
+
+Light
+sensitizer
+
+Au
+5.3
+
+h+
+
+5.1
+
+HTM
+
+Repetition
+Spin coating
+
+Thermal decomposition
+
+Angew. Chem. Int. Ed. 54, 4005 (2015)
+
+24
+
+-2
+
+4.3
+
+Current density (mA cm )
+
+-4
+
+PCPDTBT
+
+E relative to vacuum (eV)
+
+Process
+
+20
+16
+12
+
+PCE: 3.12 %
+
+8
+4
+0
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+Voltage (V)
+
+23
+
+Nature Materials 13, 837 (2014) doi:10.1038/nmat4079
+Published online 21 August 2014
+
+24
+
+12
+
+What is Perovskite?
+Most widely studied oxide structure: ABO3
+
+ A perovskite structure is any material with the same type of
+crystal structure as calcium titanium oxide (CaTiO3), known as
+the perovskite structure ABO3.
+ Named after Russian mineralogist L. A. Perovski.
+
+25
+
+Hybrid Perovskites
+Perovskite structure=AMX3
+
+Schematic of MX6 octahedra and the
+organic moiety of the basic AMX3
+perovskite unit cell and three-dimensional
+network formed by AMX3 perovskite unit
+cells.
+
+A-cation 12-fold coordinated
+M-cation, octahedrally coord.
+X-Halide
+
+Schematic of 2D, 1D, and 0D IO-hybrid
+derived from parent AMX3 type 3D IO-hybrid
+
+J. of Nanoparticles, 2013, 531871 (2013)
+
+26
+
+13
+
+Architectures
+Perovskite-sensitized solar cells
+Replacing Dye with Perovskite: Current Perovskite Solar Cells are
+built upon the architectural basis for DSSCs pioneered by Grätzel
+(EPFL, Switzerland)
+mp-CH3NH3PbI(Br)3/electrolyte (LiI(Br)/I(Br)2 in acetonitrile)
+3.81 %
+3.13 %
+
+(a) IPCE spectra and (b) I-V action scharacteristic for mp-TiO2/CH3NH3PbBr3
+(solid line) and CH3NH3PbI3/TiO2 (dashed line)
+
+ 6.5 % (N. G. Park et al., Nanoscale, 3, 4088−4093. 2011)
+T. Miyasaka et al., J. Am. Chem. Soc. 131, 6050 (2009)
+
+27
+
+Architectures
+Perovskite-sensitized solar cells
+Replace Liquid Electrolyte with a Solid Hole Transporting Layer
+(HTL)
+
+Left: Schematic representation of full device structure, where the mesoporous oxide is
+either Al2O3 or anatase TiO2. Right: Cross-sectional SEM image of a full device incorporating
+mesoporous Al2O3. Scale bar, 500 nm.
+ The construction of a planar-junction diode with the structure FTO/compact
+TiO2/CH3NH3PbI2Cl/spiro-OMeTAD/Ag.
+ spiro-OMeTAD: 2,2´,7,7´-tetrakis-(N,Ndi-p-methoxyphenylamine)9,9´-spirobifluorene
+
+H. Snaith et al., Science, 338, 643 (2012)
+Received 31 May 2012
+
+28
+
+14
+
+Architectures
+Perovskite-sensitized solar cells
+Replace Liquid Electrolyte with a Solid Hole Transporting Layer (HTL)
+
+(a) Real solid-state device. (b) Cross-sectional structure of the
+device. (c) Crosssectional SEM image of the device. (d) Active layerunderlayer-FTO interfacial junction structure
+N.G. Park eta al., Sci. Report, 2, 591 (2012)
+Received 5 July 2012
+
+29
+
+Architectures: new era
+Inorganic-organic hybrid
+perovskite solar cells
+
+15
+
+2
+
+J (mA/cm )
+
+12
+
+2
+
+P3HT
+PCPDTBT
+PCDTBT
+PTAA
+Au
+
+16
+
+J (mA/cm )
+
+20
+
+Voc = 1.0 V
+Jsc = 16.5 mA/cm2
+F.F = 72.7 %
+η = 12.0 %
+
+10
+5
+0
+
+8
+
+0.0
+
+4
+
+35
+
+0.2
+
+0.4
+0.6
+0.8
+Voltage (V)
+
+1.0
+
+30
+25
+
+0.2
+
+0.4 0.6 0.8
+Voltage (V)
+
+1.0
+
+1.2
+
+Counts
+
+0
+0.0
+
+20
+15
+10
+5
+0
+
+Nature Photonics, 7, 486 (2013)
+
+6
+
+7
+
+8
+
+9
+
+10
+
+ (%)
+
+11
+
+12
+
+13
+
+30
+
+15
+
+Architectures
+SEM cross-sectional image
+
+SEM surface image
+
+ Dense nanocomposite and thin upper layers
+ Is different with conventional dye-sensitized structure
+ Perovskite CH3NH3PbI3 as both light harvester and hole conductor
+31
+
+Architectures
+XPS (X-ray photoelectron
+spectroscopy) depth profile
+
+Intensity (a.u)
+
+0.5
+
+0.0
+
+0
+
+4000
+8000
+12000
+Etching time (s)
+
+1.0
+mp-Al2O3/CH3NH3PbI3
+
+Intensity (a.u)
+
+Au4f
+Pb4f
+C1s
+N1s
+Ti2p
+Sn3d5
+I3d5
+
+1.0
+
+Photoluminescence (PL)
+spectra
+
+mp-Al2O3/CH3NH3PbI3/PTAA
+
+0.5
+mp-TiO2/CH3NH3PbI3/PTAA
+mp-TiO2/CH3NH3PbI
+
+0.0
+700
+
+750
+800
+850
+Wavelength (nm)
+
+900
+
+Nature Photonics, 7, 486–491 (2013)
+
+32
+
+16
+
+Architectures
+mp-TiO2/CIS/C
+
+3D solar cells, with a remarkable
+energy conversion efficiency of 5%.
+
+A. Goossens et al., Nano Lett., 5,
+1716–1719 (2005)
+
+33
+
+Architectures
+Depleted-Heterojunction Colloidal QD Cells
+
+Schematic of the depleted heterojunction
+CQD device
+
+Cross-sectional SEM image
+of the same device
+
+Sargent et al., Nature Nanotechnology,
+7, 577-582 (2012)
+
+Sargent et al., ACS Nano, 4, 3374–3380 (2010)
+
+34
+
+17
+
+mp-TiO2/CITSe/Au solar cells
+CITSeThe Cu:In:Te:Se precursor ratio of 1:1:1:2 resulted in
+Cu0.23In0.36Te0.19Se0.22 alloy QDs
+80
+
+CITSe-pristine
+CITSe-heat treated
+
+EQE (%)
+
+60
+
+40
+
+20
+
+0
+
+400
+
+600
+800
+Wavelength (nm)
+
+1000
+
+20
+CITSe-pristine
+CITSe-heat treated
+
+17.4 mA/cm2 of
+short circuit current
+density (Jsc), 0.40 V
+of open circuit
+voltage (Voc), 44.1%
+of fill factor (F.F)
+and 3.1 %
+
+2
+
+J (mA/cm )
+
+15
+
+10
+
+5
+
+0
+0.0
+
+ACS Nano, 7, 4756–4763 (2013)
+
+0.1
+
+0.2
+
+0.3
+0.4
+Voltage (V)
+
+0.5
+
+0.6
+
+35
+
+Architectures
+mp-TiO2/MAPbI3/PTAA hybrid solar cells
+3-D mp-TiO2/perovskite nanocomposite and thin film layer]
+ pillared architecture, and new platform for efficient cells
+
+Nature Photonics, 7, 486 (2013)
+36
+
+18
+
+Process for Bilayer architecture
+Mixture of GBL/DMSO (MAI+PbI2, PbBr2)
+With dripping toluene
+
+W/O
+
+Annealing
+at 100 oC
+
+c
+
+Pure GBL (MAI+PbI2, PbBr2)
+W/O
+
+Toluene
+dripping
+
+With
+
+b
+
+a
+
+37
+
+Nature Materials, 13 (2014) 897
+
+Process for Bilayer architecture
+a, XRD spectra of PbI2, MAI, PbI2(DMSO)2
+b, FTIR spectrum of PbI2-MAI-DMSO intermediate phase
+c, XRD spectra of PbI2-MAI-DMSO intermediate phase powder as a function of
+temperature
+
+a
+
+b
+Transmittance
+
+CH3NH3I-PbI2-DMSO
+
+C-N stretch
+C-H bend
+S-O stretch
+
+4000
+
+PbI2(DMSO)2
+
+Intensity (a.u.)
+
+N-H bend
+C-H stretch
+N-H stretch
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+-1
+
+Wavenumber (cm )
+
+c
+
+* Perovskite
+
+o
+
+130 C
+
+*
+
+*
+
+*
+CH3NH3I
+
+o
+
+Intensity (a.u.)
+
+100 C
+
+PbI2
+
+o
+
+70 C
+
+RT
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+2 theta (degree)
+
+Nature Materials, 13 (2014) 897
+
+35
+
+40
+
+5
+
+10
+
+15
+2theta (degree)
+
+20
+
+25
+
+38
+
+19
+
+Process for Bilayer architecture
+A plausible mechanism
++MAI
+
+PbI2
+
+PbI2(MAI)
+
+-Edge-sharing octahedrons layered structure.
+
+GBL
+
+-MAI intercalation into the PbI2 layered
+structure.
+-Imaginary structure.
+
+or DMF
+
+: MAI
+
+PbI2(MAI)(DMSO)
+
+-MAI and DMSO intercalation between
+layers.
+-Sequence of guest molecules is
+unconfirmed. +MAI
+-GBL
+
+MAPbI3 perovskites
+
+PbI2/MAI
+
+-Corner-sharing octahedrons
+-Perovskite structure
+
+- Quick self-assemble
+
+39
+
+Nature Materials, 13 (2014) 897
+
+Process for Bilayer architecture
+
+H. J. Snaith et al.,
+Nature, 501, 395
+(2013)
+
+aa
+
+b
+
+Solventengineering
+process
+50 m
+
+500 nm
+
+40
+
+20
+
+Efficient planar heterojunction perovskite solar cells by vapour
+deposition
+
+H.J. Snaith et al., Nature,
+2013, 501, 395–398
+
+41
+
+Hysteresis issue: Bilayer architecture
+Photovoltaic performance as a function of scan direction and
+mp-TiO2 thickness layer.
+
+2
+
+Current density︵ mA/cm︶
+
+15
+
+Forward
+
+10
+5
+25
+0
+
+Reverse
+
+20
+15
+
+20
+
+a
+
+b
+
+Forward
+
+10
+
+Power conversion efficiency (%)
+
+Reverse
+
+20
+
+16
+
+0
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 1.1
+
+Reverse
+
+14
+12
+
+Average
+10
+
+Forward
+
+8
+6
+
+5
+
+c
+
+18
+
+0
+
+100
+
+200
+
+300
+
+400
+
+Thickness of mp-TiO (nm)
+2
+
+Voltage (V)
+
+Nature Materials, 13 (2014) 897
+
+42
+
+21
+
+Architecture: bilayer structure (balancing between e and h)
+
+ P-I-N
+reverse scan
+forward scan
+
+2
+
+Current density (mA/cm )
+
+PCBM
+
+CH3NH3PbI3
+
+PEDOT:PSS
+
+Glass
+
+ITO
+
+LiF(0.5nm)/Al
+
+25
+
+ N-I-P
+ Depletion
+thickness
+
+20
+
+15
+Scan
+direction
+
+10
+
+Jsc
+(mAcm-2)
+
+Voc
+(V)
+
+FF
+(%)
+
+PCE
+(%)
+
+reverse
+
+19.6
+
+0.846
+
+78.1
+
+12.9
+
+forward
+
+19.6
+
+0.846
+
+75.9
+
+12.6
+
+5
+
+0
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+Voltage (V)
+Energy Environ. Sci., 2014, 7, 2642–2646
+43
+
+Materials: CH3NH3Pb(I1-xBrx)3
+Band-gap tuning (MA=CH3NH3)
+
+c
+a
+b
+
+MAPbBr3
+
+E (eV)
+
+MAPbI3
+
+MAPbBr3
+MAPbI3 -3.36
+-4.0
+
+-3.93
+1.5 eV
+
+2.2 eV
+
+-5.2
+
+TiO2
+
+-5.44
+
+-5.58
+
+PTAA
+
+Au
+
+Nano Lett. 13, 1764−1769 (2013)
+
+44
+
+22
+
+Materials: CH3NH3Pb(I1-xBrx)3
+
+︶
+
+.
+u
+.
+a
+
+︵
+
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+x=0
+x=1.0
+
+︶
+
+.
+
+︶
+
+.
+
+12
+
+Efficiency (%)
+
+.
+u
+.
+a
+
+0
+0
+8
+
+0
+0
+7m
+n
+
+h
+t
+g
+n
+e
+l
+e
+v
+a
+0W
+0
+6
+
+0
+0
+5
+
+︵
+
+.
+
+︵
+
+e
+c
+n
+a
+b
+r
+o
+s
+b
+A
+
+10
+8
+6
+4
+2
+
+0
+0
+8
+
+0
+0
+7m
+n
+
+h
+t
+g
+n
+e
+l
+e
+v
+a
+0W
+0
+6
+
+0
+0
+5
+
+︵
+
+0.0
+
+0.2
+
+0.4
+
+︶
+
+x
+
+0.6
+
+Nano Lett. 13, 1764−1769 (2013)
+
+0.8
+
+1.0
+
+45
+
+Materials: CH3NH3Pb(I1-xBrx)3
+2
+1
+
+35 %
+
+35 %
+
+55 %
+
+Humidity
+
+1
+1
+0
+1
+
+9
+
+x = 0.20
+
+8
+
+x = 0.29
+
+6
+5
+4
+
+y
+c
+n
+e
+i
+c
+i
+f
+f
+E
+
+7
+
+︵ ︶
+
+%
+
+x = 0.06
+
+3
+2
+
+x=0
+2
+2
+
+0
+2
+
+8
+1
+
+6
+1
+
+4
+1
+
+2
+
+1 s
+y
+a
+D
+
+0
+1
+
+8
+
+6
+
+4
+
+2
+
+0
+
+Nano Lett. 13, 1764−1769 (2013)
+
+46
+
+23
+
+,
+
+Materials: CH3NH3Pb(I1-xBrx)3
+
+y
+
+20
+
+Scan rate=40ms, Humidity=25%
+
+18
+16
+
+Efficiency(%)
+
+14
+12
+10
+
+MAPbI0.85Br0.15Reverse scan
+
+8
+
+MAPbI0.85Br0.15Foward scan
+
+6
+
+MAPbI3 Reverse scan
+
+4
+2
+
+MAPbI3 Foward scan
+0
+
+5
+
+10
+
+15
+
+20
+
+Days
+
+47
+
+Materials: HTMs
+
+2
+
+Current density(mA/cm )
+
+spirobifluorene core in the spiro-OMeTAD Pyrene
+
+20
+O
+
+O
+
+N
+
+N
+
+15
+10
+
+Au
+
+HTM(
+O
+
+O
+
+N
+
+N
+
+O
+
+O
+
+CH3NH3PbI3+mp TiO2
+Compact layer
+FTO
+
+5
+
+O
+
+O
+
+Chemical Formula: C72H62N4O8
+Exact Mass: 1110.46
+
+0
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+Voltage (V)
+
+J. Am. Chem. Soc., 135, 19087 (2013)
+
+48
+
+24
+
+2
+
+Current density︵ mA/cm︶
+
+Materials: HTMs
+
+20
+
+Jsc (mA/cm2)
+merk(pp)
+Spiro
+pm-Spiro
+po-Spiro
+pp-Spiro
+
+15
+
+Voc (V)
+
+FF
+
+PCE (%)
+
+73.7
+
+15.2
+
+21.1
+
+Commercial
+1.00
+pp
+pm
+po
+1.01
+
+65.2
+
+13.9
+
+5
+21.2
+
+1.02
+
+77.6
+
+16.7
+
+20.4
+10
+
+20.7
+0
+0.0
+
+1.00
+0.2
+
+0.4
+
+71.1
+0.6
+
+14.9
+
+0.8
+
+1.0
+
+Voltage (V)
+-2.28eV
+
+-2.31eV
+
+pp
+
+pm
+
+-2.18eV
+
+E (eV)
+-4.0
+
+-3.93
+
+po
+Au
+
+TiO2
+
+-5.44
+MAPbI3
+
+-5.22eV
+
+-5.31eV
+
+-5.22eV
+
+-5.1
+FTO
+
+1 µm
+
+49
+
+J. Am. Chem. Soc., 136, 7837 (2014)
+
+Materials: HTMs
+3.38 eV
+4.0 eV
+
+3.93 eV
+
+4.0 eV
+
+MAPbI3
+
+MAPbBr3
+PTAA
+
+TiO2
+
+PF8
+5.46 eV
+
+PIF8
+
+TiO2
+
+5.14 eV
+5.44 eV
+5.51 eV
+5.68 eV
+
+10
+
+20
+10
+
+J (mA/cm2)
+
+5
+
+Jsc (mA/cm2)
+
+1.04V
+
+1.29V 1.4V
+
+0
+
+PTAA
+PF8-TAA
+PIF8-TAA
+
+-5
+-10
+
+0
+-10
+
+M A PbI 3 /P TA A
+M A PbB r 3 /P TA A
+
+-20
+-30
+-40
+
+-15
+-20
+
+MAPbBr3
+0.0
+
+0.5
+
+-50
+
+1.0
+
+Voltage (V)
+
+1.5
+
+-60
+-0.2 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4
+
+Voltage (V)
+
+Energy & Environ Sci. 2014, 7, 2614–2618
+
+50
+
+25
+
+mp-TiO2/FAPbI3/PTAA hybrid solar cells
+Materials: Phase stability
+
+Photographs of inorganic-organic hybrid halide powders. Photographs show the color of
+the as-prepared MAPbI3, annealed FAPbI3 at 170 C, FAPbI3, (FAPbI3)1-x(MAPbI3)x,
+(FAPbI3)1-x(FAPbBr3)x, and (FAPbI3)1-x(MAPbBr3)x powders with x = 0.15 (from left to right).
+The (FAPbI3)1-x(MAPbBr3)x powder is the only black powder among the as-prepared FAPbI3based materials
+Nature, 517, 476–480 (2015)
+
+51
+
+mp-TiO2/FAPbI3/PTAA hybrid solar cells
+Materials: Phase stability
+Re-annealed powder
+
+Intensity (a.u.)
+
+Powder after 10 days in air
+
+170 oC-annealed powder
+
+As-prepared powder
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+2theta (degree)
+
+XRD spectra of FAPbI3 powders. The as-prepared yellow FAPbI3 powder shows a nonperovskite phase and is converted to perovskite phase by annealing at 170 C. The perovskite
+FAPbI3 black powder returned to the yellow non-perovskite powder after being stored in air for
+10 h; the yellow powder reversibly changed to black perovskite phase by re-annealing at 170 C.
+Nature, 517, 476–480 (2015)
+
+52
+
+26
+
+mp-TiO2/FAPbI3/PTAA hybrid solar cells
+Materials: Phase & morphology
+
+
+X=0.15
+
+x = 0.15
+
+(FAPbI3)1-x(MAPbBr3)x
+
+
+
+
+
+
+
+#
+
+#
+
+#
+
+Intensity (a.u.)
+
+(FAPbI3)1-x(MAPbI3)x
+
+5 μm
+
+(FAPbI3)1-x(FAPbBr3)x
+
+x = 0.05
+
+
+
+FAPbI3
+
+20
+
+5
+Reciprocal of FWHM
+
+
+
+
+
+15
+
+25
+
+2theta
+
+
+
+
+
+
+
+30
+
+35
+
+40
+0.1
+0.2
+
+4
+
+0.3
+3
+
+0.4
+
+2
+
+0.5
+
+1
+0.0
+
+0.1
+
+0.2
+
+0.6
+0.4
+
+0.3
+
+x
+
+x=0
+
+FWHM of (-111) peak
+
+
+
+10
+
+Nature, 517, 476–480 (2015)
+
+53
+
+mp-TiO2/(FAPbI3)0.85(MAPbBr3)0.15/PTAA
+Materials: (FAPbI3)1-x(MAPbBr3)x
+#: FTO
+
+x=0.30
+
+
+
+
+
+
+
+
+
+#
+
+#
+
+#
+
+Intensity (a.u.)
+
+x=0.15
+
+x=0.10
+
+x=0.05
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+2theta
+
+54
+
+27
+
+mp-TiO2/(FAPbI3)0.85(MAPbBr3)0.15/PTAA
+J-V and IPCE characteristics for the best cell obtained in
+
+Voltage (V)
+
+100
+
+24
+20
+
+80
+
+16
+60
+12
+40
+8
+20
+
+0
+300
+
+4
+
+400
+
+500
+
+600
+
+700
+
+800
+
+In terg ra te d Jsc ( m A /c m 2 )
+
+24
+22
+20
+18
+16
+14
+Jsc
+Voc
+FF
+η
+12
+(mA/cm2)
+(V)
+(%)
+(%)
+10
+22.5
+1.11
+73.2
+18.4
+8
+6
+4
+2
+0
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 1.1 1.2
+
+E Q E (% )
+
+Current density︵ mA/cm︶2
+
+(FAPbI3)0.85(MAPbBr3)0.15
+
+0
+
+Wavelength (nm)
+
+Nature, 517, 476–480 (2015)
+
+55
+
+Summary
+ We sucessfully demonstrated efficient inorganicorganic hybrid solar cells antimony chalcogenides and
+perovskites as light harvesters.
+ The hysteresis effect can be inhibited or even
+eliminated by using FAPbI3 for N-I-P, and MAPbI3 for PI-N structure, respectively.
+ The architecture, process, and composition for light
+harvesters should be optimized to fabricate further
+efficient solar cells
+
+56
+
+28

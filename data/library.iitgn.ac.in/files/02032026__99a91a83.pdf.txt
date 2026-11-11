@@ -1,0 +1,256 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 09, 2026
+(Added during 23rd February 2026 – 27th February 2026)
+Available for the issue from 07th March 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Principles of verification: cycling the probabilistic landscape - essays
+dedicated to Joost-Pieter Katoen on the occasion of his 60th birthday, Part I
+Author: Jansen, Nils (Ed.) et. al.
+Publisher: Cham: Springer, 2025
+Call No.: 005.14 JAN
+Acc. No.: 036719
+Title: Compiler construction: fundamentals and applications
+Author: Mössenböck, Hanspeter
+Publisher: Cham: Springer, 2025
+Call No.: 005.453 GAL
+Acc. No.: 036717
+
+Title: Transactions on large-scale data- and knowledge-centred systems LI: special
+issue on data management - principles, technologies and applications
+Author: Hameurlain, Abdelkader (Ed.)
+Publisher: Berlin: Springer, 2022
+Call No.: 005.74 HAM
+Acc. No.: 036720
+Title: AI chatbots: the good, the bad, and the ugly
+Author: Crowder, James
+Publisher: Cham: Springer, 2024
+Call No.: 006.35 CRO
+Acc. No.: 036716
+
+Title: Metaverse for Industry 5.0
+Author: Majumder, Soumi
+Publisher: Singapore: Springer, 2024
+Call No.: 006.8 MAJ
+Acc. No.: 036718
+
+PSYCHOLOGY
+Title: Decolonizing psychology: globalization, social justice, and Indian youth
+identities
+Author: Bhatia, Sunil
+Publisher: NewYork: Oxford University Press, 2018
+Call No.: 155.51820954 BHA
+Acc. No.: 036733
+SOCIAL SCIENCES
+Title: My shackled life: a dalit woman's autobiography
+Author: Sushila Takbhaure
+Publisher: New Delhi: Speaking Tiger, 2025
+Call No.: 305.5688092 TAK
+Acc. No.: 036742
+
+Title: Eradication
+Author: Mayyu Ali
+Publisher: New Delhi: Pan Macmillan, 2025
+Call No.: 305.80095 ALI
+Acc. No.: 036745
+
+Title: Breakneck: China's quest to engineer the future
+Author: Wang, Dan
+Publisher: London: Allen Lane, 2025
+Call No.: 327.51073 WAN
+Acc. No.: 036749
+
+Title: Ventilator project
+Author: Sastri, Srikant
+Publisher: New Delhi: Macmillan, 2021
+Call No.: 338.476151 SAS
+Acc. No.: 036728
+
+Title: Tourism governance in the anthropocene
+Author: Burini, Federica (Ed.)
+Publisher: Cham: Springer, 2025
+Call No.: 338.4791 BUR
+Acc. No.: 036714
+
+EDUCATION
+Title: Game-based learning across the disciplines
+Author: Aprea, Carmela (Ed.)
+Publisher: Cham: Springer, 2022
+Call No.: 371.334 APR
+Acc. No.: 036721
+
+Title: Gamification in learning and education: enjoy learning like gaming
+Author: Kim, Sangkyun
+Publisher: Cham: Springer, 2017
+Call No.: 371.334 KIM
+Acc. No.: 036722
+
+RAILROAD TRANSPORTATION
+Title: Social life of Indian trains: a journey
+Author: Kumar, Amitav
+Publisher: New Delhi: Aleph Book Company, 2025
+Call No.: 385.095 KUM
+Acc. No.: 036744
+
+LINGUISTICS
+Title: Handbook of research on teaching in multicultural and multilingual contexts
+Author: Charamba, Erasmos
+Publisher: Hershey PA: IGI Global, 2023
+Call No.: 418.0071 CHA
+Acc. No.: 036731
+
+SCIENCE & MATHEMATICS
+Title: Forgotten heroes of Indian science
+Author: Anand Ranganathan
+Publisher: Gurugram: Ebury Press, 2025
+Call No.: 509.54 RAN
+Acc. No.: 036739
+
+MATHEMATICS
+Title: Discrete mathematics and its applications, 8th ed.
+Author: Rosen, Kenneth H.
+Publisher: Chennai: McGraw-Hill, 2021
+Call No.: 511 ROS
+Acc. No.: 036735
+
+Title: Advanced linear algebra, 3rd ed.
+Author: Roman, Steven
+Publisher: New York: Springer, 2007
+Call No.: 512.5 ROM
+Acc. No.: 036726
+
+PHYSICS
+Title: Writings on physics and philosophy
+Author: Pauli, Wolfgang
+Publisher: Berlin: Springer, 1994
+Call No.: 530.01 PAU
+Acc. No.: 036723
+
+Title: Dance of the photons: Einstein, entanglement and quantum teleportation
+Author: Zeilinger, Anton
+Publisher: UK: Penguin Books, 2023
+Call No.: 530.12 ZEI
+Acc. No.: 036729
+
+BIOLOGY
+Title: Continuum analysis of biological systems: conserved quantities, fluxes and
+forces
+Author: Suraishkumar, G.K.
+Publisher: Heidelberg: Springer, 2014
+Call No.: 570.15195 SUR
+Acc. No.: 036725
+Title: Iconic trees of India: 75 natural wonders
+Author: Natesh, S
+Publisher: New Delhi: Roli Books, 2024
+Call No.: 582.160954 NAT
+Acc. No.: 036741
+
+MEDICINE & HEALTH
+Title: Biotransport: principles and applications
+Author: Roselli, Robert J.
+Publisher: New York: Springer, 2011
+Call No.: 610.28 ROS
+Acc. No.: 036724
+
+Title: AgeTech for staying connected
+Author: Astell, Arlene
+Publisher: Cham: Springer, 2026
+Call No.: 618.970028 AST
+Acc. No.: 036715
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Heat and mass transfer: fundamentals and applications in SI units, 6th ed.
+Author: Cengel, Yunus A
+Publisher: Chennai: McGraw-Hill Education, 2021
+Call No.: 621.4022 CEN
+Acc. No.: 036736
+
+Title: Advanced structural analysis with MATLAB®
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2019
+Call No.: 624.170285536 CHA
+Acc. No.: 036747
+
+Title: Computer-aided structural analysis: integration techniques and case studies
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2025
+Call No.: 624.17102854 CHA
+Acc. No.: 036748
+
+Title: Advanced steel design of structures
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2020
+Call No.: 624.1821 CHA
+Acc. No.: 036746
+
+MANAGEMENT
+Title: Designed to win: the Tata Elxsi story
+Author: S. Devarajan
+Publisher: Gurugram: Penguin Business, 2025
+Call No.: 658.4 DEV
+Acc. No.: 036737
+
+Title: Octopus Organisation: a guide to thriving in a world of continuous
+transformation
+Author: Le-Brun, Phil
+Publisher: Boston: Harvard University Press, 2025
+Call No.: 658.406 LEB
+Acc. No.: 036734
+CHEMICAL ENGINEERING
+Title: Elements of chemical reaction engineering, 7th ed.
+Author: Fogler, H. Scott
+Publisher: Hoboken: Pearson, 2025
+Call No.: 660.2832 FOG
+Acc. No.: 036732
+
+BUILDING CONSTRUCTION
+Title: Building physics - heat, air and moisture, 4th ed.
+Author: Hens, Hugo
+Publisher: Berlin: Ernst & Sohn, 2023
+Call No.: 697 HEN
+Acc. No.: 036730
+
+LITERATURE
+Title: Glass bottom: luminous climate fiction for fans of Amitav Ghosh and
+Richard powers
+Author: Prasad, Sonali
+Publisher: New Delhi: Picador India, 2024
+Call No.: 813.6 PRA
+Acc. No.: 036740
+
+Title: Things I don't want to know
+Author: Levy, Deborah
+Publisher: London: Penguin, 2013
+Call No.: 824.92 LEV
+Acc. No.: 036727
+
+HISTORY & GEOGRAPHY
+Title: Empires of the sea: a human history of the Indian ocean world
+Author: Seshan, Radhika
+Publisher: New Delhi: Macmillan India, 2024
+Call No.: 909.09824 SES
+Acc. No.: 036738
+
+Title: Cobra’s gaze: exploring India’s wild heritage
+Author: Alter, Stephen
+Publisher: New Delhi: Aleph Book Company, 2024
+Call No.: 915.40904 ALT
+Acc. No.: 036743
+
+Title: Climate change and human responses: a zooarchaeological perspective
+Author: Monks, Gregory G. (Ed.)
+Publisher: Dordrecht: Springer, 2017
+Call No.: 930.1 MON
+Acc. No.: 036713

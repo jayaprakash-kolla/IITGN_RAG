@@ -1,0 +1,47 @@
+Title: IIT Gandhinagar | Vaibhav Tripathi
+Source: https://iitgn.ac.in/faculty/cogs/fac-vaibhav
+
+# Vaibhav Tripathi
+
+-  Cognitive and Brain Sciences
+Vaibhav Tripathi
+
+## Vaibhav Tripathi
+
+Assistant Professor, Cognitive and Brain Sciences
+
+- BE: Delhi College of Engineering, 2012
+- MTech: IIIT Delhi, 2018
+- MA: Boston University, 2020
+- PhD: Boston University, 2023
+
+Email: vaibhav.tripathi -AT- iitgn.ac.in
+
+Office:  AB 5/317A
+VOIP:  2635
+
+- Vaibhav Tripathi, Joshua Fox-Fuller, Vincent Malotaux, Ana Baena, Nikole Bonillas Felix, Sergio Alvarez, David Aguillon, Francisco Lopera, David C Somers, Yakeel T. Quiroz (2025). Connectome-based predictive modeling of brain pathology and cognition in Autosomal Dominant Alzheimer’s Disease. Alzheimer's & Dementia.
+- Vaibhav Tripathi, Ishaan Batta, Andre Zamani, Daniel Atad, Sneha Sheth, Jiahe Zhang, Tor Wager, Susan Whitfield-Gabrieli, Lucina Q. Uddin, Ruchika Prakash, Clemens Bauer (2025). Default mode network functional connectivity as a transdiagnostic biomarker of cognitive function. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.
+- Vaibhav Tripathi, Laura Rigolo, Bethany K. Bracken, Alexandra J. Golby, Yanmei Tie, David C. Somers (2024). Utilizing resting-state functional connectivity-based motor prediction models for presurgical planning. Human Brain Mapping, 45 (10), e26764.
+- Suruchi Fialoke*, Vaibhav Tripathi*, Sonika Thakral, Anju Dhawan, Vidur Mahajan, Rahul Garg (2024). Functional connectivity changes in meditators and novices during yoga nidra practice. Scientific Reports, 14 (1), 12957. *co-first author
+- Vaibhav Tripathi, David C Somers (2023). Predicting an Individual’s Cerebellar Activity from Functional Connectivity Fingerprints. NeuroImage,Volume 281.
+- Vaibhav Tripathi, Rahul Garg (2022). Weak Task Synchronization of Default Mode Network in task based paradigms. NeuroImage, Volume 251, 118940.
+- Vaibhav Tripathi, Pallavi Bharadwaj (2021). Neuroscience of yogic theory of consciousness. Neuroscience of Consciousness, Volume 2021, Issue 2.
+
+- Assistant Professor, Indian Institute of Technology, Gandhinagar, (Mar 2025 to Present)
+
+- Postdoctoral Fellow, Centre for Brain Science & Department of Psychology, Harvard University, (Sep 2023 - Feb 2025)
+- Research Trainee, Brigham & Women's Hospital, Harvard Medical School, (Dec 2021 to May 2023)
+
+- Research Assistant, Centre for Neuroscience, Indian Institute of Science, (Jan 2015 to Dec 2015)
+
+- Co-Founder, AhoLabs, (Jul 2013 to Dec 2014)
+
+- Software Engineer & Data Scientist, Paytm (Jun 2012 to Jun 2013)
+
+- ● Multisensory perception, attention & working memory
+- ● Large scale brain organization
+- ● Neuroscience & AI
+- ● Meditation & Consciousness
+
+Complete List of Publications

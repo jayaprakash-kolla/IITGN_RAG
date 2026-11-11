@@ -1,0 +1,41 @@
+Title: Hardware-Friendly Activation Functions at Hackrush 2026
+Source: https://cse.iitgn.ac.in/blog/hackrush-2026-srihith-activation-functions
+
+SR
+
+Srihith
+4 May 2026· 2 min read
+
+For Hackrush 2026, I worked on a computer architecture problem that required implementing four machine-learning activation functions in hardware: ReLU, Leaky ReLU, sigmoid approximation, and tanh approximation.
+
+The main constraints were low latency, fixed-point representation, and efficient resource usage. Synthesis was performed on Basys3 using Vivado, and Q16 fixed-point representation was used throughout.
+
+## ReLU and Leaky ReLU
+
+ReLU was the simplest function: output the input when it is positive and output 0 otherwise. This can be implemented directly with a conditional operator, giving a latency of one cycle.
+
+Leaky ReLU is similar, except negative inputs are scaled by a constant alpha. The problem allowed contestants to choose alpha. To avoid multipliers, I used alpha = 0.125, which can be implemented as a right shift by 3 bits. This also achieved one-cycle latency.
+
+## Sigmoid Approximation
+
+For sigmoid, I used a five-segment piecewise linear approximation:
+x < -3 -> 0-3 <= x < -1 -> 0.125x + 0.375-1 <= x < 1 -> 0.25x + 0.51 <= x < 3 -> 0.125x + 0.625x >= 3 -> 1
+All multiplications were implemented using shifts. This eliminated multiplier usage while keeping the approximation simple enough for one-cycle latency.
+
+## Tanh Approximation
+
+The tanh function needed a finer approximation, so I used seven piecewise segments:
+x < -2 -> -1-2 <= x < -1 -> 0.25x - 0.5-1 <= x < -0.5 -> 0.5x - 0.25-0.5 <= x < 0.5 -> x0.5 <= x < 1 -> 0.5x + 0.251 <= x < 2 -> 0.25x + 0.5x >= 2 -> 1
+Again, all scaling was shift-based. The goal was to improve accuracy over sigmoid while keeping the hardware implementation compact.
+
+## Result
+
+All four activation functions were implemented with one-cycle latency. The bit-shift-based scaling removed the need for multipliers, reducing DSP usage to 0.
+
+The main lesson was that hardware implementation changes how we think about familiar ML functions. In software, multiplying by a small constant is ordinary. In hardware, choosing constants that map cleanly to shifts can make the design simpler, faster, and more resource-efficient.
+
+## Related Articles
+
+01 MayBuilding a Rule-Aware Snake Bot for Hackrush 2026#hackrush2026Game AI
+02 MayBazaar@IITGN: A Campus Marketplace for Hackrush 2026#hackrush2026Web Development
+03 MayFew-Shot Bone Marrow Cell Classification at Hackrush 2026#hackrush2026Machine Learning

@@ -1,0 +1,155 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 16, 2026
+(Added during 13th April 2026– 17th April 2026)
+Available for the issue from 25th April 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Database system concepts, 7th ed.
+Author: Silberschatz, Abraham
+Publisher: Chennai: McGraw-Hill Education, 2026
+Call No.: 005.74 SIL
+Acc. No.: 036918
+
+Title: Optimist: Sam Altman, OpenAI, and the race to invent the future
+Author: Hagey, Keach
+Publisher: New York: W.W. Norton & Company, 2025
+Call No.: 006.3092 HAG
+Acc. No.: 036903
+
+LIBRARY SCIENCE
+Title: AI-powered cataloging: a practical guide to building a cataloging application
+with power apps
+Author: Lowagie, Hannes
+Publisher: London: Facet Publishing, 2025
+Call No.: 025.3028563 LOW
+Acc. No.: 036902
+
+PHILOSOPHY
+Title: Making sense of nature: representation, politics and democracy
+Author: Castree, Noel
+Publisher: New York: Routledge, 2014
+Call No.: 113 CAS
+Acc. No.: 036907
+
+SOCIAL SCIENCES
+Title: Our posthuman future: consequences of the biotechnology revolution
+Author: Fukuyama, Francis
+Publisher: London: Profile Books, 2003
+Call No.: 303.483 FUK
+Acc. No.: 036898
+
+Title: Unnatural world: race to remake civilization in Earth's newest age
+Author: Biello, David
+Publisher: New York: Scribner, 2017
+Call No.: 304.2 BIE
+Acc. No.: 036908
+
+Title: Decolonial keywords: South Asian thoughts and attitudes
+Author: Thomas, Renny (Ed.)
+Publisher: New Delhi: Tulika Books, 2026
+Call No.: 320.540954 THO
+Acc. No.: 036901
+
+Title: Atlas of water: mapping the world's most critical resource, 3rd ed.
+Author: Black, Maggie
+Publisher: Brighton: University of California Press, 2016
+Call No.: 333.91 BLA
+Acc. No.: 036911
+
+LINGUISTICS
+Title: Philosophy of translation
+Author: Searls, Damion
+Publisher: New Haven, London: Yale University Press, 2024
+Call No.: 418.02 SEA
+Acc. No.: 036914
+
+SCIENCE
+Title: History of science, technology, environment, and medicine in India
+Author: Sarkar, Suvobrata (Ed.)
+Publisher: New York: Routledge, 2026
+Call No.: 509.54 SAR
+Acc. No.: 036910
+
+MATHEMATICS
+Title: Elephant in the classroom: helping children learn and love maths
+Author: Boaler, Jo
+Publisher: London: Souvenir Press, 2022
+Call No.: 510.71041 BOA
+Acc. No.: 036915
+
+PHYSICS
+Title: Topological quantum
+Author: Simon, Steven H.
+Publisher: Oxford: Oxford University Press, 2023
+Call No.: 530 SIM
+Acc. No.: 036900
+
+Title: Computational modeling and visualization of physical systems with Python
+Author: Wang, Jay
+Publisher: Hoboken: Wiley, 2015
+Call No.: 530.0285 WAN
+Acc. No.: 036912
+
+Title: Quantum many-particle systems
+Author: Negele, John W.
+Publisher: Boca Raton: CRC Press, 2019
+Call No.: 530.144 NEG
+Acc. No.: 036906
+
+Title: Women in the history of quantum physics: beyond Knabenphysik
+Author: Charbonneau, Patrick (Ed.)
+Publisher: Cambridge: Cambridge University Press, 2025
+Call No.: 530.9252 CHA
+Acc. No.: 036904
+
+Title: Modern supersymmetry: dynamics and duality
+Author: Terning, John
+Publisher: Oxford: Oxford University Press, 2016
+Call No.: 539.725 TER
+Acc. No.: 036899
+
+CHEMISTRY
+Title: Principles and practices of heterogeneous catalysis, 2nd ed.
+Author: Thomas, John Meurig
+Publisher: Weinheim: Wiley-VCH, 2015
+Call No.: 541.395 THO
+Acc. No.: 036905
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Mechanics of materials, 8th ed.
+Author: Beer, Ferdinand P
+Publisher: Chennai: McGraw-Hill Education, 2025
+Call No.: 620.1123 BEE
+Acc. No.: 036916
+
+Title: Water and wastewater engineering: design principles and practice, 2nd ed.
+Author: Davis, Mackenzie L
+Publisher: New York: McGraw-Hill Education, 2020
+Call No.: 628.1 DAV
+Acc. No.: 036917
+
+Title: Optical and EUV lithography: a modeling perspective
+Author: Erdmann, Andreas
+Publisher: Bellingham: SPIE--The International Society for Optical Engineering,
+2021
+Call No.: 686.232 ERD
+Acc. No.: 036913
+
+BIOGRAPHY
+Title: Tatyasaheb: the story of a Bombay entrepreneur
+Author: Apte-Rahm, Tejaswini
+Publisher: Chennai: Westland Business, 2025
+Call No.: 923.3 APT
+Acc. No.: 036909

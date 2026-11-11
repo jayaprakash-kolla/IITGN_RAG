@@ -1,0 +1,50 @@
+Title: IIT Gandhinagar | Mayank Singh
+Source: https://iitgn.ac.in/faculty/cse/fac-mayank
+
+# Mayank Singh
+
+-  Computer Science & Engineering
+Mayank Singh
+
+## Mayank Singh
+
+Jibaben Patel Chair (Artificial Intelligence) Associate Professor , Computer Science and Engineering
+
+- BTech: Indian Institute of Technology Jodhpur, 2012
+- PhD: Indian Institute of Technology Kharagpur, 2019
+
+Email: singh.mayank -AT- iitgn.ac.in
+
+ Website :  http://mayank4490.github.io/
+
+Office:  AB 13/402B
+VOIP:  2538
+
+Jagriti Jalal, Mayank Singh, Arindam Pal, Lipika Dey and Animesh Mukherjee. 2020. Identification, Tracking and Impact: Understanding the trade secret of catchphrases. JCDL 2020.
+
+Pradumn Kumar Pandey, Mayank Singh, Pawan Goyal, Animesh Mukherjee, and Soumen Chakrabarti. "Analysis of reference and citation copying in evolving bibliographic networks." Journal of Informetrics 14, no. 1 (2020): 101003.
+
+Pradumn Kumar Pandey, and Mayank Singh. "MSP-N: Multiple selection procedure with ‘N’possible growth mechanisms." PloS one 14, no. 12 (2019).
+
+Mayank Singh, Rajdeep Sarkar, Atharva Vyas, Pawan Goyal, Animesh Mukherjee, and Soumen Chakrabarti. "Automated early leaderboard generation from comparative tables." In European Conference on Information Retrieval, pp. 244-257. Springer, Cham, 2019.
+
+Mayank Singh, Rajdeep Sarkar, Pawan Goyal, Animesh Mukherjee, and Soumen Chakrabarti. "Relay-Linking Models for Prominence and Obsolescence in Evolving Networks'' In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 1077-1086. ACM, 2017.
+
+Mayank Singh, Tanmoy Chakraborty, Animesh Mukherjee, and Pawan Goyal "Is this conference a top-tier? ConfAssist: An assistive conflict resolution framework for conference categorization" Journal of Informetrics (JOI) 10(4), pp. 1005-1022, 2016.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Dec 2025 to Present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Feb 2019 to Dec 2025)
+- Assistant Research Professor, Indian Institute of Technology Gandhinagar (July 2018 - Jan 2019)
+- Research Intern, TCS Innovation labs, Kolkata, India (2017)
+- Research Intern, Georgia Tech, Atlanta, USA (2016)
+- Research Intern, Xerox Research Center Bangalore, India (2014)
+- Technology Analyst, Infosys Ltd., Hyderabad, India (2012 - 2013)
+- Research Intern, Intelligent Systems Research Centre, Northern Ireland, UK (2011)
+
+- ● Text mining
+- ● Natural language and processing
+- ● Machine learning
+- ● Network science
+- ● Information retrieval
+
+Complete List of Publications

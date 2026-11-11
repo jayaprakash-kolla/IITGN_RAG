@@ -1,0 +1,104 @@
+#flags:
+
+size
+A4
+A3
+Lgl
+size
+A2
+A1
+A0
+
+Photo Copy I Print out
+balck and white
+Colour
+one side
+two side
+one side
+two side
+1.50
+2.00
+12.00
+20.00
+4.00
+6.00
+25.00
+40.00
+2.50
+4.00
+15.00
+25.00
+LINE WORK B/W
+40.00
+65.00
+120.00
+
+GLOSS PHOTO PAPER
+270.00
+470.00
+770.00
+
+Color paper with colpur print
+Color paper with b/w print
+Lamination A4
+Lamination A3
+Passport photo making
+Gloss paper color print A4 size( 250 gsm)
+Gloss paper color print A3 size( 250 gsm)
+PAGES
+
+16.00
+4.50
+25.00
+45.00
+50.00
+35.00
+50.00
+
+Spiral Binding
+
+1
+to 150 Pages
+151 to 250 Pages
+251 to 350 Pages
+> 351 Pages
+
+A4
+25.00
+35.00
+45.00
+55.00
+
+A3
+60.00
+80.00
+90.00
+100.00
+
+PAGES
+1
+to 50 Pages
+51 to 75 Pages
+76 to 100 Pages
+101 to 125 Pages
+126 to 150 Pages
+151 to 200 Pages
+201 to 250 Pages
+
+wire Binding
+50.00
+65.00
+90.00
+100.00
+110.00
+125.00
+135.00
+
+comb Binding
+65.00
+80.00
+100.00
+120.00
+130.00
+150.00
+175.00

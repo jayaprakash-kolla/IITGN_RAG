@@ -1,0 +1,22 @@
+Title: IIT Gandhinagar | Computer Science and Engineering
+Source: https://iitgn.ac.in/careers/cse.html
+
+# Computer Science and Engineering
+
+- Careers
+Computer Science and Engineering
+
+The department of Computer Science and Engineering at IITGN was started in 2011 with a Ph.D. program. The department currently hosts research activities which can be broadly classified into:
+
+- Algorithms
+- Computational complexity
+- Cryptography
+- Data mining
+- Machine learning
+The research facilities, which are continously being upgraded, currently include:
+
+The department is in the process of building the research infrastructure and recently developed a high performance computing facility based on GPU cluster.
+
+In order to meet current and future research and teaching requirements, the discipline of Computer Science and Engineering at IIT Gandhinagar seeks outstanding applicants from all areas of Computer Science and Engineering to fill multiple positions at all levels.
+
+For queries or information regarding faculty recruitment specifically in Computer Science at IITGN, please contact Prof. Abhishek Bicchawat [[email protected]]. For general questions related to faculty recruitment at IITGN, please write to [email protected]

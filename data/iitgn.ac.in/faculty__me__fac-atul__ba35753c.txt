@@ -1,0 +1,46 @@
+Title: IIT Gandhinagar | Atul Bhargav
+Source: https://iitgn.ac.in/faculty/me/fac-atul
+
+# Atul Bhargav
+
+-  Mechanical Engineering
+Atul Bhargav
+
+## Atul Bhargav
+
+Professor, Mechanical Engineering
+
+- BTech: IIT Madras, 2002
+- MS: University of Maryland College Park, USA, 2008
+- PhD: University of Maryland College Park, USA, 2010
+
+Email: atul.bhargav -AT- iitgn.ac.in
+
+Office:  AB 4/308
+VOIP:  2419 / 2024/1419
+
+- M. Dixit, Y. Fulpagare, J. Shukla, P. Basarkar, D. Parikh, and A. Bhargav, “Design of Fuel Cell Systems Laboratory for Hydrogen, Carbon Monoxide and Hydrocarbon Safety,” Int. J. Hydrogen Energy, 2014 (DOI: 10.1016/j.ijhydene.2014.08.094).
+- M. Lyubovsky, A. Bhargav, M. Dixit, “Managing Fuel Variability in LPG-based PEM Fuel Cell Systems – I: Thermodynamic Simulations”, Int. J. Hydrogen Energy, 2014 (DOI: 10.1016/j.ijhydene.2014.08.068).
+- A. Jagwani, H. Bhragava, A. Patil, S. Singhal, A. Bhargav, "Efficient Cooling Systems for Hot and Dry Climate and Assessment of Thermal Comfort”, poster presented at the 22nd National and 11th International ISHMT-ASME Heat and Mass Transfer Conference 2013, organized by IIT Kharagpur, India.
+- A. Bhargav, G.S. Jackson, R.J. Ciora, P.K.T. Liu: “Model Development and Validation of Hydrogen Transport through Supported Palladium Membranes”, Journal of Membrane Science, Volume 356, Issues 1-2, 1 July 2010, Pages 123-132.
+
+- Professor, Indian Institute of Technology Gandhinagar (Oct 2021 to present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Sep 2016 - Oct 2021)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (May 2011 - Sep 2016)
+- Product Development Engineer, Ballard Power Systems, USA (Mar 2010 - Apr 2011)
+- Graduate Research Assistant, University of Maryland College Park, USA (Aug 2005 - Mar 2010)
+- Test Bed Engineer, AVL Technical Centre, India (Jan 2005 - May 2005)
+- Assistant Manager, Maruti Udyog Limited, India (June 2003 - Jan 2005)
+- Graduate Engineer Trainee, Maruti Udyog Limited, India (June 2002 - June 2003)
+
+Patents
+
+- Provisional patent application filed with the US Patent Office. Title: "Control Algorithm for a Fuel Cell Power System Integrated with a Fuel Processor"
+
+- ● Hydrogen production from hydrocarbon reforming
+- ● Fuel cell systems design and simulation
+- ● Heat & mass transfer
+- ● Palladium-based composite membranes for Hydrogen purification in fuel cell system applications
+- ● Control algorithms for fuel cell systems
+
+Complete List of Publications

@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Arpan Bhattacharyya
+Source: https://iitgn.ac.in/faculty/phy/fac-arpan
+
+# Arpan Bhattacharyya
+
+-  Physics
+Arpan Bhattacharyya
+
+## Arpan Bhattacharyya
+
+Singheswari and Ram Krishna Jha Chair Associate Professor, Physics
+
+- BSc: St.Xaviers College,Kolkata 2010
+- MS: IISc Bangalore, 2012
+- PhD: IISc Bangalore, 2015
+
+Email: abhattacharyya -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/iitgn.ac.in/arpan-group/home
+
+Office:  AB 6/314B
+VOIP:  2559
+
+1."Cosmological Complexity," Arpan Bhattacharyya, Saurya, Das, S.Shajidul Haque and Bret Underwood, Physical Review D 101(2020), 106020, DOI:10.1103/PhysRevD.101.106020
+
+2."Renormalized Circuit Complexity," Arpan Bhattacharyya, Pratik Nandy and Aninda Sinha, Physical Review Letters 124 (2020), no.10,101602, DOI:10.1103/PhysRevLett.124.101602
+
+3."Chaos and Complexity in Quantum Mechanics," Tibra Ali, Arpan Bhattacharyya, S.Shajidul Haque, Eugene H.Kim, Nathan Moynihan and Jeff Murugan, Physical Review D 101 (2020), no.2,026021, DOI:10.1103/PhysRevD.101.026021
+
+4."Universal Local Operator Quenches and Entanglement Entropy," Arpan Bhattacharyya, Tadashi Takayanagi and Koji Umemoto, Journal of High Energy Physics, 1911 (2019) 107, DOI:10.1007/JHEP11(2019)107
+
+5."Entanglement of Purification in Many Body Systems and Symmetry Breaking", Arpan Bhattacharyya, Alexander Jahn, Tadashi Takayanagi and Koji Umemoto, Physical Review Letters 122 (2019) no.20,201601, DOI:10.1103/PhysRevLett.122.201601
+
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Apr 2025 to present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (2019 to Apr 2025)
+- Post Doctoral Fellow, Yukawa Institute for Theoretical Physics, Kyoto, Japan (2017 to 2019)
+- Post Doctoral Fellow, Fudan University, Shanghai, China (2016 to 2017)
+
+- ● Quantum entanglement in many-body systems
+- ● Tensor network methods
+- ● Computational complexity
+- ● AdS/CFT correspondence
+- ● Asymptotic symmetries of spacetime (BMS)
+
+Complete List of Publications

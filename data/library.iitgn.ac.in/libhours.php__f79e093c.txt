@@ -1,0 +1,25 @@
+Title: Library | IIT Gandhinagar
+Source: https://library.iitgn.ac.in/libhours.php
+
+## Library Hours
+
+| Libraries | Opening Days (Hours) | Circulation Issue/Return  | Closed on the following major holidays  |
+| Main Library |
+
+##### During Semester
+
+ Monday to Friday: 9.00 a.m. to 2.00 a.m.
+ Saturday, Sunday, and Holidays: 9.00 a.m. to 12.00 a.m.
+
+##### During Vacations
+
+ All days (Including Saturday, Sunday and Holiday)
+ 9.00 am to 12.00 midnight  | All days
+ 9:00 am to 8:00 pm  |
+
+- 26th January : Republic Day
+- 15th August : Independence Day
+- 2nd October : Gandhi Jayanti
+- Dussehra : (Vijaydashmi)
+- Diwali : (Deepavali) |
+| Mini-Library  | All days (24x7) |  --- | Not Closed |

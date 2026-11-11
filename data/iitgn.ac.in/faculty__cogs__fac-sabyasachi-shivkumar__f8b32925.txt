@@ -1,0 +1,47 @@
+Title: IIT Gandhinagar | Sabyasachi Shivkumar
+Source: https://iitgn.ac.in/faculty/cogs/fac-sabyasachi-shivkumar
+
+# Sabyasachi Shivkumar
+
+-  Cognitive and Brain Sciences
+Sabyasachi Shivkumar
+
+## Sabyasachi Shivkumar
+
+Assistant Professor, Department of Cognitive and Brain Sciences
+
+- B.Tech (hons): Indian Institute of Technology, Madras, 2017
+- M.Tech: Indian Institute of Technology, Madras, 2017
+- MA: University of Rochester, NY, 2021
+- PhD: University of Rochester, NY, 2022
+
+Email: sabyashiv -AT- iitgn.ac.in
+
+ Website :  https://sabyashiv-iitgn.github.io/rcplab/
+
+Office:  AB12/302B
+VOIP:  2423
+
+Shivkumar, S., DeAngelis, G. C., & Haefner, R. M. (2025). Hierarchical motion perception as causal inference. Nature Communications
+
+Noel, J. P., Shivkumar, S., Dokka, K.*, Haefner, R. M.†, & Angelaki, D.† (2022). Aberrant causal inference and presence of a compensatory mechanism in Autism Spectrum Disorder. eLife
+
+Shivkumar, S., Lengyel, M.†, & Wolpert, D. M.† (2025). Curriculum effects in multitask learning through the lens of contextual inference. Current Opinion in Neurobiology
+
+Cesanek, E., Shivkumar, S., Ingram, J. N., & Wolpert, D. M. (2024). Ouvrai opens access to remote virtual reality studies of human behavioural neuroscience. Nature Human Behaviour
+
+Lange, R. D., Shivkumar, S., Chattoraj, A., & Haefner, R. M. (2023). Bayesian encoding and decoding as distinct perspectives on neural coding. Nature Neuroscience
+
+Associate Professor, Indian Institute of Technology Gandhinagar (April 2026 – Present)
+
+Postdoctoral Research Scientist, Columbia University (February 2023 – December 2025)
+
+Postdoctoral Scholar, University of Rochester (December 2022 – February 2023)
+
+Awards
+
+- 2020 Edward Peck Curtis Award for Excellence in Teaching by a Graduate Student
+
+- ● Normative modeling of behavior
+- ● Behavioral experiments
+- ● Computational Cognitive Neuroscience

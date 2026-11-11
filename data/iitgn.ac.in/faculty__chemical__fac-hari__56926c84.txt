@@ -1,0 +1,43 @@
+Title: IIT Gandhinagar | Hari Sai Ganesh
+Source: https://iitgn.ac.in/faculty/chemical/fac-hari
+
+# Hari Sai Ganesh
+
+-  Chemical Engineering
+Hari Sai Ganesh
+
+## Hari Sai Ganesh
+
+Assistant Professor, Chemical Engineering
+
+- BTech in Chemical Engineering: Amrita Vishwa Vidyapeetham, 2011
+- MSc(Engg.) in Chemical Engineering: Indian Institute of Science Bangalore, 2014
+- PhD in Chemical Engineering: The University of Texas at Austin, 2018
+
+Email: hariganesh -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/iitgn.ac.in/hariganesh/
+
+Office:  AB 5/402
+VOIP:  2571
+
+Saini, R. S. T., Patel, S., & Ganesh, H. S. (2023). Energy-Focused Predictive Control for Particulate Matter Concentration and Thermal Comfort Indoors in Delhi. Journal of Building Engineering, 73, 106745.
+
+Saini, R. S. T., Pappas, I., Avraamidou, S., & Ganesh, H. S. (2023). Non-Cooperative Distributed Model Predictive Control: A Multi-Parametric Programming Approach. Industrial & Engineering Chemistry Research, 62(2), 1044-1056.
+
+Gupta, S., Saini, R. S. T., & Ganesh, H. S. (2023). Hierarchical MPC for a Dynamic Process System Employing Parametric Global Optimization Strategy. Digital Chemical Engineering, 100120
+
+Ganesh, H. S., Edgar, T. F., & Baldea, M. (2019). Modeling, optimization and control of an austenitization furnace for achieving target product toughness and minimizing energy use. Journal of Process Control, 74, 177-188.
+
+Assistant Professor, Indian Institute of Technology, Gandhinagar (Jan 2021 to present)
+
+Postdoctoral Research Associate with Dr. Efstratios N. Pistikopoulos, Texas A&M Energy Institute, Texas A&M University (July 2019 - Dec 2020)
+
+Postdoctoral Fellow with Dr. David T. Allen, CISTAR NSF Engineering Research Center, The University of Texas at Austin, (Jan 2019 - Jun 2019)
+
+- ● Modeling and Simulation
+- ● Process Control and Optimization
+- ● Energy and Environment
+- ● Data Science
+
+Complete List of Publications

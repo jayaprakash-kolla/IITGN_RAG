@@ -1,0 +1,14 @@
+Title: Library | IIT Gandhinagar
+Source: https://library.iitgn.ac.in/overleaf.php
+
+Overleaf is an online LaTeX and Rich Text collaborative writing and publishing tool that makes the whole process of academic writing, editing, and publishing much quicker and easier.
+
+ Library at IIT Gandhinagar has recently subscribed to Overleaf Professional Group Subscription version. This group subscription with a limited number of accounts is available for Faculty (to begin with) for use in collaboration with students and other collaborators enabling easier and more efficient document preparation for research papers, reports, and other academic documents.
+
+ To access the Overleaf group subscription, simply send an email to the [email protected] and library team will add you as a member to Overleaf using your IITGN email address. You will then receive an email to accept the request and from there you will be able to collaborate with other users within the IITGN community seamlessly.
+
+ For more details, please visit https://www.overleaf.com/ and explore features, templates, how to use tutorials and other resources to help make best use of this tool.
+
+ For technical questions, please email https://www.overleaf.com/ for assistance.
+
+ If you have any questions and need assistance from the library, please email [email protected]

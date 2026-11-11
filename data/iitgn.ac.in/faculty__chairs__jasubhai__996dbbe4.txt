@@ -1,0 +1,56 @@
+Title: IIT Gandhinagar | Jasubhai Memorial Chair
+Source: https://iitgn.ac.in/faculty/chairs/jasubhai
+
+# Faculty Chairs
+
+- Faculty Chairs
+- Jasubhai Memorial Chair
+
+## Jasubhai Memorial Chair
+
+ IIT Gandhinagar has setup a faculty chair in honour of Mr. Jasubhai Shah through a donation by his son Mr. Maulik Jasubhai.
+
+Mr. Jasubhai Shah
+Mr. Jasubhai Shah - visionary, entrepreneur, philanthropist, patron of the arts and sciences and promoter of social changes in India and friend of Austria. Mr. Shah was born in and did his schooling in Gujarat. Graduating from St. Xavier's College in Mumbai, he studied engineering in West Germany and returned to India in 1967. A strong advocate for enhancing the capabilities of Indian business, he founded the Chemtech Foundation to provide a platform to Indian enterprises to foreign technology and knowhow, a move that spawned a whole generation of new entrepreneurial start-ups and collaborations. The Foundation offers a platform to engineering students from IITs and other colleges to interact with leaders of industry to be exposed to latest global trends in industry, and to develop entrepreneurial leadership.
+
+ Mr. Shah focussed on businesses that were driven by technology, and towards that end entered into collaborations with the aim of making available in India products and services with the latest technology to the process industry in India. Technical media and digital media were other areas in which the group had business interests.
+
+ The concept of corporate social responsibility was initiated by him early in his career, and as founder President of the Jasubhai Foundation, his business enterprises contributed to support social change by way of rural development, education, and enhancement of medical facilities. He was a patron of the Shanmukhananda Fine Arts and Sangeeta Sabha, the National Centre for the Performing Arts, the Birla Theatre and the Harkisondas Hospital. Closer to his birth place, he initiated efforts through the Kalol Taluka Kelavni Mandal towards cleanliness and enhancing the level of education in the local school at Chhatral.
+
+ Mr. Shah had varied interests and graced the Boards of various banks, chambers of commerce and philanthropy organisations, both Indian and global. He had at various times been the President of the Indo-American Society, Chairman of the EU Chambers of Commerce, Chairman of United Way of Mumbai and Member of the Global Leaders' Council USA, amongst others.
+
+ In his capacity as the Honorary Consul General of Austria, Mr. Jasubhai Shah was honoured with the Grand Honour Medal in 1993 and the Austrian Cross of Honour for contribution in Science & Arts in 2002.
+
+Mr. Maulik Jasubhai
+
+##### Endowment
+
+ In memory of Mr. Jasubhai Shah, his son Mr. Maulik Jasubhai has established an endowment at IIT Gandhinagar through the Jasubhai Foundation. Keeping in line with the vision of his father Mr. Jasubhai Shah, this endowment will help promote excellence in education, innovation and entrepreneurship, and research and also support Jasubhai Memorial Chair.
+
+##### Current Occupant
+
+Prof. Uttama Lahiri
+Jasubhai Memorial Chair
+Professor of Electrical Engineering
+
+ Read More →
+
+## Prof. Uttama Lahiri
+
+Prof. Uttama Lahiri is Professor of Electrical Engineering at IIT Gandhinagar, where she directs the Sarita G Gelot Laboratory for Intelligent Rehabilitation and Affective Computing Systems (IRACS). Her group develops AI-enabled adaptive physiology-sensitive wearable devices for gait and balance disorders along with affective computing for applications in cognitive research, rehabilitation, and assistive technology.
+
+ She completed her BE at Jadavpur University, Kolkata (1995), followed by an MTech at IIT Kharagpur (2004) and PhD at Vanderbilt University (2011). Before her academic career, she worked in industry for nearly a decade, including as Senior Manager at Tata Iron and Steel Company Ltd. (2004–07) and in engineering roles at Biecco Lawrie Ltd., TTS Systematix Pvt. Ltd. and Quality Manufacturing Systems Inc. She returned to research as a Research Assistant and Research Associate at Vanderbilt University (2007–11).
+
+ She joined IIT Gandhinagar as Assistant Professor in April 2012, was promoted to Associate Professor in November 2015, and to Professor in October 2021.
+
+ Her lab has produced a portfolio of patented devices spanning social communication skill training platforms for individuals with autism, wearables for diagnostics, and wearables for gait disorder rehabilitation following a full pipeline from problem conceptualization through device development, prototyping, clinical validation, and field deployment with end-users. Notable devices include the Physiology-sensitive Adaptive Treadmill-Assisted Gait Exercise Platform and Instrole, a wearable gait quantification device. The lab maintains active collaborations with special needs schools, hospitals, and clinicians nationally and internationally.
+
+ She was elected a Fellow of the Indian National Academy of Engineering (INAE) in December 2025, had been the Outstanding Award Winner representing India at The ASEAN - India Women Scientist’s Conclave in April 2024, was awarded the Tata Innovation Fellowship in July 2021 to name a few. Her lab's work has also been recognized with the Gandhian Young Technological Innovation (GYTI) Award (2023).
+
+Current Research Projects:
+
+- 1. SmartGait: Wearable Device offering Vibrotactile Stimulation for Understanding Rehabilitation Dosage in terms of Gait Quantification and Neuronal Activity in Dopaminergic Circuits of Individuals with Parkinson’s Disease (ANRF-ARG)
+- 2. WeGaMo: Wearable Gait Monitor (TIH-IoT TDP IIT Bombay)
+- 3. Extension and digitalization of the Indian Aphasia Battery (BIRAC)
+- 4. Development of spoken language corpora for under-resourced languages (SERB-TARE)
+Research Interests: Intelligent Adaptive Wearable Device for Gait and Balance Quantification and Rehabilitation, Virtual Reality–based Human-Computer Interaction in affective computing, Gaze-sensitive Cognitive State Estimation

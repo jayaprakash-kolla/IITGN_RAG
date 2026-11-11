@@ -1,0 +1,37 @@
+Title: IIT Gandhinagar | Uddipta Ghosh
+Source: https://iitgn.ac.in/faculty/me/fac-uddipta
+
+# Uddipta Ghosh
+
+-  Mechanical Engineering
+Uddipta Ghosh
+
+## Uddipta Ghosh
+
+Associate Professor, Mechanical Engineering
+
+- BTech: Indian Institute of Technology Kharagpur, 2011
+- MTech: Indian Institute of Technology Kharagpur, 2012
+- PhD: Indian Institute of Technology Kharagpur, 2016
+
+Email: uddipta.ghosh -AT- iitgn.ac.in
+
+Office:  AB 4/320
+VOIP:  2535
+
+- U. Ghosh, T. LeBorgne, D. Jougnot, N. Linde and Y. Meheust, "Geoelectrical signatures of reactive mixing: a theoretical assesment". Geophysical Research Letters, 45 (8), pp. 3489 - 3498 (2018).
+- U. Ghosh, S. Mandal and S. Chakraborty, "Electroosmosis over charge-modulated surfaces with finite electrical double layer thicknesses: Asymptotic and numerical investigations". Physical Review Fluids, 2, 064203 (2017).
+- S. Mandal, U. Ghosh and S. Chakraborty, "Effect of Surfactant on Motion and Deformation of Compound Droplets in Arbitrary Unbounded Stokes Flows". Journal of Fluid Mechanics, 803, pp. 200 - 249 (2016).
+- U. Ghosh, K. Chaudhury and S. Chakraborty, "Electroosmosis over non-uniformly charged surfaces: modified Smoluchowski slip velocity for second-order fluids". Journal of Fluid Mechanics, 809, pp. 664 - 690 (2016).
+- S. Kar, U. Ghosh, T. K. Maiti and S. Chakraborty, "Haemoglobin content modulated deformation dynamics of red blood cells on a compact disc". Lab on a Chip, 15 (24), 4571-4577 (2015).
+
+- Associate Professor, IIT Gandhinagar, (Dec 2025 - Present)
+- Assistant Professor, IIT Gandhinagar, (Dec 2017 - Dec 2025)
+- Marie-Curie Fellow, University of Rennes 1, (Apr 2017 - Dec 2017)
+- Post Doctoral Fellow, University of Rennes 1, (Jul 2016 - Mar 2017)
+- Research Associate, IIT Kharagpur, (Apr - Jun, 2016)
+
+- ● Viscous Flows, Electrohydrodyamics and Electrokinetics
+- ● Flow of Complex Fluids
+- ● Transport in Porous Media
+- ● Energy and Hygrometric Studies of Buildings

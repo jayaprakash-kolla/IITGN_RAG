@@ -1,0 +1,87 @@
+Title: PhD Program
+Source: https://cse.iitgn.ac.in/academics/phd
+
+Department of Computer Science & Engineering, IIT Gandhinagar
+
+# PhD Program
+
+ A research-focused doctoral program for creative, independent, and interdisciplinary inquiry.
+
+More information
+
+ IITGN PhD overview ->  PhD admissions ->  Prime Minister Research Fellowship at IITGN ->
+
+Recent Graduates
+
+## Recent CSE PhD defenses
+
+ Defense announcements from the last six months, matched with public research-scholar profiles from the IITGN CSE student directory.
+
+ 7 profiles
+
+### Jayesh Malaviya
+
+ Computer Science and Engineering
+ThesisSubset Selection for Scalable Machine Learning: Coresets, Sketching, and Statistical GuaranteesDefense3 Jun 2026SupervisorAnirban DasguptaJoined2019
+ Scalable machine learning through coresets, sketching, and randomized numerical linear algebra.
+
+### Pritam Kadasi
+
+ Computer Science and Engineering
+ThesisBudget-Aware Decision Making for NLP: Annotation, Training and DataDefense3 Jun 2026SupervisorMayank SinghJoined2021
+ Natural language processing and large language models, with an emphasis on instruction tuning, multilingual AI, and resource-efficient model training.
+
+### Himanshu Beniwal
+
+ Computer Science and Engineering
+ThesisAssessing Factuality and Toxicity in Large Language ModelsDefense18 May 2026SupervisorMayank SinghJoined2021
+ Factuality, toxicity, and safety assessment in multilingual large language models.
+
+### Prajwal Kumar Singh
+
+ Computer Science and Engineering
+ThesisScalable Generative Vision and Neural Decoding: Connecting Machine and Human PerceptionDefense6 May 2026SupervisorShanmuganathan RamanJoined2021
+ Generative vision and neural decoding methods that connect machine and human perception.
+
+### Jinia Ghosh
+
+ Computer Science and Engineering
+ThesisGraphs Defined on Groups: Complexity Theoretic and Algorithmic AspectsDefense29 Apr 2026SupervisorBireswar DasJoined2020
+ Complexity-theoretic and algorithmic aspects of graphs defined in terms of groups.
+
+### Anant Kumar
+
+ Computer Science and Engineering
+ThesisOn Graph Isomorphism for Power Graphs and Subgraph Counting in Sparse GraphsDefense24 Mar 2026SupervisorBireswar DasJoined2019
+ Graph isomorphism for power graphs and subgraph counting in sparse graphs.
+
+### Zeel B Patel
+
+ Computer Science and Engineering
+ThesisAI for Air Quality: Modeling, Sensor Placement and Source DetectionDefense4 Feb 2026SupervisorNipun BatraJoined2019
+ AI for social good and air-quality systems, including modeling, sensor placement, and source detection.
+
+Academics
+
+## Overview
+
+ IITGN describes its PhD program as a pathway for creative scholarly inquiry, intellectual maturity, and research careers in teaching, innovation, entrepreneurship, and advanced research. The program combines research with coursework and encourages interdisciplinary interactions.
+
+Doctoral students work with research-active faculty and a diverse PhD community across disciplines.
+
+The program includes coursework, research credits, the postgraduate orientation programme Aarohan, and institute-level academic requirements.
+
+IITGN highlights interdisciplinary supervision and a porous academic environment connected to the broader Ahmedabad-Gandhinagar research ecosystem.
+
+Current CSE and AI admissions areas, eligibility details, and application cycles are maintained on the IITGN admissions pages.
+
+Interview preparation
+
+## Preparing for the PhD interview
+
+ Prospective PhD applicants can use this playlist to prepare for the CSE PhD interview process and refresh core ideas before the interaction.
+
+Preparation playlist
+
+ Watch the curated YouTube playlist for interview preparation.
+ Open playlist ->

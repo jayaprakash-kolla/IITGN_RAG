@@ -1,0 +1,47 @@
+Title: IIT Gandhinagar | Celso G. Camilo Jr
+Source: https://iitgn.ac.in/faculty/former/fac-celso
+
+# Celso G. Camilo Jr
+
+-  Former Faculty Members
+Celso G. Camilo Jr
+
+## Celso G. Camilo Jr
+
+Scholar-in-Residence, Computer Science & Engineering
+
+- MSc: Federal University of Goiás (2005) - BR
+- PhD: Federal University of Uberlândia (2010) - BR
+
+SentiHealth-Cancer: a sentiment analysis tool to help detecting mood of patients in online social networks
+ Ramon Gouveia Rodrigues, Rafael Marques das Dores, Celso G Camilo-Junior, Thierson Couto Rosa - International journal of medical informatics, 2016
+
+SentiHealth-Cancer: a sentiment analysis tool to help detecting mood of patients in online social networks
+ Ramon Gouveia Rodrigues, Rafael Marques das Dores, Celso G Camilo-Junior, Thierson Couto Rosa - International journal of medical informatics, 2016
+
+An evolutionary approach for combining results of recommender systems techniques based on collaborative filtering
+ Edjalma Queiroz da Silva, Celso G. Camilo-Junior, Luiz Mario L. Pascoal, Thierson C. Rosa - Expert Systems with Applications, 2016
+
+Improved representation and genetic operators for linear genetic programming for automated program repair
+ Vinicius Paulo L Oliveira, Eduardo Faria de Souza, Claire Le Goues, Celso G Camilo-Junior - Empirical Software Engineering, 2018
+
+Improved crossover operators for genetic programming for program repair
+ Vinicius Paulo L Oliveira, Eduardo FD Souza, Claire Le Goues, Celso G Camilo-Junior - International Symposium on Search Based Software Engineering, 2016
+
+A novel fitness function for automated program repair based on source code checkpoints
+ Eduardo Faria de Souza, Claire Le Goues, Celso Gonçalves Camilo-Junior - Proceedings of the Genetic and Evolutionary Computation Conference, 2018
+
+- Scholar-in-Residence, Indian Institute of Technology Gandhinagar, Gujarat, India (September 2022 - present)
+- Visiting Professor, Carnegie Mellon University (2015-2016) - EUA
+
+- ● Metaheuristic
+- ● Evolutionary Computation
+- ● Deep Learning
+- ● Automated Program Repair
+- ● Fault Localization
+- ● Web Mining
+- ● Optimization Problem
+- ● Applied Artificial Intelligence (Healthcare, Sales, Management, and
+ others)
+
+Complete List of Publications

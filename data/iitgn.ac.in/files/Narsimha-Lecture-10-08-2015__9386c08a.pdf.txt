@@ -1,0 +1,1777 @@
+#flags:
+
+Towards a Science of Security Games:
+Key Algorithmic Principles, Deployed Systems, Research Challenges
+
+Milind Tambe
+Helen N. and Emmett H. Jones Professor in Engineering
+University of Southern California
+
+with:
+Current/former PhD students/postdocs:
+
+Other collaborators:
+
+Bo An, Matthew Brown, Francesco Delle Fave, Fei
+Fang, Benjamin Ford, William Haskell, Manish Jain,
+Albert Jiang, Debarun Kar, Chris Kiekintveld, Rajiv
+Maheswaran, Janusz Marecki, Sara McCarthy, Thanh
+Nguyen, Praveen Paruchuri, Jonathan Pearce,James
+Pita, Yundi Qian, Aaron Schlenker, Eric Shieh, Jason
+Tsai, Pradeep Varakantham, Haifeng Xu, Amulya
+Yadav, Rong Yang, Zhengyu Yin, Chao Zhang
+
+Shaddin Dughmi (USC), Richard John (USC), David
+Kempe (USC), Nicholas Weller (USC) &
+Craig Boutilier (Toronto), Jeff Brantingahm
+(UCLA), Vince Conitzer (Duke), Sarit Kraus (BIU,
+Israel), E Lam (Panthera), Andrew Lemieux (NCSR)
+Barney Long(WWF), Arnault Lyet (WWF), Kevin
+Leyton-Brown (UBC), F. Ordonez (U Chile), M.
+Pechoucek (CTU, Czech R), R. Pickles (Panthera),
+Andy Plumptre (WCS), Ariel Procaccia (CMU),
+Martin Short (GATech), P. Stone (Univ of Teaxas),
+Y. Vorobeychik (Vanderbilt), ….
+
+1 /57
+
+Global Challenges for Security:
+Game Theory for Security Resource Optimization
+
+2 /57
+
+Example Model:
+Stackelberg Security Games
+Adversary
+
+Security allocation:
+Targets have weights
+Adversary surveillance
+
+Defender
+
+Target
+#1
+
+Target
+#2
+
+Target #1
+
+4, -3
+
+-1, 1
+
+Target #2
+
+-5, 5
+
+2, -1
+3 /57
+
+Example Model:
+Stackelberg Security Games
+Adversary
+
+Security allocation:
+Targets have weights
+Adversary surveillance
+
+Defender
+
+Target
+#1
+
+Target
+#2
+
+Target #1
+
+4, -3
+
+-1, 1
+
+Target #2
+
+-5, 5
+
+2, -1
+4 /57
+
+Example Model:
+Stackelberg Security Games
+Adversary
+
+Security allocation:
+Targets have weights
+Adversary surveillance
+
+Defender
+
+Target
+#1
+
+Target
+#2
+
+Target #1
+
+4, -3
+
+-1, 1
+
+Target #2
+
+-5, 5
+
+2, -1
+5 /57
+
+Stackelberg Security Games
+Security Resource Optimization: Not 100% Security
+
+Random strategy:
+Increase cost/uncertainty to attackers
+
+Adversary
+
+Stackelberg game:
+Defender commits to mixed strategy
+Adversary conducts surveillance; responds
+Stackelberg Equilibrium: Optimal random?
+Target
+#1
+
+Defender
+
+Target
+#2
+
+Target #1
+
+4, -3
+
+-1, 1
+
+Target #2
+
+-5, 5
+
+2, -1
+6 /57
+
+Security Games: Research & Applications
+Massive scale games,
+Plan/reason under uncertainty
+
+Human adversary behavior modeling,
+Repeated games, Learn from field data
+
+Infrastructure
+Security Games
+
+Green
+Security Games
+
+Coast
+Guard
+
+Coast
+Guard
+
+Coast
+Guard
+
+LAX
+
+TSA
+
+Panthera
+
+LA
+Sheriff
+
+WWF
+
+Opportunistic Crime
+Security Games
+
+7 /57
+
+Global Presence of Security Games Efforts
+
+/57
+
+Key Lessons: Security Games
+Decision aids based on computational game theory in daily use
+Optimize limited security resources against adversaries
+Applications yield research challenges: Science of security games
+Scale-up: Incremental strategy generation & Marginals
+
+Uncertainty: Integrate MDPs, Robustness
+Human behavior models: Quantal response
+Current applications: Global, interdisciplinary challenges
+Green security games: criminology, computation, conservation
+9 /57
+
+Outline: Security Games Research (2007-)
+Infrastructure
+Security Games
+
+Green
+Security Games
+
+Opportunistic
+Crime
+Security Games
+
+Air travel
+
+Ports
+
+Trains
+
+Fisheries
+
+Wildlife
+
+Urban Crime
+
+2007
+
+2011
+
+2013
+
+2014
+2014
+
+2014
+2014
+
+2015
+2015
+2015
+
+Evaluation I: AAAI, IJCAI, AAMAS papers…
+Evaluation II: Real-world deployments (Patience)
+10 /57
+
+ARMOR Airport Security: LAX [2007]
+First Stackelberg Security Game Application
+GLASGOW 6/30/07
+
+11 /57
+
+Template for Security Game Operations [2007]
+ARMOR Example
+
+Pita Paruchuri
+
+Target #1
+
+Target #2
+
+Target #3
+
+Defender #1
+
+2, -1
+
+-3, 4
+
+-3, 4
+
+Defender #2
+
+-3, 3
+
+3, -2
+
+….
+
+Defender #3
+
+….
+
+….
+
+….
+
+Mixed Integer Program
+Pr(Canine patrol, 8 AM @Terminals 2,5,6) = 0.17
+Pr(Canine patrol, 8 AM @ Terminals 3,5,7) = 0.33
+
+Canine Team……
+Schedule, July 28
+Term 1
+8 AM
+
+Term 2
+
+Term 4
+
+Team1
+
+9 AM
+10 AM
+
+Term 3
+
+Team1
+Team3
+
+Term 5
+
+Term 6
+
+Team3
+
+Team5
+
+Team2
+Team5
+
+Term 7
+
+Term 8
+
+Team4
+Team2
+
+12 /57
+
+Security Game MIP [2007]
+Generate Mixed Strategy for Defender in ARMOR
+Target #1
+
+Target #2
+
+Target #3
+
+Defender #1
+
+2, -1
+
+-3, 4
+
+-3, 4
+
+Defender #2
+
+-3, 3
+
+3, -2
+
+….
+
+Defender #3
+
+….
+
+….
+
+….
+
+max
+
+R  x q
+
+ij i j
+iX jQ
+
+s.t.
+
+ xi  1
+i
+
+q 1
+jQ
+
+j
+
+0  ( a   Cij xi )  (1  q j ) M
+i X
+
+Pita Paruchuri
+
+Maximize defender
+expected utility
+Defender mixed
+strategy
+Adversary response
+Adversary best
+response
+13 /57
+
+Security Game Payoffs [2007]
+Previous Research Provides Payoffs in Security Game Domains
+Target #1
+
+Target #2
+
+Target #3
+
+Defender #1
+
+2, -1
+
+-3, 4
+
+-3, 4
+
+Defender #2
+
+-3, 3
+
+3, -2
+
+….
+
+Defender #3
+
+….
+
+….
+
+….
+
+max
+
+R  x q
+
+ij i j
+iX jQ
+
+Maximize defender
+expected utility
+
+14 /57
+
+ARMOR MIP [2007]
+Solving for a Single Adversary Type
+
+𝑥𝑖
+ARMOR…throws a digital cloak of invisibility….
+
+15 /57
+
+IRIS: Federal Air Marshals Service [2009]
+Scale Up Number of Defender Strategies
+Strategy 1
+
+Strategy 2
+
+Strategy 3
+
+Strategy 1
+
+Strategy 1
+
+Strategy
+1
+
+Strategy 2
+
+Strategy
+2
+
+Strategy 3
+
+Strategy
+3
+
+Strategy 4
+
+Strategy
+4
+
+Strategy 5
+
+Strategy
+5
+
+Strategy 6
+
+Strategy
+6
+
+1000 Flights, 20 air marshals: 10
+ARMOR out of memory
+
+41
+
+Strategy 2
+
+Strategy 3
+
+combinations
+
+Incremental strategy generation:
+41
+Avoid enumerating all possible 10 combinations
+
+16 /57
+
+IRIS: Scale Up [2009]
+Small Support Set for Mixed Strategies
+Small support set size:
+• Most xi variables zero
+
+1000 flights, 20 air marshals:
+
+41
+10 combinations
+
+max x ,q  Rij xi q j
+
+Attack Attack Attack Attack
+1
+2
+…
+1000
+
+i X jQ
+
+s.t.  xi  1,  q j  1 x123=0.0 1,2,3.. 5,-10 4,-8
+x124=0.239 1,2,4.. 5,-10 4,-8
+1,3,5.. 5,-10 -9,5
+C x )  (1 x135=0.0
+q )M
+jQ
+
+i
+
+0  (a   ij i
+i X
+
+Jain Kiekintveld
+
+j
+
+x378=0.123
+
+xi  [0...1], q  {0,1}
+j
+
+…
+
+…
+
+…
+…
+…
+
+-20,9
+-20,9
+-20,9
+
+1041 rows
+
+17 /57
+
+IRIS: Incremental Strategy Generation
+Exploit Small Support
+Jain Kiekintveld
+Master
+Attack 1 Attack 2 Attack… Attack 6
+Slave (LP Duality Theory)
+1,2,4 5,-10
+
+4,-8
+
+…
+
+-20,9
+
+Best new pure strategy:
+Minimum cost network flow
+
+Attack 1 Attack 2 Attack… Attack 6
+
+Target 3
+
+Target 7
+
+Resource
+
+1,2,4 5,-10
+
+4,-8
+
+…
+
+-20,9
+
+3,7,8 -8, 10
+
+-8,10
+
+…
+
+-8,10
+
+Converge:
+GLOBAL
+OPTIMAL
+
+Sink
+
+…
+
+Attack 1 Attack 2 Attack
+
+Attack 6
+
+1,2,4
+
+5,-10
+
+rows -20,9
+4,-8500 …
+
+3,7,8
+
+-8, 10
+
+41
+-8,10
+…
+NOT 10 -8,10
+
+…
+
+…
+
+18 /57
+
+IRIS: Deployed FAMS (2009-)
+
+Significant change in operations
+
+“…in 2011, the Military Operations Research Society selected a University
+of Southern California project with FAMS on randomizing flight
+schedules for the prestigious Rist Award…”
+-R. S. Bray (TSA)
+Transportation Security Subcommittee
+US House of Representatives 2012
+
+19 /57
+
+Road, Transportation, Social Networks[2013]
+Results of Scale-up
+
+Jain
+
+Road networks:
+20,000 roads, 15 checkpoints
+(20 min)
+
+20 /57
+
+Outline: Security Games Research (2007-)
+
+Air travel
+
+Ports
+
+Trains
+
+Fisheries
+
+Wildlife
+
+Urban Crime
+
+2007
+
+2011
+
+2013
+
+2014
+2014
+
+2014
+2014
+
+2015
+2015
+2015
+
+21 /57
+
+Port Security Threat Scenarios
+USS Cole after suicide attack
+
+French oil tanker hit by small boat
+
+22 /57
+
+PROTECT: Randomized Patrol Scheduling [2013]
+Port Protection (Scale-up) and Ferries (Continuous Space/time)
+
+23 /57
+
+PROTECT: Randomized Patrol Scheduling [2013]
+Port Protection (Scale-up) and Ferries (Continuous Space/time)
+
+24 /57
+
+Ferries: Scale-up with Mobile Resources & Moving Targets
+Transition Graph Representation
+
+5 min
+
+10 min
+
+15 min
+
+A
+
+A, 5 min
+
+A, 10 min
+
+A, 15 min
+
+B
+
+B, 5 min
+
+B, 10 min
+
+B, 15 min
+
+C
+
+C, 5 min
+
+C, 10 min
+
+C, 15 min
+
+25 /57
+
+Ferries: Scale-up with Mobile Resources & Moving Targets
+Transition Graph Representation
+
+5 min
+
+10 min
+
+15 min
+
+A
+
+A, 5 min
+
+A, 10 min
+
+A, 15 min
+
+B
+
+B, 5 min
+
+B, 10 min
+
+B, 15 min
+
+C
+
+C, 5 min
+
+C, 10 min
+
+C, 15 min
+
+Ferry
+
+26 /57
+
+Ferries: Patrol Routes as Variables
+Exponential Numbers of Patrol Routes
+Patrols protect nearby ferry location; Solve as done in ARMOR
+
+5 min
+
+10 min
+
+15 min
+
+A
+
+A, 5 min
+
+A, 10 min
+
+A, 15 min
+
+B
+
+B, 5 min
+
+B, 10 min
+
+B, 15 min
+
+C
+
+C, 5 min
+
+C, 10 min
+
+C, 15 min
+
+Ferry
+
+27 /57
+
+Ferries: Patrol Routes as Variables
+Exponential Numbers of Patrol Routes
+
+Fang
+
+Jiang Kiekintveld
+
+Patrols protect nearby ferry location; Solve as done in ARMOR
+Pr([(B,5), (C, 10), (C,15)]) = 0.47
+Pr([(B,5), (C,10), (B,15)]) =0.23
+
+Pr([(A,5), (A,10), (B,15)]) = 0.17
+Pr([(A,5), (A,10), (A,15)]) = 0.13
+
+NT variables
+
+5 min
+
+10 min
+
+15 min
+
+A
+
+A, 5 min
+
+A, 10 min
+
+A, 15 min
+
+B
+
+B, 5 min
+
+B, 10 min
+
+B, 15 min
+
+C
+
+C, 5 min
+
+C, 10 min
+
+C, 15 min
+
+Ferry
+
+28 /57
+
+Ferries: Scale-up
+Marginal Probabilities Over Segments
+
+Fang
+
+Jiang Kiekintveld
+
+Variables: NOT routes, but probability flow over each segment
+
+NT variables
+
+5 min
+
+10 min
+
+15 min
+
+A
+
+A, 5 min
+
+A, 10 min
+
+A, 15 min
+
+B
+
+B, 5 min
+
+B, 10 min
+
+B, 15 min
+
+C
+
+C, 5 min
+
+C, 10 min
+
+C, 15 min
+
+Ferry
+
+29 /57
+
+Ferries: Scale-up with Marginals Over Separable Segments
+Significant Speedup
+Obtain marginal probabilities over segments
+
+N2.T variables
+
+A, 5 min
+
+Pr([(B,5), (C,10), (B,15)]) =0.23
+NT variables
+
+10 min
+
+5 min
+
+A
+
+Extract: Pr([(B,5), (C, 10), (C,15)]) = 0.47
+
+0.10
+
+A, 10 min
+
+15 min
+0.03
+
+A, 15 min
+
+Ferry
+
+0.07
+
+B
+C
+
+B, 5 min
+0.30
+C, 5 min
+
+B, 15 min
+
+B, 10 min
+0.13
+
+C, 10 min
+
+0.17
+
+C, 15 min
+
+30 /57
+
+/57
+
+Outline: “Security Games” Research (2007-)
+
+Air travel
+
+Ports
+
+Trains
+
+Fisheries
+
+Wildlife
+
+Urban Crime
+
+2007
+
+2009
+
+2013
+
+2014
+
+2014
+
+2015
+
+32 /57
+
+TRUSTS: Frequent adversary interaction games
+Patrols Against Fare Evaders
+
+5 min
+A
+
+A, 5 min
+
+0.10
+
+10 min
+
+15 min
+
+A, 10 min
+
+A, 15 min
+0.10
+
+B
+C
+
+B, 5 min
+0.30
+C, 5 min
+
+B, 15 min
+
+B, 10 min
+0.13
+
+C, 10 min
+
+0.17
+
+C, 15 min
+
+33 /57
+
+TRUSTS: Patrols Against Fare Evaders
+Uncertainty in Defender Action Execution
+
+10 min
+
+5 min
+A
+
+A, 5 min
+
+B
+
+B, 5 min
+
+C
+
+Jiang Delle Fave
+
+0.10
+
+A, 10 min
+
+15 min
+0.03
+
+A, 15 min
+
+0.07
+
+0.30
+C, 5 min
+
+B, 15 min
+
+B, 10 min
+0.05
+C, 10 min
+
+0.10
+
+0.15
+
+C, 15 min
+
+34 /57
+
+TRUSTS: Patrols Against Fare Evaders
+Uncertainty in Defender Action Execution
+
+Jiang Delle Fave
+
+Markov Decision Problems in Security games
+
+10 min
+
+5 min
+A
+
+A, 5 min
+
+B
+
+B, 5 min
+
+C
+
+0.10
+
+A, 10 min
+
+15 min
+0.03
+
+A, 15 min
+
+0.07
+
+0.30
+C, 5 min
+
+B, 15 min
+
+B, 10 min
+0.05
+C, 10 min
+
+0.10
+
+0.15
+
+C, 15 min
+
+35 /57
+
+Uncertainty Space Algorithms:
+Bayesian and Robust Approaches
+
+Yin
+
+Nguyen An
+
+Adversary payoff uncertainty
+Payoff interval;
+Not point GMC
+estimate BRASS
+
+Bayesian
+Robust
+
+HUNTER
+Adversary observation &
+defender execution
+uncertainty
+
+RECON
+
+Monotonic Maximin
+(Monotonic adversary)
+Adversary rationality
+uncertainty
+
+Defender's EU
+
+URAC
+1.5
+
+ISG
+
+RECON
+
+URAC
+
+1
+0.5
+0
+
+5
+
+#Targets
+
+10
+36 /57
+
+Outline: Security Games Research (2007-)
+
+Air travel
+
+Ports
+
+Trains
+
+Fisheries
+
+Wildlife
+
+Urban Crime
+
+2007
+
+2011
+
+2013
+
+2014
+2014
+
+2014
+2014
+
+2015
+2015
+2015
+
+37 /57
+
+Protecting Forests, Fish and Wildlife:
+Green Security Games
+
+Yang
+
+Ford
+
+Brown
+
+Wildlife Protection
+
+Forest Protection
+
+Fishery Protection
+
+/57
+
+Murchison Falls National Park, Uganda
+
+/57
+
+Green Security Games:
+Repeated Stackelberg Game
+Bounded rationality model of poachers
+Learn from
+crime data:
+Improve model
+
+Poachers attack
+targets
+
+Defender
+calculates
+mixed strategy
+
+Defender
+executes
+randomized
+patrols
+40 /57
+
+Uncertainty in Adversary Decision: Bounded Rationality
+Human Subjects as Poachers
+
+Kar
+
+/57
+
+Lesson 1: Quantal Response [2011]:
+Models of Bounded Rationality
+EU
+
+Perfect:
+
+adversary
+
+Pita
+
+Yang
+
+( j )  CaptureProb  Penalty  (1  Capture Prob)  Reward
+
+Quantal Response(QR)[McFadden 73]:Stochastic Choice, Better Choice More likely
+
+Adversary’s
+q jof
+probability
+choosing target j
+
+e
+
+ ( EU adversary ( x , j ))
+
+T
+
+e
+
+ ( EU adversary ( x , j '))
+
+j '1
+
+0
+-0.5
+
+Quantal
+Response
+
+-1
+
+-2
+
+Epsilon
+robust
+
+-2.5
+
+ARMOR
+
+-1.5
+
+-3
+Payoff 1
+
+Payoff 2
+
+Payoff 3
+
+Payoff 4
+
+42 /57
+
+Lesson 2: Subjective Utility Quantal Response Models of
+Bounded Rationality
+
+Nguyen
+
+Subjective Utility Quantal Response(SUQR) [Nguyen 13]:
+SEU
+
+adversary
+
+( j )  w  Capture Prob  w  Reward  w  Penalty
+1
+2
+3
+
+e
+Adversary’s
+qj  M
+probability of
+SEU adversary ( x , j ')
+e
+choosing target j
+
+
+
+j '1
+
+Capture
+Probability
+
+SEU adversary ( x , j )
+
+UWA data from
+Uganda:
+Year 2012
+Predicting
+poaching
+/57
+
+Green Security Games[2015]
+Repeated Stackelberg Game
+
+Bayesian SUQR:
+Heterogeneous Poachers
+
+Kar
+
+Logitudinal study on AMT:
+35 weeks, 40 human subjects
+10,000 emails!
+
+𝑒 𝑆𝐸𝑈𝑖(w1,w2,w3)
+𝑆𝐸𝑈𝑘 (w1,w2,w3)
+𝑒
+𝑘
+
+Learn from
+crime data
+Poachers
+attack
+targets
+
+Defender
+calculates
+strategy
+
+Execute
+randomized
+patrols
+
+Defender Utility
+
+Round 1 Round 2Round 3 Round 4Round 5
+
+0.1
+0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+-0.7
+-0.8
+
+Maximin
+Bayesian SUQR
+
+SUQR
+
+44 /57
+
+Coverage
+Probability
+
+Lesson 3: SHARP and Repeated Stackelberg Games
+Incorporate Past Success/Failure in SUQR
+
+Bayesian SUQR:
+Heterogeneous Poachers
+𝑒 𝑆𝐸𝑈𝑖(w1,w2,w3)
+𝑆𝐸𝑈𝑘 (w1,w2,w3)
+𝑒
+𝑘
+
+Increase/decrease
+Subjective Utility
+
+Kar
+
+Human
+success
+Human
+Failure
+
+Animal Density
+
+Learn from
+crime data
+Poachers
+attack
+targets
+
+Defender
+calculates
+strategy
+
+Execute
+randomized
+patrols
+
+Defender Utility
+
+Round 1 Round 2 Round 3 Round 4 Round 5
+
+0.1
+0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+-0.7
+-0.8
+Maximin
+Bayesian SUQR
+
+SUQR
+SHARP
+45 /57
+
+PAWS: Protection Assistant for Wildlife Security
+Trials in Uganda and Malaysia: [2014]
+Important lesson: Geography!
+
+Uganda
+
+Andrew Lemieux
+
+Malaysia
+
+Panthera
+
+Malaysia
+46 /57
+
+PAWS Next Steps 2015:
+Southeast Asia (with Panthera and WWF)
+PAWS Version 2: Features
+
+Street map
+Ridgelines, rivers/streams
+
+Species Distribution Models (SDMs)
+From data points to distribution map
+Indonesia
+
+Malaysia
+
+47 /57
+
+Opportunistic Crime Security Game[2015]
+Urban Crime
+
+Zhang Sinha
+
+Crime prediction: uses past defender (police) allocation data
+University of Southern California
+
+Results of learning
+
+Best
+Simulation
+results
+
+48 /57
+
+Security Resource Optimization:
+Evaluating Deployed Security Systems Not Easy
+Game theory: Improvement over previous approaches
+
+Previous: Human schedulers or “simple random”
+Lab
+Evaluation
+
+Field Evaluation:
+Field Evaluation:
+Patrol quality
+Tests against adversaries
+Unpredictable? Cover?
+
+Simulated
+adversary
+
+Compare real schedules
+
+“Mock attackers”
+
+Human subject Scheduling competition
+adversaries
+
+Capture rates of
+real adversaries
+
+Expert evaluation
+
+49 /57
+
+Why Does Game Theory Perform Better?
+Weaknesses of Previous Methods
+Human schedulers:
+
+Predictable patterns, e.g., US Coast Guard
+Scheduling effort & cognitive burden
+Simple random (e.g., dice roll):
+Wrong weights/coverage, e.g. officers to sparsely crowded terminals
+No adversary reactions
+Multiple deployments over multiple years: without us forcing them
+
+50 /57
+
+Field Evaluation of Schedule Quality:
+Improved Patrol Unpredictability & Coverage for Less Effort
+PROTECT (Coast Guard): 350% increase defender expected utility
+Patrols Before PROTECT: Boston
+
+Patrols After PROTECT: Boston
+
+Count
+
+Count
+
+Base Patrol Area
+
+Day 1 Day 2 Day 3 Day 4 Day 5 Day 6 Day 7
+
+Day 1
+
+Day 2
+
+Day 3
+
+Day 4
+
+Day 5
+
+Day 6
+
+Day 7
+
+51 /57
+
+Field Evaluation of Schedule Quality:
+Improved Patrol Unpredictability & Coverage for Less Effort
+FAMS: IRIS Outperformed expert human over six months
+Report:GAO-09-903T
+
+Trains: TRUSTS outperformed expert humans
+schedule 90 officers on LA trains
+5.5
+Game Theory
+
+5
+4.5
+4
+3.5
+3
+
+52
+
+Q1
+Q2
+Q3
+Q4
+Q5
+Q6
+Q7
+Q8
+Q9
+Q10
+Q11
+Q12
+
+Security Score
+
+Human
+
+/57
+
+Field Test Against Adversaries: Mock Attackers
+Example from PROTECT
+“Mock attacker” team deployed in Boston
+
+Comparing PRE- to POST-PROTECT: “deterrence” improved
+Additional real-world indicators from Boston:
+
+Boston boaters questions:
+“..has the Coast Guard recently acquired more boats”
+POST-PROTECT: Actual reports of illegal activity
+
+53 /57
+
+Field Tests Against Adversaries
+Computational Game Theory in the Field
+
+Controlled
+
+20
+
+Game Theory
+
+15
+Rand+Human
+
+10
+Game theory vs Random
+
+5
+
+21 days of patrol
+
+0
+# Captures
+/30 min
+
+Identical conditions
+
+# Warnings # Violations
+/30 min
+/30 min
+
+Random + Human
+Not controlled
+
+100
+
+Miscellaneous
+
+80
+
+Drugs
+
+60
+
+Firearm Violations
+
+40
+20
+0
+
+54 /57
+
+Expert Evaluation
+Example from ARMOR, IRIS & PROTECT
+June 2013: Meritorious Team Commendation
+from Commandant (US Coast Guard)
+
+July 2011: Operational Excellence
+Award (US Coast Guard, Boston)
+
+September 2011: Certificate of
+Appreciation (Federal Air Marshals)
+
+February 2009: Commendations
+LAX Police (City of Los Angeles)
+
+55 /57
+
+Key Lessons: Security Games
+Decision aids based on computational game theory in daily use
+Optimize limited security resources against adversaries
+Applications yield research challenges: Science of security games
+Scale-up: Incremental strategy generation & Marginals
+
+Uncertainty: Integrate MDPs, Robustness
+Human behavior models: Quantal response
+Current applications: Global, interdisciplinary challenges
+Green security games: criminology, computation, conservation
+56 /57
+
+Global Efforts on Security Games:
+Yet Just the Beginning…
+
+Thank you
+to sponsors:
+57 /57
+
+THANK YOU
+tambe@usc.edu
+http://teamcore.usc.edu/security
+
+58 /57
+
+Lab Evaluation via Simulations:
+Example from IRIS (FAMS)
+Uniform
+
+Weighted random 1
+
+Weighted random 2
+
+IRIS
+
+Defender Expected utility
+
+6
+4
+2
+0
+-2
+
+50
+
+150
+
+250
+
+-4
+-6
+-8
+-10
+
+Schedule Size
+59 /57

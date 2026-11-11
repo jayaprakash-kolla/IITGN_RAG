@@ -1,0 +1,68 @@
+Title: IIT Gandhinagar | Yogesh Kumar Meena
+Source: https://iitgn.ac.in/faculty/cogs/fac-yogesh
+
+# Yogesh Kumar Meena
+
+-  Cognitive and Brain Sciences
+Yogesh Kumar Meena
+
+## Yogesh Kumar Meena
+
+Assistant Professor, Computer Science and Engineering (Affiliated to Discipline of Artificial Intelligence, Cognitive Science)
+
+- BTech: IIITM Gwalior, 2008
+- MTech: IIITM Gwalior, 2010
+- PhD: Ulster University UK, 2018
+
+Email: yk.meena -AT- iitgn.ac.in
+
+ Website :  http://yogeshmeena.com
+
+Office:  AB 13/401A
+VOIP:  2609
+
+Meena, Y. K., Cecotti, H., Bhushan, B., Dutta, A., Prasad, G. (2022). Detection of Dyslexic Children Using Machine Learning and Multimodal Hindi Language Eye-Gaze Assisted Learning System. IEEE Transactions on Human-Machine Systems, 53(1), 122 - 131.
+
+Raju, D.K., Seunarine, K., Reitmaier, T., Thomas, G., Meena, Y. K., Zhang, C., Pockett, A., Pearson, J., Robinson, S., Carnie, M., Sahoo, D., Jones, M. (2021). PV-Pix: Slum Community Co-design of Self-Powered Deformable Smart Messaging Materials. In Proceedings of the ACM annual conference on Human Factors in Computing Systems. (Yokohama, Japan May 8-13, 2021). CHI ‘21. ACM, New York, NY.
+
+Meena, Y. K., Seunarine, K., Sahoo, D., Robinson, S., Pearson, J., Zhang, C., Carnie, M., Pockett, A., Prescott, A., Thomas, S., Lee, K., Jones, M. (2020). PV-Tiles: Towards Closely-Coupled Photovoltaic and Digital Materials for Useful, Beautiful and Sustainable Interactive Surfaces. In Proceedings of the ACM annual conference on Human Factors in Computing Systems (Honolulu, Hawaii, USA April 25 - 30, 2020). CHI ‘20. ACM, New York, NY.
+
+Meena, Y. K., Cecotti, H., Wong-Lin, K., Prasad, G. (2019). Design and evaluation of a time-adaptive multimodal virtual keyboard. Journal on Multimodal User Interfaces, 13(4), 343-361.
+
+Meena, Y. K., Cecotti, H., Wong-Lin, K., Dutta, A., Prasad, G. (2018). Toward optimization of gaze-controlled human–computer interaction: application to Hindi virtual keyboard for stroke patients. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 26(4), 911-922.
+
+Chowdhury, A., Meena, Y. K., Raza, H., Bhushan, B., Uttam, A. K., Pandey, N., Hashmi, A. A., Bajpai, A., Dutta, A., Prasad, G. (2018). Active physical practice followed by mental practice using BCI-driven hand exoskeleton: a pilot trial for clinical effectiveness and usability. IEEE Journal of Biomedical and Health Informatics, 22(6), 1786-1795.
+
+Chowdhury, A., Raza, H., Meena, Y. K., Raza, H., Dutta, A., Prasad, G. (2018). An EEG-EMG correlation-based brain-computer interface for hand orthosis supported neuro-rehabilitation. Journal of Neuroscience Methods. 312, 1-11.
+
+Assistant Professor, Indian Institute of Technology Gandhinagar, India (Feb 2023 to Present)
+
+Senior AI Software Development Engineer, University of Essex, Mersea Home Ltd, UK (Jan 2022 – Feb 2023)
+
+AI Software Development Engineer, University of Essex, Mersea Home Ltd, UK (Feb 2021 – Dec 2021)
+
+Postdoctoral Researcher, Swansea University, UK (Sep 2018 - Feb 2021)
+
+Postdoctoral Researcher/Research Assistant, Ulster University, UK (Jun 2017 – May 2018)
+
+Visiting Researcher, Lala Lajpat Rai Hospital (Hallett Hospital), India (Jan 2018 – March 2018)
+
+Visiting Researcher, Regency Healthcare Ltd, India (Aug 2016 – Sep 2016)
+
+Visiting Research Fellow, Indian Institute of Technology Kanpur, India (June 2015 – March 2018)
+
+Teaching Assistant, Swansea University, UK (Sept 2019 – Jan 2020)
+
+Teaching Assistant, Ulster University, UK (Sept 2014 – May 2016)
+
+Patents
+
+- Meena, Y. K., Cecotti. H., Wong-Lin, K., Prasad, G. “System for augmentative and alternative communication for people with severe speech and motor disabilities”. Indian Patent No. 340756. February 27, 2020.
+
+- ● Human-Computer Interaction
+- ● Brain-Computer Interface
+- ● Eye Tracking
+- ● Motor Control and Rehabilitation
+- ● Artificial Intelligence & Machine Learning
+- ● Internet of Things
+- ● User Experience and Usability

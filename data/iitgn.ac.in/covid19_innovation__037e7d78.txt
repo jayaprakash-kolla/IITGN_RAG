@@ -1,0 +1,92 @@
+Title: IIT Gandhinagar | COVID-19 Related Innovations/Initiatives
+Source: https://iitgn.ac.in/covid19_innovation
+
+#### Control Room for Covid-19
+
+#### Low-Cost Ventilator
+
+#### Mask preparation by NEEV
+
+#### Relief material distribution to construction workers
+
+#### Construction Worker's Mobile Recharge
+
+#### Construction Workers Health Checkup
+
+#### Grocery sale for on-campus residents
+
+#### Grocery at Block 14 Garden Area
+
+#### IITGN Bus Service
+
+#### Mess Facilities
+
+# COVID-19 Related Innovations/Initiatives at IIT Gandhinagar
+
+IIT Gandhinagar has been doing its bit in the wake of COVID-19 pandemic with several teams of faculty and students working together on related projects. A few of those nearing final stages are highlighted here:
+
+ COVID-19 Dashboard
+
+## COVID-19 Dashboard
+
+This dashboard will help the administrators and hospitals to plan for optimized testing and post-lockdown operations to contain community infection. It is also being augmented with socio-economic vulnerability analysis. This network-Science based Epimediological spread model has been developed with Ahmedabad as a testbed. This dashboard would also equip stakeholders to simulate the effect of partial and leaky lockdowns on case trajectory, travel disruptions, and model congestion as the city returns back to normal life in near future.
+Link:  https://1234iitgn.maps.arcgis.com/apps/opsdashboard/index.html#/91fde5e6e69147b5a79edac7918aaf1c
+ - by Prof. Udit Bhatia ([email protected]) and coworkers
+
+ COVIDExplorer
+
+## COVIDExplorer
+
+COVIDExplorer is an AI-based search and visualization engine (hosted at covidexplorer.in) to understand current state-of-the-art COVID-19 research by integrating:
+
+ (i) search and visualization of entities (like genes, proteins, RNAs, DNAs, Diseases, Molecular Formulae, etc.,) and their relationships,
+ (ii) the statistics of infections, recovery, and death, and
+ (iii) social-media discussions, fact/myths, and misinformed social-media message
+
+ Team Members:
+
+ 1. Mayank Singh, [email protected], CSE IITGN 2. Heer Ambavi, [email protected], CSE IITGN
+ 3. Kavita Vaishnaw, [email protected], CSE IITGN
+ 4. Abhisht Tiwari, [email protected], CSE IITGN
+ 5. Ginni Singh, [email protected], Independent Researcher
+
+ Low-cost Ventilator
+
+## Low-cost Ventilator
+
+A working prototype has been developed after incorporating feedback from hospitals. Advanced patient-triggered ventilation modes like Assist Control, Pressure Support, and SIMV have been incorporated in the design. It includes a user-friendly mobile application to control and monitor the ventilator. A company is working with the IITGN team to produce the ventilators on the industrial scale.
+
+View Detailed Description in Video
+
+Team members -
+
+ (a) Shashikant Verma ([email protected]) (b) Rishabh Mathur ([email protected])
+ (c) Shashank Shekhar ([email protected])
+ (d) Ankita Sinha ([email protected])
+ (e) Dharmit Nakrani ([email protected])
+ (f) Jatin Aren ([email protected])
+
+ COSHOP
+
+## COSHOP
+
+Finding it difficult not being able to get vegetables, fruits, medicine, milk and other essentials due to lockdown? COSHOP is a website and an app based solution (https://coshop.surge.sh/build/web/index.html). Using it, get the contact details of your local grocery/medical stall or shop which has an appropriate license(curfew pass) to deliver essentials to your home.
+
+ 50+ families are already using it in Kanpur. COSHOP is expanding and constantly adding new data with the help of government data released by your local district municipal office. Stay Home. Stay safe.
+
+Team members -
+
+ 1. Amit Kumar Singh Yadav : [email protected]
+ 2. Akhilesh Ravi : [email protected]
+ 3. Praveen Venkatesh : [email protected] ?
+ 4. Sammed Kagi : [email protected]
+
+### Campus-Level Initiatives
+
+ ➢ Established the Covid-19 Research Awards for research by IITGN faculty and students on any aspect of the pandemic
+
+ ➢ Announced the Covid-19 Innovation Awards to develop rapidly deployable, creative and innovative solutions to address urgent technical, social, health or financial challenges caused by the Covid-19 crisis.
+
+ ➢ IIT Gandhinagar students are helping at Gujarat Biotechnology Research Centre (GBRC) Gandhinagar in carrying out COVID-19 samples testing and computational design of therapeutic leads.
+
+ ➢ The NEEV programme of IITGN engaged the local village ladies in making cloth masks in the comforts of their homes in their free time and earn some money. These masks are supplied to IITGN community and also to outside people through a company.

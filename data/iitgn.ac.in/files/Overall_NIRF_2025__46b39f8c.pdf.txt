@@ -1,0 +1,4763 @@
+#flags:
+
+National Institutional Ranking Framework
+Ministry of Education
+Government of India
+Welcome to Data Capturing System: OVERALL
+Submitted Institute Data for NIRF'2025'
+Institute Name: Indian Institute of Technology Gandhinagar [IR-O-U-0139]
+Sanctioned (Approved) Intake
+Academic Year
+
+2023-24
+
+2022-23
+
+2021-22
+
+2020-21
+
+2019-20
+
+2018-19
+
+UG [4 Years Program(s)]
+
+310
+
+225
+
+225
+
+225
+
+-
+
+-
+
+UG [5 Years Program(s)]
+
+60
+
+40
+
+0
+
+0
+
+0
+
+-
+
+PG [2 Year Program(s)]
+
+355
+
+240
+
+-
+
+-
+
+-
+
+-
+
+Total Actual Student Strength (Program(s) Offered by Your Institution)
+(All programs
+of all years)
+
+No. of Male
+Students
+
+No. of Female
+Students
+
+Total Students
+
+Within State
+(Including male
+& female)
+
+Outside State
+(Including male
+& female)
+
+Outside
+Country
+(Including male
+& female)
+
+Economically
+Backward
+(Including male
+& female)
+
+Socially
+Challenged
+(SC+ST+OBC
+Including male
+& female)
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from the State
+and Central
+Government
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from Institution
+Funds
+
+No. of students
+receiving full
+tuition fee
+reimbursement
+from the Private
+Bodies
+
+No. of students
+who are not
+receiving full
+tuition fee
+reimbursement
+
+UG [4 Years
+Program(s)]
+
+844
+
+206
+
+1050
+
+181
+
+864
+
+5
+
+49
+
+518
+
+232
+
+143
+
+10
+
+182
+
+UG [5 Years
+Program(s)]
+
+63
+
+19
+
+82
+
+15
+
+67
+
+0
+
+5
+
+44
+
+24
+
+9
+
+0
+
+16
+
+PG [2 Year
+Program(s)]
+
+378
+
+198
+
+576
+
+51
+
+505
+
+20
+
+43
+
+267
+
+113
+
+97
+
+4
+
+96
+
+Placement & Higher Studies
+UG [4 Years Program(s)]: Placement & higher studies for previous 3 years
+Academic Year
+
+No. of first year
+students intake in the
+year
+
+No. of first year
+students admitted in
+the year
+
+Academic Year
+
+No. of students
+admitted through
+Lateral entry
+
+Academic Year
+
+No. of students
+graduating in
+minimum stipulated
+time
+
+2018-19
+
+194
+
+187
+
+2019-20
+
+0
+
+2021-22
+
+173
+
+2019-20
+
+193
+
+203
+
+2020-21
+
+0
+
+2022-23
+
+2020-21
+
+225
+
+237
+
+2021-22
+
+0
+
+2023-24
+
+No. of students
+placed
+
+Median salary of
+placed
+graduates(Amount in
+Rs.)
+
+No. of students
+selected for Higher
+Studies
+
+135
+
+1417000(Fourteen
+Lakh Seventeen
+Thousand )
+
+26
+
+188
+
+137
+
+1600000(Sixteen Lakh)
+
+36
+
+214
+
+160
+
+1400000(Fourteen
+Lakh only)
+
+51
+
+Median salary of
+placed
+graduates(Amount in
+Rs.)
+
+No. of students
+selected for Higher
+Studies
+
+UG [5 Years Program(s)]: Placement & higher studies for previous 3 years
+Academic Year
+
+2017-18
+
+No. of first year
+students intake in the
+year
+
+No. of first year
+students admitted in
+the year
+
+0
+
+0
+
+Academic Year
+
+2018-19
+
+No. of students
+admitted through
+Lateral entry
+
+0
+
+Academic Year
+
+2021-22
+
+No. of students
+graduating in
+minimum stipulated
+time
+0
+
+No. of students
+placed
+
+0
+
+0(Zero)
+
+0
+
+2018-19
+
+0
+
+0
+
+2019-20
+
+0
+
+2022-23
+
+0
+
+0
+
+0(Zero)
+
+0
+
+2019-20
+
+0
+
+0
+
+2020-21
+
+0
+
+2023-24
+
+0
+
+0
+
+0(Zero)
+
+0
+
+PG [2 Years Program(s)]: Placement & higher studies for previous 3 years
+Academic Year
+
+No. of first year
+students intake in the
+year
+
+No. of first year
+students admitted in
+the year
+
+Academic Year
+
+No. of students graduating in minimum
+stipulated time
+
+2020-21
+
+212
+
+212
+
+2021-22
+
+157
+
+2021-22
+
+224
+
+223
+
+2022-23
+
+2022-23
+
+240
+
+239
+
+2023-24
+
+No. of students
+placed
+
+Median salary of
+placed
+graduates(Amount in
+Rs.)
+
+No. of students
+selected for Higher
+Studies
+
+54
+
+765000(Seven Lakh
+Sixty Five Thousand )
+
+31
+
+153
+
+44
+
+1000000(Ten Lakh)
+
+25
+
+218
+
+76
+
+825000(Eight Lakh
+Twenty Five Thousand
+only)
+
+85
+
+Ph.D Student Details (including Integrated Ph.D)
+Ph.D (Student pursuing doctoral program till 2023-24 Students admitted in the academic year 2024-25 should not be entered here.)
+Total Students
+Full Time
+
+643
+
+Part Time
+
+5
+No. of Ph.D students graduated (including Integrated Ph.D)
+2023-24
+
+2022-23
+
+2021-22
+
+Full Time
+
+78
+
+73
+
+38
+
+Part Time
+
+0
+
+0
+
+1
+
+PG (Student pursuing MD/MS/DNB program till 2023-24 Students admitted in the academic year 2024-25 should not be entered here)
+Number of students pursuing PG (MD/MS/DNB) program
+
+0
+
+No. of students Graduating in PG (MD/MS/DNB) program
+2023-24
+0
+
+2022-23
+0
+
+2021-22
+0
+
+Financial Resources: Utilised Amount for the Capital expenditure for previous 3 years
+Academic Year
+
+2023-24
+
+2022-23
+
+2021-22
+
+Utilised Amount
+
+Utilised Amount
+
+Utilised Amount
+
+Annual Capital Expenditure on Academic Activities and Resources (excluding expenditure on buildings)
+Library
+
+66119918 (Six Crore Sixty One Lakh Nineteen Thousand Nine
+Hundred Eighteen only)
+
+31339902 (Three crore thirty three lakh nine thousand nine
+hundred two)
+
+25595838 (Two Crore Fifty Five Lakh Ninety Five Thousand
+Eight Hundred Thirty Eight )
+
+New Equipment for Laboratories
+
+199890174 (Nineteen Crore Ninety Eight Lakh Ninety
+Thousand One Hundred Seventy Four only)
+
+216414304 (Twenty one crore sixty four lakh fourteen thousand
+three hundred four)
+
+362655942 (Thirty Six Crore Twenty Six Lakh Fifty Five
+Thousand Nine Hundred Forty Two )
+
+Engineering Workshops
+
+6185036 (Sixty One Lakh Eighty Five Thousand Thirty Six
+only)
+
+1787382 (One crore seventy eight lakh seven thousand three
+hundred eighty two)
+
+9813209 (Ninety Eight Lakh Thirteen Thousand Two Hundred
+Nine )
+
+Studios
+
+227776 (Two Lakh Twenty Seven Thousand Seven Hundred
+Seventy Six only)
+
+934063 (Nine Lakh Thirty Four Thousand Sixty Three)
+
+910237 (Nine Lakh Ten Thousand Two Hundred Thirty Seven )
+
+Other expenditure on creation of Capital Assets (excluding
+expenditure on Land and Building)
+
+28334309 (Two Crore Eighty Three Lakh Thirty Four Thousand
+Three Hundred Nine only)
+
+13052790 (One crore fifty two thousand seven hundred ninety)
+
+16597999 (One Crore Sixty Five Lakh Ninety Seven Thousand
+Nine Hundred Ninety Nine )
+
+2023-24
+
+2022-23
+
+2021-22
+
+Utilised Amount
+
+Utilised Amount
+
+Utilised Amount
+
+Financial Resources: Utilised Amount for the Operational expenditure for previous 3 years
+Academic Year
+
+Annual Operational Expenditure
+Salaries (Teaching and Non Teaching staff)
+
+896246515 (Eighty Nine Crore Sixty Two Lakh Forty Six
+Thousand Five Hundred Fifteen only)
+
+790641159 (Seventy nine Crore Six Lakh Forty one Thousand
+One Hundred And Fifty nine)
+
+668378143 (Sixty Six Crore Eighty Three Lakh Seventy Eight
+Thousand One Hundred Forty Three )
+
+Maintenance of Academic Infrastructure or consumables and
+other running expenditures(excluding maintenance of hostels
+and allied services,rent of the building, depreciation cost, etc)
+
+847764679 (Eighty Four Crore Seventy Seven Lakh Sixty Four
+Thousand Six Hundred Seventy Nine only)
+
+563015438 (Fifty six Crore Thirty Lakh Fifteen Thousand Four
+Hundred And Thirty eight)
+
+628568958 (Sixty Two Crore Eighty Five Lakh Sixty Eight
+Thousand Nine Hundred Fifty Eight )
+
+Seminars/Conferences/Workshops
+
+32598864 (Three Crore Twenty Five Lakh Ninety eight
+Thousand Eight Hundred Sixty Four only)
+
+44785268 (Four crore forty seven lakh eighty five thousand two
+hundred sixty eight)
+
+5639232 (Fifty Six Lakh Thirty Nine Thousand Two Hundred
+Thirty Two )
+
+IPR
+Calendar year
+
+2023
+
+2022
+
+2021
+
+No. of Patents Published
+
+8
+
+7
+
+11
+
+No. of Patents Granted
+
+13
+
+4
+
+3
+
+Sponsored Research Details
+Financial Year
+
+2023-24
+
+2022-23
+
+2021-22
+
+Total no. of Sponsored Projects
+
+293
+
+262
+
+242
+
+Total no. of Funding Agencies
+
+72
+
+53
+
+49
+
+Total Amount Received (Amount in Rupees)
+
+1099233686
+
+575094530
+
+349666660
+
+Amount Received in Words
+
+One Hundred and Nine Crore Ninety Two Lakh Thirty Three
+Thousand Six Hundred And Eighty Six
+
+Fifty Seven Crore Fifty Lakh Ninety Four Thousand Five
+Hundred Thirty Only
+
+Thirty Four Crore Ninety Six Lakh Sixty Six Thousand Six
+Hundred Sixty
+
+Consultancy Project Details
+Financial Year
+
+2023-24
+
+2022-23
+
+2021-22
+
+Total no. of Consultancy Projects
+
+79
+
+50
+
+58
+
+Total no. of Client Organizations
+
+63
+
+45
+
+48
+
+Total Amount Received (Amount in Rupees)
+
+91502045
+
+67879352
+
+29238348
+
+Amount Received in Words
+
+Nine Crore Fifteen Lakh Two Thousand Forty Five only
+
+Six Crore Seventy Eight Lakh Seventy Nine Thousand Three
+Hundred Fifty Two Only
+
+Two Crore Ninety Two Lakh Thirty Eight Thousand Three
+Hundred Forty Eight
+
+Executive Development Program/Management Development Programs
+Financial Year
+
+2023-24
+
+2022-23
+
+2021-22
+
+Total no. of Executive Development Programs/ Management
+Development Programs
+
+2
+
+0
+
+0
+
+Total no. of Participants
+
+47
+
+0
+
+0
+
+Total Annual Earnings (Amount in Rupees)(Excluding Lodging
+& Boarding Charges)
+
+13789479
+
+0
+
+0
+
+Total Annual Earnings in Words
+
+One Crore Thirty Seven Lakh Eighty Nine Thousand Four
+Hundred Seventy Nine only
+
+Zero
+
+Zero
+
+PCS Facilities: Facilities of physically challenged students
+1. Do your institution buildings have Lifts/Ramps?
+
+Yes, more than 80% of the buildings
+
+2. Do your institution have provision for walking aids, including wheelchairs and transportation from one building to another for
+handicapped students?
+
+Yes
+
+3. Do your institution buildings have specially designed toilets for handicapped students?
+
+Yes, more than 80% of the buildings
+
+Accreditation
+NAAC Accreditation
+1. Does your institute have a valid NAAC Accreditation?
+
+NO
+
+Multiple Entry/Exit and Indian Knowledge System
+1. Has your institution implemented multiple entry/exit in your institution?
+
+YES
+
+2. Has your institution been teaching courses in Indian Languages?
+
+YES
+
+3. Has your institution introduced courses on Indian Knowledge System?
+
+YES
+
+4. Has your institution established the Grievance Redressal Cell?
+
+YES
+
+5. Is your institution admitting students through National and State Level entrance exam?
+
+YES
+
+Sustainable Living Practices
+1. What specific programs does the institution/university have in place to reduce or eliminate single-use plastics on campus?
+• Ban on single-use plastic items (e.g., straws, cutlery, plates)
+2. What actions has the institution/university taken to reduce its carbon footprint? (Select all that apply)
+• Energy-efficient buildings
+• Renewable energy installations
+• Offsetting emissions
+• Sustainable procurement
+3. What is the level of recycling infrastructure available on your campus?
+• Comprehensive infrastructure (bins, awareness, collection systems)
+4. What type of rainwater harvesting system has been implemented at your institution/university?
+• Rooftop Rainwater Harvesting System
+
+• Surface Runoff Harvesting System
+• Storage Tank System
+5.Which renewable energy sources are installed on your institution/ university campus ? (Please select all that apply)
+• Solar Panels
+6. What is the institution’s approach to minimizing food waste?
+• Composting systems
+• Sustainable food procurement
+
+Faculty Details2
+Srno
+
+Name
+
+Age
+
+Designation
+
+Gender
+
+Qualification
+
+Experience (In
+Months)
+
+Currently working
+with institution?
+
+Joining Date
+
+Leaving Date
+
+Association type
+
+1
+
+BASU DHIMAN
+
+53
+
+Associate Professor
+
+Male
+
+Ph.D
+
+268
+
+Yes
+
+01-08-2012
+
+--
+
+Regular
+
+2
+
+BHATTACHARYYA
+ARPAN
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+56
+
+Yes
+
+21-10-2019
+
+--
+
+Regular
+
+3
+
+CHANNARAYAPAT
+NA V SHARADA
+
+43
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+115
+
+Yes
+
+01-02-2019
+
+--
+
+Regular
+
+4
+
+DAYAL PRATYUSH
+
+50
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+229
+
+Yes
+
+28-06-2012
+
+--
+
+Regular
+
+5
+
+GHANA
+PRIYABRATA
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+10
+
+Yes
+
+15-09-2023
+
+--
+
+Regular
+
+6
+
+HEGDE
+SADANANDA RAVI
+
+46
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+194
+
+Yes
+
+06-07-2015
+
+--
+
+Regular
+
+7
+
+Karthik
+Subramaniam
+Pushpavanam
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+52
+
+Yes
+
+22-09-2021
+
+--
+
+Regular
+
+8
+
+KULKARNI
+SAMEER
+
+43
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+181
+
+Yes
+
+03-04-2020
+
+--
+
+Regular
+
+9
+
+MANDAL RUSA
+
+35
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+71
+
+Yes
+
+30-06-2022
+
+--
+
+Regular
+
+10
+
+MISHRA VIMAL
+
+46
+
+Associate Professor
+
+Male
+
+Ph.D
+
+169
+
+Yes
+
+31-05-2012
+
+--
+
+Regular
+
+11
+
+MONDAL ANIRBAN
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+94
+
+Yes
+
+27-08-2021
+
+--
+
+Regular
+
+12
+
+P MANISHA
+
+28
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+4
+
+Yes
+
+26-03-2024
+
+--
+
+Regular
+
+13
+
+PANDEY
+PREMCHAND
+
+78
+
+Other
+
+Male
+
+Ph.D
+
+312
+
+Yes
+
+16-07-2021
+
+--
+
+Adhoc / Contractual
+
+14
+
+PURI RAVINDER
+
+73
+
+Other
+
+Male
+
+Ph.D
+
+256
+
+Yes
+
+14-07-2014
+
+--
+
+Adhoc / Contractual
+
+15
+
+SACHAN AJANTA
+
+49
+
+Associate Professor
+
+Female
+
+Ph.D
+
+231
+
+Yes
+
+09-12-2010
+
+--
+
+Regular
+
+16
+
+SENGUPTA ANAND
+SANKAR
+
+51
+
+Associate Professor
+
+Male
+
+Ph.D
+
+148
+
+Yes
+
+07-02-2012
+
+--
+
+Regular
+
+17
+
+Sharmita Lahiri
+
+52
+
+Associate Professor
+
+Female
+
+Ph.D
+
+192
+
+Yes
+
+27-07-2009
+
+--
+
+Regular
+
+18
+
+SINGHANIA
+DEEPAK
+
+42
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+37
+
+Yes
+
+23-07-2021
+
+--
+
+Regular
+
+19
+
+SUNDARAM DILIP
+SRINIVAS
+
+41
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+140
+
+Yes
+
+01-12-2015
+
+--
+
+Regular
+
+20
+
+VASHISTA VINEET
+
+40
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+105
+
+Yes
+
+26-11-2015
+
+--
+
+Regular
+
+21
+
+Abinaya Sampath
+
+31
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+25
+
+Yes
+
+26-07-2022
+
+--
+
+Regular
+
+22
+
+BASU SUDIPTA
+
+47
+
+Associate Professor
+
+Male
+
+Ph.D
+
+209
+
+Yes
+
+12-07-2018
+
+--
+
+Regular
+
+23
+
+BHAUMIK ANAGH
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+55
+
+Yes
+
+07-12-2023
+
+--
+
+Regular
+
+24
+
+CHOPPERLA TEJA
+SIVA KRISHNA
+
+30
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+34
+
+Yes
+
+12-02-2024
+
+--
+
+Regular
+
+25
+
+DIXIT ATUL ABHAY
+
+42
+
+Associate Professor
+
+Male
+
+Ph.D
+
+94
+
+Yes
+
+14-08-2015
+
+--
+
+Regular
+
+26
+
+GHOROI CHINMAY
+
+52
+
+Professor
+
+Male
+
+Ph.D
+
+231
+
+Yes
+
+15-06-2009
+
+--
+
+Regular
+
+27
+
+Iti Gupta
+
+49
+
+Associate Professor
+
+Female
+
+Ph.D
+
+228
+
+Yes
+
+03-07-2009
+
+--
+
+Regular
+
+28
+
+KHANOLKAR
+SONAL
+
+37
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+85
+
+Yes
+
+28-06-2024
+
+--
+
+Regular
+
+29
+
+KUMAR MANISH
+
+38
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+111
+
+Yes
+
+15-06-2015
+
+--
+
+Regular
+
+30
+
+MANJALY JAISON
+ANTONY
+
+47
+
+Professor
+
+Male
+
+Ph.D
+
+214
+
+Yes
+
+16-10-2008
+
+--
+
+Regular
+
+31
+
+MISRA GADADHAR
+
+68
+
+Other
+
+Male
+
+Ph.D
+
+516
+
+Yes
+
+11-11-2021
+
+--
+
+Adhoc / Contractual
+
+32
+
+MONDAL BISWAJIT
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+69
+
+Yes
+
+21-09-2021
+
+--
+
+Regular
+
+33
+
+PADHIYAR NITIN
+UMEDLAL
+
+47
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+205
+
+Yes
+
+13-04-2009
+
+--
+
+Regular
+
+34
+
+PANKAJ KHANNA
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+73
+
+Yes
+
+01-12-2021
+
+--
+
+Regular
+
+35
+
+RAJKRISHNA
+DUTTA
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+38
+
+Yes
+
+25-05-2022
+
+--
+
+Regular
+
+36
+
+SAHA ARNAB
+
+43
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+225
+
+Yes
+
+02-07-2019
+
+--
+
+Regular
+
+37
+
+SENGUPTA
+INDRANATH
+
+55
+
+Professor
+
+Male
+
+Ph.D
+
+122
+
+Yes
+
+22-04-2014
+
+--
+
+Regular
+
+38
+
+SHEKHAR
+HIMANSHU
+
+39
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+129
+
+Yes
+
+15-04-2019
+
+--
+
+Regular
+
+39
+
+SISODIA NAVEEN
+
+31
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+47
+
+Yes
+
+01-06-2023
+
+--
+
+Regular
+
+40
+
+Tanya Kaushal
+Srivastava
+
+33
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+68
+
+Yes
+
+24-08-2021
+
+--
+
+Regular
+
+41
+
+VATWANI AKSHAA
+
+37
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+96
+
+Yes
+
+23-07-2018
+
+--
+
+Regular
+
+42
+
+BANERJEE RUPAK
+
+45
+
+Associate Professor
+
+Male
+
+Ph.D
+
+253
+
+Yes
+
+01-07-2015
+
+--
+
+Regular
+
+43
+
+BHATIA DHIRAJ
+
+42
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+132
+
+Yes
+
+02-07-2018
+
+--
+
+Regular
+
+44
+
+CHANDAN KUMAR
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+83
+
+Yes
+
+28-01-2021
+
+--
+
+Regular
+
+45
+
+DASGUPTA
+ANIRBAN
+
+49
+
+Professor
+
+Male
+
+Ph.D
+
+211
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+46
+
+GAUTAM ABHAY
+RAJ SINGH
+
+47
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+184
+
+Yes
+
+07-10-2014
+
+--
+
+Regular
+
+47
+
+GUPTA
+DEVKINANDAN
+MANOJ
+
+41
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+121
+
+Yes
+
+31-01-2016
+
+--
+
+Regular
+
+48
+
+KALON
+GOPINADHAN
+
+49
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+187
+
+Yes
+
+16-07-2018
+
+--
+
+Regular
+
+49
+
+KOMARATH
+BALAGOPAL
+
+39
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+42
+
+Yes
+
+21-12-2020
+
+--
+
+Regular
+
+50
+
+LASHKARE
+SANDIP
+
+34
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+69
+
+Yes
+
+10-07-2023
+
+--
+
+Regular
+
+51
+
+MISHRA ABHIJIT
+
+45
+
+Associate Professor
+
+Male
+
+Ph.D
+
+165
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+52
+
+MOHAPATRA
+NIHAR RANJAN
+
+48
+
+Professor
+
+Male
+
+Ph.D
+
+261
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+53
+
+MUTHA PRATIK
+KIRAN
+
+44
+
+Associate Professor
+
+Male
+
+Ph.D
+
+175
+
+Yes
+
+11-11-2013
+
+--
+
+Regular
+
+54
+
+PANDEY CHHAVI
+NATH
+
+68
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+503
+
+Yes
+
+02-09-2016
+
+--
+
+Adhoc / Contractual
+
+55
+
+PRABHAKAR N V
+
+54
+
+Associate Professor
+
+Male
+
+Ph.D
+
+45
+
+Yes
+
+16-09-2020
+
+--
+
+Regular
+
+56
+
+RAVI SASTRI
+AYYAGARI
+
+42
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+149
+
+Yes
+
+14-12-2016
+
+--
+
+Regular
+
+57
+
+SEETHARAMAN
+RAJENDRAN
+
+64
+
+Other
+
+Male
+
+M.Tech
+
+486
+
+Yes
+
+23-05-2011
+
+--
+
+Adhoc / Contractual
+
+58
+
+SHARMA
+SUDHANSHU
+
+45
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+180
+
+Yes
+
+09-07-2012
+
+--
+
+Regular
+
+59
+
+SINGH RISHI
+NARAIN
+
+81
+
+Other
+
+Male
+
+Ph.D
+
+715
+
+Yes
+
+29-12-2015
+
+--
+
+Adhoc / Contractual
+
+60
+
+SUDHIR KUMAR
+ARORA
+
+64
+
+Other
+
+Male
+
+M.Tech
+
+348
+
+Yes
+
+26-07-2021
+
+--
+
+Adhoc / Contractual
+
+61
+
+UTSAV MANNU
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+82
+
+Yes
+
+02-11-2021
+
+--
+
+Regular
+
+62
+
+BARADHWAJ
+PANAYANCHERI
+COLEPPA
+
+44
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+179
+
+Yes
+
+16-12-2014
+
+--
+
+Regular
+
+63
+
+BHATIA UDIT
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+91
+
+Yes
+
+17-01-2019
+
+--
+
+Regular
+
+64
+
+CHANDRA VINOD
+
+44
+
+Associate Professor
+
+Male
+
+Ph.D
+
+196
+
+Yes
+
+01-07-2014
+
+--
+
+Regular
+
+65
+
+DATTA BHASKAR
+
+48
+
+Associate Professor
+
+Male
+
+Ph.D
+
+299
+
+Yes
+
+22-12-2011
+
+--
+
+Regular
+
+66
+
+GEORGE NITHIN
+VARGHESE
+
+40
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+150
+
+Yes
+
+16-11-2012
+
+--
+
+Regular
+
+67
+
+GUPTA SHARAD
+
+46
+
+Associate Professor
+
+Male
+
+Ph.D
+
+179
+
+Yes
+
+11-07-2012
+
+--
+
+Regular
+
+68
+
+KANAGARAJ
+RAGAVAN
+
+49
+
+Associate Professor
+
+Male
+
+Ph.D
+
+205
+
+Yes
+
+05-05-2009
+
+--
+
+Regular
+
+69
+
+Krishna Kanti Dey
+
+44
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+143
+
+Yes
+
+19-08-2016
+
+--
+
+Regular
+
+70
+
+MAJUMDAR
+SHARMISTHA
+
+50
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+187
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+71
+
+MISHRA SUPERB
+KUMAR
+
+43
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+206
+
+Yes
+
+03-03-2014
+
+--
+
+Regular
+
+72
+
+MOHAPATRA
+PRANAB KUMAR
+
+60
+
+Professor
+
+Male
+
+Ph.D
+
+332
+
+Yes
+
+24-11-2014
+
+--
+
+Regular
+
+73
+
+NARAYANAN
+VINOD
+
+51
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+220
+
+Yes
+
+28-05-2009
+
+--
+
+Regular
+
+74
+
+PANDEY PRAFULL
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+50
+
+Yes
+
+06-05-2024
+
+--
+
+Regular
+
+75
+
+PRASHANT AMIT
+
+49
+
+Professor
+
+Male
+
+Ph.D
+
+247
+
+Yes
+
+06-12-2010
+
+--
+
+Regular
+
+76
+
+ROWTHU
+SRIHARITHA
+
+37
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+93
+
+Yes
+
+06-12-2019
+
+--
+
+Regular
+
+77
+
+SEN SUSHOBHAN
+
+34
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+58
+
+Yes
+
+27-12-2022
+
+--
+
+Regular
+
+78
+
+SHARMA V D
+
+74
+
+Other
+
+Male
+
+Ph.D
+
+455
+
+Yes
+
+21-10-2019
+
+--
+
+Adhoc / Contractual
+
+79
+
+SINGH
+UMASHANKAR
+
+48
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+199
+
+Yes
+
+28-05-2015
+
+--
+
+Regular
+
+80
+
+Sudipta Sarkar
+
+44
+
+Associate Professor
+
+Male
+
+Ph.D
+
+156
+
+Yes
+
+21-07-2014
+
+--
+
+Regular
+
+81
+
+Vadali Madhukanth
+Venkata
+
+38
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+127
+
+Yes
+
+04-12-2017
+
+--
+
+Regular
+
+82
+
+AMRUTIYA
+SANJAYKUMAR
+HANSRAJ
+
+43
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+157
+
+Yes
+
+01-07-2014
+
+--
+
+Regular
+
+83
+
+BATRA NIPUN
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+84
+
+Yes
+
+09-07-2018
+
+--
+
+Regular
+
+84
+
+BICHHAWAT
+ABHISHEK
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+40
+
+Yes
+
+30-03-2021
+
+--
+
+Regular
+
+85
+
+CHOUDHURY
+PROJESH NATH
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+27
+
+Yes
+
+24-08-2022
+
+--
+
+Regular
+
+86
+
+GANDHI R S
+
+68
+
+Other
+
+Male
+
+Ph.D
+
+415
+
+Yes
+
+25-10-2021
+
+--
+
+Adhoc / Contractual
+
+87
+
+GHOSH PRADIPTA
+
+41
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+120
+
+Yes
+
+04-07-2019
+
+--
+
+Regular
+
+88
+
+JAIN VIKRANT
+
+51
+
+Professor
+
+Male
+
+Ph.D
+
+288
+
+Yes
+
+14-06-2013
+
+--
+
+Regular
+
+89
+
+KHATUA
+SAUMYAKANTI
+
+40
+
+Associate Professor
+
+Male
+
+Ph.D
+
+110
+
+Yes
+
+06-04-2015
+
+--
+
+Regular
+
+90
+
+KUMAR MISHRA
+ROHIT
+
+34
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+38
+
+Yes
+
+10-05-2021
+
+--
+
+Regular
+
+91
+
+MEENA YOGESH
+KUMAR
+
+39
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+149
+
+Yes
+
+14-02-2023
+
+--
+
+Regular
+
+92
+
+MISRA
+NEELDHARA
+
+38
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+155
+
+Yes
+
+22-09-2015
+
+--
+
+Regular
+
+93
+
+MONDAL
+SHOUVICK
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+39
+
+Yes
+
+01-02-2023
+
+--
+
+Regular
+
+94
+
+PAHALAJANI
+CHETAN
+DEVKISHIN
+
+50
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+198
+
+Yes
+
+14-07-2014
+
+--
+
+Regular
+
+95
+
+PATEL SAMEER
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+41
+
+Yes
+
+05-01-2021
+
+--
+
+Regular
+
+96
+
+RAMAN
+SHANMUGANATHA
+N
+
+44
+
+Associate Professor
+
+Male
+
+Ph.D
+
+250
+
+Yes
+
+20-05-2013
+
+--
+
+Regular
+
+97
+
+SAHA JHUMA
+
+37
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+38
+
+Yes
+
+07-05-2021
+
+--
+
+Regular
+
+98
+
+SENGUPTA
+MADHUMITA
+
+52
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+295
+
+Yes
+
+22-04-2014
+
+--
+
+Regular
+
+99
+
+SHEKHAR KARLA
+PATRICIA
+
+38
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+115
+
+Yes
+
+15-04-2019
+
+--
+
+Regular
+
+100
+
+SRIVASTAVA
+ASHUTOSH
+
+38
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+42
+
+Yes
+
+29-12-2020
+
+--
+
+Regular
+
+101
+
+THAREJA PRACHI
+
+43
+
+Associate Professor
+
+Female
+
+Ph.D
+
+199
+
+Yes
+
+22-12-2011
+
+--
+
+Regular
+
+102
+
+VENKATESH
+PRASANNA B
+
+39
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+47
+
+Yes
+
+01-10-2018
+
+--
+
+Regular
+
+103
+
+ARORA AMIT
+
+43
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+166
+
+Yes
+
+31-10-2011
+
+--
+
+Regular
+
+104
+
+BHARGAV ATUL
+
+44
+
+Associate Professor
+
+Male
+
+Ph.D
+
+203
+
+Yes
+
+04-05-2011
+
+--
+
+Regular
+
+105
+
+CHAKRABORTY
+ARUP LAL
+
+49
+
+Associate Professor
+
+Male
+
+Ph.D
+
+243
+
+Yes
+
+26-05-2010
+
+--
+
+Regular
+
+106
+
+DAS BIRESWAR
+
+46
+
+Associate Professor
+
+Male
+
+Ph.D
+
+166
+
+Yes
+
+28-06-2010
+
+--
+
+Regular
+
+107
+
+GAURAV
+
+39
+
+Associate Professor
+
+Male
+
+Ph.D
+
+150
+
+Yes
+
+29-05-2013
+
+--
+
+Regular
+
+108
+
+GUNDIMEDA
+VENKATA SRIRAM
+KANVAH
+
+52
+
+Associate Professor
+
+Male
+
+Ph.D
+
+278
+
+Yes
+
+31-12-2009
+
+--
+
+Regular
+
+109
+
+JAYAPRAKASH K R
+
+43
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+151
+
+Yes
+
+14-03-2017
+
+--
+
+Regular
+
+110
+
+KIRUBAKARAN
+SIVAPRIYA
+
+46
+
+Associate Professor
+
+Female
+
+Ph.D
+
+219
+
+Yes
+
+23-01-2023
+
+--
+
+Regular
+
+111
+
+LAHIRI UTTAMA
+
+57
+
+Associate Professor
+
+Female
+
+Ph.D
+
+312
+
+Yes
+
+25-04-2012
+
+--
+
+Regular
+
+112
+
+MEKIE JOYCEE
+MANILAL
+
+49
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+202
+
+Yes
+
+30-12-2009
+
+--
+
+Regular
+
+113
+
+MIYAPURAM
+KRISHNAPRASAD
+
+45
+
+Associate Professor
+
+Male
+
+Ph.D
+
+191
+
+Yes
+
+03-10-2012
+
+--
+
+Regular
+
+114
+
+MUKESH DHANKA
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+51
+
+Yes
+
+10-06-2022
+
+--
+
+Regular
+
+115
+
+PANDA EMILA
+
+46
+
+Associate Professor
+
+Female
+
+Ph.D
+
+202
+
+Yes
+
+15-07-2011
+
+--
+
+Regular
+
+116
+
+PINDORIYA NARAN
+MANJI
+
+47
+
+Associate Professor
+
+Male
+
+Ph.D
+
+229
+
+Yes
+
+29-11-2010
+
+--
+
+Regular
+
+117
+
+RANGANATHAN
+RAGHAVAN
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+93
+
+Yes
+
+04-07-2019
+
+--
+
+Regular
+
+118
+
+SAURABH BIPUL
+
+41
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+101
+
+Yes
+
+04-10-2018
+
+--
+
+Regular
+
+119
+
+SHARMA
+GIRISHKUMAR
+
+82
+
+Other
+
+Male
+
+Ph.D
+
+675
+
+Yes
+
+09-11-2009
+
+--
+
+Adhoc / Contractual
+
+120
+
+SINGH MAYANK
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+85
+
+Yes
+
+06-02-2019
+
+--
+
+Regular
+
+121
+
+Subramanian
+Sankaranarayanan
+
+41
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+103
+
+Yes
+
+09-06-2022
+
+--
+
+Regular
+
+122
+
+TYAGI JAGMOHAN
+
+44
+
+Associate Professor
+
+Male
+
+Ph.D
+
+195
+
+Yes
+
+13-12-2010
+
+--
+
+Regular
+
+123
+
+APPAYEE
+CHANDRAKUMAR
+
+49
+
+Associate Professor
+
+Male
+
+Ph.D
+
+194
+
+Yes
+
+30-12-2013
+
+--
+
+Regular
+
+124
+
+BHARADWAJ
+PALLAVI
+
+35
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+70
+
+Yes
+
+10-07-2023
+
+--
+
+Regular
+
+125
+
+BISWAJIT SAHA
+
+41
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+146
+
+Yes
+
+18-07-2022
+
+--
+
+Regular
+
+126
+
+DALVI SAMEER
+VISHVANATH
+
+45
+
+Professor
+
+Male
+
+Ph.D
+
+206
+
+Yes
+
+29-12-2009
+
+--
+
+Regular
+
+127
+
+GANESH SAI HARI
+
+35
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+41
+
+Yes
+
+27-01-2021
+
+--
+
+Regular
+
+128
+
+GHOSH UDDIPTA
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+96
+
+Yes
+
+15-12-2017
+
+--
+
+Regular
+
+129
+
+JASUJA KABEER
+
+41
+
+Associate Professor
+
+Male
+
+Ph.D
+
+155
+
+Yes
+
+01-10-2012
+
+--
+
+Regular
+
+130
+
+KHIANGTE KRISTA
+ROLUAHPUIA
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+76
+
+Yes
+
+30-06-2022
+
+--
+
+Regular
+
+131
+
+KUMAR TARUN
+AGARWAL
+
+39
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+39
+
+Yes
+
+19-04-2021
+
+--
+
+Regular
+
+132
+
+MEHROTRA
+SURYA PRATAP
+
+77
+
+Other
+
+Male
+
+Ph.D
+
+335
+
+Yes
+
+04-07-2012
+
+--
+
+Adhoc / Contractual
+
+133
+
+MITHUN
+RADHAKRISHNA
+
+38
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+104
+
+Yes
+
+09-12-2016
+
+--
+
+Regular
+
+134
+
+MOONA RAJAT
+
+60
+
+Professor
+
+Male
+
+Ph.D
+
+130
+
+Yes
+
+03-11-2022
+
+--
+
+Regular
+
+135
+
+PALANTHANDALA
+M MADAPUSI
+HARISH
+JAGANATHAN
+
+45
+
+Associate Professor
+
+Male
+
+Ph.D
+
+208
+
+Yes
+
+21-12-2011
+
+--
+
+Regular
+
+136
+
+PATHAK MADHAV
+KIRITKUMAR
+
+29
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+7
+
+Yes
+
+07-12-2023
+
+--
+
+Regular
+
+137
+
+RANE KAUSTUBH
+SUNIL
+
+37
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+129
+
+Yes
+
+15-07-2016
+
+--
+
+Regular
+
+138
+
+SAIRAM
+MALLAJOSYULA
+SWAROOP
+
+43
+
+Associate Professor
+
+Male
+
+Ph.D
+
+127
+
+Yes
+
+12-12-2013
+
+--
+
+Regular
+
+139
+
+SETT SOUMYADIP
+
+38
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+37
+
+Yes
+
+23-06-2021
+
+--
+
+Regular
+
+140
+
+SINGH HARMEET
+
+38
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+89
+
+Yes
+
+16-12-2022
+
+--
+
+Regular
+
+141
+
+SUBRAMANIAN
+HARINI
+
+28
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+25
+
+Yes
+
+07-07-2023
+
+--
+
+Regular
+
+142
+
+THIRUVENKATAM
+VIJAY
+
+47
+
+Associate Professor
+
+Male
+
+Ph.D
+
+178
+
+Yes
+
+28-01-2013
+
+--
+
+Adhoc / Contractual
+
+143
+
+YAJNIK URJIT
+
+66
+
+Other
+
+Male
+
+Ph.D
+
+455
+
+Yes
+
+28-06-2023
+
+--
+
+Adhoc / Contractual
+
+144
+
+SHAH MANA
+APPORVA
+
+35
+
+Lecturer
+
+Female
+
+Ph.D
+
+119
+
+Yes
+
+17-07-2017
+
+--
+
+Adhoc / Contractual
+
+145
+
+KANETKAR
+MANASI
+
+44
+
+Other
+
+Female
+
+Ph.D
+
+211
+
+Yes
+
+17-12-2018
+
+--
+
+Adhoc / Contractual
+
+146
+
+CHOKSI NISHAANT
+
+43
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+72
+
+Yes
+
+16-07-2018
+
+--
+
+Regular
+
+147
+
+KANUNGO ALOK
+KUMAR
+
+53
+
+Other
+
+Male
+
+Ph.D
+
+288
+
+Yes
+
+29-09-2014
+
+--
+
+Adhoc / Contractual
+
+148
+
+AMBIKA
+AIYADURAI
+
+52
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+95
+
+Yes
+
+16-08-2016
+
+--
+
+Regular
+
+149
+
+MUBASHSHIR
+AHSAN MOHD
+
+44
+
+Lecturer
+
+Male
+
+Ph.D
+
+137
+
+Yes
+
+01-07-2019
+
+--
+
+Adhoc / Contractual
+
+150
+
+MEERA MARY
+THOMPUNNAYIL
+SUNNY
+
+41
+
+Associate Professor
+
+Female
+
+Ph.D
+
+149
+
+Yes
+
+01-02-2012
+
+--
+
+Regular
+
+151
+
+LAZAR LESLEE
+
+46
+
+Other
+
+Male
+
+Ph.D
+
+102
+
+Yes
+
+26-12-2016
+
+--
+
+Adhoc / Contractual
+
+152
+
+KIM JOOYOUNG
+
+43
+
+Other
+
+Female
+
+Ph.D
+
+75
+
+Yes
+
+01-01-2020
+
+--
+
+Adhoc / Contractual
+
+153
+
+Aashish Xaxa
+
+36
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+35
+
+Yes
+
+06-04-2022
+
+--
+
+Regular
+
+154
+
+MCBLANE ANGUS
+ALEXANDER
+JAMES
+
+39
+
+Other
+
+Male
+
+Ph.D
+
+114
+
+Yes
+
+29-06-2015
+
+--
+
+Adhoc / Contractual
+
+155
+
+RATH ARNAPURNA
+
+45
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+170
+
+Yes
+
+24-12-2010
+
+--
+
+Regular
+
+156
+
+CHATTOPADHYAY
+ARKA
+
+40
+
+Assistant Professor
+
+Male
+
+Ph.D
+
+95
+
+Yes
+
+08-11-2017
+
+--
+
+Regular
+
+157
+
+KOTHIYAL ADITI
+
+34
+
+Other
+
+Female
+
+Ph.D
+
+63
+
+Yes
+
+16-08-2022
+
+--
+
+Adhoc / Contractual
+
+158
+
+SAHASRABUDHE
+SAMEER
+
+52
+
+Other
+
+Male
+
+Ph.D
+
+330
+
+Yes
+
+01-08-2022
+
+--
+
+Adhoc / Contractual
+
+159
+
+JAIN MANISH
+
+52
+
+Professor
+
+Male
+
+B.Tech
+
+270
+
+Yes
+
+05-12-2018
+
+--
+
+Adhoc / Contractual
+
+160
+
+KRISHNAN JYOTI
+
+46
+
+Assistant Professor
+
+Female
+
+Ph.D
+
+18
+
+Yes
+
+11-03-2024
+
+--
+
+Adhoc / Contractual
+
+161
+
+SINGHAI RAKESH
+
+67
+
+Other
+
+Male
+
+Ph.D
+
+480
+
+Yes
+
+29-07-2024
+
+--
+
+Adhoc / Contractual
+
+162
+
+NETTEMADATHIL
+RAMAKRISHNAN
+
+79
+
+Other
+
+Male
+
+Ph.D
+
+505
+
+Yes
+
+04-01-2010
+
+--
+
+Adhoc / Contractual
+
+163
+
+SUBBA TANKA
+BAHADUR
+
+67
+
+Other
+
+Male
+
+Ph.D
+
+444
+
+Yes
+
+19-07-2024
+
+--
+
+Adhoc / Contractual
+
+164
+
+DANINO MICHEL
+
+68
+
+Other
+
+Male
+
+M.Sc.
+
+514
+
+Yes
+
+09-05-2018
+
+--
+
+Adhoc / Contractual
+
+165
+
+SHARMA DINESH
+KUMAR
+
+74
+
+Other
+
+Male
+
+Ph.D
+
+384
+
+Yes
+
+01-08-2024
+
+--
+
+Adhoc / Contractual
+
+166
+
+KUMAR ANAND
+
+65
+
+Other
+
+Male
+
+MBA
+
+372
+
+Yes
+
+12-07-2021
+
+--
+
+Adhoc / Contractual
+
+167
+
+KAPADIA VIVEK
+PURUSHOTTAMDA
+S
+
+58
+
+Other
+
+Male
+
+M.E.
+
+373
+
+Yes
+
+03-06-2024
+
+--
+
+Adhoc / Contractual
+
+168
+
+VERMA JUGAL
+KISHORE
+
+65
+
+Other
+
+Male
+
+Ph.D
+
+504
+
+Yes
+
+08-07-2024
+
+--
+
+Adhoc / Contractual
+
+169
+
+PERES MARIA DE
+FIGUEIREDO
+ROSA
+
+71
+
+Other
+
+Female
+
+Ph.D
+
+456
+
+Yes
+
+05-08-2019
+
+--
+
+Adhoc / Contractual
+
+170
+
+KAO HAO TSUNG
+
+30
+
+Other
+
+Male
+
+B.A
+
+12
+
+Yes
+
+18-08-2023
+
+--
+
+Adhoc / Contractual
+
+171
+
+VINOD GOEL
+
+66
+
+Other
+
+Male
+
+Ph.D
+
+362
+
+No
+
+25-09-2023
+
+11-03-2024
+
+Adhoc / Contractual

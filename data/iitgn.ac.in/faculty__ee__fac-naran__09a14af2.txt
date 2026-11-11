@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Naran M. Pindoriya
+Source: https://iitgn.ac.in/faculty/ee/fac-naran
+
+# Naran M. Pindoriya
+
+-  Electrical Engineering
+Naran M. Pindoriya
+
+## Naran M. Pindoriya
+
+Professor, Electrical Engineering
+
+- BE: L.D. College of Engineering, Gujarat Univ., Ahmedabad, 2001
+- ME: M.S. Univ. of Baroda, Gujarat, 2003
+- PhD: Indian Institute of Technology Kanpur, 2009
+
+Email: naran -AT- iitgn.ac.in
+
+ Website :  https://naran.people.iitgn.ac.in/
+
+Office:  AB 13/326A
+VOIP:  2414
+
+P.B.S. Kiran and Naran M. Pindoriya, “DLMP Calculation and Congestion Minimization with EV Aggregator Loading in a Distribution Network Using Bi-Level Program”, IEEE Systems Journal (Early Access Article), June 2020.
+
+Batchu Rajasekhar, Wayes Tushar, Clement Lork, Yuren Zhou, Chau Yuen, Naran Pindoriya, and Kristin L Wood, “A Survey of Computational Intelligence Techniques for Air-conditioners Energy Management”, IEEE Transactions on Emerging Topics in Computational Intelligence, vol.4, no.4, pp. 555 – 570, Aug 2020.
+
+Batchu Rajasekhar and Naran M. Pindoriya, “Heuristic Approach for Transactive Energy Management in Active Distribution Systems”, IET Smart Grid, vol. 3 no. 3, pp. 406 – 418, June 2020.
+
+Kushan A. Choksi, Sonal Jain, and Naran M. Pindoriya, “Feature Based Clustering Technique for Investigation of Domestic Load Profiles and Probabilistic Variation Assessment: Smart Meter Dataset“, Sustainable Energy, Grids and Networks, vol. 22, June 2020.
+
+Dhanapala Prudhviraj, P.B.S. Kiran, and Naran M. Pindoriya, ” Stochastic Energy Management of a Mircrogrid with Nodal Pricing”, Journal of Modern Power Systems and Clean Energy, vol. 8, no. 1, Jan. 2020.
+
+- Professor, Indian Institute of Technology Gandhinagar (Nov 2024 to present)
+- Associate Professor, Indian Institute of Technology Gandhinagar (Apr 2018 - Nov 2024)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Nov 2010 to Apr 2018)
+- Research Fellow, Dep. of Elec. & Comp. Engineering,National University of Singapore (NUS) Singapore (Jan 2010 to Nov 2010)
+- Sr. Project Engineer, Department of Electrical Engineering, IIT Kanpur (Oct 2009 to Dec 2009)
+- Tutor, Department of Electrical Engineering, IIT Kanpur (July 2007 to May 2009)
+- Lecturer, Dept. Electrical Engg., Charotar Institute of Technology-Changa, Gujarat University (May 2003 to Dec 2005)
+
+- ● Restructured power systems - operation and management
+- ● Smart distribution grid and microgrids
+- ● Grid integration of decentralized energy resources and energy management
+- ● Load demand and electricity price forecasting

@@ -1,0 +1,48 @@
+Title: IIT Gandhinagar | Sumit Roy
+Source: https://iitgn.ac.in/faculty/guestprof/sumit_roy
+
+# Sumit Roy
+
+-  Guest Professors
+Sumit Roy
+
+## Sumit Roy
+
+Guest Processor, Electrical Engineering
+
+- BTech: Indian Institute of Technology, Kanpur, 1983
+- MS: University of California, Santa Barbara, 1985
+- MA: University of California, Santa Barbara, 1988
+- PhD: University of California, Santa Barbara, 1988
+
+“A System to Cancel Ghosts in NTSC Television Transmission”, (with J. Yang and C. B. Patel) U.S. Patent No. 5361102, Nov. 1994.
+
+“Improved Deghosting for Multipath Transmission of TV Signals,” (with J. Yang and C. B. Patel), U.S. Patent No. 5341177, Aug. 1994.
+
+“Time Frequency Coding in a Multi-Band UWB System,” (with J. R. Foerster and V.S. Somayazulu, Intel Corpn.), U.S. Patent No. 7613223, Nov. 2009.
+
+“Apparatus and Associated Methods to Introduce Diversity in a MultiCarrier Channel,” (with L. Shao and S. Sandhu), U.S. Patent No. 7782970, Aug. 2010; U.S. Patent 8289836, Oct. 2012.
+
+“Achieving Quality of Service in a Wireless Local Area Network,” (with R. Gupta), U.S. Patent No. 8144613, Mar. 2012.
+
+“Adaptive Uplink Protocol” (with Y-C. Ko), U.S. Patent No. 8223664, July 2012.
+
+“Method, Apparatus and Computer Program Product for Quiet Period Management in Wireless Networks for Co-existence,” (with Chittabrata Ghosh and Klaus Doppler), U.S. Patent No. 0070605, Mar. 2013.
+
+Guest Faculty, Indian Institute of Technology, Gandhinagar (Mar 2024 – Present)
+
+Program Lead, Innovate Beyond 5G, 5G-to-xG Initiative, US DoD (OUSD R&E) (Sep 2020 – Aug 2022)
+
+Professor, University of Washington, Seattle (Sep 2002 – Present)
+
+Associate Professor, University of Washington, Seattle (Sep 1998 – Sep 2002)
+
+Awards
+
+- NATO STO SET-302 Technical Panel U. Washington Term Professor Fellow, IEEE
+
+- Science Foundation of Ireland Royal Acad. Engineering (UK) Best Student Paper Award
+
+- ● Beyond 5G (mobile cellular, satellite and WiFi)
+- ● Internet of Things
+- ● Autonomous and Software-Defined Networks

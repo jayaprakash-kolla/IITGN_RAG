@@ -1,0 +1,64 @@
+Title: IIT Gandhinagar | Pallavi Bharadwaj
+Source: https://iitgn.ac.in/faculty/ee/fac-pallavi
+
+# Pallavi Bharadwaj
+
+-  Electrical Engineering
+Pallavi Bharadwaj
+
+## Pallavi Bharadwaj
+
+Assistant Professor, Electrical Engineering
+
+- BE: Delhi College of Engineering, 2012
+- ME: Indian Institute of Science, 2014
+- PhD: Indian Institute of Science, 2019
+
+Email: pallavib -AT- iitgn.ac.in
+
+ Website :  https://labs.iitgn.ac.in/spel
+
+Office:  AB 13/326D
+VOIP:  2604
+
+S. Chakraborty, P. Mehta and P. Bharadwaj, "Smart Hybrid Energy Management System for Green Microgrid with Optimized Energy and Enhanced Voltage Stability," in IEEE Transactions on Industry Applications, 2025.
+
+R. D. Fonso, C. Cecati, R. Teodorescu, D. -I. Stroe and P. Bharadwaj, "Data-Driven Modeling of Li-Ion Battery Based on the Manufacturer Specifications and Laboratory Measurements," in IEEE Transactions on Industry Applications, vol. 61, no. 2, pp. 3485-3493, March-April 2025.
+
+R. D. Fonso, R. Teodorescu, C. Cecati and P. Bharadwaj, "A Battery Digital Twin From Laboratory Data Using Wavelet Analysis and Neural Networks," in IEEE Transactions on Industrial Informatics, vol. 20, no. 4, pp. 6889-6899, April 2024.
+
+P. Sachan and P. Bharadwaj, “Incorporating Uncertainty and Reliability for Battery Temperature Prediction Using Machine Learning Methods,” in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, vol. 5, no. 1, pp. 234-241, Jan. 2024.
+
+Remus Teodorescu, Xin Sui, Søren B. Vilsen, Pallavi Bharadwaj, Abhijit Kulkarni, and Daniel-Ioan Stroe, "Smart Battery Technology for Lifetime Improvement" Batteries Vol. 8, no. 10: 169, Oct. 2022.
+
+Yunhong Che, Yusheng Zheng, Yue Wu, Xin Sui, Pallavi Bharadwaj, Daniel-Ioan Stroe, Yalian Yang, Xiaosong Hu, Remus Teodorescu,"Data efficient health prognostic for batteries based on sequential information-driven probabilistic neural network," Applied Energy, Volume 323, Jul. 2022.
+
+Pallavi Bharadwaj and Vinod John, “High-Power Closed-Loop SMPC-Based Photovoltaic System Characterization under Varying Ambient Conditions,” Energies 14 (17), 5296, Aug. 2021.
+
+Pallavi Bharadwaj and Vinod John, “Optimized Global Maximum Power Point Tracking of Photovoltaic Systems based on Rectangular Power Comparison,” IEEE Access, vol. 9, pp. 53602-53616, Apr. 2021.
+
+Pallavi Bharadwaj and Vinod John, “Subcell Modeling of Partially Shaded Photovoltaic Modules,” IEEE Transactions on Industry Applications, vol. 55, no. 3, pp. 3046-3054, MayJun. 2019.
+
+Pallavi Bharadwaj, Kunal Narayan Chaudhury, Vinod John, “Sequential optimization for PV panel parameter estimation” IEEE Journal of Photovoltaics 6 (5), 1261-1268, 2016.
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Oct 2022 to present)
+- Assistant Professor Aalborg University Denmark (Jan 2022-Sep 2022)
+- Postdoctoral Research Associate, Massachusetts Institute of Technology (Jan 2020 - Dec 2021)
+- Visiting Research Scientist, Northeastern University (Apr 2019 - Sep 2019)
+
+- ● Smart power electronics: design & development of hardware, AI, IoT
+- ● Photovoltaic power conversion: faults & shade-tolerant control
+- ● Transportation electrification: fast EV chargers, battery lifetime extension
+- ● Green energy storage: data-driven modeling & system integration
+- ● Net zero transition: multi-energy optimization
+
+#### Latest News:
+
+New Patent Filed:
+Title: An Adaptive Battery Charging Optimization System
+Date of submission: 11.12.2024
+Application no.: 202421097809
+Inventors: Paarth Sachan and Pallavi Bharadwaj
+Institute: Indian Institute of Technology Gandhinagar
+
+Complete List of Publications

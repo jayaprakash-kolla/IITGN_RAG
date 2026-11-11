@@ -1,0 +1,41 @@
+Title: IIT Gandhinagar | Harini Subramanian
+Source: https://iitgn.ac.in/faculty/me/fac-harini
+
+# Harini Subramanian
+
+-  Mechanical Engineering
+Harini Subramanian
+
+## Harini Subramanian
+
+Assistant Professor, Mechanical Engineering
+
+- BE: Madras Institute of Technology, 2017
+- MS: IIT Madras, 2022
+- PhD: IIT Madras, 2022
+
+Email: harini.subramanian -AT- iitgn.ac.in
+
+Office:  AB 4/305
+VOIP:  2613
+
+Harini S, and Shantanu Mulay. "Constitutive modelling of plastically deformable self-healing materials." 1. Mechanics of Materials 168 (2022): 104272.
+
+Harini S, and Shantanu Mulay. "On the constitutive modelling of elasto-plastic self-healing materials." 2. International Journal of Solids and Structures (2021): 111289.
+
+Harini S, and Shantanu Mulay. "On the homogenisation of a laminate beam under transverse loading: extension of Pagano's theory." Acta Mechanica 232.1 (2021): 153-176.
+
+Udhayaraman, R., Harini S, Shantanu Mulay, and S. Venkatachalam. "Multi-scale approach-based studies on the 4. damage-healing and fracture behaviour of plain-woven textile composite." Mechanics of Advanced Materials and Structures (2020): 1-26.
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (July 2023 - present)
+- Project Associate, Industrial Consultancy and Sponsored Research, IIT Madras (Aug 2022 to Present)
+- Modelling and Simulation Engineer, Schlumberger India Technology Pvt Ltd (May 2022 - Jul 2022)
+
+- ● Constitutive modelling
+- ● Continuum damage mechanics
+- ● Plasticity
+- ● Mechanics of composites
+- ● Viscoelasticity
+- ● Self-healing materials
+
+Complete List of Publications

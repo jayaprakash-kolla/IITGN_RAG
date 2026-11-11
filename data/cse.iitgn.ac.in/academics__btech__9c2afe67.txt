@@ -1,0 +1,26 @@
+Title: B.Tech Program
+Source: https://cse.iitgn.ac.in/academics/btech
+
+Department of Computer Science & Engineering, IIT Gandhinagar
+
+# BTech in Computer Science & Engineering
+
+ A four-year undergraduate pathway grounded in computing fundamentals, design, project work, and broad-based learning.
+
+More information
+
+ IITGN BTech overview ->  BTech curriculum ->  BTech admissions ->
+
+Academics
+
+## Overview
+
+ The IITGN BTech experience is designed for long-term learning and application. The curriculum combines institute-level breadth with discipline-specific depth, and the CSE curriculum includes core computing areas such as data structures, discrete mathematics, digital systems, computer organization, theory of computing, operating systems, software tools, AI foundations, and computer networks.
+
+IITGN offers BTech programs in Computer Science & Engineering, Artificial Intelligence, Integrated Circuit Design & Technology, and other engineering disciplines.
+
+The undergraduate curriculum emphasizes learning by doing, project-based work, humanities and social sciences, design, life sciences, electives, and undergraduate research.
+
+CSE students can use the broader IITGN flexibility around minors, honors, dual-degree pathways, dual majors, branch change, and external exposure.
+
+Admissions to the BTech program are handled through the IIT admissions process and JEE-based channels.

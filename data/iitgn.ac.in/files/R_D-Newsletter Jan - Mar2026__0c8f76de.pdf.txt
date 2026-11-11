@@ -1,0 +1,1273 @@
+#flags:
+
+RESEARCH &
+DEVELOPMENT
+
+JAN - MAR 2026
+
+NEWS
+
+IIT GANDHINAGAR
+
+iitgn.ac.in/research/
+
+COVER STORY
+As artificial intelligence increasingly shapes how societies respond to complex challenges, Indian Institute of Technology Gandhinagar (IITGN)
+inaugurated the AI Resilience and Command (ARC) Centre at its Research Park to strengthen climate resilience. Developed through research at
+the Machine Intelligence and Resilience (MIR) Lab, the centre integrates AI with flood modelling to deliver real-time predictive insights during
+extreme weather events. Supported by the AI Centre of Excellence (AICoE) – Sustainable Cities, AIResQ ClimSols Pvt Ltd, and the Airawat Research
+Foundation, it aims to help climate-stressed cities make faster, data-driven decisions for improved infrastructure and water-risk management.
+Further advancing discussions at the intersection of AI and healthcare, IITGN hosted the NeuroAI Conclave 2026, bringing together
+researchers, clinicians, and healthcare experts to explore AI-driven neuroscience and neurodegenerative disease research. The
+conclave featured discussions on AI-enabled neuroimaging, generative AI for drug discovery, translational neuroscience, and ethical
+AI deployment in clinical settings.
+Continuing this momentum, AI Day at IITGN explored how India can move beyond using AI to actively shaping its development, governance,
+and deployment. Supported by the Anusandhan National Research Foundation (ANRF), the Department of Computer Science and Engineering,
+and IITGN’s Centre for AI-driven Innovations, the event featured discussions on foundational AI models, governance frameworks, biomedical
+innovation, strategic technologies, and AI & society. Together, these initiatives reflected IITGN’s growing role in fostering responsible and
+impactful AI innovation.
+
+PROJECT FUNDING
+PI/Mentor
+
+Department/Centre
+
+Project Title
+
+Agency Name
+
+Subramanian
+Sankaranarayanan
+
+Biological
+Engineering
+
+Deciphering the Epigenetic Regulation of Compatible Pollination in
+Arabidopsis thaliana
+
+Anusandhan National Research FoundationAdvanced Research Grant (ANRF-ARG)
+
+Abinaya Sampath
+
+Chemical Engineering
+
+Low-Temperature Continuous H₂ Generation from Formic Acid-Water
+Mixtures over Cu-based Alloy Catalysts for a Net-Zero Carbon Economy
+
+Anusandhan National Research FoundationAdvanced Research Grant (ANRF-ARG)
+
+Iti Gupta
+
+Chemistry
+
+Ferroptosis Inducers Linked to Chlorins: Distinct Way to Target TNBC by
+Photodynamic Therapy and Reducing Chemotherapy Resistance in Cancer
+
+Anusandhan National Research FoundationAdvanced Research Grant (ANRF-ARG)
+
+Saumyakanti Khatua
+
+Chemistry
+
+Boosting Plasmonic Photocatalysis Through Optimized Charge/Energy
+Transfer at Nanoparticle Molecule Interfaces
+
+Anusandhan National Research FoundationAdvanced Research Grant (ANRF-ARG)
+
+Manoj Devkinandan
+Gupta
+
+Computer Science
+and Engineering
+
+Approximate Shortest Paths in Graphs
+
+Anusandhan National Research FoundationAdvanced Research Grant (ANRF-ARG)
+
+Mayank Singh
+
+Computer Science
+and Engineering
+
+Chitrabhasha: Developing India’s Largest Dataset and Foundation Models
+for Multimodal AI
+
+Anusandhan National Research FoundationAdvanced Research Grant (ANRF-ARG)
+
+Nithin V George
+
+Electrical Engineering
+
+Development of Head Movement Immune Multi Modal Multi Microphone
+Hearing Aids
+
+Anusandhan National Research FoundationAdvanced Research Grant (ANRF-ARG)
+
+Jagmohan Tyagi
+
+Mathematics
+
+Effect Of Diffusion Degeneracy And Chemotactic Sensitivity On Chemotactic
+Aggregation And Blow-Up Profile
+
+Anusandhan National Research FoundationAdvanced Research Grant (ANRF-ARG)
+
+Vinod Chandra
+
+Physics
+
+Probing Early Stage Dynamics of Hot QCD Matter in High Energy Heavy Ion
+Collisions with Heavy Quarks
+
+Anusandhan National Research FoundationAdvanced Research Grant (ANRF-ARG)
+
+Shubhangi Bansude
+
+Mechanical
+Engineering
+
+Accelerate The Development of Curriculum Award
+
+Ansys Inc
+
+Naran Manji Pindoriya
+
+Electrical Engineering
+
+Technology Interventions to Strengthen Livelihood Generation for EWS of
+Selected Areas of Gujarat
+
+Department of Science and Technology
+(DST)
+
+Nihar Ranjan
+Mohapatra
+
+Electrical Engineering
+
+Establishment of Silicon and Advanced Semiconductor Manufacturing
+Research and Training Hub (SAMARTH) at IIT Gandhinagar
+
+Department of Science and Technology
+(DST)
+
+Uttama Lahiri
+
+Electrical Engineering
+
+WeGaMo: Wearable Gait Monitor
+
+Department of Science & Technology (DST)
+
+Dhiraj Bhatia
+
+Biological
+Engineering
+
+Programmable Engineering of Tetrahedral DNA Nanostructure-Based
+Biosensing Interfaces for Ultrasensitive Detection of miR-155 in biological
+samples
+
+Gujarat State Biotechnology Mission
+(GSBTM)
+
+Mukesh Dhanka
+
+Biological
+Engineering
+
+Engineering a Mussel-Inspired Nanohydrogel Coating for SelfRegulated,
+Broad-Spectrum Antibacterial, and Osteoinductive Surfaces of Orthopedic
+Implants
+
+Gujarat State Biotechnology Mission
+(GSBTM)
+
+Naran Manji Pindoriya
+
+Electrical Engineering
+
+Energy Transition Model for Gujarat
+
+Gujarat Urja Vikas Nigam Limited (GUVNL)
+
+Venkata Madhukanth
+Vadali
+
+Mechanical
+Engineering
+
+Sensor-Enhanced Soft-Continuum Endoscope
+
+I-HUB Foundation for CoBOTICS
+
+Anirban Dasgupta
+
+Computer Science
+and Engineering
+
+Specialized language models deployable on end points with low compute
+resources
+
+Indian Space Research Organisation (ISRO)
+
+Pratik Kiran Mutha
+
+Cognitive and Brain
+Sciences
+
+AMNS Collaboration Cell
+
+ArcelorMittal Nippon Steel India Limited
+(AM/NS India)
+
+Soumyadip Sett
+
+Mechanical
+Engineering
+
+Frost Management in Refrigeration and Air Source Heat Pumps Through
+Non-Fluorinated Hydrophobic Coatings
+
+Climate ETC Technology Services
+
+Amit Prashant
+
+Civil Engineering
+
+Third Party Quality Inspection and Check of Dholera Airport Building
+Project
+
+Dholera International Airport Company
+Limited (DIACL)
+
+Udit Bhatia
+
+Civil Engineering
+
+Proposed flood mitigation works in Department of Scientific and Industrial
+Research (DSIR), and to support the transition of the Comprehensive Flood
+Mitigation Plan for DSIR (February 2025)
+
+Dholera Industrial City Development
+Limited (DICDL)
+
+Harish Palanthandalam
+Madapusi
+
+Mechanical
+Engineering
+
+Advisory Inputs for High School Robotics Innovation Program
+
+Edunnovate Technologies Pvt Ltd (Brand
+Name –The Innovation Story)
+
+Shailesh R Gandhi
+
+Civil Engineering
+
+Approval of Design of Cells; RE Wall design and the Stability Certificate
+
+Envision Enviro Tech Pvt Ltd
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Stage wise Third Party Quality Assurance for Various Kendriya Vidyalayas at
+Harda and Haveri
+
+Fertilizers and Chemicals Travancore
+Limited (FACT)
+
+Harish Palanthandalam
+Madapusi
+
+Mechanical
+Engineering
+
+Third-party Inspection for Self Propelled Road Sweeper Machines
+
+Green Globe Solution Pvt Ltd
+
+Sameer Patel
+
+Civil Engineering
+
+Geophysical and Environmental Study of a TSDF site in Alang
+
+Gujarat Enviro Protection And Infrastructure
+Pvt Ltd (GEPIL)
+
+Sameer Patel
+
+Civil Engineering
+
+Design and Performance Vetting of an Incinerator and APCM (Alang)
+
+Gujarat Enviro Protection And Infrastructure
+Pvt Ltd (GEPIL)
+
+Sameer Patel
+
+Civil Engineering
+
+Geophysical and Environmental Study of a TSDF site in Gabheni, Surat
+
+Gujarat Enviro Protection And Infrastructure
+Pvt Ltd (GEPIL)
+
+Vimal Mishra
+
+Civil Engineering
+
+Comprehensive Risk Assessment and Development of Emergency
+Management Plan of Ekta Nagar
+
+Gujarat Institute of Disaster Management
+(GIDM)
+
+Sushobhan Sen
+
+Civil Engineering
+
+Testing of 6 nos PQC Cores from AFS Deesa
+
+GHV (India) Pvt Ltd
+
+Pranab Kumar
+Mohapatra
+
+Civil Engineering
+
+Capacity Enhancement of Sei Dam Tunnel
+
+Indian Institute of Technology Jodhpur
+(IITJ)
+
+Dhiman Basu
+
+Civil Engineering
+
+Structural Vetting of G+4 Staff Housing Tower at National Maritime Heritage
+Complex (NMHC), Lothal
+
+Indian Port Rail & Ropeway Corporation Ltd
+(IPRCL)
+
+Amit Prashant
+
+Civil Engineering
+
+Assessment of Black Cotton Soil Properties and Related Design Inputs and
+Recommendations for Foundation Systems
+
+Inojo Interim Management LLP
+
+Venkata Madhukanth
+Vadali
+
+Mechanical
+Engineering
+
+Soft Robotic Applications for Milking
+
+Krishna Defence and Allied Industries
+Limited
+
+Vellore Nandagopal
+Prabhakar
+
+Earth Sciences
+
+Consultancy related to archaeological inputs in the galleries at Smritivan
+Memorial Museum
+
+Meroform (India) Pvt Ltd
+
+Utsav Mannu
+
+Earth Science
+
+Geological and Seismotectonic Studies (300 km Radius) for Khatiguda Site,
+Odisha
+
+National Thermal Power Corporation
+Limited (NTPC Limited)
+
+Sushobhan Sen
+
+Civil Engineering
+
+Verification of some bituminous material tests
+
+Nexxus Petro Industries Ltd
+
+Pranab Kumar
+Mohapatra
+
+Civil Engineering
+
+Review of sewer network in Ottapalam Municipality, Kerala.
+
+Quavac India Pvt Ltd, Bangalore
+
+Gaurav Srivastava
+
+Civil Engineering
+
+Technical Assessment of Non-Conforming ACP Cladding at Chandigarh
+Railway Station
+
+Rail Land Development Authority (RLDA)
+
+Ravi Hegde
+
+Electrical Engineering
+
+Curriculum Design Assistance to Edtech Startup
+
+M/s. Rainbow Edu Tec Systems Pvt Ltd
+
+Vineet Vashista
+
+Mechanical
+Engineering
+
+IMU-Based Gait Analysis
+
+Rymo Technologies Pvt Ltd
+
+Manish Jain
+
+CCL
+
+Samagra Shiksha AXOM STEM Box
+
+Samagra Shiksha AXOM
+
+Himanshu Shekhar
+
+Electrical Engineering
+
+SAFER Pedicle Probe
+
+Spine Science Innovations LLP
+
+Nithin V George
+
+Electrical Engineering
+
+PhD Question Paper Design for TATA Motors
+
+TATA Motors
+
+Vineet Vashista
+
+Mechanical
+Engineering
+
+Real-Time Lower Limb Joint Torque Estimation using Machine Learning
+Models
+
+Timetooth Technologies Pvt Ltd
+
+AWARDS AND FELLOWSHIPS
+Prof Mayank Singh, Associate Professor, Computer Science and
+Engineering, co-founder of Soket AI, was recognised as part of the India
+AI Impact Summit 2026, with the startup selected among 12 Indian AI
+ventures to present its indigenous foundation model EKΛ before the
+Hon’ble Prime Minister.
+Prof Sameer Sahasrabudhe, Professor of Practice (Design), Humanities
+and Social Sciences, received the Audience Choice Award at the Vindhya
+International Film Festival 2026 for his short film ‘Lights, Camera,
+Development.
+
+Prof Nipun Batra, Associate Professor, Computer Science and
+Engineering, was awarded the Department of Science and Technology
+(DST) VAIBHAV Fellowship (Call 2025).
+Prof Mukesh Dhanka, Assistant Professor, Biological Sciences and
+Engineering, was awarded the Young Scientist Award at the 6th Science
+Conclave-cum-National Biomedical Research Competition (NBRCOM).
+Prof Sandip Lashkare, Assistant Professor, Electrical Engineering
+was awarded the Young Faculty Research Fellowship (YFRF) under the
+Visvesvaraya PhD Scheme by the Ministry of Electronics & Information
+Technology (MeitY) Government of India.
+
+Prof C N Pandey, Professor of Practice, Earth Sciences, was nominated
+
+BTech students Farhan Obaid from Mechanical Engineering,
+
+as an Expert Member of the National Board for Wildlife (NBWL), the apex
+
+Samyak Gosalia from Electrical Engineering, and Atharva
+
+statutory body for wildlife conservation in India, chaired by the Hon’ble
+
+Zagade, from Chemical Engineering, ranked among the top
+
+Prime Minister of India.
+
+five teams at the Civil Aviation Innovation Challenge during
+Wings India 2026, held at Begumpet Airport, Hyderabad.
+
+Dr Amit Kumar Yadav, ANRF- National Postdoctoral Fellow, Biological
+Sciences and Engineering, was awarded the prestigious Marie
+
+Jigar Mahedu, MA student, Humanities and Social Sciences,
+
+Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship (2025) under
+
+Naveen Pal, BTech student, Computer Science Engineering,
+and BTech students in Chemical Engineering, Diya
+
+the Horizon Europe Programme of the European Commission.
+
+Nandan and Atharva Zagade, secured third position in the
+Jagruti Patil, PhD student, Biological Sciences and Engineering, received
+
+TrueFoundry ProdEdge – Product Management Competition
+
+the CIRE Award from the Committee for International Research and
+
+at the Global Entrepreneurship Summit 2026, IIT Kharagpur.
+
+Education (CIRE) of the Acoustical Society of America (ASA). The award
+is presented to encourage students to pursue and continue graduate
+
+Harshil Dave, PhD student, Biological Sciences and Engineering, was
+
+studies in acoustics in their home countries.
+
+awarded the Vikram Sarabhai Prize 2026 – Young Scientist Award for his
+innovative research on patented biomedical technologies based on DGMS
+
+Akanksha Sharma, PhD student, Chemistry, received the Gandhian
+
+supramolecular hydrogel systems.
+
+Young Technological Innovation (GYTI) Techpedia 2024 Appreciation
+Award for her project ‘Photo-catalytic Substrate for Producing Green
+
+Tarisha Gupta, PhD student, Chemistry, has been selected for the
+
+Hydrogen and Process Thereof’.
+
+Chemical Abstracts Service (CAS) Future Leaders 2026 Program, by the
+American Chemical Society.
+
+Dharaben Rameshbhai Thakkar, PhD student, Computer Science
+Engineering, was awarded the Association for Computing Machinery
+
+Manvendra Singh, PhD student, Artificial Intelligence, was selected for
+
+(ACM) India Doctoral Dissertation Award 2025 for her work titled ‘On
+
+the IndiaAI Fellowship for work on Drug Discovery using Graph Neural
+
+Computing Optimal Representations of Finite Groups’, completed under
+
+Networks (GNN), under the supervision of Prof Anirban Dasgupta,
+
+the supervision of Prof Bireswar Das, Professor, Computer Science and
+
+Professor, Computer Science and Engineering, supported by IndiaAI,
+
+Engineering.
+
+Ministry of Electronics and Information Technology (MeitY).
+Nikhil Kumar Lal and Manas Kalal, BTech students,
+
+MSc students in Physics, Priyal Keswani, Praveen Suthar,
+
+Mechanical
+
+low-cost
+
+Hari Krishna R, Raj Bahadur, and BTech students
+
+autonomous wire-crawling robot for inspecting high-
+
+in Computer and Science Engineering, Tejas Lohia,
+
+voltage power lines. The project received Corporate Social
+
+Umang Shikarvar represented the Odyssey Astronomy
+
+Responsibility (CSR) funding and has been granted a
+
+Club at Astrax 2026, the national-level astronomy and
+
+provisional patent.
+
+space science festival hosted by IIT Mandi, securing
+
+Engineering,
+
+have
+
+developed
+
+a
+
+outstanding results across multiple events, including a
+Dr Mohit Ganeriwala, former PhD student of IITGN’s Department
+
+second place finish in the Messier Marathon, a fifth rank
+
+of Electrical Engineering, has joined the Department of Electrical
+
+in Sky Quest and a Special Mention for Novelty & Creativity in the Orion Astrothon
+
+Engineering at IIT Kanpur, as an Assistant Professor.
+
+Hackathon.
+
+Hiren Solanki, PhD student, Electrical Engineering, won the First Prize
+
+Rakesh Choubey, PhD student, Materials Engineering, was awarded
+
+at Saransh 2025, the national thesis competition organised by the Indian
+
+the Best Oral Presentation Award at the International Conference on
+
+National Young Academy of Science (INYAS).
+
+Engineering and Functional Coatings (EnggCoat 2026), held at IIT
+Bombay, for his research contributions in the field.
+
+CONTINUING EDUCATION PROGRAMME (IITGN-X)
+Event/Programme Name
+International Workshop on Sustainable Energy,
+Power and Propulsion
+
+Event Date
+January 7 January 9,
+2026
+
+International Symposium on AI-Driven
+
+January 10 -
+
+Computational Fluid Dynamics (AI-CFD /
+
+January 14,
+
+CFDxML)
+
+2026
+
+International Workshop on ‘Toward Sustainable
+
+January 12 -
+
+Agriculture: Managing Droplet–Solid
+
+January 13,
+
+Interactions through Surface Science’
+
+2026
+
+One-day workshop on X-ray photoelectron
+
+January 17,
+
+spectroscopy
+
+2026
+
+GANIT Symposium on Connections among
+
+January 17 -
+
+Algebraic Geometry, Commutative Algebra and
+
+January 19,
+
+Number Theory
+
+2026
+
+Rethinking Deep Time: Debating Transitions,
+
+January 19 -
+
+Origins, and Identities in South Asian
+
+January 22,
+
+Palaeolithic Archaeology
+
+2026
+
+Mathematics Teacher Orientation Camp (MTOC)
+2026
+Lithics and Lives: The Past and Present in Stone
+Tool Studies
+
+Discipline/Centre/Institute and Funding Agency
+Organised by IITGN with support from the Anusandhan National Research Foundation (ANRF), Gujarat
+Council on Science and Technology (GUJCOST), and the Board of Research in Nuclear Sciences (BRNS).
+
+Organised and hosted by the Department of Mechanical Engineering at IITGN.
+
+Organised by IITGN with financial support from the Scheme for Promotion of Academic and Research
+Collaboration (SPARC), Ministry of Education.
+Organised by IITGN and sponsored by Thermo Scientific.
+
+Organised and funded by IITGN’s Department of Mathematics.
+
+Organised by IITGN with financial support from the Wenner-Gren Foundation.
+
+January 20 January 24,
+
+Organised and funded by IITGN’s Department of Mathematics.
+
+2026
+January 27 January 29,
+2026
+
+Organised by IITGN and sponsored by the Archaeological Survey of India (ASI) Archaeology Chair
+Endowment Fund.
+
+NeuroAI Conclave 2026: Brainstorming Forum
+
+January 30 -
+
+on Artificial Intelligence in Neuroscience and
+
+January 31,
+
+Neurodegenerative Diseases
+
+2026
+
+Compact Communication Antenna Design and
+Testing
+
+February 2 February 5,
+February 2 -
+
+Foundation on expansive soil and stabilization of
+
+February 4,
+
+unsaturated slope
+
+2026
+February 9 February 11,
+2026
+
+PAIR: Networking of the water group
+
+February 11,
+2026
+
+AI Day
+
+One day workshop on AI in Materials Processing
+
+February 12,
+2026
+February 16,
+2026
+February 18 -
+
+Promoting Aerosol Education and Research
+
+February 19,
+2026
+
+Doing History of Science: A Social History
+Perspective
+
+Organised by IITGN and funded by Hindustan Aeronautics Limited (HAL).
+
+2026
+
+Short course on Innovative Design for
+
+3 Days IFS Officers Training Workshop
+
+Organised by IITGN and sponsored by Prof Nitish Thakor’s Workshop Endowment Fund.
+
+February 23 February 24,
+2026
+
+Organised by IITGN and sponsored by TechFab Corporate Social Responsibility (CSR) Funds.
+
+Organised by IITGN with full sponsorship from the Ministry of Environment, Forest and Climate Change
+of India (MoEFCC).
+Organised by IITGN with support from the Anusandhan National Research Foundation (ANRF).
+Organised and funded by IITGN’s Department of Computer Science and Engineering with support from
+the Anusandhan National Research Foundation’s Partnerships for Accelerated Innovation and Research
+Programme (ANRF PAIR).
+Organised and funded by IITGN’s Department of Materials Engineering.
+Organised by IITGN with support from the Anusandhan National Research Foundation’s Partnerships
+for Accelerated Innovation and Research Programme (ANRF PAIR).
+Organised by IITGN with financial support from the History of Mathematics in India (HoMI) project
+fund.
+
+February 26 Women-FORCE
+
+February 28,
+
+Organised by IITGN
+
+2026
+National Science Day | Celebrating 100 years of
+
+February 28,
+
+quantum physics
+
+2026
+
+GANIT symposium on Quantum Groups
+
+March 5 March 7, 2026
+
+Organised and funded by IITGN’s Department of Physics.
+
+Organised and funded by IITGN’s Department of Mathematics.
+
+ESS Synergy 2026
+
+March 9, 2026
+
+Organised by IITGN’s Department of Electrical Engineering.
+
+ANRF-PAIR Discussion Meeting on Active Matter
+
+March 17,
+
+Organised by IITGN with support from the Anusandhan National Research Foundation’s Partnerships
+
+& Biophysics: Fundamentals to Applications
+
+2026
+
+for Accelerated Innovation and Research Programme (ANRF PAIR).
+
+Unnat Bharat Abhiyan Orientation
+
+March 21,
+2026
+
+Hosted at IITGN and organised by Unnat Bharat Abhiyan Cell at IITGN.
+
+March 21 Curiosity Conference
+
+March 22,
+
+Organised by IITGN with financial support from the Curiosity Lab fund.
+
+2026
+
+PATENTS
+Title
+
+Inventor
+
+Status
+
+External Mechanical Vibration (Emv)-Based Ultrasound Elastography System And An
+Approach To Correct For Anisotropy
+
+Shekhar, Karla M; Chandra, Akash; Suma, Manu Krishnakumar;
+Lafond, Maxim
+
+Filed
+
+A Method For Preparing A Multi-Layer Low-Emissivity Thin Film Coating
+
+Hemani, Priyanka; Panda, Emila
+
+Filed
+
+Dual Barcode Method For Quantifying Spatial Redistribution Of Dry Land Under Flood
+Protection
+
+Bhatia, Udit; Kumar, Ashish
+
+Filed
+
+A Process For Extraction Of Ulvan And Preparation Of Hydrogel Therefrom
+
+Dhanka, Mukesh; B, Prasanna Kumari; Meena, Manisha
+
+Filed
+
+A Hydrogel Composition For Wound Healing And A Process For Its Preparation
+
+Dhanka, Mukesh; Meena, Manisha; Vishal, Anurag J
+
+Filed
+
+A Platform And A Method For Performing Meteorological Field-Based Measurements
+
+Sen, Sushobhan; Nandi, Sumit; Nagar, Chirag
+
+Filed
+
+Pharmaceutical Cocrystals For Sustainable Localized Drug Delivery And A Process For
+Preparing The Same
+
+Dhanka, Mukesh; Dan, Aniruddha; Rahaman, Efftesum;
+
+Filed
+
+Bicyclic Secondary Amine Organocatalyst And A Process For Its Preparation
+
+Appayee, Chandrakumar; Dubey, Navneet Nandgopal; Pathan,
+Tokirkhan Usmankhan
+
+Filed
+
+A Process For Carbon–Carbon Coupling By Using A Photothermal Agent
+
+Basu, Sudipta; Preeti
+
+Filed
+
+An Injectable Polymeric Hydrogel Composition And A Process For Its Preparation
+
+Dhanka, Mukesh; Aniruddha Dan
+
+Filed
+
+A Pulse-Width-Modulation (Pwm) Generator And Method For Producing Low-Power
+Analog Pulse-Width-Modulation Signals
+
+Kumar, Nishant; Gupta, Hari Shanker; Mohapatra, Nihar Ranjan;
+Sharma, Chandra Prakash; Kumar M Senthil
+
+Filed
+
+A Process For Extraction Of Galactan And Preparation Of Polymeric Composite Film
+Therefrom
+
+Dhanka, Mukesh; B, Prasanna Kumari; Meena, Manisha
+
+Filed
+
+Non-PFAS Based Coating Composition And A Process For Its Preparation
+
+Sett, Soumyadip; Roy, Arunima; Dutta, Mishrana; Nallana, Rahul
+
+Filed
+
+Automated Infrastructure-Independent Speed Enforcement
+
+Kulkarni, Sameer Gundurao; Nain, Garima; Singh, Ayushman
+
+Filed
+
+A Composite Material And A Process For Its Preparation
+
+Dhanka, Mukesh;Dave, Harshil; Vithalani, Hitasha
+
+Filed
+
+Arora, Amit; Deb, Sagar Kumar, Kola, Immanuel Raju; Singh, Ritu
+Filed
+
+An Alloy Composition And A Method For Its Preparation
+Reinforcement Element, Composite And Methods
+
+Basu, Dhiman; Sharma, Shivani; Tripathi, Sandesh
+
+Filed
+
+A Rolling Disk Embodied-Curve Continuum Robot
+
+Firdaus, Mohammad Modassir; Vadali, Venkata Madhukanth; Malodia,
+Harsh Suresh
+
+Filed
+
+A System And A Method For Adaptive Control Of Indoor Environmental Conditions
+
+Patel, Sameer; Mishra, Nishchaya Kumar
+
+Filed
+
+Indole-Bipyridyl Based Compounds And A Process For Their Preparation
+
+Gundimeda, Venkata Sriram Kanvah; Ghorpade, Mohini; Bera, Sayan
+
+Filed
+
+A Real-Time Ultrasound Image Processing System And A Method Thereof
+
+Shekhar, Himanshu; Agarwal, Mihir; Dhawan, Ruchika; Gandhi, Karan;
+Jain, Shreyans
+
+Filed
+
+A Method For Selective Staining Of Xylem Tissues
+
+Gundimeda, Venkata Sriram Kanvah; Bhalla, Hemal; Simran;
+Sankaranarayanan, Subramanian
+
+Filed
+
+System And Method For Shear Wave Temporal Super- Resolution Using A PhysicsGuided Complex Recurrent Neural Network
+
+Mercado-Shekhar, Karla Patricia; Shekhar, Himanshu; Chandra, Akash;
+Goukul, Surriya
+
+Filed
+
+Hydrophobic Coating Composition And A Method For Its Preparation
+
+Sett, Soumyadip; Sakshi, Sakshi
+
+Filed
+
+System And Method For Controlled And Verifiable Multi-Hop Document Retrieval
+
+Hegde, Ravi Sadananda; Tejas Sarnaik; Manan Shah
+
+Filed
+
+System For Performing Underdetermined Direction-Of- Arrival (U-Doa) Estimation
+
+Subhash, Joel; Yadav, Shekhar Kumar; George, Nithin Varghese
+
+Filed
+
+A Functionalized Coated Substrate And A Process For Its Fabrication
+
+Panda, Emila
+
+Filed
+
+A Direction-Of-Arrival (Doa) Estimation System And A Method Thereof
+
+Joel, Subhash; Yadav, Shekhar Kumar; George, Nithin Varghese
+
+Filed
+
+Agent-Driven Enterprise Quality Intelligence For Automated Non-Conformance
+Lifecycle Management And Explainable Decision Analytics
+
+Hegde, Ravi Sadananda; Sarnaik, Tejas; Shah, Manan
+
+Filed
+
+System And Method For Nonlinear Acoustic Feedback Cancellation In A Digital
+Hearing Aid
+
+Ghosh, Shouharda; George, Nithin Varghese; Meena, Tarun
+
+Filed
+
+System And Method For Robust Adaptive Filtering With Saturating Composition Cost
+Functions
+
+Ghosh, Shouharda; George, Nithin Varghese
+
+Filed
+
+Ultrasound Detection System And Method For Ultrasound Passive Cavitation
+Monitoring
+
+Shekhar, Himanshu; Suma, Manu Krishnakumar; Hegde, Ravi
+
+Filed
+
+A Smart Mobile Portable Air Cleaner
+
+Patel, Sameer; Thakur, Alok Kumar
+
+Filed
+
+Lightweight Masonry Composition, Blocks And Method Thereof
+
+Chopperla, Krishna Siva Teja; S, Sreerag C S; Sk, Rahaman
+
+Filed
+
+MOUS
+
+and strengthen academic engagement between India and Taiwan. Under the
+
+GREEN ENERGY TRANSITION RESEARCH INSTITUTE (GETRI)
+
+language and Taiwanese educational opportunities by supporting the appointment of
+
+collaboration, TECC will facilitate the dissemination of knowledge about Mandarin
+
+IITGN has signed an MoU with GETRI to strengthen capacity building in power
+
+qualified Mandarin instructors and the establishment of a Taiwan Education Centre at
+
+generation, transmission, and distribution. The partnership will support the
+
+IITGN.
+
+professional development of GUVNL and its subsidiaries’ officers, with GETRI
+facilitating training and capacity-building initiatives in consultation with GUVNL. The
+collaboration aims to enhance technical expertise, promote knowledge exchange, and
+advance Gujarat’s power sector.
+
+TOTALENERGIES GAS & POWER PROJECTS INDIA PVT LTD (TTEGPPIPL)
+
+MRS DHARMA RAJARAMAN
+An MoU and Gift Agreement between IITGN, Mrs Dharma Rajaraman, and Prof Rajat
+Moona will establish a perpetual endowment honouring Prof Vaidyeswaran Rajaraman,
+a pioneer of Computer Science in India. With a combined contribution of ₹30 lakh, the
+endowment will support the annual ‘V Rajaraman Institute Lecture’ at IITGN, featuring
+
+An agreement between IITGN and TTEGPPIPL will support technical and non-technical
+
+distinguished Indian-origin experts in Computer Science, IT, AI, and related fields,
+
+initiatives focused on student engagement, skill development, and academia-industry
+
+while preserving his legacy and promoting intellectual engagement.
+
+collaboration. The partnership will promote scientific, managerial, economic,
+marketing, and public relations capabilities, while enabling joint programmes
+with industrial relevance and societal impact, including the use of IITGN’s campus
+infrastructure for collaborative activities.
+
+SARDAR VALLABHBHAI NATIONAL INSTITUTE OF TECHNOLOGY SURAT (SVNIT)
+IITGN and SVNIT have signed an MoU to strengthen academic and research
+collaboration between the two institutes. The partnership will promote student and
+faculty exchange through initiatives such as summer research internships, semesterlong study opportunities, joint BTech–MTech dual degree programmes, and the Start
+Early PhD programme.
+
+TAIPEI ECONOMIC AND CULTURAL CENTER (TECC)
+IITGN has signed an agreement with TECC to promote Mandarin language education
+
+INDIA METEOROLOGICAL DEPARTMENT (IMD)
+The Department of Civil Engineering at IITGN and IMD have signed an agreement
+to strengthen weather forecasting and meteorological research in Gujarat. Under the
+agreement, IMD will install a C-Band Doppler Weather Radar at IITGN to enhance
+weather monitoring, forecasting, agricultural meteorology, public safety, and research.
+
+NAVNEET EDUCATION LIMITED
+IITGN has signed an MoU with Navneet Education Limited to promote academic–
+industry collaboration in AI education, teacher training, student outreach, and
+innovation. The partnership will provide IITGN students with real-world AI and
+automation projects through dedicated product labs, develop and review AI-focused
+school content, offer annual virtual AI training for students and teachers, and explore a
+national-level hackathon for school students.
+
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+
+and knowledge sharing across water, food systems, climate resilience, and ecosystem
+
+An agreement between IITGN and NIT Agartala will strengthen academic and research
+
+management. The partnership will support joint research, student internships, train-
+
+collaboration through student and faculty exchanges, including summer internships,
+
+ing programmes, seminars, and project proposals, with a focus on water resources,
+
+semester-long study opportunities, joint BTech–MTech dual degree programmes, and
+
+climate resilience, water governance, and sustainable food, land, and water systems.
+
+the Start Early PhD programme. The partnership will also facilitate short-term re-
+
+CYIENT FOUNDATION, CYIENT SEMICONDUCTORS PVT LTD
+
+search visits for NITA faculty and promote broader collaboration in areas of mutual
+interest.
+
+IITGN and Cyient Foundation, Cyient Semiconductors Pvt Ltd have partnered to support semiconductor and electronics education and research through fellowships and
+
+INTERNATIONAL WATER MANAGEMENT INSTITUTE (IWMI)
+
+research grants for selected MTech students. Cyient Semiconductors will also provide
+
+IITGN and IWMI have signed an MoU to strengthen collaboration in research, training,
+
+mentoring, training, and expert guidance for related academic and research activities.
+
+MAJOR FACILITIES
+KEYSIGHT MIXED SIGNAL OSCILLOSCOPE
+The HD304MSO Oscilloscope is a high-resolution
+
+on-board chargers (BOBC), DC-DC converters, DC-AC motor drives, and other power
+
+mixed-signal instrument designed for advanced elec-
+
+electronic components used in electric mobility and energy storage applications.
+
+tronic measurements and signal analysis. It features
+
+The instrument is installed in the Smart Power Electronics Lab (SPEL) (AB13/305).
+
+four analogue and sixteen digital channels, band-
+
+Please contact Prof Pallavi Bharadwaj (pallavib@iitgn.ac.in) for further details.
+
+widths up to 1 GHz, and a 14-bit ADC for enhanced
+signal fidelity and detection of low-amplitude signals.
+
+PROGRAMMABLE ELECTRONIC DC LOAD WITH
+
+The oscilloscope offers a maximum sample rate of 3.2
+
+ENERGY RECOVERY
+
+GSa/s, memory depth of 100 Mpts, and waveform up-
+
+The EA Elektro-Automatik ELR 10000 series is a
+
+date rates of up to 1.3 million waveforms per second, enabling detailed capture of fast
+
+programmable regenerative electronic load de-
+
+transient events. A 10.1-inch capacitive touch screen, zone triggering, and advanced
+
+signed for testing power supplies, batteries, fuel
+
+visualisation tools support efficient signal analysis across diverse electronic systems.
+
+cells, and energy storage systems. The system re-
+
+The instrument is installed in the Low-Power Circuits & IoT Systems (LP-CAS)
+
+turns absorbed DC energy to the local power grid
+
+(AB13/310). Please contact Prof Madhav Pathak (madhav.pathak@iitgn.ac.in) for further details.
+
+with efficiencies of up to 96%, reducing energy
+consumption and heat dissipation. It offers a wide operating range, with voltage ratings
+
+PROGRAMMABLE BIDIRECTIONAL DC POWER
+
+from 80 V to 2000 V and currents up to 1000 A per unit, supported by autoranging capa-
+
+SUPPLY 100V/180A/6KW
+
+up to 64 units to be combined into systems with load capacities of up to 1.92 MW, mak-
+
+The Chroma 62000D series is a programmable
+
+ing it suitable for high-power laboratory and industrial testing applications.
+
+bidirectional DC power supply designed for test-
+
+The instrument is installed in the Smart Power Electronics Lab (SPEL) (AB13/305).
+
+ing electric vehicle components, batteries, and renewable energy systems. Featuring
+
+bility for flexible operation. The series also features master-slave connectivity, enabling
+
+Please contact Prof Pallavi Bharadwaj (pallavib@iitgn.ac.in) for further details.
+
+two-quadrant operation, it functions as both a power source and an electronic load,
+allowing energy to be fed back from the device under test. The system supports battery charge/discharge evaluation, battery simulation, and testing of hybrid inverters
+and power conversion systems (PCS). It is also suitable for characterising bidirectional
+
+INDIAN INSTITUTE OF TECHNOLOGY GANDHINAGAR
+PALAJ, GANDHINAGAR, GUJARAT - 382 055

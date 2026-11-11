@@ -1,0 +1,118 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 04, 2026
+(Added during 19th January 2026 – 23rd January 2026)
+Available for the issue from 31st January 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Engineering AI systems: architecture and DevOps essentials
+Author: Bass, Len
+Publisher: New Jersey: Addison-Wesley Professional, 2025
+Call No.: 006.3 BAS
+Acc. No.: 036621
+Title: AI for physics
+Author: Knecht, Volker
+Publisher: Boca Raton: CRC Press, 2023
+Call No.: 006.31 KNE
+Acc. No.: 036620
+Title: Just enough data science and machine learning: essential tools and
+techniques
+Author: Levene, Mark
+Publisher: Hoboken, New Jersey: Addison-Wesley Professional, 2025
+Call No.: 006.31 LEV
+Acc. No.: 036622
+
+SOCIAL SCIENCE
+Title: Nunamiut ethnoarchaeology
+Author: Binford, Lewis R.
+Publisher: New York: Eliot Werner Publications Inc, 2012
+Call No.: 301.5209798 BIN
+Acc. No.: 036619
+Title: Digital shock: seven shocks that are shaping the future
+Author: Sheth, Jagdish N.
+Publisher: Colorado: Vibrant Publishers, 2025
+Call No.: 303.4834 SHE
+Acc. No.: 036607
+Title: Sheher mein gaon: culture, conflict and change in the urban villages of Delhi
+Author: Chauhan, Ekta
+Publisher: Gurugram: Vintage Books, 2025
+Call No.: 307.76954 CHA
+Acc. No.: 036618
+Title: Quantum history: a new materialist philosophy
+Author: Zizek, Slavoj
+Publisher: London: Bloomsbury Academic, 2025
+Call No.: 335.4119 ZIZ
+Acc. No.: 036608
+
+Title: Introduction to mental health
+Author: Augustus, Jo
+Publisher: London: Sage Publications, 2019
+Call No.: 362.2 AUG
+Acc. No.: 036612
+Title: Clearing the air: a hopeful guide to solving climate change in 50 questions
+and answers
+Author: Ritchie, Hannah
+Publisher: London: Chatto & Windus, 2025
+Call No.: 363.73874 RIT
+Acc. No.: 036615
+
+MATHEMATICS
+Title: Great math war: how three brilliant minds fought for the foundations of
+mathematics
+Author: Bardi, Jason Socrates
+Publisher: New York: Basic Books, 2025
+Call No.: 510.1 BAR
+Acc. No.: 036614
+
+BIOCHEMISTRY
+Title: Synthetic biology handbook
+Author: Nesbeth, Darren N. (Ed.)
+Publisher: Boca Raton: CRC Press, 2019
+Call No.: 572.86 NES
+Acc. No.: 036613
+
+MATERIALS SCIENCE
+Title: Introduction to texture analysis: macrotexture, microtexture and
+orientation mapping, 3rd ed.
+Author: Engler, Olaf
+Publisher: Boca Raton: CRC Press, 2024
+Call No.: 620.11292 ENG
+Acc. No.: 036611
+
+BIOTECHNOLOGY
+Title: Metabolic pathway engineering handbook: fundamentals
+Author: Smolke, Christina (Ed.)
+Publisher: Boca Raton: CRC Press, 2010
+Call No.: 660.65 SMO
+Acc. No.: 036609
+
+Title: Metabolic pathway engineering handbook: tools and applications
+Author: Smolke, Christina (Ed.)
+Publisher: Boca Raton: CRC Press, 2009
+Call No.: 660.65 SMO
+Acc. No.: 036610
+
+ARTS
+Title: In black and white: the authorized biography of Manjit Bawa
+Author: Puri, Ina
+Publisher: Gurgaon: Viking, 2017
+Call No.: 709.20954 PUR
+Acc. No.: 036616
+
+ARCHAEOLOGY
+Title: Hoe and the axe: an ethnohistory of shifting cultivation in Eastern India
+Author: Pratap, Ajay
+Publisher: Delhi: Aakar Books, 2025
+Call No.: 930.1341 PRA
+Acc. No.: 036617

@@ -1,0 +1,210 @@
+Title: Faculty
+Source: https://cse.iitgn.ac.in/people/faculty
+
+# Faculty
+
+Faculty are listed alphabetically within each appointment category. Select a category to narrow the directory.
+
+## Core Faculty
+
+### Abhishek Bichhawat
+
+Associate Professor
+
+Language-based security · Formal methods and verification for security · Information flow security
+
+### Adithya Kumar
+
+Assistant Professor
+
+Distributed systems · AI/ML infrastructure · Performance evaluation
+
+### Ajay Singh
+
+Assistant Professor
+
+Data Structures and Algorithms on Emerging Memory Architectures · Data Structures and Algorithms for Emerging Applications · Memory Management in Concurrent Software
+
+### Anirban Dasgupta
+
+Professor
+
+Algorithms for large scale data · Social networks · Computational social science
+
+### Balagopal Komarath
+
+Assistant Professor
+
+Circuit complexity and other low-level computational models
+
+### Bireswar Das
+
+Professor
+
+Computational complexity theory and algorithms · Algebra and computationy
+
+### Manisha Padala
+
+Assistant Professor
+
+Fairness in Machine Learning · Game Theory · Mechanism Design
+
+### Manoj D Gupta
+
+Associate Professor
+
+Dynamic graph algorithms · Streaming algorithms · Randomized algorithms
+
+### Mayank Singh
+
+Associate Professor
+
+Text mining · Natural language and processing · Machine learning
+
+### Neeldhara Misra
+
+Associate Professor
+
+Design and analysis of algorithms · Computational social choice · Extremal combinatorics
+
+### Nipun Batra
+
+Associate Professor
+
+Center for Sustainability
+
+Sensor networks · Machine learning · Computational sustainability
+
+### Rajat Moona
+
+Professor & Director
+
+Computer Architecture · VLSI Design · Operating Systems
+
+### Sameer G Kulkarni
+
+Assistant Professor
+
+Also affiliated with Electrical Engineering
+
+Network Function Virtualization · Software Defined Networking · Cloud Computing
+
+### Shouvick Mondal
+
+Assistant Professor
+
+Software Engineering using Generative AI · Empirical Software Engineering · Software Testing
+
+### Yogesh Kumar Meena
+
+Assistant Professor
+
+Human-Computer Interaction · Brain-Computer Interface · Eye Tracking
+
+## Joint Appointments
+
+Faculty with appointments shared with another department.
+
+### Shanmuganathan Raman HoD
+
+Professor
+
+Primary Affiliation: Electrical Engineering
+
+Computer Vision · Image & Video Processing · Computer Graphics
+
+### Udit Bhatia
+
+Associate Professor
+
+Primary Affiliation: Civil Engineering
+
+Physics Guided Machine Learning for Urban Flooding · Food-Water Nexus · Resilience of Built and Natural Systems
+
+## Affiliated Faculty
+
+Faculty affiliated with the CSE or AI discipline; their primary department is shown below.
+
+### Joycee M. Mekie
+
+Professor
+
+Primary Affiliation: Electrical Engineering
+
+Approximate computing · Low power SRAM · Radiation hardened systems
+
+### Krishna Prasad Miyapuram
+
+Professor
+
+Primary Affiliation: Cognitive and Brain Sciences
+
+Neuroeconomics & neuromarketing · Computational cognitive science · Neuroimaging (EEG, fMRI) & brain computer interface
+
+## Teaching Faculty
+
+### Jyothi Krishnan
+
+Assistant Teaching Professor
+
+Center for Creative Learning
+
+Mathematics · Mathematical games · Board games
+
+## Professors of Practice
+
+### Anup Kalbalia
+
+Associate Professor of Practice
+
+Systems for education: assessment infrastructure, hardened exam environments, and platforms for programming instruction and automated evaluation · Academic integrity in the age of AI: preventing misuse without surveillance-heavy or stressful exam conditions · Pedagogy of introductory CS: rethinking CS101 to teach problem-solving logic before language syntax
+
+### Manu Awasthi
+
+Associate Professor of Practice
+
+Center for Creative Learning
+
+Computer Architecture and Systems · Embedded Systems · Performance Modeling and Optimization
+
+## Visiting Faculty
+
+### Nirmal Kumar Sancheti
+
+Visiting Professor
+
+Deep Learning, Machine Learning and Design Oriented Effective Programming
+
+### Samit Bhattacharya
+
+Visiting Associate Professor
+
+## Guest Faculty
+
+### Ambarish Ojha
+
+Guest Professor
+
+### K. Gopinath
+
+Guest Professor
+
+### Madhavan Unnikrishnan Nair
+
+Guest Professor
+
+### Subir Verma
+
+Guest Professor
+
+### Venkatesh Raman
+
+Guest Faculty
+
+### Viraj Shah
+
+Guest Faculty
+
+### Yuvraj Patel
+
+Guest Assistant Professor

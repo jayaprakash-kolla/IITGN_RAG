@@ -1,0 +1,56 @@
+Title: IIT Gandhinagar | Jibaben Patel Chair in Artificial Intelligence
+Source: https://iitgn.ac.in/faculty/chairs/jibaben_ai
+
+# Faculty Chairs
+
+- Faculty Chairs
+- Jibaben Patel Chair in Artificial Intelligence
+
+## Jibaben Patel Chair in Artificial Intelligence
+
+ IIT Gandhinagar has setup this faculty chair in Artificial Intelligence in honour of Smt. Jibaben Patel through a donation by his son Dr. Jagdish Patel.
+
+ Dr. Jagdish Patel, former Chairman and Medical Director at Long Beach Memorial Medical Center, has established the Jibaben Patel Chair in Artificial Intelligence and the Jibaben Patel Faculty Chair at IIT Gandhinagar. He has also established a major endowment at the Institute to develop the Jibaben Patel Memorial Auditorium.
+
+ The Jibaben Patel Memorial Auditorium is a 300 seat auditorium at IIT Gandhinagar, which is used for classes and to host major events at the Institute.
+
+Smt. Jibaben Patel
+Smt. Jibaben Patel was born in 1910 in a small village near Khambhat. She barely had the opportunity to finish her primary schooling. She was married at the age of 15 and soon left for East Africa in a dhow, a small sailboat, with her husband.
+
+ Since they were one of the early Gujarati pioneers, she and her husband welcomed numerous Gujarati immigrant families to their home, providing free lodging and assistance until the Gujarati immigrants could find jobs to support themselves. Many of them were very grateful for the unconditional support provided by her during those difficult years. This desire to help the less fortunate was also apparent through her donations to numerous charity organizations. Nobody left her home on an empty stomach.
+
+A spirited and friendly woman, she raised six children who were all very successful. She always inspired others to work hard, be fair, and kind. She was a person for all ages, child with a child and an adult with an adult. She emigrated to USA in her sixties in 1974, where she passed away in 1999.
+
+Dr. Jagdish Patel
+
+##### Endowment
+
+Dr. Jagdish Patel was born in Kampala, Uganda of East Africa to parents whose roots lied in small villages surrounding the town of Khambhat. He went to M.S. University of Baroda and graduated from Baroda Medical College in 1967.
+
+ Read More →
+
+## Jagdish Patel
+
+Jagdish Patel was born in Kampala, Uganda of East Africa to parents whose roots lied in small villages surrounding the town of Khambhat. He went to M.S. University of Baroda and graduated from Baroda Medical College in 1967. He returned to Kampala where his family lived and interned at a local university hospital. He emigrated to USA in 1970 for his internship and residency in radiology. He did a fellowship in Ultrasound in Philadelphia and was assistant professor of radiology at Thomas Jefferson University Hospital. He went into private practice in radiology, starting with the Memorial Medical Center of Long Beach in Long Beach, Calif., in 1978. His radiology group, through mergers, became the largest radiology group of almost 95 radiologists in California covering nine hospitals and multiple imaging centers in Los Angeles. He became Chairman and Medical Director at Long Beach Memorial Medical Center, a large medical center of nearly 660 beds. During his active professional carrier, he was involved in several other successful business ventures and continues to do so post retirement.
+
+ He is currently dedicated to improving the quality of health and education in India. He has adopted some schools in India, visits them frequently, spending time in schooling activities. He also stresses non-academic aspects, such as personal cleanliness, public hygiene, public speaking and communications, women empowerment, etc. He has also contributed to the efforts of broadening the scope of services provided at Cardiac Care Center Hospital of Khambhat.
+
+ He is married to Harsha and has two daughters, who are attorneys, and a son, a radiologist, who all live in the metropolitan Los Angeles area.
+
+##### Current Occupant
+
+Dr. Mayank Singh
+Jibaben Patel Chair in Artificial Intelligence
+Associate Professor of Computer Science & Engineering
+
+ Read More →
+
+## Mayank Singh
+
+Prof Mayank Singh has been on the faculty of IIT Gandhinagar since February 2019 in the Department of Computer Science and Engineering. He received his B.Tech in Computer Science and Engineering from IIT Jodhpur and his PhD from IIT Kharagpur. Before joining IIT Gandhinagar, he worked at Infosys and later served as an Assistant Research Professor at IITGN. He is currently an Associate Professor and serves as the Coordinator of the Centre for AI-Driven Innovations at IIT Gandhinagar.
+
+Mayank’s research interests broadly lie in Natural Language Processing, with a focus on Large Language Models, multilingual and code-mixed NLP, scholarly document understanding, and data-centric AI. His work spans the full lifecycle of AI systems—from dataset creation and benchmark design to model development, evaluation, and deployment. He has contributed to major international initiatives such as BLOOM, led the development of Ganga-1B (India’s first bilingual large language model developed by an academic lab), and currently co-leads data curation and evaluation efforts for Project EKA, India’s largest indigenous foundation model initiative.
+
+Mayank leads the Lingo Research Group, a multidisciplinary team that combines machine learning, linguistics, data engineering, and systems research to build scalable and socially relevant AI technologies. His group has released numerous open-source datasets, models, and frameworks that are widely used by the research community, and has translated research outcomes into deployed systems for government and public-sector platforms.
+
+At IIT Gandhinagar, Mayank plays an active role in shaping institutional AI and digital initiatives. He previously served as the Faculty In-Charge of the Information Systems and Technology Facilities (ISTF) and continues to contribute to research infrastructure, technology translation, and academic systems. He has taught and mentored over 2000 students and supervised award-winning graduate researchers. He enjoys building AI systems from scratch—datasets included—and prefers substance over slogans.

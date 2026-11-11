@@ -1,0 +1,28 @@
+Title: Research
+Source: https://cse.iitgn.ac.in/research
+
+Research at CSE
+
+# Research
+
+ Find faculty, topics, and selected work in each area. Many faculty work across these areas.
+
+01
+
+## Theory
+
+Algorithms, complexity, combinatorics, and the mathematical foundations of computation.
+ Faculty and research
+02
+
+## Systems
+
+Computer architecture, networks, distributed systems, software engineering, security, and privacy.
+ Faculty and research
+03
+
+## AI & Machine Learning
+
+Machine learning, natural language processing, computer vision, data science, and human–computer interaction.
+ Faculty and research
+ Browse  publications  ,  funded projects  , or  patents  across the department.

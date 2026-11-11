@@ -1,0 +1,609 @@
+#flags:
+
+Tentative Courses List Sem II AY 2026-27 ( Jan 2027 -Apr 2027)
+3rd Year
+Electrical Engineering
+
+Chemical Engineering
+
+Solid State Chemistry and Applications
+
+Quantum Field Theory II
+
+Special Topics in HSS: Understanding
+and Designing Comics and Graphic
+Novels
+
+Computer Science and Engineering
+
+Vibrations
+
+Special Topics in Electrical
+Engineering: Regulation of Electric
+Sector
+
+Special Topics in Earth Sciences:
+Interpreting Animals in the Human
+Past
+
+Structural Analysis
+
+Digital Signal Processing
+
+Process Data Analytics, Optimization, and
+Control
+
+Advanced Main Group Chemistry
+
+Physics of Two-dimensional
+Materials
+
+Special Topics in HSS: Drawing
+Connections: Environmental Perception
+and Visual Anthropology
+
+Introduction to Data Structures and
+Algorithms
+
+Medical Imaging Systems
+
+Mechanical Engineering
+
+Mathematical Foundations for AI
+
+Communication Systems
+
+Financial Modeling and Engineering
+
+Introduction to Computational
+Materials Engineering
+
+3rd Year Integrated Circuit Design &
+Technology
+Integrated Circuit Fabrication Lab
+
+Nanoscale Science
+
+Non-linear Spectroscopy and its
+Applications
+Mathematics
+
+1st Year
+
+Ordinary Differential Equations ( half -sem)
+
+Principles of Artificial Intelligence
+Probability, Statistics, and Data Visualization
+Principles and Applications of Electrical
+Engineering
+The World of Engineering
+Sustainability and Environment
+Software Tools & Techniques for AI
+
+Unveiling the Semiconductor World
+Semiconductor Devices
+Structure of Materials
+
+Compilers
+
+Smart Renewable Energy Systems
+
+Combinatorics with Applications in
+Computer Science
+Advanced Algorithms
+
+VLSI System Design
+
+Battery Thermal Management (first
+half)
+Modern Control Theory
+
+Memory Device Technologies and
+Applications
+Power Management IC Design
+
+Control of Nonlinear Dynamical
+Systems
+Mechanics of Composite Materials
+
+Advanced Transportation
+Electrification Technology
+Smart Power Distribution System
+
+Medical Device: Design &
+Innovation
+Integrated Design and Manufacturing
+
+Advanced Radiating Systems
+
+Advanced Fluid Mechanics
+
+Microstructural Engineering
+
+Heat and Mass Transfer
+
+Differential Topology
+
+Group Theory for Physics
+
+Biomolecular Forensics (second half)
+
+Distributed Systems and Cloud
+Computing
+Computational Complexity Theory
+
+Power Systems
+
+Synthesis and Analysis of Mechanisms
+
+Statistical Mechanics of Liquids
+
+Graph Theory and Applications
+
+HSS, MS, Design, IN
+
+Introduction to Cell Biology
+
+Deep Learning
+
+Control Systems
+
+Mechanical Systems Design
+
+Catalyst Design for Heterogeneous
+Reactions
+
+Real Analysis of Several Variables
+
+Writing
+
+Data Structures and Algorithms II
+
+Energy Systems
+
+Applications of AI in ChE
+
+Numerical Analysis and Computing
+
+French Studies
+
+Cellular Communication
+
+Computer and Network Security
+
+3rd Year
+Materials Engineering
+Materials and Environment
+
+Integrated Principles of Chemical
+Engineering
+Molecular Simulations – Theory and
+Applications
+Chemistry
+
+Measure Theory
+
+Urdu script and poetry
+
+Database
+
+Stochastic Differential Equations
+
+Urdu poetry interpretation
+
+Protein Biologics: From Concept to
+Clinic
+AI Applications in Life Sciences
+
+Fundamentals of Wireless
+Localization
+Advanced Semiconductor Devices
+
+Convective Heat Transfer
+
+Computer Organization &
+Architecture
+3rd Year
+Artificial Intelligence
+Computer Organization &
+Architecture
+
+Ethics of AI
+
+AI for Electrical Engineering
+
+Energy Systems
+
+Functional Analysis
+
+Japanese Language for
+Beginners
+
+Metabolic Engineering
+
+Special Topics in Computer Science:
+Usable Privacy and Security
+
+Semiconductor Packaging
+
+Special Topics in Mechanical
+Engineering: Mechanics of Elastic
+Rods
+Mathematical Tools for Mechanical
+Engineers-II
+Materials Engineering
+
+Structure of Materials
+
+3rd Year Mechanical Engineering
+
+Thermodynamics
+Discrete Mathematics
+
+Ethnoarchaeology
+Environmental Economics and Natural
+Resource Management
+Biological Engineering
+
+Colloidal Domain: Where Science Meets
+Engineering
+Particulate Solids: Processing & Surface
+Engineering
+Fundamentals of Aerosol Science
+
+Mechanical Behavior of Materials
+
+Corrosion and Degradation of Materials
+
+Complex Analysis
+
+Quantum Optics
+Tools of Experimental Physics
+
+Ordinary Differential Equations
+
+Particle Physics and Gauge
+Theories
+Advanced General Relativity
+
+Introduction to Biomedical Engineering
+
+Neurophysiological Basis of Movement Matrix Methods for Signal Processing,
+Data Science, and Machine Learning
+
+Combustion
+
+Algebra II
+
+Advance Japanese Learning
+
+Methods in Structural Biology
+
+Maritime Engineering
+
+Civil Engineering
+
+Fundamentals and Applications of
+Spectroscopy
+Forensic Chemistry
+
+Theory of Partitions
+
+Mandarin for Beginners
+
+Special Topics in Biological
+Engineering: Animal Cell Culture
+Techniques
+
+Advanced Steel Design
+
+Photonics – Principles and
+Applications
+Earth Sciences
+
+Process Dynamics and Control
+
+Networks and Complex Systems
+
+Fundamentals of Analytical Chemistry
+
+Algebraic Number Theory
+
+Mandarin for Beginners - II
+
+Novel Drug Delivery Technologies:
+Fundamental Principles and
+Engineering
+
+Maritime Logistics
+
+Human Evolution
+
+Biomaterials for Tissue Regeneration
+
+Software Tools & Techniques for AI
+
+Separation Processes - II
+
+Finite Element Methods
+
+Reactions and Mechanisms in Organic
+Chemistry
+
+Matrix Analysis
+
+Sanskrit Literature
+
+Special Topics in Biological
+Engineering: Nucleic Acids Based
+Therapeutics
+
+Marine Hydrodynamics
+
+River Morphology and Ecology
+
+Process Plant Design – How to Set
+Up a Process Industry
+
+Numercial Methods (second half)
+
+Process Synthesis, Design, and
+Simulation
+
+Analysis and Design of Foundation
+Systems
+
+Inorganic Chemistry Laboratory
+
+Nonlinear Functional Analysis
+
+Perspectives in History
+
+Special Topics in Biological
+Engineering: Medical Device
+Regulations (first half)
+
+Marine Renewable Energy
+
+Quantitative Geomorphology
+
+Light Metal Alloys for Automotive
+Industry
+
+Literary Experiment in European
+Modernism
+Development Economics
+
+Cognitive Science
+
+Field Practices in Earth System
+Sciences
+Electrical Engineering
+
+Engineering Seismology and Seismic
+Hazard Analysis
+Near Surface Geophysics
+
+Principles of Digital Communcations
+
+Ocean and Global Change
+
+Advanced Signal Processing
+
+Carbonate Sedimentology
+
+2nd Year
+
+Additional Courses:
+
+Theory of Computing
+
+3rd Year
+Chemical Engineering
+Separation Processes - I
+
+Introduction to Electrodynamics
+
+Partial Differential Equations (first half)
+
+Transport Phenomena
+
+Structural Design for Fire
+
+Organic Chemistry Laboratory
+
+Introduction to Algebraic Geometry
+
+Chemical Reaction Engineering - I
+
+Integrated Chemical Engineering
+Lab-I
+Integrated Chemical Engineering
+Lab-II
+3rd Year Civil Engineering
+
+Applied Hydraulic Transients
+
+Physics
+
+Geosynthetics
+
+Analytical and Computational Chemistry
+Laboratory
+Physical Chemistry Laboratory
+
+Advanced Concrete Design
+
+Group Theory & Spectroscopy
+
+Environmental Science and
+Engineering
+Design of Reinforced Concrete
+Structures
+Geotechnical Engineering
+
+Traffic and Roadway Engineering
+
+Organometallic Chemistry
+
+Introduction to Astronomy and Space
+science
+Advanced Condensed Matter Physics
+
+AI for Civil Engineering
+
+AI in Chemistry
+
+Quantum Mechanics II
+
+Special Topics in Civil Engineering:
+Design for Dynamic Loads
+
+Chemistry of Natural Products
+
+Methods of Experimental Physics
+
+Thermodynamics
+Mechanics of Solids
+Fluid Mechanics
+Discrete Mathematics
+Biology for Engineers
+
+Quantum Technologies - Applications
+
+Writing
+
+India Through the Writer’s Eye Experimental Techniques in Cognitive
+Science
+Structures and Hydrology in
+Introduction to Cognitive Linguistics
+Ancient India
+Public Policy and its Impact
+Perception and Attention
+Evaluation
+Critical Perspectives in
+Learning and Memory
+Anthropology
+Academic Communication:
+Analysis and Modelling of Locomotion
+Argumentation and Reasoning
+
+Kinetics of Materials
+Transmission Electron Microscopy
+Semiconductor Materials and
+Fabrication Process
+Advanced Alloy Design and
+Processing
+Tribology
+
+Microelectronics Lab
+
+Climate of the Past
+
+Special Electrical Machines
+
+Surface Wettability and Adhesion
+
+Optical Communications
+
+Fluid flow and reactions in reservoir
+rocks
+Ceramics in Archaeology
+
+Nature-inspired Materials Design
+
+Vacuum Technology Laboratory
+
+4th Year
+Civil Engineering
+
+Special Topics in Civil Engineering:
+Geotechnical Infrastructure Projects
+
+Electrochemistry
+
+Statistical Mechanics
+
+Mixed Methods in Research
+
+Human Brain Mapping
+
+Power Electronic Converters
+
+Harappan Civilization
+
+Biomolecular Materials Science
+
+Integrated Circuit Fabrication Processes
+
+Construction Technology &
+Management
+
+Special Topics in Civil Engineering:
+Engineering practices in Drinking Water
+Treatment
+
+Fluorescence Spectroscopy for Chemists
+and Biologists
+
+Electronic Devices and Digital Systems
+for Physicists
+
+Special Topics in Humanities
+and Social Sciences
+
+AI & Human Cognition
+
+IC Design Laboratory
+
+Fundamentals of Structural Geology
+
+-
+
+CMOS Circuit Design
+
+3rd Year Computer Science and
+Engineering
+
+Management of Water Resources
+Systems
+
+Medicinal Chemistry for Life
+
+AI in Physics
+
+Special Topics in HSS:
+Decolonizing Social Sciences
+
+-
+
+Analog IC Design Lab
+
+AI/ML in Earth Sciences
+
+-
+
+Sustainability and Environment
+
+Computer Organization &
+Architecture
+
+Thermochemical Conversion of
+Different Wastes and Biomass
+
+Catalytic Chemistry
+
+Topics in Quantum and Statistical
+Mechanics
+
+Special Topics in HSS:
+Storytelling for the Digital Era
+
+-
+
+Electronic Instrumentation
+
+Special Topics in Earth Sciences:
+Atmospheric Physics
+
+-

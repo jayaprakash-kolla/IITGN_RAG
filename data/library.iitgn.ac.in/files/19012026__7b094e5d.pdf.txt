@@ -1,0 +1,158 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 03, 2026
+(Added during 12th January 2026 – 16th January 2026)
+Available for the issue from 24th January 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Internet stack
+Author: Tiwana, Amrit
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 004.62 TIW
+Acc. No.: 036590
+Title: Large language models
+Author: Raaijmakers, Stephan
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 006.35 RAA
+Acc. No.: 036591
+
+PSYCHOLOGY
+Title: Memory lane: the perfectly imperfect ways we remember
+Author: Greene, Ciara
+Publisher: Princeton, New Jersey: Princeton University Press, 2025
+Call No.: 153.12 GRE
+Acc. No.: 036585
+
+SOCIAL SCIENCE
+Title: India’s forgotten country: a view from the margins
+Author: Bhatia, Bela
+Publisher: Gurugram: Viking, 2024
+Call No.: 323.0954 BHA
+Acc. No.: 036606
+Title: Inflation
+Author: Olney, Martha
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 332.41 OLN
+Acc. No.: 036589
+Title: Ecotourism and sustainable development: who owns paradise?, 2nd ed.
+Author: Honey, Martha
+Publisher: Washington, D.C.: Island Press, 2008
+Call No.: 338.4791 HON
+Acc. No.: 036594
+Title: Spirit of green: the economics of collisions and contagions in a crowded
+world
+Author: Nordhaus, William D
+Publisher: Princeton: Princeton University Press, 2021
+Call No.: 338.927 NOR
+Acc. No.: 036599
+
+Title: Standards
+Author: Pomerantz, Jeffrey
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 389.6 POM
+Acc. No.: 036593
+
+ASTRONOMY & PHYSICS
+Title: On the origin of time: Stephen Hawking's final theory
+Author: Hertog, Thomas
+Publisher: London Penguin Random House, 2024
+Call No.: 523.12 HER
+Acc. No.: 036584
+Title: Machine learning for physics and astronomy
+Author: Acquaviva, Viviana
+Publisher: Princeton: Princeton University Press, 2023
+Call No.: 530.0285 ACQ
+Acc. No.: 036600
+
+BIOLOGY
+Title: Phenology
+Author: Crimmins, Theresa M.
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 578.42 CRI
+Acc. No.: 036592
+
+HUMAN PHYSIOLOGY
+Title: Biological rhythms
+Author: Forger, Daniel B.
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 612.022 FOR
+Acc. No.: 036587
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Materials: engineering, science, processing and design, 4th ed.
+Author: Ashby, Michael
+Publisher: Oxford: Butterworth-Heinemann, 2019
+Call No.: 620.11 ASH
+Acc. No.: 036595
+Title: Perspectives in antenna technology: recent advances and systems
+applications
+Author: Herd, Jeffrey S.
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 621.3824 HER
+Acc. No.: 036586
+
+WASTE MANAGEMENT
+Title: Carbon removal
+Author: Herzog, Howard J.
+Publisher: Cambridge, Massachusetts: MIT Press, 2025
+Call No.: 628.532 HER
+Acc. No.: 036588
+
+ARTS
+Title: Twists, tilings and tessellations: mathematical methods for geometric
+origami
+Author: Lang, Robert J.
+Publisher: Boca Raton: CRC Press, 2018
+Call No.: 736.982 LAN
+Acc. No.: 036597
+Title: Origami design secrets: mathematical methods for an ancient art, 2nd ed.
+Author: Lang, Robert J.
+Publisher: Boca Raton: CRC Press, 2011
+Call No.: 736.982 LAN
+Acc. No.: 036598
+
+LITERATURE
+Title: Travels in the scriptorium
+Author: Auster, Paul
+Publisher: London: Faber and Faber, 2007
+Call No.: 813.54 AUS
+Acc. No.: 036596
+Title: Aunt Julia and the scriptwriter
+Author: Llosa, Mario Vargas
+Publisher: New York: Picador, 2007
+Call No.: 863 LLO
+Acc. No.: 036601
+Title: Bad girl: a novel
+Author: Llosa, Mario Vargas
+Publisher: New York: Picador, 2006
+Call No.: 863 LLO
+Acc. No.: 036602
+Title: Feast of the Goat
+Author: Llosa, Mario Vargas
+Publisher: New York: Picador, 2001
+Call No.: 863 LLO
+Acc. No.: 036603
+
+Title: War of the end of the world
+Author: Llosa, Mario Vargas
+Publisher: New York: Picador, 2008
+Call No.: 863 LLO
+Acc. No.: 036604
+
+GEOGRAPHY & TRAVEL
+Title: Called by the hills: a home in the Himalaya
+Author: Roy, Anuradha
+Publisher: Gurugram: John Murray, 2025
+Call No.: 915.06 ROY
+Acc. No.: 036605

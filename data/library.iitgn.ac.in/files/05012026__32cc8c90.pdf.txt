@@ -1,0 +1,63 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 1, 2026
+(Added during 29th December 2025 – 2nd January 2026)
+Available for the issue from 10th January 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Data protection for software development and IT: a practical introduction
+Author: Kneuper, Ralf
+Publisher: Berlin: Springer, 2025
+Call No.: 005.8 KNE
+Acc. No.: 036568
+
+Title: Introduction of artificial intelligence, 3rd ed.
+Author: Ertel, Wolfgang
+Publisher: Wiesbaden: Springer, 2025
+Call No.: 006.3 ERT
+Acc. No.: 036570
+
+Title: Navigating uncertainty using foresight intelligence: a guidebook for scoping
+scenario options in cyber and beyond
+Author: Garvey, Bruce
+Publisher: Cham: Springer Cham, 2024
+Call No.: 006.3 GAR
+Acc. No.: 036569
+
+PSYCHOLOGY
+Title: Third ear: reflections on the art and science of listening
+Author: Rosner, Elizabeth
+Publisher: California: Counterpoint, 2025
+Call No.: 153.68 ROS
+Acc. No.: 036567
+
+LINGUISTICS
+Title: Japanese comprehensive guide N5 Kanji, vocabulary, grammar, reading, and
+listening
+Author: Hitoko, Sasaki
+Publisher: Tokyo: Ask Publishing, 2023
+Call No.: 495.682421 HIT
+Acc. No.: 036574
+Title: JLPT-Koshiki Mondaishu N5
+Author: Japan Foundation
+Publisher: Tokyo: Bonjinsha, 2012
+Call No.: 495.682421 JAP
+Acc. No.: 036573
+
+LITERATURE
+Title: William: a novel
+Author: Coile, Mason
+Publisher: New York: G.P. Putnam’s Sons, 2024
+Call No.: 813.54 COL
+Acc. No.: 036566

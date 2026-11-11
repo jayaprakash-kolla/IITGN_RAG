@@ -1,0 +1,1104 @@
+Title: Courses
+Source: https://cse.iitgn.ac.in/academics/courses
+
+Last Updated: 01 June 2026
+
+# Courses
+
+Browse the CSE course catalogue by course code, title, level, program, credit count, and semester format.
+
+Featured resources
+
+## Featured course resources
+
+Selected public resources are linked to their corresponding course catalogue entries.
+
+33 lessons
+
+ES 335Machine Learning
+
+### Machine Learning @ IIT Gandhinagar 2024
+
+Recorded lectures by Nipun Batra.
+
+Watch
+
+24 lessons
+
+ES 661Probabilistic Machine Learning
+
+### Probabilistic Machine Learning
+
+Recorded lectures by Nipun Batra.
+
+Watch
+
+31 lessons
+
+CS 330Operating Systems
+
+### Operating Systems Fall 2018 IITGN
+
+Recorded lectures by Nipun Batra.
+
+Watch
+
+GitHub repository
+
+CS 201Theory of Computing
+
+### balu/toc
+
+Repository of Theory of Computation course material and references by Balagopal Komarath.
+
+Open
+
+NPTEL playlist
+
+CS 614Advanced Algorithms
+
+### Parameterized Algorithms
+
+NPTEL course on Parameterized Algorithms by Neeldhara Misra and Saket Saurabh, closely aligned with the Advanced Algorithms course.
+
+Watch
+
+NPTEL playlist
+
+CS 392-ISpecial Topics in Computer Science: Introduction to Competitive Programming
+
+### Introduction to Competitive Programming
+
+NPTEL course on Competitive Programming by Neeldhara Misra and Arjun Arul, closely aligned with the Competitive Programming elective.
+
+Watch
+
+NPTEL playlist
+
+CS 328Introduction to Data Science
+
+### Scalable Data Science
+
+A NPTEL course by Anirban Dasgupta and Souransghu Bhattacharya, closely aligned with the Introduction to Data Science Course.
+
+Watch
+
+Lecture notes
+
+EM 614Advanced Probability and Statistics
+
+### Probability and Random Processes Lecture Notes
+
+Lecture notes by Shanmuganathan Raman.
+
+Open
+
+Showing112of 112 catalogue entries
+
+ES 417Computer Science and EngineeringL-T-P 3-0-0
+
+## 5G and Beyond: An Introduction
+
+4 credits400 levelOthersFull Semester
+Evolution, standardization, application potential in IoT,AR/VR, Smart infra and Autonomous Vehicles. Core, RAN and air interface, protocol stack andlayers; 5G physical layer, air interface and RAN: Millimeter wave propagation characteristics,Modulation and dem...
+
+Ravi Hegde, Sameer G Kulkarni
+
+CS 606Computer Science and EngineeringL-T-P 3-0-0
+
+## Advance Topics In Cryptology
+
+4 credits600 levelOthersFull Semester
+Pseudorandomness and the Blum-Micali generator; Pseudorandom function, GGMand cascade constructions; Number-theoretic constructions of pseudorandom functions; Privateinformation retrieval; Oblivious transfer; Garbled circuits and Yao&#39; s 2-party protocol; B...
+
+Prof. Souradyuti Paul
+
+CS 614Computer Science and EngineeringL-T-P 3-0-0
+
+## Advanced Algorithms
+
+4 credits600 levelOthersFull Semester
+Advanced Algorithms
+
+To be announced
+
+ES 669Computer Science and EngineeringL-T-P 3-0-0
+
+## Advanced Computer Architecture and Systems
+
+4 credits600 levelOthersFull Semester
+al context and evolution. Performance metrics and measurements, benchmarking techniques, Amdhal's law, Gustafson-Barsis law, Little's law and their implication. Instruction set Architecture, MIPS/RISC-V and CISC. Parallel Architecture: Instruction Level Parall...
+
+Sameer Kulkarni, Joycee Mekie, Rajat Moona
+
+CS 615Computer Science and EngineeringL-T-P 3-0-0
+
+## Advanced Computer Networks
+
+4 credits600 levelOthersFull Semester
+This course will introduce advanced topics and recent trends in Computer Networks, Data CenterNetworks and Future Internet.Network Softwarization: SDN and NFV:Software Defined Networking (SDN): Control and Data plane separation. Network Operating System(SDN Co...
+
+Sameer Kulkarni
+
+CS 609Computer Science and EngineeringL-T-P 3-0-0
+
+## Advanced Data Structures
+
+4 credits600 levelOthersFull Semester
+CS 609 Advanced Data Structures
+
+Prof.Manoj Guota
+
+EM 623Data Science for Decision MakingL-T-P 0-0-0
+
+## Advanced Data Visualization Techniques
+
+2 credits600 levelOthersHalf Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+EM 614Data Science for Decision MakingL-T-P 0-0-0
+
+## Advanced Probability and Statistics
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 321Computer Science and EngineeringL-T-P 3-0-0
+
+## Algorithm Analysis and Design
+
+4 credits300 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 610Computer Science and EngineeringL-T-P 3-0-0
+
+## Algorithms
+
+4 credits600 levelOthersFull Semester
+Algorithms
+
+Anirban Dasgupta
+
+CS 430Computer Science and EngineeringL-T-P 3-0-0
+
+## Algorithms for Data Science
+
+4 credits400 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+EM 621Data Science for Decision MakingL-T-P 0-0-0
+
+## Big Data Modeling and Management Systems
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 607Computer Science and EngineeringL-T-P 3-0-0
+
+## Combinatorics with Applications in Computer Science
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+Neeldhara Misra
+
+CS 327Computer Science and EngineeringL-T-P 3-0-2
+
+## Compilers
+
+5 credits300 levelOthersFull Semester
+Compilers
+
+To be announced
+
+CS 617Computer Science and EngineeringL-T-P 3-0-0
+
+## Computational Complexity Theory
+
+4 credits600 levelOthersFull Semester
+Course contents:Fundamentals: Definition of Turing Machines, Time and Space, Diagonalization, Hierarchy Theorems.Poly-time (P), Nondeterministic poly-time (NP), and completeness: Definitions of P and NP, Turing reductions and many-one reductions, NP-completene...
+
+Balagopal Komarath, Bireswar Das
+
+CS 603Computer Science and EngineeringL-T-P 3-0-0
+
+## Computational Photography
+
+4 credits600 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 431Computer Science and EngineeringL-T-P 0-0-0
+
+## Computer and Network Security
+
+4 credits400 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+ES 659Computer Science and EngineeringL-T-P 3-1-0
+
+## Computer Graphics
+
+4 credits600 levelOthersFull Semester
+Fundamentals: Review of Linear Algebra and Calculus, Projective Geometry - Coordinates and Transformations.Techniques: Graphics Pipeline, Rendering, Ray Casting, Ray Tracing, Shading and Shaders, Sampling, Anti-aliasing, Animation - Particle Systems and Collis...
+
+Shanmuganathan Raman
+
+CS 331Computer Science and EngineeringL-T-P 3-1-0
+
+## Computer Networks
+
+4 credits300 levelOthersFull Semester
+Introduction to Computer Networks: Layered Network Protocol Architectures: OSI and TCP/IP reference models. Overview of Telecommunications, Cellular networks & Internet Architecture; Physical and Link Layers: Basics of communications; Delay, Loss and Throughpu...
+
+Sameer Kulkarni
+
+CS 433Computer Science and EngineeringL-T-P 3-1-0
+
+## Computer Networks
+
+4 credits400 levelOthersFull Semester
+Introduction to Computer Networks: Layered Network Protocol Architectures: OSI and TCP/IP reference models. Overview of Telecommunications, Cellular networks & Internet Architecture. Physical and Link Layers: Basics of communications; Delay, Loss and Throughpu...
+
+Sameer Kulkarni, Anirban Dasgupta
+
+ES 336Computer Science and EngineeringL-T-P 3-1-0
+
+## Computer Organization & Architecture
+
+4 credits300 levelOthersFull Semester
+Introduction to Computer Organization; Introduction to Instruction Set Architecture (ISA); RISC vs. CISC; Performance Metrics; Instruction Representation in Computers; Addressing Modes; Computer Arithmetic; Introduction to Assembly Programming; Processor Archi...
+
+Joycee Mekie, Sameer Kulkarni, Rajat Moona
+
+ES 215Computer Science and EngineeringL-T-P 3-1-0
+
+## Computer Organization and Architecture
+
+4 credits200 levelOthersFull Semester
+Computer Organization and Architecture
+
+Manu Awasthi
+
+CS 101Computer Science and Engineering
+
+## Computer Programming and Utilization
+
+0 credits100 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 612Computer Science and EngineeringL-T-P 3-0-0
+
+## Computer Systems
+
+4 credits600 levelOthersFull Semester
+Computer Systems
+
+Manu Awasthi
+
+ES 112Computer Science and EngineeringL-T-P 2-0-2
+
+## Computing
+
+3 credits100 levelOthersFull Semester
+Elementary Programming TechniquesBuilding familiarity with instruction driven task completion using Scratch or CS Unplugged.Von Neumann architecture, the translation process for a program (Source code -> Interpreter/Compiler -> Machine code)Expressions: values...
+
+To be announced
+
+CS 619Computer Science and EngineeringL-T-P 3-0-0
+
+## CS Theory Toolkit
+
+4 credits600 levelOthersFull Semester
+Logic: Propositions, connectives, quantifiers, rules of inference, induction, strong induction, structural induction.Combinatorics: Definition of graphs and various structures in graphs. Koenig, Hall, and Menger theorems. The TONCAS (The obvious necessary cond...
+
+Bireswar Das
+
+CS 325Computer Science and Engineering
+
+## Data Management
+
+4 credits300 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 422Computer Science and EngineeringL-T-P 3-0-0
+
+## Data Mining
+
+4 credits400 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+ES 242Computer Science and EngineeringL-T-P 2-0-2
+
+## Data Structures and Algorithms I
+
+3 credits200 levelOthersFull Semester
+Data Structures and Algorithms - I
+
+Manoj Gupta
+
+ES 242(N)Computer Science and EngineeringL-T-P 3-0-2
+
+## Data Structures and Algorithms I
+
+4 credits200 levelOthersFull Semester
+C/C++: Arrays, Pointers and Structures, Multidimensional Arrays, Dynamic memory allocation. Quicksort, Mergesort, Heapsort; Basic notions of asymptotics, Stacks, Simulation of Recursive algorithms using stacks; Queues, Priority queues; Linked lists; Trees. Bin...
+
+Birsewar Das, Anirban Dasgupta, Manoj Gupta, Neeldh
+
+ES 301Computer Science and EngineeringL-T-P 3-1-0
+
+## Data Structures and Algorithms II
+
+4 credits300 levelOthersFull Semester
+Asymptotic notation (review); Recurrences; Divide and conquer : Quick sort, Merge sort, Linear-time Median finding, Strassen's matrix multiplication, Closest Pair; Greedy and Dynamic Programming, Graph Algorithms : Network flows and applications; Introduction...
+
+Anirban Dasgupta
+
+CS 432Computer Science and EngineeringL-T-P 3-0-0
+
+## Databases
+
+4 credits400 levelOthersFull Semester
+Databases
+
+To be announced
+
+ES 413Computer Science and EngineeringL-T-P 3-0-0
+
+## Deep Learning
+
+4 credits400 levelOthersFull Semester
+Fundamentals of Deep Learning: Mathematics for Deep Learning - Calculus, Matrices, and Probability. Classification and Regression Problems. Multi-Layer Perceptron (MLP), Deep MLP and Backpropagation Algorithm. Implementation - Training, Validation, and Testing...
+
+Anirban Dasgupta, Mayank Singh, Nipun Batra, Krish
+
+ES 667Computer Science and EngineeringL-T-P 3-0-0
+
+## Deep Learning
+
+4 credits600 levelOthersFull Semester
+Mathematics for Deep Learning - Calculus, Matrices, and Probability. Classification and Regression Problems. Basics of Deep Learning: Multi-Layer Perceptron (MLP), Universal Approximation Theorem, Deep MLP and Backpropagation Algorithm. Implementation - Traini...
+
+Anirban Dasgupta, Mayank Singh, Nipun Batra
+
+CS 324Computer Science and EngineeringL-T-P 2-1-0
+
+## Devising Interactive Web Applications
+
+3 credits300 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+ES 203Computer Science and EngineeringL-T-P 2-1-3
+
+## Digital Systems
+
+4 credits200 levelOthersFull Semester
+Digital Systems for EE & CSE
+
+Joycee Mekie
+
+CS 322Computer Science and EngineeringL-T-P 3-0-0
+
+## Discrete Mathematics
+
+4 credits300 levelOthersFull Semester
+Discrete Mathematics
+
+Bireswar Da
+
+ES 214Computer Science and EngineeringL-T-P 3-1-0
+
+## Discrete Mathematics
+
+4 credits200 levelOthersFull Semester
+cs 3222 of 2Context:ZO10 Replaces the course CS 322 Discrete Mathematics approved in the 4th Senate Discrete Mathematics
+
+Neeldhara Mishra
+
+CS 616Computer Science and EngineeringL-T-P 3-0-1
+
+## Distributed Systems and Cloud Computing
+
+5 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+CSE Faculty
+
+CS 333Computer Science and EngineeringL-T-P 3-0-0
+
+## Ethics of AI
+
+4 credits300 levelOthersFull Semester
+Introduction to AI Ethics and Accountabilityo Discuss the critical role ethics play in AI research and deployment, emphasizing the potential societal impactsand the necessity for responsible innovation to prevent harm and promote trust.o Identify stakeholders...
+
+P. Manisha, Neeldhara Misra, Nipun Batra, Anirban
+
+CS 621Computer Science and EngineeringL-T-P 3-0-0
+
+## Ethics of AI
+
+4 credits600 levelOthersFull Semester
+Algorithmic Fairness and Accountability, where students study operationalized fairness criteria, constrained optimization for fair models, and the socio-technical dimensions of bias through case studies in vision and NLP; the Interpretability and Explainabilit...
+
+P Manisha, Anirban Dasgupta
+
+CS 329Computer Science and EngineeringL-T-P 3-0-0
+
+## Foundations of AI: Multiagent Systems
+
+4 credits300 levelOthersFull Semester
+Introduction to AI. Flavors of AI: strong and weak, neat and scruffy, symbolicand subsymbolic, knowledge-based and data-driven. The computational metaphor. What iscomputation? Church-Turing thesis. The Turing test. Searle's Chinese room argument; Representing...
+
+Neeldhara, Nipun, Shanmuga, Mayank, Anirban, Uttam
+
+SC 240Computer Science and EngineeringL-T-P 0-0-0
+
+## Foundations of State Estimation
+
+1 credit200 levelOthersHalf Semester
+Introduction to inferencing: Statistical models, likelihood function, Fisher information, Unbiasedness, Sufficiency conditions, Hypothesis testing basics: Assessing evidence, Decision Rules, parametric and nonparametric testsBayesian parameter estimation: Baye...
+
+Dr. Bala Natarajan
+
+EM 622Data Science for Decision MakingL-T-P 0-0-0
+
+## Generative AI with Large Language Models
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 436Computer Science and EngineeringL-T-P 3-0-0
+
+## History of Computing and its Applications to Domains
+
+2 credits400 levelOthersHalf Semester
+Introduction: A Historical Perspective of Computer Systems - Hardware, Firmware and Software. Key inventions and Proliferations. Development of computer networks, Internet and computing platforms - the philosophy of computers, necessity and innovations, includ...
+
+Rajat Moona, Anirban Dasgupta, Sameer G. Kulkarni
+
+CS 435Computer Science and EngineeringL-T-P 3-0-0
+
+## Human-Computer Interaction
+
+4 credits400 levelOthersFull Semester
+Introduction: Human-Computer Interaction (HCI); the role of an effective design(example of good and bad design) in the interaction design process; Concepts:describes major design principles associated with HCI e.g., visibility, flow,affordance, metaphors, feed...
+
+Yogesh Kumar Meena
+
+CS 620Computer Science and EngineeringL-T-P 3-0-0
+
+## Incentives and Machine Learning
+
+4 credits600 levelOthersFull Semester
+Course contents: 1. Introduction to Incentives a. Multi-agent Interactions and Equilibriumb. Mechanism Design - VCGc. Optimal Auctionsd. Ad Auctions2. Machine Learning in Incentive Design a. Automated Mechanism Design (AMD) - Optimal Auctions through Deep Lear...
+
+P Manisha
+
+CS 421Computer Science and EngineeringL-T-P 2-0-2
+
+## Information Security
+
+6 credits400 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+ES 339Integrated Circuit Design and TechnologyL-T-P 0-0-3
+
+## Integrated Circuit Fabrication Lab
+
+2 credits300 levelOthersFull Semester
+Overview of cleanroom environment and classifications, Cleanroom utilities and infrastructure requirements, Standard Operating Procedures (SOPs), Safety protocols and best practices, Gowning procedures, Laboratory documentation and in-lab record keeping; Micro...
+
+Sandip Lashkare, Anagh Bhaumik, Nihar Mohapatra
+
+ES 334Computer Science and EngineeringL-T-P 2-0-3
+
+## Interface Design
+
+4 credits300 levelOthersFull Semester
+Interface Design
+
+To be announced
+
+CS 428Computer Science and EngineeringL-T-P 3-0-0
+
+## Introduction to Applied Cryptography
+
+4 credits400 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 429Computer Science and EngineeringL-T-P 3-1-0
+
+## Introduction to Computer Graphics
+
+4 credits400 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+SC 140Computer Science and EngineeringL-T-P 0-0-0
+
+## Introduction to Computer Networking
+
+1 credit100 levelOthersHalf Semester
+Introduction To Computer Networking
+
+Prof. Tannistha Samanta
+
+CS 328Computer Science and EngineeringL-T-P 3-1-0
+
+## Introduction to Data Science
+
+4 credits300 levelOthersFull Semester
+Introduction to Data Science
+
+To be announced
+
+ES 248Computer Science and EngineeringL-T-P 1-0-3
+
+## Introduction to Data Structures and Algorithms
+
+3 credits200 levelOthersFull Semester
+Basics of C and Data Structures: Data types: primitive and user-defined data types in C/C++, including those portabletypes used in embedded systems; Arrays, Pointers and Strings, Functions; Stacks, Queues, Linked List; MemoryManagement: Allocation, De-allocati...
+
+CSE faculty
+
+ES 335Computer Science and EngineeringL-T-P 3-1-0
+
+## Machine Learning
+
+4 credits300 levelOthersFull Semester
+Introduction to learning: Learning as a combination of representation, evaluationand optimization; applications of machine learningCategorization of learning (with at least one algorithm for each) regression, classification; supervised,unsupervised, semi-super...
+
+Nipun Batra, Anirban Dasgupta, Mayank Singh, Shanm
+
+ES 654Computer Science and EngineeringL-T-P 3-0-0
+
+## Machine Learning
+
+4 credits600 levelOthersFull Semester
+Machine Learning
+
+To be announced
+
+ES 678Computer Science and EngineeringL-T-P 3-1-0
+
+## Machine Learning
+
+4 credits600 levelOthersFull Semester
+Learning Foundations: Introduction and applications, learning paradigms, bias-variance tradeoff, empirical risk minimization, generalization, overfitting; Supervised Learning: linear and logistic regression, SVMs, decision trees, ensemble methods; Optimization...
+
+Anirban Dasgupta, Krishna P Miyapuram, Manisha Pad
+
+EM 619Data Science for Decision MakingL-T-P 0-0-0
+
+## Machine Learning for Predictive Analysis
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 426Computer Science and EngineeringL-T-P 3-0-0
+
+## Markov Chains and Queueing Models
+
+2 credits400 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 303Computer Science and EngineeringL-T-P 3-1-0
+
+## Mathematical Foundations for AI
+
+4 credits300 levelOthersFull Semester
+1. Refresher Module; Data representation (floating point arithmetic, underflow, overflow); Linear Algebra; Calculus (univariate calculus); basic probability2. Multivariate Calculus and Automatic Differentiation; Gradient, Jacobian, Hessian; Finite difference m...
+
+Nipun Batra, Anirban Dasgupta, Mayank Singh, Shan
+
+EM 613Data Science for Decision MakingL-T-P 0-0-0
+
+## Mathematical Models for Data Science
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+ES 333Computer Science and EngineeringL-T-P 2-1-2
+
+## Microprocessors and Embedded Systems
+
+4 credits300 levelOthersFull Semester
+Microprocessors and Embedded Systems
+
+To be announced
+
+CS 613Computer Science and EngineeringL-T-P 3-0-0
+
+## Natural Language Processing
+
+4 credits600 levelOthersFull Semester
+Natural Language Processing
+
+na
+
+CS 301Computer Science and EngineeringL-T-P 3-0-2
+
+## Operating Systems
+
+5 credits300 levelOthersFull Semester
+Operating Systems
+
+Bireswar Das
+
+CS 330Computer Science and EngineeringL-T-P 3-0-1
+
+## Operating Systems
+
+4 credits300 levelOthersFull Semester
+Operating systems basics: Evolution, history and design principles; Processes and threads: Kernel/user level operation, thread/process synchronization, system calls and APIs, interrupt handling, CPU scheduling; Memory management: virtual memory, address spaces...
+
+Sameer Kulkarni, Abhishek Bichhawat
+
+EM 618Data Science for Decision MakingL-T-P 0-0-0
+
+## Optimization for Data Science and Machine Learning
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 608Computer Science and EngineeringL-T-P 3-0-0
+
+## Optimization Methods For Machine Learning
+
+4 credits600 levelOthersFull Semester
+Optimization Methods for Machine Learning
+
+Prof. Dinesh Garg
+
+ES 645Computer Science and EngineeringL-T-P 3-0-0
+
+## Optimization Methods for Machine Learning
+
+4 credits600 levelOthersFull Semester
+Optimization Methods for Machine Learning
+
+Dinesh Garg
+
+ES 647Computer Science and EngineeringL-T-P 3-0-0
+
+## Pattern Recognition And Machine Learning
+
+4 credits600 levelOthersFull Semester
+Pattern Recognition and Machine Learning
+
+Dinesh Garg
+
+ES 119Computer Science and EngineeringL-T-P 3-0-3
+
+## Principles of Artificial Intelligence
+
+4 credits100 levelOthersFull Semester
+Introduction: Historical Perspectives, Computational Complexity and Computational Infeasibility, Problem Solving, Sorting and Searching, Games and Adversarial Search; Stochastic Systems and Decision Making: Uncertainty in AI, Bayesian Networks, Learning & Infe...
+
+Anirban Dasgupta, Krishna P Miyapuram, Manisha P
+
+ES 661Computer Science and EngineeringL-T-P 3-0-0
+
+## Probabilistic Machine Learning
+
+4 credits600 levelOthersFull Semester
+Probability refresher: Probability theory, discrete distributions, continuous distributions, joint probability distributions, sampling from different distributions (e.g. using Box-Muller transform), uncertainty modelling, information theoretic concepts: (KL-di...
+
+Anirban Dasgupta and Nipun Batra
+
+EM 615Data Science for Decision MakingL-T-P 0-0-0
+
+## Programming for Data Science
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 605Computer Science and EngineeringL-T-P 3-0-0
+
+## Randomized and Approximation Algorithms
+
+4 credits600 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 427Computer Science and EngineeringL-T-P 3-0-0
+
+## Reliability Engineering
+
+4 credits400 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+EM 624Data Science for Decision MakingL-T-P 0-0-0
+
+## Risk and Decision Analysis
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+ES 422Integrated Circuit Design and TechnologyL-T-P 3-0-0
+
+## Semiconductor Foundry Engineering
+
+4 credits400 levelOthersFull Semester
+Business Imperatives: CMOS Technology motivation & impact, the foundry ecosystem, value chain, Node Power/Performance/Area requirements; customer engagement (timeline, Ground Rule Validation and Design Rule Validation, Process Design Kit, Intellectual Property...
+
+ICDT faculty
+
+CS 424Computer Science and EngineeringL-T-P 3-0-0
+
+## Sensors, Phones and Cloud Computation applied to Hazard Mitigation
+
+2 credits400 levelOthers
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 434Computer Science and EngineeringL-T-P 3-1-0
+
+## Software Engineering and Testing
+
+4 credits400 levelOthersFull Semester
+Basics of software engineering: software versus product; why software engineering; developmentstyles; Software development life cycle: models; classic; waterfall; agile; scrum; devOps; Phases:requirement analysis; feasibility study; software design; software a...
+
+Shouvick Mondal, Sameer Gundurao Kulkarni, Abhishek Bichhawat
+
+CS 203Computer Science and EngineeringL-T-P 1-0-3
+
+## Software Tools & Techniques for AI
+
+4 credits200 levelOthersFull Semester
+Data collection and labeling: collecting data: tools for logging/instrumenting sources (e.g. website) to collect usage data; validating data; labeling data: tools such as label studio to annotate datasets, methods such as Cohen Kappa inter-annotator agreement,...
+
+All CSE + AI Faculty
+
+CS 202Computer Science and EngineeringL-T-P 2-0-3
+
+## Software Tools and Techniques for CSE
+
+4 credits200 levelOthersFull Semester
+Version controlling local, centralized, distributed; Agile development methods: Continuous integration/delivery/deployment. e.g., Git workflow, actions etc.; Makefiles and build tools: Dependency rules, macros, suffix rules etc. build tools e.g., Gradle, Apach...
+
+All CSE + AI Faculty
+
+EM 627Data Science for Decision MakingL-T-P 0-0-0
+
+## Spatial Data Science and Applications
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 391Computer Science and EngineeringL-T-P 0-0-0
+
+## Special Topics
+
+4 credits300 levelSpecial TopicsFull Semester
+Special Topics
+
+Bireswar Das
+
+CS 691Computer Science and EngineeringL-T-P 0-0-0
+
+## Special Topics in Computer Science
+
+4 credits600 levelSpecial TopicsFull Semester
+Special Topics in Computer Science
+
+Anirban Dasgupta, Nipun Batra, Mayank Singh, Shanm
+
+CS 491Computer Science and Engineering
+
+## Special Topics in Computer Science and Engineering
+
+4 credits400 levelSpecial Topics
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced
+
+CS 691-IVComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Advanced Machine Learning
+
+4 credits600 levelSpecial TopicsFull Semester
+Learning Theory Reinforcement Learning Deep Learning Bayesian optimization Graphical models
+
+Anirban Dasgupta, Nipun Batra
+
+CS 691-XIXComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: AI for Social Good
+
+4 credits600 levelSpecial TopicsFull Semester
+Topics will span a wide array of AI domains such as but limited to:- Healthcare: AI for diagnosis, personalised medicine, public health monitoring, and remote care- Environment and Sustainability: AI in climate modelling, pollution monitoring, energy efficienc...
+
+Nipun Batra, Udit Bhatia
+
+CS 691-VIIIComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Algebraic Complexity Theory
+
+4 credits600 levelSpecial TopicsFull Semester
+Special Topics in Computer Science: Algebraic Complexity Theory
+
+Balagopal Komarath
+
+CS 691-XVIIIComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Applications of Linear Algebra to Combinatorics
+
+4 credits600 levelSpecial TopicsFull Semester
+This course explores applications of tools from linear algebra in combinatorics, geometry, algorithms, and graph theory. We will emphasize proofs and proof techniques. The goal is to use the applications as a backdrop to practice and review linear algebra skil...
+
+Neeldhara Misra
+
+CS 691-XVIIComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Combinatorial and Computational Aspects of Games
+
+4 credits600 levelSpecial TopicsFull Semester
+Combinatorial Games: Game Trees, Zermelo's Theorem, StrategyNormal-Play Games: Positions and Their Types, Sums of Positions, EquivalenceImpartial Games: Nim, The Sprague-Grundy Theorem, Applying the MEX PrincipleHackenbush and Partizan Games: Hackenbush, Dyadi...
+
+Prof. Neeldhara Misra
+
+CS 691-VIIComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Complexity Theory
+
+4 credits600 levelSpecial TopicsFull Semester
+Special Topics in Computer Science: Complexity Theory
+
+Prof. Bireswar and Prof. Balagopal
+
+CS 691-IIComputer Science and EngineeringL-T-P 0-0-0
+
+## Special Topics in Computer Science: Computer Algebra
+
+4 credits600 levelSpecial TopicsFull Semester
+Special Topics in Computer Science: Computer Algebra
+
+Bireswar Das
+
+CS 692-IComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Congestion Control
+
+2 credits600 levelSpecial TopicsHalf Semester
+Summary of the course:A current and concise exposition of some of the most important topics in the area of congestion control for computer networks, with special emphasis on analytical modeling of congestion control systemsAccessible coverage of the advanced t...
+
+Subir Varma, Sameer G Kulkarni
+
+CS 691-XXComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Cyber Physical Systems for Industrial Applications
+
+2 credits600 levelSpecial TopicsHalf Semester
+The course provides an overview of the underlying principles of this future evolution towards cyber-physical networks, whilealso discussing open research problems and societal implications of such networks.1. Cyber-Physical Systems (CPS) in the real world, CPS...
+
+Lalit Singh
+
+CS 691-XComputer Science and EngineeringL-T-P 3-1-0
+
+## Special Topics in Computer Science: Deep Learning
+
+4 credits600 levelSpecial TopicsFull Semester
+Special Topics in Computer Science: Deep learning
+
+Shanmuganathan Raman
+
+CS 691-VComputer Science and EngineeringL-T-P 0-0-0
+
+## Special Topics in Computer Science: Graph Theory and Graph Algorithms
+
+4 credits600 levelSpecial TopicsFull Semester
+Special Topics in Computer Science: Graph theory and graph algorithms
+
+Anirban Dasgupta, Bireswar Das, Manoj Gupta
+
+CS 392-IComputer Science and EngineeringL-T-P 3-0-3
+
+## Special Topics in Computer Science: Introduction to Competitive Programming
+
+2 credits300 levelSpecial TopicsHalf Semester
+This is a course focused on teaching algorithms and data structures through problem solving. Students will be solving andcoding up solutions to various basic algorithmic and data structure related problems, from the lens of competitiveprogramming. Familiarizin...
+
+All CSE and CSE adjacent faculty members
+
+CS 691-IIIComputer Science and EngineeringL-T-P 0-0-0
+
+## Special Topics in Computer Science: Learning from Data
+
+4 credits600 levelSpecial TopicsFull Semester
+The course will involve reading of the book by Gilbert Strang on the topic followed by presentations on individual topics for evaluation.
+
+Shanmuganathan Raman
+
+CS 691-XIComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Learning with Graphs
+
+4 credits600 levelSpecial TopicsFull Semester
+Graph clustering: spectral clustering, clustering for streaming graphsRandom walks: convergence properties, connections with eigenvalues, Pagerank and its variants, personalized PageRank, MCMC, clustering using random walksGraph sampling and estimation: estima...
+
+Manoj Agarwal, Anirban Dasgupta, Nipun Batra, Shan
+
+CS 691-VIComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Parameterized Algorithms
+
+4 credits600 levelSpecial TopicsFull Semester
+Special Topics in Computer Science: Parameterized Algorithms
+
+Neeldhara Misra
+
+CS 691-XIIComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Probabilistic Machine Learning
+
+4 credits600 levelSpecial TopicsFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+Prof. Nipun Batra
+
+CS 691-IComputer Science and EngineeringL-T-P 0-0-0
+
+## Special Topics in Computer Science: Social Networks
+
+4 credits600 levelSpecial TopicsFull Semester
+Introduction Handling Real-world Network DatasetsStrength of Weak TiesStrong and Weak Relationships (Continued) & Homophily Homophily Continued and +Ve / -Ve Relationships Link Analysis Cascading Behaviour in NetworksLink Analysis (Continued) Power Laws and Ri...
+
+Neeldhara Misra
+
+CS 691-XIIIComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Transformers and GNNs
+
+4 credits600 levelSpecial TopicsFull Semester
+Course contents:Word Representation in Vector Space- Representation of words and phrases, Negative Sampling; Algebraic structure of Word Sense - Dimensionality of Word EmbeddingsAnatomy of a Transformers - attention mechanism. Text Generation: Greedy Search De...
+
+Prof. Manoj Aggarwal
+
+CS 691-IXComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Ubiquitous Computing
+
+4 credits600 levelSpecial TopicsFull Semester
+The aim of this class will be to introduce the students to ubiquitous computing. We will focus on howtraditional topics of computing have evolved to support the vision of a connected, portable, and a human-centric computing environment. Thus, this course will...
+
+Nipun Batra
+
+CS 691-XVComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Understanding Large Language Models
+
+4 credits600 levelSpecial TopicsFull Semester
+Introduction:1. Word Representation in Vector Space 1.1. Representation of words and phrases 1.2. Algebraic structure of Word Sense 1.3. Dimensionality of Word Embeddings2. Text Generation 2.1 Greedy Search Decoding 2.2 Beam Search Decoding 2.3 Sampling Method...
+
+To be announced
+
+CS 691-XIVComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Usable Privacy and Security
+
+4 credits600 levelSpecial TopicsFull Semester
+The aim of this course is to provide a user-focused view of security and privacy in systems. This wouldinclude topics related to secure systems and their usability analysis. We will discuss the state-of-the-artworks in the area of usable security to understand...
+
+Abhishek Bichhawat
+
+CS 691-XVIComputer Science and EngineeringL-T-P 0-0-3
+
+## Special Topics in Computer Science: User Studies for Privacy & Security
+
+4 credits600 levelSpecial TopicsFull Semester
+The aim of this course is to perform field studies to understand the normal users' view of security and privacy in systems. The students would perform user studies involving institute personnel for different problem statements as part of the course. There woul...
+
+Abhishek Bichhawat
+
+CS 691-XXIComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Verification and Validation of Safety-Critical Software Systems
+
+4 credits600 levelSpecial TopicsFull Semester
+Introduction to Safety Critical Systems and Industry 5.0: Fundamental concepts of safety criticalsystems along with examples (aerospace, automotive, medical devices, nuclear, industrial automation).The evolution from Industry 4.0 to Industry 5.0 - core princip...
+
+Lalit Kumar Singh
+
+CS 391-IComputer Science and EngineeringL-T-P 3-0-0
+
+## Special Topics in Computer Science: Virtual & Augmented Reality Systems
+
+2 credits300 levelSpecial TopicsHalf Semester
+The course intends to build foundation in the area of Extended Reality, covering virtual, augmented and mixed reality. The topics to be covered include introduction to the field, the hardware and software used to build and deploy such systems, understanding an...
+
+Prof Samit Bhattacharya
+
+CS 618Computer Science and EngineeringL-T-P 3-0-0
+
+## Theoretical Foundations of Machine Learning
+
+4 credits600 levelOthersFull Semester
+Concentration of measure - various concentration inequalities; PAC learning,VC dimension, Rademacher complexity, generalization bounds, sample complexity.Generalization in deep learning setting - double descent; Optimization - random projection,randomized nume...
+
+Anirban Dasgupta, Nipun Batra, Mayank Singh, Shanm
+
+CS 201Computer Science and EngineeringL-T-P 3-1-0
+
+## Theory of Computing
+
+4 credits200 levelOthersFull Semester
+Finite Automata and Regular Languages: Deterministic and Nondeterministicfinite automata and their equivalence, Pumping lemma, the Myhill-Nerode Theorem; PushdownAutomata (PDA) and Context free languages (CFL): Context free grammars (CFG), normal forms,variant...
+
+Bireswar Das, Balagopal Komarath, Anirban Dasgupta
+
+EM 616Data Science for Decision MakingL-T-P 0-0-0
+
+## Time Series Analysis
+
+4 credits600 levelOthersFull Semester
+Detailed syllabus text is not available in the current catalogue extract.
+
+To be announced

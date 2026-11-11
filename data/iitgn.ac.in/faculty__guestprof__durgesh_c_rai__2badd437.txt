@@ -1,0 +1,37 @@
+Title: IIT Gandhinagar | Durgesh C. Rai
+Source: https://iitgn.ac.in/faculty/guestprof/durgesh_c_rai
+
+# Durgesh C. Rai
+
+-  Guest Professors
+Durgesh C. Rai
+
+## Durgesh C. Rai
+
+Guest Professor, Civil Engineering
+Professor, Indian Institute of Technology, Kanpur
+
+- BE (Hons.): Regional Engineering College, Tiruchirapalli, 1989
+- MS: University of Oklahoma, Norman, OK (USA), 1992
+- PhD: University of Michigan, Ann Arbor, MI (USA), 1996
+
+Email: dcrai -AT- iitgn.ac.in
+
+- Bose, S. and Rai, D. C. (2015). “Lateral load behavior of open ground story RC building with AAC infills in upper stories,” Earthquake Spectra, Earthquake Engineering Research Institute (EERI).
+- Singhal, V. and Rai, D. C. (2016). “In-plane and out-of-plane behavior of confined masonry walls for various toothing and openings details and prediction of their strength and stiffness,” Earthquake Engineering & Structural Dynamics, J. of Intnl. Assoc. of Earthquake Engrg., John Wiley, [DOI: 10.1002/eqe.2783], 19 p.
+- Rai, D. C., Singhal, V., Pradhan, T. and Tripathi, A. (2016). “Seismic Vulnerability of monastery temples of stone masonry in Sikkim Himalayas,” Current Science, vol. 110, no. 10, 1947-57.
+- Rai, D. C., Singhal, V., Bhushan, R. S. and Sagar, S. L. (2015). “Reconnaissance of the effects of the M7.8 Gorkha (Nepal) Earthquake of April 25, 2015,” Geomatics, Natural Hazards and Risk, Taylor & Francis, 1-15.[ doi:10.1080/19475705.2015.1084955].
+- Rai, D. C., Singhal, V., Bhushan, R. S. and Sagar, S. L. (2015). “Performance of residential buildings during M7.8 Gorkha (Nepal) Earthquake,” Current Science, vol. 109, no. 11, 2126-2135 [doi: 10.18520/v109/i11/2126-2135].
+
+- Visiting Professor, Indian Institute of Technology, Gandhinagar (July 2017 - Nov 2017)
+- Professor, Indian Institute of Technology, Kanpur (2010 - present)
+- Associate Professor, Indian Institute of Technology, Kanpur (2005 - 2010)
+- Assistant Professor, Indian Institute of Technology, Kanpur (2002 - 2005)
+- Assistant Professor, Indian Institute of Technology, Roorkee (1999 - 2001)
+- Lecturer, Indian Institute of Technology, Roorkee (1997 - 1999)
+- Research Fellow, University of Michigan, Ann Arbor, USA (1996 - 1997)
+
+- ● Experimental seismic behavior of structures
+- ● Seismic evaluation and strengthening
+- ● Energy dissipation devices
+- ● Masonry and Steel-RC composite members

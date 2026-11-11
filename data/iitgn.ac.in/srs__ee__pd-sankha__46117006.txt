@@ -1,0 +1,41 @@
+Title: IIT Gandhinagar | Sankha Subhra Bhattacharjee
+Source: https://iitgn.ac.in/srs/ee/pd-sankha
+
+# Sankha Subhra Bhattacharjee
+
+- Senior Research Staff
+Sankha Subhra Bhattacharjee
+
+## Sankha Subhra Bhattacharjee
+
+Post-Doctoral Fellow, Electrical Engineering
+
+- BTech: NIT Agartala, 2015
+- PhD: IIT Gandhinagar, 2020
+
+Email: sankha.bhattacharjee -AT- iitgn.ac.in
+
+Website :  https://sites.google.com/iitgn.ac.in/sankha/home
+
+Work experience
+
+- Post-Doctoral Fellow, Indian Institute of Technology, Gandhinagar (2020 to present)
+
+Selected Publications
+
+S. S. Bhattacharjee, K. Kumar and N. V. George, “Nearest Kronecker Product Decomposition based Generalized Maximum Correntropy and Generalized Hyperbolic Secant Robust Adaptive Filters,” IEEE Signal Processing Letters, DOI: 10.1109/LSP.2020.3017106, In Press, 2020.
+
+S. S. Bhattacharjee and N. V. George, "Nonlinear System Identification using Exact and Approximate Improved Adaptive Exponential Functional Link Networks," IEEE Transactions on Circuits and Systems II: Express Briefs, DOI: 10.1109/TCSII.2020.2983128, In Press, 2020.
+
+V. Patel, S. S. Bhattacharjee, and N. V. George, “Convergence Analysis of Adaptive Exponential Functional Link Network,” IEEE Transactions on Neural Networks and Learning Systems, DOI: 10.1109/TNNLS.2020.2979688, In Press, 2020.
+
+S. S. Bhattacharjee, D. Ray and N. V. George, “Adaptive Modified Versoria Zero Attraction Least Mean Square Algorithms,” IEEE Transactions on Circuits and Systems II: Express Briefs, DOI: 10.1109/TCSII.2020.2999886, In Press, 2020.
+
+A. Gotmare, S. S. Bhattacharjee, R. Patidar, and N. V. George, "Swarm and evolutionary computing algorithms for system identification and filter design: A comprehensive review", Swarm and Evolutionary Computation, 32:68 84, 2017.
+
+S. S. Bhattacharjee, and N. V. George, “Nearest Kronecker product decomposition based normalized least mean square algorithm,” in ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 476-480, DOI:\ 10.1109/ICASSP40776.2020.9053421.
+
+- ● Adaptive Signal Processing
+- ● Evolutionary Computing
+- ● Hearing Aids
+- ● Active Noise Control

@@ -1,0 +1,461 @@
+#flags:
+
+CDS Student Team 2025-26
+Core Team
+S. No.
+1
+2
+3
+4
+5
+
+Position
+Student Placement Manager
+Placements Coordinator 1
+Placements Coordinator 2
+Internships Coordinator
+Internal Coordinator
+
+Name
+Farhan Obaid
+Harsh Jain
+Vansh Rastogi
+Shardul Junagade
+Atharva Bodhale
+
+Program
+B.Tech.
+B.Tech. - Dual Majors
+B.Tech.
+B.Tech.
+B.Tech.
+
+Branch
+Mechanical Engineering
+Materials Engineering, Electrical Engineering
+Chemical Engineering
+Computer Science and Engineering
+Chemical Engineering
+
+Year
+4th Year
+4th Year
+3rd Year
+3rd Year
+4th Year
+
+Email ID
+farhan.obaid@iitgn.ac.in
+harsh.jain@iitgn.ac.in
+23110352@iitgn.ac.in
+23110297@iitgn.ac.in
+atharva.bodhale@iitgn.ac.in
+
+Roll No.
+Contact No.
+22110081
+7667336359
+22110093
+9881467068
+23110352
+8126075531
+23110297
+9833529375
+22110043
+9022508427
+
+Name
+Venkatakrishnan E
+Hasan Ali
+Aditya Baderia
+Shriniket Behera
+Aayush More
+Isha Agarwal
+Yashvi Kothiya
+Sneha Bahadur
+Manmohan Singh
+Ishika Patel
+Arin Mehta
+Atharva Zagade
+Aakash Venkatesan
+
+Program
+B.Tech.
+B.Tech.
+B.Tech.
+B.Tech.
+B.Tech.
+B.Tech.
+B.Tech.
+B.Tech.
+B.Tech.
+B.Tech. - Dual Majors
+B.Tech.
+B.Tech.
+B.Tech.
+
+Branch
+Artificial Intelligence
+Electrical Engineering
+Electrical Engineering
+Electrical Engineering
+Mechanical Engineering
+Chemical Engineering
+Chemical Engineering
+Chemical Engineering
+Electrical Engineering
+Chemical Engineering, Computer Science and Engineering
+Computer Science and Engineering
+Chemical Engineering
+Mechanical Engineering
+
+Year
+3rd Year
+3rd Year
+3rd Year
+3rd Year
+3rd Year
+3rd Year
+3rd Year
+3rd Year
+3rd Year
+3rd Year
+3rd Year
+3rd Year
+3rd Year
+
+Email ID
+23110357@iitgn.ac.in
+23110133@iitgn.ac.in
+23110015@iitgn.ac.in
+23110306@iitgn.ac.in
+23110004@iitgn.ac.in
+23110139@iitgn.ac.in
+23110369@iitgn.ac.in
+23110313@iitgn.ac.in
+23110198@iitgn.ac.in
+23110140@iitgn.ac.in
+23110038@iitgn.ac.in
+23110372@iitgn.ac.in
+
+Roll No.
+Contact No.
+23110357
+9731669548
+23110133
+9302155708
+23110015
+7058650159
+23110306
+7978974631
+23110004
+6355393215
+23110139
+8529285541
+23110369
+9824543054
+23110313
+9910375123
+23110198
+9429644300
+23110140
+9987174207
+23110038
+9512800200
+23110372
+9022004373
+8015139540
+
+Name
+Devashish
+Ujas Shah
+Raj Bahadur
+Raj Modi
+Vinay Kumar Sahu
+Dhruv Anil Gupta
+Atharv Phadnis
+
+Program
+B.Tech.
+B.Tech
+M.Sc.
+B.Tech.
+B.Tech.
+B.Tech.
+B.Tech.
+
+Branch
+Artificial Intelligence
+Computer Science and Engineering
+Physics
+Computer Science and Engineering
+Integrated Circuit Design and Technology
+Mechanical Engineering
+Materials Engineering
+
+Year
+2nd Year
+2nd Year
+2nd Year
+2nd Year
+2nd Year
+2nd Year
+2nd Year
+
+Email ID
+24110104@iitgn.ac.in
+24110376@iitgn.ac.in
+24510103@iitgn.ac.in
+24110282@iitgn.ac.in
+24110386@iitgn.ac.in
+24110108@iitgn.ac.in
+24110059@iitgn.ac.in
+
+Roll No.
+24110104
+24110376
+24510103
+24110282
+24110386
+24110108
+24110059
+
+Saksham Chaurasia
+Krish Hitesh Goradia
+Chaitanya Yogesh Bhoite
+Akshat Agarwal
+Lavanya Gupta
+Prakhar Singh Rajput
+
+B.Tech. - M.Tech. Dual degree
+B.Tech.
+B.Tech.
+B.Tech.
+B.Tech.
+M.Tech.
+
+Computer Science and Engineering
+Artificial Intelligence
+Artificial Intelligence
+Chemical Engineering
+Chemical Engineering
+Materials Engineering
+
+2nd Year
+2nd Year
+2nd Year
+2nd Year
+2nd Year
+2nd Year
+
+24110312@iitgn.ac.in
+24110170@iitgn.ac.in
+24110086@iitgn.ac.in
+24110018@iitgn.ac.in
+24110184@iitgn.ac.in
+24210072@iitgn.ac.in
+
+24110312
+24110170
+24110086
+24110018
+24110184
+24210072
+
+Name
+Sheetal
+Amritkumar Singh
+Harshal Kundanlal Rana
+Mitesh V Chauhan
+
+Program
+B.Tech.
+B.Tech.
+B.Tech. - M.Tech. Dual Degree
+B.Tech.
+
+Branch
+Chemical Engineering
+Electrical Engineering
+Computer Science and Engineering
+Civil Engineering
+
+Year
+2nd Year
+1st Year
+1st Year
+1st Year
+
+Email ID
+23110299@iitgn.ac.in
+24110341@iitgn.ac.in
+24110131@iitgn.ac.in
+24110088@iitgn.ac.in
+
+Roll No.
+23110299
+24110341
+24110131
+24110088
+
+Name
+Purva Shah
+Venugopal Bhamidi
+Bitan Koley
+Nabendu Das
+Raj Bahadur
+Manish Shirke
+Monika Sharma
+
+Program
+B.Tech.
+M.Tech.
+M.Tech.
+M.Tech.
+M.Sc.
+M.Sc.
+M.A.
+
+Branch
+Chemical Engineering
+Artificial Intelligence
+Electrical Engineering
+Biological Sciences and Engineering
+Physics
+Mathematics
+Humanities and Social Sciences
+
+Year
+3rd Year
+1st Year
+1st Year
+1st Year
+1st Year
+2nd Year
+1st Year
+
+Email ID
+purva.shah@iitgn.ac.in
+24250106@iitgn.ac.in
+24250029@iitgn.ac.in
+24250059@iitgn.ac.in
+24510103@iitgn.ac.in
+24510065@iitgn.ac.in
+24520028@iitgn.ac.in
+
+Roll No.
+Contact No.
+22110207
+9909104987
+24250106
+9398060764
+24250029
+8195861681
+24250059
+8240557178
+24510103
+8584802584
+24510065
+8411934748
+24520028
+9728951743
+
+Senior Team
+S. No.
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+Domain
+CSE/AI
+EE/ICDT
+EE/ICDT
+EE/ICDT
+ME
+CL
+CL + CE
+CL + CE
+Finance
+Non-Engineering
+Startups
+Consulting
+ME
+
+Junior Team
+S. No.
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+Contact No.
+8851354454
+9429968784
+8584802584
+9324533368
+9301673351
+9137347962
+7387829331
+8249278378
+8369609328
+7048308126
+9106648715
+9423597735
+9691703916
+
+Social Media Team
+S. No.
+32
+33
+34
+35
+
+Position
+Social Media Lead
+Social Media Team Member 1
+Social Media Team Member 2
+Social Media Team Member 3
+
+Contact No.
+9351715100
+9725181119
+6358121106
+8511007867
+
+Branch Representatives
+S. No.
+36
+37
+38
+39
+40
+41
+42
+
+Position
+Branch Rep
+Branch Rep
+Branch Rep
+Branch Rep
+Branch Rep
+Branch Rep
+Branch Rep

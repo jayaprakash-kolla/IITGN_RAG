@@ -1,0 +1,45 @@
+Title: IIT Gandhinagar | Pankaj Jalote
+Source: https://iitgn.ac.in/faculty/dhp/pankaj
+
+# Pankaj Jalote
+
+-  Distinguished Honorary Professors
+Pankaj Jalote
+
+## Pankaj Jalote
+
+Distinguished Honorary Professor, Computer Science Engineering
+
+B.Tech.:Electrical Engineering, Indian Institute of Technology, Kanpur, India, May 1980
+M.S.:Pennsylvania State University, University Park, October 1982
+PhD: University of Illinois at Urbana-Champaign, October 1985
+
+Books
+
+- Building Research Universities in India, SAGE, Nov 2020. The book is based on the experience of building IIIT-Delhi into a respected research university.
+- P. Jalote, A Concise Introduction to Software Engineering, Springer, 2008, Indian edition published by Wiley India.
+- P. Jalote, An Integrated Approach to Software Engineering, Springer, Third Edition, 2005. (Indian Edition by Narosa. Recognized as best selling CS book by Narosa in 2002.)
+- P. Jalote, Software Project Management in Practice, Addison Wesley, 2002 (Low Priced Edition by Pearson India, 2002, French translation, Sept 2002, Chinese translation, 2003.)
+- P. Jalote, CMM in Practice: Processes for executing software projects at Infosys, Addison Wesley, 1999. (Low Priced Edition by Pearson India, 2000, Chinese translation, Sept 2002, Korean Translation, Sept 2002, Japanese Translation, Oct 2002.)
+
+Book Chapters
+
+- P. Jalote, A. Palit, P. Kurien, “The Timeboxing process model for iterative software development”, in Advances in Computers, 2004, Vol 62, pp 67-103.
+- P. Jalote, “Knowledge Infrastructure for Project Management”, in Managing Software Engineering Knowledge, A. Aurum, R. Jeffery, et. al. (eds), Springer Verlag, 2004.
+
+Distinguished Honorary Professor, IIT Gandhinagar (Sep 2025 - Present)
+Distinguished Professor, IIIT-Delhi (Sep 2018 - Sep 2025)
+Founding Director, IIIT-Delhi (2008 - 2018)
+
+Awards
+
+- Fellow, IEEE (Institute of Electrical and Electronics Engineers), 2003, “for contributions to software process, fault tolerant computing, and software engineering education”.
+- Fellow, INAE (Indian National Association of Engineering), 2011.
+- Fellow, Computer Society of India (CSI), 2012.
+- Fellow, Institution of Electronics and Telecommunications Engineers (IETE), 2002.
+- Silver Jubilee Award for Best Selling Author by Narosa 2002 for An Integrated Approach to Software Engineering.
+- Infosys Managerial Award, 1997-98, for spearheading the quality efforts.
+
+- ● AI in Software Engineering
+- ● Open Source Software Engineering
+- ● Software process

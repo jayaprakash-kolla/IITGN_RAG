@@ -1,0 +1,49 @@
+Title: IIT Gandhinagar | Dr. Manu Awasthi
+Source: https://iitgn.ac.in/faculty/cse/fac-manu
+
+# Manu Awasthi
+
+-  Computer Science & Engineering
+Manu Awasthi
+
+## Manu Awasthi
+
+Associate Professor of Practice, Computer Science and Engineering
+
+- B.Tech: Institute of Technology, Banaras Hindu University
+- PhD: University of Utah
+
+Email: manu.awasthi -AT- iitgn.ac.in
+
+Office:  AB 13/401E
+
+Hardware-Software Co-Design of a Collaborative DNN Accelerator for 3D Stacked Memories with Multi-Channel Data, Tom Glint Issac, Manu Awasthi , Joycee Mekie, Asia and South Pacific Design Automation Conference, (ASP-DAC ‘24), January, 2024.
+
+CANSim: When to Utilize Synchronous and Asynchronous Routers, Tom Glint Issac, Manu Awasthi , Joycee Mekie, Asia and South Pacific Design Automation Conference, (ASP-DAC ‘24), January, 2024.
+
+Analysis of Quantization Across DNN Accelerator Architecture Paradigms, Tom Glint Issac, Chandan Kumar Jha, Manu Awasthi , Joycee Mekie, IEEE Conference on Design Automation and Test in Europe (DATE ‘23), Late Breaking Results Track, April, 2023.
+
+REDRAW: Fast and Efficient Hardware Accelerator with Reduced Reads And Writes for 3D UNet, Tom Glint Issac, Manu Awasthi , Joycee Mekie, IEEE Conference on Design Automation and Test in Europe (DATE ‘23), April, 2023.
+
+Analysis of Conventional, Near-Memory, and In-Memory DNN Accelerators, Tom Glint Issac,Chandan Kumar Jha, Manu Awasthi , Joycee Mekie, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS ‘23), Poster Track, April, 2023.
+
+Verifiable and Practical Compliance for Data Privacy Laws, Manu Awasthi , Workshop on Data Fabric for Hybrid Clouds, (co-located with IEEE HiPC), (WDFHC ‘22), December 2022.
+
+HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy, Sarabjeet Singh, Neelam Surana,Kailash Prasad, Pranjali Jain, Joycee Mekie, Manu Awasthi , ACM Transactions on Architecture and Code Optimization, November 2022
+
+- Associate Professor of Practice, Indian Institute of Technology Gandhinagar (December 2025 to Present)
+- Director, Infrastructure and Advanced Development, Amuse Labs,Bangalore, Karnataka (September 2023 - December 2025)
+- Visiting Researcher, Amuse Labs Bangalore, Karnataka (September 2021 - April 2022)
+- Associate Professor, Ashoka University (August 2018 - January 2026)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (November 2016 - August 2018)
+- System Architect, Memory Solutions Lab, Samsung Semiconductor San Jose, CA (December 2013 - September 2016)
+- Engineer Architect, Architecture Development Group, Micron Semiconductor Boise, ID (October 2011 - December 2013)
+
+- ● Computer Architecture and Systems
+- ● Embedded Systems
+- ● Performance Modeling and Optimization
+- ● Software Engineering
+- ● Cloud Computing
+- ● Cloud Economics
+
+Complete List of Publications

@@ -1,0 +1,29 @@
+Title: Campus | IIT Gandhinagar
+Source: https://campus.iitgn.ac.in/waste.php
+
+### Waste Management Guidelines
+
+-  Segregation of waste is compulsory (for residents and visitors)
+
+##### Green Waste
+
+Output:Electricity and Manure
+
+- Goes directly to the biogas plant
+- No paper, plastic, wrappers, disposable cups, etc.
+
+##### Red Waste
+
+Output:Landfill
+
+- Goes to landfill and harms the environment
+- If unsure, put waste in this category
+
+##### Blue Waste
+
+Output:Recycled Products
+
+- Sent to recycling centers
+- No wet or contaminated paper/plastic
+
+ Click image to view full waste segregation poster

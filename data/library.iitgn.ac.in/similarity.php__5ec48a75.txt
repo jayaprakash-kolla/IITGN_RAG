@@ -1,0 +1,8 @@
+Title: Library | IIT Gandhinagar
+Source: https://library.iitgn.ac.in/similarity.php
+
+## Similarity Checking Service
+
+ Library offers Plagiarism Checking Service using a ‘Turnitin’ tool to its registered users at IITGN. Turnitin is similarity checking and plagiarism prevention web tool which allows researchers to compare their contents against the massive databases to ensure the work is original before the submission. Library has a paid license to this tool. To get the similarity/plagiarism checking done and have the similarity report generated, please write to us at [email protected] or [email protected] along a soft copy of the document ( i.e. thesis, dissertation, manuscript of article, assignment etc.) to be checked in PDF, DOCX file format. The users who have credentials to access Turnitin, they may directly access it by visiting http://www.turnitin.com/
+
+More details about Turnitin can be here.

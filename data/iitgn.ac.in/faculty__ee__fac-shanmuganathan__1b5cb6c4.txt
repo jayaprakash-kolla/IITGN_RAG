@@ -1,0 +1,51 @@
+Title: IIT Gandhinagar | Shanmuganathan Raman
+Source: https://iitgn.ac.in/faculty/ee/fac-shanmuganathan
+
+# Shanmuganathan Raman
+
+-  Electrical Engineering
+Shanmuganathan Raman
+
+## Shanmuganathan Raman
+
+Professor, Electrical Engineering (Affiliated to Discipline of Artificial Intelligence)
+(Jointly with Computer Science & Engineering department)
+
+- BE: PSG College of Technology, Bharathiar University, 2003
+- MTech: Indian Institute of Technology Bombay, 2006
+- PhD: Indian Institute of Technology Bombay, 2011
+
+Email: shanmuga -AT- iitgn.ac.in
+
+ Website :  https://shanmugaiit.github.io/
+
+Office:  AB 13/322C
+VOIP:  2453
+
+Prajwal Singh, Kuldeep Kulkarni, Shanmuganathan Raman, and Harsh Rangwani, "Synthesizing Compositional Videos from Text Description", in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Tucson, AZ, US, Mar. 6-10, 2026.
+
+Soumyaratna Debnath, Ashish Tiwari, Kaustubh Sadekar, and Shanmuganathan Raman, "RASP: Revisiting 3D Anamorphic Art for Shadow-Guided Packing of Irregular Objects", in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, US, June 11-15, 2025.
+
+Ashish Tiwari, Satyam Bhardwaj, Yash Bachwana, Parag Sarvoday Sahu, T. M. Feroz Ali, Bhargava Chintalapati, and Shanmuganathan Raman, "TensoIS: A Step Towards Feed-Forward Tensorial Inverse Scattering for Perlin Distributed Heterogeneous Media", in Computer Graphics Forum (CGF), 2025.
+
+Aalok Gangopadhyay, Paras Gupta, Tarun Sharma, Prajwal Singh, and Shanmuganathan Raman, "Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D", in Computer Graphics Forum (CGF), Volume 43, Issue 5, 2024.
+
+Soumyaratna Debnath, Ashish Tiwari, and Shanmuganathan Raman, "ScribGen: Generating Scribble Art Through Metaheuristics", in The 17th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (ACM SIGGRAPH Asia), Art Papers, Tokyo, Japan, Dec 3-6, 2024.
+
+Ashish Tiwari, Satoshi Ikehata, and Shanmuganathan Raman, "MERLiN: Single-Shot Material Estimation and ReLighting for Photometric Stereo", in European Conference on Computer Vision (ECCV), Milano, Italy, Sep. 29 - Oct. 4, 2024.
+
+- Professor, Indian Institute of Technology, Gandhinagar (Nov 2024 to present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Apr 2018 to Nov 2024)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (May 2013 - Apr 2018)
+- Assistant Professor, Indian Institute of Technology, Jodhpur (July 2012 - May 2013)
+- Research Associate, Indian Institute of Science (IISc), Bangalore (Aug 2011 - Jun 2012)
+- Microsoft Research India PhD Fellow, Indian Institute of Technology Bombay (2007 - 2011)
+- System and Network Administration for Vision and Image Processing Lab, Indian Institute of Technology Bombay (2006 - 2011)
+- Teaching Assistant, Indian Institute of Technology Bombay (2004 - 2010)
+- Assistant Systems Engineer Trainee, TCS, Chennai (Jun 2003 - July 2004)
+
+- ● Computer Vision
+- ● Image & Video Processing
+- ● Computer Graphics
+- ● Deep Learning
+- ● Artificial Intelligence

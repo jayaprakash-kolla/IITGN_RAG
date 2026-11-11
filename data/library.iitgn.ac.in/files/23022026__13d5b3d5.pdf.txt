@@ -1,0 +1,54 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 08, 2026
+(Added during 16th February 2026 – 20th February 2026)
+Available for the issue from 28th February 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+ZOOLOGY
+Title: Miniature giants: insect stories beyond the ordinary
+Author: Iyer, Geetha
+Publisher: Gurugram: Viking, 2025
+Call No.: 595.7 IYE
+Acc. No.: 036703
+
+ENGINEERING AND ALLIED OPERATIONS
+Title: Fundamentals of offshore engineering
+Author: Chandrasekaran, Srinivasan
+Publisher: Boca Raton: CRC Press, 2025
+Call No.: 620.4162 CHA
+Acc. No.: 036707
+Title: Fundamentals of modern VLSI devices, 3rd ed.
+Author: Taur, Yuan
+Publisher: Cambridge: Cambridge University Press, 2022
+Call No.: 621.395 TAU
+Acc. No.: 036708
+Title: Stantec's water treatment: principles and design, 3rd ed.
+Author: Crittenden, John C.
+Publisher: Hoboken, New Jersey: John Wiley & Sons, 2023
+Call No.: 628.162 CRI
+Acc. No.: 036706
+
+MANAGEMENT
+Title: Leadership beyond the playbook: craft your own path. lead with impact
+Author: Kudva, Roopa
+Publisher: Gurugram: Penguin Business, 2025
+Call No.: 658.4092 KUD
+Acc. No.: 036704
+
+FICTION
+Title: Sicilian
+Author: Puzo, Mario
+Publisher: London: Arrow Books, 2013
+Call No.: 813.54 PUZ
+Acc. No.: 036705

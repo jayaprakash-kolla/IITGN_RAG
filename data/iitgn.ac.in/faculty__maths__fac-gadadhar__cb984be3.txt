@@ -1,0 +1,69 @@
+Title: IIT Gandhinagar | Gadadhar Misra
+Source: https://iitgn.ac.in/faculty/maths/fac-gadadhar
+
+# Gadadhar Misra
+
+-  Mathematics
+Gadadhar Misra
+
+## Gadadhar Misra
+
+Visiting Professor, Mathematics
+
+- MSc: Sambalpur University, Burla, 1979
+- PhD: Stony Brook University, NY, 1982
+
+Email: gadadhar.misra -AT- iitgn.ac.in
+
+Office:  AB 6/336A
+VOIP:  2590
+
+Sameer Chavan and G. Misra, Notes on the Brown-Douglas-Fillmore Theorem, Cambridge - IISc Series, July 2021
+
+G. Misra and H. Upmeier, Toeplitz C*-Algebras on boundary orbits of symmetric domains, In: Bauer W., Duduchava R., Grudsky S., Kaashoek M. (eds) Operator Algebras, Toeplitz Operators and Related Topics. Operator Theory: Advances and Applications, 279 (2020), 307 - 341, Birkh채user.
+
+S. Ghara and G. Misra, Decomposition of the tensor product of two Hilbert modules, In: Curto R.E., Helton W., Lin H., Tang X., Yang R., Yu G. (eds) Operator Theory, Operator Algebras and Their Interactions with Geometry and Topology. Operator Theory: Advances and Applications, 278 (2020), 221 - 265, Birkhäuser.
+
+G. Misra and H. Upmeier, Singular Hilbert modules on Jordan-Kepler varieties, In: Curto R.E., Helton W., Lin H., Tang X., Yang R., Yu G. (eds) Operator Theory, Operator Algebras and Their Interactions with Geometry and Topology. Operator Theory: Advances and Applications, 278 (2020), 425 - 453, Birkhäuser.
+
+R. Gupta and G. MisraCaratheodory-Fejer interpolation problem for the polydisc, Studia Math., 254 (2020), 265-293.
+
+G. MisraOperators in the Cowen-Douglas class and related topics, 87 - 137, CRC Press/Chapman Hall Handb. Math. Ser., CRC Press, Boca Raton, FL, 2019. 47
+
+- Visiting Professor, Indian Institute of Technology, Gandhinagar, (from Nov 2021) and J C Bose National Fellow at Indian Statistical Institute Bangalore (from August 2021)
+- Convener, Analysis and Probability Research Group, IISC, (Jul 2017 - Jul 2021)
+- Professor, Department of Mathematics, IISC, (Jul 2007 - Jul 2021)
+- Chairman, Department of Mathematics, IISC, (Sep 2013 - May 2019)
+- Professor, Indian Statistical Institute, Bangalore, (1993 - 2007)
+- Associate Professor, Indian Statistical Institute, Bangalore, (1989 - 1993)
+- Lecturer, Indian Statistical Institute, Bangalore, (1988 - 1989)
+- Lecturer, Indian Statistical Institute, Kolkata, (1986 - 1988)
+- Visiting Scientist, Indian Statistical Institute, Kolkata, (1985 - 1986)
+- Visiting Assistant Professor, University of California, Irvine (1984 - 1985)
+- Visiting Assistant Professor, University of Georgia, Athens (1982 - 1984)
+
+Awards
+
+#### Awards:
+
+Alumni Award for Excellence in Research, Indian Institute of Science, Bangalore, (2019)
+
+Biju Patnaik Award for Scientific Excellence, Odisha Bigyan Academy, (2013)
+
+S. S. Bhatnagar Prize,CSIR, 2001
+
+#### Fellowship:
+
+J C Bose National Fellowship, DST, (2008 - Present)
+
+Fellow, National Academy of Sciences, India, elected, (2012)
+
+Fellow and Vice-President (2018-2020), Indian National Science Academy, elected, (2009)
+
+Fellow, Indian Academy of Sciences, elected, (1999)
+
+- ● Mostly in operator theory using tools from complex geometry
+ and representation theory.
+- ● A detailed research statement is here.
+
+Complete List of Publications

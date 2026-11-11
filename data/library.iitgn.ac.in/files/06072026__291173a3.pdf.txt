@@ -1,0 +1,91 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 27, 2026
+(Added during 29th June – 03rd July 2026)
+Available for the issue from 11th July 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+ARTIFICIAL INTELLIGENCE
+Title: Neurosymbolic AI: foundations and applications
+Author: Velasquez, Alvaro (Ed.)
+Publisher: New Jersey: Wiley-IEEE Press, 2026
+Call No.: 006.33 VEL
+Acc. No.: 037149
+
+SOCIAL SCIENCES
+Title: Beginning comes after the end: notes on a world of change
+Author: Solnit, Rebecca
+Publisher: London: Granta Publications, 2026
+Call No.: 303.48 SOL
+Acc. No.: 037148
+
+MATHEMATICS
+Title: Quantum algorithms for optimizers
+Author: Nannicini, Giacomo
+Publisher: Philadelphia: Society for Industrial and Applied Mathematics, 2026
+Call No.: 511.6 NAN
+Acc. No.: 037151
+
+Title: Power series solutions to nonlinear ordinary differential equations and
+related problems of physics, engineering, and life sciences
+Author: Barlow, Nathaniel S.
+Publisher: Philadelphia: Society for Industrial and Applied Mathematics, 2026
+Call No.: 515.2432 BAR
+Acc. No.: 037150
+Title: Numerical continuation methods for dynamical systems: path following and
+boundary value problems
+Author: Krauskopf, Bernd (Ed.)
+Publisher: Dordrecht: Springer, 2007
+Call No.: 515.35 KRA
+Acc. No.: 037158
+Title: Monotone discretizations for elliptic second order partial differential
+equations
+Author: Barrenechea, Gabriel R.
+Publisher: Switzerland: Springer, 2025
+Call No.: 515.353 BAR
+Acc. No.: 037154
+
+Title: Birth and early developments of orthogonal polynomials: a chronological
+history
+Author: Brezinski, Claude
+Publisher: Philadelphia: Society for Industrial and Applied Mathematics, 2026
+Call No.: 515.55 BRE
+Acc. No.: 037152
+Title: Geometrical introduction to tensor calculus
+Author: Tromp, Jeroen
+Publisher: New Jersey: Princeton University Press, 2025
+Call No.: 515.63 TRO
+Acc. No.: 037153
+
+CLIMATE & WEATHER
+Title: Quaternary climate dynamics: integrating paleoclimate data, modeling and
+theory
+Author: Ganopolski, Andrey
+Publisher: Cambridge: Cambridge University Press, 2026
+Call No.: 551.60901 GAN
+Acc. No.: 037155
+
+ENERGY ENGINEERING
+Title: Thermochemical processing of biomass: conversion into fuels, chemicals and
+power, 2nd ed.
+Author: Brown, Robert C. (Ed.)
+Publisher: New Jersey: Wiley, 2019
+Call No.: 621.042 BRO
+Acc. No.: 037157
+
+MATERIALS ENGINEERING
+Title: Civil engineering materials, 2nd ed.
+Author: Somayaji, Shan
+Publisher: New Jersey: Prentice Hall, 2001
+Call No.: 624.18 SOM
+Acc. No.: 037156

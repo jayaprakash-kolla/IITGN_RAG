@@ -1,0 +1,38 @@
+Title: IIT Gandhinagar | Ragavan K.
+Source: https://iitgn.ac.in/faculty/ee/fac-ragavan
+
+# Ragavan K.
+
+-  Electrical Engineering
+Ragavan K.
+
+## Ragavan K.
+
+Professor, Electrical Engineering
+
+- BTech: Pondicherry University, 1997
+- ME: Anna University, 2002
+- PhD: Indian Institute of Science Bangalore, 2006
+
+Email: ragavan -AT- iitgn.ac.in
+
+Office:  AB 13/326C
+VOIP:  2403
+
+- E. Naveen Kumar, V. Naveen Deepak and K. Ragavan, "A Compact Expression for Cogging Torque Considering Both Radial and Tangential Fields for Surface-Mounted PM Motors", IEEE Transactions on Magnetics, Vol. 54, No. 9, pp. 1-12, Sep. 2018.
+- Shah Krupa R and Ragavan K, "Assessing Mechanical Deformations in Two-Winding Transformer Unit using Reduced-Order Circuit Model", International Journal of Electrical Power and Energy Systems (Elsevier), Vol. 79, pp. 235-244, Jul. 2016.
+- Chandrasekaran S and Ragavan K, "Rapid Tracking of Grid Variables Using Prefiltered Synchronous Reference Frame PLL", IEEE Transactions on Instrumentation and Measurement, Vol. 64, No. 7, pp. 1826-1836, Jul. 2015.
+- Chandrasekaran S and Ragavan K, "Single-Phase Grid Voltage Attributes Tracking For the Control of Grid Power Converters", IEEE Journal of Emerging and Selected Topics in Power Electronics, Vol. 2, No. 4, pp. 1041-1048, Dec. 2014.
+- Prabhakar R. J. and Ragavan K, "STATCOM-based Wind-Solar-Hydro Electric Power System with Modified Real and Reactive Power Controls", International Journal of Emerging Electric Power Systems, Vol. 15, no. 1, Jan. 2014.
+
+- Professor, Indian Institute of Technology Gandhinagar, (Nov 2024 to present)
+- Associate Professor, Indian Institute of Technology Gandhinagar, (Nov 2015 - Nov 2024)
+- Assistant Professor, Indian Institute of Technology Gandhinagar, (May 2009 - Nov 2015)
+- Research Engineer, GE India Technology Centre Pvt. Ltd., (Dec 2007 - Feb 2009)
+- IP Analyst, GE India Technology Centre Pvt. Ltd., (Jan 2007 - Nov 2007)
+
+- ● Drives for electric vehicles
+- ● Diagnostic testing and condition monitoring of transformers
+- ● Active power filter
+
+Complete List of Publications

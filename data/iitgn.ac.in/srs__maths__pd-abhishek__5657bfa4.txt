@@ -1,0 +1,32 @@
+Title: IIT Gandhinagar | Abhishek Das
+Source: https://iitgn.ac.in/srs/maths/pd-abhishek
+
+# Abhishek Das
+
+- Senior Research Staff
+Abhishek Das
+
+## Abhishek Das
+
+Post-Doctoral Fellow, Mathematics
+
+- BSc (Hons.) : St. Xavier's College, Kolkata, 2014
+- Integrated PhD : Tata Institute of Fundamental Research, Centre for Applicable Mathematics, Bangalore, 2021
+
+Email: abhishek.d -AT- iitgn.ac.in
+
+Work experience
+
+- Post-Doctoral Fellow : Indian Institute of Technology Gandhinagar (Jul 2021 to present)
+
+Selected Publications
+
+Initial value problem for the nonconservative zero-pressure gas dynamics system (with K. T. Joseph and Manas Ranjan Sahoo), Adv. Pure Appl. Math., 12, ( Issue 1 (January 2021) ), 2021.
+
+Solution of a transport equation with discontinuous coefficients (with K. T. Joseph), J. Appl. Anal., 2021.
+
+Evolution and interaction of $\delta$-waves in zero pressure gas dynamics system (with K. T. Joseph), submitted (June, 2020).
+
+- ● Non-conservative hyperbolic systems, in particular the zero-pressure gas dynamics system (Explicit construction, wave interaction, plane-wave type solution)
+- ● Transport equation with discontinuous coefficients (Explicit construction, wave interaction)
+- ● Conservation Laws with measure-valued initial data (Explicit construction, wave interaction)

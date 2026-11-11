@@ -1,0 +1,40 @@
+Title: IIT Gandhinagar | Vikas Pareek
+Source: https://iitgn.ac.in/srs/humani/ra-vikas
+
+# Vikas Pareek
+
+- Senior Research Staff
+Vikas Pareek
+
+## Vikas Pareek
+
+Research Associate, Neuroscience, Humanities and Social Sciences
+
+- BPharm: Rajasthan University of Health Sciences, 2011
+- MSc: National Brain Research Centre, 2013
+- PhD: National Brain Research Centre, 2020
+- RF: National Brain Research Centre, 2020
+
+Email: vikas.p -AT- iitgn.ac.in
+
+Website :  https://vikaspareekjp.wordpress.com/
+
+Work experience
+
+- Research Associate, Indian Institute of Technology Gandhinagar (Dec 2020 to present)
+- Research Fellow, National Brain Research Centre (Jan 2020 - Jul 2020)
+
+Selected Publications
+
+- Vikas Pareek, Subhadip Paul, V.P. Subramanyam Rallabandi, Prasun K Roy (2019) Patterning of Corpus Callosum Integrity in Glioma Observed by MRI: Effect of 2D Bi-Axial Lamellar Brain Architecture. Journal of Neuro-Oncology, 144(1):165-177. https://doi.org/10.1007/s11060-019-03217-9
+- Vikas Pareek, Banshi Nath, and Prasun K. Roy (2019) Role of Neuroimaging Modality in the Assessment of Oxidative Stress in Brain: A Comprehensive Review. CNS & Neurological Disorders - Drug Targets, 18(5):372-381. https://doi.org/10.2174/1871527318666190507102340
+- Vikas Pareek, VP Subramanyam Rallabandi, Prasun K Roy (2018) A Correlational Study between Microstructural White Matter Properties and Macrostructural Gray Matter Volume Across Normal Ageing: Conjoint DTI and VBM Analysis. Magnetic Resonance Insights, 11. https://doi.org/10.1177/1178623X18799926
+- Ashutosh Kumar, Vikas Pareek*, Muneeb A. Faiq, Pavan Kumar, Chiman Kumari, Himanshu N. Singh, Sanjib K. Ghosh (2020) Transcriptomic analysis of the signature of neurogenesis in human hippocampus suggests restricted progenitor cell progression post-childhood. IBRO Reports, 9:224-232, https://doi.org/10.1016/j.ibror.2020.08.003
+- Ashutosh Kumar, Vikas Pareek, Pranav Prasoon, Muneeb A. Faiq, Pavan Kumar, Chiman Kumari, Ravikant Narayan (2020). Possible routes of SARS-CoV-2 invasion in brain: In context of neurological symptoms in COVID-19 patients. Journal of Neuroscience Research https://doi.org/10.1002/jnr.24717 IF = 4.69
+
+- ● Magnetic Resonance Imaging (Image Acquisition and Analysis). Voxel-Based Morphometry (VBM) analysis of Structural MR Images, Diffusion tensor imaging (DTI), and fMRI (functional MRI) analysis. Structural and functional connectivity analysis.
+- ● Implementation of Machine Learning to automate the analysis of MR images. Functional (resting and task) based imaging and diffusion imaging.
+- ● Neuroanatomical findings, human brain fingerprinting.
+- ● Bioinformatics Studies: Involving transcriptomic analysis (Adult human neurogenesis and psychiatric disorders)
+
+Complete List of Publications

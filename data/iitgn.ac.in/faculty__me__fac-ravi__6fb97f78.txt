@@ -1,0 +1,41 @@
+Title: IIT Gandhinagar | Ravi Sastri Ayyagari
+Source: https://iitgn.ac.in/faculty/me/fac-ravi
+
+# Ravi Sastri Ayyagari
+
+-  Mechanical Engineering
+Ravi Sastri Ayyagari
+
+## Ravi Sastri Ayyagari
+
+Associate Professor, Mechanical Engineering
+
+- BTech: Dr. B. R. Ambedkar NIT, Jalandhar, 2004
+- MS: Illinois Institute of Technology, 2008
+- PhD: Illinois Institute of Technology, 2013
+
+Email: ravi.ayyagari -AT- iitgn.ac.in
+
+Office:  AB 4/309
+VOIP:  2526
+
+- Ayyagari, R.S. and M. Vural, “On the Nature of Pressure Dependence in Foams”, Int. J. Solids Struct., Vol. 78, pp. 160-173, 2016.
+- Shafiq, M., Ayyagari, R.S., Ehaab, M. and M. Vural, “Multiaxial Yield Surface of Transversely Isotropic Foams: Part II - Experiments”, J. Mech. Phys. Solids, Vol. 76, pp. 224-236, 2015.
+- Ayyagari, R.S. and M. Vural, “Multiaxial Yield Surface of Transversely Isotropic Foams: Part I - Modeling”, J. Mech. Phys. Solids, Vol. 74, pp. 49-67, 2015.
+- Ayyagari, R.S. and M. Vural, “A New Approach to Yield Prediction in Cellular Solids”, 5th International Conference on Recent Advances in Space Technologies, Istanbul, June 9 - 11, 2011.
+- Ayyagari, R.S. and S. Nair, “Scattering of P-polarized Evanescent Waves by a Spherical Dielectric Particle”, J. Opt. Soc. Am. B, Vol. 26, pp. 2054-2058, 2009.
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Sep 2023 to present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Dec 2016 to Sep 2023)
+- Postdoctoral Fellow, The Johns Hopkins University (2013 to 2015)
+- Teaching Assistant, The Johns Hopkins University (2014)
+- Assistant Instructor, Illinois Institute of Technology (2013)
+- Adjunct Faculty, Illinois Institute of Technology (2012)
+- Assistant Systems Engineer, Tata Consultancy Services, Chennai (2004 to 2005)
+
+- ● Solid mechanics
+- ● Constitutive modeling
+- ● Computational mechanics
+- ● Continuum damage mechanics
+
+Complete List of Publications

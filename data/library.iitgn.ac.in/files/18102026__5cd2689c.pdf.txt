@@ -1,0 +1,95 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 42, 2026
+(Added during 12th– 16th October 2026)
+Available for the issue from 24th October 2026
+Where are these books?
+New Addition Books are displayed near the Library Circulation Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Handbook of data structures and applications, 2nd ed.
+Author: Mehta, Dinesh P. (Ed.)
+Publisher: Boca Raton: Chapman & Hall /CRC, 2020
+Call No.: 005.73 MEH
+Acc. No.: 037380
+
+SOCIAL SCIENCES
+Title: Governing forests
+Author: Kodiveri, Arpitha
+Publisher: New Delhi: Melbourne University Press, 2024
+Call No.: 306.09152 KOD
+Acc. No.: 037382
+
+ECONOMICS
+Title: Microeconomics of artificial intelligence
+Author: Gans, Joshua
+Publisher: Cambridge: MIT Press, 2025
+Call No.: 338.064 GAN
+Acc. No.: 037386
+
+MATHEMATICS
+Title: Enumerative invariants in algebraic geometry and string theory
+Author: Abramovich, Dan
+Publisher: Berlin: Springer, 2008
+Call No.: 516.35 ABR
+Acc. No.: 037379
+
+PHYSICS
+Title: Longing for the harmonies: themes and variations from modern physics
+Author: Wilczek, Frank
+Publisher: Ontario: W.W. Norton, 1989
+Call No.: 530 WIL
+Acc. No.: 037378
+
+MEDICINE
+Title: Becoming supernatural: how common people are doing the uncommon
+Author: Dispenza, Joe
+Publisher: New Delhi: Hay House, 2026
+Call No.: 615.851 DIS
+Acc. No.: 037373
+
+Title: EEG signal processing and machine learning, 2nd ed.
+Author: Sanei, Saeid
+Publisher: Hoboken: John Wiley & Sons, 2022
+Call No.: 616.8047547 SAN
+Acc. No.: 037387
+
+ENGINEERING & ALLIED OPERATIONS
+Title: Structural health monitoring with application to offshore structures
+Author: Chandrasekaran, Srinivasan
+Publisher: Singapore: World Scientific Publisher, 2019
+Call No.: 627.98 CHA
+Acc. No.: 037381
+Title: Electrochemical engineering
+Author: Fuller, Thomas F.
+Publisher: Hoboken: Wiley, 2018
+Call No.: 660.297 FUL
+Acc. No.: 037376 & 037377
+
+INDORE GAMES
+Title: Geometric puzzle design
+Author: Coffin, Stewart
+Publisher: Wellesley: A K Peters, Ltd., 2007
+Call No.: 793.74 COF
+Acc. No.: 037385
+Title: How to beat your dad at chess
+Author: Chandler, Murray
+Publisher: London: Gambit Publications, 2026
+Call No.: 794.1 CHA
+Acc. No.: 037375
+
+LITERATURE
+Title: Baldwin: a love story
+Author: Boggs, Nicholas
+Publisher: London: Bloomsbury Publishing, 2026
+Call No.: 818.5409 BOG
+Acc. No.: 037374

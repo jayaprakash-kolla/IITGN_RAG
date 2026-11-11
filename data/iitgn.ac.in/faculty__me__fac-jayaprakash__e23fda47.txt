@@ -1,0 +1,50 @@
+Title: IIT Gandhinagar | K.R. Jayaprakash
+Source: https://iitgn.ac.in/faculty/me/fac-jayaprakash
+
+# K.R. Jayaprakash
+
+-  Mechanical Engineering
+K.R. Jayaprakash
+
+## K.R. Jayaprakash
+
+Associate Professor, Mechanical Engineering
+
+- BE: Bangalore Institute of Technology (VTU), 2004
+- MTech: Indian Institute of Technology Kharagpur, 2009
+- PhD: University of Illinois at Urbana Champaign, 2013
+
+Email: jp.kalkunte -AT- iitgn.ac.in
+
+Office:  AB 5/360
+VOIP:  2530
+
+- K. R. Jayaprakash, Y. Starosvetsky, ‘Three-dimensional Energy Channeling in the Unit-cell Model Coupled to a Spherical Rotator I: Analytical Study of the Bi-directional Channeling’, Nonlinear Dynamics, (accepted).
+- Z. Ahsan, K. R. Jayaprakash, ‘Evolution of Primary Pulse in Granular Dimers Mounted on Linear Elastic Foundation: An Analytical and Numerical Study’, Physical Review E, 94(4), 043001, pp. 1-15 (2016).
+- V. Kislovsky, M. Kovaleva, K. R. Jayaprakash, Y. Starosvetsky, ‘Consecutive Transitions from Localized to Delocalized Transport States in the Anharmonic Chain of Three Coupled Oscillators’, Chaos, 26(7), pp. 073102(1-12) (2016).
+- A. Shiffer, K. R. Jayaprakash, Y. Starosvetsky, ‘Traveling Waves in Trimer Granular Lattice II: Asymptotic Prediction of Weakly Attenuated Pulses’, Communications in Nonlinear Science and Numerical Simulations, doi:10.1016/j.cnsns.2016.06.010.
+- K. R. Jayaprakash, A. Shiffer, Y. Starosvetsky, ‘Traveling Waves in Trimer Granular Lattice I: Bifurcation Structure of Traveling Waves in the Unit-Cell Model’,Communications in Nonlinear Science and Numerical Simulations 38, pp. 8-22 (2016).
+
+- Associate Professor, Indian Institute of Technology Gandhinagar (Jun 2026 to present)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Mar 2017 to Jun 2026)
+- DST-INSPIRE Faculty, Indian Institute of Science (2013 to 2017)
+- Visiting Assistant Professor, Indian Institute of Technology Kharagpur (2013)
+- Graduate Research Assistant, University of Illinois at Urbana Champaign (2009 to 2013)
+- Graduate Research Assistant, Indian Institute of Technology Kharagpur (2008 to 2009)
+- Scientist/Engineer, Indian Space Research Organization (2005 to 2007)
+
+Awards
+
+- DST-INSPIRE Faculty Award, 2013
+- Research Assistantship at University of Illinois at Urbana-Champaign, 2009-2013
+- Teaching Assistantship from Ministry of HRD, Government of India, 2007-2009
+- Bhabha Atomic Research Center (BARC) Fellowship (DGFS 2007), Department of Atomic Energy, Government of India
+- General Electric Scholar Leader, 2008-09
+- Academic merit awards at Bangalore Institute of Technology, 2003, 2004
+
+- ● Wave propagation in one and two-dimensional granular media
+- ● Elastic wave scattering at discrete nonlinear interfaces
+- ● Wave propagation in microfluidic droplet lattices
+- ● Nonlinear energy channeling in three-dimensional, locally resonant, unit-cell models and lattices
+
+Complete List of Publications

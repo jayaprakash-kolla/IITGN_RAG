@@ -1,0 +1,65 @@
+Title: IIT Gandhinagar | Yuvraj Patel
+Source: https://iitgn.ac.in/faculty/guestprof/yuvraj_patel
+
+# Yuvraj Patel
+
+-  Guest Professors
+Yuvraj Patel
+
+## Yuvraj Patel
+
+Guest Professor, Computer Science and Engineering
+
+- B.E.: Computer Engineering, Gujarat University, India, 2004
+- M.E.: Computer Science, BITS-Pilani, India, 2007
+- PhD: University of Wisconsin–Madison, 2021
+
+Vinay Banakar, Kan Wu, Yuvraj Patel, Kimberly Keeton, Andrea C. Arpaci-Dusseau, Remzi H. Arpaci-Dusseau.
+ Wiscsort: External Sorting for Byte-Addressable Storage. (In Submission) VLDB, 2023.
+
+Yuvraj Patel, Akshat Sinha, Chenhao Ye, Abigail Matthews, Andrea C. Arpaci-Dusseau, Remzi H. Arpaci-Dusseau,
+ Michael M. Swift. Using Tr¯atr to tame Adversarial Synchronization. In Proceedings of the USENIX Security
+ Symposium, 2022.
+
+Kan Wu, Kaiwei Tu, Yuvraj Patel, Rathijit Sen, Kwanghyun Park, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
+ NyxCache: Flexible and Efficient Multi-tenant Persistent-Memory Caching. In Proceedings of the 20th USENIX
+ Conference on File and Storage Technologies (FAST), 2022.
+
+Anthony Rebello, Yuvraj Patel, Ramnatthan Alagappan, Andrea C. Arpaci-Dusseau, Remzi H. Arpaci-Dusseau.
+ Can Applications Recover from fsync Failures? In Proceedings of the USENIX Annual Technical Conference (ATC), 2020.
+
+Yuvraj Patel, Leon Yang, Leo Prasath Arulraj, Andrea C. Arpaci-Dusseau, Remzi H. Arpaci-Dusseau, Michael M.
+ Swift. Avoiding Scheduler Subversion using Scheduler-Cooperative Locks. In Proceedings of the Fifteenth European
+ Conference on Computer Systems (EuroSys), 2020.
+
+Ram Kesavan, Rohit Singh, Travis Grusecki, Yuvraj Patel. Algorithms and Data Structures for Efficient Free Space
+ Reclamation in WAFL. In Proceedings of the 15th USENIX Conference on File and Storage Technologies (FAST), 2017. Best Paper Award
+
+Harendra Kumar, Yuvraj Patel, Ram Kesavan, Sumith Makam. High Performance Metadata Integrity Protection
+ in the WAFL Copy-on-Write File System. In Proceedings of the 15th USENIX Conference on File and Storage
+ Technologies (FAST), 2017.
+
+Ramnatthan Alagappan, Aishwarya Ganesan, Yuvraj Patel, Thanumalayan Sankaranarayana Pillai, Andrea C.
+ Arpaci-Dusseau, Remzi H. Arpaci-Dusseau. Correlated Crash Vulnerabilities. In Proceedings of the 12th USENIX
+ Symposium on Operating Systems Design and Implementation (OSDI), 2016.
+
+- Guest Professor, Indian Institute of Technology, Gandhinagar (May 2024 to present)
+- Assistant Professor, School of Informatics, University of Edinburgh, 2022
+- Research Associate, ADSL, Computer Sciences Department, University of Wisconsin-Madison, 2021-2022
+- Associate Lecturer, Computer Sciences Department, University of Wisconsin-Madison, 2021-2022
+
+Awards
+
+- Best Paper Award (Algorithms and Data Structures for Efficient Free Space Reclamation in WAFL), 2017
+
+- Fellowship to Visit Max Planck Institute for Software Systems, Germany, 2014
+
+- Innovation Award from CTO Office for filesystem crawler design, NetApp, 2009
+
+- Fellowship to visit Center for High Energy Physics, Indian Institute of Science, India, 2006
+
+- ● Concurrency
+- ● Operating Systems
+- ● Security
+- ● File & Storage Systems
+- ● Distributed Systems

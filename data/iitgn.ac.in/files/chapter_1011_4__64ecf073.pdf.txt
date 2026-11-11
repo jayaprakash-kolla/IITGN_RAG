@@ -1,0 +1,231 @@
+#flags:
+
+INFRASTRUCTURE
+AND FACILITIES
+
+Central facilities are being developed in the Institute
+to be used not only by a specific group but also by the
+entire IITGN community. Some of these facilities, for
+example the library, are open to outsiders as well.
+Currently, the following facilities are functioning:
+
+Library
+Computer Centre
+Medical Centre
+Laboratory Facilities
+New Buildings
+
+Library
+The Central Library of IIT Gandhinagar is being developed to make it one of the best libraries
+in the area to attract scholars in different fields from all over the country. The Institute
+liberally allocates funds to meet and exceed the teaching and research needs of the students
+and faculty. Sufficient copies of text and reference books are procured for the courses offered.
+Other books of interest to students, staff and faculty are also readily acquired. The library
+ordered about 1700 books during the year 2010-11. The library has an arrangement with IIT
+Bombay and IIT Kanpur to obtain books and journals on loan from their library. Most of the
+reputed research journals are now available through on-line resources such as Annual
+Reviews, American Chemical Society, American Physical Society, ASME, IEEE, JSTOR,
+MathScinet, Science Direct, and SpringerLink. All these journals can be accessed through the
+library's home page, which also provides easy access to open databases, public access
+catalogues and directories. IITGN is an institutional member of the American Mathematical
+Society (AMS). Feasibility of subscribing to other journals is under review. Many popular
+science journals, news magazines and Indian journals, not available on-line, are received in
+print edition. The library sends regular emails to users on new arrivals, status of requested
+books, faculty publications and complimentary newsletters.
+The Library is open from 9:00 AM to 10:00 PM on working days and till midnight during the
+examination. The circulation service is available to all students, faculty and staff from 9:00
+AM to 6:00 PM. Other individuals and organizations can also become authorized users to
+avail the facilities. Facilities for photocopying and printing are available to everyone.
+
+IIT Gandhinagar | Annual Report | 2010 - 2011 | Page 40
+
+Computer Centre
+Computer facilities at IITGN have been developed with high-end hardware, a wide range of
+software and excellent connectivity so that students, faculty and staff can carry out their
+work without interruptions. They can view and download information efficiently for their
+research, home assignments and other scholarly activities. The LAN setup integrates the
+entire IITGN community into a single unit. The Institute premises and the student hostels are
+Wi-Fi enabled. This allows one to connect to the internet from anywhere within the Institute.
+Over 50 PCs are available to the students in a common Computer Laboratory for
+programming and other purposes. The Computer Laboratory is also used for teaching. All
+faculty members and research scholars have been provided with individual PCs and
+printers with scanning and photocopying facilities. A few high-end printing and
+photocopying machines are available for communal use. Individual email accounts have
+been provided to IITGN students, faculty and staff with the facility of sending bulk email to
+common groups, for example, sending home assignment to students in a course or to
+students in a particular branch and year. Important scientific software such as Mathematica,
+PSCAD 4.2, STATA 11.1, AutoCAD have been procured.
+
+Medical Centre
+A qualified medical practitioner (M.B.B.S., Diploma in Medicine, Fellow Infectious Diseases,
+Italy) is available on the Institute premises for several hours on working days to provide
+medical advice to students, staff and faculty. The doctor can also be consulted at her clinic as
+well as at the Life Care Hospital situated nearby. Hospitalization expenses of all students are
+covered under a medical insurance policy. A trained male nurse is available full-time to
+provide emergency first aid and for routine medical services such as checking temperature,
+blood pressure, blood sugar, oxygen level and dressing of wounds. He dispenses many
+common medicines stored in the medical room, against the doctor's prescription or through
+phone consultation. He also assists in maintaining medical supplies and keeping medical
+records. An Electrocardiogram (E.C.G) machine has now been added to the other diagnostic
+facilities for the doctor's use.
+
+IIT Gandhinagar | Annual Report | 2010 - 2011 | Page 41
+
+Laboratory Facilities
+Laboratories are an indispensable component of engineering and science education. The
+laboratory courses are designed for the students to practice principles taught in the theory
+courses, and also to get hands-on training on basic machines and tools. In addition, the
+laboratory facilities are required by the students and faculty to carry out experimental
+research and development work. The current status of the Institute laboratories is outlined
+below.
+
+Chemical Engineering
+All Chemical Engineering undergraduate students are required to take a laboratory course
+in each semester from 3rd to 7th semester. The Chemical Engineering laboratory, with an area
+of 165 sq. m., includes experimental set-up on Unit Operations, Reaction Engineering, and
+Process Dynamics. The current facilities include Double pipe/Coiled/Plate/Fluidized/FinTube Heat Exchangers, Chemical Reactors, Differential distillation set-up, Packed-bed
+absorption column, Sieve-plate distillation column, Interacting/non-interacting tanks set up
+(all from Shree Fabricators and Engineers), Calorimeter and refractometer (both from
+Scientific Products India), and Batch dryer (from Technical Education, Bangalore). The
+laboratory also has several set-ups to demonstrate the basic principles of fluid flow such as
+flow measuring devices, centrifugal pumps and pipe fittings apparatus. The facility is being
+further expanded to include experiments based on Process Controls and Advanced
+Separation Techniques.
+The present Chemical Engineering faculty has research interests in the fields of Particle
+Formation for Drug Delivery, Biochemical Engineering, and Systems Biology. An area of 155
+sq. m. has been provided for their research activities. A Particle Size Analyzer (Coulter
+Private Ltd) and an Optical Microscope with Camera facility (Nikon) have been procured to
+build a Particle Formation research facility. A Freeze dryer (Martin Christ), Zeta-sizer (PSS
+NICOMP) and Peristaltic Pumps (Watson Marlow) have also been procured. A particle size
+analyzer to characterize gaseous micro-bubbles and liquid drop suspensions and high
+pressure vessels for particle formation using high pressure CO2 have been ordered. A High
+Pressure Liquid Chromatography (HPLC) system (Waters), a Gas Chromatography (GC)
+system (Perkin Elmer), Fermentor (Sartorious), Microplate Reader (TECAN), Polymerase
+Chain Reaction Thermocycler (Eppendorf), Deep Freezer (-86˚C) (Thermo Fisher Scientific)
+and other basic biology laboratory utilities have been procured for Biochemical and
+Biomolecular Engineering research.
+
+IIT Gandhinagar | Annual Report | 2010 - 2011 | Page 42
+
+Chemistry
+A laboratory course in Chemistry is compulsory for all undergraduate students. The
+chemistry lab is housed in an area of 115 sq. m. and allows the students to practice the
+principles of organic, inorganic, and physical chemistry taught in the theory class. The
+current experiments include estimation of calcium in commercial milk powder, estimation
+of salts in given salt solution using titration techniques, inversion of sucrose using a digital
+polarimeter, complex formation reactions using colorimeters, electrolytic conductance
+experiments with Conductometers, basic chromatographic separation techniques utilizing
+Thin Layer Chromatography, measurement of energy of activation using principles of
+chemical kinetics, Organic Synthesis (Aldol Condensation & Diels-Alder reaction)
+experiments emphasizing the importance of green chemistry.
+The present faculty research interests broadly encompass Organic and Inorganic chemistry
+disciplines. Present research efforts are concentrated on porphyrin macrocycle synthesis for
+molecular recognition applications and synthesis of π-conjugated organic molecules for
+photophysical and photochemical studies. Instrumentation such as UV-Visible
+Spectrophotometer (Shimadju), Rotary Vacuum Evaporators (Buchi), NIRSpectrofluorometer (Horiba Jobin Yvon Inc), a quaternary High Pressure Liquid
+Chromatography (HPLC- Agilent), Digital Polarimeter (Rudolph) and General chemistry
+research facilities like TK water purification system, analytical balances (Mettler-Toledo),
+magnetic stirrers, fume hood, recirculating chillers, hot air ovens, air and vacuum Schlenk
+lines have been procured and installed.
+
+Electrical Engineering
+The Department of Electrical Engineering currently offers one laboratory course to all
+undergraduate students and five additional laboratory courses to only Electrical
+Engineering undergraduate students. Laboratory facilities for all courses are located in an
+area of 300 sq. m. Experiments include basic studies of characteristics of semiconductor
+devices, active filters & Schmitt trigger, digital circuits, building counters & shift registers,
+timer circuits and analog-to-digital converters, microprocessor- and microcontroller-based
+experiments, characteristics of electrical motors and generators, speed control of motors,
+synchronization of alternator with infinite bus or another alternator, performance of various
+power electronic converters.
+The laboratory facility includes Xilinx FPGA kits and ISE software that are being used for
+several undergraduate laboratories and project work. The laboratory is equipped with
+ARM, PIC controller, AVR and microcontroller boards, digital storage oscilloscopes, digital
+multi-meters and IC testers, universal IC Programmer, ScopeCorder, Precision Magnetics
+Analyzer and all other electrical engineering laboratory utilities. In addition, the Power
+Systems Simulation Laboratory has PSCAD software licensed for 25 nodes.
+The current Electrical Engineering faculty has research interests in Image Processing, Power
+
+IIT Gandhinagar | Annual Report | 2010 - 2011 | Page 43
+
+Systems, Renewable Energy, VLSI and Fibre-optic sensors. The current research facilities
+include transformers of different winding geometry. IITGN has collaboration with Cadence
+under its University Programme. The VLSI design research and development work greatly
+benefits from this collaboration through the availability of many tools and facilities provided
+by Cadence. A Fibre-optics lab is also being developed for research in the field of optical
+sensor technology.
+
+Mechanical Engineering
+The Department of Mechanical Engineering currently offers five undergraduate laboratory
+courses. All first year undergraduate students are required to take a laboratory course on
+Workshop Practice. The Manufacturing Laboratory, in an area of 110 sq. m., has facilities
+including lathes, milling machine, vertical machining centre, electric discharge machine,
+welding, fitting and tin smithy equipment. The Manufacturing Laboratory is also being used
+for two laboratory courses on Manufacturing Practices and Processes for second and third
+year Mechanical Engineering students. It is also being used as a workshop for fabrication of
+undergraduate student projects as well as equipment and accessories related to research.
+Coordinate measuring machine (CMM) and profile projector have been acquired as part of
+Advanced Manufacturing Laboratory (AML). A rapid prototyping machine, CNC lathe, and
+CNC milling machine are on order. An associated Mechanical Systems Design Laboratory
+(MSDL) is also being developed.
+All second year Mechanical Engineering students are required to take a laboratory course on
+Solid Mechanics and Experimental Stress Analysis. The laboratory, in an area of 70 sq. m., has
+two MTS Universal Testing Machines of 100 kN and 200 kN capacity, Charpy impact testing
+machine of 450 J capacity (MTS), torsion testing machine (500 Nm) and Rockwell and Vickers
+hardness testing machines (Zwick Roell), and a fatigue testing machine.
+The third year Mechanical Engineering undergraduate students are required to take a
+laboratory course on Fluid Mechanics and Fluid Machines. The laboratory has an area of 155
+sq. m., and has setups for conducting experiments on fluid statics and fluid dynamics.
+Several common turbo machines such as gear pump, centrifugal pump, Pelton wheel along
+with various flow measuring devices and accessories have also been installed. A wind tunnel
+and a water tunnel for teaching and for basic research have been built in-house, and are being
+commissioned.
+The current Mechanical Engineering faculty research interests include Aerodynamics, Flight
+Mechanics, Fluid-Structure Interaction, Polymer Composites, Dynamics and Control of
+Fluid-Thermal Systems, Hydrodynamic Stability and Computational Modeling of
+Engineered Systems. The Manufacturing Laboratory and the Solid Mechanics and
+Experimental Stress Analysis Laboratory include many fabrication and testing facilities
+required for research projects. The facilities are currently being expanded.
+
+IIT Gandhinagar | Annual Report | 2010 - 2011 | Page 44
+
+Physics
+All first year undergraduate students at the Institute are required to take a laboratory course
+in basic physics. The laboratory consists of a room for general experiments and a dark room.
+There are 12 experiments covering Optics, Electricity and Magnetism, Modern Physics,
+Thermodynamics and Classical Mechanics. The procured equipment include Grating
+Spectrometer and Fresnel's Biprism with optical bench (Indosaw), Newton's Rings
+(Holmarc), Frank Hertz Experiment and Planck's constant (Scientific Equipments India Ltd).
+The equipment that were fabricated pertain to the Helmholtz Coil experiment and the
+Thermistor Characteristics experiment. Four sets of all experimental equipment are
+available to the students for hands-on experience. Apart from these experiments, the Physics
+laboratory also has Moving coil galvanometers (spot reflection type and suspended mirror
+type) and compound pendulum experiments. Cathode ray oscilloscopes (Scientech,
+Scientific and Aplab), Signal generators (Scientech, Scientific), DC power supplies and
+several optical components are available for use in many experiments.
+Three new experiments that were recently added include Universal B-H Curve Tracer,
+Dielectric Constant (Mittal Enterprises) and Measurement of e/m by Thomson method
+(Besto). The first two are based on the concepts of Electricity and Magnetism and the third is
+based on Modern Physics.
+The students of IIT Gandhinagar, in collaboration with the Inter-University Center for
+Astronomy and Astrophysics (IUCAA) Pune developed an astronomical telescope, which is
+being used for general sky observation by IITGN students. An experimental kit (electricity,
+magnetism and thermodynamics) prepared by the Indian Academy of Sciences, Bangalore is
+also available in the Physics laboratory.
+The present Physics faculty have experimental research interests in the areas of High
+Pressure Raman and Infrared Spectroscopy of novel materials and ferrofluids. The research
+equipment already procured include a Cone/Plate Viscometer (Brookfields, USA), a
+Thermal Conductivity Measuring System LAMBDA (F5 Technology, Germany), pulsed
+field magnetometer (manufactured locally) and other facilities used for wet chemistry
+research. An AC susceptometer for magnetic measurements is being fabricated.
+
+IIT Gandhinagar | Annual Report | 2010 - 2011 | Page 45
+
+New Buildings
+Two new temporary buildings, each with an area of 1000 sq. m., have been built by the
+Institute on the VGEC campus through the CPWD. The construction of these buildings was
+carried out on a war footing in order to house expanded laboratory facilities, provide office
+space to faculty and research scholars and meet the requirement of new class-rooms.
+Another building with an area of 2010 sq. m. is under construction.
+
+IIT Gandhinagar | Annual Report | 2010 - 2011 | Page 46

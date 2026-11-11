@@ -1,0 +1,1096 @@
+#flags:
+
+CHECKLIST OF THE BIRDS ON IIT (Gandhinagar) PREMISES
+(BASED ON AVIFAUNAL SURVEYS CONDUCTED FROM NOVEMBER 2016 TO FEBRUARY 2017)
+
+SN
+
+Global
+Threat
+Status
+(NT/
+VU/
+EN/CR)
+
+Schedule
+as per
+Wildlife
+(Protection
+) Act, 1972
+(I/II)
+
+Main
+Feeding
+niche
+
+Species
+
+Scientific Name
+
+PELICANS
+Great White Pelican
+1
+
+Pelecanus onocrotalus
+
+Pelecanidae
+
+RM
+
+VU
+
+-
+
+Piscivore
+
+Phalacrocorax niger
+
+Phalacrocoracidae
+
+RM
+
+-
+
+-
+
+Piscivore
+
+Cattle Egret
+
+Bubulcus ibis
+
+Ardeidae
+
+RM
+
+-
+
+-
+
+Insectivore
+
+7
+
+Great Egret
+Little Egret
+Intermediate Egret**
+Grey Heron
+
+Casmerodius albus
+Egretta garzetta
+Mesophoyx intermedia
+Ardea cinerea
+
+Ardeidae
+Ardeidae
+Ardeidae
+Ardeidae
+
+RM
+R
+RM
+RM
+
+-
+
+-
+
+8
+
+Striated Heron
+
+Butorides striatus
+
+Ardeidae
+
+RB
+
+-
+
+-
+
+Piscivore
+Piscivore
+Piscivore
+Piscivore
+Piscivore
+Piscivore
+
+R
+
+-
+
+-
+
+CORMORANTS
+Little Cormorant
+2
+HERONS & EGRETS
+3
+4
+5
+6
+
+Family
+
+Residential
+Status
+(for
+Indian
+Subcontinent)
+
+Ardeidae
+
+9
+
+Indian Pond Heron
+
+Ardeola grayii
+
+1
+
+IBIS & SPOONBILLS
+10 Black Ibis
+11
+
+Pseudibis papillosa
+Threskiornis
+melanocephalus
+Plegadis falcinellus
+Platalea leucorodia
+
+Black-Headed Ibis
+Glossy Ibis
+13 Euratian Spoonbill
+DUCKS & GEESE
+Sarkidiornis melanotos
+14 Comb Duck
+Anser anser
+15 Greylag Goose**
+KITES
+Milvus migrans
+16 Black Kite
+Elanus caeruleus
+17 Black-shouldered Kite
+Accipiter badius
+18 Shikra
+OSPREY
+Pandion haliaetus
+19 Osprey
+PHEASENT,PARTRIDGES & QUAILS
+Coturnix coturnix
+20 Common Quail
+Francolinus
+pondicerianus
+21 Grey Francolin
+Pavo cristatus
+22 Indian Peafowl
+LAPWINGS & PLOVERS
+Vanellus indicus
+23 Red-Wattled Lapwing
+Vanellus malabaricus
+24 Yellow-Wattled Lapwing
+Charadrius dubius
+25 Little Ringed Plover
+GODWITS, SANDPIPERS & SHANKS
+Limosa limosa
+26 Black-Tailed Godwit
+Actitis hypoleucos
+27 Common Sandpiper
+12
+
+28
+
+Common Greenshank
+
+Tringa nebularia
+
+Threskiornithidae
+Threskiornithidae
+
+R
+R
+
+NT
+
+-
+
+Omnivore
+Omnivore
+
+Threskiornithidae
+Threskiornithidae
+
+RM
+RM
+
+-
+
+I
+
+Omnivore
+Omnivore
+
+Anatidae
+Anatidae
+
+R
+M
+
+-
+
+-
+
+Omnivore
+Herbivore
+
+Accipitridae
+Accipitridae
+Accipitridae
+
+R
+R
+R
+
+-
+
+-
+
+Carnivore
+Carnivore
+Carnivore
+
+Pandionidae
+
+RM
+
+-
+
+I
+
+Piscivore
+
+Phasianidae
+Phasianidae
+
+RM
+
+-
+
+-
+
+Granivore
+
+Phasianidae
+
+R
+R
+
+-
+
+I
+
+Granivore
+Omnivore
+
+Charadriidae
+Charadriidae
+Charadriidae
+
+R
+R
+RM
+
+-
+
+-
+
+Insectivore
+Insectivore
+Carnivore
+
+Scolopacidae
+Scolopacidae
+
+M
+RM
+
+NT
+-
+
+-
+
+Scolopacidae
+
+M
+
+-
+
+Insectivore
+Insectivore
+Insectivore
+
+2
+
+STILT
+29 Black-Winged Stilt
+THICK-KNEES
+
+Himantopus himantopus
+
+Recurvirostridae
+
+RM
+
+-
+
+-
+
+Burhinus oedicnemus
+
+Burhinidae
+
+R
+
+-
+
+-
+
+Sterna aurantia
+
+Laridae
+
+R
+
+NT
+
+-
+
+Piscivore
+
+Columba livia
+Streptopelia decaocto
+Streptopelia senegalensis
+Streptopelia chinensis
+
+Columbidae
+Columbidae
+Columbidae
+Columbidae
+Columbidae
+
+R
+R
+R
+R
+
+-
+
+-
+
+Granivore
+Granivore
+Granivore
+Granivore
+
+R
+
+-
+
+-
+
+Frugivore
+
+Psittacula cyanocephala
+Psittacula krameri
+
+Psittacidae
+Psittacidae
+
+R
+R
+
+-
+
+-
+
+Frugivore
+Frugivore
+
+Eudynamys scolopacea
+Centropus sinensis
+
+Cuculidae
+Cuculidae
+
+R
+R
+
+-
+
+-
+
+Frugivore
+Frugivore
+
+Athene brama
+
+Strigidae
+
+R
+
+-
+
+-
+
+Insectivore
+
+Ceryle rudis
+
+Halcyon smyrnensis
+
+Alcedinidae
+Alcedinidae
+
+RB
+R
+
+-
+
+-
+
+Piscivore
+Carnivore
+
+Merops orientalis
+
+Meropidae
+
+R
+
+-
+
+-
+
+Insectivore
+
+Coracias benghalensis
+
+Coraciidae
+
+R
+
+-
+
+-
+
+Insectivore
+
+Carnivore
+Carnivore
+
+Eurasian Thick-Knee
+TERNS
+31 River Tern
+PIGEONS & DOVES
+32 Blue Rock Pigeon
+33 Eurasian Collared Dove
+34 Laughing Dove
+35 Spotted Dove
+Yellow-footed Green
+36 Pigeon
+PARAKEETS
+37 Plum-headed Parakeet
+38 Rose-Ringed Parakeet
+CUCKOOS & COUCALS
+39 Asian Koel
+40 Greater Coucal
+OWLETS
+41 Spotted Owlet
+KINGFISHERS
+30
+
+42
+43
+
+Pied Kingfisher
+White-throated Kingfisher
+
+BEE-EATER
+44 Green Bee-Eater
+ROLLERS
+45 Indian Roller
+
+Treron phoenicopterus
+
+3
+
+HOOPOES
+46 Common Hoopoe
+HORNBILL
+47 Indian Grey Hornbill
+BARBETS
+
+Upupa epops
+
+Upupidae
+
+M
+
+-
+
+-
+
+Insectivore
+
+Ocyceros birostris
+
+Bucerotidae
+
+R
+
+-
+
+-
+
+Omnivore
+
+Megalaima haemacephala
+
+Capitonidae
+
+RB
+
+-
+
+-
+
+Frugivore
+
+Dinopium benghalense
+
+Picidae
+
+-
+
+-
+
+Insectivore
+
+Eremopterix grisea
+
+Alaudidae
+
+R
+
+-
+
+-
+
+Omnivore
+
+Ptyonoprogne concolor
+Riparia riparia
+Hirundo smithii
+Hirundo rustica
+
+Hirundinidae
+Hirundinidae
+Hirundinidae
+
+R
+M
+R
+RM
+
+-
+
+-
+
+Insectivore
+Insectivore
+Insectivore
+Insectivore
+
+Lanius vittatus
+
+Laniidae
+
+R
+
+Brown Shrike
+Large Cuckoo Shrike
+
+Lanius cristatus
+Coracina macei
+
+Laniidae
+Campephagidae
+
+PM
+R
+
+Lanius schach
+
+Laniidae
+
+R
+
+-
+
+Insectivore
+Insectivore
+
+Long-Tailed Shrike
+DRONGOS
+59 Black Drongo
+MINIVETS
+60 Small Minivet
+
+-
+
+Dicrurus macrocercus
+
+Dicruridae
+
+R
+
+-
+
+-
+
+Insectivore
+
+48
+
+Coppersmith Barbet
+
+WOODPECKERS
+49 Lesser Golden-backed
+woodpecker
+LARKS & SPARROW-LARKS
+50 Ashy-Crowned SparrowLark
+MARTINS & SWALLOWS
+51 Dusky Crag Martin
+52 Sand Martin
+53 Wire-tailed Swallow
+54 Barn Swallow
+SHRIKES
+55 Bay-Backed Shrike
+56
+57
+58
+
+Hirundinidae
+
+-
+
+Campephagidae
+Pericrocotus
+cinnamomeus
+
+Carnivore
+
+Carnivore
+
+Insectivore
+R
+
+-
+
+4
+
+STARLINGS & MYNAS
+61 Bank Myna
+62 Common Myna
+63 Rosy Starling
+64 Brahminy Starling
+CROWS
+65 House Crow
+66 Large-billed crow
+67 Rufous Treepie
+BULBULS
+68 Red-Vented Bulbul
+
+Acridotheres ginginianus
+Acridotheres tristis
+Sturnus roseus
+Sturnus pagodarum
+
+Sturnidae
+Sturnidae
+Sturnidae
+Sturnidae
+
+R
+R
+M
+R
+
+-
+
+-
+
+Frugivore
+Frugivore
+Omnivore
+Omnivore
+
+Corvus splendens
+Corvus macrorhynchos
+Dendrocitta vagabunda
+
+Corvidae
+Corvidae
+Corvidae
+
+R
+R
+R
+
+-
+
+-
+
+Carnivore
+Carnivore
+Frugivore
+
+Pycnonotus cafer
+
+Pycononotidae
+
+R
+
+-
+
+-
+
+White-Eared Bulbul
+IORAS
+70 Common Iora
+BABBLERS
+71 Jungle Babbler
+72 Large Grey Babbler
+73 Yellow-eyed babbler
+74 Common Babbler
+PRINIAS & WARBLERS
+75 Ashy Prinia
+76 Common Chiffchaff
+77 Common Tailorbird
+78 Jungle Prinia
+79 Lesser Whitethroat
+80 Plain Prinia
+
+Pycnonotus leucotis
+
+Pycononotidae
+
+R
+
+-
+
+-
+
+Nector
+Feeding
+Frugivore
+
+Aegithina tiphia
+
+Irenidae
+
+R
+
+-
+
+-
+
+Insectivore
+
+Turdoides striata
+Turdoides malcolmi
+Chrysomma sinense
+Turdoides caudata
+
+Leiothrichidae
+Leiothrichidae
+Sylviidae
+Leiothrichidae
+
+R
+R
+R
+
+-
+
+-
+
+Insectivore
+Insectivore
+Insectivore
+
+Prinia socialis
+Phylloscopus collybita
+Orthotomus sutorius
+Prinia sylvatica
+sylvia curruca
+Prinia inornata
+
+Sylviinae
+Sylviinae
+Sylviinae
+Sylviinae
+Sylviinae
+Sylviinae
+
+R
+M
+R
+R
+M
+R
+
+-
+
+-
+
+Zitting Cisticola
+
+Cisticola juncidis
+
+Sylviinae
+
+R
+
+-
+
+-
+
+Insectivore
+Insectivore
+Insectivore
+Insectivore
+Insectivore
+Insectivore
+Insectivore
+
+69
+
+81
+
+5
+
+FANTAILS
+82 White-browed Fantail
+Rhipidura aureola
+Flycatcher
+Rhipidura albogularis
+83 White-spotted Fantail
+ROBINS, WHEATERS, BUSHCHATS & REDSTART
+Saxicoloides fulicata
+84 Indian Robin
+Copsychus saularis
+85 Oriental Magpie-robin
+Saxicola macrorhyncha
+86 Stoliczka's Bushchat
+Saxicola caprata
+87 Pied Bushchat
+Oenanthe isabellina
+88 Isabelline Wheatear
+Saxicola torquata
+89 Common Stonechat
+90 Brown Rock Chat/ Indian
+Chat
+Cercomela fusca
+Phoenicurus ochruros
+91 Black Redstart
+Luscinia svecica
+92 Bluethroat
+WAGTAILS & PIPITS
+Anthus trivialis
+93 Tree Pipit
+Motacilla
+maderaspatensis
+94 White-browed Wagtail
+Motacilla alba
+95 White Wagtail
+SUNBIRDS
+96
+
+Purple Sunbird
+WHITE-EYES
+97 Oriental White-eye
+MUNIAS
+
+Cinnyris asiaticus
+Zosterops palpebrosus
+
+Rhipiduridae
+
+R
+
+-
+
+-
+
+Insectivore
+
+Rhipiduridae
+
+R
+
+-
+
+-
+
+Insectivore
+
+Muscicapidae
+Muscicapidae
+Muscicapidae
+Muscicapidae
+Muscicapidae
+Muscicapidae
+Turdinae
+
+R
+R
+R
+R
+M
+RM
+
+VU
+-
+
+-
+
+Insectivore
+Insectivore
+Insectivore
+Insectivore
+Insectivore
+Insectivore
+
+RB,M
+RM
+RM
+
+-
+
+-
+
+Insectivore
+Insectivore
+Insectivore
+
+M
+
+-
+
+-
+
+Insectivore
+
+R
+RM
+
+-
+
+-
+
+Insectivore
+Insectivore
+
+R
+
+-
+
+-
+
+Nectar
+Feeding
+
+R
+
+-
+
+-
+
+Insectivore
+
+Muscicapidae
+Sylviinae
+Motacillidae
+Motacillidae
+Motacillidae
+Nectariniidae
+
+Zosteropidae
+Estrildidae
+
+98
+
+Indian Silverbill
+
+Lonchura malabarica
+
+Granivore
+R
+
+-
+
+6
+
+SPARROWS
+99 Chestnut-shouldered
+Petronia
+100 House Sparrow
+WEAVERS
+101 Baya Weaver
+
+Petronia Xanthocollis
+Passer Domesticus
+Ploceus philippinus
+
+Passerinae
+Passerinae
+
+R
+R
+
+-
+
+-
+
+Granivore
+Granivore
+
+Ploceinae
+
+R
+
+-
+
+-
+
+Granivore
+
+Notes:
+1) NT: Near Threatened, VU: Vulnerable, EN: Endangered, CR: Critically Endangered as per IUCN Red List of
+Threatened Species,
+2) R: Resident; M: Migrant and RM: Resident-Migratory
+3) **: Birds recorded by IIT students on 18-19 February 2017 in coordination with Sundarvan, Ahmedabad
+STUDY TEAM FOR AVIFAUNAL SURVEY
+OVERALL TECHNICAL GUIDANCE
+Prof. C. N. Pandey, IIT, Gandhinagar
+GROUP LEADER FOR FIELD SURVEY & CHECKLIST COMPILATION:
+Dr. Ketan Tatu, Senior Scientist, GEER Foundation, Gandhinagar
+SURVEY TEAM MEMBERS:
+Dr. Ketan Tatu, Senior Scientist, GEER Foundation, Gandhinagar
+Dr. Sandeep Munjpara, Research Associate, GEER Foundation, Gandhinagar
+Mr. Jigar Joshi, Senior Research Fellow, GEER Foundation, Gandhinagar
+Mr Darpak Joshi, Junior Research Fellow, GEER Foundation, Gandhinagar
+
+7

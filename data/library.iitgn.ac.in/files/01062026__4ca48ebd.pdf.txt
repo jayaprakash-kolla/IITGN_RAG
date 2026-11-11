@@ -1,0 +1,157 @@
+#flags:
+
+Indian Institute of Technology Gandhinagar
+LIBRARY
+
+New Addition of Books Vol. 19 No. 22, 2026
+(Added during 25th May 2026 – 29th May 2026)
+Available for the issue from 06th June 2026
+Where are these books?
+New Addition Books are displayed near the Library Information Desk
+How to reserve these books?
+You may Reserve a book through Online Catalogue https://catalog.iitgn.ac.in/ using Place hold option
+How to suggest a book?
+You may suggest a book through an email or using the “Book Indent Form” which is available on the
+website, or through the online catalogue https://catalog.iitgn.ac.in/ using the “Your purchase
+suggestions” option.
+
+COMPUTER SCIENCE
+Title: Quantum information science
+Author: Manenti, Riccardo
+Publisher: Oxford: Oxford University Press, 2023
+Call No.: 004.1 MAN
+Acc. No.: 037047
+
+Title: Introduction to parallel programming
+Author: Pacheco, Peter S
+Publisher: Cambridge: Morgan Kaufmann Publishers, 2022
+Call No.: 005.275 PAC
+Acc. No.: 037033
+
+LIBRARY & INFORMATION SCIENCES
+Title: Leading in libraries: perspectives from lived experiences
+Author: Kumaran, Maha
+Publisher: Chicago: ALA Editions, 2026
+Call No.: 025.1 KUM
+Acc. No.: 037036
+
+POLITICAL SCIENCES
+Title: Studying public policy: principles and processes
+Author: Howlett, Michael
+Publisher: Ontario: Oxford University Press, 2020
+Call No.: 320.6 HOW
+Acc. No.: 037048
+
+ECONOMICS- PRODUCTION
+Title: Good manufacturing practices for pharmaceuticals
+Author: Bunn, Graham P.
+Publisher: New York: CRC Press. 2021
+Call No.: 338.476151 BUN
+Acc. No.: 037042
+
+ETIQUETTES
+Title: Etiquette guide to Japan: know the rules that make the difference!
+Author: Mente, Boye Lafayette De
+Publisher: Tokyo: Tuttle Publishing, 2015
+Call No.: 395.052 MEN
+Acc. No.: 037049
+
+SCIENCES
+Title: Science and the modern world
+Author: Whitehead, Alfred North
+Publisher: Delhi: LG Publishers, 2021
+Call No.: 501 WHI
+Acc. No.: 037034
+
+PHYSICS
+Title: Legacy of Albert Einstein: a collection of essays in celebration of the year of
+physics
+Author: Wadia, Spenta R (Ed.)
+Publisher: Singapore: World Scientific Publishing, 2007
+Call No.: 530.092 WAD
+Acc. No.: 037038
+Title: Green's functions for solid state physicists
+Author: Doniach, S
+Publisher: London: Imperial College Press, 1998
+Call No.: 530.41 DON
+Acc. No.: 037037
+
+Title: Quest for symmetry: selected works of Bunji Sakita
+Author: Kikkawa, Keiji
+Publisher: Singapore: World Scientific Publishing, 1999
+Call No.: 539.725 KIK
+Acc. No.: 037039
+
+EARTH SCIENCES
+Title: Structural geology: fundamentals and modern developments
+Author: Ghosh, S.K.
+Publisher: Oxford: Pergamon Press, 1993
+Call No.: 551.8 GHO
+Acc. No.: 037041
+
+Title: Mineral systems, Earth evolution, and global metallogeny
+Author: Groves, David Ian
+Publisher: Netherland: Elsevier, 2023
+Call No.: 553 GRO
+Acc. No.: 037045
+
+Title: Processes and ore deposits of ultramafic-mafic magmas through space and
+time
+Author: Mondal, Sisir K.
+Publisher: Netherland: Elsevier, 2018
+Call No.: 553.1 MON
+Acc. No.: 037046
+Title: Hydrothermal processes and mineral systems (2 vol. set)
+Author: Pirajno, Franco
+Publisher: Australia: Springer, 2009
+Call No.: 553.7 PIR
+Acc. No.: 037043, 037044
+
+MECHANICAL VIBRATIONS
+Title: Random vibration in mechanical systems
+Author: Crandall, Stephen H.
+Publisher: London: Academic Press, 1964
+Call No.: 620.3 CRA
+Acc. No.: 037040
+
+LITERATURE
+Title: My tryst with science: reflections in verse and prose
+Author: Iyer, Mahadeva
+Publisher: New Delhi: Authorspress, 2026
+Call No.: 808 IYE
+Acc. No.: 037035
+
+Title: Guardian and a thief
+Author: Majumdar, Megha
+Publisher: Gurugram: Hamish Hamilton, 2025
+Call No.: 813.6 MAJ
+Acc. No.: 037031
+Title: Endling: a novel
+Author: Reva, Maria
+Publisher: London: Virago Press, 2025
+Call No.: 813.6 REV
+Acc. No.: 037027
+
+Title: Great Eastern hotel
+Author: Joshi, Ruchir
+Publisher: New Delhi: Fourth Estate India, 2025
+Call No.: 823.92 JOS
+Acc. No.: 037028
+
+Title: Silk route
+Author: Kundalkar, Sachin
+Publisher: Gurugram: Penguin Books, 2025
+Call No.: 891.463 KUN
+Acc. No.: 037032
+
+Title: Second marriage of Kunju Namboodiri and other classic Malayalam stories
+Author: Menon, Venugopal
+Publisher: Gurugram: Harper Perennial, 2025
+Call No.: 894.812 MEN
+Acc. No.: 037029
+
+Title: Teashop in Kamalapura and other classic Kannada stories
+Author: Punitha, Susheela (Tr.)
+Publisher: Gurugram: Harper Perennial, 2025
+Call No.: 894.814 PUN
+Acc. No.: 037030

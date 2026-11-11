@@ -1,0 +1,50 @@
+Title: IIT Gandhinagar | Nithin V. George
+Source: https://iitgn.ac.in/faculty/ee/fac-nithin
+
+# Nithin V. George
+
+-  Electrical Engineering
+Nithin V. George
+
+## Nithin V. George
+
+TEOCO Chair Professor, Electrical Engineering
+
+- BTech: University of Kerala, 2007
+- MTech: National Institute of Technology Rourkela, 2009
+- PhD: Indian Institute of Technology Bhubaneswar, 2012
+
+Email: nithin -AT- iitgn.ac.in
+
+ Website :  https://sites.google.com/iitgn.ac.in/nvg/
+
+Office:  13/322A
+VOIP:  2447 / 2014
+
+S. Ghosh, N. V. George, “A generalized family of saturation composition cost function based robust adaptive filters", IEEE Transactions on Signal Processing, DOI: 10.1109/TSP.2026.3653790, (2026), 1-16, In Press.
+
+S. Joel, A. Frank, I. Cohen, N. V. George, “Generalized sidelobe canceller for time-domain region-of-interest beamforming", IEEE Transactions on Audio, Speech and Language Processing, DOI: 10.1109/TASLPRO.2026.3657239, (2026), 1-16, In Press.
+
+S. Joel, S. K. Yadav, N. V. George, “Integrated approach for efficient adaptive underdetermined DOA estimation: Coarray LMS with covariance matrix error removal", IEEE Transactions on Vehicular Technology, 75(1), (2026), 1649 - 1654.
+
+S. Joel, M. L. N. S. Karthik, S. K. Yadav, N. V. George, “Adaptive direction of arrival estimation using sparsity constrained complex NLMS algorithm with variable penalty factor", IEEE Transactions on Vehicular Technology, 74(8), (2025), 12603-12615.
+
+S. K. Yadav, S. R. M. Prasanna, N. V. George, “Near-field source localization and beamforming in the spherical sector harmonics domain", IEEE Journal of Selected Topics in Signal Processing, 18(4), (2024), 546 - 560.
+
+M. L. N. S. Karthik, S. Pradhan, N. V. George, "Performance evaluation of an active headrest system using a filtered-x least mean square/fourth algorithm with virtual sensing", The Journal of the Acoustical Society of America, 154(5), (2023), 2878-2891.
+
+- Professor, Indian Institute of Technology Gandhinagar (Nov 2024 to present)
+- Associate Professor, Indian Institute of Technology Gandhinagar (Aug 2018 to Nov 2024)
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Nov 2012 to Aug 2018)
+- Visiting Research Fellow, Curtin University, Australia (May 2017 to Aug 2017)
+- Post Doctoral Fellow, Indian Institute of Technology Bhubaneswar (July 2012 - Nov 2012)
+- Project Officer, Indian Institute of Technology Bhubaneswar (July 2009 - Oct 2009)
+- Visiting Graduate Student, University of Western Ontario, Canada (Oct 2008 - Mar 2009)
+
+- ● Active Noise Control
+- ● Acoustic Beamforming
+- ● Adaptive Signal Processing
+- ● Array Signal Processing
+- ● Assistive Listening Devices
+
+Complete List of Publications

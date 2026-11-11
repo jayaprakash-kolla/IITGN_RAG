@@ -1,0 +1,618 @@
+#flags:
+
+A new approach to wind energy
+John O. Dabiri
+California Institute of Technology
+jodabiri@caltech.edu
+
+Our goal: Develop wind energy technologies that match
+the global reach of the wind itself
+Global wind map
+Only 4 countries get more than
+10% of electricity from wind
+
+Many developing countries
+have wind but little electricity
+
+Wind speed over water
+
+Wind speed over land
+
+3Tier, Inc.
+
+Evaluating Wind Energy Technologies
+
+Turbine efficiency
+
+Wind farm power density
+
+$
+
+A
+U
+
+Cp =
+
+Cost of electricity
+
+P
+AU3
+
+PD =
+
+PWF
+AWF
+
+LCOE =
+
+¢
+kWh
+
+Evaluating Wind Energy Technologies
+
+Turbine efficiency
+
+Wind farm power density
+
+$
+
+A
+U
+
+Cp =
+
+Cost of electricity
+
+P
+AU3
+
+PD =
+
+PWF
+AWF
+
+LCOE =
+
+¢
+kWh
+
+From closer spacing…to lower cost?
+Closer turbine spacing can be used to achieve…
+
+More efficient wind farms, which can generate sufficient power using…
+
+Smaller wind turbines, which can achieve on a per-watt basis…
+
+Lower costs for materials, manufacturing, installation, O&M
+
+LOWER COST OF ENERGY
+
+Evaluating Wind Energy Technologies
+The usual starting point: turbine efficiency
+
+VS.
+
+100
+meters
+
+Horizontal-axis wind turbine
+(HAWT)
+
+10
+meters
+
+Vertical-axis wind turbine
+(VAWT)
+
+Evaluating Wind Energy Technologies
+The usual starting point: turbine efficiency
+What fraction of wind energy flux through the swept area is converted to electricity?
+
+>
+
+100
+meters
+
+Horizontal-axis wind turbine
+(HAWT)
+
+10
+meters
+
+Vertical-axis wind turbine
+(VAWT)
+
+Evaluating Wind Energy Technologies
+The usual starting point: turbine efficiency
+What is the maximum fraction of wind energy flux through the swept area
+that can be converted to electricity?
+Efficiency
+60%
+50%
+
+Betz Efficiency Limit
+Modern HAWTs
+
+40%
+
+Modern HAWTs approach
+theoretical maximum efficiency
+
+30%
+
+Is there room for fundamental
+improvement in wind energy?
+
+20%
+10%
+
+Tip Speed Ratio
+netfirms.com
+
+Evaluating Wind Energy Technologies
+Our starting point: wind resource utilization
+
+Evaluating Wind Energy Technologies
+Our starting point: wind resource utilization
+What fraction of wind energy flux into the wind farm volume is converted to electricity?
+
+Evaluating Wind Energy Technologies
+Our starting point: wind resource utilization
+What fraction of wind energy flux into the wind farm volume is converted to electricity?
+
+Frontal kinetic energy flux
+Phorz = ½AfrontalU3
+
+Evaluating Wind Energy Technologies
+Our starting point: wind resource utilization
+What fraction of wind energy flux into the wind farm volume is converted to electricity?
+
+Frontal kinetic energy flux
+
+Planform kinetic energy flux
+
+Phorz = ½AfrontalU3
+
+Pvert -AplanformU <u’w’>
+
+Turbulence velocity fluctuations u’ (streamwise) and w’ (wall-normal)
+Ensemble average <  >
+
+The planform kinetic energy flux (AplanformU <u’w’>)…
+1. is the primary power source for most turbines in large-scale wind farms (Cal et. al. 2010)
+
+2. supersedes the Betz limit as the relevant constraint on wind farm performance
+WHY?
+ The Betz calculation does not account for wind power in the
+turbine wake that is extracted by neighboring turbines
+ The Betz calculation does not account for wind power that is
+not extracted in the region between turbines
+
+leftover
+wind
+power
+
+Cp = 0.5
+
+Cp = 0.5
+Cp = 0
+
+Cp = 0.5
+Cp = 0
+
+Modelling the planform flux limit
+
+Pvert |  UAplanformU u cwc
+Assume log wind profile:  u cwc
+
+ª
+º
+UN
+«
+»
+>
+@
+
+ln
+z
+d
+z
+0 ¼
+¬
+
+2
+*
+
+u
+
+friction velocity, u*
+von Karman constant, N | 0.4
+zero plane displacement, d | 2H / 3
+roughness length, z0 | H / 10
+
+U
+
+H
+
+H
+
+Foken 2008
+
+Modelling the planform flux limit
+
+Pvert |  UAplanformU u cwc
+Assume log wind profile:  u cwc
+
+2
+*
+
+u
+
+ª
+º
+UN
+«
+»
+>
+@
+
+ln
+z
+d
+z
+0 ¼
+¬
+friction velocity, u*
+von Karman constant, N | 0.4
+zero plane displacement, d | 2H / 3
+roughness length, z0 | H / 10
+
+The energy flux through the top of a wind farm is
+68 watts per square meter in 8 m/s mean wind speed
+
+How do existing wind farms compare to this upper limit?
+
+DJC Mackay 2010
+
+2.5 versus 68 W m-2
+
+2.5 versus 68 W m-2
+Whereas modern wind turbines achieve power coefficients that approach the theoretical
+maximum, existing wind farm performance remains far below the flux limit
+Why?
+
+Wake interactions reduce wind farm performance
+
+Horns Rev Offshore Wind Farm
+
+2.5 versus 68 W m-2
+Whereas modern wind turbines achieve power coefficients that approach the theoretical
+maximum, existing wind farm performance remains far below the flux limit
+Why?
+Turbine spacing requirements directly affect wind farm power density
+Power Density Calculation
+PD =
+4 x rated power x capacity factor
+ (turbine diameter x turbine spacing) 2
+For six-diameter average turbine spacing
+and 30% capacity factor…
+DxS
+
+Turbine #1 (2.5 MW, 100 m dia.): PD = 2.7 W/m2
+Turbine #2 (3.0 MW, 112 m dia.): PD =2.5 W/m2
+If turbine spacing is reduced to four diameters…
+Turbine #1 (2.5 MW, 100 m dia.): PD = 6.0 W/m2
+Turbine #2 (3.0 MW, 112 m dia.): PD =5.7 W/m2
+i.e. power density is more than doubled.
+
+Additional challenges for conventional wind energy
+ Structure size, associated design requirements and materials costs
+
+johnrsweet.com
+
+Additional challenges for conventional wind energy
+ Structure size, associated design requirements and materials costs
+ Logistics of installation and maintenance
+
+Paul
+Anderson
+
+Additional challenges for conventional wind energy
+ Structure size, associated design requirements and materials costs
+ Logistics of installation and maintenance
+ Societal acceptance
+- impact on birds/bats
+- visual signature
+- acoustic signature
+- radar signature
+
+Google Images
+
+Additional challenges for conventional wind energy
+ Structure size, associated design requirements and materials costs
+ Logistics of installation and maintenance
+ Societal acceptance
+ Access in the developing world
+limited infrastructure
+
+Google Images
+
+A new approach: Optimized arrays of smaller vertical-axis wind turbines
+
+ Smaller structure size, materials costs, and wind farm signatures
+ Simpler logistics of installation, operations, and maintenance
+ Scalable from distributed to utility power
+ Safer for birds and bats
+
+A new approach: Optimized arrays of smaller vertical-axis wind turbines
+
+Power Density Calculation Revisited
+PD =
+4 x rated power x capacity factor
+ (turbine diameter x turbine spacing) 2
+
+DxS
+
+For six-diameter average turbine spacing and 30% capacity factor…
+Windspire Energy VAWT
+0.0012 MW, 1.2 m dia.
+PD = 8.8 W/m2
+
+3X power density at 1/10 HAWT height!
+
+A new approach: Optimized arrays of smaller vertical-axis wind turbines
+
+150 Megawatt Wind Farm Comparison
+HAWT
+
+VAWT
+
+Turbine capacity
+
+1.5 MW
+
+3.0 kW
+
+Number of turbines
+
+100
+
+50,000
+
+Wind farm footprint (6D spacing)
+
+77 square km
+
+18 square km
+
+Wind farm footprint (4D spacing)
+
+N/A
+
+8 square km
+
+What is the optimal arrangement of VAWTs in a wind farm?
+
+UW APL GLIDER
+
+Bioinspired Engineering
+Heart Failure
+Diagnosis
+
+Ocean Monitoring
+
+Jellyfish
+Wind Energy
+
+What is the optimal arrangement of VAWTs in a wind farm?
+
+Biological inspiration: Fish Schooling
+
+primary wind
+
+
+Triantafyllou et al. (1995)
+
+‘Optimal’ fish schooling provides our starting point…
+
+Weihs (1975)
+
+2D potential flow VAWT farm model
+2a
+
+Uf
+
+2c
+b
+
+Rated Power Density (W m-2)
+
+Model predicts order-of-magnitude increase in power density
+a = 1.2D, b = 0.4D, c = 2D
+
+Whittlesey, Liska, Dabiri (Bioinspiration and Biomimetics, 2010)
+
+“Clever idea, but does it work for real turbines?”
+Challenges:
+ computer modeling requires empirical data inputs
+ wind tunnel testing requires assumptions to scale-up measurements
+ neither can replicate natural wind conditions
+
+…end of story?
+
+“Clever idea, but does it work for real turbines?”
+Challenges:
+ computer modeling requires empirical data inputs
+ wind tunnel testing requires assumptions to scale-up measurements
+ neither can replicate natural wind conditions
+
+…end of story?
+
+Caltech Field Laboratory for Optimized Wind Energy
+
+(reduced visual signature)
+
+Field Study Results
+6-VAWT array measured over 250 continuous hours
+4D
+
+4D
+
+Field Study Results
+6-VAWT array measured over 250 continuous hours
+mean power above cut-in wind speed
+mean power, continuous
+
+Order-of-magnitude
+improvement of
+wind farm performance
+
+existing wind farms
+
+Planform Kinetic Energy Flux = ȡU<u’w’> (W m-2)
+
+“Potential order-of-magnitude enhancement of wind farm power density
+via counter-rotating vertical-axis wind turbine arrays”
+Volume 3, July 2011
+
+Common questions (“Yeah, but…”)
+Can these results be achieved in a larger array?
+Will wind pass around a larger array instead of through it?
+Wind profile measurements using 7 three-component sonic anemometers
+
+Anne Cusack, Los Angeles Times
+
+Common questions (“Yeah, but…”)
+Can these results be achieved in a larger array?
+Will wind pass around a larger array instead of through it?
+Wind profile measurements using 7 three-component sonic anemometers
+
+8 diameters
+
+measurement transect
+
+8 diameters
+
+prevailing wind
+
+reference met tower
+
+Common questions (“Yeah, but…”)
+Can these results be achieved in a larger array?
+Will wind pass around a larger array instead of through it?
+Wind speed at rotor mid-span
+VAWT pair locations
+
+1
+
+Wind speed decreases
+upstream of the VAWT array
+i.e. “blockage effect”
+
+2 However, wind speed achieves
+
+1
+2
+
+asympotic flow (blue line)
+after third row
+(consistent with HAWT arrays)
+
+Power density based on
+third row VAWTs is
+11 W/m2
+4X HAWT farms
+with no VAWT array
+optimization
+
+Unanswered questions
+How do aerodynamic interactions within the
+VAWT farm determine the overall performance?
+CFD
+Suppression of vortex shedding
+by turbine rotation?
+
+Experiment
+
+TSR = 1.2
+
+U
+
+Snow particle image velocimetry
+
+TSR = 1.5
+
+TSR = 3
+
+Chan et al. 2011
+
+Unanswered questions
+How do aerodynamic interactions within the
+VAWT farm determine the overall performance?
+
+How can canopy flow analogies be applied to understand
+turbulent transport in VAWT farms?
+
+
+
+Unanswered questions
+How do aerodynamic interactions within the
+VAWT farm determine the overall performance?
+
+How can canopy flow analogies be applied to understand
+turbulent transport in VAWT farms?
+
+How can we leverage the smaller VAWT size
+to improve materials costs, O&M, environmental impact, storage, LCOE?
+
+autoanything.com
+
+From closer spacing…to lower cost
+Closer turbine spacing
+
+More efficient wind farms
+
+Smaller wind turbines
+WE
+
+Lower costs for
+materials, manufacturing, installation, maintenance
+
+LOWER COST OF ENERGY
+
+Acknowledgments
+
+Robert Whittlesey
+Aeronautics Grad Student
+(array modeling)
+
+Anna Craig
+Applied Physics Undergrad
+(array modeling)
+
+Quinn Mulligan
+Visiting Undergrad
+(field measurements)
+
+Matthias Kinzel
+Aeronautics Postdoc
+(field measurements)
+
+Brad Saund
+Mechanical Engineering Undergrad
+(wind turbine testing)
+
+http://bioinspired.caltech.edu
+
+Caltech Program in Bio-inspired Wind Energy
+Field Laboratory (Dabiri)
+Wind Tunnel Research (Gharib, McKeon)
+Computational Design (Colonius)
+Materials and Manufacturing (Greer, Grubbs)
+
+
+
+Questions & Comments?
+John O. Dabiri
+California Institute of Technology
+jodabiri@caltech.edu

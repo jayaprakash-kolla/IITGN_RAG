@@ -1,0 +1,42 @@
+Title: IIT Gandhinagar | Mukul Chandorkar
+Source: https://iitgn.ac.in/faculty/ee/fac-mukul
+
+# Mukul Chandorkar
+
+-  Electrical Engineering
+Mukul Chandorkar
+
+## Mukul Chandorkar
+
+Visiting Professor, Electrical Engineering
+
+- BTech: Indian Institute of Technology Bombay, 1984
+- MTech: Indian Institute of Technology Madras, 1987
+- PhD: University of Wisconsin-Madison, USA, 1995
+
+Email: mukul.chandorkar -AT- iitgn.ac.in
+
+Office:  AB 5/318
+
+Mohd. Aquib, A.S. Vijay, S. Doolla and M.C. Chandorkar, "Model Reference Adaptive System Based Apparent Power Sharing in Inverter Based Microgrids", IEEE Transactions on Energy Conversion, vol. 37, September 2022
+
+A. Sundaresan and M.C. Chandorkar, "Traction Motor Bearing Failures Due to Bearing Currents in Electric Locomotives", conf. rec., IEEE Transportation Electrification Conference and Expo, Detroit, USA, 2019
+
+S. Babaei, B. Parkhideh, M.C. Chandorkar, B. Ferdanesh and S. Bhattacharya, "Dual Angle Control for Line-Frequency-Switched Static Synchronous Compensators Under System Faults", IEEE TRansactions on Power Electronics, vol. 29, June 2014
+
+B.M. Joshi and M.C. Chandorkar, "Power failure ride-through in multi-machine drives", conf. rec., IEEE Energy Conversion Congress and Exposition (ECCE), Raleigh, USA, 2012
+
+M.C. Chandorkar, D. Divan, R. Adapa, "Control of parallel connected inverters in standalone AC supply systems", IEEE Transactions on Industry Applications, vol. 29, Jan-Feb 1993
+
+- Visiting Professor, Indian Institute of Technology Gandhinagar (present)
+- Professor, Indian Institute of Technology Bombay (present)
+
+Patents
+
+D.M. Divan, M.C. Chandorkar, "Method and Apparatus for De-Centralized Signal Frequency Restoration in a Distributed UPS System", United States Patent No. 5,596,492, awarded on January 21, 1997. Assignee: Electric Power Research Institute, Inc., Palo Alto, California, USA.
+
+M.C. Chandorkar, "Method for open-loop and closed-loop control of an electrical drive as well as an apparatus for carrying out the method", United States Patent Number 6,166,928, awarded on December 6, 2000. Asignee: DaimlerChrysler AG, Stuttgart, Germany.
+
+- ● Electric Machine Analysis
+- ● Microprocessor Applications in Power Electronics
+- ● Simulation of Power Electronic Circuits

@@ -1,0 +1,44 @@
+Title: IIT Gandhinagar | Vinod Ramakrishnan
+Source: https://iitgn.ac.in/faculty/me/fac-vinod-ramakrishnan
+
+# Vinod Ramakrishnan
+
+-  Mechanical Engineering
+Vinod Ramakrishnan
+
+## Vinod Ramakrishnan
+
+Assistant Professor, Mechanical Engineering
+
+- BTech: Indian Institute of Technology, Gandhinagar, 2018
+- MS: University of California San Diego, 2020
+- PhD: University of California San Diego, 2023
+
+Email: vinod.ramakrishnan -AT- iitgn.ac.in
+
+ Website : doniv22.github.io
+sites.google.com/view/viram-lab
+
+Office:  11/311A
+VOIP:  2466
+
+- V. Ramakrishnan, A. M. Burgos, S. Park, K. H. Matlack, A. Goza, "A Framework to Systematically Study the Fluid-Structure Interaction of Phononic Materials with Aerodynamic Flows", J. Fluids Struct., 145, 104569 (2026) DOI: https://doi.org/10.1016/j.jfluidstructs.2026.104569
+- V. Ramakrishnan and M. J. Frazier, "Pattern Formation in Non-Equilibrium Architected Materials", Adv. Mater. Tech., 11(10), e01325 (2026) DOI: https://doi.org/10.1002/admt.202501325
+- V. Ramakrishnan and K. H. Matlack, "A Quantitative Study of Energy Localization Characteristics in Defect-embedded Monoatomic Phononic Crystals", J. Sound Vib., 614, 119164 (2025) DOI: https://doi.org/10.1016/j.jsv.2025.119164
+- V. Ramakrishnan and M. J. Frazier, "Transition waves in multi-stable metamaterials with space-time modulated potentials", Appl. Phys. Lett., 117, 151901 (2020) DOI: https://doi.org/10.1063/5.0023472
+- V. Ramakrishnan and M. J. Frazier, "Multistable metamaterial on elastic foundation enables tunable morphology for elastic wave control", J. Appl. Phys., 127, 225104 (2020) DOI: https://doi.org/10.1063/1.5145324
+
+- Assistant Professor, Indian Institute of Technology Gandhinagar (Sep 2026 – Present)
+- Postdoctoral Researcher, University of Illinois Urbana-Champaign (September 2023 – August 2026)
+
+Awards
+
+- Scholarship and Teaching for Engineering Postdocs Fellowship, University of Illinois Urbana-Champaign (2024-2025)
+- Jacobs Graduate School of Engineering Fellowship, University of California San Diego (2018-2019)
+- Institute Gold Medal for highest CGPA in Mechanical Engineering, B. Tech Class of 2018, Indian Institute of Technology Gandhinagar
+
+- ● Phononic Crystals and Metamaterials
+- ● Smart Materials
+- ● Linear and Nonlinear Wave Propagation
+- ● Fluid-Metamaterial Interaction
+- ● Flow Control

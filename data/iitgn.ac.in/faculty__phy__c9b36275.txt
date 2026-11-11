@@ -1,0 +1,232 @@
+Title: IIT Gandhinagar | Physics
+Source: https://iitgn.ac.in/faculty/phy
+
+# Physics
+
+##### Back to Faculty
+
+#### Abhinandan Bhattacharjee
+
+PhD (Indian Institute of Technology Kanpur)
+Assistant Professor
+ Quantum Optics and Information, Quantum Imaging and Metrology, Coherence and Entanglement, Ultrafast and Time-Frequency Quantum Optics, Structured Light
+
+## Research Interests
+
+- Quantum Optics and Information
+- Quantum Imaging and Metrology
+- Coherence and Entanglement
+- Ultrafast and Time-Frequency Quantum Optics
+- Structured Light
+
+#### Abhisek Samanta
+
+PhD (TIFR Mumbai)
+Assistant Professor
+ Study of strongly correlated many-body systems, through advanced field-theoretical and numerical techniques
+
+## Research Interests
+
+- Study of strongly correlated many-body systems, through advanced field-theoretical and numerical techniques
+- Superconductivity in thin-films and nanowires: Role of disorder and fluctuations
+- Quantum transport theory: Calculation of Hall, thermopower, Nernst coefficients
+- Quantum Hall Effects
+- Entanglement, thermalization and Many-body localization (MBL)
+
+#### Anand Sankar Sengupta
+
+PhD (IUCAA Pune)
+Associate Professor
+ Detection of gravitational waves, Aspects of CMB data analysis
+
+## Research Interests
+
+- Detection of gravitational waves
+- Aspects of CMB data analysis
+
+#### Arpan Bhattacharyya
+
+PhD (IISc Bangalore)
+Singheswari and Ram Krishna Jha Chair Associate Professor
+ Quantum entanglement in many-body systems, Tensor network methods
+
+## Research Interests
+
+- Quantum entanglement in many-body systems
+- Tensor network methods
+- Computational complexity
+- AdS/CFT correspondence
+- Asymptotic symmetries of spacetime (BMS)
+
+#### Baradhwaj Coleppa
+
+PhD (Michigan State University)
+Associate Professor
+ Beyond the standard model – Model builidng and LHC phenomenology of new states
+
+## Research Interests
+
+- Beyond the standard model – Model builidng and LHC phenomenology of new states
+
+#### Chandan Kumar
+
+PhD (Jawaharlal Nehru Centre for Advanced Scientific Research)
+Assistant Professor
+ Experimental Soft Condensed Matter Physics
+
+## Research Interests
+
+- Experimental Soft Condensed Matter Physics
+- Structural Glass Transition
+- Microfluidics
+- Dynamics and Self-assembly of Complex Colloids
+- Instrumentation
+
+#### Gopinadhan Kalon
+
+PhD (IIT Delhi)
+Kanchan and Harilal Doshi Chair Associate Professor
+(Jointly with Materials Engineering department)
+ Experimental (soft) condensed matter physics
+
+## Research Interests
+
+- Experimental (soft) condensed matter physics
+- Graphene based nanofluidics/desalination techniques
+- Ion/Proton transport through confined structures
+- Device functionalities utilizing surface and interface physics
+- Two-dimensional heterostructures
+
+#### Krishna Kanti Dey
+
+PhD (IIT Guwahati)
+Associate Professor
+ Active matter, Colloidal dynamics, Nanotechnology
+
+## Research Interests
+
+- Active matter
+- Colloidal dynamics
+- Nanotechnology
+
+#### Krista R. Khiangte
+
+PhD (IIT Bombay)
+Assistant Professor
+ Group IV semiconductors, Diluted Magnetic Semiconductors, Magnetic Multilayers
+
+## Research Interests
+
+- Group IV semiconductors
+- Diluted Magnetic Semiconductors
+- Magnetic Multilayers
+
+#### Naveen Sisodia
+
+PhD (IIT Delhi)
+Assistant Professor
+ Modelling of spintronics-based logic-in-memory devices and hardware for neuromorphic computing
+
+## Research Interests
+
+- Modelling of spintronics-based logic-in-memory devices and hardware for neuromorphic computing
+- Modelling skyrmion dynamics in magnetic thin films and exploring their applications in data storage and computation
+- Development of radio frequency sensors and oscillators
+
+#### Prasanna Venkatesh B
+
+PhD (McMaster University)
+Associate Professor
+ Theoretical research in Quantum Optics, Ultracold Atomic Physics, Quantum Thermodynamics
+
+## Research Interests
+
+Theoretical research in
+
+- Quantum Optics
+- Ultracold Atomic physics
+- Quantum thermodynamics
+- Open Quantum Systems
+
+#### Priya Tiwari
+
+PhD (Indian Institute of Science Bengaluru)
+Assistant Professor
+ Two dimensional materials, electronic and thermal transport, quantum Hall Physics
+
+## Research Interests
+
+- Nanoscale device fabrication and characterization
+- Engineering electronic devices using vdW quantum materials
+- electrical transport, thermal transport, and thermoelectric transport
+- Shot noise and thermal noise spectroscopy
+
+#### Ravinder Rupchand Puri
+
+PhD (Bombay University)
+Visiting Professor
+ Theoretical quantum optics, Foundations of quantum mechanics, Quantum information processing
+
+## Research Interests
+
+- Theoretical quantum optics
+- Foundations of quantum mechanics
+- Quantum information processing
+
+#### Rupak Banerjee
+
+PhD (University of Calcutta)
+Associate Professor
+ Nanomaterials in renewable energy harvesting & storage
+
+## Research Interests
+
+- Nanomaterials in renewable energy harvesting & storage
+- Dielectric and piezoelectric properties in Advanced functional materials
+- Physics of surfaces and interfaces
+
+#### Rusa Mandal
+
+PhD (The Institute of Mathematical Sciences)
+Associate Professor
+ Theoretical Particle Physics: Flavour Physics, Dark Matter
+
+## Research Interests
+
+- Theoretical Particle Physics: Flavour Physics
+- Dark Matter
+- Beyond Standard Model Phenomenology
+
+#### Sudipta Sarkar
+
+PhD (University of Pune, IUCAA)
+Professor
+ Gravitation, Black hole physics, Thermodynamics and Quasi normal modes, Field theory in curved space-time
+
+## Research Interests
+
+- Gravitation
+- Black hole physics
+- Thermodynamics and Quasi normal modes
+- Field theory in curved space-time
+
+#### Urjit A. Yajnik
+
+PhD (University of Texas at Austin)
+Visiting Professor
+ - Elementary Particle Physics; Cosmology and unified theories
+
+## Research Interests
+
+- Elementary Particle Physics
+- Cosmology and unified theories.
+
+#### Vinod Chandra
+
+PhD (IIT Kanpur)
+Professor
+ Theoretical High Energy Physics: Physics of Quark-Gluon-Plasma
+
+## Research Interests
+
+- Theoretical High Energy Physics: Physics of Quark-Gluon-Plasma

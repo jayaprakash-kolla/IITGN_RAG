@@ -1,0 +1,82 @@
+Title: IIT Gandhinagar | Arup Lal Chakraborty
+Source: https://iitgn.ac.in/faculty/ee/fac-arup
+
+# Arup Lal Chakraborty
+
+-  Electrical Engineering
+Arup Lal Chakraborty
+
+## Arup Lal Chakraborty
+
+Professor, Electrical Engineering
+
+- BTech: University of Kalyani, 2000
+- PhD: University of Strathclyde, 2010
+
+Email: arup -AT- iitgn.ac.in
+
+ Website :  http://www.photonicsensorslab.com/
+
+Office:  AB 13/321C
+VOIP:  2412
+
+Invited talks
+
+"Field-deployable calibration-free 1f wavelength modulation spectroscopy systems for trace gas monitoring", Asia Communications and Photonics Conference (ACP 2025), 5-8 Nov 2025, Soochow University, Suzhou, China
+
+"UAV-mounted ambient water vapour sensing using a wavelength modulated DFB laser", 6th International Conference on Fiber Optics and Photonics (Photonics 2024), 12-15 Dec 2024, Indian Institute of Technology Kharagpur, India
+
+"Laser spectroscopy-based air quality monitoring for smart cities", Workshop on Innovative Optical Sensors 2023 (WIOS 2023), 24-25 July 2023, University of Malaya, Kuala Lumpur, Malaysia
+
+"Quantum cascade laser-based mid-infrared calibration-free wavelength modulation spectroscopy", Asia Communications and Photonics Conference - International Conference on Information Photonics and Optical Communications (ACP-IPOC 2020), 24-27 Oct 2020, Beijing (invited), link
+
+"Tunable diode laser spectroscopy - a versatile technique for gas and chemical sensing", 28th DAE-BRNS National Laser Symposium (NLS-28), 8-11 Jan 2020, Vellore, India (invited)
+
+Journal and Conference publications
+
+S De, Ramya S, K T V Grattan and A L Chakraborty, "Detailed analysis of the R1f/ΔI1 WMS technique and demonstration of significantly higher detection sensitivity compared to 2f WMS for calibration-free trace gas sensing", Applied Optics, 62, 3160-3168 (2023)
+Link
+
+C K Jha, K Jajoria, A L Chakraborty and H Shekhar, "A fiber Bragg grating-based sensor for passive cavitation detection at MHz frequencies", IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 69(5), 1682-1690 (May 2022)
+Link
+
+P Ghosh, Varsha T, A Kar, A L Chakraborty and S Khatua, "Light-induced in situ active tuning of the LSPR of gold nanorods over 90 nm", Optics Letters, 46, 4562-4565 (Aug 2021)
+Link
+
+A Roy and A L Chakraborty, "QCL-based open-path, single-pass measurement of ambient carbon monoxide using R1f/ΔI1 WMS", IEEE Photonics Technology Letters, 33(18), 982-985 (15 Sep 2021)
+Link
+
+C K Jha, K Gajapure and A L Chakraborty, "Design and evaluation of an FBG sensor-based glove to simultaneously monitor flexure of ten finger joints", IEEE Sensors Journal, 21(6), 7620-7630 (March 2021)
+Link
+
+Zarin A S, A L Chakraborty, S Khatua, "Time-resolved studies of bioluminescence from Photobacterium leiognathi and antimicrobial susceptibility testing on E. coli using tunable diode laser spectroscopy", IEEE Sensors Journal, 40(19), 11073-11081 (Oct 2020)
+Link
+
+A Roy, A L Chakraborty, "Intensity modulation-normalized calibration-free 1f and 2f wavelength modulation spectroscopy", IEEE Sensors Journal, 20(21), 12691-12701 (Nov 2020)
+Link
+
+Zarin A S, A L Chakraborty and S Khatua, "Correlating microbial bioluminescence to the different phases of growth using a 2004 nm VCSEL-based 2f wavelength modulation spectroscopy", 2021 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (CLEO/Europe-EQEC), 2021, pp. 1-1
+Link
+
+Professor, Indian Institute of Technology Gandhinagar (Oct 2021 to present)
+Associate Professor, Indian Institute of Technology Gandhinagar (Nov 2015 - Oct 2021)
+Assistant Professor, Indian Institute of Technology Gandhinagar (2010 to 2015)
+Research Assistant, Department of Electronic and Electrical Engineering, University of Strathclyde, Glasgow, United Kingdom (2007 to 2010)
+Scientific Officer, Fiber Optics Lab, Solid State Lasers Division, Raja Ramanna Centre for Advanced Technology (RRCAT), Department of Atomic Energy, Indore, India (2001 to 2007)
+
+Awards
+
+Distinguished International Associate of the Royal Academy of Engineering, UK, 2021
+
+2019 Senior Member Optica (formerly Optical Society of America)
+
+Patents
+
+C K Jha and A L Chakraborty, "A system for monitoring hand and finger movements", Indian Patent Office, Complete Patent Application No. 202021029035, filed on 8 July 2021, granted on 9 Jan 2026.
+
+R Jana, A L Chakraborty and Nithin V George, "A fibre optic system for speech detection in noisy environments and a method thereof", Indian Patent Office, Complete Patent Application No. 202521094212, filed on 9 Sep 2025.
+
+- ● Tunable diode laser spectroscopy for gas parameter measurement
+- ● Optical physical and chemical sensing
+
+Complete List of Publications

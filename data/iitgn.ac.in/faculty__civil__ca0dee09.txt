@@ -1,0 +1,260 @@
+Title: IIT Gandhinagar | Civil Engineering
+Source: https://iitgn.ac.in/faculty/civil
+
+# Civil Engineering
+
+##### Back to Faculty
+
+#### Abhishek Singhal
+
+Doctor of Science (Tampere University)
+Assistant Professor
+ Biomass Pretreatment – Leaching, Steam Explosion, Torrefaction and Pelletisation
+
+## Research Interests
+
+- Biomass Pretreatment – Leaching, Steam Explosion, Torrefaction and Pelletisation
+- Thermochemical Conversion Technologies – Pyrolysis, Gasification, Combustion and Hydrothermal Conversion
+- Solid Waste Management and Planning
+- Sustainability (LCA) and Circular Economy (Resource Recovery)
+
+#### Ajanta Sachan
+
+PhD (University of Tennessee at Knoxville)
+Professor
+ Liquefaction & Cyclic instability in soils, Dynamic behavior of soil under Earthquake, Traffic and Vibratory loading
+
+## Research Interests
+
+- Liquefaction & Cyclic instability in soils
+- Dynamic behavior of soil under Earthquake, Traffic and Vibratory loading
+
+#### Amit Prashant
+
+PhD (University of Tennessee at Knoxville)
+BIS STANDARDIZATION CHAIR Professor
+ Constitutive modeling for granular materials, Numerical modeling of geotechnical structures
+
+## Research Interests
+
+- Constitutive modeling for granular materials
+- Numerical modeling of geotechnical structures
+- Earthquake geotechnical engineering
+- Applications of geosynthetics
+
+#### Dhiman Basu
+
+PhD (University at Buffalo)
+Professor
+ Ground motion characterization and seismic hazard, Performance based earthquake engineering
+
+## Research Interests
+
+- Ground motion characterization and seismic hazard
+- Performance based earthquake engineering
+- Complex structures
+- Structural health monitoring
+
+#### G. V. Rao
+
+PhD (IISc Bangalore)
+Visiting Professor
+ Geotechnical testing and evaluation, Design of pavements and quality control check
+
+## Research Interests
+
+- Geotechnical testing and evaluation
+- Design of pavements and quality control check
+
+#### Gaurav Srivastava
+
+PhD (University of Minnesota)
+Dr. Vilas Mujumdar Chair Professor
+ Uncertainty quantification, Structural Fire Engineering, Computational mechanics
+
+## Research Interests
+
+- Uncertainty quantification
+- Structural Fire Engineering
+- Computational mechanics
+
+#### K. Siva Teja Chopperla
+
+PhD (Oregon State University)
+Assistant Professor
+ Low-Carbon Concrete, Concrete Durability, Alternative Supplementary Cementitious Materials, Performance Evaluation of Binders
+
+## Research Interests
+
+- Low-Carbon Concrete
+- Concrete Durability
+- Alternative Supplementary Cementitious Materials
+- Performance Evaluation of Binders
+
+#### Manish Kumar
+
+PhD (University at Buffalo - SUNY)
+Associate Professor
+ Performance-based earthquake engineering, Seismic isolation
+
+## Research Interests
+
+- Performance-based earthquake engineering
+- Seismic isolation
+- Seismic risk assessment
+- Concrete and masonry structures
+- Impact- and blast-resistant design
+- Concrete printing
+- Wind engineering
+- Resilience of lifeline infrastructure
+
+#### Pranab Kumar Mohapatra
+
+PhD (IIT Kanpur)
+Professor
+ Hydraulics and water resources engineering, Transients in pipe flow
+
+## Research Interests
+
+- Hydraulics and water resources engineering
+- Transients in pipe flow
+- Transients in open channel flow
+- Frequency domain analysis in pipe flow
+
+#### Srinivasan Chandrasekaran
+
+PhD (IIT Delhi)
+Professor and Head, Dept of Maritime Engg
+ Research include Offshore Structures and Maritime Structures.
+
+## Research Interests
+
+Research include Offshore Structures and Maritime Structures
+
+#### Sameer Patel
+
+PhD (Washington University in St. Louis)
+Associate Professor
+(Jointly with Chemical Engineering department)
+ Aerosol and air quality, Air pollution control
+
+## Research Interests
+
+- Aerosol and air quality
+- Air pollution control
+- Low-cost air quality monitors
+- Environmental policies and regulations
+
+#### Sharad Kumar Jain
+
+PhD (University of Roorkee)
+Visiting Professor
+ Surface Water Hydrology, Water Resources Planning and Management, Impacts of Climate Change on Water Resources
+
+## Research Interests
+
+- Surface Water Hydrology, Water Resources Planning and Management, Impacts of Climate Change on Water Resources, Applications of Advanced Tools such as AI/ML, Water Governance
+
+#### S R Gandhi
+
+PhD (IIT Madras)
+Visiting Professor
+ Pile Foundation, Ground improvement
+
+## Research Interests
+
+- Pile Foundation
+- Ground improvement
+- Field Instrumentation
+- Fly ash disposal
+
+#### Subhasish Dey
+
+PhD (IIT Kharagpur)
+Visiting Professor
+ Analytical Hydrodynamics, Turbulence, Fluvial Hydraulics, Shallow fluid flows
+
+## Research Interests
+
+- Analytical Hydrodynamics
+- Turbulence
+- Fluvial Hydraulics
+- Shallow fluid flows
+
+#### Sudhir Kumar Arora
+
+MBA (KSOU)
+Professor of Practice
+ Infrastructure Development, Water Supply (Urban/Rural), Sewer networks and STPs
+
+## Research Interests
+
+- Infrastructure Development
+- Water Supply (Urban/Rural)
+- Sewer networks and STPs
+- Reuse of treated effluent
+- Low Cost Sanitation
+- Rain water Harvesting
+- Area Drainage
+- SPV Projects
+- Energy Efficiency and Computer simulation of dispersion of pollutants
+- Preparation of DPR for reuse of treated sewage
+- Development of river front including EIA
+
+#### Sushobhan Sen
+
+PhD (University of Illinois at Urbana-Champaign)
+Assistant Professor
+ Laboratory and computational characterization of pavements
+
+## Research Interests
+
+- Laboratory and computational characterization of pavements
+- Collection of in-situ climate data to incorporate local climatic effects into design
+- Assessment of the effect of climate change and extreme events on infrastructure performance, sustainability, and
+ resilience
+
+#### Udit Bhatia
+
+PhD (Northeastern University)
+Pandya-Shivpuri Chair Associate Professor
+(Jointly with Computer Science and Engineering department)
+(Affiliated to Artificial Intelligence, Earth Sciences discipline)
+ Physics Guided Machine Learning for Urban Flooding
+
+## Research Interests
+
+- Physics Guided Machine Learning for Urban Flooding
+- Food-Water Nexus
+- Resilience of Built and Natural Systems
+- Climate Variability and Change
+- Applied Networks
+
+#### Vimal Mishra
+
+PhD (Purdue University)
+Vikram Sarabhai Chair Professor
+(Jointly with Earth Sciences department)
+ Surface water hydrology, Climate variability and climate change
+
+## Research Interests
+
+- Surface water hydrology
+- Climate variability and climate change
+- Global food and water security
+- Water resources management
+- Large scale hydrologic modeling
+
+#### Vivek P. Kapadia
+
+Master of Laws (Gujarat University)
+Professor of Practice
+ Water Resource Engineering and Management, Policy making and System/ Institution designing
+
+## Research Interests
+
+- Water Resource Engineering and Management
+- Policy making and System/ Institution designing
+- Application of Geosynthetics in Civil Engineering
+- Project and Contract Management
+- Techno-legal solutions

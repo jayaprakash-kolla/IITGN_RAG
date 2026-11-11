@@ -1,0 +1,41 @@
+Title: IIT Gandhinagar | Parthasarathi Mukhopadhyay
+Source: https://iitgn.ac.in/faculty/guestprof/parthasarathi
+
+# Parthasarathi Mukhopadhyay
+
+-  Guest Professors
+Parthasarathi Mukhopadhyay
+
+## Parthasarathi Mukhopadhyay
+
+Guest Professor, Earth Sciences
+
+- BSc: University of Calcutta, 1985
+- MSc: University of Calcutta, 1988
+- MTech: University of Calcutta, 1991
+- PhD: Indian Institute of Tropical Meteorology University of Pune, 2005
+
+Mukhopadhyay P., Prasad V.S., Krishna R.P.M., Deshpande M., Ganai M., Tirkey S., Sarkar S., Goswami T., Johny C.J., Roy K., Mahakur M., Durai V.R., M Rajeevan, 2019: Performance of a very high-resolution global forecast system model (GFS T1534) at 12.5 km over the Indian region during the 2016–2017 monsoon seasons, Journal of Earth System Science, 128, August 2019, DOI:10.1007/s12040-019-1186-6, 1-18
+
+Ganai, M., Krishna, R. P. M., Tirkey, S., Mukhopadhyay, P., Mahakur, M., & Han, J.‐Y. (2019). The impact of modified fractional cloud condensate toprecipitation conversion parameter inrevised simplified Arakawa‐Schubert convection parameterization schemeon the simulation of Indian summer Monsoon and its forecast application on an extreme rainfall event over Mumbai. Journ al of Geophysical Research: Atmospheres, May, 124. https://doi.org/10.1029/2019JD030278, 1-21
+
+Ganai M., Mukhopadhyay P., Phani Murali Krishna R., Abhik S., Halder M., 2019: Revised cloud and convective parameterization in CFSv2 improve the underlying processes for northward propagation of Intraseasonal oscillations as proposed by the observation-based study. Climate Dynamics, online, February 2019, DOI:10.1007/s00382-019-04657-9, 1-13
+
+Abhik S., Krishna R.P.M., Mahakur M., Ganai M., Mukhopadhyay P., Dudhia J., 2017: Revised cloud processes to improve the mean and intraseasonal variability of Indian summer monsoon in climate forecast system: Part 1, Journal of Advances in Modeling Earth Systems, 9, May 2017, DOI:10.1002/2016MS000819, 1-28
+
+Scientist E, Indian Institute of Tropical Meteorology Pune (Jul 2015 - Jul 2020)
+
+Scientist D, Indian Institute of Tropical Meteorology Pune (Jul 2011 - Jun 2015)
+
+Scientist C, Indian Institute of Tropical Meteorology Pune (Jun 2007 - Jun 2011)
+
+Scientist B, Indian Institute of Tropical Meteorology Pune (May 2004 - May 2007)
+
+Junior Scientific Officer, Indian Institute of Tropical Meteorology Pune (May 1999 - May 2004)
+
+Senior Scientific Assistant, Indian Institute of Tropical Meteorology Pune (May 1994 - May 1999)
+
+- ● Numerical Weather Prediction
+- ● development of parameterization particularly the cloud and convective process in numerical model
+- ● development of high resolution model
+- ● Predicting extreme precipitation events and modelling mesoscale systems/processes

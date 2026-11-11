@@ -1,0 +1,48 @@
+Title: IIT Gandhinagar | Bhaskar Datta
+Source: https://iitgn.ac.in/faculty/bioe/fac-bhaskar
+
+# Bhaskar Datta
+
+-  Biological Sciences and Engineering
+Bhaskar Datta
+
+## Bhaskar Datta
+
+Professor, Chemistry
+(Jointly with Biological Sciences and Engineering department)
+
+- BSc(Hons): St. Stephen's College, University of Delhi, 1997
+- MSc: Indian Institute of Technology, Kanpur, 1999
+- PhD: Carnegie Mellon University, Pittsburgh, 2004
+
+Email: bdatta -AT- iitgn.ac.in
+
+Office:  AB 4/407
+VOIP:  2427
+
+- Singh, D.; Shukla, C.; Datta, B. (2025) Putative G-Quadruplex Structures in Dysregulated Long Non-coding RNA of Ovarian Cancer and Their Binding Interactions with Human Serum Albumin, ACS Omega, 10, 25376.
+- Patel, A.; Datta, B. (2025) Sequestration of acrylamide as amino acid-acrylamide adducts mitigates cellular stress in human gastrointestinal cell lines, Food & Function, 16, 5435.
+- Sharma, S.; Hassan, M. Y.; Barbhuiya, N. H.; Mansukhbhai, R. H.; Shukla, C.; Singh, D.; Datta, B. (2025) A Dataset Curated for the Assessment of G4s in the LncRNAs Dysregulated in Various Human Cancers, Scientific Data, 12, 849.
+- Mondal, H., Kaushal, C., Sankaranarayanan, S., Datta, B. (2025) Nanoscale non-biochar formulations of banana peel layers for comparison of in vitro adsorption and release of ammonium with demonstration of fertilizing action, Bioresource Technology Reports, 29, 102052.
+- Choubey, R., Chatterjee, M., Pandey, P. K., Mishra, A., Datta, B. (2024) Coassembly of Cell-Penetrating Peptide Octaarginine with Acetazolamide: Emergent Interactions with E. coli, ACS Omega, 9, 46204-46216.
+- Choubey, R., Chatterjee, M., Johnson, D., Thiruvenkatam, V., Kumawat, A., Mishra, A., Datta, B. (2024) Tunable Coassembly of Octaarginine with Thiazolyl Benzenesulfonamides Exerts Variable Antibacterial Activity, J. Phys. Chem. B, 128, 10434-10450.
+- Mondal, H., Karmakar, M., Datta, B. (2024) Ligand-selective turn-off sensing, harvesting and post adsorptive use of Dy(III) and Yb(III) by intrinsically flower-shaped Gum Acacia-grafted hydrogels, Scientific Reports, 14, 18373.
+
+- Professor, Indian Institute of Technology, Gandhinagar (Aug 2025 to present)
+- Associate Professor, Indian Institute of Technology, Gandhinagar (Jan 2018 - Aug 2025)
+- Assistant Professor, Indian Institute of Technology, Gandhinagar (Dec 2011 - Jan 2018)
+- Assistant Professor, Missouri State University, (Jun 2008 - Dec 2011)
+- Postdoctoral Fellow, Georgia Institute of Technology, School of Chemistry & Biochemistry, (Jun 2004 - May 2008)
+- Graduate Research Assistant, Carnegie Mellon University, Department of Chemistry, (Sep 1999 - May 2004)
+
+Patents
+
+- Kumar, S.; Sharma, P. and Datta, B. (2023) Nanobiocatalyst for Detection of Organophosphorus Herbicide, Indian Patent No. 418926.
+- Aptamer-based device for detection of cancer markers and methods of use (2012), Wanekaya, A; Delong, R. and Datta, B. U.S. Pat. 20120088232.
+
+- ● Food biochemistry, applied nutrition, food product development
+- ● Synthetic and composite adsorbent materials for environmental mitigation
+- ● Discovery, characterization and targeting of DNA and RNA G-quadruplexes
+- ● Long non-coding RNA informatics
+- ● Small molecule-peptide hybrid antimicrobials
+- ● Capture and recycle of rare earth elements, and recycling of ammonium

@@ -1,0 +1,20 @@
+# Ingestion
+ftfy
+datasketch
+langchain-text-splitters
+transformers
+
+# Embeddings
+python-dotenv
+numpy
+sentence-transformers
+google-genai
+
+# Vector database
+qdrant-client
+
+# Retrieval
+rank-bm25
+
+# Generation (Gemini uses google-genai above; requests talks to Ollama)
+requests

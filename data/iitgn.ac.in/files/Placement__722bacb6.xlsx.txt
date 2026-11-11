@@ -1,0 +1,121 @@
+#flags:
+
+## Sheet: B.Tech
+Parameter | Placement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+3A.GPHE | S.No. | Academic Year | Name of the Company | No of students recruited (offers made by the company) | Minimum salary Offered | Maximum salary offered | Average salary offered | Median salary offered |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ | 1 | 2015-16 | 1. Coal India | 5 | 3.75 | 19 | 7.58 | 6.85 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 2. TATA Motors | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 3. Cognizant Technology Solutions | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 4. BPCL | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 5. ZS Associates | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 6. HSBC | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 7. Testbook | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 8. Innoplexus | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 9. Resonance Eduventures Ltd | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 10. Piramal Foundation for Edu. Leadership & Kaivalya Edu. Foundation | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 11. Endurance | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 12. Hospira Healthcare India Pvt. Ltd | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 13. ITC Ltd. (PPO) | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 14. United Health Group | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 15. Maccademia | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 16. HDFC | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 17. Samsung | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 18. Innovaccer | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 19. L&T Construction | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 20. Rsystems | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 21. Wipro | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 22. Rematerials | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 23. Mphasis | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 24. Bharat Forge | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 25. Mahindra | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 26. Sjain | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 27. TCS | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 28. IPAC | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 29. Reliance Industries Ltd. (PPO) | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 30. Dabur | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ | 2 | 2014-15 | 1. EClerx Services Ltd. | 14 | 4.5 | 15 | 7.6 | 6.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 2. Cognizant Technology Solutions | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 3. TATA Motors | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 4. Flipkart | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 5. GSFC Ltd. | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 6. Mahindra | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 7. DRDO | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 8. R Systems | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 9. GAnts | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 10. The Indian Steel & Wire Products Limited ( A Sub. Of TATA Steel Ltd. ) | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 11. BPCL | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 12. Bharat Forge | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 13. ITC Infotech | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 14. Hospira Healthcare India Pvt. Ltd | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 15. Texas Instruments | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 16. TATA Power | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 17. Future First Info Services Pvt. Ltd. | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 18. Avanti | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 19. Reliance Industries Ltd. | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 20. Maruti | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 21. Toppr | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ | 3 | 2013-14 | 1. EClerx Services Ltd. | 15 | 3.8 | 12 | 6.97 | 6.25 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 2. DRDO | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 3. Cognizant Technology Solutions | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 4. GSFC Ltd. | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 5. Altair Engineering India Pvt. Ltd. | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 6. Dover Corporation | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 7. Larsen and Toubro | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 8. Goldman Sachs | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 9. Hospira Healthcare India Pvt. Ltd | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 10. Hero Moto Corp | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 11. The Indian Steel & Wire Products Limited ( A Sub. Of TATA Steel Ltd. ) | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 12. Ricoh Innovations | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 13. Tirth Agro Technology Pvt. Ltd. | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 14. Alkyl Amines Chemicals Ltd | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 15. XScire Technologies Private Ltd. | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 16. Polyplex Corporation Limited | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 17. AVTEC Ltd. | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 18. Reliance Industries Ltd. | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 19. Timetooth Technologies | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 20. Ishi Systems | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 21. National Instruments | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## Sheet: M.Tech
+Parameter | Placement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+3A.GPHE | S.No. | Academic Year | Name of the Company | No of students recruited (offers made by the company) | Minimum salary Offered | Maximum salary offered | Average salary offered | Median salary offered |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ | 1 | 2015-16 | 1. Silver Oak College of Engineering & Technology | 8 | 3.6 | 16.01 | 6.31 | 5.04 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 2. Cognizant Technology Solutions | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 3. Intas | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 4. Texas Instruments | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 5. Resonance Eduventures Ltd | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 6. Maccademia | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 7. Arvind Infrastructure | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 8. RKC | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 9. Mahindra | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 10. Testbook | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 11. Piramal Foundation for Edu. Leadership & Kaivalya Edu. Foundation | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 12. Dholera Industrial City Development Limited | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 13. AITS | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 14. Hospira Healthcare India Pvt. Ltd | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 15. Linde | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ | 2 | 2014-15 | 1. Kanha Plastics | 3 | 4 | 6.5 | 5.12 | 5.25 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 2. CQRA | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 3. Linde | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 4. Parul Group of Institutes | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 5. Bombardier Transportation India Pvt. Ltd. | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 6. Cognizant Technology Solutions | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 7. Hospira Healthcare India Pvt. Ltd | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 8. Fundamental Eduventures | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ | 3 | 2013-14 | 1. Bombardier Transportation India Pvt. Ltd. | 4 | 4.8 | 10.5 | 6.46 | 5.18 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 2. GSFC Ltd. | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 3. Polyplex Corporation Limited | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 4. ITM Universe | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 5. Hospira Healthcare India Pvt. Ltd | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ |  |  | 6. XScire Technologies Private Ltd. | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## Sheet: M.Sc
+Parameter | Placement |  |  |  |  |  |  |
+3A.GPHE | S.No. | Academic Year | Name of the Company | No of students recruited (offers made by the company) | Minimum salary Offered | Maximum salary offered | Average salary offered | Median salary offered
+ | 1 | 2015-16 | 1. Cognizant Technology Solutions | 2 | 6.5 | 6.5 | 6.5 | 6.5
+## Sheet: MASC
+Parameter | Placement |  |  |  |  |  |  |
+3A.GPHE | S.No. | Academic Year | Name of the Company | No of students recruited (offers made by the company) | Minimum salary Offered | Maximum salary offered | Average salary offered | Median salary offered
+ | 1 | 2015-16 | 1. IPAC | 1 | 3.84 | 7.2 | 5.28 | 4.8
+ |  |  | 2. Chattisgarh Social Audit Unit | 1 |  |  |  |
+ |  |  | 3. Sajeevta Foundation | 1 |  |  |  |
+## Sheet: Sheet2
+## Sheet: Sheet3

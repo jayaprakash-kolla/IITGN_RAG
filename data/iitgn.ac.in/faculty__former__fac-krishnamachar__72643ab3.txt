@@ -1,0 +1,69 @@
+Title: IIT Gandhinagar | Krishnamachar Prasad
+Source: https://iitgn.ac.in/faculty/former/fac-krishnamachar
+
+# Krishnamachar Prasad
+
+-  Former Faculty Members
+Krishnamachar Prasad
+
+## Krishnamachar Prasad
+
+Visiting Professor, Electrical Engineering
+
+- BE: Bangalore University, Bangalore
+- ME: Indian Institute of Technology, Madras
+- PhD: University of Western Australia, Australia
+
+Email: krishnamachar.prasad -AT- iitgn.ac.in
+
+D.K. Nair, K. Prasad and T.T. Lie, Standalone Electric Vehicle Charging Station using an Isolated
+ Bidirectional Converter with Snubber, Energy Storage, 2021:e255, (10 pages) DOI:10.1002/est2.255.
+ (https://doi.org/10.1002/est2.255)
+
+Ning Ding, K. Prasad and T.T. Lie, Design of a Hybrid Energy Management System Using
+ Designed Rule‐Based Control Strategy and Genetic Algorithm for the Series‐parallel Plug‐in
+ Hybrid Electric Vehicle, International Journal of Energy Research, pp. 1‐18, 2020 DOI:
+ 10.1002/er.5808).
+
+Ning Ding, K. Prasad, T.T. Lie and J. Cui, State of charge estimation of a composite lithium‐based
+ battery model based on an improved extended Kalman filter algorithm, Inventions, Vol. 4 , 66 (20
+ pages), 2019 (doi:10.3390/inventions4040066).
+
+R. Kulkarni, K. Prasad, T.T. Lie, R.A. Badcock, C.W. Bumby and H.J. Sung, Design Improvisation
+ for Reduced Harmonic Distortion in a Flux Pump Integrated HTS Generator, Energies, Vol. 10,
+ 1344 (14 pages), 2017.
+
+P. Balasubramanian and K. Prasad, Latency optimized asynchronous early output ripple carry
+ adder based on delay‐insensitive dual‐rail data encoding, International Journal of Circuits, Signals
+ and Signal Processing, Vol. 11, pp. 65‐74, 2017.
+
+Visiting Professor, Indian Institute of Technology Gandhinagar, (Aug 2022 to Present)
+
+Professor, Department of Electrical and Electronic Engineering, AUT (2011 – present)
+
+Professor and Head, Department of Electrical and Electronic Engineering & Associate Head, School of Engineering, AUT (2008 – 2010)
+
+Associate Professor, School of Engineering, AUT & Program Leader, BE (Electrical and Electronic Engineering) (2006 – 2007)
+
+Lecturer, Senior Lecturer, Associate Professor, School of Electrical & Electronic Engineering, Nanyang Technological University, Singapore (1992 – 2006)
+
+Research Fellow, Department of Electrical & Electronic Engineering, The University of Western Australia, Perth, Australia (1990 – 1992)
+
+Tutor and Demonstrator, Department of Electrical & Electronic Engineering, The University of Western Australia (1987‐1990)
+
+Research Assistant, Department of Electrical Engineering, National University of Singapore, Singapore (1983‐1987)
+
+- ● Solid state sensors for odor, color and chemical profiling for (NZ) food and wine industry
+- ● Use of high‐temperature superconductors in transformers and rotating electrical machines
+- ● Surface electromyography
+- ● Renewable energy
+- ● Electric vehicles
+- ● Development of Cu metallization for DSICs
+- ● Development of 3‐dimensional interconnects
+- ● Cu/low‐k interconnect technology for DSICs
+- ● Studies of Cu contamination effects on reliability of CMOS devices
+- ● Reliability studies of different kinds of solid state devices and ICs as well as reliability modeling
+- ● Development of process technology for Silicon ICs, III‐V HEMTs, HBTs and MMICs
+- ● Infra‐red photo detectors on Mercury Cadmium Telluride
+
+Complete List of Publications

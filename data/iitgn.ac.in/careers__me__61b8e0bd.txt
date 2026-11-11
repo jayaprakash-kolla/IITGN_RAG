@@ -1,0 +1,35 @@
+Title: IIT Gandhinagar | Mechanical Engineering
+Source: https://iitgn.ac.in/careers/me
+
+# Mechanical Engineering
+
+- Careers
+Mechanical Engineering
+
+The department of Mechanical Engineering at IITGN was started in 2008 with undergraduate and Ph.D. programs which was expanded in 2012 to include M.Tech. program in Mechanical Engineering. The department currently hosts research activities which can be broadly classified into:
+
+- Fluid-thermal sciences
+- Combustion and energetic materials
+- Energy systems
+- Controls
+- Biomechanics
+- Computational solid and structural mechanics
+- Linear and Nonlinear Dynamics and Vibrations
+- Wave Propagation in Solids and Acoustic Metamaterials
+- Experimental Structural Dynamics
+- Laser based Manufacturing
+The research facilities, which are continuously being upgraded, currently include:
+
+- High-performance computing lab with both GPU and CPU-based clusters
+- Software licences including but not limited to MATLAB and Simulink, NI LabView, Fluent, Ansys, ADAMS Car, QUARC, ABAQUS, etc.
+- Several stand-alone workstations
+- Energy systems lab with state-of-the-art safety systems
+- Low-speed wind tunnel
+- Machine shop & manufacturing facilities with computer-aided milling machine, CNCs, rapid prototyping machine, friction stir welding, etc.
+- Design studio
+- Basic mechanics lab
+- Bench-top Control system experiments
+- Dynamics and Vibrations Lab (1.6kN vibration shaker, 200N modal exciter and necessary controller hardware and software, data acquisition systems, accelerometers, dynamic force sensors, stroboscope, impact hammers for conducting dynamic signal analysis, modal analysis and vibration testing)
+In order to meet current and future research and teaching requirements, the department of Mechanical Engineering at IIT Gandhinagar seeks outstanding applicants from all areas of Mechanical Engineering to fill multiple positions at all levels.
+
+For queries or information regarding faculty recruitment specifically in Mechanical Engineering at IITGN, please contact Prof. Harmeet Singh [[email protected]]. For general questions related to faculty recruitment at IITGN, please write to [email protected]
