@@ -184,7 +184,8 @@ def run_embeddings():
     print("starting the embeddings")
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, help="embed only this many chunks, for testing")
-    args = parser.parse_args()
+    # parse_known_args skips the "index" command that main.py receives
+    args, _ = parser.parse_known_args()
 
     chunks = load_chunks(args.limit)
     print(f"Provider: {EMBEDDING_PROVIDER}, chunks: {len(chunks)}")

@@ -18,3 +18,6 @@ rank-bm25
 
 # Generation (Gemini uses google-genai above; requests talks to Ollama)
 requests
+
+# Frontend (python main.py)
+streamlit

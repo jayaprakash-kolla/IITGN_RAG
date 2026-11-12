@@ -222,7 +222,7 @@ class Retriever:
         print("Opening the vector database")
         self.client = connect()
         if not self.client.collection_exists(COLLECTION):
-            raise SystemExit(f"Collection {COLLECTION} not found, run python main.py first")
+            raise SystemExit(f"Collection {COLLECTION} not found, run python main.py index first")
 
         print("Loading the embedding model and the reranker")
         self.embed_query = create_query_embedder()

@@ -7,7 +7,7 @@ Input : output/chunks.jsonl
 Output: Qdrant collection named iitgn__<provider>__<model>, saved in the
         qdrant_db folder (or on a Qdrant server if QDRANT_URL is set in .env)
 
-Run: python main.py
+Run: python main.py index
 """
 
 import json
