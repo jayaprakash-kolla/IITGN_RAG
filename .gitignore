@@ -8,3 +8,4 @@ __pycache__/
 # Generated files
 output/
 qdrant_db/
+CHAT_SUMMARY.md
